@@ -1,0 +1,136 @@
+{
+  "id": 101785271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1036943.562694,
+    "geom:bbox":"18.4125858687,48.3447747966,18.4246586399,48.3655475108",
+    "geom:latitude":48.354498,
+    "geom:longitude":18.418133,
+    "iso:country":"SK",
+    "lbl:latitude":48.35072,
+    "lbl:longitude":18.417722,
+    "mps:latitude":48.35072,
+    "mps:longitude":18.417722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:cze_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:hbs_x_preferred":[
+        "\u010cjernje Klja\u010dani"
+    ],
+    "name:hun_x_preferred":[
+        "Feketekelecs\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:may_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0458\u0435\u0440\u045a\u0435 \u041a\u0459\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "\u010cierne K\u013ea\u010dany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zlat\u00e9 Moravce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Zlat\u00e9 Moravce",
+    "qs:la_lc":"*SK237500968",
+    "qs:level":"locality",
+    "qs:loc":"\u010cierne K\u013ea\u010dany",
+    "qs:loc_alt":"Cierne Klacany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402613,
+        "qs:id":5,
+        "wd:id":"Q341465"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ec8bce0293cdd7b485ea467cd4d92ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":101785271,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101785271,
+    "wof:lastmodified":1527684900,
+    "wof:name":"\u010cierne K\u013ea\u010dany",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41258586866832,
+    48.34477479664537,
+    18.42465863985495,
+    48.36554751083662
+],
+  "geometry": {"coordinates":[[[18.41647573296564,48.36166831568522],[18.42050121146212,48.36136092251832],[18.42065124966587,48.36225389797653],[18.42333492391242,48.36204888373379],[18.42318483896031,48.36115591246721],[18.42452664525734,48.36105338306021],[18.42407636079497,48.35837447171838],[18.42139288346431,48.35857950170197],[18.42124284888723,48.35768652578565],[18.41990112614167,48.357789014302],[18.41930114878977,48.35421709587092],[18.42198440237303,48.35401211934732],[18.42153435001194,48.35133318638918],[18.4228758992648,48.3512306800356],[18.42212583013463,48.3467657894688],[18.42346725762621,48.34666327734146],[18.42331724068367,48.34577029940613],[18.42465863985495,48.345667773125],[18.42450860630441,48.34477479664537],[18.42182584970709,48.3449798287682],[18.4219758365482,48.34587280943805],[18.41929301338774,48.34607778075622],[18.41944296026134,48.34697076497594],[18.41541861823657,48.3472781063665],[18.41526874143563,48.34638511586542],[18.41258586866832,48.34658992469201],[18.41378469805358,48.3537338643132],[18.41512632381267,48.3536314512794],[18.41527623118634,48.35452443876625],[18.4179595145518,48.35431955975503],[18.41840941734199,48.35699850582],[18.4157259937673,48.35720339739697],[18.41587592811629,48.35809638233081],[18.41453418551339,48.35819880583335],[18.41513389686992,48.36177074756472],[18.41379205581029,48.36187316318916],[18.41394197713595,48.36276614912128],[18.41260010773692,48.36286855058461],[18.41304984205158,48.36554751083662],[18.41707564576205,48.3652402388318],[18.41647573296564,48.36166831568522]]],"type":"Polygon"}
+}

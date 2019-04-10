@@ -1,0 +1,68 @@
+{
+  "id": 1225849677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72593,48.9587,20.72593,48.9587",
+    "geom:latitude":48.9587,
+    "geom:longitude":20.72593,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hincovce",
+    "gn:country_code":"SK",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724712,
+    "gn:latitude":48.9587,
+    "gn:longitude":20.72593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hincovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724712,
+        "wk:page":"Hincovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6a98fe19ff7a0068faa4b893d64d35cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":1225849677,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1225849677,
+    "wof:lastmodified":1537573580,
+    "wof:name":"Hincovce",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72593,
+    48.9587,
+    20.72593,
+    48.9587
+],
+  "geometry": {"coordinates":[20.72593,48.9587],"type":"Point"}
+}

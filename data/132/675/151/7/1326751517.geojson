@@ -1,0 +1,72 @@
+{
+  "id": 1326751517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64634,48.57406,17.64634,48.57406",
+    "geom:latitude":48.57406,
+    "geom:longitude":17.64634,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dolny Lopasov",
+    "gn:country_code":"SK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060402,
+    "gn:latitude":48.57406,
+    "gn:longitude":17.64634,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00fd Lopa\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00ed Lopa\u0161ov",
+        "Doln\u00fd Lopa\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060402,
+        "wk:page":"Doln%C3%BD_Lopa%C5%A1ov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"86f36550e9f9587ef62970daa54bfb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080495,
+            "locality_id":1326751517,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1326751517,
+    "wof:lastmodified":1537700427,
+    "wof:name":"Dolny Lopasov",
+    "wof:parent_id":102080495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64634,
+    48.57406,
+    17.64634,
+    48.57406
+],
+  "geometry": {"coordinates":[17.64634,48.57406],"type":"Point"}
+}

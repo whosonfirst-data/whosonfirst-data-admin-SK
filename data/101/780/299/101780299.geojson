@@ -1,0 +1,134 @@
+{
+  "id": 101780299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1136561.637552,
+    "geom:bbox":"21.9109946032,48.6977540038,21.9313633163,48.712205585",
+    "geom:latitude":48.704244,
+    "geom:longitude":21.922524,
+    "iso:country":"SK",
+    "lbl:latitude":48.704362,
+    "lbl:longitude":21.924376,
+    "mps:latitude":48.704362,
+    "mps:longitude":21.924376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:ces_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:cze_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:dut_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:eng_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:epo_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:fra_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:fre_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:hbs_x_preferred":[
+        "Lastomir"
+    ],
+    "name:hun_x_preferred":[
+        "Lasztom\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:may_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:msa_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:nld_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:pol_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:slo_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441\u0442\u043e\u043c\u0438\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441\u0442\u043e\u043c\u0456\u0440"
+    ],
+    "name:war_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Michalovce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Michalovce",
+    "qs:la_lc":"*SK427522279",
+    "qs:level":"locality",
+    "qs:loc":"Lastom\u00edr",
+    "qs:loc_alt":"Lastomir",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724317,
+        "gp:id":820569,
+        "qs:id":1271351,
+        "wd:id":"Q1073566"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dde4d75a8c7b11cc4878d2fd504d5413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":101780299,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780299,
+    "wof:lastmodified":1527715876,
+    "wof:name":"Lastom\u00edr",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91099460321578,
+    48.69775400375653,
+    21.93136331632911,
+    48.71220558500249
+],
+  "geometry": {"coordinates":[[[21.92630359110791,48.7119154063783],[21.92608910615684,48.71102936302333],[21.92743302998434,48.7108842523956],[21.9272185316039,48.70999821110678],[21.9299063117536,48.70970794722234],[21.92797584523828,48.7017335881842],[21.92931951696733,48.70158845875375],[21.9288905844183,48.69981637488712],[21.93023420289774,48.69967123522025],[21.93001972802841,48.69878519489572],[21.93136331632911,48.698640042016],[21.93114882804207,48.69775400375653],[21.92711811100634,48.69818940489159],[21.92733253009402,48.69907545208343],[21.92598892046158,48.69922055639069],[21.92620332612705,48.70010660564685],[21.92082872423549,48.70068687286818],[21.92061441084854,48.69980081170718],[21.91792711340139,48.70009084221596],[21.91771285579614,48.69920477419328],[21.91502557607191,48.69949473398526],[21.91481137424586,48.69860865910232],[21.91212411225229,48.69889854817933],[21.91233826793604,48.69978462900951],[21.91099460321578,48.69992955223353],[21.91120874546209,48.70081563512628],[21.91255243325566,48.70067070892901],[21.91276660821057,48.70155678793742],[21.91411031197504,48.70141184257375],[21.91496720046922,48.70495613760278],[21.9136234044019,48.70510109486304],[21.91383762754566,48.70598716931738],[21.92055665220926,48.70526220620224],[21.92205729199327,48.71146459773308],[21.92340123716031,48.71131953569216],[21.923615675946,48.71220558500249],[21.92630359110791,48.7119154063783]]],"type":"Polygon"}
+}

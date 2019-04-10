@@ -1,0 +1,147 @@
+{
+  "id": 101780233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1146566.528796,
+    "geom:bbox":"21.7259415639,48.5735372714,21.7463444617,48.5893221758",
+    "geom:latitude":48.581924,
+    "geom:longitude":21.737494,
+    "iso:country":"SK",
+    "lbl:latitude":48.583975,
+    "lbl:longitude":21.737649,
+    "mps:latitude":48.583975,
+    "mps:longitude":21.737649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:ces_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:cze_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:deu_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:dut_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:epo_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:fre_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:ger_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:hun_x_preferred":[
+        "Hardicsa"
+    ],
+    "name:ita_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:may_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:msa_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:nan_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:nld_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:pol_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:rue_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0435 \u0413\u0440\u0430\u0434\u0457\u0448\u0442\u0454"
+    ],
+    "name:slo_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0438\u043d\u0441\u043a\u0435 \u0425\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0435 \u0413\u0440\u0430\u0434\u0456\u0448\u0442\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Hardi\u0161te"
+    ],
+    "name:war_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Zempl\u00ednske Hradi\u0161te",
+    "qs:la_lc":"*SK42B544027",
+    "qs:level":"locality",
+    "qs:loc":"Zempl\u00ednske Hradi\u0161te",
+    "qs:loc_alt":"Zemplinske Hradiste",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723067,
+        "gp:id":823369,
+        "qs:id":1271956,
+        "wd:id":"Q189397",
+        "wk:page":"Zempl\u00ednske Hradi\u0161te"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"948a5daa1bbbb7b3a7765b1e18a23d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101780233,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780233,
+    "wof:lastmodified":1527715868,
+    "wof:name":"Zempl\u00ednske Hradi\u0161te",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72594156394598,
+    48.57353727143754,
+    21.74634446172757,
+    48.58932217577478
+],
+  "geometry": {"coordinates":[[[21.73990311126727,48.58917938586512],[21.73969275121345,48.58829286412873],[21.74103386104588,48.58815006097808],[21.74061312330878,48.58637702065107],[21.74195418021964,48.58623420718141],[21.74153343430328,48.58446116910079],[21.74287443829735,48.58431834531297],[21.74245368420537,48.58254530947784],[21.7437946352876,48.58240247537276],[21.74337387302438,48.58062944178278],[21.74471477120034,48.58048659736119],[21.74408362971974,48.5778270489933],[21.74542445202411,48.5776841971774],[21.7450036923172,48.57591116627611],[21.74634446172757,48.57576830414564],[21.74592369386045,48.57399527548716],[21.74190150256715,48.57442379587951],[21.74169120169552,48.57353727143754],[21.73900975199979,48.57382286507413],[21.74006112107514,48.57825550749078],[21.73603854984702,48.57868382056165],[21.73645902571644,48.58045688875279],[21.72707246124997,48.58145576120774],[21.72728255250189,48.58234231438581],[21.72594156394598,48.58248494872748],[21.7265718253567,48.5851446116265],[21.72925393340614,48.58485930927566],[21.72946408537467,48.5857458559434],[21.73348726426548,48.58531777244815],[21.73411798364265,48.58797738079079],[21.73545909831654,48.58783464520991],[21.73566937997407,48.58872117660718],[21.73835163442374,48.58843565111738],[21.73856197149343,48.58932217577478],[21.73990311126727,48.58917938586512]]],"type":"Polygon"}
+}

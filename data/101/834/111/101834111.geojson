@@ -1,0 +1,135 @@
+{
+  "id": 101834111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1179051.082605,
+    "geom:bbox":"18.219709961,48.1434811432,18.233198382,48.1671907592",
+    "geom:latitude":48.156699,
+    "geom:longitude":18.225795,
+    "iso:country":"SK",
+    "lbl:latitude":48.155249,
+    "lbl:longitude":18.224211,
+    "mps:latitude":48.155249,
+    "mps:longitude":18.224211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:hbs_x_preferred":[
+        "\u010cernjik"
+    ],
+    "name:hun_x_preferred":[
+        "Csornok"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:may_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u045a\u0438\u043a"
+    ],
+    "name:war_x_preferred":[
+        "\u010cern\u00edk"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010cern\u00edk",
+    "qs:la_lc":"*SK234503126",
+    "qs:level":"locality",
+    "qs:loc":"\u010cern\u00edk",
+    "qs:loc_alt":"Cernik",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060775,
+        "gp:id":818920,
+        "qs:id":1270978,
+        "wd:id":"Q874540",
+        "wk:page":"\u010cern\u00edk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d40a6ef59d679ef166213ffe204551c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101834111,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101834111,
+    "wof:lastmodified":1527642933,
+    "wof:name":"\u010cern\u00edk",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21970996101737,
+    48.14348114320319,
+    18.23319838195789,
+    48.16719075919281
+],
+  "geometry": {"coordinates":[[[18.22956277480142,48.1442880501549],[18.22826266452421,48.14348114320319],[18.22717327746824,48.14356272868804],[18.22731891158776,48.14445610746111],[18.22598247975003,48.14455617817924],[18.22612809723933,48.14544955834941],[18.22479163745345,48.14554961491763],[18.22493723831087,48.14644299648489],[18.22360075057543,48.14654303890245],[18.22389192554544,48.14832980419482],[18.22255538670191,48.14842983449404],[18.22313772227335,48.15200336557825],[18.22046444492167,48.15220339388452],[18.2210466995445,48.15577693105968],[18.21970996101737,48.15587692906422],[18.22043781021159,48.16034384639784],[18.22177466458709,48.16024383822702],[18.2220658962749,48.16203059664542],[18.22340279219986,48.16193056821737],[18.2235484410067,48.16282394443925],[18.22488535530806,48.16272389778669],[18.22561381314063,48.16719075919281],[18.23096188587851,48.16679036997039],[18.23081608854005,48.16589700710261],[18.23215307154084,48.16579687135425],[18.23186145011232,48.16401014778387],[18.23319838195789,48.16390999991773],[18.23290674031779,48.16212327787662],[18.23156985481984,48.16222342166964],[18.23142406697355,48.16133005765857],[18.22875032791654,48.16153029260403],[18.22860459294611,48.16063692388548],[18.22726773938831,48.16073701503842],[18.22668495748326,48.15716352566506],[18.2280217183627,48.15706344265203],[18.22729327202404,48.1525965767994],[18.22862991228084,48.15249648777291],[18.22833853311135,48.15070974104754],[18.22967512224812,48.1506096399047],[18.22938372286757,48.14882289470313],[18.22804718004858,48.14892299177689],[18.2274645522304,48.14534948559719],[18.22880100242611,48.14524939666148],[18.22865533863006,48.14435602055914],[18.22956277480142,48.1442880501549]]],"type":"Polygon"}
+}

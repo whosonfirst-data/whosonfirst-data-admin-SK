@@ -1,0 +1,71 @@
+{
+  "id": 1293892351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99609,48.41849,16.99609,48.41849",
+    "geom:latitude":48.41849,
+    "geom:longitude":16.99609,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vinohradok",
+    "gn:country_code":"SK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056761,
+    "gn:latitude":48.41849,
+    "gn:longitude":16.99609,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vinohr\u00e1dok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Vinohr\u00e1dok",
+        "Vinohr\u00e1dok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056761
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b7c1a9cf3209b1840eb1d90fcadefa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":1293892351,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1293892351,
+    "wof:lastmodified":1537700381,
+    "wof:name":"Vinohradok",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99609,
+    48.41849000000001,
+    16.99609,
+    48.41849000000001
+],
+  "geometry": {"coordinates":[16.99609,48.41849000000001],"type":"Point"}
+}

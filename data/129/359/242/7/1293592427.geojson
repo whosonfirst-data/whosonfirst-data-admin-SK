@@ -1,0 +1,72 @@
+{
+  "id": 1293592427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28212,48.0775,17.28212,48.0775",
+    "geom:latitude":48.0775,
+    "geom:longitude":17.28212,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nova Lipnica",
+    "gn:country_code":"SK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058490,
+    "gn:latitude":48.0775,
+    "gn:longitude":17.28212,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nov\u00e1 Lipnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tartschendorf",
+        "Torcs",
+        "Nov\u00e1 Lipnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058490
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"82d7f9ff9bcca6fe4ad60d1029c266b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":1293592427,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1293592427,
+    "wof:lastmodified":1537700399,
+    "wof:name":"Nova Lipnica",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28212000000001,
+    48.0775,
+    17.28212000000001,
+    48.0775
+],
+  "geometry": {"coordinates":[17.28212000000001,48.0775],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242896475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27696,49.19536,21.27696,49.19536",
+    "geom:latitude":49.19536,
+    "geom:longitude":21.27696,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bartosovce",
+    "gn:country_code":"SK",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725164,
+    "gn:latitude":49.19536,
+    "gn:longitude":21.27696,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barto\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barto\u0161ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725164,
+        "wk:page":"Barto%C5%A1ovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f68e519223f1a55cf2056f0c5fcfced6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1242896475,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1242896475,
+    "wof:lastmodified":1537700376,
+    "wof:name":"Bartosovce",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27696,
+    49.19536,
+    21.27696,
+    49.19536
+],
+  "geometry": {"coordinates":[21.27696,49.19536],"type":"Point"}
+}

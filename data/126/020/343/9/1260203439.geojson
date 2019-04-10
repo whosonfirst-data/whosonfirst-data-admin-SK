@@ -1,0 +1,71 @@
+{
+  "id": 1260203439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7048,48.97002,18.7048,48.97002",
+    "geom:latitude":48.97002,
+    "geom:longitude":18.7048,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vricko",
+    "gn:country_code":"SK",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056688,
+    "gn:latitude":48.97002,
+    "gn:longitude":18.7048,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vr\u00edcko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vr\u00edcko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056688,
+        "wk:page":"Vr%C3%ADcko"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fa614cb88ce55ba0e30aa1e75c7fc2ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1260203439,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1260203439,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vricko",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7048,
+    48.97002,
+    18.7048,
+    48.97002
+],
+  "geometry": {"coordinates":[18.7048,48.97002],"type":"Point"}
+}

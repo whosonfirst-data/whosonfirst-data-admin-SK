@@ -1,0 +1,74 @@
+{
+  "id": 1293791575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10604,48.73029,21.10604,48.73029",
+    "geom:latitude":48.73029,
+    "geom:longitude":21.10604,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hyl'ov",
+    "gn:country_code":"SK",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724613,
+    "gn:latitude":48.73029,
+    "gn:longitude":21.10604,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00fd\u013eov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Hily\u00f3"
+    ],
+    "name:und_x_variant":[
+        "H\u00fd\u013eov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724613,
+        "wk:page":"H%C3%BD%C4%BEov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ac6eb9a877d13e52789e5ee6652d9e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1293791575,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1293791575,
+    "wof:lastmodified":1537700367,
+    "wof:name":"Hyl'ov",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10604,
+    48.73029,
+    21.10604,
+    48.73029
+],
+  "geometry": {"coordinates":[21.10604,48.73029],"type":"Point"}
+}

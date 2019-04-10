@@ -1,0 +1,76 @@
+{
+  "id": 1276457591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71432,48.28363,19.71432,48.28363",
+    "geom:latitude":48.28363,
+    "geom:longitude":19.71432,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trebel'ovce",
+    "gn:country_code":"SK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057156,
+    "gn:latitude":48.28363,
+    "gn:longitude":19.71432,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trebe\u013eovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Terbel\u00e9d"
+    ],
+    "name:und_x_variant":[
+        "Terbelovce",
+        "Trebe\u013eovce",
+        "Terbel\u00e9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057156,
+        "wk:page":"Trebe%C4%BEovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"94c19ae6b5f918d3df7e7638ea0a9b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1276457591,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1276457591,
+    "wof:lastmodified":1537700384,
+    "wof:name":"Trebel'ovce",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71432,
+    48.28363,
+    19.71432,
+    48.28363
+],
+  "geometry": {"coordinates":[19.71432,48.28363],"type":"Point"}
+}

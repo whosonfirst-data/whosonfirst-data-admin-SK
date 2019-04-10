@@ -1,0 +1,67 @@
+{
+  "id": 1259985977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45231,49.07437,18.45231,49.07437",
+    "geom:latitude":49.07437,
+    "geom:longitude":18.45231,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horny Mostenec",
+    "gn:country_code":"SK",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059931,
+    "gn:latitude":49.07437,
+    "gn:longitude":18.45231,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Horn\u00fd Mo\u0161tenec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059931
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"baa17eaff9ec9a315761a28db3e946b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1259985977,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259985977,
+    "wof:lastmodified":1536629838,
+    "wof:name":"Horny Mostenec",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45231,
+    49.07437,
+    18.45231,
+    49.07437
+],
+  "geometry": {"coordinates":[18.45231,49.07437],"type":"Point"}
+}

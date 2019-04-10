@@ -1,0 +1,68 @@
+{
+  "id": 1343957165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63704,49.22133,21.63704,49.22133",
+    "geom:latitude":49.22133,
+    "geom:longitude":21.63704,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tisinec",
+    "gn:country_code":"SK",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723375,
+    "gn:latitude":49.22133,
+    "gn:longitude":21.63704,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tisinec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723375,
+        "wk:page":"Tisinec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a375a9170faa9aa50b15abb6ca671a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1343957165,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343957165,
+    "wof:lastmodified":1537573562,
+    "wof:name":"Tisinec",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63704,
+    49.22133,
+    21.63704,
+    49.22133
+],
+  "geometry": {"coordinates":[21.63704,49.22133],"type":"Point"}
+}

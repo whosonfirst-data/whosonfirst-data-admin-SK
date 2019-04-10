@@ -1,0 +1,67 @@
+{
+  "id": 1309712563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88333,47.91667,17.88333,47.91667",
+    "geom:latitude":47.91667,
+    "geom:longitude":17.88333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolny Madereti Majer",
+    "gn:country_code":"SK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060400,
+    "gn:latitude":47.91667,
+    "gn:longitude":17.88333,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Doln\u00fd Mad\u00e9r\u00e9ti Majer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060400
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"79324e421fbf76ebd2d4f9c03bad6e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1309712563,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1309712563,
+    "wof:lastmodified":1537062743,
+    "wof:name":"Dolny Madereti Majer",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88332999999999,
+    47.91667,
+    17.88332999999999,
+    47.91667
+],
+  "geometry": {"coordinates":[17.88332999999999,47.91667],"type":"Point"}
+}

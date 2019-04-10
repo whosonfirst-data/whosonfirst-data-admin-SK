@@ -1,0 +1,72 @@
+{
+  "id": 1276340987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6471,47.77804,18.6471,47.77804",
+    "geom:latitude":47.77804,
+    "geom:longitude":18.6471,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Obid",
+    "gn:country_code":"SK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058429,
+    "gn:latitude":47.77804,
+    "gn:longitude":18.6471,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebed",
+        "Obid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058429,
+        "wk:page":"Obid"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2c7480699f2eedb2ed1ccc8b42593e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1276340987,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1276340987,
+    "wof:lastmodified":1537700398,
+    "wof:name":"Obid",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6471,
+    47.77804,
+    18.6471,
+    47.77804
+],
+  "geometry": {"coordinates":[18.6471,47.77804],"type":"Point"}
+}

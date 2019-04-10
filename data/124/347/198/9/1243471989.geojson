@@ -1,0 +1,72 @@
+{
+  "id": 1243471989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77623,48.29208,19.77623,48.29208",
+    "geom:latitude":48.29208,
+    "geom:longitude":19.77623,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fil'akovske Kovace",
+    "gn:country_code":"SK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060240,
+    "gn:latitude":48.29208,
+    "gn:longitude":19.77623,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fi\u013eakovsk\u00e9 Kov\u00e1\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00fclek-Kov\u00e1csi",
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060240,
+        "wk:page":"Fi%C4%BEakovsk%C3%A9_Kov%C3%A1%C4%8De"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ba1e625d2bd331cdd3a691d778051b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1243471989,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243471989,
+    "wof:lastmodified":1537700425,
+    "wof:name":"Fil'akovske Kovace",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77623,
+    48.29208,
+    19.77623,
+    48.29208
+],
+  "geometry": {"coordinates":[19.77623,48.29208],"type":"Point"}
+}

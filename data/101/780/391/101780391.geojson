@@ -1,0 +1,158 @@
+{
+  "id": 101780391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":538307.176103,
+    "geom:bbox":"18.9069560844,49.2114249271,18.928128906,49.2207563143",
+    "geom:latitude":49.215458,
+    "geom:longitude":18.917888,
+    "iso:country":"SK",
+    "lbl:latitude":49.214469,
+    "lbl:longitude":18.917888,
+    "mps:latitude":49.214469,
+    "mps:longitude":18.917888,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:deu_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:epo_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:fra_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3tizs\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:msa_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:nan_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:nld_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:pol_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0422\u0438\u0436\u0438\u043d\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Dolna Tizina",
+        "Dolnia Tizina"
+    ],
+    "name:und_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:und_x_variant":[
+        "Dolnia Ti\u017eina"
+    ],
+    "name:unk_x_variant":[
+        "Dolnia Ti\u017eina"
+    ],
+    "name:war_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017dilina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Doln\u00e1 Ti\u017eina",
+    "qs:la_lc":"*SK31B517518",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00e1 Ti\u017eina",
+    "qs:loc_alt":"Dolna Tizina",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070e88e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3060484,
+        "gp:id":819182,
+        "qs:id":1026541,
+        "qs_pg:id":1026541,
+        "wd:id":"Q679712",
+        "wk:page":"Doln\u00e1 Ti\u017eina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a441de8b8c2621fc8d0f01852093c89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":101780391,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780391,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527715864,
+    "wof:name":"Doln\u00e1 Ti\u017eina",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90695608442229,
+    49.21142492713091,
+    18.92812890598339,
+    49.22075631425434
+],
+  "geometry": {"coordinates":[[[18.91601590443383,49.2164279903144],[18.92010804656178,49.21610156938323],[18.92043432867757,49.21788515230526],[18.9231624931021,49.21766744646686],[18.92299929967032,49.21677565988148],[18.92436334927959,49.21666678441352],[18.92403693619906,49.2148832139132],[18.92812890598339,49.2145565018817],[18.92780237690869,49.21277294254594],[18.92234660066561,49.2132085072364],[18.92202029599059,49.21142492713091],[18.92065638675155,49.21153377236561],[18.92081951104109,49.21242556501352],[18.91536372164074,49.21286078955865],[18.91552675614025,49.21375259069254],[18.91279877970368,49.21397010821227],[18.91312477382962,49.21575371770314],[18.91176072870104,49.21586245619034],[18.91192371264026,49.21675426226926],[18.90783147120226,49.2170803852448],[18.9083202489004,49.21975582020144],[18.90695608442229,49.21986450158352],[18.90711900091929,49.22075631425434],[18.90984737301164,49.22053893038151],[18.90952145017911,49.21875531351913],[18.91224970291074,49.21853787253832],[18.91208670404336,49.21764606771848],[18.9161789687987,49.21731978892853],[18.91601590443383,49.2164279903144]]],"type":"Polygon"}
+}

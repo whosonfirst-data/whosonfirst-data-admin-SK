@@ -1,0 +1,140 @@
+{
+  "id": 101786375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1146669.391831,
+    "geom:bbox":"17.3441164886,48.1757560019,17.3677547861,48.195705973",
+    "geom:latitude":48.184542,
+    "geom:longitude":17.355302,
+    "iso:country":"SK",
+    "lbl:latitude":48.181971,
+    "lbl:longitude":17.353512,
+    "mps:latitude":48.181971,
+    "mps:longitude":17.353512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:ger_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:hun_x_preferred":[
+        "Duna\u00fajfalu"
+    ],
+    "name:hun_x_variant":[
+        "Fajk\u00fcrt"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:nan_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0414\u0458\u0435\u0434\u0438\u043d\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Senec",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nov\u00e1 Dedinka",
+    "qs:la_lc":"*SK108508136",
+    "qs:level":"locality",
+    "qs:loc":"Nov\u00e1 Dedinka",
+    "qs:loc_alt":"Nova Dedinka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060605,
+        "gp:id":819074,
+        "qs:id":6,
+        "wd:id":"Q911505"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"60b09b9eebd1afce557572920e621161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":101786375,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101786375,
+    "wof:lastmodified":1527715654,
+    "wof:name":"Nov\u00e1 Dedinka",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34411648863579,
+    48.17575600194641,
+    17.36775478605659,
+    48.19570597304357
+],
+  "geometry": {"coordinates":[[[17.36559921000759,48.19561634717138],[17.36507677688644,48.1920378367202],[17.36775478605659,48.19185855087892],[17.36749351133528,48.19006929947943],[17.36347663113258,48.19033819292935],[17.36334607257504,48.18944356088053],[17.36200712722206,48.18953315773439],[17.36161555672015,48.18684925263142],[17.3602766770602,48.18693882777478],[17.35988522928716,48.18425491197638],[17.35720759703366,48.18443400261469],[17.35668593529476,48.18085542550273],[17.3580246602628,48.18076589559553],[17.35763340545327,48.17808196214099],[17.35227875965825,48.17843996249837],[17.35188783739301,48.17575600194641],[17.35054923515827,48.17584545599129],[17.3506795134092,48.17674011191065],[17.34934088355357,48.17682955154675],[17.3494711443301,48.1777242087079],[17.34411648863579,48.17808181222608],[17.34450702614481,48.18076580208367],[17.34584576649183,48.18067642008924],[17.34610620070947,48.18246574012215],[17.34744498341513,48.18237633825316],[17.34783574858062,48.18506030849301],[17.35185228087369,48.18479198909023],[17.35198261762133,48.1856866392115],[17.35466033097123,48.18550767479485],[17.35479072023577,48.18640232069055],[17.35746846303425,48.18622328769089],[17.35825120159643,48.19159112900405],[17.35959020654815,48.19150157720622],[17.35985121294402,48.19329084935697],[17.3611902602654,48.19320127767304],[17.36132079559354,48.19409591105352],[17.36265986194553,48.1940063213076],[17.36279042647664,48.19490095228281],[17.36412951185912,48.19481134447415],[17.36426010559495,48.19570597304357],[17.36559921000759,48.19561634717138]]],"type":"Polygon"}
+}

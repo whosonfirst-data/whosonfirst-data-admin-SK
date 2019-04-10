@@ -1,0 +1,72 @@
+{
+  "id": 1226539173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36517,49.1553,21.36517,49.1553",
+    "geom:latitude":49.1553,
+    "geom:longitude":21.36517,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Buclovany",
+    "gn:country_code":"SK",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725058,
+    "gn:latitude":49.1553,
+    "gn:longitude":21.36517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buclovany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bucloviany",
+        "Buclovany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725058,
+        "wk:page":"Buclovany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9c0b81a6e042e6bae51b9d8025aa109e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1226539173,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226539173,
+    "wof:lastmodified":1537700374,
+    "wof:name":"Buclovany",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36517000000001,
+    49.1553,
+    21.36517000000001,
+    49.1553
+],
+  "geometry": {"coordinates":[21.36517000000001,49.1553],"type":"Point"}
+}

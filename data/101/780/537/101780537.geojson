@@ -1,0 +1,139 @@
+{
+  "id": 101780537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":827446.836726,
+    "geom:bbox":"22.136724532,48.9396826732,22.1592910707,48.961823794",
+    "geom:latitude":48.951946,
+    "geom:longitude":22.149951,
+    "iso:country":"SK",
+    "lbl:latitude":48.953039,
+    "lbl:longitude":22.150721,
+    "mps:latitude":48.953039,
+    "mps:longitude":22.150721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:ces_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:cze_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:deu_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:dut_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:eng_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:epo_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:fra_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:fre_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:ger_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00f3zsefh\u00e1mor"
+    ],
+    "name:ita_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:may_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:msa_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:nan_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:nld_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:pol_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:slo_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0438\u043d\u0441\u043a\u0435 \u0425\u0430\u043c\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0435 \u0413\u0430\u043c\u0440\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Snina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bel\u00e1 nad Cirochou",
+    "qs:la_lc":"*SK419520039",
+    "qs:level":"locality",
+    "qs:loc":"Zempl\u00ednske H\u00e1mre",
+    "qs:loc_alt":"Zemplinske Hamre",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":819546,
+        "qs:id":4,
+        "wd:id":"Q189402"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9ee4d112dffe99804e9d2f3ab54d6b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":101780537,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780537,
+    "wof:lastmodified":1527715871,
+    "wof:name":"Zempl\u00ednske H\u00e1mre",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13672453198956,
+    48.93968267317797,
+    22.15929107069604,
+    48.96182379403297
+],
+  "geometry": {"coordinates":[[[22.15929107069604,48.94573248406311],[22.15819005029641,48.94130548281169],[22.15684052132212,48.94145348626773],[22.15640022942,48.93968267317797],[22.15370124262273,48.93997861907047],[22.15458167986264,48.94352026599643],[22.15593127011749,48.94337228895995],[22.15681195976509,48.94691390886345],[22.15546227630961,48.94706189812518],[22.15568245030192,48.9479473038453],[22.15433273619806,48.94809527989571],[22.15455289683996,48.94898068774745],[22.15185339998936,48.9492765971554],[22.15207352397238,48.95016201019496],[22.15072374122497,48.95030994355136],[22.15094385185228,48.95119535872243],[22.1482442177101,48.95149118273838],[22.14846429167005,48.95237660309624],[22.14441471545808,48.95282022626003],[22.1448547533559,48.9545910825334],[22.1421549059225,48.95488676217309],[22.14259489035271,48.9566576269703],[22.14124490899275,48.9568054484908],[22.14146489281165,48.95769088255895],[22.14011488079285,48.95783869086108],[22.14033485123986,48.95872412706024],[22.13898480856096,48.95887192214326],[22.1392047656347,48.95975736047342],[22.1378546922943,48.95990514233677],[22.13807463599255,48.96079058279781],[22.13672453198956,48.9609383514408],[22.13694446231045,48.96182379403297],[22.14234492756782,48.96123260960178],[22.14190489029244,48.95946174792618],[22.14325494160812,48.95931391724298],[22.1430349145744,48.95842848807513],[22.14573494853931,48.95813278399896],[22.14551488481828,48.95724736001773],[22.14821484277417,48.95695159696243],[22.14799474237191,48.95606617816833],[22.14934468701796,48.9559182752887],[22.1491245732534,48.9550328586264],[22.15317429317918,48.95458906152777],[22.15295411943026,48.95370365310976],[22.15430398806882,48.95355569125877],[22.15408380096403,48.95267028497324],[22.15543363894602,48.95252230990889],[22.15521343848746,48.95163690575532],[22.15656324581397,48.9514889174784],[22.15612282814828,48.94971811251139],[22.15747258151492,48.94957011407922],[22.15725236430995,48.94868471326555],[22.15860208702577,48.94853670162212],[22.15794142523276,48.94588050280242],[22.15929107069604,48.94573248406311]]],"type":"Polygon"}
+}

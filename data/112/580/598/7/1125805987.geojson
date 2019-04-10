@@ -1,0 +1,91 @@
+{
+  "id": 1125805987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89269,48.64603,21.89269,48.64603",
+    "geom:latitude":48.64603,
+    "geom:longitude":21.89269,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.64603,
+    "lbl:longitude":21.89269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dvor Komanica"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724462,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Koma\u0144cza",
+    "qs_pg:name_adm0":"Polska",
+    "qs_pg:name_adm1":"Podkarpackie",
+    "qs_pg:photos":142,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":142,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165614,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424923,
+    "qs_pg:woe_id":500884,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424923,
+    "woe:name_adm0":"Polska",
+    "woe:name_adm1":"Podkarpackie",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724462,
+        "gp:id":500884,
+        "qs_pg:id":1165614
+    },
+    "wof:country":"SK",
+    "wof:created":1497291464,
+    "wof:geomhash":"ef4e1740e02bbae2f0864f2d60f2be7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1125805987,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125805987,
+    "wof:lastmodified":1509393293,
+    "wof:name":"Koma\u0144cza",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89269,
+    48.64603,
+    21.89269,
+    48.64603
+],
+  "geometry": {"coordinates":[21.89269,48.64603],"type":"Point"}
+}

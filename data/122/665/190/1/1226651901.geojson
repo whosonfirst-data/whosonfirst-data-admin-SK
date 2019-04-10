@@ -1,0 +1,72 @@
+{
+  "id": 1226651901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8794,48.49118,17.8794,48.49118",
+    "geom:latitude":48.49118,
+    "geom:longitude":17.8794,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horne Otrokovce",
+    "gn:country_code":"SK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059980,
+    "gn:latitude":48.49118,
+    "gn:longitude":17.8794,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Otrokovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hornie Otrokovce",
+        "Horn\u00e9 Otrokovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059980,
+        "wk:page":"Horn%C3%A9_Otrokovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f54fdeab3b3eb81e29c0006a41b40362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080481,
+            "locality_id":1226651901,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1226651901,
+    "wof:lastmodified":1537700421,
+    "wof:name":"Horne Otrokovce",
+    "wof:parent_id":102080481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8794,
+    48.49118,
+    17.8794,
+    48.49118
+],
+  "geometry": {"coordinates":[17.8794,48.49118],"type":"Point"}
+}

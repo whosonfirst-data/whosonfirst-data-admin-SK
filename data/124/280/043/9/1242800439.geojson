@@ -1,0 +1,71 @@
+{
+  "id": 1242800439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2467,48.8761,21.2467,48.8761",
+    "geom:latitude":48.8761,
+    "geom:longitude":21.2467,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Licartovce",
+    "gn:country_code":"SK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724291,
+    "gn:latitude":48.8761,
+    "gn:longitude":21.2467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Li\u010dartovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li\u010dartovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724291,
+        "wk:page":"Li%C4%8Dartovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"976527636b66d66d7ce406a2991e62bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1242800439,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1242800439,
+    "wof:lastmodified":1537700362,
+    "wof:name":"Licartovce",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2467,
+    48.8761,
+    21.2467,
+    48.8761
+],
+  "geometry": {"coordinates":[21.2467,48.8761],"type":"Point"}
+}

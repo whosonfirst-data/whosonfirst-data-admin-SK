@@ -1,0 +1,147 @@
+{
+  "id": 101780533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1136489.089592,
+    "geom:bbox":"22.0416674648,48.9517630928,22.0755245354,48.9680080795",
+    "geom:latitude":48.959936,
+    "geom:longitude":22.061014,
+    "iso:country":"SK",
+    "lbl:latitude":48.960559,
+    "lbl:longitude":22.061014,
+    "mps:latitude":48.960559,
+    "mps:longitude":22.061014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u044a\u043b\u0445\u0435 \u043d\u0430\u0434 \u0426\u0438\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:ces_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:cze_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:deu_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:dut_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:eng_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:epo_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:fra_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:fre_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:ger_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:hun_x_preferred":[
+        "Cir\u00f3kahossz\u00famez\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:may_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:msa_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:nan_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:nld_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:pol_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:slo_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043b\u0445\u0435 \u043d\u0430 \u0426\u0438\u0440\u043e\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043b\u0433\u0435-\u043d\u0430\u0434-\u0426\u0456\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Dlh\u00e1 nad Cirokou"
+    ],
+    "name:war_x_preferred":[
+        "Dlh\u00e9 nad Cirochou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Snina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Dlh\u00e9 nad Cirochou",
+    "qs:la_lc":"*SK419520161",
+    "qs:level":"locality",
+    "qs:loc":"Dlh\u00e9 nad Cirochou",
+    "qs:loc_alt":"Dlhe nad Cirochou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724902,
+        "gp:id":819111,
+        "qs:id":947744,
+        "wd:id":"Q867625",
+        "wk:page":"Dlh\u00e9 nad Cirochou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fda47eb04ee5085e3a379d68b5fea4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":101780533,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780533,
+    "wof:lastmodified":1527715864,
+    "wof:name":"Dlh\u00e9 nad Cirochou",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04166746483361,
+    48.95176309275928,
+    22.07552453543406,
+    48.96800807951064
+],
+  "geometry": {"coordinates":[[[22.06563425835691,48.96505747897146],[22.06968541041499,48.96461669996404],[22.06990415767956,48.96550229545232],[22.07260493589666,48.96520835530634],[22.07282373974601,48.96609394380329],[22.07552453543406,48.96579993246127],[22.07530568489653,48.96491435004106],[22.07395531404904,48.96506136081348],[22.0735176893549,48.963290187148],[22.07216735788796,48.96343717556459],[22.07151106509099,48.96078039908366],[22.07016079634332,48.96092736210886],[22.06994207520489,48.96004176507978],[22.06859182249542,48.96018870878993],[22.06837313458743,48.95930310780824],[22.0670228979169,48.9594500322039],[22.06680424323747,48.95856442727052],[22.06545402260667,48.95871133235221],[22.06523540115347,48.95782572346752],[22.06388519656321,48.95797260923609],[22.0636666083339,48.95708699640062],[22.06096622394136,48.95738071303452],[22.06074769227109,48.95649509321476],[22.05939751247041,48.956641924081],[22.05917901401943,48.95575630031198],[22.05647867921482,48.95604990714509],[22.05604180529912,48.95427864472902],[22.05334153467669,48.95457217432147],[22.05312315920662,48.95368653567624],[22.05042290610305,48.9539799940963],[22.05020458717848,48.95309434847331],[22.04885447303252,48.95324105023656],[22.04863618731605,48.9523554006683],[22.04593598383963,48.9526487493024],[22.04571775466371,48.95176309275928],[22.04166746483361,48.95220298454416],[22.04188562400185,48.95308865017671],[22.04458587117597,48.95279539920421],[22.04480408688477,48.95368105786406],[22.04615422288492,48.95353440493193],[22.04659073058548,48.95530571345012],[22.04929107408185,48.95501234663095],[22.04950938941602,48.95589799345737],[22.05085957357267,48.95575128259986],[22.05107792211959,48.95663692548067],[22.05242812232723,48.95649019531345],[22.05264650408913,48.95737583424813],[22.05399672034667,48.95722908477046],[22.05421513532542,48.95811471975821],[22.05556536763237,48.95796795096965],[22.05578381583018,48.95885358201014],[22.05713406418579,48.95870679390987],[22.05844510094192,48.96402054274762],[22.06249622241256,48.96358002615591],[22.06358937509492,48.96800807951064],[22.06493985105777,48.96786119290715],[22.06472117739264,48.96697558710207],[22.06607162270683,48.96682868725389],[22.06563425835691,48.96505747897146]]],"type":"Polygon"}
+}

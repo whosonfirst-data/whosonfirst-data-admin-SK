@@ -1,0 +1,67 @@
+{
+  "id": 1193154629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74708,48.84585,19.74708,48.84585",
+    "geom:latitude":48.84585,
+    "geom:longitude":19.74708,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Srnkovo",
+    "gn:country_code":"SK",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057499,
+    "gn:latitude":48.84585,
+    "gn:longitude":19.74708,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Srnkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057499
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f119f0fd6ec295870f75307ba2e42434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1193154629,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1193154629,
+    "wof:lastmodified":1536374569,
+    "wof:name":"Srnkovo",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74708,
+    48.84585,
+    19.74708,
+    48.84585
+],
+  "geometry": {"coordinates":[19.74708,48.84585],"type":"Point"}
+}

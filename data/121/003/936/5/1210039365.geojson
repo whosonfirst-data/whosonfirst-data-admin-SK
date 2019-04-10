@@ -1,0 +1,67 @@
+{
+  "id": 1210039365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51643,49.03622,21.51643,49.03622",
+    "geom:latitude":49.03622,
+    "geom:longitude":21.51643,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Grodin",
+    "gn:country_code":"SK",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724765,
+    "gn:latitude":49.03622,
+    "gn:longitude":21.51643,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Grodin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724765
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e7f10d5036005ee27f8801eeed217ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1210039365,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1210039365,
+    "wof:lastmodified":1536385015,
+    "wof:name":"Grodin",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51643,
+    49.03622,
+    21.51643,
+    49.03622
+],
+  "geometry": {"coordinates":[21.51643,49.03622],"type":"Point"}
+}

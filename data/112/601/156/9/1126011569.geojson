@@ -1,0 +1,138 @@
+{
+  "id": 1126011569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50272,49.37354,20.50272,49.37354",
+    "geom:latitude":49.37354,
+    "geom:longitude":20.50272,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.37354,
+    "lbl:longitude":20.50272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyh\u00e1rsas"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:pol_x_preferred":[
+        "Wielki Lipnik"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u044b\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u041b\u0438\u043f\u045a\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Velikij Lipnik"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723249,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00fd Lipn\u00edk",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013310,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":823013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723249,
+        "gp:id":823013,
+        "qs_pg:id":1013310,
+        "wd:id":"Q934799"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300306,
+    "wof:geomhash":"7cba2f8f9cbabfb3daeaf41c6115e823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1126011569,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1126011569,
+    "wof:lastmodified":1553816697,
+    "wof:name":"Vel\u0315k\u00fd Lipn\u00edk",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50272,
+    49.37354,
+    20.50272,
+    49.37354
+],
+  "geometry": {"coordinates":[20.50272,49.37354],"type":"Point"}
+}

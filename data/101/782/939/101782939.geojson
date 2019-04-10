@@ -1,0 +1,140 @@
+{
+  "id": 101782939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":877378.688275,
+    "geom:bbox":"21.1764874345,48.5282401502,21.1951214793,48.5441484541",
+    "geom:latitude":48.535018,
+    "geom:longitude":21.187105,
+    "iso:country":"SK",
+    "lbl:latitude":48.535274,
+    "lbl:longitude":21.18774,
+    "mps:latitude":48.535274,
+    "mps:longitude":21.18774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:ces_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:cze_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:deu_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:dut_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:eng_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:epo_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:fra_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:fre_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:ger_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:hun_x_preferred":[
+        "Per\u00e9ny-H\u00edm"
+    ],
+    "name:ita_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:may_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:msa_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:nan_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:nld_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:pol_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:slo_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u043d-\u0425\u0438\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Per\u010dny"
+    ],
+    "name:war_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Per\u00edn-Chym",
+    "qs:la_lc":"*SK426521876",
+    "qs:level":"locality",
+    "qs:loc":"Per\u00edn - Chym",
+    "qs:loc_alt":"Perin - Chym",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723909,
+        "gp:id":821552,
+        "qs:id":1271550,
+        "wd:id":"Q630001"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1d6ee7c2a598206807260ebbfe46fb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782939,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782939,
+    "wof:lastmodified":1527688315,
+    "wof:name":"Per\u00edn - Chym",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17648743452941,
+    48.52824015020997,
+    21.1951214792756,
+    48.5441484540936
+],
+  "geometry": {"coordinates":[[[21.1951214792756,48.53773298237724],[21.19452050901054,48.53506978138097],[21.19049758894221,48.53547823729042],[21.18969669770814,48.53192725731492],[21.1910375855125,48.53179113265548],[21.19083736213935,48.53090338831964],[21.19217822028156,48.53076725026915],[21.19197798285916,48.5298795078665],[21.19331881134013,48.5297433564258],[21.1931185598703,48.52885561595622],[21.19043694236433,48.52912789709683],[21.19023674596104,48.52824015020997],[21.1835327015566,48.52892055610801],[21.18453319744117,48.53335935160339],[21.17648743452941,48.53417538836231],[21.17688741922046,48.53595093398837],[21.18359246866203,48.53527091598431],[21.18379258972504,48.53615867361742],[21.18513360280872,48.53602261870486],[21.18573408907264,48.53868587816015],[21.18439300684014,48.53882194142034],[21.18559408379576,48.5441484540936],[21.18827651828326,48.54387627799662],[21.1876758010157,48.54121304218273],[21.18901693915984,48.54107693821709],[21.18841623367399,48.53841370310784],[21.1951214792756,48.53773298237724]]],"type":"Polygon"}
+}

@@ -1,0 +1,133 @@
+{
+  "id": 101782781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":299103.586816,
+    "geom:bbox":"19.4659034515,48.5424065742,19.4775104895,48.54976603",
+    "geom:latitude":48.546501,
+    "geom:longitude":19.470788,
+    "iso:country":"SK",
+    "lbl:latitude":48.546833,
+    "lbl:longitude":19.470788,
+    "mps:latitude":48.546833,
+    "mps:longitude":19.470788,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:ces_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:cze_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:deu_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:dut_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:eng_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:epo_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:fra_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:fre_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:ger_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:hun_x_preferred":[
+        "Tekn\u0151s"
+    ],
+    "name:ita_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:may_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:msa_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:nld_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:pol_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:slo_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0430\u0440\u043a\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Koryt\u00e1rky"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Detva",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Koryt\u00e1rky",
+    "qs:la_lc":"*SK324580520",
+    "qs:level":"locality",
+    "qs:loc":"Koryt\u00e1rky",
+    "qs:loc_alt":"Korytarky",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402676,
+        "qs:id":2,
+        "wd:id":"Q1045559"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a12abc1b588163acdf27ae060eeb4200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080507,
+            "locality_id":101782781,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101782781,
+    "wof:lastmodified":1527688324,
+    "wof:name":"Koryt\u00e1rky",
+    "wof:parent_id":102080507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46590345152282,
+    48.54240657416278,
+    19.47751048946981,
+    48.54976602996209
+],
+  "geometry": {"coordinates":[[[19.47751048946981,48.548067686504],[19.47734072212438,48.54717658816332],[19.47465099924136,48.54740730172887],[19.47414188355702,48.54473398826906],[19.47010746763124,48.54507991526702],[19.46959863142871,48.54240657416278],[19.46825388506892,48.54252184351969],[19.46842346608713,48.5434129602919],[19.46707869069371,48.5435282157419],[19.46724825595135,48.54441933417388],[19.46590345152282,48.54453457571628],[19.46607300101834,48.54542569580826],[19.46741782885323,48.54531045190106],[19.46826580804122,48.54976602996209],[19.47095568090811,48.54953546967067],[19.47078602295659,48.54864436020017],[19.47751048946981,48.548067686504]]],"type":"Polygon"}
+}

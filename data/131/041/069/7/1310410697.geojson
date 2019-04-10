@@ -1,0 +1,71 @@
+{
+  "id": 1310410697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56851,48.87936,21.56851,48.87936",
+    "geom:latitude":48.87936,
+    "geom:longitude":21.56851,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Juskova Vol'a",
+    "gn:country_code":"SK",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724549,
+    "gn:latitude":48.87936,
+    "gn:longitude":21.56851,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Juskova Vo\u013ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juskova Vo\u013ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724549,
+        "wk:page":"Juskova_Vo%C4%BEa"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cbae4b1e14e2dd8db164f3cee5fe3375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1310410697,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310410697,
+    "wof:lastmodified":1537700366,
+    "wof:name":"Juskova Vol'a",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56851,
+    48.87936,
+    21.56851,
+    48.87936
+],
+  "geometry": {"coordinates":[21.56851,48.87936],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260293659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20963,48.13246,17.20963,48.13246",
+    "geom:latitude":48.13246,
+    "geom:longitude":17.20963,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podunajske Biskupice",
+    "gn:country_code":"SK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058117,
+    "gn:latitude":48.13246,
+    "gn:longitude":17.20963,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Podunajsk\u00e9 Biskupice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biskupice pri Dunaji",
+        "P\u00fcsp\u00f6ki",
+        "Biskupice",
+        "Podunaj Biskupice",
+        "Podunajsk\u00e9 Biskupice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058117,
+        "wk:page":"Podunajsk%C3%A9_Biskupice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"06e0acaff9987addc8b55a6a0b5be11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080455,
+            "locality_id":1260293659,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1260293659,
+    "wof:lastmodified":1537700395,
+    "wof:name":"Podunajske Biskupice",
+    "wof:parent_id":102080455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20962999999999,
+    48.13246,
+    17.20962999999999,
+    48.13246
+],
+  "geometry": {"coordinates":[17.20962999999999,48.13246],"type":"Point"}
+}

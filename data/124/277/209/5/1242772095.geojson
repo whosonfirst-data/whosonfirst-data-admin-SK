@@ -1,0 +1,71 @@
+{
+  "id": 1242772095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5429,48.40874,17.5429,48.40874",
+    "geom:latitude":48.40874,
+    "geom:longitude":17.5429,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nemcanka",
+    "gn:country_code":"SK",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058557,
+    "gn:latitude":48.40874,
+    "gn:longitude":17.5429,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nem\u010danka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Nem\u010danka",
+        "Nem\u010danka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058557
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f2472eb386c9612972e5ae2d65571f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1242772095,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1242772095,
+    "wof:lastmodified":1537700400,
+    "wof:name":"Nemcanka",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5429,
+    48.40874,
+    17.5429,
+    48.40874
+],
+  "geometry": {"coordinates":[17.5429,48.40874],"type":"Point"}
+}

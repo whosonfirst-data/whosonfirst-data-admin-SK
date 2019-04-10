@@ -1,0 +1,128 @@
+{
+  "id": 101780601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1385592.223667,
+    "geom:bbox":"21.2977795341,49.3579522872,21.3162113655,49.374531987",
+    "geom:latitude":49.365954,
+    "geom:longitude":21.307341,
+    "iso:country":"SK",
+    "lbl:latitude":49.365817,
+    "lbl:longitude":21.308737,
+    "mps:latitude":49.365817,
+    "mps:longitude":21.308737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Zborov"
+    ],
+    "name:cze_x_preferred":[
+        "Zborov"
+    ],
+    "name:dut_x_preferred":[
+        "Zborov"
+    ],
+    "name:eng_x_preferred":[
+        "Zborov"
+    ],
+    "name:epo_x_preferred":[
+        "Zborov"
+    ],
+    "name:fre_x_preferred":[
+        "Zborov"
+    ],
+    "name:ger_x_preferred":[
+        "Zborov"
+    ],
+    "name:hun_x_preferred":[
+        "Zbor\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Zborov"
+    ],
+    "name:may_x_preferred":[
+        "Zborov"
+    ],
+    "name:nan_x_preferred":[
+        "Zborov"
+    ],
+    "name:pol_x_preferred":[
+        "Zborov"
+    ],
+    "name:rue_x_preferred":[
+        "\u0417\u0431\u043e\u0440\u043e\u0432"
+    ],
+    "name:slo_x_preferred":[
+        "Zborov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0431\u043e\u0440\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0431\u043e\u0440\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Zborov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Bardejov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Zborov",
+    "qs:la_lc":"*SK411519961",
+    "qs:level":"locality",
+    "qs:loc":"Zborov",
+    "qs:loc_alt":"Zborov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723090,
+        "gp:id":823324,
+        "qs:id":940151,
+        "wd:id":"Q168250",
+        "wk:page":"Zborov, Bardejov District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bb55f0b6fb11900527f9cccd847d5dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":101780601,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780601,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Zborov",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29777953414629,
+    49.35795228719604,
+    21.31621136554384,
+    49.37453198698546
+],
+  "geometry": {"coordinates":[[[21.30990093791058,49.37425618009024],[21.30969329046701,49.37336907060535],[21.31105665225402,49.37323114532512],[21.31084899028957,49.37234403790541],[21.31221232103991,49.37220609903386],[21.31158932007605,49.3695447804941],[21.31567905408241,49.36913089101034],[21.31484823094877,49.36558248941787],[21.31621136554384,49.36544450486042],[21.31600365949447,49.36455740528851],[21.3146405489037,49.36469538695565],[21.31443287635273,49.36380828366759],[21.31306978274478,49.36394624596727],[21.31244689405497,49.36128492248019],[21.311083865434,49.36142285963433],[21.31046113415658,49.35876152004988],[21.30773519986212,49.35903732759772],[21.30752768974139,49.35815020697544],[21.30071285125962,49.3588394230776],[21.30050547061609,49.35795228719604],[21.29777953414629,49.35822785253191],[21.29819420891033,49.3600021350137],[21.29955722865185,49.35986435481277],[21.29997198933506,49.36163862822525],[21.30133505007154,49.3615008257749],[21.30154246863776,49.36238795835828],[21.30290554636599,49.36225013654388],[21.30394290147728,49.36668577265635],[21.30257970371588,49.36682360890632],[21.3027871791852,49.36771073654256],[21.30142395039866,49.36784855920058],[21.30163141134256,49.36873568889951],[21.30026815152996,49.36887349796484],[21.30047559794644,49.36976062972667],[21.3018388817718,49.3696228177742],[21.30287637622268,49.37405844978417],[21.30696654582874,49.37364487172187],[21.30717414523838,49.37453198698546],[21.30990093791058,49.37425618009024]]],"type":"Polygon"}
+}

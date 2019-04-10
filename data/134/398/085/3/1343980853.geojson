@@ -1,0 +1,71 @@
+{
+  "id": 1343980853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26693,49.37974,21.26693,49.37974",
+    "geom:latitude":49.37974,
+    "geom:longitude":21.26693,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Stebnik",
+    "gn:country_code":"SK",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723494,
+    "gn:latitude":49.37974,
+    "gn:longitude":21.26693,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stebn\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stebn\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723494,
+        "wk:page":"Stebn%C3%ADk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9d394f08d13acec3e262e0db4ff7cb31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1343980853,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343980853,
+    "wof:lastmodified":1537700348,
+    "wof:name":"Stebnik",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26693,
+    49.37974000000001,
+    21.26693,
+    49.37974000000001
+],
+  "geometry": {"coordinates":[21.26693,49.37974000000001],"type":"Point"}
+}

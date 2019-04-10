@@ -1,0 +1,82 @@
+{
+  "id": 1310406755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80441,48.20816,18.80441,48.20816",
+    "geom:latitude":48.20816,
+    "geom:longitude":18.80441,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tekovske Trst'any",
+    "gn:country_code":"SK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057231,
+    "gn:latitude":48.20816,
+    "gn:longitude":18.80441,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tekovsk\u00e9 Trs\u0165any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Hontn\u00e1das"
+    ],
+    "name:slk_x_historical":[
+        "Nado\u0161any"
+    ],
+    "name:slk_x_preferred":[
+        "Hontianske Trs\u0165any"
+    ],
+    "name:slk_x_variant":[
+        "Nado\u0161any"
+    ],
+    "name:und_x_variant":[
+        "Tekovsk\u00e9 Trs\u0165any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057231
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"efe6c469d5a7c3470015bf13bb2cead4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1310406755,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310406755,
+    "wof:lastmodified":1537700385,
+    "wof:name":"Tekovske Trst'any",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80441,
+    48.20816,
+    18.80441,
+    48.20816
+],
+  "geometry": {"coordinates":[18.80441,48.20816],"type":"Point"}
+}

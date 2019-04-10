@@ -1,0 +1,73 @@
+{
+  "id": 1276665313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41696,48.74204,21.41696,48.74204",
+    "geom:latitude":48.74204,
+    "geom:longitude":21.41696,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Durd'osik",
+    "gn:country_code":"SK",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724836,
+    "gn:latitude":48.74204,
+    "gn:longitude":21.41696,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010eurd\u2019o\u0161\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Gy\u00f6rgyi"
+    ],
+    "name:und_x_variant":[
+        "\u010eurd\u2019o\u0161\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724836
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"15e17930785e5b8302dddb6f367d93a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1276665313,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276665313,
+    "wof:lastmodified":1537700371,
+    "wof:name":"Durd'osik",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41696,
+    48.74204,
+    21.41696,
+    48.74204
+],
+  "geometry": {"coordinates":[21.41696,48.74204],"type":"Point"}
+}

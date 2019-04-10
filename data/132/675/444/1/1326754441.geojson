@@ -1,0 +1,71 @@
+{
+  "id": 1326754441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5369,48.80187,18.5369,48.80187",
+    "geom:latitude":48.80187,
+    "geom:longitude":18.5369,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sutovce",
+    "gn:country_code":"SK",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057331,
+    "gn:latitude":48.80187,
+    "gn:longitude":18.5369,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160utovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160utovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057331,
+        "wk:page":"%C5%A0utovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"174da8573f0648f5b190682899e84994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1326754441,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1326754441,
+    "wof:lastmodified":1537700387,
+    "wof:name":"Sutovce",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5369,
+    48.80187,
+    18.5369,
+    48.80187
+],
+  "geometry": {"coordinates":[18.5369,48.80187],"type":"Point"}
+}

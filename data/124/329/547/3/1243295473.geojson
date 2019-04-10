@@ -1,0 +1,71 @@
+{
+  "id": 1243295473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58946,49.09682,21.58946,49.09682",
+    "geom:latitude":49.09682,
+    "geom:longitude":21.58946,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ruska Vol'a",
+    "gn:country_code":"SK",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723692,
+    "gn:latitude":49.09682,
+    "gn:longitude":21.58946,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rusk\u00e1 Vo\u013ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusk\u00e1 Vo\u013ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723692,
+        "wk:page":"Rusk%C3%A1_Vo%C4%BEa"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a8426e3883a4792a51cbc44e203f6f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1243295473,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1243295473,
+    "wof:lastmodified":1537700351,
+    "wof:name":"Ruska Vol'a",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58946,
+    49.09682,
+    21.58946,
+    49.09682
+],
+  "geometry": {"coordinates":[21.58946,49.09682],"type":"Point"}
+}

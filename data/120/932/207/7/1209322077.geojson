@@ -1,0 +1,66 @@
+{
+  "id": 1209322077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88982,48.57815,20.88982,48.57815",
+    "geom:latitude":48.57815,
+    "geom:longitude":20.88982,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Turnianska Nova Ves",
+    "gn:country_code":"SK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723333,
+    "gn:latitude":48.57815,
+    "gn:longitude":20.88982,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Turnianska Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torna-Ujfalu",
+        "Turnianska Nov\u00e1 Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723333,
+        "wk:page":"Turnianska_Nov%C3%A1_Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"34b5da4544eed8922774babeb378b7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209322077
+        }
+    ],
+    "wof:id":1209322077,
+    "wof:lastmodified":1537700345,
+    "wof:name":"Turnianska Nova Ves",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88982,
+    48.57815,
+    20.88982,
+    48.57815
+],
+  "geometry": {"coordinates":[20.88982,48.57815],"type":"Point"}
+}

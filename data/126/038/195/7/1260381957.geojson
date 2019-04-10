@@ -1,0 +1,67 @@
+{
+  "id": 1260381957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29626,49.22403,19.29626,49.22403",
+    "geom:latitude":49.22403,
+    "geom:longitude":19.29626,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zaskalie",
+    "gn:country_code":"SK",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056583,
+    "gn:latitude":49.22403,
+    "gn:longitude":19.29626,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Z\u00e1skalie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056583
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"daf6a3a9887b670599a05cf93d67cb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1260381957,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1260381957,
+    "wof:lastmodified":1537073989,
+    "wof:name":"Zaskalie",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29626,
+    49.22403,
+    19.29626,
+    49.22403
+],
+  "geometry": {"coordinates":[19.29626,49.22403],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226439433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91809,49.09247,18.91809,49.09247",
+    "geom:latitude":49.09247,
+    "geom:longitude":18.91809,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zaturcie",
+    "gn:country_code":"SK",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056579,
+    "gn:latitude":49.09247,
+    "gn:longitude":18.91809,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Z\u00e1tur\u010die",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056579
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bf9e41183c63b61d90cde43f431bdd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1226439433,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1226439433,
+    "wof:lastmodified":1536654624,
+    "wof:name":"Zaturcie",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91809,
+    49.09247,
+    18.91809,
+    49.09247
+],
+  "geometry": {"coordinates":[18.91809,49.09247],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343571073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51493,49.04406,22.51493,49.04406",
+    "geom:latitude":49.04406,
+    "geom:longitude":22.51493,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nova Sedlica",
+    "gn:country_code":"SK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724022,
+    "gn:latitude":49.04406,
+    "gn:longitude":22.51493,
+    "gn:modification_date":"2007-04-28",
+    "gn:name":"Nov\u00e1 Sedlica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724022,
+        "wk:page":"Nov%C3%A1_Sedlica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6adcde4a53f78c1bed0039abe30fac37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1343571073,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343571073,
+    "wof:lastmodified":1537573570,
+    "wof:name":"Nova Sedlica",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51493,
+    49.04406,
+    22.51493,
+    49.04406
+],
+  "geometry": {"coordinates":[22.51493,49.04406],"type":"Point"}
+}

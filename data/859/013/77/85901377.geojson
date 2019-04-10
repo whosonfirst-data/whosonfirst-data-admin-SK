@@ -1,0 +1,146 @@
+{
+  "id": 85901377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22355826.0165,
+    "geom:bbox":"17.125066,48.17774,17.125066,48.17774",
+    "geom:latitude":48.17774,
+    "geom:longitude":17.125066,
+    "gn:latitude":48.17997,
+    "gn:longitude":17.13955,
+    "iso:country":"SK",
+    "lbl:latitude":48.17774,
+    "lbl:longitude":17.125066,
+    "mps:latitude":48.190027,
+    "mps:longitude":17.121713,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:fra_x_preferred":[
+        "Nouvelle ville"
+    ],
+    "name:hrv_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:hun_x_preferred":[
+        "Pozsony-\u00dajv\u00e1ros"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0435-\u041c\u0435\u0441\u0442\u043e"
+    ],
+    "name:und_x_colloquial":[
+        "Nove Mesto"
+    ],
+    "name:und_x_preferred":[
+        "Nov\u00e9 Mesto"
+    ],
+    "name:unk_x_variant":[
+        "Nov\u00e9 Mesto"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3060972,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Nov\u00e9 Mesto",
+    "qs:local_max":14839,
+    "qs:local_sum":27271,
+    "qs:localhoods":23,
+    "qs:name":"Nov\u00e9 Mesto",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Bratislavsky",
+    "qs:name_adm2":"Bratislava",
+    "qs:name_lau":"Bratislava III",
+    "qs:name_local":"Bratislava",
+    "qs:photo_max":172,
+    "qs:photo_sum":669,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":67,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070505,
+    "qs:woe_adm2":29399347,
+    "qs:woe_lau":29402283,
+    "qs:woe_local":818717,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":438,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058478,
+        "gp:id":821306,
+        "qs:id":459895,
+        "qs_pg:id":459895,
+        "wd:id":"Q740351",
+        "wk:page":"Nov\u00e9 Mesto, Bratislava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a1194d7ef0e23f94d69d60cc7baed09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":85901377,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":85901377,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932488,
+    "wof:name":"Nov\u00e9 Mesto",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.125066,
+    48.17774,
+    17.125066,
+    48.17774
+],
+  "geometry": {"coordinates":[17.125066,48.17774],"type":"Point"}
+}

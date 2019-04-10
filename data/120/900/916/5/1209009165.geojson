@@ -1,0 +1,66 @@
+{
+  "id": 1209009165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05598,48.92667,21.05598,48.92667",
+    "geom:latitude":48.92667,
+    "geom:longitude":21.05598,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Klenov",
+    "gn:country_code":"SK",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724497,
+    "gn:latitude":48.92667,
+    "gn:longitude":21.05598,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Klenov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klembarok",
+        "Klenov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724497,
+        "wk:page":"Klenov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9651414dc97825ea7e8c340950935aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209009165
+        }
+    ],
+    "wof:id":1209009165,
+    "wof:lastmodified":1537700365,
+    "wof:name":"Klenov",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05598,
+    48.92667,
+    21.05598,
+    48.92667
+],
+  "geometry": {"coordinates":[21.05598,48.92667],"type":"Point"}
+}

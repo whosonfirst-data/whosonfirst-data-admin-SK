@@ -1,0 +1,65 @@
+{
+  "id": 1209211619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47685,48.10135,17.47685,48.10135",
+    "geom:latitude":48.10135,
+    "geom:longitude":17.47685,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Vojtechovce",
+    "gn:country_code":"SK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056723,
+    "gn:latitude":48.10135,
+    "gn:longitude":17.47685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vojtechovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9l-Vata",
+        "Vojtechovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056723
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"42fbee6b8bfc5a8f3aaf1fa987c583a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209211619
+        }
+    ],
+    "wof:id":1209211619,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vojtechovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47685,
+    48.10135,
+    17.47685,
+    48.10135
+],
+  "geometry": {"coordinates":[17.47685,48.10135],"type":"Point"}
+}

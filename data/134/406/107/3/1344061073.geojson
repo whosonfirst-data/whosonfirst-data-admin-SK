@@ -1,0 +1,71 @@
+{
+  "id": 1344061073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56419,48.33343,19.56419,48.33343",
+    "geom:latitude":48.33343,
+    "geom:longitude":19.56419,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maskova",
+    "gn:country_code":"SK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058770,
+    "gn:latitude":48.33343,
+    "gn:longitude":19.56419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u0161kov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u0161kov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058770,
+        "wk:page":"Ma%C5%A1kov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0b10f4743fba1d95e92324f05a9e8dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1344061073,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1344061073,
+    "wof:lastmodified":1537700403,
+    "wof:name":"Maskova",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56419,
+    48.33343,
+    19.56419,
+    48.33343
+],
+  "geometry": {"coordinates":[19.56419,48.33343],"type":"Point"}
+}

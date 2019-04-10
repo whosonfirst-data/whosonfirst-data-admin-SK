@@ -1,0 +1,65 @@
+{
+  "id": 1209523031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92415,48.8786,20.92415,48.8786",
+    "geom:latitude":48.8786,
+    "geom:longitude":20.92415,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zakarovce",
+    "gn:country_code":"SK",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723109,
+    "gn:latitude":48.8786,
+    "gn:longitude":20.92415,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"\u017dakarovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dakarovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723109,
+        "wk:page":"%C5%BDakarovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b47df6f516c142e3b7c2e1cb21f4bc5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209523031
+        }
+    ],
+    "wof:id":1209523031,
+    "wof:lastmodified":1537700340,
+    "wof:name":"Zakarovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92415,
+    48.8786,
+    20.92415,
+    48.8786
+],
+  "geometry": {"coordinates":[20.92415,48.8786],"type":"Point"}
+}

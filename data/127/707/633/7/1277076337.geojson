@@ -1,0 +1,73 @@
+{
+  "id": 1277076337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31835,48.78607,20.31835,48.78607",
+    "geom:latitude":48.78607,
+    "geom:longitude":20.31835,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vysna Slana",
+    "gn:country_code":"SK",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723157,
+    "gn:latitude":48.78607,
+    "gn:longitude":20.31835,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00e1 Slan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161nia Slan\u00e1",
+        "Vy\u0161n\u00ed Slana",
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723157,
+        "wk:page":"Vy%C5%A1n%C3%A1_Slan%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"670a2e35a5eabb662dc39b076a739071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1277076337,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1277076337,
+    "wof:lastmodified":1537700342,
+    "wof:name":"Vysna Slana",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31835,
+    48.78607,
+    20.31835,
+    48.78607
+],
+  "geometry": {"coordinates":[20.31835,48.78607],"type":"Point"}
+}

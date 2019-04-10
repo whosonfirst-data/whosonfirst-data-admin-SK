@@ -1,0 +1,71 @@
+{
+  "id": 1276553653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93116,48.17404,17.93116,48.17404",
+    "geom:latitude":48.17404,
+    "geom:longitude":17.93116,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kopanica",
+    "gn:country_code":"SK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059412,
+    "gn:latitude":48.17404,
+    "gn:longitude":17.93116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kopanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Kopanica",
+        "Kopanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059412
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"badf623f3d0e77182cf334708d39f55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080467,
+            "locality_id":1276553653,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1276553653,
+    "wof:lastmodified":1537700413,
+    "wof:name":"Kopanica",
+    "wof:parent_id":102080467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93116000000001,
+    48.17404000000001,
+    17.93116000000001,
+    48.17404000000001
+],
+  "geometry": {"coordinates":[17.93116000000001,48.17404000000001],"type":"Point"}
+}

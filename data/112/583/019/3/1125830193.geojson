@@ -1,0 +1,165 @@
+{
+  "id": 1125830193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50414,49.02691,21.50414,49.02691",
+    "geom:latitude":49.02691,
+    "geom:longitude":21.50414,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.02691,
+    "lbl:longitude":21.50414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u064a \u0646\u0627\u062f \u062a\u0648\u0628\u0644\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u666e\u62c9\u6cb3\u7554\u54c8\u52aa\u7d39\u592b\u91c7"
+    ],
+    "name:cze_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:dut_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:eng_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:epo_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:fre_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:ger_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:hrv_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:hun_x_preferred":[
+        "Tapolyhanusfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:lav_x_preferred":[
+        "Hanu\u0161ovce pie Top\u013cas"
+    ],
+    "name:may_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:nan_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0647 \u0646\u0627\u062f \u062a\u067e\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:rum_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u0451\u0443"
+    ],
+    "name:slo_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:spa_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435 \u043d\u0430\u0434 \u0422\u043e\u043f\u0459\u043e\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u043d\u0443\u0448\u043e\u0432\u0441\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u04e9\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Hanusovce"
+    ],
+    "name:war_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724743,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hanu\u0161ovce nad Topl\u0315ou",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":342993,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819561,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724743,
+        "gp:id":819561,
+        "qs_pg:id":342993,
+        "wd:id":"Q780527"
+    },
+    "wof:country":"SK",
+    "wof:created":1497292463,
+    "wof:geomhash":"0735477230370c3653454ed8e5425120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1125830193,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125830193,
+    "wof:lastmodified":1514505098,
+    "wof:name":"Hanu\u0161ovce nad Topl\u0315ou",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50414,
+    49.02691,
+    21.50414,
+    49.02691
+],
+  "geometry": {"coordinates":[21.50414,49.02691],"type":"Point"}
+}

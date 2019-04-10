@@ -1,0 +1,110 @@
+{
+  "id": 101843885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":677960.774731,
+    "geom:bbox":"21.2481763078,48.6133881615,21.2583150538,48.6271124695",
+    "geom:latitude":48.620211,
+    "geom:longitude":21.25314,
+    "iso:country":"SK",
+    "lbl:latitude":48.620506,
+    "lbl:longitude":21.253043,
+    "mps:latitude":48.620506,
+    "mps:longitude":21.253043,
+    "mz:hierarchy_label":1,
+    "name:cat_x_preferred":[
+        "Haniska"
+    ],
+    "name:deu_x_preferred":[
+        "Haniska"
+    ],
+    "name:epo_x_preferred":[
+        "Haniska"
+    ],
+    "name:fra_x_preferred":[
+        "Haniska"
+    ],
+    "name:hun_x_preferred":[
+        "Enyicke"
+    ],
+    "name:ita_x_preferred":[
+        "Haniska"
+    ],
+    "name:msa_x_preferred":[
+        "Haniska"
+    ],
+    "name:nld_x_preferred":[
+        "Haniska"
+    ],
+    "name:pol_x_preferred":[
+        "Haniska"
+    ],
+    "name:slk_x_preferred":[
+        "Haniska"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Haniska",
+    "qs:la_lc":"*SK426521400",
+    "qs:level":"locality",
+    "qs:loc":"Haniska",
+    "qs:loc_alt":"Haniska",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724748,
+        "gp:id":819555,
+        "qs:id":348476,
+        "qs_pg:id":348476,
+        "wd:id":"Q428663",
+        "wk:page":"Haniska, Ko\u0161ice-okolie District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a6c02dec00aa3b1e35236edb7e4423ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101843885,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843885,
+    "wof:lastmodified":1497293406,
+    "wof:name":"Haniska",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24817630776005,
+    48.61338816150862,
+    21.25831505377556,
+    48.62711246953518
+],
+  "geometry": {"coordinates":[[[21.25516403448722,48.62697552989425],[21.25455820750824,48.62431284029282],[21.25590139889181,48.62417589286929],[21.25569945160089,48.62328833077203],[21.25704261315713,48.62315136995159],[21.25684065181827,48.62226380980957],[21.25818378354819,48.62212683559272],[21.25798180816332,48.62123927740612],[21.25663869956423,48.62137624881524],[21.25583098138759,48.61782599631459],[21.25717399747225,48.61768903613483],[21.25697206750885,48.61680147368571],[21.25831505377556,48.6166645001112],[21.25811310977025,48.61577693961658],[21.25677014662796,48.61591391038394],[21.25636633211172,48.61413878122255],[21.25502340852603,48.61427573017482],[21.25482153801181,48.61338816150862],[21.25213571701863,48.61366200519819],[21.2523375412872,48.61454957947649],[21.25099459763527,48.61468647982548],[21.25139822715619,48.61646163143678],[21.25005523056598,48.61659852119516],[21.25025703581639,48.61748609852839],[21.24891400941146,48.61762297489003],[21.24951941024204,48.62028571019476],[21.24817630776005,48.62042257876976],[21.24837810306138,48.62131015830676],[21.24972122867513,48.62117328692619],[21.2503267384501,48.62383601201014],[21.24898354343497,48.62397289180797],[21.24958906552592,48.62663561764549],[21.25361883872762,48.62622490437923],[21.25382076700174,48.62711246953518],[21.25516403448722,48.62697552989425]]],"type":"Polygon"}
+}

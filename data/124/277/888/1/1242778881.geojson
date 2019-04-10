@@ -1,0 +1,67 @@
+{
+  "id": 1242778881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4509,48.58431,18.4509,48.58431",
+    "geom:latitude":48.58431,
+    "geom:longitude":18.4509,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rudica",
+    "gn:country_code":"SK",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057809,
+    "gn:latitude":48.58431,
+    "gn:longitude":18.4509,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rudica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057809
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ff794e13dc7adf56a7582aa18c1beb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080503,
+            "locality_id":1242778881,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1242778881,
+    "wof:lastmodified":1536774408,
+    "wof:name":"Rudica",
+    "wof:parent_id":102080503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4509,
+    48.58431,
+    18.4509,
+    48.58431
+],
+  "geometry": {"coordinates":[18.4509,48.58431],"type":"Point"}
+}

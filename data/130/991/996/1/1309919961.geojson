@@ -1,0 +1,68 @@
+{
+  "id": 1309919961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32931,48.57514,19.32931,48.57514",
+    "geom:latitude":48.57514,
+    "geom:longitude":19.32931,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Holcov Majer",
+    "gn:country_code":"SK",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629476,
+    "gn:latitude":48.57514,
+    "gn:longitude":19.32931,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"Holcov Majer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629476
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"202ef2bcffab15b1f54c1f1884a8659a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1309919961,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1309919961,
+    "wof:lastmodified":1536766856,
+    "wof:name":"Holcov Majer",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32931,
+    48.57514000000001,
+    19.32931,
+    48.57514000000001
+],
+  "geometry": {"coordinates":[19.32931,48.57514000000001],"type":"Point"}
+}

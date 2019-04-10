@@ -1,0 +1,68 @@
+{
+  "id": 1344061731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8451,48.99532,21.8451,48.99532",
+    "geom:latitude":48.99532,
+    "geom:longitude":21.8451,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ohradzany",
+    "gn:country_code":"SK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724006,
+    "gn:latitude":48.99532,
+    "gn:longitude":21.8451,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ohradzany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724006,
+        "wk:page":"Ohradzany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6bbec703527614fdafc91734d25f2ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080603,
+            "locality_id":1344061731,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1344061731,
+    "wof:lastmodified":1537573570,
+    "wof:name":"Ohradzany",
+    "wof:parent_id":102080603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8451,
+    48.99532,
+    21.8451,
+    48.99532
+],
+  "geometry": {"coordinates":[21.8451,48.99532],"type":"Point"}
+}

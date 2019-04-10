@@ -1,0 +1,71 @@
+{
+  "id": 1343785937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40564,49.04866,18.40564,49.04866",
+    "geom:latitude":49.04866,
+    "geom:longitude":18.40564,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Slopna",
+    "gn:country_code":"SK",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057569,
+    "gn:latitude":49.04866,
+    "gn:longitude":18.40564,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slopn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slopn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057569,
+        "wk:page":"Slopn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a2c72bb65f203289ede359c4f2ce25d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1343785937,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343785937,
+    "wof:lastmodified":1537700390,
+    "wof:name":"Slopna",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40564,
+    49.04866,
+    18.40564,
+    49.04866
+],
+  "geometry": {"coordinates":[18.40564,49.04866],"type":"Point"}
+}

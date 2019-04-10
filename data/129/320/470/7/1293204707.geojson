@@ -1,0 +1,71 @@
+{
+  "id": 1293204707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36873,48.58675,19.36873,48.58675",
+    "geom:latitude":48.58675,
+    "geom:longitude":19.36873,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dubravy",
+    "gn:country_code":"SK",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060321,
+    "gn:latitude":48.58675,
+    "gn:longitude":19.36873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00fabravy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00fabravy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060321,
+        "wk:page":"D%C3%BAbravy"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5aacfdd9af9149574b82f8c7ddcd6606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080507,
+            "locality_id":1293204707,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293204707,
+    "wof:lastmodified":1537700426,
+    "wof:name":"Dubravy",
+    "wof:parent_id":102080507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36873,
+    48.58675,
+    19.36873,
+    48.58675
+],
+  "geometry": {"coordinates":[19.36873,48.58675],"type":"Point"}
+}

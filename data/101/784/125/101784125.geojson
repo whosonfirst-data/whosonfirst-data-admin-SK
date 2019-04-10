@@ -1,0 +1,135 @@
+{
+  "id": 101784125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":578292.081711,
+    "geom:bbox":"19.8862643947,48.3746646978,19.904559811,48.3813789704",
+    "geom:latitude":48.377878,
+    "geom:longitude":19.893668,
+    "iso:country":"SK",
+    "lbl:latitude":48.378018,
+    "lbl:longitude":19.892282,
+    "mps:latitude":48.378018,
+    "mps:longitude":19.892282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:deu_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:dut_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:eng_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:epo_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:fra_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:fre_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:ger_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:hun_x_preferred":[
+        "Osgy\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:may_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:msa_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:nan_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:nld_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:pol_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:slk_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:slo_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0436\u0434\u0458\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "O\u017e\u010fany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Rimavsk\u00e1 Sobota",
+    "qs:adm0":"Slovensko",
+    "qs:la":"O\u017e\u010fany",
+    "qs:la_lc":"*SK329515264",
+    "qs:level":"locality",
+    "qs:loc":"O\u017e\u010fany",
+    "qs:loc_alt":"Ozdany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058311,
+        "gp:id":821464,
+        "qs:id":191009,
+        "wd:id":"Q679308",
+        "wk:page":"O\u017e\u010fany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e484acc5fb76b51228f0536dbf5b221c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":101784125,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784125,
+    "wof:lastmodified":1527688546,
+    "wof:name":"O\u017e\u010fany",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88626439466088,
+    48.37466469780895,
+    19.90455981095022,
+    48.3813789703762
+],
+  "geometry": {"coordinates":[[[19.89821472482453,48.38065675917176],[19.89786198889715,48.37887595467754],[19.90455981095022,48.3782736913393],[19.90438333921202,48.37738330026161],[19.90036473284698,48.37774469945964],[19.90018833841299,48.37685430025994],[19.89884881443453,48.37697473182266],[19.89849609557007,48.37519392626717],[19.89447762745874,48.37555510907703],[19.89430134927824,48.37466469780895],[19.88626439466088,48.37538661158732],[19.8867928366044,48.37805788734596],[19.88813241297885,48.37793760149265],[19.88866099548,48.3806088631726],[19.89000063543506,48.38048855376394],[19.89017686855436,48.3813789703762],[19.89821472482453,48.38065675917176]]],"type":"Polygon"}
+}

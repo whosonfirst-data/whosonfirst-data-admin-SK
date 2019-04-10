@@ -1,0 +1,176 @@
+{
+  "id": 102080451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001154,
+    "geom:area_square_m":9520573.239118,
+    "geom:bbox":"17.0725825,48.1382495,17.1324705,48.1745025",
+    "geom:latitude":48.151011,
+    "geom:longitude":17.099432,
+    "iso:country":"SK",
+    "lbl:latitude":48.150772,
+    "lbl:longitude":17.096937,
+    "mps:latitude":48.150772,
+    "mps:longitude":17.096937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u062a\u064a\u0633\u0644\u0627\u0641\u0627I"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0451\u043d \u0411\u0440\u0430\u0446\u0456\u0441\u043b\u0430\u0432\u0430 I"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Bratislava I"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u62c9\u63d0\u65af\u62c9\u74e61\u5340"
+    ],
+    "name:cze_x_preferred":[
+        "Okres Bratislava I"
+    ],
+    "name:dan_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:dut_x_preferred":[
+        "Okres Bratislava I"
+    ],
+    "name:eng_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Bratislavo 1"
+    ],
+    "name:fin_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:fre_x_preferred":[
+        "District de Bratislava I"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10e2\u10d8\u10e1\u10da\u10d0\u10d5\u10d0 I-\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Okres Bratislava I"
+    ],
+    "name:hrv_x_preferred":[
+        "Okrug Bratislava I"
+    ],
+    "name:hun_x_preferred":[
+        "Pozsonyi I. j\u00e1r\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 Vecchia"
+    ],
+    "name:lat_x_preferred":[
+        "Posonium I"
+    ],
+    "name:lav_x_preferred":[
+        "Bratislavas I apri\u0146\u0137is"
+    ],
+    "name:may_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:nan_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:pol_x_preferred":[
+        "Powiat Bratys\u0142awa I"
+    ],
+    "name:por_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:rue_x_preferred":[
+        "\u041e\u043a\u0440\u0435\u0441 \u0411\u0440\u0430\u0442\u0457\u0441\u043b\u0430\u0432\u0430 I"
+    ],
+    "name:rum_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 I"
+    ],
+    "name:slo_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:spa_x_preferred":[
+        "Bratislava I"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433 \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 I"
+    ],
+    "name:war_x_preferred":[
+        "Bratislava I"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a0_lc":"SK000000000",
+    "qs:a1":"Bratislavsk\u00c3\u00bd kraj",
+    "qs:a1_alt":"Bratislavsky kraj",
+    "qs:a1_lc":"SK100000000",
+    "qs:a2":"Bratislava I",
+    "qs:a2_alt":"Bratislava I",
+    "qs:a2_lc":"SK101000000",
+    "qs:adm0":"Slovakia",
+    "qs:adm0_a3":"SVK",
+    "qs:level":"adm2",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-25",
+    "statoids:area_km":"10",
+    "statoids:as_of_date":"2001-05-25",
+    "statoids:capital":"Bratislava",
+    "statoids:country":"SK",
+    "statoids:hasc":"SK.BL",
+    "statoids:name":"Bratislava I",
+    "statoids:population":"44798",
+    "statoids:statoid":"SK.BL.B1",
+    "statoids:timezone":"+1~",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SK.BL.B1",
+        "wd:id":"Q737665"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"36114d338cbc77ea4ffb3abe39debf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080451,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":102080451,
+    "wof:lastmodified":1537303673,
+    "wof:name":"Bratislava I",
+    "wof:parent_id":85688373,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":44798,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:shortcode":"B1",
+    "wof:superseded_by":[
+        101913495
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07258249999978,
+    48.13824949999986,
+    17.13247049999978,
+    48.17450249999985
+],
+  "geometry": {"coordinates":[[[17.1251704999998,48.15606649999984],[17.12592299999977,48.15318049999985],[17.12677649999978,48.15232899999983],[17.12478249999978,48.14652399999986],[17.13247049999978,48.14574449999984],[17.12924099999978,48.14019449999984],[17.12046599999979,48.14084749999984],[17.11751149999978,48.13995999999983],[17.11737949999977,48.13824949999986],[17.09526149999979,48.13860449999984],[17.07391549999977,48.14241149999984],[17.07427549999977,48.14418399999985],[17.07643299999978,48.14731949999984],[17.07713399999977,48.15275199999984],[17.07643399999978,48.16461749999985],[17.07792249999977,48.16723399999983],[17.07621849999978,48.16874999999985],[17.07258249999978,48.17078399999986],[17.07395599999978,48.17217399999983],[17.07346749999979,48.17450249999985],[17.07750149999978,48.17197149999984],[17.08249849999979,48.16650749999985],[17.08549749999978,48.16500049999985],[17.0924684999998,48.16347449999984],[17.09995249999977,48.16262449999985],[17.10879249999979,48.15877099999983],[17.11477949999977,48.15960599999985],[17.11818849999977,48.15735149999983],[17.11935749999978,48.15757549999984],[17.1251704999998,48.15606649999984]]],"type":"Polygon"}
+}

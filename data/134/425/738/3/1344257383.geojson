@@ -1,0 +1,67 @@
+{
+  "id": 1344257383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2,49.11667,18.2,49.11667",
+    "geom:latitude":49.11667,
+    "geom:longitude":18.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lednicka Lehota",
+    "gn:country_code":"SK",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059130,
+    "gn:latitude":49.11667,
+    "gn:longitude":18.2,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Lednick\u00e1 Lehota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059130
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4719a07a4e5367e5d11c9b718ae2068c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1344257383,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1344257383,
+    "wof:lastmodified":1537085453,
+    "wof:name":"Lednicka Lehota",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2,
+    49.11667,
+    18.2,
+    49.11667
+],
+  "geometry": {"coordinates":[18.2,49.11667],"type":"Point"}
+}

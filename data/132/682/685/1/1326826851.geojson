@@ -1,0 +1,71 @@
+{
+  "id": 1326826851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79558,48.93601,18.79558,48.93601",
+    "geom:latitude":48.93601,
+    "geom:longitude":18.79558,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Abramova",
+    "gn:country_code":"SK",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061276,
+    "gn:latitude":48.93601,
+    "gn:longitude":18.79558,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Abramov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abramov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061276,
+        "wk:page":"Abramov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6c1a4b8ff040c519654080439a5075f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080539,
+            "locality_id":1326826851,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1326826851,
+    "wof:lastmodified":1537700439,
+    "wof:name":"Abramova",
+    "wof:parent_id":102080539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79558,
+    48.93601,
+    18.79558,
+    48.93601
+],
+  "geometry": {"coordinates":[18.79558,48.93601],"type":"Point"}
+}

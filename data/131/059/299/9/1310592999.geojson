@@ -1,0 +1,71 @@
+{
+  "id": 1310592999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74231,48.071,17.74231,48.071",
+    "geom:latitude":48.071,
+    "geom:longitude":17.74231,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pasienka",
+    "gn:country_code":"SK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058266,
+    "gn:latitude":48.071,
+    "gn:longitude":17.74231,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pa\u0161ienka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Pa\u0161ienka",
+        "Pa\u0161ienka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058266
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5a4daadb07bd8c3dda752ddedf24cc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":1310592999,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310592999,
+    "wof:lastmodified":1537700397,
+    "wof:name":"Pasienka",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74231,
+    48.07100000000001,
+    17.74231,
+    48.07100000000001
+],
+  "geometry": {"coordinates":[17.74231,48.07100000000001],"type":"Point"}
+}

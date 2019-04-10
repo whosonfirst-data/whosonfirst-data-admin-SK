@@ -1,0 +1,77 @@
+{
+  "id": 1276766831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20097,48.66289,20.20097,48.66289",
+    "geom:latitude":48.66289,
+    "geom:longitude":20.20097,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chyzne",
+    "gn:country_code":"SK",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724950,
+    "gn:latitude":48.66289,
+    "gn:longitude":20.20097,
+    "gn:modification_date":"2016-04-28",
+    "gn:name":"Chy\u017en\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_historical":[
+        "Hizsny\u00f3v\u00edz"
+    ],
+    "name:hun_x_preferred":[
+        "Hizsny\u00f3v\u00edz"
+    ],
+    "name:und_x_variant":[
+        "Chy\u017en\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724950,
+        "wk:page":"Chy%C5%BEn%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4350e2f7c16fba402e9921a6e96939ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1276766831,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1276766831,
+    "wof:lastmodified":1537700373,
+    "wof:name":"Chyzne",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20097,
+    48.66289,
+    20.20097,
+    48.66289
+],
+  "geometry": {"coordinates":[20.20097,48.66289],"type":"Point"}
+}

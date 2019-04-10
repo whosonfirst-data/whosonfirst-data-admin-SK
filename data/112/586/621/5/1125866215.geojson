@@ -1,0 +1,139 @@
+{
+  "id": 1125866215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26185,48.66077,22.26185,48.66077",
+    "geom:latitude":48.66077,
+    "geom:longitude":22.26185,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":247,
+    "gn:population":247,
+    "iso:country":"SK",
+    "lbl:latitude":48.66077,
+    "lbl:longitude":22.26185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:cze_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151n\u00e9meti"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u044b\u0448\u043d\u0454 \u041d\u0457\u043c\u0435\u0446\u044c\u043a\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u045a\u0435 \u040a\u0435\u043c\u0435\u0446\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0454 \u041d\u0456\u043c\u0435\u0446\u044c\u043a\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Vy\u0161n\u00e9 Nemeck\u00e9"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723149,
+    "qs_pg:gn_pop":247,
+    "qs_pg:name":"Vy\u0161n\u00e9 Nemeck\u00e9",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":178885,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":823201,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723149,
+        "gp:id":823201,
+        "qs_pg:id":178885,
+        "wd:id":"Q999373"
+    },
+    "wof:country":"SK",
+    "wof:created":1497294047,
+    "wof:geomhash":"eaa9d984dea890e29270254ee84ab427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080571,
+            "locality_id":1125866215,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125866215,
+    "wof:lastmodified":1514505357,
+    "wof:name":"Vy\u0161n\u00e9 Nemeck\u00e9",
+    "wof:parent_id":102080571,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26185,
+    48.66077,
+    22.26185,
+    48.66077
+],
+  "geometry": {"coordinates":[22.26185,48.66077],"type":"Point"}
+}

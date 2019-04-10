@@ -1,0 +1,72 @@
+{
+  "id": 1309814971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62176,48.62913,20.62176,48.62913",
+    "geom:latitude":48.62913,
+    "geom:longitude":20.62176,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lipovnik",
+    "gn:country_code":"SK",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724279,
+    "gn:latitude":48.62913,
+    "gn:longitude":20.62176,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lipovn\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e1rsk\u00fat",
+        "Lipovn\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724279,
+        "wk:page":"Lipovn%C3%ADk%2C_Ro%C5%BE%C5%88ava_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c25087ac2710a4952f08671a9cdcf8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1309814971,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1309814971,
+    "wof:lastmodified":1537700362,
+    "wof:name":"Lipovnik",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62176,
+    48.62913,
+    20.62176,
+    48.62913
+],
+  "geometry": {"coordinates":[20.62176,48.62913],"type":"Point"}
+}

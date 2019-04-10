@@ -1,0 +1,68 @@
+{
+  "id": 1193136447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35086,48.87117,21.35086,48.87117",
+    "geom:latitude":48.87117,
+    "geom:longitude":21.35086,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Brestov",
+    "gn:country_code":"SK",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725080,
+    "gn:latitude":48.87117,
+    "gn:longitude":21.35086,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Brestov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725080,
+        "wk:page":"Brestov%2C_Pre%C5%A1ov_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"09e6467ef5efa4f50a0a48d6da478162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1193136447,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1193136447,
+    "wof:lastmodified":1537573584,
+    "wof:name":"Brestov",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35086,
+    48.87117,
+    21.35086,
+    48.87117
+],
+  "geometry": {"coordinates":[21.35086,48.87117],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125277729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.759056,48.724491,17.759056,48.724491",
+    "geom:latitude":48.724491,
+    "geom:longitude":17.759056,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.724491,
+    "lbl:longitude":17.759056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Visnove",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070592,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29400654,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29400654,
+        "qs_pg:id":1070592
+    },
+    "wof:country":"SK",
+    "wof:created":1497042386,
+    "wof:geomhash":"0748b376300393e7d2a852373bf3a23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "localadmin_id":1125277729,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125277729,
+    "wof:lastmodified":1509387196,
+    "wof:name":"Visnove",
+    "wof:parent_id":102080521,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.759056,
+    48.724491,
+    17.759056,
+    48.724491
+],
+  "geometry": {"coordinates":[17.759056,48.724491],"type":"Point"}
+}

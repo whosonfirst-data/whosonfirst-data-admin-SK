@@ -1,0 +1,151 @@
+{
+  "id": 101860179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.201698,49.370231,19.201698,49.370231",
+    "geom:latitude":49.370231,
+    "geom:longitude":19.201698,
+    "geonames:id":"3058374,6559492",
+    "iso:country":"SK",
+    "lbl:latitude":49.370231,
+    "lbl:longitude":19.201698,
+    "mps:latitude":49.370231,
+    "mps:longitude":19.201698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Erd\u0151tka"
+    ],
+    "name:ita_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Orawska Le\u015bna"
+    ],
+    "name:slk_x_preferred":[
+        "Erdudka"
+    ],
+    "name:slk_x_variant":[
+        "Erdutka",
+        "Erd\u00fadka",
+        "Erd\u00fatka",
+        "Lesna"
+    ],
+    "name:slo_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0432\u0441\u043a\u0430 \u0409\u0435\u0441\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"N\u00e1mestovo",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oravsk\u00e1 Lesn\u00e1",
+    "qs:loc_alt":"Oravska Lesna",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6559492,
+        "gp:id":821413,
+        "qs:id":6,
+        "qs_pg:id":851374,
+        "wd:id":"Q946655"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"726a0405da61c9ffd6921a3f05281ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080615,
+            "locality_id":101860179,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101860179,
+    "wof:lastmodified":1544745303,
+    "wof:name":"Oravsk\u00e1 Lesn\u00e1",
+    "wof:parent_id":102080615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.201698,
+    49.370231,
+    19.201698,
+    49.370231
+],
+  "geometry": {"coordinates":[19.201698,49.370231],"type":"Point"}
+}

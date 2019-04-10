@@ -1,0 +1,142 @@
+{
+  "id": 101860169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.886703,49.269337,18.886703,49.269337",
+    "geom:latitude":49.269337,
+    "geom:longitude":18.886703,
+    "iso:country":"SK",
+    "lbl:latitude":49.269337,
+    "lbl:longitude":18.886703,
+    "mps:latitude":49.269337,
+    "mps:longitude":18.886703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:ces_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:cze_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:deu_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:epo_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151vadas"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043d\u0438 \u0412\u0430\u0434\u0438\u0447\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Horn\u00ed Vadi\u010dov"
+    ],
+    "name:war_x_preferred":[
+        "Horn\u00fd Vadi\u010dov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Kysuck\u00e9 Nov\u00e9 Mesto",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00fd Vadi\u010dov",
+    "qs:loc_alt":"Horny Vadicov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059921,
+        "gp:id":819774,
+        "qs:id":383681,
+        "qs_pg:id":383681,
+        "wd:id":"Q999602",
+        "wk:page":"Horn\u00fd Vadi\u010dov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"44e2d0f1c72f0f35163d4068ae686bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080589,
+            "locality_id":101860169,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101860169,
+    "wof:lastmodified":1544745298,
+    "wof:name":"Horn\u00fd Vadi\u010dov",
+    "wof:parent_id":102080589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.886703,
+    49.269337,
+    18.886703,
+    49.269337
+],
+  "geometry": {"coordinates":[18.886703,49.269337],"type":"Point"}
+}

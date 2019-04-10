@@ -1,0 +1,67 @@
+{
+  "id": 1343482357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36667,48.06667,17.36667,48.06667",
+    "geom:latitude":48.06667,
+    "geom:longitude":17.36667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nemecky Sok",
+    "gn:country_code":"SK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058548,
+    "gn:latitude":48.06667,
+    "gn:longitude":17.36667,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Nemeck\u00fd \u0160\u00f3k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058548
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"268041e6d38306061f41779434e7d8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1343482357,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1343482357,
+    "wof:lastmodified":1536714909,
+    "wof:name":"Nemecky Sok",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36667000000001,
+    48.06667,
+    17.36667000000001,
+    48.06667
+],
+  "geometry": {"coordinates":[17.36667000000001,48.06667],"type":"Point"}
+}

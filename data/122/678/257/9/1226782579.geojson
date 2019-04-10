@@ -1,0 +1,71 @@
+{
+  "id": 1226782579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11476,48.20379,18.11476,48.20379",
+    "geom:latitude":48.20379,
+    "geom:longitude":18.11476,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horna Stefanovicova",
+    "gn:country_code":"SK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060023,
+    "gn:latitude":48.20379,
+    "gn:longitude":18.11476,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e1 \u0160tefanovi\u010dov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00fd Tara\u0148",
+        "Horn\u00e1 \u0160tefanovi\u010dov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060023
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ccbdfdf513f80326eb867f8bbe6e020c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1226782579,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226782579,
+    "wof:lastmodified":1537700423,
+    "wof:name":"Horna Stefanovicova",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11476,
+    48.20379000000001,
+    18.11476,
+    48.20379000000001
+],
+  "geometry": {"coordinates":[18.11476,48.20379000000001],"type":"Point"}
+}

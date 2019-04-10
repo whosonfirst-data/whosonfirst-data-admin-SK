@@ -1,0 +1,144 @@
+{
+  "id": 101782857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000177,
+    "geom:area_square_m":1445674.036997,
+    "geom:bbox":"21.5629983529,48.5683439609,21.580436562,48.5884187701",
+    "geom:latitude":48.578737,
+    "geom:longitude":21.570545,
+    "iso:country":"SK",
+    "lbl:latitude":48.577952,
+    "lbl:longitude":21.570546,
+    "mps:latitude":48.577952,
+    "mps:longitude":21.570546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:ces_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:cze_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:deu_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:dut_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:eng_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:epo_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:fra_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:fre_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:ger_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:hun_x_preferred":[
+        "Kozma"
+    ],
+    "name:ita_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:may_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:msa_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:nan_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:nld_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:pol_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0456\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Kuzmice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Kuzmice"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Kuzmice",
+    "qs:la_lc":"*SK42B528471",
+    "qs:level":"locality",
+    "qs:loc":"Kuzmice",
+    "qs:loc_alt":"Kuzmice",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724346,
+        "gp:id":820514,
+        "qs:id":1116606,
+        "qs_pg:id":1116606,
+        "wd:id":"Q782661",
+        "wk:page":"Kuzmice, Trebi\u0161ov District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bf8e25d3badfd8bfc462da781c935408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101782857,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782857,
+    "wof:lastmodified":1553815498,
+    "wof:name":"Kuzmice",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56299835293703,
+    48.56834396088425,
+    21.58043656197202,
+    48.58841877007785
+],
+  "geometry": {"coordinates":[[[21.56919326626388,48.58813733783217],[21.56898595552587,48.58725043770818],[21.57166891561911,48.58696894653292],[21.57083958162951,48.58342136024845],[21.57218095931279,48.58328060192434],[21.57176630215884,48.58150680924359],[21.57713156017661,48.58094363728867],[21.57775383605025,48.5836042904146],[21.58043656197202,48.58332259012872],[21.57836217486869,48.57445377306772],[21.57433876599026,48.57487621280478],[21.57413144752513,48.57398931759434],[21.57144918666211,48.57427085748935],[21.57020574737652,48.56894943311391],[21.56752373513029,48.5692308737959],[21.56731657381675,48.56834396088425],[21.56597558041653,48.56848465409882],[21.56618271872998,48.56937156988835],[21.56350066537721,48.56965291357517],[21.56370776698702,48.570539834236],[21.56504882009096,48.5703991675984],[21.56567024973435,48.57305991565033],[21.56432912761738,48.57320059092029],[21.56453626642923,48.57408750804922],[21.56587741155272,48.5739468299015],[21.56670615186323,48.57749447807515],[21.56536491470456,48.57763516773508],[21.56577929466619,48.57940899228078],[21.56443800463001,48.5795496715279],[21.56526678416481,48.58309732153936],[21.56392539521232,48.5832379961297],[21.56433979478248,48.58501182159665],[21.56299835293703,48.58515248577243],[21.5634127436943,48.58692631346679],[21.5647542315815,48.5867856435338],[21.56496146394306,48.58767255317878],[21.56630296799545,48.58753186419437],[21.56651023268904,48.58841877007785],[21.56919326626388,48.58813733783217]]],"type":"Polygon"}
+}

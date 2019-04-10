@@ -1,0 +1,139 @@
+{
+  "id": 101787513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":757865.934091,
+    "geom:bbox":"18.7157580091,47.8260320887,18.7394981058,47.8361702333",
+    "geom:latitude":47.830164,
+    "geom:longitude":18.728555,
+    "iso:country":"SK",
+    "lbl:latitude":47.830198,
+    "lbl:longitude":18.728734,
+    "mps:latitude":47.830198,
+    "mps:longitude":18.728734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:deu_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:epo_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:hbs_x_preferred":[
+        "Kamenjica na Hronu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05de\u05e0\u05d9\u05e6\u05d4 \u05e0\u05d0\u05d3 \u05d7\u05e8\u05d5\u05e0\u05d5\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Garamk\u00f6vesd"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:may_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:msa_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:nld_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:slk_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u045a\u0438\u0446\u0430 \u043d\u0430 \u0425\u0440\u043e\u043d\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Garam-K\u00f6vesd"
+    ],
+    "name:war_x_preferred":[
+        "Kamenica nad Hronom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Kamenica nad Hronom",
+    "qs:la_lc":"*SK234503231",
+    "qs:level":"locality",
+    "qs:loc":"Kamenica nad Hronom",
+    "qs:loc_alt":"Kamenica nad Hronom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059586,
+        "gp:id":820111,
+        "qs:id":1271237,
+        "wd:id":"Q685379",
+        "wk:page":"Kamenica nad Hronom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fc00b206f69ac49da22aef184fbc3662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101787513,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101787513,
+    "wof:lastmodified":1527715853,
+    "wof:name":"Kamenica nad Hronom",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71575800912296,
+    47.82603208868505,
+    18.7394981057937,
+    47.8361702333026
+],
+  "geometry": {"coordinates":[[[18.72892908061584,47.83606417581763],[18.7286229847038,47.83427873273132],[18.72995052395356,47.83417266346572],[18.72979746348739,47.83327994302721],[18.73245248156888,47.83306776061744],[18.73214629018941,47.83128232622028],[18.73347374630708,47.83117621521251],[18.73332063811358,47.83028349911854],[18.73464806652288,47.83017737419817],[18.73449494242391,47.82928465955246],[18.7371497388304,47.82907236583958],[18.73699657611735,47.82817965477858],[18.73832394411522,47.82807348598715],[18.73817076550199,47.82718077637492],[18.7394981057937,47.82707459367299],[18.73934491128188,47.82618188550947],[18.73005358329522,47.8269248124854],[18.72990055455091,47.82603208868505],[18.72724588989126,47.82624420484422],[18.72739887321626,47.82713693291277],[18.72607151069042,47.82724296905548],[18.72622447810551,47.8281356985708],[18.72489708787828,47.82824172079967],[18.72505003938181,47.82913445176172],[18.72372262145211,47.82924046007588],[18.72387555704216,47.83013319248437],[18.71989320517594,47.83045112753513],[18.7197403377296,47.82955838872834],[18.71575800912296,47.82987617294401],[18.7159108084233,47.83076891814619],[18.71723827899359,47.83066300399162],[18.71739110780436,47.83155574637613],[18.72137355774589,47.8312379012217],[18.72152646150312,47.83213063652317],[18.72285395755733,47.83202465390707],[18.72315983090459,47.833810118185],[18.72581489891326,47.83359809627103],[18.72596789122559,47.83449082311284],[18.72729544046092,47.83438478594712],[18.72760149093392,47.8361702333026],[18.72892908061584,47.83606417581763]]],"type":"Polygon"}
+}

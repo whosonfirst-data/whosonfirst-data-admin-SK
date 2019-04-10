@@ -1,0 +1,71 @@
+{
+  "id": 1276979217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45584,49.17441,20.45584,49.17441",
+    "geom:latitude":49.17441,
+    "geom:longitude":20.45584,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Strazky",
+    "gn:country_code":"SK",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723472,
+    "gn:latitude":49.17441,
+    "gn:longitude":20.45584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Str\u00e1\u017eky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Str\u00e1\u017eky nad Popradom",
+        "Str\u00e1\u017eky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723472
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5bf8592e924c4f5a8753964eb2284d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1276979217,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276979217,
+    "wof:lastmodified":1537700348,
+    "wof:name":"Strazky",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45584,
+    49.17441,
+    20.45584,
+    49.17441
+],
+  "geometry": {"coordinates":[20.45584,49.17441],"type":"Point"}
+}

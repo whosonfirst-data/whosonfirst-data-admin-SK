@@ -1,0 +1,70 @@
+{
+  "id": 1226753949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87072,47.93584,17.87072,47.93584",
+    "geom:latitude":47.93584,
+    "geom:longitude":17.87072,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aszodpuszta",
+    "gn:country_code":"SK",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061243,
+    "gn:latitude":47.93584,
+    "gn:longitude":17.87072,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"Asz\u00f3dpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "As\u00f3d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061243
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0082576621cd23e23f6dc6e40622b921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1226753949,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1226753949,
+    "wof:lastmodified":1537700438,
+    "wof:name":"Aszodpuszta",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87072000000001,
+    47.93584,
+    17.87072000000001,
+    47.93584
+],
+  "geometry": {"coordinates":[17.87072000000001,47.93584],"type":"Point"}
+}

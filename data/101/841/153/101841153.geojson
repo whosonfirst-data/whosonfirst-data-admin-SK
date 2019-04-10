@@ -1,0 +1,134 @@
+{
+  "id": 101841153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":318748.6229,
+    "geom:bbox":"19.5094338963,49.4359158458,19.5188492702,49.4449381978",
+    "geom:latitude":49.44021,
+    "geom:longitude":19.513544,
+    "iso:country":"SK",
+    "lbl:latitude":49.439387,
+    "lbl:longitude":19.514258,
+    "mps:latitude":49.439387,
+    "mps:longitude":19.514258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Klin"
+    ],
+    "name:ces_x_preferred":[
+        "Klin"
+    ],
+    "name:cze_x_preferred":[
+        "Klin"
+    ],
+    "name:deu_x_preferred":[
+        "Klin"
+    ],
+    "name:dut_x_preferred":[
+        "Klin"
+    ],
+    "name:eng_x_preferred":[
+        "Klin"
+    ],
+    "name:epo_x_preferred":[
+        "Klin"
+    ],
+    "name:fra_x_preferred":[
+        "Klin"
+    ],
+    "name:fre_x_preferred":[
+        "Klin"
+    ],
+    "name:ger_x_preferred":[
+        "Klin"
+    ],
+    "name:hun_x_preferred":[
+        "Klin"
+    ],
+    "name:ita_x_preferred":[
+        "Klin"
+    ],
+    "name:may_x_preferred":[
+        "Klin"
+    ],
+    "name:msa_x_preferred":[
+        "Klin"
+    ],
+    "name:nld_x_preferred":[
+        "Klin"
+    ],
+    "name:pol_x_preferred":[
+        "Klin"
+    ],
+    "name:slo_x_preferred":[
+        "Klin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0438\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Klin"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"N\u00e1mestovo",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Zubrohlava",
+    "qs:la_lc":"*SK317510246",
+    "qs:level":"locality",
+    "qs:loc":"Klin",
+    "qs:loc_alt":"Klin",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059498,
+        "gp:id":823417,
+        "qs:id":5,
+        "wd:id":"Q1020614",
+        "wk:page":"Klin, N\u00e1mestovo District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5550e448d580a4b5bd074b2d3e812707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080615,
+            "locality_id":101841153,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101841153,
+    "wof:lastmodified":1553815537,
+    "wof:name":"Klin",
+    "wof:parent_id":102080615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50943389634705,
+    49.43591584577075,
+    19.51884927015408,
+    49.44493819779785
+],
+  "geometry": {"coordinates":[[[19.50943389634705,49.44458718818692],[19.51318423525458,49.44493819779785],[19.51287962888352,49.44338951188888],[19.51424883603136,49.44327338473141],[19.51389847380676,49.44149207023122],[19.516636772276,49.44125977587311],[19.5162863443216,49.43947846850017],[19.51765543564812,49.43936230130129],[19.51748020926897,49.43847164906384],[19.51884927015408,49.43835546770401],[19.51867402734746,49.43746481724855],[19.51593594858218,49.43769715846594],[19.51558558505377,49.43591584577075],[19.51284758038082,49.43614811077089],[19.51302270915841,49.43703877234361],[19.51165367340769,49.43715488237808],[19.51217903459303,49.4398268704432],[19.51080991943667,49.43994297120634],[19.51098503144635,49.44083363501073],[19.50961588584892,49.44094972161031],[19.51031631643781,49.44451237996401],[19.50943389634705,49.44458718818692]]],"type":"Polygon"}
+}

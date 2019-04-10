@@ -1,0 +1,158 @@
+{
+  "id": 101843931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":608116.674781,
+    "geom:bbox":"18.6187709363,49.0389140776,18.646855465,49.0475772124",
+    "geom:latitude":49.0439,
+    "geom:longitude":18.634087,
+    "iso:country":"SK",
+    "lbl:latitude":49.04499,
+    "lbl:longitude":18.634087,
+    "mps:latitude":49.04499,
+    "mps:longitude":18.634087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0435\u0446\u043a\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Frivaldn\u00e1das"
+    ],
+    "name:ita_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0458\u0435\u0446\u043a\u0430 \u0409\u0435\u0441\u043d\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Fryvald-Trstena",
+        "Rajecka Lesna"
+    ],
+    "name:und_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Fr\u00fdvald-Trsten\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Trsten\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017dilina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Rajeck\u00e1 Lesn\u00e1",
+    "qs:la_lc":"*SK31B517925",
+    "qs:level":"locality",
+    "qs:loc":"Rajeck\u00e1 Lesn\u00e1",
+    "qs:loc_alt":"Rajecka Lesna",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07100c4e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3057909,
+        "gp:id":821891,
+        "qs:id":1140389,
+        "wd:id":"Q1004056",
+        "wk:page":"Rajeck\u00e1 Lesn\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bf1b612e9b4a1795d6ed1825fb1fb58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":101843931,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843931,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642588,
+    "wof:name":"Rajeck\u00e1 Lesn\u00e1",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6187709362548,
+    49.03891407761347,
+    18.64685546500203,
+    49.04757721241396
+],
+  "geometry": {"coordinates":[[[18.63707756785851,49.04747188556803],[18.63676327624853,49.0456872176577],[18.63948299765235,49.04547652324857],[18.63932581429094,49.04458419275977],[18.64068564288942,49.04447882300138],[18.64052844254638,49.04358649409124],[18.64188824169116,49.04348111002992],[18.64173102436791,49.04258878269877],[18.64309079405996,49.0424833843353],[18.642933559759,49.04159105858304],[18.64565303494038,49.04138021675419],[18.64549575951213,49.04048789477918],[18.64685546500203,49.04038245131505],[18.64669817260159,49.03949013091915],[18.64261911268437,49.03980640522212],[18.64246189990934,49.03891407761347],[18.63974254844015,49.03912484026279],[18.64021406338333,49.04180183441554],[18.63885430724918,49.04190719758299],[18.63901146908984,49.04279952992698],[18.62949285881137,49.04353662547976],[18.62933586605766,49.0426442777665],[18.62525645473977,49.04295992177452],[18.62557030246762,49.04474462974684],[18.6187709362548,49.04527039501039],[18.61892775005924,49.0461627590343],[18.62028765803694,49.04605763679251],[18.62044450316228,49.04694999800734],[18.62180443001535,49.04684485707082],[18.62164756072838,49.04595249804839],[18.62708711861342,49.04553177805678],[18.62724408454523,49.0464241283056],[18.62996388006877,49.0462136649129],[18.63012090148811,49.04710601015523],[18.63556052566139,49.04668487657142],[18.63571765089262,49.04757721241396],[18.63707756785851,49.04747188556803]]],"type":"Polygon"}
+}

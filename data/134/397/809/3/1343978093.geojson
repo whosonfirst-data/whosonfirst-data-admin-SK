@@ -1,0 +1,67 @@
+{
+  "id": 1343978093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20707,49.19993,19.20707,49.19993",
+    "geom:latitude":49.19993,
+    "geom:longitude":19.20707,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zahrabova",
+    "gn:country_code":"SK",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056615,
+    "gn:latitude":49.19993,
+    "gn:longitude":19.20707,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Zahrabov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056615
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ee365b7e96d9ed7be69e7e56e6a99757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1343978093,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343978093,
+    "wof:lastmodified":1536993780,
+    "wof:name":"Zahrabova",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20707,
+    49.19993,
+    19.20707,
+    49.19993
+],
+  "geometry": {"coordinates":[19.20707,49.19993],"type":"Point"}
+}

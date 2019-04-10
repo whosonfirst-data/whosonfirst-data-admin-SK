@@ -1,0 +1,67 @@
+{
+  "id": 1210015829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45575,49.03586,21.45575,49.03586",
+    "geom:latitude":49.03586,
+    "geom:longitude":21.45575,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Podlipniky",
+    "gn:country_code":"SK",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723867,
+    "gn:latitude":49.03586,
+    "gn:longitude":21.45575,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Podlipn\u00edky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723867
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b4af6f8f85a46215d6469a2a2865f42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1210015829,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1210015829,
+    "wof:lastmodified":1536395124,
+    "wof:name":"Podlipniky",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45575,
+    49.03586,
+    21.45575,
+    49.03586
+],
+  "geometry": {"coordinates":[21.45575,49.03586],"type":"Point"}
+}

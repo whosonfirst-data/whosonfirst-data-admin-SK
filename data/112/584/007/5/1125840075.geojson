@@ -1,0 +1,135 @@
+{
+  "id": 1125840075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99863,48.37512,16.99863,48.37512",
+    "geom:latitude":48.37512,
+    "geom:longitude":16.99863,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.37512,
+    "lbl:longitude":16.99863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:cze_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:dut_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:eng_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:epo_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:fre_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:ger_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:hun_x_preferred":[
+        "Detrek\u0151cs\u00fct\u00f6rt\u00f6k"
+    ],
+    "name:ita_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:may_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:nan_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:por_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:slo_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0432\u0435\u0446\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:war_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058182,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Plaveck\u00fd \u00c5 Tvrtok",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":188,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":345007,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821611,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058182,
+        "gp:id":821611,
+        "qs_pg:id":345007,
+        "wd:id":"Q163449"
+    },
+    "wof:country":"SK",
+    "wof:created":1497292895,
+    "wof:geomhash":"3cbd69372e23316b2668633952820cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":1125840075,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1125840075,
+    "wof:lastmodified":1514505224,
+    "wof:name":"Plaveck\u00fd \u00c5 Tvrtok",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99863,
+    48.37512,
+    16.99863,
+    48.37512
+],
+  "geometry": {"coordinates":[16.99863,48.37512],"type":"Point"}
+}

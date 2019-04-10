@@ -1,0 +1,150 @@
+{
+  "id": 101784057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1246269.040424,
+    "geom:bbox":"17.9566174774,48.5488337348,17.9771184834,48.5601592936",
+    "geom:latitude":48.554449,
+    "geom:longitude":17.967145,
+    "iso:country":"SK",
+    "lbl:latitude":48.554505,
+    "lbl:longitude":17.96817,
+    "mps:latitude":48.554505,
+    "mps:longitude":17.96817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:ces_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:cze_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:dut_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:eng_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:fre_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:ger_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Njitranska Blatnjica"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitras\u00e1rf\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:may_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:nan_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:slk_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:slo_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0430 \u0411\u043b\u0430\u0442\u045a\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "\u0160arfia"
+    ],
+    "name:war_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Topolcany",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nitrianska Blatnica",
+    "qs:la_lc":"*SK236505234",
+    "qs:level":"locality",
+    "qs:loc":"Nitrianska Blatnica",
+    "qs:loc_alt":"Nitrianska Blatnica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":293,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061058,
+        "gp:id":818633,
+        "qs:id":1271477,
+        "qs_pg:id":385622,
+        "wd:id":"Q921520",
+        "wk:page":"Nitrianska Blatnica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a69d4c045f15e170eddde058824e5dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":101784057,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101784057,
+    "wof:lastmodified":1527688545,
+    "wof:name":"Nitrianska Blatnica",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95661747738592,
+    48.5488337347868,
+    17.97711848342044,
+    48.56015929358955
+],
+  "geometry": {"coordinates":[[[17.97258524005821,48.56006219262161],[17.97244230457574,48.55916860699762],[17.97379011993337,48.55907149168058],[17.97364716723445,48.55817790745687],[17.9749949541519,48.5580807777917],[17.97485198423794,48.55718719496849],[17.97619974271663,48.55709005095582],[17.97577080072926,48.55440930489249],[17.97711848342044,48.55431215053096],[17.97683250706882,48.55252498749417],[17.97548487172259,48.55262213785801],[17.97534191691352,48.55172855344301],[17.97399430047818,48.55182568546365],[17.97385137580147,48.55093209845165],[17.9725037782776,48.55102921213017],[17.97236088373091,48.55013562252162],[17.97101330511884,48.55023271785859],[17.97087044070042,48.54933912565423],[17.9654801733659,48.54972733557605],[17.96533741007971,48.5488337347868],[17.96398985502941,48.54893074441202],[17.96413259464634,48.54982434719699],[17.96143742294862,48.55001832140738],[17.96158012167649,48.55091192758505],[17.95888488362988,48.55110584040813],[17.95902754146351,48.55199944997776],[17.9576798916417,48.55209638386657],[17.95796517930773,48.55388360520232],[17.95661747738592,48.55398052673428],[17.95704538622141,48.55666136024053],[17.95839315917601,48.55656443272545],[17.95853583203211,48.55745804070528],[17.96392697104375,48.55707015919717],[17.96435531249,48.55975095560694],[17.97109448445821,48.55926570596733],[17.97123739625971,48.56015929358955],[17.97258524005821,48.56006219262161]]],"type":"Polygon"}
+}

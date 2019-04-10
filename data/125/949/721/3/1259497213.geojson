@@ -1,0 +1,67 @@
+{
+  "id": 1259497213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10339,48.31088,19.10339,48.31088",
+    "geom:latitude":48.31088,
+    "geom:longitude":19.10339,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolny Jalsovik",
+    "gn:country_code":"SK",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060411,
+    "gn:latitude":48.31088,
+    "gn:longitude":19.10339,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Doln\u00fd Jal\u0161ov\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060411
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f81850c623d7bbc73c58cacad248ec9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1259497213,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1259497213,
+    "wof:lastmodified":1536838003,
+    "wof:name":"Dolny Jalsovik",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10339,
+    48.31088,
+    19.10339,
+    48.31088
+],
+  "geometry": {"coordinates":[19.10339,48.31088],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242789521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10103,48.59139,21.10103,48.59139",
+    "geom:latitude":48.59139,
+    "geom:longitude":21.10103,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cestice",
+    "gn:country_code":"SK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724972,
+    "gn:latitude":48.59139,
+    "gn:longitude":21.10103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cestice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Szeszta"
+    ],
+    "name:und_x_variant":[
+        "Szeszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724972,
+        "wk:page":"Cestice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d39a1302f2e8078b6759ee9e71523efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1242789521,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1242789521,
+    "wof:lastmodified":1537700373,
+    "wof:name":"Cestice",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10103,
+    48.59139,
+    21.10103,
+    48.59139
+],
+  "geometry": {"coordinates":[21.10103,48.59139],"type":"Point"}
+}

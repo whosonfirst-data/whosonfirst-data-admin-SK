@@ -1,0 +1,73 @@
+{
+  "id": 1193154729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.30997,48.20002,19.30997,48.20002",
+    "geom:latitude":48.20002,
+    "geom:longitude":19.30997,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolne Plachtince",
+    "gn:country_code":"SK",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060448,
+    "gn:latitude":48.20002,
+    "gn:longitude":19.30997,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Plachtince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolni Plachtince",
+        "Dolnie Plachtince",
+        "Doln\u00e9 Plachtince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060448,
+        "wk:page":"Doln%C3%A9_Plachtince"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b72e471aceb8077dc3c4ab9850c90fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1193154729,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1193154729,
+    "wof:lastmodified":1537700429,
+    "wof:name":"Dolne Plachtince",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.30997,
+    48.20002,
+    19.30997,
+    48.20002
+],
+  "geometry": {"coordinates":[19.30997,48.20002],"type":"Point"}
+}

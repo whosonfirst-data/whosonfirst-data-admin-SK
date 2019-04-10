@@ -1,0 +1,67 @@
+{
+  "id": 1310622307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63155,48.49257,17.63155,48.49257",
+    "geom:latitude":48.49257,
+    "geom:longitude":17.63155,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Paderovce",
+    "gn:country_code":"SK",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058306,
+    "gn:latitude":48.49257,
+    "gn:longitude":17.63155,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Paderovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058306
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6f1ccae782e73ee83757def5658f30e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1310622307,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310622307,
+    "wof:lastmodified":1536748309,
+    "wof:name":"Paderovce",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63155,
+    48.49257,
+    17.63155,
+    48.49257
+],
+  "geometry": {"coordinates":[17.63155,48.49257],"type":"Point"}
+}

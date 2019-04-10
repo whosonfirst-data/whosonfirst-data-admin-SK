@@ -1,0 +1,146 @@
+{
+  "id": 1125998971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7056,49.40211,21.7056,49.40211",
+    "geom:latitude":49.40211,
+    "geom:longitude":21.7056,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.40211,
+    "lbl:longitude":21.7056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:cze_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:dut_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:eng_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:fre_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:ger_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151kom\u00e1rnok"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30b7\u30e5\u30cb\u30fc\u30fb\u30b3\u30de\u30fc\u30eb\u30cb\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:nan_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:pol_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u044b\u0448\u043d\u0457\u0439 \u041a\u043e\u043c\u0430\u0440\u043d\u0438\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0438 \u041a\u043e\u043c\u0430\u0440\u045a\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0456\u0439 \u041a\u043e\u043c\u0430\u0440\u043d\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Vy\u0161n\u00ed Kom\u00e1rnik"
+    ],
+    "name:war_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723133,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vy\u0161n\u00fd Kom\u00e1rnik",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241083,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":823219,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723133,
+        "gp:id":823219,
+        "qs_pg:id":241083,
+        "wd:id":"Q268036"
+    },
+    "wof:country":"SK",
+    "wof:created":1497299532,
+    "wof:geomhash":"4f1b016a831e9bd7ba1dcdaaab86ab84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1125998971,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125998971,
+    "wof:lastmodified":1514505358,
+    "wof:name":"Vy\u0161n\u00fd Kom\u00e1rnik",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7056,
+    49.40211,
+    21.7056,
+    49.40211
+],
+  "geometry": {"coordinates":[21.7056,49.40211],"type":"Point"}
+}

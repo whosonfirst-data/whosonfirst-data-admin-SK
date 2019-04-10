@@ -1,0 +1,141 @@
+{
+  "id": 101832703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":640510.307507,
+    "geom:bbox":"19.7930977302,48.7482993649,19.8113580144,48.7610687665",
+    "geom:latitude":48.755574,
+    "geom:longitude":19.800824,
+    "iso:country":"SK",
+    "lbl:latitude":48.7569,
+    "lbl:longitude":19.799925,
+    "mps:latitude":48.7569,
+    "mps:longitude":19.799925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:ces_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:cze_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:deu_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:dut_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:eng_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:epo_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:fra_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:fre_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:ger_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:hun_x_preferred":[
+        "Erd\u0151k\u00f6z"
+    ],
+    "name:ita_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:may_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:msa_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:nan_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:nld_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:pol_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:slo_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0445\u0440\u043e\u043d\u0441\u043a\u0430 \u041f\u043e\u043b\u0445\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Polhora"
+    ],
+    "name:war_x_preferred":[
+        "Pohronsk\u00e1 Polhora"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Brezno",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Brezno",
+    "qs:la_lc":"*SK323508497",
+    "qs:level":"locality",
+    "qs:loc":"Pohronsk\u00e1 Polhora",
+    "qs:loc_alt":"Pohronska Polhora",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058108,
+        "gp:id":821691,
+        "qs:id":1140384,
+        "wd:id":"Q517326",
+        "wk:page":"Pohronsk\u00e1 Polhora"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b30f3553982e9c5bf3843095e9c3289b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":101832703,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101832703,
+    "wof:lastmodified":1527642786,
+    "wof:name":"Pohronsk\u00e1 Polhora",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79309773018252,
+    48.74829936486981,
+    19.81135801442542,
+    48.76106876652409
+],
+  "geometry": {"coordinates":[[[19.79309773018252,48.7552000031738],[19.79506954365399,48.75955583502258],[19.79675116609582,48.7594072649174],[19.79692777755849,48.76029768406704],[19.79827771188974,48.76017835055774],[19.79845435494497,48.76106876652409],[19.80115425311863,48.76083004557069],[19.80097756286739,48.75993963453107],[19.80367739025962,48.75970085316146],[19.8029705204612,48.75613922150518],[19.80432033093433,48.75601981617405],[19.80414360988698,48.75512940892122],[19.8054933908719,48.75500998972012],[19.80496320494473,48.75233877102585],[19.80631290926675,48.75221934288436],[19.80613617303203,48.7513289376742],[19.81018517985626,48.75097056264889],[19.81000838086482,48.75008016411124],[19.81135801442542,48.74996067557072],[19.81118119985126,48.74907027877623],[19.80983158987334,48.74918976485145],[19.80965480688138,48.74829936486981],[19.80830521458779,48.7484188321489],[19.80848197399723,48.74930923459544],[19.80578272455477,48.74954812508895],[19.80595944479501,48.75043853174242],[19.80460978764523,48.75055795495564],[19.80478649229667,48.75144836335153],[19.80343680566557,48.75156777269632],[19.80361349472685,48.75245818283469],[19.80226377861339,48.75257757831042],[19.80244045208178,48.75346799019098],[19.79434189010146,48.7541840348245],[19.79451843001976,48.75507446075966],[19.79309773018252,48.7552000031738]]],"type":"Polygon"}
+}

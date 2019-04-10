@@ -1,0 +1,116 @@
+{
+  "id": 101843731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":907370.348958,
+    "geom:bbox":"17.7710863485,48.1805966035,17.7970643755,48.1896850285",
+    "geom:latitude":48.185249,
+    "geom:longitude":17.785153,
+    "iso:country":"SK",
+    "lbl:latitude":48.185854,
+    "lbl:longitude":17.782988,
+    "mps:latitude":48.185854,
+    "mps:longitude":17.782988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kajal"
+    ],
+    "name:dut_x_preferred":[
+        "Kajal"
+    ],
+    "name:eng_x_preferred":[
+        "Kajal"
+    ],
+    "name:epo_x_preferred":[
+        "Kajal"
+    ],
+    "name:fre_x_preferred":[
+        "Kajal"
+    ],
+    "name:ger_x_preferred":[
+        "Kajal"
+    ],
+    "name:hun_x_preferred":[
+        "Nemeskajal"
+    ],
+    "name:ita_x_preferred":[
+        "Kajal"
+    ],
+    "name:may_x_preferred":[
+        "Kajal"
+    ],
+    "name:slo_x_preferred":[
+        "Kajal"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0458\u0430\u043b"
+    ],
+    "name:war_x_preferred":[
+        "Kajal"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kajal",
+    "qs:la_lc":"*SK212503843",
+    "qs:level":"locality",
+    "qs:loc":"Kajal",
+    "qs:loc_alt":"Kajal",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059611,
+        "gp:id":820084,
+        "qs:id":190917,
+        "qs_pg:id":190917,
+        "wd:id":"Q922975",
+        "wk:page":"Kajal (village)"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f1585e1f05bd6db029fa15b8a611b3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101843731,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101843731,
+    "wof:lastmodified":1553815539,
+    "wof:name":"Kajal",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7710863485475,
+    48.18059660347262,
+    17.79706437550021,
+    48.18968502851595
+],
+  "geometry": {"coordinates":[[[17.78114336259642,48.18869632376123],[17.78515823222108,48.18841221913306],[17.78529624864677,48.18930624706849],[17.78797285217865,48.1891167590345],[17.78783478920855,48.18822273495766],[17.79051132797872,48.18803318591102],[17.79023512754088,48.18624514365808],[17.7942497619095,48.18596071003935],[17.79438792883695,48.18685472567745],[17.79706437550021,48.18666501831848],[17.79678795477355,48.18487699416107],[17.79544978025621,48.18497185208616],[17.79531160245972,48.18407783716594],[17.79397344665063,48.18417267694377],[17.79342089050596,48.18059660347262],[17.79074475133206,48.18078621893744],[17.79088283454695,48.18168024207563],[17.78954473486561,48.18177502741543],[17.78968280101151,48.18266905187681],[17.78566840485394,48.18295331639058],[17.78553040850238,48.18205928614202],[17.78285416816902,48.18224871088171],[17.78299211798947,48.18314274498698],[17.77228678858467,48.18389981071903],[17.77242455844953,48.18479385963252],[17.7710863485475,48.18488842179949],[17.77122410132347,48.18578247203317],[17.77523878720513,48.18549873110356],[17.77537661597557,48.18639277495458],[17.77805309704047,48.18620352939513],[17.77832886622161,48.1879916075743],[17.77966714647533,48.18789695661349],[17.77994298695188,48.18968502851595],[17.78128130920237,48.1895903574819],[17.78114336259642,48.18869632376123]]],"type":"Polygon"}
+}

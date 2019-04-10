@@ -1,0 +1,143 @@
+{
+  "id": 101785265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1276311.981197,
+    "geom:bbox":"19.1083283504,48.1104558207,19.134689936,48.1237139605",
+    "geom:latitude":48.116388,
+    "geom:longitude":19.121382,
+    "iso:country":"SK",
+    "lbl:latitude":48.114913,
+    "lbl:longitude":19.122281,
+    "mps:latitude":48.114913,
+    "mps:longitude":19.122281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vinica"
+    ],
+    "name:cze_x_preferred":[
+        "Vinica"
+    ],
+    "name:deu_x_preferred":[
+        "Vinica"
+    ],
+    "name:dut_x_preferred":[
+        "Vinica"
+    ],
+    "name:eng_x_preferred":[
+        "Vinica"
+    ],
+    "name:epo_x_preferred":[
+        "Vinica"
+    ],
+    "name:fra_x_preferred":[
+        "Vinica"
+    ],
+    "name:fre_x_preferred":[
+        "Vinica"
+    ],
+    "name:ger_x_preferred":[
+        "Vinica"
+    ],
+    "name:hun_x_preferred":[
+        "Ipolyny\u00e9k"
+    ],
+    "name:ita_x_preferred":[
+        "Vinica"
+    ],
+    "name:may_x_preferred":[
+        "Vinica"
+    ],
+    "name:msa_x_preferred":[
+        "Vinica"
+    ],
+    "name:nan_x_preferred":[
+        "Vinica"
+    ],
+    "name:nld_x_preferred":[
+        "Vinica"
+    ],
+    "name:pol_x_preferred":[
+        "Vinica"
+    ],
+    "name:slk_x_preferred":[
+        "Vinica"
+    ],
+    "name:slo_x_preferred":[
+        "Vinica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u045a\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nekyje"
+    ],
+    "name:war_x_preferred":[
+        "Vinica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Velk\u00fd Krt\u00ed\u0161",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vinica",
+    "qs:la_lc":"*SK32A516520",
+    "qs:level":"locality",
+    "qs:loc":"Vinica",
+    "qs:loc_alt":"Vinica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056765,
+        "gp:id":823055,
+        "qs:id":383711,
+        "qs_pg:id":383711,
+        "wd:id":"Q577965",
+        "wk:page":"Vinica, Ve\u013ek\u00fd Krt\u00ed\u0161 District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ae25b954a9005eb74521850b78a176cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":101785265,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101785265,
+    "wof:lastmodified":1514505349,
+    "wof:name":"Vinica",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10832835039008,
+    48.11045582069926,
+    19.13468993598309,
+    48.12371396048547
+],
+  "geometry": {"coordinates":[[[19.1151608900351,48.12048414477175],[19.11916370813697,48.12015156016497],[19.11932496940761,48.1210434864617],[19.12199353427519,48.12082167821825],[19.12167092703805,48.11903783392199],[19.12433937880661,48.11881597013883],[19.12417804005554,48.11792405143973],[19.13218313030097,48.11725808638437],[19.13202166093293,48.11636618048982],[19.13468993598309,48.1161440675769],[19.13404394693879,48.11257645500189],[19.12870774310869,48.11302058027235],[19.12854635575349,48.11212866636998],[19.12721231450803,48.11223965510817],[19.12688960736455,48.11045582069926],[19.11888552421499,48.11112138737377],[19.11904673638821,48.11201331842381],[19.11771268102763,48.1121241919916],[19.11819629187448,48.11479998768414],[19.11686216231226,48.11491085186384],[19.1170233573676,48.11580278460929],[19.11302086799958,48.11613528709353],[19.11318200134201,48.1170272258816],[19.11184780465908,48.11713803002311],[19.11200892222956,48.11802997035875],[19.11067469727914,48.11814076061319],[19.11083579907591,48.11903270249604],[19.10950154585692,48.11914347886261],[19.10966263187822,48.12003542229269],[19.10832835039008,48.12014618477099],[19.10897267457023,48.12371396048547],[19.11164141609328,48.12349240141947],[19.11148027828369,48.12260046303356],[19.11281461812376,48.12248966154363],[19.1126534645378,48.12159772470562],[19.11532208237384,48.12137607781386],[19.1151608900351,48.12048414477175]]],"type":"Polygon"}
+}

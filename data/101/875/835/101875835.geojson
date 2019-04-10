@@ -1,0 +1,142 @@
+{
+  "id": 101875835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.429522,49.219551,18.429522,49.219551",
+    "geom:latitude":49.219551,
+    "geom:longitude":18.429522,
+    "iso:country":"SK",
+    "lbl:latitude":49.219551,
+    "lbl:longitude":18.429522,
+    "mps:latitude":49.219551,
+    "mps:longitude":18.429522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:ces_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:cze_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:deu_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:dut_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:epo_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:fre_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:ger_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:hbs_x_preferred":[
+        "Brvnji\u0161te"
+    ],
+    "name:hun_x_preferred":[
+        "Boron\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:may_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:msa_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:nan_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:nld_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:slo_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0432\u045a\u0438\u0448\u0442\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pova\u017esk\u00e1 Bystrica",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Brvni\u0161te",
+    "qs:loc_alt":"Brvniste",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060913,
+        "gp:id":818779,
+        "qs:id":903480,
+        "qs_pg:id":903480,
+        "wd:id":"Q835166",
+        "wk:page":"Brvni\u0161te"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5ea259dbd0aec2ba5ec847183e8468ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":101875835,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101875835,
+    "wof:lastmodified":1544751963,
+    "wof:name":"Brvni\u0161te",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.429522,
+    49.219551,
+    18.429522,
+    49.219551
+],
+  "geometry": {"coordinates":[18.429522,49.219551],"type":"Point"}
+}

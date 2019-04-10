@@ -1,0 +1,133 @@
+{
+  "id": 101783991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":797667.558073,
+    "geom:bbox":"18.9841822078,48.2781040445,18.9945738799,48.2950362448",
+    "geom:latitude":48.286403,
+    "geom:longitude":18.989164,
+    "iso:country":"SK",
+    "lbl:latitude":48.284127,
+    "lbl:longitude":18.990542,
+    "mps:latitude":48.284127,
+    "mps:longitude":18.990542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:ces_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:deu_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:epo_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:fra_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:hun_x_preferred":[
+        "Hontn\u00e9meti"
+    ],
+    "name:ita_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:msa_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:nld_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:pol_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0442\u044c\u044f\u043d\u0441\u043a\u0435 \u041d\u0435\u043c\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043d\u0442\u0458\u0430\u043d\u0441\u043a\u0435 \u040a\u0435\u043c\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Nemce"
+    ],
+    "name:unk_x_variant":[
+        "Nemce"
+    ],
+    "name:war_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hontianske Nemce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Krupina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Hontianske Nemce",
+    "qs:la_lc":"*SK325518417",
+    "qs:level":"locality",
+    "qs:loc":"Hontianske Nemce",
+    "qs:loc_alt":"Hontianske Nemce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070c9492-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3060062,
+        "gp:id":819641,
+        "qs:id":1271130,
+        "wd:id":"Q601416",
+        "wk:page":"Hontianske Nemce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"95fc42523eb47a23be0d1f01f1951560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":101783991,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101783991,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527688493,
+    "wof:name":"Hontianske Nemce",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9841822078352,
+    48.278104044489,
+    18.9945738798944,
+    48.29503624482538
+],
+  "geometry": {"coordinates":[[[18.9945738798944,48.2870247025869],[18.99297553593397,48.278104044489],[18.99163690426997,48.27821344416958],[18.99179668321716,48.27910551528117],[18.98911935770991,48.27932427050592],[18.98943884437779,48.2811084195975],[18.9867614050512,48.28132711894182],[18.98708082764551,48.28311127421853],[18.98574205370369,48.28322060404798],[18.98606145858633,48.28500476105285],[18.98472263299692,48.28511407913845],[18.98552115465759,48.28957447085895],[18.9841822078352,48.2896837838843],[18.98514053116952,48.29503624482538],[18.98647961718046,48.29492691842768],[18.98631985550406,48.29403484553677],[18.98765891304021,48.29392550516394],[18.98749913533447,48.29303343382071],[18.99017718818521,48.29281470892226],[18.990017371254,48.29192264135651],[18.99135636656877,48.29181325683192],[18.99055727351021,48.28735291992285],[18.9945738798944,48.2870247025869]]],"type":"Polygon"}
+}

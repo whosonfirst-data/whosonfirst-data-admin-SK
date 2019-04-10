@@ -1,0 +1,71 @@
+{
+  "id": 1343394087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07793,48.59362,18.07793,48.59362",
+    "geom:latitude":48.59362,
+    "geom:longitude":18.07793,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kokosova",
+    "gn:country_code":"SK",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059452,
+    "gn:latitude":48.59362,
+    "gn:longitude":18.07793,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koko\u0161ov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Koko\u0161ov\u00e1",
+        "Koko\u0161ov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059452
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b77f7889d17762884c4d4aee72677865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1343394087,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1343394087,
+    "wof:lastmodified":1537700414,
+    "wof:name":"Kokosova",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07793,
+    48.59362,
+    18.07793,
+    48.59362
+],
+  "geometry": {"coordinates":[18.07793,48.59362],"type":"Point"}
+}

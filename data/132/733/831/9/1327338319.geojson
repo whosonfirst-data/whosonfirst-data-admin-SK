@@ -1,0 +1,68 @@
+{
+  "id": 1327338319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70955,48.95091,21.70955,48.95091",
+    "geom:latitude":48.95091,
+    "geom:longitude":21.70955,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Benkovce",
+    "gn:country_code":"SK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725142,
+    "gn:latitude":48.95091,
+    "gn:longitude":21.70955,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Benkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725142,
+        "wk:page":"Benkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ea4e1ae33f90bae8d236caf143ea1476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1327338319,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327338319,
+    "wof:lastmodified":1537573585,
+    "wof:name":"Benkovce",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70955,
+    48.95091,
+    21.70955,
+    48.95091
+],
+  "geometry": {"coordinates":[21.70955,48.95091],"type":"Point"}
+}

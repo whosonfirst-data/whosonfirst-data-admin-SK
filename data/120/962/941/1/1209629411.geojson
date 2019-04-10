@@ -1,0 +1,65 @@
+{
+  "id": 1209629411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06525,48.74575,19.06525,48.74575",
+    "geom:latitude":48.74575,
+    "geom:longitude":19.06525,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jabrikova",
+    "gn:country_code":"SK",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059748,
+    "gn:latitude":48.74575,
+    "gn:longitude":19.06525,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jabrikov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabrigov\u00e1",
+        "Jabrikov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059748
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9563ab1cb3bb81f6f8f302ff99b13433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209629411
+        }
+    ],
+    "wof:id":1209629411,
+    "wof:lastmodified":1537700417,
+    "wof:name":"Jabrikova",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06525,
+    48.74575,
+    19.06525,
+    48.74575
+],
+  "geometry": {"coordinates":[19.06525,48.74575],"type":"Point"}
+}

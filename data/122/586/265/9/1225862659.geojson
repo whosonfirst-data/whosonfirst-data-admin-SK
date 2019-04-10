@@ -1,0 +1,72 @@
+{
+  "id": 1225862659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23618,48.54188,20.23618,48.54188",
+    "geom:latitude":48.54188,
+    "geom:longitude":20.23618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drzkovce",
+    "gn:country_code":"SK",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724861,
+    "gn:latitude":48.54188,
+    "gn:longitude":20.23618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dr\u017ekovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deresk",
+        "Dr\u017ekovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724861,
+        "wk:page":"Dr%C5%BEkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"20a87b71acd141f06c1e388e3e71493f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1225862659,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1225862659,
+    "wof:lastmodified":1537700371,
+    "wof:name":"Drzkovce",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23618,
+    48.54188,
+    20.23618,
+    48.54188
+],
+  "geometry": {"coordinates":[20.23618,48.54188],"type":"Point"}
+}

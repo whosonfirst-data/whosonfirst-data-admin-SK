@@ -1,0 +1,136 @@
+{
+  "id": 1125866947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10592,48.68952,22.10592,48.68952",
+    "geom:latitude":48.68952,
+    "geom:longitude":22.10592,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.68952,
+    "lbl:longitude":22.10592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:cze_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:dut_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:eng_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:epo_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:fre_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e1rosmez\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:may_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:nan_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:pol_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0430 \u041f\u043e\u0459\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Blatn\u00e1 Po\u013eanka"
+    ],
+    "name:war_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":725120,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Blatn\u00e1 Polianka",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":358310,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":818629,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725120,
+        "gp:id":818629,
+        "qs_pg:id":358310,
+        "wd:id":"Q282861"
+    },
+    "wof:country":"SK",
+    "wof:created":1497294088,
+    "wof:geomhash":"497755f134a3811e6e040a883121affd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080571,
+            "locality_id":1125866947,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125866947,
+    "wof:lastmodified":1514505050,
+    "wof:name":"Blatn\u00e1 Polianka",
+    "wof:parent_id":102080571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10592,
+    48.68952,
+    22.10592,
+    48.68952
+],
+  "geometry": {"coordinates":[22.10592,48.68952],"type":"Point"}
+}

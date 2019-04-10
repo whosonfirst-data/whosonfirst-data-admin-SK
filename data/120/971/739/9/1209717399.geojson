@@ -1,0 +1,71 @@
+{
+  "id": 1209717399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13932,48.61276,21.13932,48.61276",
+    "geom:latitude":48.61276,
+    "geom:longitude":21.13932,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Frantiskov Dvor",
+    "gn:country_code":"SK",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724811,
+    "gn:latitude":48.61276,
+    "gn:longitude":21.13932,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Franti\u0161kov Dvor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferenc Tanya",
+        "Franti\u0161kov Dvor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724811
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3aa41753d4f2709087e99bba10da1386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1209717399,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1209717399,
+    "wof:lastmodified":1537700371,
+    "wof:name":"Frantiskov Dvor",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13932,
+    48.61276,
+    21.13932,
+    48.61276
+],
+  "geometry": {"coordinates":[21.13932,48.61276],"type":"Point"}
+}

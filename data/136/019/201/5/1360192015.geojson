@@ -1,0 +1,68 @@
+{
+  "id": 1360192015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10878,48.60259,22.10878,48.60259",
+    "geom:latitude":48.60259,
+    "geom:longitude":22.10878,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bajany",
+    "gn:country_code":"SK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725186,
+    "gn:latitude":48.60259,
+    "gn:longitude":22.10878,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bajany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725186,
+        "wk:page":"Bajany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9c3af086dbfe901f7096668153a668e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1360192015,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1360192015,
+    "wof:lastmodified":1537573585,
+    "wof:name":"Bajany",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10878,
+    48.60259,
+    22.10878,
+    48.60259
+],
+  "geometry": {"coordinates":[22.10878,48.60259],"type":"Point"}
+}

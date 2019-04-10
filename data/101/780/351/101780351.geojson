@@ -1,0 +1,147 @@
+{
+  "id": 101780351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000201,
+    "geom:area_square_m":1624924.616385,
+    "geom:bbox":"19.5953888035,49.1075184431,19.6234638646,49.1266901013",
+    "geom:latitude":49.117952,
+    "geom:longitude":19.613387,
+    "iso:country":"SK",
+    "lbl:latitude":49.120886,
+    "lbl:longitude":19.61711,
+    "mps:latitude":49.120886,
+    "mps:longitude":19.61711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:ces_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:cze_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:deu_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:dut_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:eng_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:epo_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:fra_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:fre_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:ger_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:hbs_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:hun_x_preferred":[
+        "Nagybobr\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:may_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:msa_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:nan_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:nld_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:pol_x_preferred":[
+        "Bobrowiec"
+    ],
+    "name:slk_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:slo_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "name:war_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bobrovec"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Liptovsk\u00fd Mikul\u00e1\u0161",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bobrovec",
+    "qs:la_lc":"*SK315510327",
+    "qs:level":"locality",
+    "qs:loc":"Bobrovec",
+    "qs:loc_alt":"Bobrovec",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061035,
+        "gp:id":818652,
+        "qs:id":1270920,
+        "wd:id":"Q770923",
+        "wk:page":"Bobrovec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ce7f69a9f2215fd897e550e931c94d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":101780351,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780351,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Bobrovec",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59538880350908,
+    49.10751844314188,
+    19.62346386456869,
+    49.12669010130082
+],
+  "geometry": {"coordinates":[[[19.62113775197975,49.1262209452766],[19.62061152436661,49.12354917786001],[19.62197167358102,49.12343185499077],[19.62074392082042,49.11719772404166],[19.62346386456869,49.11696306313212],[19.62311305384441,49.1151818864497],[19.62175313304994,49.11529922024857],[19.6214024024585,49.1135180359131],[19.62004252387385,49.11363534833845],[19.61916595768975,49.10918236320066],[19.61780619348116,49.10929964691513],[19.61745567110023,49.10751844314188],[19.61473622118058,49.10775295135738],[19.61508664734549,49.10953416491304],[19.61372686541984,49.10965139919688],[19.61442771745493,49.11321382782165],[19.61578759561166,49.11309658375598],[19.61648867182066,49.1166589915756],[19.61240873088553,49.11701070368446],[19.61223352202848,49.11612009542546],[19.6108735539691,49.11623729739023],[19.61052320836569,49.11445607391664],[19.60916328252887,49.11457325451232],[19.60898814577826,49.11368263929842],[19.60490840504031,49.11403407487751],[19.60508346960194,49.11492469742285],[19.59964363642638,49.11539305725552],[19.5994686681218,49.11450242493953],[19.59538880350908,49.11485351444935],[19.59556369961643,49.11574415408984],[19.59692368444928,49.11562713829221],[19.59709861260518,49.11651777480398],[19.59845861560888,49.11640074008426],[19.5986335758152,49.11729137346714],[19.60407362511637,49.11682306001404],[19.60512413173302,49.1221667872465],[19.61056466427448,49.12169815144489],[19.61073987296822,49.12258876046462],[19.61210001541099,49.12247155786361],[19.61227525617386,49.12336216374973],[19.61363541678151,49.12324494222071],[19.61398597044899,49.12502614703595],[19.61534617329448,49.12490890413187],[19.61569680711301,49.12669010130082],[19.62113775197975,49.1262209452766]]],"type":"Polygon"}
+}

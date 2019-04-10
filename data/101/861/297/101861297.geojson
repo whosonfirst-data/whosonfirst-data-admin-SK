@@ -1,0 +1,181 @@
+{
+  "id": 101861297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.214515,49.040403,21.214515,49.040403",
+    "geom:latitude":49.040403,
+    "geom:longitude":21.214515,
+    "iso:country":"SK",
+    "lbl:latitude":49.040403,
+    "lbl:longitude":21.214515,
+    "mps:latitude":49.040403,
+    "mps:longitude":21.214515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0643\u064a \u0634\u0627\u0631\u064a\u0634"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u043b\u044c\u043a\u0456 \u0428\u0430\u0440\u044b\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u6c99\u91cc\u4ec0"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u06cc \u0634\u0627\u0631\u06cc\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:hrv_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Nagys\u00e1ros"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:lav_x_preferred":[
+        "Ve\u013cki \u0160ari\u0161a"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06a9\u06cc \u0634\u0627\u0631\u06cc\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Wielki Szarysz"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0456 \u0428\u0430\u0440\u0456\u0448"
+    ],
+    "name:rum_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0438 \u0428\u0430\u0440\u0438\u0448"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u0428\u0430\u0440\u0438\u0448"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u0438-\u0428\u0430\u0440\u0438\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0428\u0430\u0440\u0438\u0448"
+    ],
+    "name:und_x_preferred":[
+        "Velky Saris"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00fd \u0160ari\u0161"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pre\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ve\u013ek\u00fd \u0160ari\u0161",
+    "qs:loc_alt":"Velky Saris",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.033333,
+    "wd:longitude":21.2,
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070e0408-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":723246,
+        "gp:id":823019,
+        "qs:id":240716,
+        "qs_pg:id":240716,
+        "wd:id":"Q852313",
+        "wk:page":"Ve\u013ek\u00fd \u0160ari\u0161"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"383dcd8cd523da8f1014772689dc46a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":101861297,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101861297,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745891,
+    "wof:name":"Ve\u013ek\u00fd \u0160ari\u0161",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.214515,
+    49.040403,
+    21.214515,
+    49.040403
+],
+  "geometry": {"coordinates":[21.214515,49.040403],"type":"Point"}
+}

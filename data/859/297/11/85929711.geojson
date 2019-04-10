@@ -1,0 +1,111 @@
+{
+  "id": 85929711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6140436.305717,
+    "geom:bbox":"21.283496,48.732313,21.283496,48.732313",
+    "geom:latitude":48.732313,
+    "geom:longitude":21.283496,
+    "gn:id":"",
+    "iso:country":"SK",
+    "lbl:latitude":48.732313,
+    "lbl:longitude":21.283496,
+    "mps:latitude":48.73821,
+    "mps:longitude":21.288588,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:und_x_colloquial":[
+        "Dargovskych hrdinov"
+    ],
+    "name:und_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:unk_x_variant":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_id":0,
+    "qs:gn_local":724443,
+    "qs:gn_nam_loc":"Kosice, Kosicky, Ko\u0161ice, SK",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":2062,
+    "qs:local_sum":3449,
+    "qs:localhoods":7,
+    "qs:name":"Dargovsk\u00fdch hrdinov",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Kosicky",
+    "qs:name_adm2":"Kosice",
+    "qs:name_lau":"Kosice III",
+    "qs:name_local":"Ko\u0161ice",
+    "qs:photo_max":68,
+    "qs:photo_sum":172,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070497,
+    "qs:woe_adm2":29399357,
+    "qs:woe_lau":29402286,
+    "qs:woe_local":820323,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        101752055,
+        102080549,
+        85688359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55867260,
+        "qs:id":213529,
+        "qs_pg:id":213529
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f61650e0bba4781f357789148966b75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080549,
+            "locality_id":101752055,
+            "neighbourhood_id":85929711,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":85929711,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939154,
+    "wof:name":"Dargovsk\u00fdch hrdinov",
+    "wof:parent_id":101752055,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.283496,
+    48.732313,
+    21.283496,
+    48.732313
+],
+  "geometry": {"coordinates":[21.283496,48.732313],"type":"Point"}
+}

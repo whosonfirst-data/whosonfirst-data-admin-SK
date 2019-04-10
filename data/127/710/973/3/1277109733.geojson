@@ -1,0 +1,71 @@
+{
+  "id": 1277109733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88774,48.27246,17.88774,48.27246",
+    "geom:latitude":48.27246,
+    "geom:longitude":17.88774,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mlady Haj",
+    "gn:country_code":"SK",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058690,
+    "gn:latitude":48.27246,
+    "gn:longitude":17.88774,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mlad\u00fd H\u00e1j",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Mlad\u00fd H\u00e1j",
+        "Mlad\u00fd H\u00e1j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058690
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"68a9e0d2ab906887e8711f13b053bf49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080467,
+            "locality_id":1277109733,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1277109733,
+    "wof:lastmodified":1537700402,
+    "wof:name":"Mlady Haj",
+    "wof:parent_id":102080467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88774,
+    48.27246,
+    17.88774,
+    48.27246
+],
+  "geometry": {"coordinates":[17.88774,48.27246],"type":"Point"}
+}

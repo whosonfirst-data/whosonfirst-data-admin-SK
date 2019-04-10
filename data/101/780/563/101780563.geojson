@@ -1,0 +1,137 @@
+{
+  "id": 101780563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":358859.259419,
+    "geom:bbox":"19.6470778013,49.3380959794,19.6569948777,49.345808341",
+    "geom:latitude":49.342087,
+    "geom:longitude":19.651739,
+    "iso:country":"SK",
+    "lbl:latitude":49.341307,
+    "lbl:longitude":19.652903,
+    "mps:latitude":49.341307,
+    "mps:longitude":19.652903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Brezovica"
+    ],
+    "name:ces_x_preferred":[
+        "Brezovica"
+    ],
+    "name:cze_x_preferred":[
+        "Brezovica"
+    ],
+    "name:deu_x_preferred":[
+        "Brezovica"
+    ],
+    "name:dut_x_preferred":[
+        "Brezovica"
+    ],
+    "name:eng_x_preferred":[
+        "Brezovica"
+    ],
+    "name:epo_x_preferred":[
+        "Brezovica"
+    ],
+    "name:fra_x_preferred":[
+        "Brezovica"
+    ],
+    "name:fre_x_preferred":[
+        "Brezovica"
+    ],
+    "name:ger_x_preferred":[
+        "Brezovica"
+    ],
+    "name:hun_x_preferred":[
+        "Brezovica"
+    ],
+    "name:ita_x_preferred":[
+        "Brezovica"
+    ],
+    "name:may_x_preferred":[
+        "Brezovica"
+    ],
+    "name:msa_x_preferred":[
+        "Brezovica"
+    ],
+    "name:nan_x_preferred":[
+        "Brezovica"
+    ],
+    "name:nld_x_preferred":[
+        "Brezovica"
+    ],
+    "name:pol_x_preferred":[
+        "Brzozowica"
+    ],
+    "name:slo_x_preferred":[
+        "Brezovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Brezovica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Tvrdo\u0161\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Brezovica",
+    "qs:la_lc":"*SK31A509604",
+    "qs:level":"locality",
+    "qs:loc":"Brezovica",
+    "qs:loc_alt":"Brezovica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060941,
+        "gp:id":818742,
+        "qs:id":358326,
+        "wd:id":"Q849567",
+        "wk:page":"Brezovica, Tvrdo\u0161\u00edn District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"571b45decd3a4bbab7a742cb1151567a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080605,
+            "locality_id":101780563,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780563,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Brezovica",
+    "wof:parent_id":102080605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64707780128049,
+    49.33809597935999,
+    19.65699487771343,
+    49.34580834100319
+],
+  "geometry": {"coordinates":[[[19.65699487771343,49.34231254896832],[19.65664038916805,49.34053167831149],[19.6552743232071,49.34064950008627],[19.65491991583235,49.33886862175632],[19.65355389252613,49.33898642202041],[19.65337672535651,49.33809597935999],[19.65064470938427,49.33833152525375],[19.6509989545217,49.3401124197855],[19.64963288886321,49.34023017283351],[19.64980999928127,49.34112062155077],[19.64707780128049,49.34135608290092],[19.64796323183123,49.34580834100319],[19.65206188488264,49.34545508704127],[19.65188470951227,49.34456464420043],[19.65325089084143,49.34444686222247],[19.65307369925824,49.34355642117464],[19.65580599521468,49.34332081247248],[19.65562876308525,49.34243037569144],[19.65699487771343,49.34231254896832]]],"type":"Polygon"}
+}

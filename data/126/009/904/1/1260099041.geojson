@@ -1,0 +1,66 @@
+{
+  "id": 1260099041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21198,48.45937,19.21198,48.45937",
+    "geom:latitude":48.45937,
+    "geom:longitude":19.21198,
+    "gn:asciiname":"Zajezova",
+    "gn:country_code":"SK",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714339,
+    "gn:latitude":48.45937,
+    "gn:longitude":19.21198,
+    "gn:modification_date":"2014-02-20",
+    "gn:name":"Zajezov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714339
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1e2ad810ce8db163b73f4763b8b1f868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1260099041,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1260099041,
+    "wof:lastmodified":1536965473,
+    "wof:name":"Zajezova",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21198,
+    48.45937,
+    19.21198,
+    48.45937
+],
+  "geometry": {"coordinates":[19.21198,48.45937],"type":"Point"}
+}

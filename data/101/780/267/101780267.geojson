@@ -1,0 +1,141 @@
+{
+  "id": 101780267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":558277.414088,
+    "geom:bbox":"20.465420393,48.9561979628,20.4787448615,48.9696609765",
+    "geom:latitude":48.961661,
+    "geom:longitude":20.473014,
+    "iso:country":"SK",
+    "lbl:latitude":48.961479,
+    "lbl:longitude":20.474124,
+    "mps:latitude":48.961479,
+    "mps:longitude":20.474124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:ces_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:deu_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:fra_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:hun_x_preferred":[
+        "Szepestam\u00e1sfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:msa_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:pol_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0435 \u0422\u043e\u043c\u0430\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce",
+    "qs:la_lc":"*SK42A543586",
+    "qs:level":"locality",
+    "qs:loc":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce",
+    "qs:loc_alt":"Spisske Tomasovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723518,
+        "gp:id":822363,
+        "qs:id":293225,
+        "qs_pg:id":293225,
+        "wd:id":"Q607944",
+        "wk:page":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"28bbd7aaf27b4c3a58c1dc94b3cbc5ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":101780267,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780267,
+    "wof:lastmodified":1527715868,
+    "wof:name":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46542039298367,
+    48.9561979627839,
+    20.4787448614934,
+    48.96966097653342
+],
+  "geometry": {"coordinates":[[[20.47484872525735,48.96851673034587],[20.47465873290645,48.96762771036572],[20.47601286677531,48.96750007760591],[20.47582285934237,48.96661105950551],[20.47717696313646,48.96648341301591],[20.47622693683422,48.962038324236],[20.47758091573991,48.96191067460558],[20.47739091265464,48.9610216571935],[20.4787448614934,48.96089399383538],[20.47855484333377,48.96000497830255],[20.47584698669016,48.96026028335081],[20.47508718987979,48.95670419236785],[20.47102564156029,48.95708699538523],[20.47083578499957,48.9561979627839],[20.46542039298367,48.95670812700394],[20.4657999251412,48.95848621259347],[20.46850772865935,48.95823115265392],[20.46869755505946,48.95912018900992],[20.47005147097872,48.95899263183475],[20.47062107298819,48.96165972836559],[20.47197505364858,48.96153214688064],[20.4731146326547,48.96686630335489],[20.47040638050487,48.96712148169678],[20.47059629310303,48.96801051038284],[20.47195044606951,48.96788292675438],[20.47233034455638,48.96966097653342],[20.47368453857911,48.969533371235],[20.47349456131212,48.9686443493755],[20.47484872525735,48.96851673034587]]],"type":"Polygon"}
+}

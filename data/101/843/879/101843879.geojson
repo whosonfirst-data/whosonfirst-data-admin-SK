@@ -1,0 +1,142 @@
+{
+  "id": 101843879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":757701.237161,
+    "geom:bbox":"21.4330433323,48.7303316004,21.4448538577,48.746247886",
+    "geom:latitude":48.7379,
+    "geom:longitude":21.439201,
+    "iso:country":"SK",
+    "lbl:latitude":48.738423,
+    "lbl:longitude":21.439112,
+    "mps:latitude":48.738423,
+    "mps:longitude":21.439112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bidovce"
+    ],
+    "name:cze_x_preferred":[
+        "Bidovce"
+    ],
+    "name:deu_x_preferred":[
+        "Bidovce"
+    ],
+    "name:dut_x_preferred":[
+        "Bidovce"
+    ],
+    "name:eng_x_preferred":[
+        "Bidovce"
+    ],
+    "name:epo_x_preferred":[
+        "Bidovce"
+    ],
+    "name:fra_x_preferred":[
+        "Bidovce"
+    ],
+    "name:fre_x_preferred":[
+        "Bidovce"
+    ],
+    "name:ger_x_preferred":[
+        "Bidovce"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarb\u0151d"
+    ],
+    "name:ita_x_preferred":[
+        "Bidovce"
+    ],
+    "name:may_x_preferred":[
+        "Bidovce"
+    ],
+    "name:msa_x_preferred":[
+        "Bidovce"
+    ],
+    "name:nan_x_preferred":[
+        "Bidovce"
+    ],
+    "name:nld_x_preferred":[
+        "Bidovce"
+    ],
+    "name:pol_x_preferred":[
+        "Bidovce"
+    ],
+    "name:slk_x_preferred":[
+        "Bidovce"
+    ],
+    "name:slo_x_preferred":[
+        "Bidovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0434\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Bidovce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bidovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Bidovce",
+    "qs:la_lc":"*SK426521183",
+    "qs:level":"locality",
+    "qs:loc":"Bidovce",
+    "qs:loc_alt":"Bidovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725128,
+        "gp:id":818605,
+        "qs:id":1270908,
+        "wd:id":"Q857022",
+        "wk:page":"Bidovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"17f0525b50cf1667b9587948c052df77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101843879,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843879,
+    "wof:lastmodified":1527642597,
+    "wof:name":"Bidovce",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43304333227991,
+    48.73033160044633,
+    21.44485385765574,
+    48.74624788596537
+],
+  "geometry": {"coordinates":[[[21.44059684978328,48.74508232404321],[21.44039084490385,48.74419521731772],[21.44308275785824,48.74391670775861],[21.4428767158023,48.74302960589625],[21.44153078598049,48.7431688659309],[21.44091278523302,48.74050754656741],[21.44225864536605,48.74036829512289],[21.44122871370593,48.73593275987929],[21.44257445086691,48.73579350651454],[21.44236846916766,48.73490639973522],[21.44371417626201,48.73476713299931],[21.44350818062657,48.73388002821838],[21.44485385765574,48.73374074811164],[21.44423585680113,48.731079437169],[21.44289024942663,48.73121870868653],[21.44268429092716,48.73033160044633],[21.43864749739873,48.73074930901589],[21.43885338624654,48.73163642584268],[21.43750775150374,48.73177563242865],[21.43771362641269,48.73266275125241],[21.43636796160945,48.73280194446647],[21.4369855723528,48.73546330433709],[21.43429408289319,48.73574165923071],[21.43449992525291,48.73662878318208],[21.43584569662744,48.73648961099133],[21.43666925177098,48.74003808671245],[21.43532338748855,48.74017727034948],[21.43573517429354,48.74195150875033],[21.43304333227991,48.74222983876058],[21.43345506328512,48.74400408515356],[21.43614699822922,48.74372574369647],[21.43635292412227,48.744612859874],[21.4376989045619,48.74447366192641],[21.43811083067254,48.74624788596537],[21.43945685073544,48.74610866605406],[21.43925085980197,48.74522155732944],[21.44059684978328,48.74508232404321]]],"type":"Polygon"}
+}

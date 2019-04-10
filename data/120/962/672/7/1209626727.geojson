@@ -1,0 +1,68 @@
+{
+  "id": 1209626727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99235,48.58823,20.99235,48.58823",
+    "geom:latitude":48.58823,
+    "geom:longitude":20.99235,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Budulov",
+    "gn:country_code":"SK",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725053,
+    "gn:latitude":48.58823,
+    "gn:longitude":20.99235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Budulov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Bodoll\u00f3"
+    ],
+    "name:und_x_variant":[
+        "Bodolov",
+        "Budulov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725053
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0c36fff83fa44132b42bc25651c84db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209626727
+        }
+    ],
+    "wof:id":1209626727,
+    "wof:lastmodified":1537700374,
+    "wof:name":"Budulov",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99235,
+    48.58823,
+    20.99235,
+    48.58823
+],
+  "geometry": {"coordinates":[20.99235,48.58823],"type":"Point"}
+}

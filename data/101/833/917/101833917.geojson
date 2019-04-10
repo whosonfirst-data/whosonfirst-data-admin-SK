@@ -1,0 +1,138 @@
+{
+  "id": 101833917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:area_square_m":1611168.488334,
+    "geom:bbox":"17.5681216635,48.0014275669,17.5865216972,48.0195793618",
+    "geom:latitude":48.011538,
+    "geom:longitude":17.577848,
+    "iso:country":"SK",
+    "lbl:latitude":48.012226,
+    "lbl:longitude":17.577848,
+    "mps:latitude":48.012226,
+    "mps:longitude":17.577848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Veljke Blahovo"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyabony"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:por_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u0411\u043b\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Nagy Abony"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e9 Blahovo"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Dunajsk\u00e1 Streda",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ve\u013ek\u00e9 Blahovo",
+    "qs:la_lc":"*SK211501981",
+    "qs:level":"locality",
+    "qs:loc":"Ve\u013ek\u00e9 Blahovo",
+    "qs:loc_alt":"Velke Blahovo",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":313,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056893,
+        "gp:id":822938,
+        "qs:id":1161746,
+        "wd:id":"Q1088585",
+        "wk:page":"Ve\u013ek\u00e9 Blahovo"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dfbcb19f0c1246eb814e47d42554814c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":101833917,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101833917,
+    "wof:lastmodified":1527642929,
+    "wof:name":"Ve\u013ek\u00e9 Blahovo",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56812166354717,
+    48.00142756686023,
+    17.58652169717993,
+    48.01957936178263
+],
+  "geometry": {"coordinates":[[[17.58652169717993,48.01524085140306],[17.58599865486309,48.01527703676106],[17.58506230374007,48.00901624694382],[17.58372840724047,48.00910848612796],[17.58332727288791,48.00642527583881],[17.58599492293774,48.00624079252395],[17.58572743756469,48.00445199012404],[17.57905851041801,48.00491305852921],[17.57865767352297,48.00222982238108],[17.57732394419401,48.00232198198296],[17.57719036692902,48.00142756686023],[17.57585665630143,48.00151970843672],[17.57612377062725,48.00330854181237],[17.57745752743074,48.0032163965023],[17.5778583129765,48.00589963644296],[17.56985529074115,48.00645229950828],[17.57065619168014,48.01181883030813],[17.5693222007157,48.01191089545085],[17.56945568199649,48.01280531700883],[17.56812166354717,48.01289736785486],[17.56838859781266,48.0146862128957],[17.57105672273434,48.01450208757836],[17.57145730752563,48.01718533943074],[17.57279143271995,48.01709324692803],[17.5729249960329,48.01798766114183],[17.57425913994575,48.01789555060827],[17.57439273233871,48.01878996235325],[17.57972935652253,48.01842135110616],[17.5799024577762,48.01957936178263],[17.58652169717993,48.01524085140306]]],"type":"Polygon"}
+}

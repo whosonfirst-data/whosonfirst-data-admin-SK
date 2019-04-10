@@ -1,0 +1,117 @@
+{
+  "id": 85901369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3285288.991733,
+    "geom:bbox":"17.126899,48.162729,17.126899,48.162729",
+    "geom:latitude":48.162729,
+    "geom:longitude":17.126899,
+    "iso:country":"SK",
+    "lbl:latitude":48.162729,
+    "lbl:longitude":17.126899,
+    "mps:latitude":48.164253,
+    "mps:longitude":17.117504,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Koliba"
+    ],
+    "name:deu_x_preferred":[
+        "Koliba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u0431\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Koliba"
+    ],
+    "name:und_x_preferred":[
+        "Koliba"
+    ],
+    "name:unk_x_variant":[
+        "Koliba"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_id":0,
+    "qs:gn_local":3060972,
+    "qs:id":0,
+    "qs:local_max":14839,
+    "qs:local_sum":27271,
+    "qs:localhoods":23,
+    "qs:name":"Koliba",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Bratislavsky",
+    "qs:name_adm2":"Bratislava",
+    "qs:name_lau":"Bratislava III",
+    "qs:name_local":"Bratislava",
+    "qs:photo_max":460,
+    "qs:photo_sum":900,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070505,
+    "qs:woe_adm2":29399347,
+    "qs:woe_lau":29402283,
+    "qs:woe_local":818717,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":820259,
+        "wd:id":"Q277852"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"44a9534ed0a6925f4507d70bdf34e165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":85901369,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":85901369,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932486,
+    "wof:name":"Koliba",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.126899,
+    48.162729,
+    17.126899,
+    48.162729
+],
+  "geometry": {"coordinates":[17.126899,48.162729],"type":"Point"}
+}

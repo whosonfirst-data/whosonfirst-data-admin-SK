@@ -1,0 +1,198 @@
+{
+  "id": 101782923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000324,
+    "geom:area_square_m":2652022.083302,
+    "geom:bbox":"20.9843868565,48.5965206208,21.0083303469,48.6336513761",
+    "geom:latitude":48.612958,
+    "geom:longitude":20.998105,
+    "gn:population":9525,
+    "iso:country":"SK",
+    "lbl:latitude":48.612998,
+    "lbl:longitude":20.999284,
+    "mps:latitude":48.612998,
+    "mps:longitude":20.999284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u062f\u0648\u0641\u0627 \u0646\u0627\u062f \u0628\u0648\u062f\u0641\u0648\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:ces_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u5fb7\u74e6\u6cb3\u7554\u6469\u723e\u9054\u74e6"
+    ],
+    "name:cze_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:deu_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:dut_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:eng_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:epo_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u062f\u0627\u0648\u0627 \u0646\u0627\u062f \u0628\u062f\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:fre_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:ger_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:hbs_x_preferred":[
+        "Moldava nad Bodvu"
+    ],
+    "name:hrv_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:hun_x_preferred":[
+        "Szepsi"
+    ],
+    "name:ita_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:lav_x_preferred":[
+        "Moldava pie Bodvas"
+    ],
+    "name:may_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:msa_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:nan_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:nld_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0644\u062f\u0627\u0648\u0627 \u0646\u0627\u062f \u0628\u062f\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:ron_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:rum_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0432\u043e\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:slo_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:spa_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430 \u043d\u0430 \u0411\u043e\u0434\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0432\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Szepsi"
+    ],
+    "name:war_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5fb7\u74e6\u6cb3\u7554\u6469\u723e\u9054\u74e6"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Debra\u010f",
+    "qs:la_lc":"*SK426521329",
+    "qs:level":"locality",
+    "qs:loc":"Moldava nad Bodvou",
+    "qs:loc_alt":"Moldava nad Bodvou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":48.615556,
+    "wd:longitude":20.999167,
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724111,
+        "gp:id":821096,
+        "qs:id":237111,
+        "qs_pg:id":237111,
+        "wd:id":"Q846440",
+        "wk:page":"Moldava nad Bodvou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c14b5b39bc3cc751ebe99658db3e6576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782923,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782923,
+    "wof:lastmodified":1527688319,
+    "wof:name":"Moldava nad Bodvou",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:population":9525,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98438685652002,
+    48.59652062081091,
+    21.00833034689526,
+    48.63365137608423
+],
+  "geometry": {"coordinates":[[[21.00239731423295,48.63338362897372],[21.000422949876,48.62450265394364],[21.00176671743776,48.62436878351764],[21.00097712776159,48.62081638127643],[21.0050081129101,48.62041470563491],[21.00441580528121,48.61775041995821],[21.00575938435338,48.61761650388053],[21.00516708715173,48.61495221897457],[21.00651059013791,48.61481829491873],[21.0055234899404,48.61037781720677],[21.00418010283346,48.61051172753406],[21.00358801882817,48.60784742271017],[21.00224469469447,48.60798130858819],[21.00125818145466,48.60354077022578],[21.00663097538154,48.6030051843307],[21.00623624691013,48.60122898513106],[21.00757938271255,48.60109505361874],[21.00698728711529,48.59843075682488],[21.00833034689526,48.59829681733765],[21.00793561457488,48.59652062081091],[21.00390655456249,48.59692237417607],[21.00430114793431,48.59869858717019],[21.00027189012161,48.59910021111284],[20.99987743570631,48.59732398165687],[20.99719132378749,48.59759163892903],[20.9989662312467,48.60558469471198],[20.9976229570027,48.60571852371851],[20.99782019014236,48.60660663962216],[20.9951335757014,48.60687425448225],[20.99552797591895,48.60865049477377],[20.99149786619517,48.60905181191634],[20.99110360501464,48.60727555517053],[20.98438685652002,48.60794406537099],[20.98497791396903,48.61060849036431],[20.98632134626138,48.61047481253127],[20.98789807509087,48.61757988747581],[20.99058529096891,48.6173124392958],[20.99038812244953,48.61642431331097],[20.99441882767957,48.61602302763782],[20.99639160791475,48.62490416790297],[20.99773539511358,48.6247703461363],[20.99872223425484,48.62921087146827],[20.99737833108458,48.62934470696052],[20.99797047160416,48.63200902045247],[20.99931444436885,48.63187517672367],[20.99970929554996,48.63365137608423],[21.00239731423295,48.63338362897372]]],"type":"Polygon"}
+}

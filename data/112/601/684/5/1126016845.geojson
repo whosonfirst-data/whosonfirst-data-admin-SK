@@ -1,0 +1,147 @@
+{
+  "id": 1126016845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1402,48.5091,22.1402,48.5091",
+    "geom:latitude":48.5091,
+    "geom:longitude":22.1402,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.5091,
+    "lbl:longitude":22.1402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:hrv_x_preferred":[
+        "Veljke Sljemence"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyszelmenc"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:por_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u0421\u043b\u0435\u043c\u0435\u043d\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u0421\u0459\u0435\u043c\u0435\u043d\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u0421\u043b\u0435\u043c\u0435\u043d\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nagy-Szelmenc"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e9 Slemence"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723261,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00e9 Slemence",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014299,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822974,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723261,
+        "gp:id":822974,
+        "qs_pg:id":1014299,
+        "wd:id":"Q202627"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300602,
+    "wof:geomhash":"505daa51c8a625c4bf39bb25af945975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1126016845,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1126016845,
+    "wof:lastmodified":1514505338,
+    "wof:name":"Vel\u0315k\u00e9 Slemence",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1402,
+    48.5091,
+    22.1402,
+    48.5091
+],
+  "geometry": {"coordinates":[22.1402,48.5091],"type":"Point"}
+}

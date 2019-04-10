@@ -1,0 +1,142 @@
+{
+  "id": 101833931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1270435.151698,
+    "geom:bbox":"17.6677713251,48.1325973284,17.6834313201,48.1502641729",
+    "geom:latitude":48.141712,
+    "geom:longitude":17.676169,
+    "iso:country":"SK",
+    "lbl:latitude":48.140825,
+    "lbl:longitude":17.67694,
+    "mps:latitude":48.140825,
+    "mps:longitude":17.67694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u043e\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:hbs_x_preferred":[
+        "Mostova"
+    ],
+    "name:hun_x_preferred":[
+        "Hidask\u00fcrt"
+    ],
+    "name:ita_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hidas K\u00fcrt"
+    ],
+    "name:war_x_preferred":[
+        "Mostov\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Mostov\u00e1",
+    "qs:la_lc":"*SK212503924",
+    "qs:level":"locality",
+    "qs:loc":"Mostov\u00e1",
+    "qs:loc_alt":"Mostova",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058631,
+        "gp:id":821112,
+        "qs:id":1083871,
+        "wd:id":"Q596941",
+        "wk:page":"Mostov\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"aabfad16de079ea9b1ba0ff72ba199ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101833931,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101833931,
+    "wof:lastmodified":1553815532,
+    "wof:name":"Mostov\u00e1",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66777132514085,
+    48.1325973283648,
+    17.68343132014257,
+    48.15026417285048
+],
+  "geometry": {"coordinates":[[[17.67057131952208,48.14655526175011],[17.67215080063528,48.15026417285048],[17.67248279890788,48.15024100722303],[17.67234693929367,48.1493467967129],[17.67903403501543,48.14887986655651],[17.67889806528149,48.14798566494386],[17.68291019921872,48.14770531805857],[17.68277416586102,48.1468111215471],[17.681436815604,48.14690458481499],[17.68089283610874,48.14332778514751],[17.68223009341682,48.14323432948351],[17.68209409055061,48.14234012996303],[17.68343132014257,48.14224665999456],[17.68288727671768,48.13866986349677],[17.68155014005316,48.1387633258621],[17.68127820137983,48.13697492019907],[17.67994110669292,48.13706836255994],[17.67926148278912,48.1325973283648],[17.67658751223945,48.13278414548074],[17.67699512895314,48.13546677920067],[17.67432100114559,48.13565354290085],[17.67445683910978,48.13654775673467],[17.66777132514085,48.13701439191777],[17.66831427327014,48.14059127919643],[17.66965147793837,48.14049797697783],[17.66978725341903,48.1413921953968],[17.67112447684718,48.14129887507517],[17.67126028164961,48.14219309099519],[17.67259752383791,48.14209975256983],[17.6730050444894,48.14478239102664],[17.67166773259089,48.14487573514748],[17.67180356175032,48.14576994866263],[17.67046622213638,48.1458632784753],[17.67057131952208,48.14655526175011]]],"type":"Polygon"}
+}

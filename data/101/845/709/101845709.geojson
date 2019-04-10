@@ -1,0 +1,147 @@
+{
+  "id": 101845709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":707973.64497,
+    "geom:bbox":"17.40275601,47.9898226871,17.4185004053,48.0002949043",
+    "geom:latitude":47.995512,
+    "geom:longitude":17.411321,
+    "iso:country":"SK",
+    "lbl:latitude":47.996908,
+    "lbl:longitude":17.410545,
+    "mps:latitude":47.996908,
+    "mps:longitude":17.410545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rohovce"
+    ],
+    "name:deu_x_preferred":[
+        "Rohovce"
+    ],
+    "name:dut_x_preferred":[
+        "Rohovce"
+    ],
+    "name:eng_x_preferred":[
+        "Rohovce"
+    ],
+    "name:epo_x_preferred":[
+        "Rohovce"
+    ],
+    "name:fra_x_preferred":[
+        "Rohovce"
+    ],
+    "name:fre_x_preferred":[
+        "Rohovce"
+    ],
+    "name:ger_x_preferred":[
+        "Rohovce"
+    ],
+    "name:hbs_x_preferred":[
+        "Rohovce"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyszarva"
+    ],
+    "name:ita_x_preferred":[
+        "Rohovce"
+    ],
+    "name:may_x_preferred":[
+        "Rohovce"
+    ],
+    "name:msa_x_preferred":[
+        "Rohovce"
+    ],
+    "name:nan_x_preferred":[
+        "Rohovce"
+    ],
+    "name:nld_x_preferred":[
+        "Rohovce"
+    ],
+    "name:por_x_preferred":[
+        "Rohovce"
+    ],
+    "name:slk_x_preferred":[
+        "Rohovce"
+    ],
+    "name:slo_x_preferred":[
+        "Rohovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ve\u013ek\u00e1 Sarva"
+    ],
+    "name:war_x_preferred":[
+        "Rohovce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Rohovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Dunajsk\u00e1 Streda",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Rohovce",
+    "qs:la_lc":"*SK211501891",
+    "qs:level":"locality",
+    "qs:loc":"Rohovce",
+    "qs:loc_alt":"Rohovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":280,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057845,
+        "gp:id":821976,
+        "qs:id":320514,
+        "qs_pg:id":320514,
+        "wd:id":"Q506992",
+        "wk:page":"Rohovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"abc74db4a7eff85a1d562d2de6cc83c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":101845709,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101845709,
+    "wof:lastmodified":1527642310,
+    "wof:name":"Rohovce",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40275601000104,
+    47.98982268707863,
+    17.41850040530602,
+    48.00029490428847
+],
+  "geometry": {"coordinates":[[[17.41394942907993,47.99993436037164],[17.41355736509672,47.99725041587868],[17.41622503810487,47.99707005789924],[17.41596359891582,47.9952807659111],[17.41729738277343,47.9951905663321],[17.41716664884359,47.99429592127467],[17.41850040530602,47.99420570736117],[17.41823890877993,47.99241641911971],[17.41690519851767,47.99250662937817],[17.41651306685986,47.98982268707863],[17.4125121182073,47.99009320444696],[17.41264275362425,47.99098785795377],[17.41130907239608,47.99107799991509],[17.41157031455339,47.99286730879993],[17.41023658283666,47.99295743825178],[17.410367189574,47.99385209362964],[17.40636589939072,47.99412239049133],[17.40649644265937,47.9950170507517],[17.40516264758696,47.99510711920607],[17.40529317358778,47.99600178069778],[17.40395935112446,47.99609183481431],[17.40408985985596,47.99698649753759],[17.40275601000104,47.99707653731502],[17.40301699875556,47.9988658646314],[17.40701867410502,47.99859568586083],[17.40714924656152,47.99949034315557],[17.40848315287741,47.99940024941225],[17.40861375428159,48.00029490428847],[17.41394942907993,47.99993436037164]]],"type":"Polygon"}
+}

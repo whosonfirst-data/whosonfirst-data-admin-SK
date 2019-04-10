@@ -1,0 +1,71 @@
+{
+  "id": 1260084311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04908,48.51282,20.04908,48.51282",
+    "geom:latitude":48.51282,
+    "geom:longitude":20.04908,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrusovo",
+    "gn:country_code":"SK",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724634,
+    "gn:latitude":48.51282,
+    "gn:longitude":20.04908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hru\u0161ovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hru\u0161ovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724634,
+        "wk:page":"Hru%C5%A1ovo"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"506dc51d95c75020485452e0e2268cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1260084311,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1260084311,
+    "wof:lastmodified":1537700368,
+    "wof:name":"Hrusovo",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04908,
+    48.51282,
+    20.04908,
+    48.51282
+],
+  "geometry": {"coordinates":[20.04908,48.51282],"type":"Point"}
+}

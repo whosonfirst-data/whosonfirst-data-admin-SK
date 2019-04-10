@@ -1,0 +1,141 @@
+{
+  "id": 101781709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1256116.633173,
+    "geom:bbox":"18.0253884033,48.9500009052,18.0440693472,48.9663746714",
+    "geom:latitude":48.958566,
+    "geom:longitude":18.03268,
+    "iso:country":"SK",
+    "lbl:latitude":48.958927,
+    "lbl:longitude":18.031265,
+    "mps:latitude":48.958927,
+    "mps:longitude":18.031265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:hbs_x_preferred":[
+        "Dolna Su\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3sz\u00facs"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:nan_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:nld_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0421\u0443\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dolnia S\u00fa\u010da"
+    ],
+    "name:war_x_preferred":[
+        "Doln\u00e1 S\u00fa\u010da"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trenc\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Doln\u00e1 S\u00fa\u010da",
+    "qs:la_lc":"*SK229505943",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00e1 S\u00fa\u010da",
+    "qs:loc_alt":"Dolna Suca",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060485,
+        "gp:id":819181,
+        "qs:id":1271036,
+        "wd:id":"Q290282",
+        "wk:page":"Doln\u00e1 S\u00fa\u010da"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"05c5669c94ce4172b56ce2684678efa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":101781709,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781709,
+    "wof:lastmodified":1527715624,
+    "wof:name":"Doln\u00e1 S\u00fa\u010da",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02538840326827,
+    48.95000090515845,
+    18.04406934715871,
+    48.96637467137708
+],
+  "geometry": {"coordinates":[[[18.03393003970251,48.96508957288563],[18.03349255839265,48.96240959696252],[18.04300277227026,48.96172341385625],[18.04271081313567,48.95993678890909],[18.04406934715871,48.95983870085229],[18.04392335342465,48.9589453895486],[18.04256484355437,48.95904347556348],[18.04241888062887,48.95815016163607],[18.03970189445363,48.95834628009891],[18.03911830250502,48.95477300224434],[18.03775989864982,48.95487102857112],[18.0379057625093,48.9557643509475],[18.03383044904501,48.95605833708822],[18.03339309475126,48.95337834985645],[18.03475146503598,48.95328037708839],[18.03460566941948,48.952387048888],[18.03324732328116,48.9524850196168],[18.03310155845747,48.95159168879593],[18.03174323155872,48.95168964099338],[18.03159749752604,48.95079630755237],[18.03023918986696,48.95089424121903],[18.03009348662249,48.95000090515845],[18.02873519820406,48.95009882029524],[18.02888087730463,48.95099215839372],[18.02616423747264,48.95118794326663],[18.026746827127,48.95476130615242],[18.02538840326827,48.95485918199938],[18.02553404313539,48.95575252330644],[18.02689249114474,48.95565464542199],[18.02747521364506,48.95922799669444],[18.02611666902334,48.95932588272956],[18.02699080715854,48.96468590445272],[18.02834949673081,48.96458800618848],[18.02864097759601,48.96637467137708],[18.03271716184338,48.96608086536503],[18.03257134559954,48.96518753917883],[18.03393003970251,48.96508957288563]]],"type":"Polygon"}
+}

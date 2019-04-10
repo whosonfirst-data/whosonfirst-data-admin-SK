@@ -1,0 +1,89 @@
+{
+  "id": 1125359119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6631,49.25817,18.6631,49.25817",
+    "geom:latitude":49.25817,
+    "geom:longitude":18.6631,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.25817,
+    "lbl:longitude":18.6631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Horn\u00ed Hri\u010dov"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3059942,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Horny Hricov",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1160867,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29399745,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059942,
+        "gp:id":29399745,
+        "qs_pg:id":1160867
+    },
+    "wof:country":"SK",
+    "wof:created":1497046664,
+    "wof:geomhash":"1a0326abc946e036eae46f738dfdec58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "localadmin_id":1125359119,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125359119,
+    "wof:lastmodified":1509389029,
+    "wof:name":"Horny Hricov",
+    "wof:parent_id":102080585,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6631,
+    49.25817,
+    18.6631,
+    49.25817
+],
+  "geometry": {"coordinates":[18.6631,49.25817],"type":"Point"}
+}

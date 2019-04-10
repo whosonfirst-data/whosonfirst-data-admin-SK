@@ -1,0 +1,71 @@
+{
+  "id": 1277061965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29329,49.14068,19.29329,49.14068",
+    "geom:latitude":49.14068,
+    "geom:longitude":19.29329,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Valaska Dubova",
+    "gn:country_code":"SK",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056978,
+    "gn:latitude":49.14068,
+    "gn:longitude":19.29329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valask\u00e1 Dubov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valask\u00e1 Dubov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056978,
+        "wk:page":"Valask%C3%A1_Dubov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"28154f97bb971d672b524c9c7ae3226c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1277061965,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1277061965,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Valaska Dubova",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29329,
+    49.14068,
+    19.29329,
+    49.14068
+],
+  "geometry": {"coordinates":[19.29329,49.14068],"type":"Point"}
+}

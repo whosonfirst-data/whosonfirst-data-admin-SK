@@ -1,0 +1,82 @@
+{
+  "id": 1125411567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.942972,48.72563,18.942972,48.72563",
+    "geom:latitude":48.72563,
+    "geom:longitude":18.942972,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.72563,
+    "lbl:longitude":18.942972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Krahule",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":91,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1186743,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29400614,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29400614,
+        "qs_pg:id":1186743
+    },
+    "wof:country":"SK",
+    "wof:created":1497050343,
+    "wof:geomhash":"52f634a4e2cc75cd548924004f90e5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "localadmin_id":1125411567,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125411567,
+    "wof:lastmodified":1509390271,
+    "wof:name":"Krahule",
+    "wof:parent_id":102080519,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.942972,
+    48.72563,
+    18.942972,
+    48.72563
+],
+  "geometry": {"coordinates":[18.942972,48.72563],"type":"Point"}
+}

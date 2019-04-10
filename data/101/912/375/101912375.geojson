@@ -1,0 +1,76 @@
+{
+  "id": 101912375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":428749.783631,
+    "geom:bbox":"17.2274060673,48.2172898273,17.2363450246,48.227939429",
+    "geom:latitude":48.222718,
+    "geom:longitude":17.231717,
+    "iso:country":"SK",
+    "lbl:latitude":48.222767,
+    "lbl:longitude":17.231649,
+    "mps:latitude":48.222767,
+    "mps:longitude":17.231649,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"1",
+    "qs:a2":"Senec",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Sv\u00e4t\u00fd Jur",
+    "qs:la_lc":"*SK107507989",
+    "qs:level":"locality",
+    "qs:loc":"Dvor \u010cierna Voda",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":819381,
+        "qs:id":1153001,
+        "qs_pg:id":1153001
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"387be89081a9547be55920636eac3ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":101912375,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101912375,
+    "wof:lastmodified":1497298150,
+    "wof:name":"Dvor \u010cierna Voda",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22740606731628,
+    48.21728982732435,
+    17.23634502463784,
+    48.22793942900114
+],
+  "geometry": {"coordinates":[[[17.23634502463784,48.22767528377261],[17.23621656982073,48.22678049262902],[17.23487645759297,48.22686855549586],[17.23436278962902,48.22328937803002],[17.23570280827795,48.22320132234847],[17.23544596213713,48.22141173378475],[17.23410599027142,48.22149978587373],[17.23372083450738,48.21881539335891],[17.23104101838516,48.2189914380096],[17.23091269144317,48.2180966357725],[17.22957280040913,48.21818463192682],[17.22944450262003,48.21728982732435],[17.22810463073353,48.21737780543378],[17.22874606038852,48.22185183171297],[17.22740606731628,48.22193980254292],[17.227662632749,48.22372941265081],[17.22900267260712,48.22364143823177],[17.22925930789131,48.22543104246955],[17.23059939029889,48.22534304820789],[17.23072773998814,48.22623784767637],[17.23206784154996,48.2261498353659],[17.23232460502885,48.22793942900114],[17.23634502463784,48.22767528377261]]],"type":"Polygon"}
+}

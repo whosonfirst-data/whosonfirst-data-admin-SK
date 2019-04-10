@@ -1,0 +1,72 @@
+{
+  "id": 1309813159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00166,48.19196,20.00166,48.19196",
+    "geom:latitude":48.19196,
+    "geom:longitude":20.00166,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dubno",
+    "gn:country_code":"SK",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724855,
+    "gn:latitude":48.19196,
+    "gn:longitude":20.00166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dubno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobfenek",
+        "Dubno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724855,
+        "wk:page":"Dubno%2C_Rimavsk%C3%A1_Sobota_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3ffc944f2e65f3538f8530993cd7bdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1309813159,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1309813159,
+    "wof:lastmodified":1537700371,
+    "wof:name":"Dubno",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00166,
+    48.19196,
+    20.00166,
+    48.19196
+],
+  "geometry": {"coordinates":[20.00166,48.19196],"type":"Point"}
+}

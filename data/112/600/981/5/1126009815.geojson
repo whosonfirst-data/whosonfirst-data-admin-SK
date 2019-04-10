@@ -1,0 +1,137 @@
+{
+  "id": 1126009815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25729,48.48601,17.25729,48.48601",
+    "geom:latitude":48.48601,
+    "geom:longitude":17.25729,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.48601,
+    "lbl:longitude":17.25729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:cze_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:dut_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:eng_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:epo_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:fre_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:ger_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:hun_x_preferred":[
+        "Detrek\u0151v\u00e1ralja"
+    ],
+    "name:ita_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:may_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:nan_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:por_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:slo_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0432\u0435\u0446\u043a\u0435 \u041f\u043e\u0434\u0445\u0440\u0430\u0434\u0458\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Plaveck\u00fd Podhradie"
+    ],
+    "name:war_x_preferred":[
+        "Plaveck\u00e9 Podhradie"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058183,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Plaveck\u00e9 Podhradie",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos":149,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":149,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":245895,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821610,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058183,
+        "gp:id":821610,
+        "qs_pg:id":245895,
+        "wd:id":"Q904507"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300198,
+    "wof:geomhash":"b585607e584ad5ebbab1d1750f2a357a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":1126009815,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1126009815,
+    "wof:lastmodified":1514505224,
+    "wof:name":"Plaveck\u00e9 Podhradie",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25729,
+    48.48601,
+    17.25729,
+    48.48601
+],
+  "geometry": {"coordinates":[17.25729,48.48601],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310506221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49258,48.99348,20.49258,48.99348",
+    "geom:latitude":48.99348,
+    "geom:longitude":20.49258,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mecedelovce",
+    "gn:country_code":"SK",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724166,
+    "gn:latitude":48.99348,
+    "gn:longitude":20.49258,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Me\u010dedelovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724166
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7afb04f97ea34a0e52c325f3201e0159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1310506221,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310506221,
+    "wof:lastmodified":1536916349,
+    "wof:name":"Mecedelovce",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49258,
+    48.99348,
+    20.49258,
+    48.99348
+],
+  "geometry": {"coordinates":[20.49258,48.99348],"type":"Point"}
+}

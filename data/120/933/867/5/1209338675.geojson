@@ -1,0 +1,64 @@
+{
+  "id": 1209338675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31352,47.9417,18.31352,47.9417",
+    "geom:latitude":47.9417,
+    "geom:longitude":18.31352,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Svaty Mikulas",
+    "gn:country_code":"SK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057296,
+    "gn:latitude":47.9417,
+    "gn:longitude":18.31352,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"Sv\u00e4t\u00fd Mikul\u00e1\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szent Mikl\u00f3spuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057296
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3c17c2bfdf29277debee1f0443963aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209338675
+        }
+    ],
+    "wof:id":1209338675,
+    "wof:lastmodified":1537700386,
+    "wof:name":"Svaty Mikulas",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31352,
+    47.9417,
+    18.31352,
+    47.9417
+],
+  "geometry": {"coordinates":[18.31352,47.9417],"type":"Point"}
+}

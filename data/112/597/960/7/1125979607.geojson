@@ -1,0 +1,130 @@
+{
+  "id": 1125979607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46708,48.12305,17.46708,48.12305",
+    "geom:latitude":48.12305,
+    "geom:longitude":17.46708,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.12305,
+    "lbl:longitude":17.46708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:ger_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:hun_x_preferred":[
+        "Ill\u00e9sh\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:nan_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0416\u0438\u0432\u043e\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Ill\u00e9sh\u00e1za"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3060263,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Eli\u00e1\u0161ovce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155987,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819416,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060263,
+        "gp:id":819416,
+        "qs_pg:id":1155987,
+        "wd:id":"Q426287"
+    },
+    "wof:country":"SK",
+    "wof:created":1497298495,
+    "wof:geomhash":"3942130239851f0889ff7bb5a413e281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1125979607,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125979607,
+    "wof:lastmodified":1514505089,
+    "wof:name":"Eli\u00e1\u0161ovce",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46708,
+    48.12305,
+    17.46708,
+    48.12305
+],
+  "geometry": {"coordinates":[17.46708,48.12305],"type":"Point"}
+}

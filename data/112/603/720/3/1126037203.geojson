@@ -1,0 +1,140 @@
+{
+  "id": 1126037203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90886,49.24292,20.90886,49.24292",
+    "geom:latitude":49.24292,
+    "geom:longitude":20.90886,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.24292,
+    "lbl:longitude":20.90886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151k\u00e1nya"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:may_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:rue_x_preferred":[
+        "\u0428\u0430\u0440\u0456\u0441\u044c\u043a\u0435 \u042f\u0441\u0442\u0440\u0430\u0431\u0454"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0448\u043a\u0435 \u0408\u0430\u0441\u0442\u0440\u0430\u0431\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0435 \u042f\u0441\u0442\u0440\u0430\u0431'\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Jastrabie"
+    ],
+    "name:war_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723652,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sarisske Jastrabie",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":261140,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822107,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723652,
+        "gp:id":822107,
+        "qs_pg:id":261140,
+        "wd:id":"Q999274"
+    },
+    "wof:country":"SK",
+    "wof:created":1497301869,
+    "wof:geomhash":"bfc4d98085b3ba63914ce71588638f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1126037203,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1126037203,
+    "wof:lastmodified":1514505267,
+    "wof:name":"Sarisske Jastrabie",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90886,
+    49.24292,
+    20.90886,
+    49.24292
+],
+  "geometry": {"coordinates":[20.90886,49.24292],"type":"Point"}
+}

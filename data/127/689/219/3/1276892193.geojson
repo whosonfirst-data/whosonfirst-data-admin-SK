@@ -1,0 +1,67 @@
+{
+  "id": 1276892193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56478,49.44826,18.56478,49.44826",
+    "geom:latitude":49.44826,
+    "geom:longitude":18.56478,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Klokocov",
+    "gn:country_code":"SK",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059488,
+    "gn:latitude":49.44826,
+    "gn:longitude":18.56478,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kloko\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059488
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9b247310bec491409d01c97ca65f1f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1276892193,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276892193,
+    "wof:lastmodified":1537023602,
+    "wof:name":"Klokocov",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56478,
+    49.44826,
+    18.56478,
+    49.44826
+],
+  "geometry": {"coordinates":[18.56478,49.44826],"type":"Point"}
+}

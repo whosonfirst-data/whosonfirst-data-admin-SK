@@ -1,0 +1,61 @@
+{
+  "id": 1209515773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38333,49.03333,18.38333,49.03333",
+    "geom:latitude":49.03333,
+    "geom:longitude":18.38333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dvor pod Malenicou",
+    "gn:country_code":"SK",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060274,
+    "gn:latitude":49.03333,
+    "gn:longitude":18.38333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Dvor pod Malenicou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060274
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8adaba8edd9b75d1a566a7f6087f068e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209515773
+        }
+    ],
+    "wof:id":1209515773,
+    "wof:lastmodified":1536284738,
+    "wof:name":"Dvor pod Malenicou",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38333,
+    49.03333,
+    18.38333,
+    49.03333
+],
+  "geometry": {"coordinates":[18.38333,49.03333],"type":"Point"}
+}

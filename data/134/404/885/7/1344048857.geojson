@@ -1,0 +1,73 @@
+{
+  "id": 1344048857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74761,48.37602,17.74761,48.37602",
+    "geom:latitude":48.37602,
+    "geom:longitude":17.74761,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dolne Zelenice",
+    "gn:country_code":"SK",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060425,
+    "gn:latitude":48.37602,
+    "gn:longitude":17.74761,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Zelenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00ed-Zelenice",
+        "Dolnie Zelenice",
+        "Doln\u00e9 Zelenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060425,
+        "wk:page":"Doln%C3%A9_Zelenice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ec250c74a2628e2fb1745ce6e8ed5262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080481,
+            "locality_id":1344048857,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1344048857,
+    "wof:lastmodified":1537700428,
+    "wof:name":"Dolne Zelenice",
+    "wof:parent_id":102080481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74761,
+    48.37602,
+    17.74761,
+    48.37602
+],
+  "geometry": {"coordinates":[17.74761,48.37602],"type":"Point"}
+}

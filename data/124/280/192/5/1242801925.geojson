@@ -1,0 +1,72 @@
+{
+  "id": 1242801925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27783,48.12743,18.27783,48.12743",
+    "geom:latitude":48.12743,
+    "geom:longitude":18.27783,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vlkas",
+    "gn:country_code":"SK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056731,
+    "gn:latitude":48.12743,
+    "gn:longitude":18.27783,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vlkas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valk\u00e1z",
+        "Vlkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056731,
+        "wk:page":"Vlkas"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2acd5ff5c63e23eb3a0bf4cd1ab2c46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1242801925,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1242801925,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vlkas",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27783,
+    48.12743,
+    18.27783,
+    48.12743
+],
+  "geometry": {"coordinates":[18.27783,48.12743],"type":"Point"}
+}

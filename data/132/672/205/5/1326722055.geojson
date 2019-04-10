@@ -1,0 +1,71 @@
+{
+  "id": 1326722055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,48.46667,17.63333,48.46667",
+    "geom:latitude":48.46667,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Na Frantisku",
+    "gn:country_code":"SK",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058589,
+    "gn:latitude":48.46667,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Na Franti\u0161ku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Na Franti\u0161ku",
+        "Na Franti\u0161ku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058589
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ba2f4f847e394d928d5cb0c4e8d61e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1326722055,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1326722055,
+    "wof:lastmodified":1537700401,
+    "wof:name":"Na Frantisku",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    48.46667,
+    17.63332999999999,
+    48.46667
+],
+  "geometry": {"coordinates":[17.63332999999999,48.46667],"type":"Point"}
+}

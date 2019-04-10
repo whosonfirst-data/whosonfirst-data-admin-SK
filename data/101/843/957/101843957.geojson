@@ -1,0 +1,145 @@
+{
+  "id": 101843957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":917159.284794,
+    "geom:bbox":"21.5797850619,48.9793027581,21.5972720103,48.9907895942",
+    "geom:latitude":48.985342,
+    "geom:longitude":21.588118,
+    "iso:country":"SK",
+    "lbl:latitude":48.985107,
+    "lbl:longitude":21.587521,
+    "mps:latitude":48.985107,
+    "mps:longitude":21.587521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:ces_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:cze_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:deu_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:dut_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:eng_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:fra_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:fre_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:ger_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:hun_x_preferred":[
+        "Tapolyizs\u00e9p"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:may_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:msa_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:nan_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:nld_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:pol_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:slo_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0438 \u0416\u0438\u043f\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0456\u0439 \u0416\u0438\u043f\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Slovensk\u00fd \u017dipov"
+    ],
+    "name:war_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"\u010cierne nad Top\u013eou",
+    "qs:la_lc":"*SK41D544132",
+    "qs:level":"locality",
+    "qs:loc":"Vy\u0161n\u00fd \u017dipov",
+    "qs:loc_alt":"Vysny Zipov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723124,
+        "gp:id":823232,
+        "qs:id":1271912,
+        "wd:id":"Q580369",
+        "wk:page":"Vy\u0161n\u00fd \u017dipov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"793668f4d0e0f60e686e129d0ddf6ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101843957,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101843957,
+    "wof:lastmodified":1527642595,
+    "wof:name":"Vy\u0161n\u00fd \u017dipov",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57978506191864,
+    48.97930275808511,
+    21.5972720102688,
+    48.99078959423883
+],
+  "geometry": {"coordinates":[[[21.5878066657711,48.98962069717379],[21.5972720102688,48.98863240966369],[21.59685126433152,48.98685910751357],[21.59549914033016,48.98700033455236],[21.59528880514017,48.98611367925065],[21.59393669758748,48.98625488704789],[21.59288528196538,48.98182158289711],[21.59153328478112,48.98196275976284],[21.59090262014433,48.97930275808511],[21.58684679771176,48.97972616448817],[21.58705693930511,48.98061284134667],[21.58300098320365,48.98103610966825],[21.58342115407601,48.9828094783058],[21.58206910769854,48.98295054095337],[21.58227918392964,48.98383722689124],[21.58092710704523,48.98397827614139],[21.58113716931109,48.9848649641321],[21.57978506191864,48.98500599998408],[21.57999511021723,48.98589269002764],[21.58134724109453,48.98575165125567],[21.58218762341403,48.98929839107893],[21.58489205198345,48.98901624121402],[21.58531239422126,48.99078959423883],[21.58801688862962,48.99050736740884],[21.5878066657711,48.98962069717379]]],"type":"Polygon"}
+}

@@ -1,0 +1,143 @@
+{
+  "id": 101782713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":957160.213918,
+    "geom:bbox":"17.9676966203,48.4123825654,17.9914612605,48.4254767553",
+    "geom:latitude":48.417589,
+    "geom:longitude":17.980991,
+    "iso:country":"SK",
+    "lbl:latitude":48.416607,
+    "lbl:longitude":17.982791,
+    "mps:latitude":48.416607,
+    "mps:longitude":17.982791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:ger_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:hbs_x_preferred":[
+        "Nove Sadi"
+    ],
+    "name:hun_x_preferred":[
+        "Assak\u00fcrt"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:nan_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u0421\u0430\u0434\u0438"
+    ],
+    "name:und_x_preferred":[
+        "Nove Sady"
+    ],
+    "name:unk_x_variant":[
+        "A\u0161aker\u0165"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nitra",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Nov\u00e9 Sady",
+    "qs:la_lc":"*SK233500640",
+    "qs:level":"locality",
+    "qs:loc":"Nov\u00e9 Sady",
+    "qs:loc_alt":"Nove Sady",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070d16ec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3058473,
+        "gp:id":29401145,
+        "qs:id":207485,
+        "wd:id":"Q778948",
+        "wk:page":"Nov\u00e9 Sady, Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7c68abecf78684b468e0c0cc09bd83fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":101782713,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101782713,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815498,
+    "wof:name":"Nov\u00e9 Sady",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96769662030209,
+    48.41238256537667,
+    17.99146126049487,
+    48.42547675527135
+],
+  "geometry": {"coordinates":[[[17.98645232149084,48.42528231158178],[17.98531174043546,48.4181333119152],[17.98665577520165,48.41803608156874],[17.98637064718088,48.41624882957439],[17.99040258204155,48.41595705272971],[17.99011733868264,48.41416981026691],[17.99146126049487,48.41407252271944],[17.99131862495273,48.41317890257125],[17.98997472664524,48.41327618812528],[17.98983212103548,48.41238256537667],[17.98848824150053,48.41247983264543],[17.9886308236068,48.41337345738708],[17.9832551641577,48.41376237151036],[17.98311267606948,48.41286873879977],[17.97908095236136,48.41316024734635],[17.97922336993224,48.4140538860301],[17.97653548348944,48.41424814757863],[17.97667786046469,48.41514178963712],[17.96995794416699,48.41562716832317],[17.97038476093769,48.41830812070452],[17.96769662030209,48.4185021700518],[17.96783885835777,48.41939582361164],[17.97993555408249,48.41852207035771],[17.98007801017457,48.41941570540507],[17.98142208736687,48.41931853824474],[17.98213458173615,48.42378669443536],[17.98079038696733,48.42388387155381],[17.98093288159515,48.42477750296604],[17.98362131343976,48.42458312844889],[17.98376386153024,48.42547675527135],[17.98645232149084,48.42528231158178]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292986393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63583,49.27495,18.63583,49.27495",
+    "geom:latitude":49.27495,
+    "geom:longitude":18.63583,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Horny Keblov",
+    "gn:country_code":"SK",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059937,
+    "gn:latitude":49.27495,
+    "gn:longitude":18.63583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00fd Keblov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Keblov",
+        "Horn\u00fd Keblov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059937
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"305a8f9f5a033fc6e5148387478e2868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1292986393,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1292986393,
+    "wof:lastmodified":1537700419,
+    "wof:name":"Horny Keblov",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63583,
+    49.27495,
+    18.63583,
+    49.27495
+],
+  "geometry": {"coordinates":[18.63583,49.27495],"type":"Point"}
+}

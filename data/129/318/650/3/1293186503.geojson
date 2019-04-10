@@ -1,0 +1,72 @@
+{
+  "id": 1293186503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.40795,49.05598,19.40795,49.05598",
+    "geom:latitude":49.05598,
+    "geom:longitude":19.40795,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vysny Sliac",
+    "gn:country_code":"SK",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056652,
+    "gn:latitude":49.05598,
+    "gn:longitude":19.40795,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00fd Slia\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161n\u00e9 Slia\u010de",
+        "Vy\u0161nie Slia\u010de",
+        "Vy\u0161n\u00fd Slia\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056652
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3b8d92e6f7f3cb2371ae3f1947b89750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1293186503,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1293186503,
+    "wof:lastmodified":1537700379,
+    "wof:name":"Vysny Sliac",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.40795,
+    49.05598,
+    19.40795,
+    49.05598
+],
+  "geometry": {"coordinates":[19.40795,49.05598],"type":"Point"}
+}

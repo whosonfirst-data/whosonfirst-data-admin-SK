@@ -1,0 +1,71 @@
+{
+  "id": 1226670127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29758,48.73559,18.29758,48.73559",
+    "geom:latitude":48.73559,
+    "geom:longitude":18.29758,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horne Nastice",
+    "gn:country_code":"SK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059984,
+    "gn:latitude":48.73559,
+    "gn:longitude":18.29758,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Na\u0161tice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00e9 Na\u0161tice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059984,
+        "wk:page":"Horn%C3%A9_Na%C5%A1tice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1a38df80212685aa22f9dc540efb5f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1226670127,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226670127,
+    "wof:lastmodified":1537700422,
+    "wof:name":"Horne Nastice",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29758,
+    48.73559,
+    18.29758,
+    48.73559
+],
+  "geometry": {"coordinates":[18.29758,48.73559],"type":"Point"}
+}

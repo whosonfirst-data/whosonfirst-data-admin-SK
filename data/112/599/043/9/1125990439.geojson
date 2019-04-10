@@ -1,0 +1,136 @@
+{
+  "id": 1125990439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00358,48.50403,17.00358,48.50403",
+    "geom:latitude":48.50403,
+    "geom:longitude":17.00358,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.50403,
+    "lbl:longitude":17.00358,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyl\u00e9v\u00e1rd"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ea\u30ad\u30fc\u30fb\u30ec\u30f4\u30a1\u30fc\u30ea"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:por_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u0409\u0435\u0432\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e9 Lev\u00e1re"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056870,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00e9 Lev\u00e1re",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":280968,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822961,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056870,
+        "gp:id":822961,
+        "qs_pg:id":280968,
+        "wd:id":"Q780356"
+    },
+    "wof:country":"SK",
+    "wof:created":1497299031,
+    "wof:geomhash":"d699e527df4512a46f2ae8636a61218d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":1125990439,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1125990439,
+    "wof:lastmodified":1514505337,
+    "wof:name":"Vel\u0315k\u00e9 Lev\u00e1re",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00358,
+    48.50403,
+    17.00358,
+    48.50403
+],
+  "geometry": {"coordinates":[17.00358,48.50403],"type":"Point"}
+}

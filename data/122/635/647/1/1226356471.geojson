@@ -1,0 +1,71 @@
+{
+  "id": 1226356471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70252,48.24425,19.70252,48.24425",
+    "geom:latitude":48.24425,
+    "geom:longitude":19.70252,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mucin",
+    "gn:country_code":"SK",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058621,
+    "gn:latitude":48.24425,
+    "gn:longitude":19.70252,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mu\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u010d\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058621,
+        "wk:page":"Mu%C4%8D%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"73e9bff39159a316560b194a55760d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1226356471,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226356471,
+    "wof:lastmodified":1537700401,
+    "wof:name":"Mucin",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70252,
+    48.24425,
+    19.70252,
+    48.24425
+],
+  "geometry": {"coordinates":[19.70252,48.24425],"type":"Point"}
+}

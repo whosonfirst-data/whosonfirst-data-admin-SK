@@ -1,0 +1,69 @@
+{
+  "id": 1259989895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2531,47.86155,18.2531,47.86155",
+    "geom:latitude":47.86155,
+    "geom:longitude":18.2531,
+    "gn:asciiname":"Kovagopuszta",
+    "gn:country_code":"SK",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6690463,
+    "gn:latitude":47.86155,
+    "gn:longitude":18.2531,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"K\u0151v\u00e1g\u00f3puszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Kamenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690463
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"02852a492f49b17a11d9e5d4b728ea3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1259989895,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1259989895,
+    "wof:lastmodified":1537700439,
+    "wof:name":"Kovagopuszta",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2531,
+    47.86155,
+    18.2531,
+    47.86155
+],
+  "geometry": {"coordinates":[18.2531,47.86155],"type":"Point"}
+}

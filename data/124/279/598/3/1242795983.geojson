@@ -1,0 +1,67 @@
+{
+  "id": 1242795983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50286,49.42057,18.50286,49.42057",
+    "geom:latitude":49.42057,
+    "geom:longitude":18.50286,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Veselka",
+    "gn:country_code":"SK",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056792,
+    "gn:latitude":49.42057,
+    "gn:longitude":18.50286,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Veselka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056792
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b722994af7d656f00e023c50a14019e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1242795983,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1242795983,
+    "wof:lastmodified":1536748942,
+    "wof:name":"Veselka",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50286,
+    49.42057,
+    18.50286,
+    49.42057
+],
+  "geometry": {"coordinates":[18.50286,49.42057],"type":"Point"}
+}

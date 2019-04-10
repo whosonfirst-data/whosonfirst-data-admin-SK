@@ -1,0 +1,72 @@
+{
+  "id": 1292938701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51155,48.27375,18.51155,48.27375",
+    "geom:latitude":48.27375,
+    "geom:longitude":18.51155,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Male Kozmalovce",
+    "gn:country_code":"SK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058850,
+    "gn:latitude":48.27375,
+    "gn:longitude":18.51155,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u00e9 Kozm\u00e1lovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kis-Koszm\u00e1ly",
+        "Mal\u00e9 Kozm\u00e1lovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058850,
+        "wk:page":"Mal%C3%A9_Kozm%C3%A1lovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eaaf9ac0e011443b653adc0b5b17f346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1292938701,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1292938701,
+    "wof:lastmodified":1537700405,
+    "wof:name":"Male Kozmalovce",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51155,
+    48.27375,
+    18.51155,
+    48.27375
+],
+  "geometry": {"coordinates":[18.51155,48.27375],"type":"Point"}
+}

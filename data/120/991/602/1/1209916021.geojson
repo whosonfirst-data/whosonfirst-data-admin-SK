@@ -1,0 +1,68 @@
+{
+  "id": 1209916021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11687,48.7249,22.11687,48.7249",
+    "geom:latitude":48.7249,
+    "geom:longitude":22.11687,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bunkovce",
+    "gn:country_code":"SK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725042,
+    "gn:latitude":48.7249,
+    "gn:longitude":22.11687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bunkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725042,
+        "wk:page":"Bunkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2e20b750dd25e92ab93cd936453bdbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080571,
+            "locality_id":1209916021,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1209916021,
+    "wof:lastmodified":1537573584,
+    "wof:name":"Bunkovce",
+    "wof:parent_id":102080571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11687,
+    48.7249,
+    22.11687,
+    48.7249
+],
+  "geometry": {"coordinates":[22.11687,48.7249],"type":"Point"}
+}

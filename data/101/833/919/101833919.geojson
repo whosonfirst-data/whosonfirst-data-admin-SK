@@ -1,0 +1,141 @@
+{
+  "id": 101833919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1265049.902073,
+    "geom:bbox":"17.3510588973,48.2067998994,17.3722014352,48.2273762049",
+    "geom:latitude":48.217271,
+    "geom:longitude":17.362153,
+    "iso:country":"SK",
+    "lbl:latitude":48.222203,
+    "lbl:longitude":17.365677,
+    "mps:latitude":48.222203,
+    "mps:longitude":17.365677,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarb\u00e9l"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:por_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u0411\u0458\u0435\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Magyar-B\u00e9l"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Senec",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Senec",
+    "qs:la_lc":"*SK108508217",
+    "qs:level":"locality",
+    "qs:loc":"Ve\u013ek\u00fd Biel",
+    "qs:loc_alt":"Velky Biel",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056845,
+        "gp:id":822993,
+        "qs:id":245260,
+        "wd:id":"Q221808",
+        "wk:page":"Ve\u013ek\u00fd Biel"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ce6dc5beb878bf83b6415c10366bd543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":101833919,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101833919,
+    "wof:lastmodified":1527642929,
+    "wof:name":"Ve\u013ek\u00fd Biel",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35105889728942,
+    48.20679989943676,
+    17.37220143523899,
+    48.22737620492876
+],
+  "geometry": {"coordinates":[[[17.37103594243501,48.22506346936888],[17.37220143523899,48.22137199372838],[17.36938965822742,48.22156027065182],[17.36912808945044,48.21977105018493],[17.36778835442817,48.21986072540221],[17.36765760222227,48.21896611247166],[17.36497816595829,48.21914541051154],[17.36471677264171,48.2173561756025],[17.36337709476942,48.21744579659861],[17.36324643028559,48.21655117644877],[17.36190677146419,48.21664077937243],[17.36151488332553,48.21395690997031],[17.36285447205103,48.21386731252778],[17.36272383104455,48.21297269006334],[17.36406339209134,48.21288307820373],[17.36393273359096,48.21198845698768],[17.36527226696052,48.21189883071202],[17.3651415909689,48.21100421074442],[17.36648109666157,48.21091457005309],[17.36621971556934,48.20912533203597],[17.36488025659395,48.20921496907226],[17.36474959821049,48.20832034736753],[17.3634101582773,48.20840996633456],[17.36327952911859,48.20751534222393],[17.36060068302362,48.20769452777921],[17.36047010644398,48.20679989943676],[17.3591307002838,48.20688946602593],[17.35939181259408,48.2086787257839],[17.3553734281017,48.20894733905345],[17.35550392297671,48.20984197354085],[17.35684341214409,48.20975245020117],[17.35762664468109,48.21512023402516],[17.3522681014316,48.21547827372336],[17.35239856724559,48.21637290963713],[17.35105889728942,48.21646238077398],[17.35131979976313,48.21825165451679],[17.35533893691422,48.21798318142169],[17.35560000305821,48.2197724419035],[17.35827949974725,48.21959337130801],[17.35814891700159,48.21869874500783],[17.36216805956684,48.21843002274795],[17.3625600357442,48.22111388347344],[17.36122025575878,48.221203479287],[17.36161221465147,48.22388734029016],[17.36295206475842,48.22379773899451],[17.36347485231869,48.22737620492876],[17.36615472659389,48.22719693896988],[17.36602397413776,48.22630232700993],[17.36870378437459,48.22612299971394],[17.36857299103946,48.22522839083348],[17.37103594243501,48.22506346936888]]],"type":"Polygon"}
+}

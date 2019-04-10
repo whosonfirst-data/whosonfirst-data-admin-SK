@@ -1,0 +1,71 @@
+{
+  "id": 1276882817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27705,48.44996,20.27705,48.44996",
+    "geom:latitude":48.44996,
+    "geom:longitude":20.27705,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Otrocok",
+    "gn:country_code":"SK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723949,
+    "gn:latitude":48.44996,
+    "gn:longitude":20.27705,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Otro\u010dok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otro\u010dok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723949,
+        "wk:page":"Otro%C4%8Dok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1e865273b61e469e5962c21a2d1b8e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1276882817,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1276882817,
+    "wof:lastmodified":1537700355,
+    "wof:name":"Otrocok",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27705,
+    48.44996,
+    20.27705,
+    48.44996
+],
+  "geometry": {"coordinates":[20.27705,48.44996],"type":"Point"}
+}

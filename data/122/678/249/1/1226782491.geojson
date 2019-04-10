@@ -1,0 +1,71 @@
+{
+  "id": 1226782491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69603,48.7777,18.69603,48.7777",
+    "geom:latitude":48.7777,
+    "geom:longitude":18.69603,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ka Causa",
+    "gn:country_code":"SK",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056934,
+    "gn:latitude":48.7777,
+    "gn:longitude":18.69603,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e1 \u010causa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00e1 \u010causa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056934,
+        "wk:page":"Ve%C4%BEk%C3%A1_%C4%8Causa"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ff4ea2bc9bf66208cddeb4c945309bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1226782491,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226782491,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Vel'ka Causa",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69603,
+    48.7777,
+    18.69603,
+    48.7777
+],
+  "geometry": {"coordinates":[18.69603,48.7777],"type":"Point"}
+}

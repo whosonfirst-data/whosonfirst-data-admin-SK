@@ -1,0 +1,72 @@
+{
+  "id": 1293889647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12554,48.39904,18.12554,48.39904",
+    "geom:latitude":48.39904,
+    "geom:longitude":18.12554,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Badice",
+    "gn:country_code":"SK",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061213,
+    "gn:latitude":48.39904,
+    "gn:longitude":18.12554,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e1dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9d",
+        "B\u00e1dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061213,
+        "wk:page":"B%C3%A1dice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1da61dfa8cc2b45420467bb57567caff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1293889647,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293889647,
+    "wof:lastmodified":1537700438,
+    "wof:name":"Badice",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12554,
+    48.39904,
+    18.12554,
+    48.39904
+],
+  "geometry": {"coordinates":[18.12554,48.39904],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101860159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.673277,49.151886,18.673277,49.151886",
+    "geom:latitude":49.151886,
+    "geom:longitude":18.673277,
+    "iso:country":"SK",
+    "lbl:latitude":49.151886,
+    "lbl:longitude":18.673277,
+    "mps:latitude":49.151886,
+    "mps:longitude":18.673277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:ces_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:cze_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:deu_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:dut_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:eng_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:epo_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:fra_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:fre_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:ger_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:hun_x_preferred":[
+        "Litvaszinye-Babk\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:may_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:msa_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:nld_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:pol_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1 - Babkov"
+    ],
+    "name:slo_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0442\u0430\u0432\u0441\u043a\u0430 \u0421\u0432\u0438\u043d\u0430-\u0411\u0430\u0431\u043a\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017dilina",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lietavsk\u00e1 Svinn\u00e1 - Babkov",
+    "qs:loc_alt":"Lietavska Svinna - Babkov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402573,
+        "qs:id":4,
+        "wd:id":"Q1045107"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"54c2ab392ce46326be45aec5a4bfe7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":101860159,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101860159,
+    "wof:lastmodified":1544745293,
+    "wof:name":"Lietavsk\u00e1 Svinn\u00e1 - Babkov",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.673277,
+    49.151886,
+    18.673277,
+    49.151886
+],
+  "geometry": {"coordinates":[18.673277,49.151886],"type":"Point"}
+}

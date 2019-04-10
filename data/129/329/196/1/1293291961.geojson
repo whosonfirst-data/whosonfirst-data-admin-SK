@@ -1,0 +1,71 @@
+{
+  "id": 1293291961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0038,49.0714,22.0038,49.0714",
+    "geom:latitude":49.0714,
+    "geom:longitude":22.0038,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Slovenske Krive",
+    "gn:country_code":"SK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723576,
+    "gn:latitude":49.0714,
+    "gn:longitude":22.0038,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slovensk\u00e9 Kriv\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slovensk\u00e9 Kriv\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723576,
+        "wk:page":"Slovensk%C3%A9_Kriv%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cc692f754d1a51fc53ee9d0c9daa9bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080603,
+            "locality_id":1293291961,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293291961,
+    "wof:lastmodified":1537700349,
+    "wof:name":"Slovenske Krive",
+    "wof:parent_id":102080603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0038,
+    49.0714,
+    22.0038,
+    49.0714
+],
+  "geometry": {"coordinates":[22.0038,49.0714],"type":"Point"}
+}

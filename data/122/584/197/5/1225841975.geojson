@@ -1,0 +1,72 @@
+{
+  "id": 1225841975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43781,49.09588,19.43781,49.09588",
+    "geom:latitude":49.09588,
+    "geom:longitude":19.43781,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Liptovsky Michal",
+    "gn:country_code":"SK",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059051,
+    "gn:latitude":49.09588,
+    "gn:longitude":19.43781,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Liptovsk\u00fd Michal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sv\u00e4t\u00fd Michal",
+        "Liptovsk\u00fd Michal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059051,
+        "wk:page":"Liptovsk%C3%BD_Michal"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0a139d867de709346e9190e73718451f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1225841975,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1225841975,
+    "wof:lastmodified":1537700408,
+    "wof:name":"Liptovsky Michal",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43781,
+    49.09588,
+    19.43781,
+    49.09588
+],
+  "geometry": {"coordinates":[19.43781,49.09588],"type":"Point"}
+}

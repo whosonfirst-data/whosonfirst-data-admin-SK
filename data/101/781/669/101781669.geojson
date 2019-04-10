@@ -1,0 +1,136 @@
+{
+  "id": 101781669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000199,
+    "geom:area_square_m":1625082.855685,
+    "geom:bbox":"18.5916074363,48.6872940206,18.6189698475,48.7041472268",
+    "geom:latitude":48.69563,
+    "geom:longitude":18.605217,
+    "iso:country":"SK",
+    "lbl:latitude":48.693104,
+    "lbl:longitude":18.601589,
+    "mps:latitude":48.693104,
+    "mps:longitude":18.601589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:ces_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:cze_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:deu_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:dut_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:eng_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:epo_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:fra_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:fre_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:ger_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:hbs_x_preferred":[
+        "Ljehota pod Vta\u010dnjikom"
+    ],
+    "name:hun_x_preferred":[
+        "Papszabadi"
+    ],
+    "name:ita_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:may_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:msa_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:nld_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:pol_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:slo_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0445\u043e\u0442\u0430 \u043f\u043e\u0434 \u0412\u0442\u0430\u0447\u045a\u0438\u043a\u043e\u043c"
+    ],
+    "name:war_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Lehota pod Vt\u00e1\u010dnikom",
+    "qs:la_lc":"*SK227514136",
+    "qs:level":"locality",
+    "qs:loc":"Lehota pod Vt\u00e1\u010dnikom",
+    "qs:loc_alt":"Lehota pod Vtacnikom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402960,
+        "qs:id":2,
+        "wd:id":"Q1070300"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c3f3b5ec1ea7b1f1914b995d5f50c615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101781669,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781669,
+    "wof:lastmodified":1527715626,
+    "wof:name":"Lehota pod Vt\u00e1\u010dnikom",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59160743627996,
+    48.68729402063559,
+    18.61896984754617,
+    48.70414722677151
+],
+  "geometry": {"coordinates":[[[18.61792960391858,48.70252015799349],[18.6176193141128,48.70073514131752],[18.61896984754617,48.70063014498766],[18.61850439432357,48.69795262171755],[18.6158034647259,48.69816258500231],[18.61549329267359,48.6963775576483],[18.61414286758486,48.69648251040184],[18.61398781583438,48.69558999360657],[18.61263740930661,48.69569492782415],[18.61248238831644,48.69480240822872],[18.61113200035004,48.69490732391068],[18.61097701011852,48.69401480151572],[18.60692588638341,48.69432944384869],[18.60646117142551,48.69165185337613],[18.60781147997085,48.69154699546073],[18.60765656528372,48.69065446619936],[18.6063062804721,48.69075932195051],[18.60615139653407,48.68986678989069],[18.60480113028399,48.68997162711008],[18.60433659174993,48.68729402063559],[18.59893575983648,48.68771317987944],[18.59909050407919,48.68860572465496],[18.59774025945285,48.688710475709],[18.59789498697182,48.6896030220127],[18.59519443475779,48.68981247933925],[18.59534912181687,48.69070502933226],[18.59399881422826,48.69080973560381],[18.59415348455849,48.69170228712414],[18.59280314807017,48.69180697918733],[18.59295780166929,48.69269953223557],[18.59160743627996,48.69280421008983],[18.59176207314613,48.6936967646655],[18.59311246227378,48.69359208465062],[18.59357648612473,48.69626973809767],[18.59492694130887,48.69616503522963],[18.59508165368192,48.6970575829514],[18.59643212744174,48.69695286155076],[18.59658687056674,48.697845406478],[18.60198880889556,48.69742634851525],[18.60214365400333,48.69831888415854],[18.60619512468742,48.69800441229893],[18.60635004803873,48.69889694081724],[18.60905105011443,48.69868720672565],[18.60951600474459,48.70136477548931],[18.60681486020439,48.70157452257035],[18.60696981163227,48.70246704855413],[18.60832041023622,48.70236218103486],[18.60863038164848,48.70414722677151],[18.61403291427615,48.70372757564235],[18.61387783006899,48.70283506175451],[18.61792960391858,48.70252015799349]]],"type":"Polygon"}
+}

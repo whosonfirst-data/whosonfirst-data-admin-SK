@@ -1,0 +1,82 @@
+{
+  "id": 1125412657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.334907,49.143986,19.334907,49.143986",
+    "geom:latitude":49.143986,
+    "geom:longitude":19.334907,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.143986,
+    "lbl:longitude":19.334907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Valaska Dubova",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos":306,
+    "qs_pg:photos_1k":62,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":313,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1316312,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401866,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29401866,
+        "qs_pg:id":1316312
+    },
+    "wof:country":"SK",
+    "wof:created":1497050686,
+    "wof:geomhash":"fb943be941d35ca987b62e5b6be709f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "localadmin_id":1125412657,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125412657,
+    "wof:lastmodified":1509390302,
+    "wof:name":"Valaska Dubova",
+    "wof:parent_id":102080567,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.334907,
+    49.143986,
+    19.334907,
+    49.143986
+],
+  "geometry": {"coordinates":[19.334907,49.143986],"type":"Point"}
+}

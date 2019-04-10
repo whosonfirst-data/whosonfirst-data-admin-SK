@@ -1,0 +1,153 @@
+{
+  "id": 101780459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":887279.570359,
+    "geom:bbox":"21.6074753953,48.8675337359,21.6449496235,48.875908116",
+    "geom:latitude":48.872344,
+    "geom:longitude":21.624151,
+    "iso:country":"SK",
+    "lbl:latitude":48.872393,
+    "lbl:longitude":21.626991,
+    "mps:latitude":48.872393,
+    "mps:longitude":21.626991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vechec"
+    ],
+    "name:ces_x_preferred":[
+        "Vechec"
+    ],
+    "name:cze_x_preferred":[
+        "Vechec"
+    ],
+    "name:deu_x_preferred":[
+        "Vechec"
+    ],
+    "name:dut_x_preferred":[
+        "Vechec"
+    ],
+    "name:eng_x_preferred":[
+        "Vechec"
+    ],
+    "name:epo_x_preferred":[
+        "Vechec"
+    ],
+    "name:fra_x_preferred":[
+        "Vechec"
+    ],
+    "name:fre_x_preferred":[
+        "Vechec"
+    ],
+    "name:ger_x_preferred":[
+        "Vechec"
+    ],
+    "name:hun_x_preferred":[
+        "Veh\u00e9c"
+    ],
+    "name:ita_x_preferred":[
+        "Vechec"
+    ],
+    "name:may_x_preferred":[
+        "Vechec"
+    ],
+    "name:msa_x_preferred":[
+        "Vechec"
+    ],
+    "name:nan_x_preferred":[
+        "Vechec"
+    ],
+    "name:nld_x_preferred":[
+        "Vechec"
+    ],
+    "name:pol_x_preferred":[
+        "Vechec"
+    ],
+    "name:slk_x_preferred":[
+        "Vechec"
+    ],
+    "name:slo_x_preferred":[
+        "Vechec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0445\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0445\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Vehec"
+    ],
+    "name:war_x_preferred":[
+        "Vechec"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Vechec"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vranov nad Top\u013eou",
+    "qs:la_lc":"*SK41D544051",
+    "qs:level":"locality",
+    "qs:loc":"Vechec",
+    "qs:loc_alt":"Vechec",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723292,
+        "gp:id":822894,
+        "qs:id":1207729,
+        "qs_pg:id":1207729,
+        "wd:id":"Q584050",
+        "wk:page":"Vechec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9ec48d36f5278971903656d5c2a5bb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101780459,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780459,
+    "wof:lastmodified":1527715876,
+    "wof:name":"Vechec",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6074753953431,
+    48.86753373594308,
+    21.64494962345697,
+    48.87590811598193
+],
+  "geometry": {"coordinates":[[[21.64246211429668,48.87576638368665],[21.64225165219244,48.87487978122323],[21.64494962345697,48.8745962736611],[21.64473912418578,48.87370967616982],[21.64339016540021,48.87385143516229],[21.64317969897905,48.87296483386802],[21.6364349165151,48.87367337011375],[21.63622457629396,48.87278675332306],[21.6308287174578,48.87335327770921],[21.63019803387937,48.87069338701008],[21.62884912166402,48.87083496865921],[21.62863893614099,48.86994833375167],[21.62189438667218,48.87065598330076],[21.62147427749113,48.86888268165836],[21.61877650203587,48.8691656158914],[21.61856650835739,48.8682789579193],[21.61721763346759,48.86842039770875],[21.61700767261533,48.86753373594308],[21.61430994851469,48.8678165608685],[21.61493971950205,48.87047656104471],[21.61224182737419,48.87075933838139],[21.61245172332639,48.87164600919084],[21.611102743424,48.87178737636515],[21.61131262551828,48.87267404921676],[21.60861459803527,48.87295674057543],[21.60882444292463,48.87384341838521],[21.6074753953431,48.87398474256833],[21.60768522636926,48.87487142241997],[21.6117324181634,48.87444739229556],[21.6115225170978,48.87356072119348],[21.61691858146594,48.87299513151191],[21.61712857591067,48.87388179094347],[21.62117562071182,48.87345741904443],[21.62138569467965,48.87434406884404],[21.62543274647913,48.87391954171699],[21.62564289997175,48.8748061818813],[21.63238796288351,48.87409829658105],[21.63259824258796,48.87498492126247],[21.63664526624211,48.87455998602741],[21.63685562547522,48.87544660106391],[21.64090265603534,48.87502151059402],[21.64111309479932,48.87590811598193],[21.64246211429668,48.87576638368665]]],"type":"Polygon"}
+}

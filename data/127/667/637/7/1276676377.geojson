@@ -1,0 +1,67 @@
+{
+  "id": 1276676377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54845,49.45621,18.54845,49.45621",
+    "geom:latitude":49.45621,
+    "geom:longitude":18.54845,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kornica",
+    "gn:country_code":"SK",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059386,
+    "gn:latitude":49.45621,
+    "gn:longitude":18.54845,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kornica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059386
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c641cc2cf9440bf4af955df5e266b561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1276676377,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276676377,
+    "wof:lastmodified":1536815302,
+    "wof:name":"Kornica",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54845,
+    49.45621,
+    18.54845,
+    49.45621
+],
+  "geometry": {"coordinates":[18.54845,49.45621],"type":"Point"}
+}

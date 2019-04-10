@@ -1,0 +1,141 @@
+{
+  "id": 101843849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1026858.348898,
+    "geom:bbox":"18.0072355778,48.8428940191,18.0291635388,48.8549130164",
+    "geom:latitude":48.849581,
+    "geom:longitude":18.018052,
+    "iso:country":"SK",
+    "lbl:latitude":48.850874,
+    "lbl:longitude":18.019713,
+    "mps:latitude":48.850874,
+    "mps:longitude":18.019713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Tornyos"
+    ],
+    "name:ita_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u043d\u0447\u044c\u044f\u043d\u0441\u043a\u0430 \u0422\u0443\u0440\u043d\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0435\u043d\u0447\u0438\u043d\u0441\u043a\u0430 \u0422\u0443\u0440\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Turn\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Tren\u010dianska Turn\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trenc\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tren\u010d\u00edn",
+    "qs:la_lc":"*SK229505820",
+    "qs:level":"locality",
+    "qs:loc":"Tren\u010dianska Turn\u00e1",
+    "qs:loc_alt":"Trencianska Turna",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057145,
+        "gp:id":822708,
+        "qs:id":1072504,
+        "qs_pg:id":1072504,
+        "wd:id":"Q1070688",
+        "wk:page":"Tren\u010dianska Turn\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a4d5e4fef3e542f64ce1fe71cc377907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":101843849,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101843849,
+    "wof:lastmodified":1527642598,
+    "wof:name":"Tren\u010dianska Turn\u00e1",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00723557776558,
+    48.84289401911229,
+    18.02916353881449,
+    48.85491301635739
+],
+  "geometry": {"coordinates":[[[18.02146513357036,48.85481523442712],[18.02132001855932,48.85392184611339],[18.02538704987478,48.85362840767715],[18.0252418693878,48.85273502486802],[18.0279531511826,48.85253932102853],[18.02780792925228,48.85164594169504],[18.02916353881449,48.85154806712433],[18.02872784059798,48.84886793169949],[18.02737230310095,48.84896580017704],[18.02722710759593,48.84807241849836],[18.02587158924553,48.84817026849174],[18.02572642436473,48.84727688419628],[18.0175933560991,48.84786362645838],[18.01744834193596,48.84697022940139],[18.01609283753959,48.84706796016354],[18.01594785399226,48.8461745604929],[18.01459236874962,48.84627227277417],[18.01444741581645,48.84537887049009],[18.01309194972754,48.84547656429123],[18.01280211167676,48.84368975391209],[18.01144668875918,48.84378742720679],[18.01130180363822,48.84289401911229],[18.00723557776558,48.84318693420499],[18.00738039083734,48.8440803483773],[18.00873582833879,48.84398272443957],[18.00917037913928,48.84666295736781],[18.00781486958084,48.84676058738302],[18.00795970900623,48.84765399921446],[18.01067077130375,48.84745871867869],[18.01154023454808,48.85281915306467],[18.01425156568263,48.85262378238843],[18.01439654735623,48.85351718201645],[18.01710790707926,48.85332174146225],[18.01725294340605,48.85421513644866],[18.01996433171121,48.85401962601435],[18.02010942269419,48.85491301635739],[18.02146513357036,48.85481523442712]]],"type":"Polygon"}
+}

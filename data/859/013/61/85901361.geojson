@@ -1,0 +1,113 @@
+{
+  "id": 85901361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15135193.430456,
+    "geom:bbox":"18.933961,49.058025,18.933961,49.058025",
+    "geom:latitude":49.058025,
+    "geom:longitude":18.933961,
+    "gn:latitude":49.05563,
+    "gn:longitude":18.91871,
+    "iso:country":"SK",
+    "lbl:latitude":49.058025,
+    "lbl:longitude":18.933961,
+    "mps:latitude":49.058426,
+    "mps:longitude":18.93076,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:und_x_colloquial":[
+        "Jahodniky"
+    ],
+    "name:und_x_preferred":[
+        "Jahodn\u00edky"
+    ],
+    "name:unk_x_variant":[
+        "Jahodn\u00edky"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3058780,
+    "qs:gn_nam_loc":"Martin, Martin, Martin, Zilinsky, SK",
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Jahodn\u00edky",
+    "qs:local_max":280,
+    "qs:local_sum":280,
+    "qs:localhoods":1,
+    "qs:name":"Jahodn\u00edky",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Zilinsky",
+    "qs:name_adm2":"Martin",
+    "qs:name_lau":"Martin",
+    "qs:name_local":"Martin",
+    "qs:photo_max":90,
+    "qs:photo_sum":280,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070494,
+    "qs:woe_adm2":29399310,
+    "qs:woe_lau":29401964,
+    "qs:woe_local":820941,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080569,
+        85688349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059745,
+        "gp:id":819966,
+        "qs:id":287276,
+        "qs_pg:id":287276
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2788204495344e452065f5ed2e3e0f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":-1,
+            "neighbourhood_id":85901361,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":85901361,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932483,
+    "wof:name":"Jahodn\u00edky",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.933961,
+    49.058025,
+    18.933961,
+    49.058025
+],
+  "geometry": {"coordinates":[18.933961,49.058025],"type":"Point"}
+}

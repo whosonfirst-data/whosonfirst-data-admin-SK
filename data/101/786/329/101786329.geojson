@@ -1,0 +1,144 @@
+{
+  "id": 101786329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":917370.029142,
+    "geom:bbox":"18.0965154362,47.9872992322,18.117981761,47.9975233362",
+    "geom:latitude":47.993217,
+    "geom:longitude":18.106543,
+    "iso:country":"SK",
+    "lbl:latitude":47.993164,
+    "lbl:longitude":18.104022,
+    "mps:latitude":47.993164,
+    "mps:longitude":18.104022,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Andovce"
+    ],
+    "name:ces_x_preferred":[
+        "Andovce"
+    ],
+    "name:cze_x_preferred":[
+        "Andovce"
+    ],
+    "name:deu_x_preferred":[
+        "Andovce"
+    ],
+    "name:dut_x_preferred":[
+        "Andovce"
+    ],
+    "name:eng_x_preferred":[
+        "Andovce"
+    ],
+    "name:epo_x_preferred":[
+        "Andovce"
+    ],
+    "name:fra_x_preferred":[
+        "Andovce"
+    ],
+    "name:fre_x_preferred":[
+        "Andovce"
+    ],
+    "name:ger_x_preferred":[
+        "Andovce"
+    ],
+    "name:hun_x_preferred":[
+        "And\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Andovce"
+    ],
+    "name:may_x_preferred":[
+        "Andovce"
+    ],
+    "name:msa_x_preferred":[
+        "Andovce"
+    ],
+    "name:nan_x_preferred":[
+        "Andovce"
+    ],
+    "name:nld_x_preferred":[
+        "Andovce"
+    ],
+    "name:slk_x_preferred":[
+        "Andovce"
+    ],
+    "name:slo_x_preferred":[
+        "Andovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0432\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "And\u00f3d"
+    ],
+    "name:war_x_preferred":[
+        "Andovce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Andovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nov\u00e9 Z\u00e1mky",
+    "qs:la_lc":"*SK234503011",
+    "qs:level":"locality",
+    "qs:loc":"Andovce",
+    "qs:loc_alt":"Andovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061255,
+        "gp:id":818441,
+        "qs:id":1083525,
+        "wd:id":"Q372067",
+        "wk:page":"Andovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a8cd06aad42d6f6fb218d7e4b102699b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101786329,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101786329,
+    "wof:lastmodified":1527715653,
+    "wof:name":"Andovce",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09651543618736,
+    47.98729923223215,
+    18.11798176098347,
+    47.99752333622985
+],
+  "geometry": {"coordinates":[[[18.10494028562272,47.99712926253619],[18.10479745222619,47.99623562660042],[18.11412665750544,47.99554539040179],[18.11426965190986,47.99643901236681],[18.11560239976541,47.99634034066042],[18.11545938236088,47.99544672069254],[18.11679210252515,47.99534803484886],[18.11664906850962,47.99445441624113],[18.11798176098347,47.99435571626105],[18.11769566612207,47.99256848112856],[18.11369771260769,47.99286452068424],[18.11326882517562,47.99018364523158],[18.11460141205293,47.99008498750266],[18.11445843935098,47.98919136307364],[18.11179330689424,47.98938865840626],[18.11193623361004,47.99028228682783],[18.11060363735658,47.9903809122917],[18.11074654746096,47.99127454207184],[18.10674866159542,47.99157032765294],[18.10646298573698,47.98978305548394],[18.10513039373433,47.98988161442219],[18.10484478937605,47.98809433571671],[18.10351223867696,47.98819287453415],[18.10336946905505,47.98729923223215],[18.10070439959571,47.98749625748337],[18.1012753323858,47.99107083881955],[18.09994269865655,47.99116933521992],[18.10022815730406,47.99295662605556],[18.09889547289765,47.99305511030872],[18.09903818878405,47.99394875676523],[18.09770547669689,47.99404722687717],[18.09784817595624,47.99494087469066],[18.09651543618736,47.9950393306608],[18.09665811881825,47.99593297983074],[18.09799088158911,47.99583452186789],[18.09813359359595,47.99672816840905],[18.09946637468823,47.99662969231792],[18.09960911607317,47.99752333622985],[18.10494028562272,47.99712926253619]]],"type":"Polygon"}
+}

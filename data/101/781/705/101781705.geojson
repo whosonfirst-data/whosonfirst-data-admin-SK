@@ -1,0 +1,141 @@
+{
+  "id": 101781705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":687898.961242,
+    "geom:bbox":"18.8758825751,48.8167326726,18.8948987754,48.8295197449",
+    "geom:latitude":48.823632,
+    "geom:longitude":18.885342,
+    "iso:country":"SK",
+    "lbl:latitude":48.824362,
+    "lbl:longitude":18.885486,
+    "mps:latitude":48.824362,
+    "mps:longitude":18.885486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:ces_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:cze_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:deu_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:deu_x_variant":[
+        "Ober-Stuben"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151stubnya"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043d\u0430 \u0428\u0442\u0443\u0431\u045a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hornia Stub\u0148a"
+    ],
+    "name:war_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Turcianske Teplice",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tur\u010dianske Teplice",
+    "qs:la_lc":"*SK319512729",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00e1 \u0160tub\u0148a",
+    "qs:loc_alt":"Horna Stubna",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060019,
+        "gp:id":819679,
+        "qs:id":246971,
+        "wd:id":"Q999490",
+        "wk:page":"Horn\u00e1 \u0160tub\u0148a"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7b032ca069d08660e5871dc5f6ec3de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080539,
+            "locality_id":101781705,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101781705,
+    "wof:lastmodified":1527715628,
+    "wof:name":"Horn\u00e1 \u0160tub\u0148a",
+    "wof:parent_id":102080539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.87588257509367,
+    48.81673267255064,
+    18.89489877541473,
+    48.82951974488003
+],
+  "geometry": {"coordinates":[[[18.88161756195456,48.82919510935176],[18.88145705830721,48.82830309374447],[18.88416406718522,48.82808659250583],[18.88400352312647,48.82719458073592],[18.88671046279796,48.82697801835474],[18.88654987833297,48.82608601042307],[18.88790331625455,48.82597770686584],[18.88774271523403,48.82508570052966],[18.88909612393115,48.82497738280989],[18.88893550635754,48.82408537806941],[18.89028888583107,48.82397704618762],[18.89012825170659,48.82308504304302],[18.89148160195714,48.82297669699977],[18.89099967181579,48.82030069040962],[18.89370621313469,48.82008396257373],[18.89354553666328,48.81919196356858],[18.89489877541473,48.8190835772898],[18.89473808240064,48.8181915798807],[18.89067842151798,48.81851668277625],[18.89035720038618,48.81673267255064],[18.88900401700749,48.81684100289038],[18.8891646000921,48.81773301057018],[18.88781138750068,48.81784132675023],[18.88797195403816,48.81873333602482],[18.88661871223314,48.81884163804449],[18.88677926222141,48.81973364891388],[18.88542599120154,48.81984193677238],[18.88574706536451,48.82162596105286],[18.88439374128751,48.82173423699186],[18.88455426545943,48.82262625040289],[18.88320091216457,48.82273451217918],[18.88336141978067,48.82362652718501],[18.87794785748054,48.82405941920416],[18.8785895792679,48.82762750861809],[18.87588257509367,48.82784387411766],[18.8760429760502,48.82873589933564],[18.87739650467518,48.82862772254902],[18.87755693676786,48.82951974488003],[18.88161756195456,48.82919510935176]]],"type":"Polygon"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 1125979669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98303,48.85243,17.98303,48.85243",
+    "geom:latitude":48.85243,
+    "geom:longitude":17.98303,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.85243,
+    "lbl:longitude":17.98303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:hun_x_preferred":[
+        "Nagybir\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u0411\u0458\u0435\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056894,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00e9 Bierovce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155996,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822937,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056894,
+        "gp:id":822937,
+        "qs_pg:id":1155996,
+        "wd:id":"Q373965"
+    },
+    "wof:country":"SK",
+    "wof:created":1497298497,
+    "wof:geomhash":"9c6d8853fcd2209b5d0ade568653f8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1125979669,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125979669,
+    "wof:lastmodified":1514505336,
+    "wof:name":"Vel\u0315k\u00e9 Bierovce",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98303,
+    48.85243,
+    17.98303,
+    48.85243
+],
+  "geometry": {"coordinates":[17.98303,48.85243],"type":"Point"}
+}

@@ -1,0 +1,137 @@
+{
+  "id": 101780337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":677873.600757,
+    "geom:bbox":"18.4892188769,49.1635301558,18.5031973773,49.1736183222",
+    "geom:latitude":49.168244,
+    "geom:longitude":18.496084,
+    "iso:country":"SK",
+    "lbl:latitude":49.16863,
+    "lbl:longitude":18.496084,
+    "mps:latitude":49.16863,
+    "mps:longitude":18.496084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:ces_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:cze_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:epo_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:hbs_x_preferred":[
+        "Pljevnjik-Drjenove"
+    ],
+    "name:hun_x_preferred":[
+        "Pelyv\u00e1ssomfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:slo_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0459\u0435\u0432\u045a\u0438\u043a-\u0414\u0440\u0458\u0435\u043d\u043e\u0432\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Plevn\u00edk-Drienov\u00e9"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pova\u017esk\u00e1 Bystrica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Plevn\u00edk-Drienov\u00e9",
+    "qs:la_lc":"*SK226513474",
+    "qs:level":"locality",
+    "qs:loc":"Plevn\u00edk - Drienov\u00e9",
+    "qs:loc_alt":"Plevnik - Drienove",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058173,
+        "gp:id":821620,
+        "qs:id":917746,
+        "wd:id":"Q221171"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9662f7b397c080310125220ff8b2113b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":101780337,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101780337,
+    "wof:lastmodified":1527715864,
+    "wof:name":"Plevn\u00edk - Drienov\u00e9",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48921887694303,
+    49.1635301557987,
+    18.50319737726721,
+    49.1736183221509
+],
+  "geometry": {"coordinates":[[[18.50319737726721,49.17351458348224],[18.50273142839291,49.17083707451604],[18.50136788429074,49.17094080666993],[18.50059156669403,49.16647826882632],[18.50195498912677,49.16637454752902],[18.50179972259843,49.16548204032489],[18.50316311544913,49.16537830464563],[18.50285255505537,49.16359329277253],[18.5001258614181,49.163800738894],[18.50028108940433,49.16469324947377],[18.49755432610988,49.16490063372612],[18.49770951254175,49.16579314804437],[18.49361925524516,49.16610410678436],[18.49330903546797,49.16431906452902],[18.49194565453769,49.16442267999776],[18.49179057962851,49.1635301557987],[18.49042721778341,49.16363375254622],[18.49058226836235,49.16452627891351],[18.48921887694303,49.16462986127613],[18.49030425941208,49.17087754418367],[18.49166782117408,49.17077394664227],[18.49182292854675,49.1716664681976],[18.49318650940046,49.17156285193164],[18.49334164821408,49.17245537071659],[18.49606884285561,49.17224808417808],[18.49591365536395,49.17135556973261],[18.50000433493574,49.17104452226818],[18.50031486305681,49.17282953753374],[18.50167846108758,49.17272581759249],[18.50183376015059,49.1736183221509],[18.50319737726721,49.17351458348224]]],"type":"Polygon"}
+}

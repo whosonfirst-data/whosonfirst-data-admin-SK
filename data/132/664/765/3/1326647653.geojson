@@ -1,0 +1,74 @@
+{
+  "id": 1326647653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.25298,48.19561,19.25298,48.19561",
+    "geom:latitude":48.19561,
+    "geom:longitude":19.25298,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Horne Pribelce",
+    "gn:country_code":"SK",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059977,
+    "gn:latitude":48.19561,
+    "gn:longitude":19.25298,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Pr\u00edbelce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00edbelce",
+        "Hornie Pr\u00edbelce",
+        "Horn\u00ed Pr\u00edbelce",
+        "Horn\u00e9 Pr\u00edbelce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059977,
+        "wk:page":"Pr%C3%ADbelce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c4e005425f6afa2e45231915faebdaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1326647653,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1326647653,
+    "wof:lastmodified":1537700421,
+    "wof:name":"Horne Pribelce",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25298,
+    48.19561,
+    19.25298,
+    48.19561
+],
+  "geometry": {"coordinates":[19.25298,48.19561],"type":"Point"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 1125978907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83346,48.84001,17.83346,48.84001",
+    "geom:latitude":48.84001,
+    "geom:longitude":17.83346,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.84001,
+    "lbl:longitude":17.83346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:cze_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:dut_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:eng_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:epo_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:fre_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:ger_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:hun_x_preferred":[
+        "Nemesv\u00e1ralja"
+    ],
+    "name:ita_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:may_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:nan_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:pol_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:slo_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0458\u0430\u043d\u0441\u043a\u0435 \u041f\u043e\u0434\u0445\u0440\u0430\u0434\u0458\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Zemianske Podhradie"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056534,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Zemianske Podhradie",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155889,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":823361,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056534,
+        "gp:id":823361,
+        "qs_pg:id":1155889,
+        "wd:id":"Q919250"
+    },
+    "wof:country":"SK",
+    "wof:created":1497298463,
+    "wof:geomhash":"e86d77b4eba94f95703ca9894e3b5797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1125978907,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125978907,
+    "wof:lastmodified":1514505362,
+    "wof:name":"Zemianske Podhradie",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83346,
+    48.84001,
+    17.83346,
+    48.84001
+],
+  "geometry": {"coordinates":[17.83346,48.84001],"type":"Point"}
+}

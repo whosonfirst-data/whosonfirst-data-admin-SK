@@ -1,0 +1,132 @@
+{
+  "id": 1125788063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68991,48.24146,17.68991,48.24146",
+    "geom:latitude":48.24146,
+    "geom:longitude":17.68991,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.24146,
+    "lbl:longitude":17.68991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Nagym\u00e1cs\u00e9d"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0430 \u041c\u0430\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nagy-M\u00e1cs\u00e9d"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e1 Ma\u010da"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056912,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00e1 Ma\u010da",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1161741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056912,
+        "gp:id":822924,
+        "qs_pg:id":1161741,
+        "wd:id":"Q301581"
+    },
+    "wof:country":"SK",
+    "wof:created":1497290755,
+    "wof:geomhash":"dd1f110ee54a740358f613e7da223172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":1125788063,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125788063,
+    "wof:lastmodified":1514505336,
+    "wof:name":"Vel\u0315k\u00e1 Ma\u010da",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68991,
+    48.24146,
+    17.68991,
+    48.24146
+],
+  "geometry": {"coordinates":[17.68991,48.24146],"type":"Point"}
+}

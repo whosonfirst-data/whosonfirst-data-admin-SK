@@ -1,0 +1,71 @@
+{
+  "id": 1277091793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88944,48.60528,18.88944,48.60528",
+    "geom:latitude":48.60528,
+    "geom:longitude":18.88944,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Stara Kremnicka",
+    "gn:country_code":"SK",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057483,
+    "gn:latitude":48.60528,
+    "gn:longitude":18.88944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Star\u00e1 Kremni\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Star\u00e1 Kremni\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057483,
+        "wk:page":"Star%C3%A1_Kremni%C4%8Dka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dd22e704666d396660a7c232f548288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1277091793,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1277091793,
+    "wof:lastmodified":1537700389,
+    "wof:name":"Stara Kremnicka",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88944,
+    48.60528,
+    18.88944,
+    48.60528
+],
+  "geometry": {"coordinates":[18.88944,48.60528],"type":"Point"}
+}

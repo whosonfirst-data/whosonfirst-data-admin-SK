@@ -1,0 +1,73 @@
+{
+  "id": 1309716273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25,48.41667,20.25,48.41667",
+    "geom:latitude":48.41667,
+    "geom:longitude":20.25,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pusta Dapsa",
+    "gn:country_code":"SK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723800,
+    "gn:latitude":48.41667,
+    "gn:longitude":20.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pusta Dap\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Dapsipuszta"
+    ],
+    "name:und_x_variant":[
+        "Pusta Dap\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723800
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"36a357b7bed3306046b9919f6ad023dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1309716273,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1309716273,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Pusta Dapsa",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25,
+    48.41667,
+    20.25,
+    48.41667
+],
+  "geometry": {"coordinates":[20.25,48.41667],"type":"Point"}
+}

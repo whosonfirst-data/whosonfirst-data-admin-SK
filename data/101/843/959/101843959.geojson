@@ -1,0 +1,170 @@
+{
+  "id": 101843959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1395668.531749,
+    "geom:bbox":"21.4891884696,49.0167300871,21.5184539061,49.0338604604",
+    "geom:latitude":49.026629,
+    "geom:longitude":21.502669,
+    "iso:country":"SK",
+    "lbl:latitude":49.025917,
+    "lbl:longitude":21.498788,
+    "mps:latitude":49.025917,
+    "mps:longitude":21.498788,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u064a \u0646\u0627\u062f \u062a\u0648\u0628\u0644\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:ces_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u666e\u62c9\u6cb3\u7554\u54c8\u52aa\u7d39\u592b\u91c7"
+    ],
+    "name:cze_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:deu_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:dut_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:eng_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:epo_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0647 \u0646\u0627\u062f \u062a\u067e\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:fre_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:ger_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:hrv_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:hun_x_preferred":[
+        "Tapolyhanusfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:lav_x_preferred":[
+        "Hanu\u0161ovce pie Top\u013cas"
+    ],
+    "name:may_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:nan_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0647 \u0646\u0627\u062f \u062a\u067e\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:rum_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u0451\u0443"
+    ],
+    "name:slo_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:spa_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435 \u043d\u0430\u0434 \u0422\u043e\u043f\u0459\u043e\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u043d\u0443\u0448\u043e\u0432\u0441\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u04e9\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Hanusovce"
+    ],
+    "name:war_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vla\u010da",
+    "qs:la_lc":"*SK41D529231",
+    "qs:level":"locality",
+    "qs:loc":"Hanu\u0161ovce nad Top\u013eou",
+    "qs:loc_alt":"Hanusovce nad Toplou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.033333,
+    "wd:longitude":21.5,
+    "wd:wordcount":274,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724743,
+        "gp:id":819561,
+        "qs:id":342993,
+        "wd:id":"Q780527",
+        "wk:page":"Hanu\u0161ovce nad Top\u013eou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9e409745341369c72b491d051b90a453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101843959,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101843959,
+    "wof:lastmodified":1527642595,
+    "wof:name":"Hanu\u0161ovce nad Top\u013eou",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4891884695997,
+    49.01673008706973,
+    21.51845390613215,
+    49.03386046037394
+],
+  "geometry": {"coordinates":[[[21.50023125696617,49.0296128184039],[21.50699870627716,49.02891220023332],[21.50720772335512,49.02979903054808],[21.50856121577652,49.02965885498963],[21.50939747312913,49.03320615604008],[21.51345819105336,49.03278549644313],[21.51366734977483,49.03367231083729],[21.51772807532762,49.03325149545282],[21.5171004156249,49.03059107586898],[21.51845390613215,49.03045078012047],[21.51803546667395,49.02867716858634],[21.51397511545105,49.02909798936389],[21.51376598060881,49.02821117358343],[21.51241253974541,49.02835141159096],[21.51220343793932,49.02746459204445],[21.51085001362503,49.02760481080617],[21.51064094485366,49.02671798749401],[21.50928753708934,49.02685818701087],[21.50886947509076,49.02508453199761],[21.50751610742645,49.02522470936401],[21.50730711419607,49.02433787766387],[21.50324703986581,49.02475830302006],[21.50303812675838,49.02387146174607],[21.50168477820625,49.02401156795162],[21.50126702751032,49.02223787702098],[21.49856040361806,49.0225180288038],[21.49751642808604,49.01808375742957],[21.49345679300393,49.01850381903569],[21.49303941032298,49.01673008706973],[21.49033304617365,49.01701003485505],[21.49054168569546,49.01789690706914],[21.4891884695997,49.01803685935886],[21.48939709503838,49.01892373361682],[21.49075033467909,49.0187837784261],[21.49116766103441,49.02055751856875],[21.4925209407819,49.02041754123894],[21.49293835208778,49.02219127215028],[21.49429167194324,49.02205127267973],[21.49491793054784,49.02471185391101],[21.49356454004186,49.0248518620885],[21.4939820460155,49.02662558442836],[21.49533548362638,49.02648557044569],[21.49617070342742,49.03003299322882],[21.49481717159398,49.03017301882346],[21.49502597666532,49.03105987527982],[21.4936724142803,49.03119988743708],[21.49429881564629,49.03386046037394],[21.49565244871326,49.03372043950674],[21.49544361522425,49.03283358562146],[21.49679721773578,49.03269355131624],[21.49658837015971,49.03180669947767],[21.49794194211648,49.03166665173524],[21.49773308045536,49.0307798019432],[21.50044015626742,49.03049966324483],[21.50023125696617,49.0296128184039]]],"type":"Polygon"}
+}

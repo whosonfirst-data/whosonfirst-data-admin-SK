@@ -1,0 +1,71 @@
+{
+  "id": 1292938775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5,48.08333,18.5,48.08333",
+    "geom:latitude":48.08333,
+    "geom:longitude":18.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bimbula",
+    "gn:country_code":"SK",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061072,
+    "gn:latitude":48.08333,
+    "gn:longitude":18.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bimbula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Bimbula",
+        "Bimbula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061072
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"935b7fb56a76fa757281d0ce9539fe44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1292938775,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1292938775,
+    "wof:lastmodified":1537700436,
+    "wof:name":"Bimbula",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5,
+    48.08333,
+    18.5,
+    48.08333
+],
+  "geometry": {"coordinates":[18.5,48.08333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276664977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14625,48.74102,22.14625,48.74102",
+    "geom:latitude":48.74102,
+    "geom:longitude":22.14625,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nizna Rybnica",
+    "gn:country_code":"SK",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724058,
+    "gn:latitude":48.74102,
+    "gn:longitude":22.14625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e1 Rybnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724058,
+        "wk:page":"Ni%C5%BEn%C3%A1_Rybnica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5446da1c5d97c1de0af5f6296e0dc3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080571,
+            "locality_id":1276664977,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276664977,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Nizna Rybnica",
+    "wof:parent_id":102080571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14625,
+    48.74102,
+    22.14625,
+    48.74102
+],
+  "geometry": {"coordinates":[22.14625,48.74102],"type":"Point"}
+}

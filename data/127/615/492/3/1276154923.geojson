@@ -1,0 +1,71 @@
+{
+  "id": 1276154923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25095,49.40836,21.25095,49.40836",
+    "geom:latitude":49.40836,
+    "geom:longitude":21.25095,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Stebnicka Huta",
+    "gn:country_code":"SK",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723495,
+    "gn:latitude":49.40836,
+    "gn:longitude":21.25095,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stebn\u00edcka Huta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stebn\u00edcka Huta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723495,
+        "wk:page":"Stebn%C3%ADcka_Huta"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"63f2a1844eb600b73546285a3c8d14b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1276154923,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276154923,
+    "wof:lastmodified":1537700348,
+    "wof:name":"Stebnicka Huta",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25095,
+    49.40836,
+    21.25095,
+    49.40836
+],
+  "geometry": {"coordinates":[21.25095,49.40836],"type":"Point"}
+}

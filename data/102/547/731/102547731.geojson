@@ -1,0 +1,65 @@
+{
+  "id": 102547731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5180555556,48.4544444444,17.5180555556,48.4544444444",
+    "geom:latitude":48.454444,
+    "geom:longitude":17.518056,
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"656",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424877,
+        "county_id":29399336,
+        "localadmin_id":29401161,
+        "planet_id":1,
+        "state_id":20070504
+    },
+    "wof:belongsto":[
+        85633769,
+        85688369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514606,
+        "icao:code":"LZTR",
+        "oa:id":"29716",
+        "wd:id":"Q14602134"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"87510e48ee11aadd9de411f6229956b4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547731,
+            "country_id":85633769,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":102547731,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Boleraz Airport",
+    "wof:parent_id":85688369,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.518055555556,
+    48.454444444444,
+    17.518055555556,
+    48.454444444444
+],
+  "geometry": {"coordinates":[17.518055555556,48.454444444444],"type":"Point"}
+}

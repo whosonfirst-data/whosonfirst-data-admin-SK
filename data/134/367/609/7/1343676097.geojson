@@ -1,0 +1,71 @@
+{
+  "id": 1343676097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78946,48.412,18.78946,48.412",
+    "geom:latitude":48.412,
+    "geom:longitude":18.78946,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vysoka",
+    "gn:country_code":"SK",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056643,
+    "gn:latitude":48.412,
+    "gn:longitude":18.78946,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Vysok\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vysok\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056643,
+        "wk:page":"Vysok%C3%A1%2C_Bansk%C3%A1_%C5%A0tiavnica_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b6d0f3fa2372e293fb475f63b6402c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080491,
+            "locality_id":1343676097,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1343676097,
+    "wof:lastmodified":1537700379,
+    "wof:name":"Vysoka",
+    "wof:parent_id":102080491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78946,
+    48.412,
+    18.78946,
+    48.412
+],
+  "geometry": {"coordinates":[18.78946,48.412],"type":"Point"}
+}

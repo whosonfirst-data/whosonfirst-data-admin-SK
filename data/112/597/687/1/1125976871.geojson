@@ -1,0 +1,93 @@
+{
+  "id": 1125976871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45,49.11667,20.45,49.11667",
+    "geom:latitude":49.11667,
+    "geom:longitude":20.45,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4000,
+    "gn:population":4000,
+    "iso:country":"SK",
+    "lbl:latitude":49.11667,
+    "lbl:longitude":20.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Leibitz"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724265,
+    "qs_pg:gn_pop":4000,
+    "qs_pg:name":"L\u0315ubica",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1233366,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":820721,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724265,
+        "gp:id":820721,
+        "qs_pg:id":1233366
+    },
+    "wof:country":"SK",
+    "wof:created":1497298383,
+    "wof:geomhash":"219fbeb21295f7b0e3b45e1838f88943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1125976871,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125976871,
+    "wof:lastmodified":1509404458,
+    "wof:name":"L\u0315ubica",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45,
+    49.11667,
+    20.45,
+    49.11667
+],
+  "geometry": {"coordinates":[20.45,49.11667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260186469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14615,48.33461,19.14615,48.33461",
+    "geom:latitude":48.33461,
+    "geom:longitude":19.14615,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zemiansky Vrbovok",
+    "gn:country_code":"SK",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056531,
+    "gn:latitude":48.33461,
+    "gn:longitude":19.14615,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zemiansky Vrbovok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056531,
+        "wk:page":"Zemiansky_Vrbovok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f5328ba875c3a7f01ddd67f3c1052126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1260186469,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1260186469,
+    "wof:lastmodified":1537573586,
+    "wof:name":"Zemiansky Vrbovok",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14615,
+    48.33461,
+    19.14615,
+    48.33461
+],
+  "geometry": {"coordinates":[19.14615,48.33461],"type":"Point"}
+}

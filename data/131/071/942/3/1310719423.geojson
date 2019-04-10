@@ -1,0 +1,67 @@
+{
+  "id": 1310719423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03473,48.61764,19.03473,48.61764",
+    "geom:latitude":48.61764,
+    "geom:longitude":19.03473,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kasova Lehotka",
+    "gn:country_code":"SK",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059559,
+    "gn:latitude":48.61764,
+    "gn:longitude":19.03473,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ka\u0161ova Leh\u00f4tka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059559
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"df588b48577142e0d1d99d0362bb4554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1310719423,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1310719423,
+    "wof:lastmodified":1536605365,
+    "wof:name":"Kasova Lehotka",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03473,
+    48.61764,
+    19.03473,
+    48.61764
+],
+  "geometry": {"coordinates":[19.03473,48.61764],"type":"Point"}
+}

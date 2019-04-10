@@ -1,0 +1,71 @@
+{
+  "id": 1276862263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26399,49.09134,19.26399,49.09134",
+    "geom:latitude":49.09134,
+    "geom:longitude":19.26399,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Stara Cernova",
+    "gn:country_code":"SK",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057491,
+    "gn:latitude":49.09134,
+    "gn:longitude":19.26399,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Star\u00e1 \u010cernov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cernov\u00e1",
+        "Star\u00e1 \u010cernov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057491
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dcd7fc8c9fc3a2108862a4efa3326130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1276862263,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276862263,
+    "wof:lastmodified":1537700389,
+    "wof:name":"Stara Cernova",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26399,
+    49.09134,
+    19.26399,
+    49.09134
+],
+  "geometry": {"coordinates":[19.26399,49.09134],"type":"Point"}
+}

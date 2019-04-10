@@ -1,0 +1,82 @@
+{
+  "id": 1125291125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.795319,48.880035,17.795319,48.880035",
+    "geom:latitude":48.880035,
+    "geom:longitude":17.795319,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.880035,
+    "lbl:longitude":17.795319,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nova Bosaca",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":44908,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402029,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402029,
+        "qs_pg:id":44908
+    },
+    "wof:country":"SK",
+    "wof:created":1497042923,
+    "wof:geomhash":"2c103508555d9021afc5fa9533aa24b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "localadmin_id":1125291125,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125291125,
+    "wof:lastmodified":1509387532,
+    "wof:name":"Nova Bosaca",
+    "wof:parent_id":102080521,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.795319,
+    48.880035,
+    17.795319,
+    48.880035
+],
+  "geometry": {"coordinates":[17.795319,48.880035],"type":"Point"}
+}

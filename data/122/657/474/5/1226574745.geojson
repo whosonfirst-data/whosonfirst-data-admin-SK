@@ -1,0 +1,68 @@
+{
+  "id": 1226574745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32392,49.26202,21.32392,49.26202",
+    "geom:latitude":49.26202,
+    "geom:longitude":21.32392,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lukavica",
+    "gn:country_code":"SK",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724245,
+    "gn:latitude":49.26202,
+    "gn:longitude":21.32392,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Lukavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724245,
+        "wk:page":"Lukavica%2C_Bardejov_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fed190cc487fd39db93f91f28a331287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1226574745,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226574745,
+    "wof:lastmodified":1537573573,
+    "wof:name":"Lukavica",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32392,
+    49.26202,
+    21.32392,
+    49.26202
+],
+  "geometry": {"coordinates":[21.32392,49.26202],"type":"Point"}
+}

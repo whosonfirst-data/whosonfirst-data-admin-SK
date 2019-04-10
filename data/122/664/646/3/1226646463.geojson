@@ -1,0 +1,71 @@
+{
+  "id": 1226646463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30393,48.41432,18.30393,48.41432",
+    "geom:latitude":48.41432,
+    "geom:longitude":18.30393,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Velcice",
+    "gn:country_code":"SK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056943,
+    "gn:latitude":48.41432,
+    "gn:longitude":18.30393,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vel\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vel\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056943,
+        "wk:page":"Vel%C4%8Dice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fa287ee62edab9ef80f85083df09778e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1226646463,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226646463,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Velcice",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30393,
+    48.41432,
+    18.30393,
+    48.41432
+],
+  "geometry": {"coordinates":[18.30393,48.41432],"type":"Point"}
+}

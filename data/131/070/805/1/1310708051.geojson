@@ -1,0 +1,67 @@
+{
+  "id": 1310708051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84256,48.13486,18.84256,48.13486",
+    "geom:latitude":48.13486,
+    "geom:longitude":18.84256,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pusta Potok",
+    "gn:country_code":"SK",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057953,
+    "gn:latitude":48.13486,
+    "gn:longitude":18.84256,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Pusta Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057953
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1c093c70906c8c411333fd02e3d02561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1310708051,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310708051,
+    "wof:lastmodified":1536622621,
+    "wof:name":"Pusta Potok",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84256,
+    48.13486,
+    18.84256,
+    48.13486
+],
+  "geometry": {"coordinates":[18.84256,48.13486],"type":"Point"}
+}

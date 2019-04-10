@@ -1,0 +1,87 @@
+{
+  "id": 1125886705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04584,48.31041,18.04584,48.31041",
+    "geom:latitude":48.31041,
+    "geom:longitude":18.04584,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.31041,
+    "lbl:longitude":18.04584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Molno\u0161"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058683,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mlyn\u00e1rce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905022,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821053,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058683,
+        "gp:id":821053,
+        "qs_pg:id":905022
+    },
+    "wof:country":"SK",
+    "wof:created":1497295114,
+    "wof:geomhash":"c205a90318906b4b670ca41306d87ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1125886705,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125886705,
+    "wof:lastmodified":1509398553,
+    "wof:name":"Mlyn\u00e1rce",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04584,
+    48.31041,
+    18.04584,
+    48.31041
+],
+  "geometry": {"coordinates":[18.04584,48.31041],"type":"Point"}
+}

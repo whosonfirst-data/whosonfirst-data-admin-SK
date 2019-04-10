@@ -1,0 +1,72 @@
+{
+  "id": 1293722457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30078,48.20219,18.30078,48.20219",
+    "geom:latitude":48.20219,
+    "geom:longitude":18.30078,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zitavce",
+    "gn:country_code":"SK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056502,
+    "gn:latitude":48.20219,
+    "gn:longitude":18.30078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u017ditavce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010earmoty nad \u017ditavou",
+        "\u017ditavce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056502,
+        "wk:page":"%C5%BDitavce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"abc0b671bf607ea6d908ff4cf8ae1f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1293722457,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293722457,
+    "wof:lastmodified":1537700378,
+    "wof:name":"Zitavce",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30078,
+    48.20219,
+    18.30078,
+    48.20219
+],
+  "geometry": {"coordinates":[18.30078,48.20219],"type":"Point"}
+}

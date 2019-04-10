@@ -1,0 +1,67 @@
+{
+  "id": 1226659117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24433,48.17888,17.24433,48.17888",
+    "geom:latitude":48.17888,
+    "geom:longitude":17.24433,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dvor Prebosek",
+    "gn:country_code":"SK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060273,
+    "gn:latitude":48.17888,
+    "gn:longitude":17.24433,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dvor Prebosek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060273
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c69baf087702244532e65e8981f17335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":1226659117,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1226659117,
+    "wof:lastmodified":1536839092,
+    "wof:name":"Dvor Prebosek",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24433,
+    48.17888,
+    17.24433,
+    48.17888
+],
+  "geometry": {"coordinates":[17.24433,48.17888],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259403987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43051,48.02029,17.43051,48.02029",
+    "geom:latitude":48.02029,
+    "geom:longitude":17.43051,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Macov",
+    "gn:country_code":"SK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058937,
+    "gn:latitude":48.02029,
+    "gn:longitude":17.43051,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mach\u00e1za",
+        "Macov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058937,
+        "wk:page":"Macov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9eac03c5ebeda00ae4740d4f1eb529ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1259403987,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1259403987,
+    "wof:lastmodified":1537700407,
+    "wof:name":"Macov",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43051,
+    48.02029,
+    17.43051,
+    48.02029
+],
+  "geometry": {"coordinates":[17.43051,48.02029],"type":"Point"}
+}

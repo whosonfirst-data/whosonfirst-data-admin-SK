@@ -1,0 +1,150 @@
+{
+  "id": 101782855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1266183.896591,
+    "geom:bbox":"21.5577925552,48.6405619354,21.5831043293,48.6545261242",
+    "geom:latitude":48.647534,
+    "geom:longitude":21.568899,
+    "iso:country":"SK",
+    "lbl:latitude":48.646886,
+    "lbl:longitude":21.567844,
+    "mps:latitude":48.646886,
+    "mps:longitude":21.567844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:ces_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:cze_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:deu_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:dut_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:eng_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:epo_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:fra_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:fre_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:ger_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9cskereszt\u00far"
+    ],
+    "name:ita_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:may_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:msa_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:nan_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:nld_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:pol_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:rue_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0430 \u0422\u0454\u043f\u043b\u0456\u0446\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0438\u043d\u0441\u043a\u0430 \u0422\u0458\u0435\u043f\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0430 \u0422\u0435\u043f\u043b\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kerest\u00far"
+    ],
+    "name:war_x_preferred":[
+        "Zempl\u00ednska Teplica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Zempl\u00ednska Teplica",
+    "qs:la_lc":"*SK42B544019",
+    "qs:level":"locality",
+    "qs:loc":"Zempl\u00ednska Teplica",
+    "qs:loc_alt":"Zemplinska Teplica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723068,
+        "gp:id":823368,
+        "qs:id":1155890,
+        "qs_pg:id":1155890,
+        "wd:id":"Q189391",
+        "wk:page":"Zempl\u00ednska Teplica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"76eaff22f6e48054acac9d1ba080af81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101782855,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782855,
+    "wof:lastmodified":1527688323,
+    "wof:name":"Zempl\u00ednska Teplica",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55779255516887,
+    48.64056193540813,
+    21.58310432926766,
+    48.65452612423189
+],
+  "geometry": {"coordinates":[[[21.56110167276483,48.65349858197686],[21.56513143394699,48.65307652374139],[21.56533909336287,48.65396340077348],[21.56802561260054,48.65368194186237],[21.5676102107177,48.65190819845986],[21.56895341381522,48.65176745048109],[21.56874570379199,48.6508805803457],[21.57008887690961,48.65073981905704],[21.56988115313493,48.64985295092737],[21.57122429627401,48.64971217632933],[21.57101655874959,48.6488253102055],[21.57638897007996,48.64826206141214],[21.57659679997107,48.64914891598892],[21.57793990867674,48.64900806041726],[21.57814777100691,48.64989491122537],[21.57949089591494,48.64975403657155],[21.57928301049407,48.64886718865148],[21.5819691934592,48.64858539653721],[21.58176127120964,48.64769855351278],[21.58310432926766,48.64755763605353],[21.58268846664777,48.64578395313765],[21.57731637777783,48.64634750270676],[21.57669293100292,48.6436869370666],[21.57400698376102,48.64396859737025],[21.57379923303063,48.64308173462132],[21.57245627216776,48.64322253759804],[21.57183314528078,48.64056193540813],[21.56914734141151,48.640843475471],[21.56935499486684,48.64173034951898],[21.56532616820789,48.64215254682756],[21.56574136461938,48.6439263095902],[21.56305535343682,48.6442077050358],[21.5632629194705,48.64509459086514],[21.56191988047209,48.64523526718142],[21.56212743275148,48.64612215501501],[21.56078436378431,48.64626281802083],[21.56140700735784,48.64892348489468],[21.56006386223362,48.64906414035653],[21.56027140566744,48.64995103043918],[21.55892823056939,48.65009167258899],[21.55913576024227,48.65097856467588],[21.55779255516887,48.65111919351301],[21.55800007107911,48.65200608760398],[21.55934329925066,48.65186545588347],[21.55996597229216,48.65452612423189],[21.56130926288239,48.65438546766296],[21.56110167276483,48.65349858197686]]],"type":"Polygon"}
+}

@@ -1,0 +1,133 @@
+{
+  "id": 101784073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":917261.134921,
+    "geom:bbox":"18.042155943,48.4861163461,18.0578742685,48.4996057678",
+    "geom:latitude":48.493803,
+    "geom:longitude":18.050126,
+    "iso:country":"SK",
+    "lbl:latitude":48.495009,
+    "lbl:longitude":18.049353,
+    "mps:latitude":48.495009,
+    "mps:longitude":18.049353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:ces_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:cze_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:deu_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:epo_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:hbs_x_preferred":[
+        "Hornje Obdokovce"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151bodok"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0435 \u041e\u0431\u0434\u043e\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Topolcany",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Horn\u00e9 Obdokovce",
+    "qs:la_lc":"*SK236542938",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00e9 Obdokovce",
+    "qs:loc_alt":"Horne Obdokovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402610,
+        "qs:id":6,
+        "wd:id":"Q999072"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2dfd1b31babe07f3887c02ff11790c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":101784073,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101784073,
+    "wof:lastmodified":1527688543,
+    "wof:name":"Horn\u00e9 Obdokovce",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04215594297199,
+    48.48611634611962,
+    18.0578742685351,
+    48.49960576781638
+],
+  "geometry": {"coordinates":[[[18.05676817840003,48.49882137978756],[18.05647984326794,48.49703441137575],[18.05513381816604,48.49713251297425],[18.05455732036205,48.49355856081013],[18.05321138483299,48.49365663803064],[18.05249102688475,48.489189174101],[18.0578742685351,48.48879680759228],[18.05744184881797,48.48611634611962],[18.0547503790612,48.48631254992284],[18.05489446529998,48.48720604171626],[18.05085715400759,48.48750023108744],[18.05100117600318,48.48839372831407],[18.04830956404015,48.48858977700138],[18.04845354536872,48.48948327764714],[18.04710770862357,48.48958127952665],[18.04739564360625,48.49136828302289],[18.04470386141497,48.49156424587579],[18.04484779147822,48.49245775073842],[18.04215594297199,48.49265365233879],[18.04258763060307,48.49533417535923],[18.04393362802182,48.49523622668409],[18.04422149944628,48.49702323497763],[18.04556753926704,48.49692526595823],[18.04599946593305,48.49960576781638],[18.05676817840003,48.49882137978756]]],"type":"Polygon"}
+}

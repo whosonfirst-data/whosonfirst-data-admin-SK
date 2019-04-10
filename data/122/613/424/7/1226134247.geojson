@@ -1,0 +1,67 @@
+{
+  "id": 1226134247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,48.83333,17.23333,48.83333",
+    "geom:latitude":48.83333,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Svaty Frantisek",
+    "gn:country_code":"SK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057308,
+    "gn:latitude":48.83333,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Sv\u00e4t\u00fd Franti\u0161ek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057308
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d5e253f9db44f24c3c6021653fc3ec7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080517,
+            "locality_id":1226134247,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1226134247,
+    "wof:lastmodified":1537091099,
+    "wof:name":"Svaty Frantisek",
+    "wof:parent_id":102080517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    48.83333,
+    17.23333,
+    48.83333
+],
+  "geometry": {"coordinates":[17.23333,48.83333],"type":"Point"}
+}

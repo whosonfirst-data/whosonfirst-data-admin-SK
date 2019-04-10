@@ -1,0 +1,67 @@
+{
+  "id": 1343980365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71667,49.35,18.71667,49.35",
+    "geom:latitude":49.35,
+    "geom:longitude":18.71667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jastrabie",
+    "gn:country_code":"SK",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059681,
+    "gn:latitude":49.35,
+    "gn:longitude":18.71667,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Jastrabie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059681
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"027a2bebb2845343378c492aa871954d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080589,
+            "locality_id":1343980365,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343980365,
+    "wof:lastmodified":1536990491,
+    "wof:name":"Jastrabie",
+    "wof:parent_id":102080589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71667,
+    49.35,
+    18.71667,
+    49.35
+],
+  "geometry": {"coordinates":[18.71667,49.35],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276122839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64343,48.94825,21.64343,48.94825",
+    "geom:latitude":48.94825,
+    "geom:longitude":21.64343,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mernik",
+    "gn:country_code":"SK",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724151,
+    "gn:latitude":48.94825,
+    "gn:longitude":21.64343,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mern\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mern\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724151,
+        "wk:page":"Mern%C3%ADk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d63901bcc2cd7f2505aa51ec2a42cd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1276122839,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276122839,
+    "wof:lastmodified":1537700359,
+    "wof:name":"Mernik",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64343,
+    48.94825,
+    21.64343,
+    48.94825
+],
+  "geometry": {"coordinates":[21.64343,48.94825],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 101782907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1076745.970659,
+    "geom:bbox":"21.4264233968,48.6717805435,21.4415082847,48.6878885027",
+    "geom:latitude":48.680829,
+    "geom:longitude":21.434176,
+    "iso:country":"SK",
+    "lbl:latitude":48.68165,
+    "lbl:longitude":21.43469,
+    "mps:latitude":48.68165,
+    "mps:longitude":21.43469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ruskov"
+    ],
+    "name:cze_x_preferred":[
+        "Ruskov"
+    ],
+    "name:deu_x_preferred":[
+        "Ruskov"
+    ],
+    "name:dut_x_preferred":[
+        "Ruskov"
+    ],
+    "name:eng_x_preferred":[
+        "Ruskov"
+    ],
+    "name:epo_x_preferred":[
+        "Ruskov"
+    ],
+    "name:fra_x_preferred":[
+        "Ruskov"
+    ],
+    "name:fre_x_preferred":[
+        "Ruskov"
+    ],
+    "name:ger_x_preferred":[
+        "Ruskov"
+    ],
+    "name:hun_x_preferred":[
+        "Regeteruszka"
+    ],
+    "name:ita_x_preferred":[
+        "Ruskov"
+    ],
+    "name:may_x_preferred":[
+        "Ruskov"
+    ],
+    "name:msa_x_preferred":[
+        "Ruskov"
+    ],
+    "name:nan_x_preferred":[
+        "Ruskov"
+    ],
+    "name:nld_x_preferred":[
+        "Ruskov"
+    ],
+    "name:pol_x_preferred":[
+        "Ruskov"
+    ],
+    "name:slk_x_preferred":[
+        "Ruskov"
+    ],
+    "name:slo_x_preferred":[
+        "Ruskov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Ruskov"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ruskov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ruskov",
+    "qs:la_lc":"*SK426521957",
+    "qs:level":"locality",
+    "qs:loc":"Ruskov",
+    "qs:loc_alt":"Ruskov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723686,
+        "gp:id":822044,
+        "qs:id":261885,
+        "wd:id":"Q263627",
+        "wk:page":"Ruskov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"41b1df74d0e692efed363c3ee18de083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782907,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782907,
+    "wof:lastmodified":1527688314,
+    "wof:name":"Ruskov",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42642339676212,
+    48.67178054347812,
+    21.4415082847014,
+    48.68788850267003
+],
+  "geometry": {"coordinates":[[[21.43415365926228,48.68761025609263],[21.43394813174405,48.6867231083084],[21.4393258546171,48.68616643197674],[21.4389146420221,48.68439215666552],[21.44025900935549,48.68425295275665],[21.44005339378151,48.68336581665892],[21.4413977311296,48.68322659939241],[21.4401640931265,48.67790378174942],[21.4415082847014,48.67776456541372],[21.44130268760955,48.67687742896317],[21.43995851918925,48.67701664244163],[21.43975295450662,48.67612950226697],[21.43437630524926,48.67668618262564],[21.4339653888731,48.67491187682685],[21.43262125582379,48.67505100067314],[21.43241583466232,48.674163843619],[21.43107171795157,48.67430294839812],[21.43086632918994,48.67341578762301],[21.42952222881814,48.67355487333521],[21.4291115253348,48.67178054347812],[21.42642339676212,48.67205865485067],[21.42662869757811,48.67294582591933],[21.42797278842204,48.67280677548558],[21.42838346408814,48.67458110931835],[21.42972759442637,48.67444203696454],[21.43054914931946,48.67799068282204],[21.42920492635704,48.67812976659303],[21.42961571296939,48.67990409003534],[21.42692715396288,48.68018222035272],[21.42733788492018,48.68195655174992],[21.42868221415461,48.68181748898985],[21.42991476797005,48.68714044528014],[21.43125922938106,48.68700134917344],[21.43146471056281,48.68788850267003],[21.43415365926228,48.68761025609263]]],"type":"Polygon"}
+}

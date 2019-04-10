@@ -1,0 +1,73 @@
+{
+  "id": 1193146689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2,48.45,20.2,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":20.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nizne Valice",
+    "gn:country_code":"SK",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724043,
+    "gn:latitude":48.45,
+    "gn:longitude":20.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e9 Valice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017enie Valice",
+        "Als\u00f3-V\u00e1ly",
+        "Ni\u017en\u00ed Valice",
+        "Ni\u017en\u00e9 Valice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724043
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c0d3f19c958801f9e01d80972668e301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1193146689,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1193146689,
+    "wof:lastmodified":1537700357,
+    "wof:name":"Nizne Valice",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2,
+    48.45,
+    20.2,
+    48.45
+],
+  "geometry": {"coordinates":[20.2,48.45],"type":"Point"}
+}

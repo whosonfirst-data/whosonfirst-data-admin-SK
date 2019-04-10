@@ -1,0 +1,71 @@
+{
+  "id": 1226165245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90071,48.96065,18.90071,48.96065",
+    "geom:latitude":48.96065,
+    "geom:longitude":18.90071,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Karlova",
+    "gn:country_code":"SK",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059565,
+    "gn:latitude":48.96065,
+    "gn:longitude":18.90071,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karlov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karlov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059565,
+        "wk:page":"Karlov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"846917f745b150eace4e1012a069a996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1226165245,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1226165245,
+    "wof:lastmodified":1537700415,
+    "wof:name":"Karlova",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90071,
+    48.96065,
+    18.90071,
+    48.96065
+],
+  "geometry": {"coordinates":[18.90071,48.96065],"type":"Point"}
+}

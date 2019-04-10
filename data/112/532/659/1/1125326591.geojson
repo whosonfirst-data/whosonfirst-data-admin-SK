@@ -1,0 +1,82 @@
+{
+  "id": 1125326591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.588539,49.024716,20.588539,49.024716",
+    "geom:latitude":49.024716,
+    "geom:longitude":20.588539,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.024716,
+    "lbl:longitude":20.588539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Levoca",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":791,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225151,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29399975,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29399975,
+        "qs_pg:id":225151
+    },
+    "wof:country":"SK",
+    "wof:created":1497044853,
+    "wof:geomhash":"6f1a934710944f0cf1a09ceb4c489ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "localadmin_id":1125326591,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125326591,
+    "wof:lastmodified":1509388258,
+    "wof:name":"Levoca",
+    "wof:parent_id":102080579,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.588539,
+    49.024716,
+    20.588539,
+    49.024716
+],
+  "geometry": {"coordinates":[20.588539,49.024716],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225949189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56731,48.99701,21.56731,48.99701",
+    "geom:latitude":48.99701,
+    "geom:longitude":21.56731,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cierne nad Topl'ou",
+    "gn:country_code":"SK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724939,
+    "gn:latitude":48.99701,
+    "gn:longitude":21.56731,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cierne nad Top\u013eou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cern\u00e9",
+        "\u010cierne nad Top\u013eou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724939,
+        "wk:page":"%C4%8Cierne_nad_Top%C4%BEou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a7e9de0464bb6cdefc3400c17fbeadd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1225949189,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1225949189,
+    "wof:lastmodified":1537700373,
+    "wof:name":"Cierne nad Topl'ou",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56731,
+    48.99701,
+    21.56731,
+    48.99701
+],
+  "geometry": {"coordinates":[21.56731,48.99701],"type":"Point"}
+}

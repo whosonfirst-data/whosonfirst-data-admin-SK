@@ -1,0 +1,71 @@
+{
+  "id": 1343363811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72279,49.13896,21.72279,49.13896",
+    "geom:latitude":49.13896,
+    "geom:longitude":21.72279,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Krislovce",
+    "gn:country_code":"SK",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724395,
+    "gn:latitude":49.13896,
+    "gn:longitude":21.72279,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kri\u0161lovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u0161lovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724395,
+        "wk:page":"Kri%C5%A1lovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cb26248a4a8253ab8f76bc5cff9fafb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1343363811,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343363811,
+    "wof:lastmodified":1537700363,
+    "wof:name":"Krislovce",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72279,
+    49.13896,
+    21.72279,
+    49.13896
+],
+  "geometry": {"coordinates":[21.72279,49.13896],"type":"Point"}
+}

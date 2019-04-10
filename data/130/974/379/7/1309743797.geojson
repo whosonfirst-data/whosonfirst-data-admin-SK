@@ -1,0 +1,71 @@
+{
+  "id": 1309743797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83764,49.01091,20.83764,49.01091",
+    "geom:latitude":49.01091,
+    "geom:longitude":20.83764,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Korytne",
+    "gn:country_code":"SK",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724445,
+    "gn:latitude":49.01091,
+    "gn:longitude":20.83764,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Korytn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korytn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724445,
+        "wk:page":"Korytn%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5268876554cccd9d10bc83ed60c21213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1309743797,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1309743797,
+    "wof:lastmodified":1537700364,
+    "wof:name":"Korytne",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83764,
+    49.01091,
+    20.83764,
+    49.01091
+],
+  "geometry": {"coordinates":[20.83764,49.01091],"type":"Point"}
+}

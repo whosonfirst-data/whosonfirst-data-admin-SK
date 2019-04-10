@@ -1,0 +1,138 @@
+{
+  "id": 101782747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":418755.886776,
+    "geom:bbox":"18.9274165854,48.4720743705,18.9411753456,48.478101356",
+    "geom:latitude":48.474807,
+    "geom:longitude":18.934663,
+    "iso:country":"SK",
+    "lbl:latitude":48.475173,
+    "lbl:longitude":18.934663,
+    "mps:latitude":48.475173,
+    "mps:longitude":18.934663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9lab\u00e1nya"
+    ],
+    "name:ita_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u0441\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Bansk\u00e1 Bel\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Bansk\u00e1 \u0160tiavnica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bansk\u00e1 Bel\u00e1",
+    "qs:la_lc":"*SK322516627",
+    "qs:level":"locality",
+    "qs:loc":"Bansk\u00e1 Bel\u00e1",
+    "qs:loc_alt":"Banska Bela",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061187,
+        "gp:id":818510,
+        "qs:id":8,
+        "wd:id":"Q806960",
+        "wk:page":"Bansk\u00e1 Bel\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"970d49aa3e88c57c36266e72f9315910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080491,
+            "locality_id":101782747,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101782747,
+    "wof:lastmodified":1527688319,
+    "wof:name":"Bansk\u00e1 Bel\u00e1",
+    "wof:parent_id":102080491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92741658536454,
+    48.47207437052236,
+    18.9411753456032,
+    48.4781013560476
+],
+  "geometry": {"coordinates":[[[18.93896687999336,48.47799254626312],[18.93848747453421,48.47531633194274],[18.9411753456032,48.47509867693742],[18.94069586443288,48.47242246998042],[18.9339764982841,48.4729664519956],[18.93381680271159,48.47207437052236],[18.92978518969852,48.47240055777911],[18.93010444752741,48.47418473342867],[18.92741658536454,48.47440211914966],[18.92773577827791,48.47618630103807],[18.93176770410702,48.47586018467803],[18.93208706632686,48.47764435052369],[18.93746308064431,48.4772092830458],[18.9376228662415,48.4781013560476],[18.93896687999336,48.47799254626312]]],"type":"Polygon"}
+}

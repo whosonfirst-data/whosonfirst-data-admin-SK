@@ -1,0 +1,67 @@
+{
+  "id": 1260386035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41071,48.42152,17.41071,48.42152",
+    "geom:latitude":48.42152,
+    "geom:longitude":17.41071,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mathilden Dvor",
+    "gn:country_code":"SK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058761,
+    "gn:latitude":48.42152,
+    "gn:longitude":17.41071,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mathilden Dvor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058761
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ff41083085a19a67c993557255c23903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1260386035,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1260386035,
+    "wof:lastmodified":1537068625,
+    "wof:name":"Mathilden Dvor",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41071,
+    48.42152,
+    17.41071,
+    48.42152
+],
+  "geometry": {"coordinates":[17.41071,48.42152],"type":"Point"}
+}

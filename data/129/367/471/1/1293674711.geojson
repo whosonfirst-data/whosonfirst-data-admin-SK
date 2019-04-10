@@ -1,0 +1,71 @@
+{
+  "id": 1293674711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24725,49.20704,19.24725,49.20704",
+    "geom:latitude":49.20704,
+    "geom:longitude":19.24725,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Velicna",
+    "gn:country_code":"SK",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056940,
+    "gn:latitude":49.20704,
+    "gn:longitude":19.24725,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Veli\u010dn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veli\u010dn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056940,
+        "wk:page":"Veli%C4%8Dn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2d750116aea82a78d6b44690ba48c541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1293674711,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1293674711,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Velicna",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24725,
+    49.20704,
+    19.24725,
+    49.20704
+],
+  "geometry": {"coordinates":[19.24725,49.20704],"type":"Point"}
+}

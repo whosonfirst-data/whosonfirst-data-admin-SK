@@ -1,0 +1,133 @@
+{
+  "id": 1125823267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92035,48.20406,18.92035,48.20406",
+    "geom:latitude":48.20406,
+    "geom:longitude":18.92035,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.20406,
+    "lbl:longitude":18.92035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:dut_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:eng_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:epo_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:fre_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:ger_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:hun_x_preferred":[
+        "Honttesz\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:may_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:nan_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:pol_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0442\u044c\u044f\u043d\u0441\u043a\u0435 \u0422\u0435\u0441\u0430\u0440\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043d\u0442\u0458\u0430\u043d\u0441\u043a\u0435 \u0422\u0458\u0435\u0441\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Hontianske Tes\u00e1ry"
+    ],
+    "name:war_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3060061,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hontianske Tes\u00e1re",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":190895,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819642,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060061,
+        "gp:id":819642,
+        "qs_pg:id":190895,
+        "wd:id":"Q287765"
+    },
+    "wof:country":"SK",
+    "wof:created":1497292166,
+    "wof:geomhash":"66da2d86508cc71573e53bfdfb730526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1125823267,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125823267,
+    "wof:lastmodified":1514505104,
+    "wof:name":"Hontianske Tes\u00e1re",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92035,
+    48.20406,
+    18.92035,
+    48.20406
+],
+  "geometry": {"coordinates":[18.92035,48.20406],"type":"Point"}
+}

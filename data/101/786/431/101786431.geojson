@@ -1,0 +1,138 @@
+{
+  "id": 101786431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000212,
+    "geom:area_square_m":1754993.667294,
+    "geom:bbox":"18.495226898,47.9567701159,18.5236303891,47.9733996586",
+    "geom:latitude":47.963929,
+    "geom:longitude":18.507406,
+    "iso:country":"SK",
+    "lbl:latitude":47.964697,
+    "lbl:longitude":18.503856,
+    "mps:latitude":47.964697,
+    "mps:longitude":18.503856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:hun_x_preferred":[
+        "Nagy\u00f6lved"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u041b\u0443\u0434\u0438\u043d\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nagy \u00d6lv\u00e9d"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levice",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ve\u013ek\u00e9 Ludince",
+    "qs:la_lc":"*SK232502910",
+    "qs:level":"locality",
+    "qs:loc":"Ve\u013ek\u00e9 Ludince",
+    "qs:loc_alt":"Velke Ludince",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056868,
+        "gp:id":822963,
+        "qs:id":1271853,
+        "wd:id":"Q605041",
+        "wk:page":"Ve\u013ek\u00e9 Ludince"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d043b160cd89299625e83a39b36dbe5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":101786431,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101786431,
+    "wof:lastmodified":1527715645,
+    "wof:name":"Ve\u013ek\u00e9 Ludince",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49522689799369,
+    47.95677011594881,
+    18.52363038914757,
+    47.97339965859038
+],
+  "geometry": {"coordinates":[[[18.5081224631848,47.97198967570063],[18.5076730669972,47.96931062834653],[18.50900446794367,47.96920719469466],[18.50855506317498,47.9665281476303],[18.51254903042258,47.96621776884808],[18.51239917348732,47.96532475810329],[18.51373046318469,47.9652212683871],[18.51358059003257,47.96432825906868],[18.51624310889804,47.96412123550152],[18.51609319663089,47.96322822970137],[18.51875565005753,47.96302114589599],[18.51860569868035,47.96212814361547],[18.51993689512938,47.96202457964745],[18.51978692754312,47.9611315787937],[18.52244925991386,47.96092440673004],[18.52229925322558,47.96003140939655],[18.52363038914757,47.95992780130183],[18.52333035005358,47.95814180882365],[18.5206681648707,47.95834900053597],[18.52051820114252,47.95745599911112],[18.51785604210085,47.95766312222463],[18.51770613084324,47.95677011594881],[18.51504399794902,47.95697717046488],[18.5151938634221,47.95787018092426],[18.51386276672042,47.95797368611869],[18.51416247192952,47.95975970922325],[18.5088378529008,47.96017358568878],[18.50868808853687,47.95928056610643],[18.50070115024801,47.9599008851273],[18.50055152994003,47.95900785234517],[18.49522689799369,47.95942106791125],[18.49552596209514,47.96120714951104],[18.49818837945975,47.96100056558879],[18.49863716304213,47.96367967048195],[18.49730588810581,47.96378297675869],[18.49745547307566,47.96467601248247],[18.49612417033666,47.96477930474009],[18.49657289656511,47.9674584141892],[18.49923563457367,47.96725180103988],[18.49998387416861,47.97171694929455],[18.50131535036439,47.97161360811469],[18.50161473876022,47.97339965859038],[18.50294625587583,47.97329629712272],[18.5027965354268,47.97240327430632],[18.5081224631848,47.97198967570063]]],"type":"Polygon"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 101786415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":1525597.374287,
+    "geom:bbox":"17.7711510129,48.0964614257,17.791330539,48.1135434256",
+    "geom:latitude":48.10609,
+    "geom:longitude":17.781433,
+    "iso:country":"SK",
+    "lbl:latitude":48.106022,
+    "lbl:longitude":17.78128,
+    "mps:latitude":48.106022,
+    "mps:longitude":17.78128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:deu_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:epo_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:fra_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:hbs_x_preferred":[
+        "Dolnje Salibi"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3szeli"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:msa_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:nan_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:nld_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u045a\u0435 \u0421\u0430\u043b\u0438\u0431\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f3 Szeli"
+    ],
+    "name:war_x_preferred":[
+        "Doln\u00e9 Saliby"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Doln\u00e9 Saliby",
+    "qs:la_lc":"*SK212503746",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00e9 Saliby",
+    "qs:loc_alt":"Dolne Saliby",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060441,
+        "gp:id":819224,
+        "qs:id":939938,
+        "wd:id":"Q679315",
+        "wk:page":"Doln\u00e9 Saliby"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6274e00838681a6b3c6ed28baf104bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101786415,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101786415,
+    "wof:lastmodified":1527715644,
+    "wof:name":"Doln\u00e9 Saliby",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77115101287774,
+    48.09646142568204,
+    17.79133053895686,
+    48.11354342555694
+],
+  "geometry": {"coordinates":[[[17.78695001205705,48.11236525471764],[17.78667457159412,48.11057713342268],[17.78801080943197,48.11048240311356],[17.78787307527278,48.10958834347554],[17.78920928539577,48.10949359890191],[17.78907153422637,48.10859954057838],[17.79040771663557,48.10850478174081],[17.78999443061394,48.10582260888293],[17.79133053895686,48.10572783963232],[17.7909172389422,48.10304566705423],[17.78557305646308,48.10342462383579],[17.78460955442881,48.09716614590059],[17.78193776038449,48.09735550024664],[17.78180018822445,48.09646142568204],[17.77912842240431,48.09665071144406],[17.77940348021605,48.098438867651],[17.7807394117242,48.09834422901838],[17.78115211414791,48.10102645298508],[17.7771440975111,48.10131033762389],[17.77728160779071,48.10220441682497],[17.77460952772344,48.10239359616099],[17.77502195646582,48.10507584163344],[17.77368584011793,48.10517041278382],[17.77382330550296,48.10606449530974],[17.77115101287774,48.1062535928877],[17.77170075054983,48.10982993226344],[17.77303699184807,48.10973538388578],[17.77331194399216,48.11152354607617],[17.77598450574487,48.11133439306593],[17.77625957526544,48.11312254513291],[17.77759589572082,48.113027940498],[17.77732077983057,48.11123979227546],[17.7813295749142,48.1109558927634],[17.78146719932988,48.11184996141128],[17.78280347848067,48.11175529393728],[17.78307879217783,48.11354342555694],[17.78575142962126,48.11335403434293],[17.78561372331978,48.11245997268605],[17.78695001205705,48.11236525471764]]],"type":"Polygon"}
+}

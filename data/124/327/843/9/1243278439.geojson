@@ -1,0 +1,67 @@
+{
+  "id": 1243278439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42556,49.34217,18.42556,49.34217",
+    "geom:latitude":49.34217,
+    "geom:longitude":18.42556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Trebule",
+    "gn:country_code":"SK",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057149,
+    "gn:latitude":49.34217,
+    "gn:longitude":18.42556,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Trebule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057149
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7bca2d847ad08ac81157ba35bef7d895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1243278439,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1243278439,
+    "wof:lastmodified":1537045751,
+    "wof:name":"Trebule",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42556,
+    49.34217,
+    18.42556,
+    49.34217
+],
+  "geometry": {"coordinates":[18.42556,49.34217],"type":"Point"}
+}

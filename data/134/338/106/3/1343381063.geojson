@@ -1,0 +1,72 @@
+{
+  "id": 1343381063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95743,49.29078,18.95743,49.29078",
+    "geom:latitude":49.29078,
+    "geom:longitude":18.95743,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lutise",
+    "gn:country_code":"SK",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058956,
+    "gn:latitude":49.29078,
+    "gn:longitude":18.95743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luti\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lutin",
+        "Luti\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058956,
+        "wk:page":"Luti%C5%A1e"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9e9d00626c32b9d10c53bb637025845e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1343381063,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343381063,
+    "wof:lastmodified":1537700407,
+    "wof:name":"Lutise",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95743,
+    49.29078,
+    18.95743,
+    49.29078
+],
+  "geometry": {"coordinates":[18.95743,49.29078],"type":"Point"}
+}

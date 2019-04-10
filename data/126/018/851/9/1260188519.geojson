@@ -1,0 +1,71 @@
+{
+  "id": 1260188519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25442,49.20669,18.25442,49.20669",
+    "geom:latitude":49.20669,
+    "geom:longitude":18.25442,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vydrna",
+    "gn:country_code":"SK",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056672,
+    "gn:latitude":49.20669,
+    "gn:longitude":18.25442,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vydrn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vydrn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056672,
+        "wk:page":"Vydrn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8a49a01b2099a30b829e327f19247b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1260188519,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1260188519,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vydrna",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25442,
+    49.20669,
+    18.25442,
+    49.20669
+],
+  "geometry": {"coordinates":[18.25442,49.20669],"type":"Point"}
+}

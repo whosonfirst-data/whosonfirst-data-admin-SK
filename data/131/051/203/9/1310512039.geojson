@@ -1,0 +1,66 @@
+{
+  "id": 1310512039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94308,47.76748,17.94308,47.76748",
+    "geom:latitude":47.76748,
+    "geom:longitude":17.94308,
+    "gn:asciiname":"Ontopa",
+    "gn:country_code":"SK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6690467,
+    "gn:latitude":47.76748,
+    "gn:longitude":17.94308,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"Ontopa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690467
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1433c1ae0faae69e5084f7ff4dbfd420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1310512039,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310512039,
+    "wof:lastmodified":1536907659,
+    "wof:name":"Ontopa",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94308,
+    47.76748,
+    17.94308,
+    47.76748
+],
+  "geometry": {"coordinates":[17.94308,47.76748],"type":"Point"}
+}

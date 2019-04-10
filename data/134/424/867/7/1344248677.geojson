@@ -1,0 +1,68 @@
+{
+  "id": 1344248677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18769,48.79912,17.18769,48.79912",
+    "geom:latitude":48.79912,
+    "geom:longitude":17.18769,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Trnovec",
+    "gn:country_code":"SK",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057114,
+    "gn:latitude":48.79912,
+    "gn:longitude":17.18769,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trnovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057114,
+        "wk:page":"Trnovec%2C_Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2b0ed6aeb713de7dfb53419b6764655b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080517,
+            "locality_id":1344248677,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1344248677,
+    "wof:lastmodified":1537573589,
+    "wof:name":"Trnovec",
+    "wof:parent_id":102080517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18769,
+    48.79912,
+    17.18769,
+    48.79912
+],
+  "geometry": {"coordinates":[17.18769,48.79912],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276885259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12456,48.74482,21.12456,48.74482",
+    "geom:latitude":48.74482,
+    "geom:longitude":21.12456,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vysny Klatov",
+    "gn:country_code":"SK",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723134,
+    "gn:latitude":48.74482,
+    "gn:longitude":21.12456,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00fd Kl\u00e1tov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161n\u00ed Tejke\u0161",
+        "Vy\u0161n\u00fd Kl\u00e1tov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723134,
+        "wk:page":"Vy%C5%A1n%C3%BD_Kl%C3%A1tov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3c25a27dace4fc95ab6c06509fc91bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1276885259,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276885259,
+    "wof:lastmodified":1537700341,
+    "wof:name":"Vysny Klatov",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12456,
+    48.74482,
+    21.12456,
+    48.74482
+],
+  "geometry": {"coordinates":[21.12456,48.74482],"type":"Point"}
+}

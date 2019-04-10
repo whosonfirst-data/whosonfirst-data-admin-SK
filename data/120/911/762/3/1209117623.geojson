@@ -1,0 +1,65 @@
+{
+  "id": 1209117623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44332,48.76678,21.44332,48.76678",
+    "geom:latitude":48.76678,
+    "geom:longitude":21.44332,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cakanovce",
+    "gn:country_code":"SK",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725021,
+    "gn:latitude":48.76678,
+    "gn:longitude":21.44332,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"\u010cakanovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cakanovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725021,
+        "wk:page":"%C4%8Cakanovce%2C_Ko%C5%A1ice-okolie_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d081f48eeb2b9590ef6cdd2e4672ce28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209117623
+        }
+    ],
+    "wof:id":1209117623,
+    "wof:lastmodified":1537700374,
+    "wof:name":"Cakanovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44332,
+    48.76678,
+    21.44332,
+    48.76678
+],
+  "geometry": {"coordinates":[21.44332,48.76678],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293588467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14033,49.07355,20.14033,49.07355",
+    "geom:latitude":49.07355,
+    "geom:longitude":20.14033,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mengusovce",
+    "gn:country_code":"SK",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724154,
+    "gn:latitude":49.07355,
+    "gn:longitude":20.14033,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mengusovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724154,
+        "wk:page":"Mengusovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ad92b6a953c7a3c682ae09f450952a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1293588467,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293588467,
+    "wof:lastmodified":1537573572,
+    "wof:name":"Mengusovce",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14033,
+    49.07355,
+    20.14033,
+    49.07355
+],
+  "geometry": {"coordinates":[20.14033,49.07355],"type":"Point"}
+}

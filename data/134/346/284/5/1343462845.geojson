@@ -1,0 +1,71 @@
+{
+  "id": 1343462845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54449,48.33978,19.54449,48.33978",
+    "geom:latitude":48.33978,
+    "geom:longitude":19.54449,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lehotka",
+    "gn:country_code":"SK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059122,
+    "gn:latitude":48.33978,
+    "gn:longitude":19.54449,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Leh\u00f4tka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leh\u00f4tka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059122,
+        "wk:page":"Leh%C3%B4tka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"17572d96e4b9aced29292ef29f3045c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1343462845,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1343462845,
+    "wof:lastmodified":1537700409,
+    "wof:name":"Lehotka",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54449,
+    48.33978,
+    19.54449,
+    48.33978
+],
+  "geometry": {"coordinates":[19.54449,48.33978],"type":"Point"}
+}

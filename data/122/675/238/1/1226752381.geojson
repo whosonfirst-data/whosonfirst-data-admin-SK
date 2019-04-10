@@ -1,0 +1,68 @@
+{
+  "id": 1226752381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30616,49.18969,21.30616,49.18969",
+    "geom:latitude":49.18969,
+    "geom:longitude":21.30616,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Janovce",
+    "gn:country_code":"SK",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724582,
+    "gn:latitude":49.18969,
+    "gn:longitude":21.30616,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Janovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724582,
+        "wk:page":"Janovce%2C_Bardejov_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a8a9ab72836e43f6ae576bc3b57dfad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1226752381,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226752381,
+    "wof:lastmodified":1537573578,
+    "wof:name":"Janovce",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30616,
+    49.18969,
+    21.30616,
+    49.18969
+],
+  "geometry": {"coordinates":[21.30616,49.18969],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209311517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75969,48.38563,17.75969,48.38563",
+    "geom:latitude":48.38563,
+    "geom:longitude":17.75969,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Horne Zelenice",
+    "gn:country_code":"SK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059957,
+    "gn:latitude":48.38563,
+    "gn:longitude":17.75969,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Zelenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zelenice",
+        "Horn\u00ed-Zelenice",
+        "Hornie Zelenice",
+        "Horn\u00e9 Zelenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059957,
+        "wk:page":"Horn%C3%A9_Zelenice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0b8e89dc81544bced88a1b192f76bb2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209311517
+        }
+    ],
+    "wof:id":1209311517,
+    "wof:lastmodified":1537700420,
+    "wof:name":"Horne Zelenice",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75969,
+    48.38563,
+    17.75969,
+    48.38563
+],
+  "geometry": {"coordinates":[17.75969,48.38563],"type":"Point"}
+}

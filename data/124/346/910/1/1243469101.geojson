@@ -1,0 +1,65 @@
+{
+  "id": 1243469101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,49.35,18.36667,49.35",
+    "geom:latitude":49.35,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Martinci",
+    "gn:country_code":"SK",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058776,
+    "gn:latitude":49.35,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Martinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058776
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"32e307c56f607045bb39fd07a73a2ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243469101,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1243469101,
+    "wof:lastmodified":1536773447,
+    "wof:name":"Martinci",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    49.35,
+    18.36667000000001,
+    49.35
+],
+  "geometry": {"coordinates":[18.36667000000001,49.35],"type":"Point"}
+}

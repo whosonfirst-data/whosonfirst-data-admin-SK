@@ -1,0 +1,72 @@
+{
+  "id": 1277074931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1857,48.8284,18.1857,48.8284",
+    "geom:latitude":48.8284,
+    "geom:longitude":18.1857,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horne Motesice",
+    "gn:country_code":"SK",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059986,
+    "gn:latitude":48.8284,
+    "gn:longitude":18.1857,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Mote\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Mote\u0161ice",
+        "Hornie Mote\u0161ice",
+        "Horn\u00e9 Mote\u0161ice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059986
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ad4dfd95ffef12b80bd08fecd171a981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1277074931,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1277074931,
+    "wof:lastmodified":1537700422,
+    "wof:name":"Horne Motesice",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1857,
+    48.8284,
+    18.1857,
+    48.8284
+],
+  "geometry": {"coordinates":[18.1857,48.8284],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243568645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.57909,48.38499,19.57909,48.38499",
+    "geom:latitude":48.38499,
+    "geom:longitude":19.57909,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gregorova Vieska",
+    "gn:country_code":"SK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060185,
+    "gn:latitude":48.38499,
+    "gn:longitude":19.57909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gregorova Vieska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060185,
+        "wk:page":"Gregorova_Vieska"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2da13dde6fb9c2c2527ef5a9b2595698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1243568645,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243568645,
+    "wof:lastmodified":1537573606,
+    "wof:name":"Gregorova Vieska",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.57909,
+    48.38499,
+    19.57909,
+    48.38499
+],
+  "geometry": {"coordinates":[19.57909,48.38499],"type":"Point"}
+}

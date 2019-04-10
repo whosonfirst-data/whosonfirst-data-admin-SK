@@ -1,0 +1,66 @@
+{
+  "id": 1242892587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05056,48.83467,20.05056,48.83467",
+    "geom:latitude":48.83467,
+    "geom:longitude":20.05056,
+    "gn:asciiname":"Nova Masa",
+    "gn:country_code":"SK",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724024,
+    "gn:latitude":48.83467,
+    "gn:longitude":20.05056,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Nov\u00e1 Ma\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724024
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7dcca7b4992cffe04c8742dbb56e2b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1242892587,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1242892587,
+    "wof:lastmodified":1536607117,
+    "wof:name":"Nova Masa",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05056,
+    48.83467,
+    20.05056,
+    48.83467
+],
+  "geometry": {"coordinates":[20.05056,48.83467],"type":"Point"}
+}

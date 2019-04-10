@@ -1,0 +1,137 @@
+{
+  "id": 101784035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":857423.969964,
+    "geom:bbox":"17.7413632566,48.6069161626,17.7636511873,48.619147526",
+    "geom:latitude":48.611405,
+    "geom:longitude":17.752297,
+    "iso:country":"SK",
+    "lbl:latitude":48.611638,
+    "lbl:longitude":17.752296,
+    "mps:latitude":48.611638,
+    "mps:longitude":17.752296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Krakovany"
+    ],
+    "name:ces_x_preferred":[
+        "Krakovany"
+    ],
+    "name:cze_x_preferred":[
+        "Krakovany"
+    ],
+    "name:deu_x_preferred":[
+        "Krakovany"
+    ],
+    "name:dut_x_preferred":[
+        "Krakovany"
+    ],
+    "name:eng_x_preferred":[
+        "Krakovany"
+    ],
+    "name:epo_x_preferred":[
+        "Krakovany"
+    ],
+    "name:fra_x_preferred":[
+        "Krakovany"
+    ],
+    "name:fre_x_preferred":[
+        "Krakovany"
+    ],
+    "name:ger_x_preferred":[
+        "Krakovany"
+    ],
+    "name:hun_x_preferred":[
+        "Krakov\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Krakovany"
+    ],
+    "name:may_x_preferred":[
+        "Krakovany"
+    ],
+    "name:msa_x_preferred":[
+        "Krakovany"
+    ],
+    "name:nld_x_preferred":[
+        "Krakovany"
+    ],
+    "name:pol_x_preferred":[
+        "Krakovany"
+    ],
+    "name:slo_x_preferred":[
+        "Krakovany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u043a\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Krakovany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pie\u0161tany",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Krakovany",
+    "qs:la_lc":"*SK214507229",
+    "qs:level":"locality",
+    "qs:loc":"Krakovany",
+    "qs:loc_alt":"Krakovany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059315,
+        "gp:id":820385,
+        "qs:id":320390,
+        "qs_pg:id":320390,
+        "wd:id":"Q1045080",
+        "wk:page":"Krakovany, Pie\u0161\u0165any District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ee2cf77a34927dba41489d1e892048f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080495,
+            "locality_id":101784035,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101784035,
+    "wof:lastmodified":1553815499,
+    "wof:name":"Krakovany",
+    "wof:parent_id":102080495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74136325660049,
+    48.60691616255531,
+    17.76365118729672,
+    48.61914752597255
+],
+  "geometry": {"coordinates":[[[17.7553186602737,48.61797025190481],[17.75476151375278,48.61439470645007],[17.75611115411419,48.61430022038257],[17.75569328911172,48.61161856103394],[17.75704285349229,48.61152406443478],[17.75690355399627,48.61063017877063],[17.76365118729672,48.61015745988789],[17.76351177523975,48.60926358338742],[17.76216228165191,48.60935815796421],[17.76202289967893,48.60846427893244],[17.76067342521327,48.60855883518542],[17.76053407332182,48.60766495362253],[17.75648569334902,48.60794851829007],[17.75634641907959,48.60705463029979],[17.752298068605,48.60733804175675],[17.75243727155959,48.60823193558895],[17.74568980904002,48.60870397026144],[17.74541164715805,48.60691616255531],[17.74136325660049,48.60719917519106],[17.74164127584015,48.60898699456607],[17.74299079154571,48.6088926695063],[17.7431298343825,48.60978657637838],[17.74447936922479,48.60969223299855],[17.74461844213408,48.61058613734497],[17.74596799611271,48.61049177564468],[17.74610709909604,48.61138567746514],[17.74745667221066,48.6112912974433],[17.74773494463159,48.61307909545019],[17.74908456066009,48.61298469516009],[17.74950208788943,48.61566638197598],[17.7508517706159,48.61557195946921],[17.75140865696682,48.61914752597255],[17.75410819875231,48.61895861624663],[17.75396892013697,48.61806472938736],[17.7553186602737,48.61797025190481]]],"type":"Polygon"}
+}

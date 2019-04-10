@@ -1,0 +1,71 @@
+{
+  "id": 1259902565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38078,49.2979,20.38078,49.2979",
+    "geom:latitude":49.2979,
+    "geom:longitude":20.38078,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rel'ov",
+    "gn:country_code":"SK",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723759,
+    "gn:latitude":49.2979,
+    "gn:longitude":20.38078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Re\u013eov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Re\u013eov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723759,
+        "wk:page":"Re%C4%BEov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b1afdc48863b6b846ae1b05acd923c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1259902565,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1259902565,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Rel'ov",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38078,
+    49.2979,
+    20.38078,
+    49.2979
+],
+  "geometry": {"coordinates":[20.38078,49.2979],"type":"Point"}
+}

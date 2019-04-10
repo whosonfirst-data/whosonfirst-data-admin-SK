@@ -1,0 +1,67 @@
+{
+  "id": 1226162911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94492,48.95294,18.94492,48.95294",
+    "geom:latitude":48.95294,
+    "geom:longitude":18.94492,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sebeslavce",
+    "gn:country_code":"SK",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057721,
+    "gn:latitude":48.95294,
+    "gn:longitude":18.94492,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sebeslavce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057721
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"09e3a775026f4630050f7d53d36080fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1226162911,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1226162911,
+    "wof:lastmodified":1537050879,
+    "wof:name":"Sebeslavce",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94492,
+    48.95294000000001,
+    18.94492,
+    48.95294000000001
+],
+  "geometry": {"coordinates":[18.94492,48.95294000000001],"type":"Point"}
+}

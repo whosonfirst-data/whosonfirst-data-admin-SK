@@ -1,0 +1,71 @@
+{
+  "id": 1226645013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3916,49.09667,21.3916,49.09667",
+    "geom:latitude":49.09667,
+    "geom:longitude":21.3916,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Proc",
+    "gn:country_code":"SK",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723808,
+    "gn:latitude":49.09667,
+    "gn:longitude":21.3916,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pro\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pro\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723808,
+        "wk:page":"Pro%C4%8D"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"afa485840a6007ee9af277ac229272df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1226645013,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226645013,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Proc",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3916,
+    49.09667,
+    21.3916,
+    49.09667
+],
+  "geometry": {"coordinates":[21.3916,49.09667],"type":"Point"}
+}

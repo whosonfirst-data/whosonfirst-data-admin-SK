@@ -1,0 +1,67 @@
+{
+  "id": 1242683557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48333,48.28333,18.48333,48.28333",
+    "geom:latitude":48.28333,
+    "geom:longitude":18.48333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vystrkov",
+    "gn:country_code":"SK",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056640,
+    "gn:latitude":48.28333,
+    "gn:longitude":18.48333,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Vystrkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056640
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d4b5512dc01342f59e20b0a39c214058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1242683557,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1242683557,
+    "wof:lastmodified":1536911500,
+    "wof:name":"Vystrkov",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48333,
+    48.28333,
+    18.48333,
+    48.28333
+],
+  "geometry": {"coordinates":[18.48333,48.28333],"type":"Point"}
+}

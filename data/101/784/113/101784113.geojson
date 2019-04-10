@@ -1,0 +1,138 @@
+{
+  "id": 101784113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":867400.613536,
+    "geom:bbox":"18.9465561327,48.5838168765,18.965091256,48.5947194258",
+    "geom:latitude":48.588314,
+    "geom:longitude":18.954396,
+    "iso:country":"SK",
+    "lbl:latitude":48.588511,
+    "lbl:longitude":18.954396,
+    "mps:latitude":48.588511,
+    "mps:longitude":18.954396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:ces_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:cze_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:deu_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:dut_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:eng_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:epo_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:fra_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:fre_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:ger_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:hun_x_preferred":[
+        "Bezer\u00e9te"
+    ],
+    "name:ita_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:may_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:msa_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:nan_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:nld_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:pol_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:slo_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043d\u0430\u0432\u0430 \u0425\u043e\u0440\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017diar nad Hronom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Trnav\u00e1 Hora",
+    "qs:la_lc":"*SK32D517313",
+    "qs:level":"locality",
+    "qs:loc":"Trnav\u00e1 Hora",
+    "qs:loc_alt":"Trnava Hora",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057121,
+        "gp:id":822722,
+        "qs:id":1271792,
+        "wd:id":"Q289376",
+        "wk:page":"Trnav\u00e1 Hora"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"89cfaf386c6f47306f7d9a163d624fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":101784113,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784113,
+    "wof:lastmodified":1527688546,
+    "wof:name":"Trnav\u00e1 Hora",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94655613274688,
+    48.58381687653872,
+    18.96509125600267,
+    48.59471942576022
+],
+  "geometry": {"coordinates":[[[18.95425458232336,48.59350037553889],[18.95409393476962,48.59260838179216],[18.95544097112304,48.59249933459898],[18.95528030727047,48.59160734243102],[18.95797431682814,48.59138920358487],[18.95765291668096,48.58960522622863],[18.96034681063861,48.58938703109732],[18.96018607435104,48.58849504590955],[18.96153298975764,48.5883859261167],[18.96121149186337,48.58660195823484],[18.96390521243654,48.58638367868559],[18.9637444272862,48.5854916982359],[18.96509125600267,48.58538253623664],[18.96493045456845,48.58449055736634],[18.96223683887638,48.58470886056318],[18.96207609179208,48.58381687653872],[18.95399525765606,48.58447138117236],[18.95415586346701,48.58536337865496],[18.95011530361285,48.58569041747768],[18.94995476844315,48.58479841327011],[18.94726108226166,48.58501635310427],[18.94790307804794,48.58858438387733],[18.94655613274688,48.58869333828659],[18.94687712703069,48.59047735417164],[18.94822411943841,48.59036839528068],[18.94870573590492,48.59304440740738],[18.95005279363716,48.59293542547744],[18.95037395465761,48.59471942576022],[18.95172105416174,48.59461042303036],[18.95156044646637,48.59371842546278],[18.95425458232336,48.59350037553889]]],"type":"Polygon"}
+}

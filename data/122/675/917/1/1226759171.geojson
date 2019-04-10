@@ -1,0 +1,72 @@
+{
+  "id": 1226759171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88174,48.66711,21.88174,48.66711",
+    "geom:latitude":48.66711,
+    "geom:longitude":21.88174,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zbince",
+    "gn:country_code":"SK",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723092,
+    "gn:latitude":48.66711,
+    "gn:longitude":21.88174,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u017dbince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velk\u00e9 Zbince",
+        "\u017dbince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723092,
+        "wk:page":"%C5%BDbince"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1dd3915cc71544b5ad168d3313e59e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1226759171,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226759171,
+    "wof:lastmodified":1537700340,
+    "wof:name":"Zbince",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88174,
+    48.66711,
+    21.88174,
+    48.66711
+],
+  "geometry": {"coordinates":[21.88174,48.66711],"type":"Point"}
+}

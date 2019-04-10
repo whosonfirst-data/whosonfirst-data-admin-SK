@@ -1,0 +1,60 @@
+{
+  "id": 1209433443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55335,49.13719,19.55335,49.13719",
+    "geom:latitude":49.13719,
+    "geom:longitude":19.55335,
+    "gn:asciiname":"Benusovce",
+    "gn:country_code":"SK",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061113,
+    "gn:latitude":49.13719,
+    "gn:longitude":19.55335,
+    "gn:modification_date":"2008-07-01",
+    "gn:name":"Be\u0148u\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061113
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ed34111532d3c1e6da96c990086393ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209433443
+        }
+    ],
+    "wof:id":1209433443,
+    "wof:lastmodified":1536287170,
+    "wof:name":"Benusovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55335,
+    49.13719,
+    19.55335,
+    49.13719
+],
+  "geometry": {"coordinates":[19.55335,49.13719],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309718225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47494,48.83433,18.47494,48.83433",
+    "geom:latitude":48.83433,
+    "geom:longitude":18.47494,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lomnica",
+    "gn:country_code":"SK",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059023,
+    "gn:latitude":48.83433,
+    "gn:longitude":18.47494,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Lomnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059023
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1f7241a1e3c330fd97d20810564086d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1309718225,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1309718225,
+    "wof:lastmodified":1537054921,
+    "wof:name":"Lomnica",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47494,
+    48.83433,
+    18.47494,
+    48.83433
+],
+  "geometry": {"coordinates":[18.47494,48.83433],"type":"Point"}
+}

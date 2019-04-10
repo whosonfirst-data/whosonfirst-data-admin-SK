@@ -1,0 +1,71 @@
+{
+  "id": 1209914697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16741,49.04492,18.16741,49.04492",
+    "geom:latitude":49.04492,
+    "geom:longitude":18.16741,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krivoklat",
+    "gn:country_code":"SK",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059268,
+    "gn:latitude":49.04492,
+    "gn:longitude":18.16741,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Krivokl\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krivokl\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059268,
+        "wk:page":"Krivokl%C3%A1t%2C_Ilava_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a393a151fce1e3f6081d4730a2d6d3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080555,
+            "locality_id":1209914697,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1209914697,
+    "wof:lastmodified":1537700410,
+    "wof:name":"Krivoklat",
+    "wof:parent_id":102080555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16741,
+    49.04492,
+    18.16741,
+    49.04492
+],
+  "geometry": {"coordinates":[18.16741,49.04492],"type":"Point"}
+}

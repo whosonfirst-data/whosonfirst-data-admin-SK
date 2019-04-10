@@ -1,0 +1,71 @@
+{
+  "id": 1327146217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80991,48.57409,21.80991,48.57409",
+    "geom:latitude":48.57409,
+    "geom:longitude":21.80991,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hradistska Mol'va",
+    "gn:country_code":"SK",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724656,
+    "gn:latitude":48.57409,
+    "gn:longitude":21.80991,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hradi\u0161tsk\u00e1 Mo\u013eva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hradova Mol\u2019va",
+        "Hradi\u0161tsk\u00e1 Mo\u013eva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724656
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6991231dd00ec2c93d051138368b9b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1327146217,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1327146217,
+    "wof:lastmodified":1537700368,
+    "wof:name":"Hradistska Mol'va",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80991,
+    48.57409000000001,
+    21.80991,
+    48.57409000000001
+],
+  "geometry": {"coordinates":[21.80991,48.57409000000001],"type":"Point"}
+}

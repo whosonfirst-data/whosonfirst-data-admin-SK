@@ -1,0 +1,135 @@
+{
+  "id": 1126012125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27085,48.14204,17.27085,48.14204",
+    "geom:latitude":48.14204,
+    "geom:longitude":17.27085,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.14204,
+    "lbl:longitude":17.27085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:cze_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:dut_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:eng_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:epo_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:fre_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:ger_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:hun_x_preferred":[
+        "Dunahidas"
+    ],
+    "name:ita_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:may_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:nan_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:por_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:slo_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0441\u0442 \u043f\u0440\u0438 \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Bruck"
+    ],
+    "name:war_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058632,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Most na Ostrove",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013411,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821109,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058632,
+        "gp:id":821109,
+        "qs_pg:id":1013411,
+        "wd:id":"Q911324"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300334,
+    "wof:geomhash":"07c02fb195c81b96c31a583ff143dbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":1126012125,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1126012125,
+    "wof:lastmodified":1514505185,
+    "wof:name":"Most na Ostrove",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27085,
+    48.14204,
+    17.27085,
+    48.14204
+],
+  "geometry": {"coordinates":[17.27085,48.14204],"type":"Point"}
+}

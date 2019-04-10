@@ -1,0 +1,71 @@
+{
+  "id": 1326834187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06667,48.38333,19.06667,48.38333",
+    "geom:latitude":48.38333,
+    "geom:longitude":19.06667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nikelberg",
+    "gn:country_code":"SK",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058533,
+    "gn:latitude":48.38333,
+    "gn:longitude":19.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nikelberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niklberg",
+        "Nikelberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058533
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a33b591fcb11c23583cb35a6dcf29733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1326834187,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1326834187,
+    "wof:lastmodified":1537700400,
+    "wof:name":"Nikelberg",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06667,
+    48.38333,
+    19.06667,
+    48.38333
+],
+  "geometry": {"coordinates":[19.06667,48.38333],"type":"Point"}
+}

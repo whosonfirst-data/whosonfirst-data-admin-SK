@@ -1,0 +1,71 @@
+{
+  "id": 1259589513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52066,48.56997,18.52066,48.56997",
+    "geom:latitude":48.56997,
+    "geom:longitude":18.52066,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cerova",
+    "gn:country_code":"SK",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060774,
+    "gn:latitude":48.56997,
+    "gn:longitude":18.52066,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cerov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060774,
+        "wk:page":"Cerov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bd86a9d44d3155feb91e8877406ff4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1259589513,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259589513,
+    "wof:lastmodified":1537700433,
+    "wof:name":"Cerova",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52066,
+    48.56997,
+    18.52066,
+    48.56997
+],
+  "geometry": {"coordinates":[18.52066,48.56997],"type":"Point"}
+}

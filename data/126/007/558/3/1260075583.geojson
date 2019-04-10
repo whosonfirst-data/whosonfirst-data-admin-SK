@@ -1,0 +1,71 @@
+{
+  "id": 1260075583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.88333,49.01667,19.88333,49.01667",
+    "geom:latitude":49.01667,
+    "geom:longitude":19.88333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dvorce Svarin",
+    "gn:country_code":"SK",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060292,
+    "gn:latitude":49.01667,
+    "gn:longitude":19.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dvorce Svar\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svarin",
+        "Dvorce Svar\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060292
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"97ae41b87bd85f6669e7c7b0b3600b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1260075583,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1260075583,
+    "wof:lastmodified":1537700426,
+    "wof:name":"Dvorce Svarin",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88333,
+    49.01667,
+    19.88333,
+    49.01667
+],
+  "geometry": {"coordinates":[19.88333,49.01667],"type":"Point"}
+}

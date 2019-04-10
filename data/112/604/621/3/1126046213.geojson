@@ -1,0 +1,146 @@
+{
+  "id": 1126046213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30464,49.13676,20.30464,49.13676",
+    "geom:latitude":49.13676,
+    "geom:longitude":20.30464,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.13676,
+    "lbl:longitude":20.30464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151erd\u0151falva"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:lit_x_preferred":[
+        "Stara Lesna"
+    ],
+    "name:may_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Stara Le\u015bna"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0409\u0435\u0441\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Alt-Walddorf"
+    ],
+    "name:war_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723506,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Star\u00e1 Lesn\u00e1",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":326262,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822390,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723506,
+        "gp:id":822390,
+        "qs_pg:id":326262,
+        "wd:id":"Q590671"
+    },
+    "wof:country":"SK",
+    "wof:created":1497302446,
+    "wof:geomhash":"de29e6c32e1ee4c8618999a553d2f265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1126046213,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1126046213,
+    "wof:lastmodified":1514505292,
+    "wof:name":"Star\u00e1 Lesn\u00e1",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30464,
+    49.13676,
+    20.30464,
+    49.13676
+],
+  "geometry": {"coordinates":[20.30464,49.13676],"type":"Point"}
+}

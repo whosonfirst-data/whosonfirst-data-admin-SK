@@ -1,0 +1,189 @@
+{
+  "id": 101784111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:area_square_m":1595185.975984,
+    "geom:bbox":"17.5297185476,48.6503271132,17.5541784486,48.6764421408",
+    "geom:latitude":48.664201,
+    "geom:longitude":17.539691,
+    "gn:population":5567,
+    "iso:country":"SK",
+    "lbl:latitude":48.668144,
+    "lbl:longitude":17.538857,
+    "mps:latitude":48.668144,
+    "mps:longitude":17.538857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0632\u0648\u0641\u0627 \u0628\u0648\u062f \u0628\u0631\u0627\u062f\u0644\u0648\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:ces_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u96f7\u4f50\u74e6\u5e03\u62c9\u9686"
+    ],
+    "name:cze_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:deu_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:dut_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:eng_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:epo_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632\u0648\u0627 \u067e\u062f \u0628\u0631\u0627\u062f\u0644\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:fra_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:fre_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:ger_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d6\u05d5\u05d1\u05d4 \u05e4\u05d5\u05d3 \u05d1\u05e8\u05d0\u05d3\u05dc\u05d5\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:hun_x_preferred":[
+        "Berez\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:lav_x_preferred":[
+        "Brezova pie Bradlas"
+    ],
+    "name:lim_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:may_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:nan_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:oci_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0632\u0648\u0627 \u067e\u062f \u0628\u0631\u0627\u062f\u0644\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:rum_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0430-\u043f\u043e\u0434-\u0411\u0440\u0430\u0434\u043b\u043e\u043c"
+    ],
+    "name:slo_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:spa_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0430 \u043f\u043e\u0434 \u0411\u0440\u0430\u0434\u043b\u043e\u043c"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0430-\u043f\u043e\u0434-\u0411\u0440\u0430\u0434\u043b\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0430 \u043f\u043e\u0434 \u0411\u0440\u0430\u0434\u043b\u043e\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Berez\u00f3"
+    ],
+    "name:war_x_preferred":[
+        "Brezov\u00e1 pod Bradlom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Myjava",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Brezov\u00e1 pod Bradlom",
+    "qs:la_lc":"*SK223504262",
+    "qs:level":"locality",
+    "qs:loc":"Brezov\u00e1 pod Bradlom",
+    "qs:loc_alt":"Brezova pod Bradlom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":48.665278,
+    "wd:longitude":17.537222,
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060942,
+        "gp:id":818751,
+        "qs:id":2869,
+        "qs_pg:id":2869,
+        "wd:id":"Q135818",
+        "wk:page":"Brezov\u00e1 pod Bradlom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"492f7b7a6fffd2ab029339ee35157ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":101784111,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101784111,
+    "wof:lastmodified":1527688540,
+    "wof:name":"Brezov\u00e1 pod Bradlom",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:population":5567,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52971854755668,
+    48.65032711320498,
+    17.55417844855322,
+    48.67644214075165
+],
+  "geometry": {"coordinates":[[[17.53770244427977,48.67635029228666],[17.53743117339138,48.67456193724018],[17.53878276750055,48.67447007616255],[17.53851147345125,48.67268172265437],[17.54391761346477,48.67231412945353],[17.54405335294348,48.67320829889547],[17.54540490048669,48.673116357678],[17.54554067000481,48.67401052465578],[17.54689223689218,48.67391856513137],[17.54675644349129,48.67302440005341],[17.5481079819566,48.67293242602165],[17.54783636587001,48.67114409797119],[17.54648487516613,48.67123606820297],[17.5463491002406,48.67034190143016],[17.54499762887701,48.67043385335586],[17.5445904126758,48.66775134394908],[17.54323900840711,48.66784327377127],[17.54283191922735,48.66516075358254],[17.5441832518726,48.66506882945663],[17.54404754391356,48.66417465682878],[17.54269623514045,48.66426657905612],[17.54188225981278,48.65890152002828],[17.54998918516458,48.65834980897455],[17.55026077205622,48.66013814145771],[17.55161195813372,48.66004612840936],[17.55188361738846,48.66183445482875],[17.55323484666008,48.66174242157695],[17.55282729541841,48.65905993680099],[17.55417844855322,48.65896789284932],[17.5540425865949,48.65807373202608],[17.55134032351316,48.65825779972653],[17.55120451543939,48.65736363453613],[17.54715115837183,48.65763960737678],[17.54701542804207,48.65674543592166],[17.54296210174329,48.65702125545437],[17.54309776048353,48.65791543260536],[17.53904432179553,48.65819111021875],[17.53795979671798,48.65103763164052],[17.53525786338224,48.65122130436396],[17.53512237311543,48.65032711320498],[17.52971854755668,48.65069425427771],[17.52985394239403,48.65158845301659],[17.53255591193886,48.65140491148958],[17.53269136063221,48.65229910587408],[17.53404236247485,48.65220730861574],[17.53417784116817,48.65310150053961],[17.53552886234382,48.6530096849857],[17.53607093399006,48.65658643944596],[17.53336869621785,48.65677006931975],[17.53363967344853,48.65855845074299],[17.53499084232897,48.65846664021507],[17.5351263640265,48.65936082818337],[17.53647755224489,48.65926899935687],[17.53715537226225,48.66373992124187],[17.53445275259941,48.66392358145652],[17.53458828729947,48.66481776793216],[17.53323694679972,48.66490957532938],[17.53391459312138,48.66938050872199],[17.53256312870792,48.66947230919516],[17.53269865253225,48.67036649607701],[17.5340501408258,48.67027469370737],[17.53472797157093,48.67474561017093],[17.53607957474787,48.67465378190968],[17.53635079786363,48.67644214075165],[17.53770244427977,48.67635029228666]]],"type":"Polygon"}
+}

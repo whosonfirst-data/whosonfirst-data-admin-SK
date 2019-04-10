@@ -1,0 +1,71 @@
+{
+  "id": 1242679621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64927,48.61678,21.64927,48.61678",
+    "geom:latitude":48.61678,
+    "geom:longitude":21.64927,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Plechoticka Samota",
+    "gn:country_code":"SK",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723880,
+    "gn:latitude":48.61678,
+    "gn:longitude":21.64927,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plechotick\u00e1 Samota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plechotick\u00fd Dvor",
+        "Plechotick\u00e1 Samota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723880
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"962b19c1207aef9fdd51c9e06cad038d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1242679621,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1242679621,
+    "wof:lastmodified":1537700354,
+    "wof:name":"Plechoticka Samota",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64927,
+    48.61678,
+    21.64927,
+    48.61678
+],
+  "geometry": {"coordinates":[21.64927,48.61678],"type":"Point"}
+}

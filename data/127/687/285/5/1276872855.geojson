@@ -1,0 +1,71 @@
+{
+  "id": 1276872855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23021,48.70339,18.23021,48.70339",
+    "geom:latitude":48.70339,
+    "geom:longitude":18.23021,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ke Chlievany",
+    "gn:country_code":"SK",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056888,
+    "gn:latitude":48.70339,
+    "gn:longitude":18.23021,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e9 Chlievany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00e9 Chlievany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056888,
+        "wk:page":"Ve%C4%BEk%C3%A9_Chlievany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c20edfadc997ac4a788c62e6ac297572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1276872855,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1276872855,
+    "wof:lastmodified":1537700382,
+    "wof:name":"Vel'ke Chlievany",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23021,
+    48.70339,
+    18.23021,
+    48.70339
+],
+  "geometry": {"coordinates":[18.23021,48.70339],"type":"Point"}
+}

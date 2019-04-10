@@ -1,0 +1,141 @@
+{
+  "id": 101843837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1056768.686704,
+    "geom:bbox":"18.1006033899,48.7963180097,18.1209150603,48.8132902916",
+    "geom:latitude":48.803881,
+    "geom:longitude":18.111359,
+    "iso:country":"SK",
+    "lbl:latitude":48.800847,
+    "lbl:longitude":18.111205,
+    "mps:latitude":48.800847,
+    "mps:longitude":18.111205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:ces_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:cze_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:deu_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:dut_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:eng_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:epo_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:fra_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:fre_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:ger_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:hbs_x_preferred":[
+        "Tren\u010dinske Jastrabje"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6lved"
+    ],
+    "name:ita_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:may_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:msa_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:nan_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:nld_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:slo_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0435\u043d\u0447\u0438\u043d\u0441\u043a\u0435 \u0408\u0430\u0441\u0442\u0440\u0430\u0431\u0458\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Jastrabie"
+    ],
+    "name:war_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trenc\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tren\u010dianske Mitice",
+    "qs:la_lc":"*SK229506605",
+    "qs:level":"locality",
+    "qs:loc":"Tren\u010dianske Jastrabie",
+    "qs:loc_alt":"Trencianske Jastrabie",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057142,
+        "gp:id":822711,
+        "qs:id":184282,
+        "wd:id":"Q544343",
+        "wk:page":"Tren\u010dianske Jastrabie"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"21fa92cf3f4b2659783426c95063bf78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":101843837,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101843837,
+    "wof:lastmodified":1527642599,
+    "wof:name":"Tren\u010dianske Jastrabie",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10060338988842,
+    48.79631800966393,
+    18.12091506033852,
+    48.81329029159315
+],
+  "geometry": {"coordinates":[[[18.11831911294388,48.8098193632452],[18.11817245312523,48.80892610520806],[18.11546383361429,48.80912397687058],[18.1145843021057,48.80376439156134],[18.11593847059271,48.80366547624715],[18.11579188137199,48.8027722119981],[18.11985428550202,48.80247537361151],[18.11956098335327,48.80068885563054],[18.12091506033852,48.8005898807391],[18.12076839531352,48.79969662290682],[18.11670622145328,48.79999349213557],[18.11626648185904,48.79731369661636],[18.11491248591437,48.79741261401529],[18.11505903517508,48.79830588183268],[18.10828886208026,48.79880023261308],[18.10814243254418,48.79790695455353],[18.10678840714627,48.7980057733696],[18.10664200820793,48.7971124926683],[18.10528800184937,48.79721129300634],[18.105141633507,48.79631800966393],[18.10378764618758,48.79641679152468],[18.10466581232703,48.80177649494692],[18.10060338988842,48.80207277877724],[18.1008960214325,48.80385935411186],[18.11172943302608,48.80306890249426],[18.11216900510669,48.80574871190242],[18.11081477397801,48.80584758201576],[18.11125433412451,48.80852739222314],[18.10990002621674,48.8086262520489],[18.11033957442044,48.81130606305697],[18.10763080011372,48.81150374569523],[18.10792376969744,48.81329029159315],[18.11469590824282,48.81279594123731],[18.11454930030902,48.81190267883153],[18.11590368931479,48.81180376150212],[18.11561044551735,48.81001723900863],[18.11831911294388,48.8098193632452]]],"type":"Polygon"}
+}

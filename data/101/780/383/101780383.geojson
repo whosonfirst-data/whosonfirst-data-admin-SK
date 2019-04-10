@@ -1,0 +1,160 @@
+{
+  "id": 101780383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":717739.175432,
+    "geom:bbox":"18.6184132766,49.2222695532,18.6410977167,49.2350220398",
+    "geom:latitude":49.229849,
+    "geom:longitude":18.630109,
+    "iso:country":"SK",
+    "lbl:latitude":49.231854,
+    "lbl:longitude":18.632944,
+    "mps:latitude":49.231854,
+    "mps:longitude":18.632944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:deu_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:epo_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:fra_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3rics\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:msa_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:nan_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:nld_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438 \u0425\u0440\u0438\u0447\u043e\u0432"
+    ],
+    "name:und_x_colloquial":[
+        "Dolni Hricov",
+        "Dolny Hricov",
+        "Hricov"
+    ],
+    "name:und_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:und_x_variant":[
+        "Doln\u00ed Hri\u010dov",
+        "Hri\u010dov"
+    ],
+    "name:unk_x_variant":[
+        "Doln\u00ed Hri\u010dov"
+    ],
+    "name:war_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017dilina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Hri\u010dovsk\u00e9 Podhradie",
+    "qs:la_lc":"*SK31B547590",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00fd Hri\u010dov",
+    "qs:loc_alt":"Dolny Hricov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070e90ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3060412,
+        "gp:id":819252,
+        "qs:id":388304,
+        "qs_pg:id":388304,
+        "wd:id":"Q430636",
+        "wk:page":"Doln\u00fd Hri\u010dov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ede2590cc9ac6c6e8bfc263e92188a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":101780383,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780383,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527715869,
+    "wof:name":"Doln\u00fd Hri\u010dov",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61841327657766,
+    49.22226955324004,
+    18.64109771670809,
+    49.23502203976494
+],
+  "geometry": {"coordinates":[[[18.63427239359464,49.23491668691065],[18.63411438341723,49.23402442291467],[18.63957455505226,49.23360285460319],[18.6397326627964,49.23449510975934],[18.64109771670809,49.2343896740386],[18.64046523165121,49.23082065860478],[18.63910027529579,49.23092608548268],[18.63894219653434,49.2300338278917],[18.6362123165344,49.23024462751283],[18.6360542937893,49.22935236489332],[18.63332444115167,49.22956309380993],[18.63316647441917,49.22867082616369],[18.63043664915131,49.22888148437789],[18.63027873842839,49.2279892117067],[18.62754894053705,49.22819979922036],[18.6273910858207,49.2273075215258],[18.62602620324009,49.22741278821894],[18.62586838014181,49.22652050770955],[18.62450351659999,49.22662575562515],[18.62434572511808,49.2257334723011],[18.62298088061561,49.22583870143995],[18.62234988451559,49.22226955324004],[18.62098513219718,49.22237475698654],[18.62114284599897,49.22326704715397],[18.61841327657766,49.22347740934833],[18.61888631505167,49.226154289433],[18.62161603076999,49.22594391400821],[18.62208928059829,49.22862077539247],[18.62345420360066,49.22851555620662],[18.62361199239052,49.22940783991305],[18.62497693443561,49.22930260194931],[18.62513475484513,49.23019488284149],[18.62649971593294,49.23008962609919],[18.62681542723146,49.23187418164639],[18.62818043175065,49.23176890391727],[18.6283383226434,49.23266117857145],[18.62970334620496,49.23255588206217],[18.62986126872585,49.23344815390044],[18.63122631132893,49.2333428386101],[18.63138426548073,49.23423510763195],[18.63274932712505,49.23412977356003],[18.63290731290931,49.23502203976494],[18.63427239359464,49.23491668691065]]],"type":"Polygon"}
+}

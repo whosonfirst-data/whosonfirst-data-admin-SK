@@ -1,0 +1,67 @@
+{
+  "id": 1310601531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96537,48.52451,17.96537,48.52451",
+    "geom:latitude":48.52451,
+    "geom:longitude":17.96537,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Behynce",
+    "gn:country_code":"SK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061150,
+    "gn:latitude":48.52451,
+    "gn:longitude":17.96537,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Behynce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061150
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f6035be24a5a7297beed39e5a6cfcde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1310601531,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310601531,
+    "wof:lastmodified":1536778908,
+    "wof:name":"Behynce",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96537,
+    48.52451,
+    17.96537,
+    48.52451
+],
+  "geometry": {"coordinates":[17.96537,48.52451],"type":"Point"}
+}

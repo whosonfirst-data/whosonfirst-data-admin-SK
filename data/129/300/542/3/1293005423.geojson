@@ -1,0 +1,71 @@
+{
+  "id": 1293005423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43056,49.05923,20.43056,49.05923",
+    "geom:latitude":49.05923,
+    "geom:longitude":20.43056,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vlkova",
+    "gn:country_code":"SK",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723211,
+    "gn:latitude":49.05923,
+    "gn:longitude":20.43056,
+    "gn:modification_date":"2009-06-28",
+    "gn:name":"Vlkov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farka\u0161ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723211,
+        "wk:page":"Vlkov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"06227827b12565aa7e9824cea0b3ea1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1293005423,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293005423,
+    "wof:lastmodified":1537700343,
+    "wof:name":"Vlkova",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43056,
+    49.05923,
+    20.43056,
+    49.05923
+],
+  "geometry": {"coordinates":[20.43056,49.05923],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276990719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2,48.31667,20.2,48.31667",
+    "geom:latitude":48.31667,
+    "geom:longitude":20.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kacago",
+    "gn:country_code":"SK",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724548,
+    "gn:latitude":48.31667,
+    "gn:longitude":20.2,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Kacag\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724548
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"24dd326decbd16d2671e789c050b37af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1276990719,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1276990719,
+    "wof:lastmodified":1536892145,
+    "wof:name":"Kacago",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2,
+    48.31667,
+    20.2,
+    48.31667
+],
+  "geometry": {"coordinates":[20.2,48.31667],"type":"Point"}
+}

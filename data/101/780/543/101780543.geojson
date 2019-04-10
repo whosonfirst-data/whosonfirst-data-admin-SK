@@ -1,0 +1,144 @@
+{
+  "id": 101780543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:area_square_m":1654902.854998,
+    "geom:bbox":"21.9836275677,48.9185054606,22.012186291,48.9380018888",
+    "geom:latitude":48.930135,
+    "geom:longitude":21.997533,
+    "iso:country":"SK",
+    "lbl:latitude":48.931071,
+    "lbl:longitude":21.997533,
+    "mps:latitude":48.931071,
+    "mps:longitude":21.997533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:ces_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:cze_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:deu_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:epo_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:hun_x_preferred":[
+        "Nagykemence"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:may_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:msa_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:nld_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:pol_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:slk_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u045a\u0438\u0446\u0430 \u043d\u0430 \u0426\u0438\u0440\u043e\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f-\u043d\u0430\u0434-\u0426\u0456\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Kamenica nad Cirokou"
+    ],
+    "name:war_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Humenn\u00e9",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamenica nad Cirochou",
+    "qs:la_lc":"*SK412520331",
+    "qs:level":"locality",
+    "qs:loc":"Kamenica nad Cirochou",
+    "qs:loc_alt":"Kamenica nad Cirochou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724535,
+        "gp:id":820110,
+        "qs:id":184090,
+        "wd:id":"Q1186876",
+        "wk:page":"Kamenica nad Cirochou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f31b4c502d461ab9959419672c605c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080603,
+            "locality_id":101780543,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780543,
+    "wof:lastmodified":1527715869,
+    "wof:name":"Kamenica nad Cirochou",
+    "wof:parent_id":102080603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98362756768074,
+    48.91850546057435,
+    22.01218629102902,
+    48.93800188876128
+],
+  "geometry": {"coordinates":[[[22.00626268762869,48.93785572553804],[22.00604527190472,48.93696997120082],[22.00874482682707,48.93667760197206],[22.0085273742813,48.93579185276297],[22.00987711753538,48.93564564675819],[22.00965965149658,48.93475989965816],[22.00696020438255,48.9350522893555],[22.00674279482183,48.93416653530585],[22.00404336534331,48.93445885387428],[22.00317401195684,48.93091580442331],[22.00452363703414,48.93076966534824],[22.00430629993048,48.92988390372773],[22.00970463445742,48.92929919678943],[22.00948721390898,48.92841344633246],[22.01218629102902,48.9281210012785],[22.01175138615815,48.92634950970836],[22.01040189785272,48.92649573433152],[22.01061932205971,48.92738148359155],[22.00657074369258,48.92782006890025],[22.00613604499119,48.92604855135676],[22.00478655099784,48.92619470788327],[22.00435193821914,48.92442318066128],[22.00300248360514,48.92456931488334],[22.00321976177003,48.92545508196702],[22.00187027659575,48.92560120293695],[22.00208754126743,48.92648697212718],[21.99668943484977,48.92707130537406],[21.99538655363654,48.92175660419053],[21.99268773673964,48.92204863701033],[21.99181953202174,48.91850546057435],[21.99047020595611,48.91865144052497],[21.99112127484858,48.92130883325802],[21.98977187161427,48.92145480598157],[21.98998889088438,48.92234060475403],[21.9913383174316,48.92219462901659],[21.99242367751663,48.92662359416727],[21.99107413439134,48.92676958497589],[21.99129121252832,48.92765537829246],[21.98859205791831,48.92794731712553],[21.98880909922786,48.92883311556142],[21.98476024305234,48.92927091081583],[21.98497722420609,48.93015671738385],[21.98362756768074,48.93030261960428],[21.98384453531924,48.93118842827693],[21.98519421516943,48.93104252304323],[21.98541121594269,48.93192832779403],[21.98811060057477,48.93163646248081],[21.98876180172346,48.93429385319769],[21.99146129734692,48.9340019047051],[21.99167843068045,48.93488769376324],[21.99302819095362,48.93474169209134],[21.99324535743256,48.93562747722473],[21.999994166742,48.93489720968068],[22.00064607502259,48.9375545143738],[22.00469548356261,48.93711613140476],[22.00491287595918,48.93800188876128],[22.00626268762869,48.93785572553804]]],"type":"Polygon"}
+}

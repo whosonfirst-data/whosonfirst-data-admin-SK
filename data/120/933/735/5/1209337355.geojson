@@ -1,0 +1,66 @@
+{
+  "id": 1209337355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62292,49.37006,20.62292,49.37006",
+    "geom:latitude":49.37006,
+    "geom:longitude":20.62292,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Litmanova",
+    "gn:country_code":"SK",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724277,
+    "gn:latitude":49.37006,
+    "gn:longitude":20.62292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Litmanov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limanov\u00e1",
+        "Litmanov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724277,
+        "wk:page":"Litmanov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3be30db00743ff1276d04f57a3f4e959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209337355
+        }
+    ],
+    "wof:id":1209337355,
+    "wof:lastmodified":1537700362,
+    "wof:name":"Litmanova",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62292,
+    49.37006,
+    20.62292,
+    49.37006
+],
+  "geometry": {"coordinates":[20.62292,49.37006],"type":"Point"}
+}

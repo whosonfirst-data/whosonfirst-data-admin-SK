@@ -1,0 +1,132 @@
+{
+  "id": 1125787873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57921,48.62536,20.57921,48.62536",
+    "geom:latitude":48.62536,
+    "geom:longitude":20.57921,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.62536,
+    "lbl:longitude":20.57921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:cze_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:ger_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1rhossz\u00far\u00e9t"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:pol_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:slo_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u0440\u0441\u043a\u0430 \u0414\u043b\u0445\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "V\u00e1rhosszur\u00e9t"
+    ],
+    "name:war_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724408,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1161713,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":820415,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724408,
+        "gp:id":820415,
+        "qs_pg:id":1161713,
+        "wd:id":"Q1070046"
+    },
+    "wof:country":"SK",
+    "wof:created":1497290750,
+    "wof:geomhash":"c9bcdaa21f32306466d2a3bd7563c680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1125787873,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125787873,
+    "wof:lastmodified":1514505149,
+    "wof:name":"Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57921,
+    48.62536,
+    20.57921,
+    48.62536
+],
+  "geometry": {"coordinates":[20.57921,48.62536],"type":"Point"}
+}

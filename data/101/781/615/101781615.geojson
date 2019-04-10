@@ -1,0 +1,156 @@
+{
+  "id": 101781615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":927188.527652,
+    "geom:bbox":"17.7598104983,48.7819739498,17.7829730769,48.7982932456",
+    "geom:latitude":48.788944,
+    "geom:longitude":17.771988,
+    "iso:country":"SK",
+    "lbl:latitude":48.78804,
+    "lbl:longitude":17.771988,
+    "mps:latitude":48.78804,
+    "mps:longitude":17.771988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:ces_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:cze_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:deu_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:dut_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:eng_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:epo_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:fra_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:fre_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:ger_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:hbs_x_preferred":[
+        "Bzince pod Javorinom"
+    ],
+    "name:hun_x_preferred":[
+        "Botfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:may_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:msa_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:nan_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:nld_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:pol_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0437\u0438\u043d\u0446\u0435-\u043f\u043e\u0434-\u042f\u0432\u043e\u0440\u0438\u043d\u043e\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:slo_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0437\u0438\u043d\u0446\u0435 \u043f\u043e\u0434 \u0408\u0430\u0432\u043e\u0440\u0438\u043d\u043e\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Bzince"
+    ],
+    "name:war_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bzince pod Javorinou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Mesto nad V\u00e1hom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bzince pod Javorinou",
+    "qs:la_lc":"*SK224505897",
+    "qs:level":"locality",
+    "qs:loc":"Bzince pod Javorinou",
+    "qs:loc_alt":"Bzince pod Javorinou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060847,
+        "gp:id":818845,
+        "qs:id":292843,
+        "qs_pg:id":292843,
+        "wd:id":"Q592819",
+        "wk:page":"Bzince pod Javorinou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9e48bab0088d452e98e8d1126a686c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":101781615,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781615,
+    "wof:lastmodified":1527715630,
+    "wof:name":"Bzince pod Javorinou",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75981049825384,
+    48.78197394982089,
+    17.78297307688121,
+    48.79829324557352
+],
+  "geometry": {"coordinates":[[[17.77667303533786,48.79810368467179],[17.77653258303809,48.79720990534003],[17.77788711994651,48.79711510218692],[17.77774665003545,48.79622132424748],[17.77910115823772,48.79612650661534],[17.77839878449475,48.79165761815],[17.77975316802434,48.79156279390054],[17.77905083396126,48.78709390093144],[17.78040509284676,48.78699907006632],[17.78026462120317,48.78610529171743],[17.78297307688121,48.78591558459647],[17.78283256365779,48.78502180960487],[17.7679360882762,48.78606436336588],[17.76779584524655,48.78517056619836],[17.76508738200374,48.78535990377867],[17.76480701099769,48.7835722998791],[17.76345282029462,48.78366694008639],[17.76331266832995,48.78277313531663],[17.76195849691135,48.78286775712337],[17.76181837529788,48.78197394982089],[17.76046422316432,48.78206855322742],[17.7607444247958,48.78385617118101],[17.7620986248935,48.78376156385372],[17.76251904705458,48.78644298060971],[17.75981049825384,48.78663219058558],[17.75995060373964,48.78752599894676],[17.76265920051424,48.78733678505012],[17.76279936034467,48.78823058891822],[17.76415367567279,48.78813595534666],[17.76429386586273,48.78902975668132],[17.7656482004802,48.7889351047067],[17.76592864795714,48.79072270173566],[17.77676353943275,48.78996486262952],[17.77718483424331,48.79264620676094],[17.77583041730634,48.7927410000899],[17.77625169759324,48.79542234495835],[17.77354270563501,48.7956118940732],[17.7736830971736,48.79650567847898],[17.7723285701378,48.79660043033425],[17.7724689440613,48.79749421613178],[17.77382349509463,48.79739946231263],[17.77396389939861,48.79829324557352],[17.77667303533786,48.79810368467179]]],"type":"Polygon"}
+}

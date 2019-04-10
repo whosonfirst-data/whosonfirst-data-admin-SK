@@ -1,0 +1,82 @@
+{
+  "id": 1125340265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.891979,48.458576,18.891979,48.458576",
+    "geom:latitude":48.458576,
+    "geom:longitude":18.891979,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.458576,
+    "lbl:longitude":18.891979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Banska Stiavnica",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":394,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2970,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1134918,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402175,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402175,
+        "qs_pg:id":1134918
+    },
+    "wof:country":"SK",
+    "wof:created":1497045618,
+    "wof:geomhash":"48842689872753b4a331cd29b9e46b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080491,
+            "localadmin_id":1125340265,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125340265,
+    "wof:lastmodified":1509388638,
+    "wof:name":"Banska Stiavnica",
+    "wof:parent_id":102080491,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.891979,
+    48.458576,
+    18.891979,
+    48.458576
+],
+  "geometry": {"coordinates":[18.891979,48.458576],"type":"Point"}
+}

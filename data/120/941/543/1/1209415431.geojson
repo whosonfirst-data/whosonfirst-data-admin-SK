@@ -1,0 +1,61 @@
+{
+  "id": 1209415431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16566,48.73733,18.16566,48.73733",
+    "geom:latitude":48.73733,
+    "geom:longitude":18.16566,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horne Drzkovce",
+    "gn:country_code":"SK",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060004,
+    "gn:latitude":48.73733,
+    "gn:longitude":18.16566,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Horn\u00e9 Dr\u017ekovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060004
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"97dcb2f2efd982d12c5df965c457e6e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209415431
+        }
+    ],
+    "wof:id":1209415431,
+    "wof:lastmodified":1536287704,
+    "wof:name":"Horne Drzkovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16566,
+    48.73733,
+    18.16566,
+    48.73733
+],
+  "geometry": {"coordinates":[18.16566,48.73733],"type":"Point"}
+}

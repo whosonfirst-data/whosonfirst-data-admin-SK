@@ -1,0 +1,67 @@
+{
+  "id": 1276426439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33912,49.24578,19.33912,49.24578",
+    "geom:latitude":49.24578,
+    "geom:longitude":19.33912,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dvor Siroka",
+    "gn:country_code":"SK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060271,
+    "gn:latitude":49.24578,
+    "gn:longitude":19.33912,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dvor \u0160irok\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060271
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"44945df14f4f737997d1126a362523d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1276426439,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276426439,
+    "wof:lastmodified":1536653895,
+    "wof:name":"Dvor Siroka",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33912,
+    49.24578,
+    19.33912,
+    49.24578
+],
+  "geometry": {"coordinates":[19.33912,49.24578],"type":"Point"}
+}

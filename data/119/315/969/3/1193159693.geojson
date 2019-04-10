@@ -1,0 +1,71 @@
+{
+  "id": 1193159693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24281,49.25696,21.24281,49.25696",
+    "geom:latitude":49.25696,
+    "geom:longitude":21.24281,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kl'usov-Zabava",
+    "gn:country_code":"SK",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724489,
+    "gn:latitude":49.25696,
+    "gn:longitude":21.24281,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kl\u2019u\u0161ov-Z\u00e1bava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e1bava",
+        "Kl\u2019u\u0161ov-Z\u00e1bava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724489
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b42541f99741f3682a394b1be7e359f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1193159693,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1193159693,
+    "wof:lastmodified":1537700365,
+    "wof:name":"Kl'usov-Zabava",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24281,
+    49.25696,
+    21.24281,
+    49.25696
+],
+  "geometry": {"coordinates":[21.24281,49.25696],"type":"Point"}
+}

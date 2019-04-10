@@ -1,0 +1,67 @@
+{
+  "id": 1242873303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25966,48.91201,21.25966,48.91201",
+    "geom:latitude":48.91201,
+    "geom:longitude":21.25966,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mocarmany",
+    "gn:country_code":"SK",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724119,
+    "gn:latitude":48.91201,
+    "gn:longitude":21.25966,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Mo\u010darmany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724119
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1246ad1a2e62ac965cb2647ac1e94fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1242873303,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1242873303,
+    "wof:lastmodified":1536636601,
+    "wof:name":"Mocarmany",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25966,
+    48.91201,
+    21.25966,
+    48.91201
+],
+  "geometry": {"coordinates":[21.25966,48.91201],"type":"Point"}
+}

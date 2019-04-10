@@ -1,0 +1,169 @@
+{
+  "id": 1126016837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79574,48.94746,20.79574,48.94746",
+    "geom:latitude":48.94746,
+    "geom:longitude":20.79574,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.94746,
+    "lbl:longitude":20.79574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u0634\u0633\u0643\u0647 \u0641\u0627\u0644\u062e\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u76ae\u4ec0\u65af\u51f1\u5f17\u62c9\u5e0c"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0647 \u0648\u0644\u0627\u062e\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:hbs_x_preferred":[
+        "Spi\u0161ke Vlahi"
+    ],
+    "name:hrv_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:hun_x_preferred":[
+        "Szepesolaszi"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:lav_x_preferred":[
+        "Spi\u0161ske Vlahi"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0647 \u0648\u0644\u0627\u062e\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Spiskie W\u0142ochy"
+    ],
+    "name:rum_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0435-\u0412\u043b\u0430\u0445\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0435 \u0412\u043b\u0430\u0445\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0435-\u0412\u043b\u0430\u0445\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u76ae\u4ec0\u65af\u51f1\u5f17\u62c9\u5e0c"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723517,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Spi\u0161sk\u00e9 Vlachy",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014297,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822364,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723517,
+        "gp:id":822364,
+        "qs_pg:id":1014297,
+        "wd:id":"Q524405"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300596,
+    "wof:geomhash":"17d55ac68fbadd865faabbb812f71ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":1126016837,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1126016837,
+    "wof:lastmodified":1534379461,
+    "wof:name":"Spi\u0161sk\u00e9 Vlachy",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[
+        101780275
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79574,
+    48.94746,
+    20.79574,
+    48.94746
+],
+  "geometry": {"coordinates":[20.79574,48.94746],"type":"Point"}
+}

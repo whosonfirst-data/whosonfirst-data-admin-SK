@@ -1,0 +1,72 @@
+{
+  "id": 1360092477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73196,48.44118,21.73196,48.44118",
+    "geom:latitude":48.44118,
+    "geom:longitude":21.73196,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cernochov",
+    "gn:country_code":"SK",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724988,
+    "gn:latitude":48.44118,
+    "gn:longitude":21.73196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cernochov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csarnnah\u00f3",
+        "\u010cernochov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724988,
+        "wk:page":"%C4%8Cernochov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f67d871f00d728542dff8ff4d23fd946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1360092477,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1360092477,
+    "wof:lastmodified":1537700373,
+    "wof:name":"Cernochov",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73196,
+    48.44118,
+    21.73196,
+    48.44118
+],
+  "geometry": {"coordinates":[21.73196,48.44118],"type":"Point"}
+}

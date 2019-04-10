@@ -1,0 +1,119 @@
+{
+  "id": 1125851857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20861,49.13432,20.20861,49.13432",
+    "geom:latitude":49.13432,
+    "geom:longitude":20.20861,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.13432,
+    "lbl:longitude":20.20861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajt\u00e1traf\u00fcred"
+    ],
+    "name:nan_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
+    "name:pol_x_preferred":[
+        "Nowy Smokowiec"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Nov\u00fd Szmeks"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724015,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nov\u00fd Smokovec",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":348787,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821336,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724015,
+        "gp:id":821336,
+        "qs_pg:id":348787,
+        "wd:id":"Q897159"
+    },
+    "wof:country":"SK",
+    "wof:created":1497293441,
+    "wof:geomhash":"d32325be834a08d4bf1e7a9ebd65b5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125851857,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125851857,
+    "wof:lastmodified":1514505209,
+    "wof:name":"Nov\u00fd Smokovec",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20861,
+    49.13432,
+    20.20861,
+    49.13432
+],
+  "geometry": {"coordinates":[20.20861,49.13432],"type":"Point"}
+}

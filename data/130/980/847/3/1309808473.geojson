@@ -1,0 +1,68 @@
+{
+  "id": 1309808473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88477,49.3033,21.88477,49.3033",
+    "geom:latitude":49.3033,
+    "geom:longitude":21.88477,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Borov",
+    "gn:country_code":"SK",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725097,
+    "gn:latitude":49.3033,
+    "gn:longitude":21.88477,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Borov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725097,
+        "wk:page":"Borov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1f6005e765eee44cbe0fec026f3b56dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080617,
+            "locality_id":1309808473,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1309808473,
+    "wof:lastmodified":1537573584,
+    "wof:name":"Borov",
+    "wof:parent_id":102080617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88477,
+    49.3033,
+    21.88477,
+    49.3033
+],
+  "geometry": {"coordinates":[21.88477,49.3033],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310601721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60792,48.02544,18.60792,48.02544",
+    "geom:latitude":48.02544,
+    "geom:longitude":18.60792,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Karolina",
+    "gn:country_code":"SK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059561,
+    "gn:latitude":48.02544,
+    "gn:longitude":18.60792,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Karolinamajor"
+    ],
+    "name:und_x_variant":[
+        "Dvor Karol\u00edna",
+        "Karolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059561
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a9f13afe138907a751f2ee0c047bcafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1310601721,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310601721,
+    "wof:lastmodified":1537700415,
+    "wof:name":"Karolina",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60792,
+    48.02544,
+    18.60792,
+    48.02544
+],
+  "geometry": {"coordinates":[18.60792,48.02544],"type":"Point"}
+}

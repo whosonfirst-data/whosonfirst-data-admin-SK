@@ -1,0 +1,138 @@
+{
+  "id": 101782919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1016947.606042,
+    "geom:bbox":"21.0589652732,48.5859022641,21.0746809225,48.6018057793",
+    "geom:latitude":48.593611,
+    "geom:longitude":21.065336,
+    "iso:country":"SK",
+    "lbl:latitude":48.594176,
+    "lbl:longitude":21.063908,
+    "mps:latitude":48.594176,
+    "mps:longitude":21.063908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:deu_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:dut_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:eng_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:epo_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:fra_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:fre_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:ger_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00e9cs"
+    ],
+    "name:ita_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:may_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:msa_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:nan_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:nld_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:pol_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:slk_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:slo_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0447\u0435\u0458\u043e\u0432\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Cs\u00e9cs"
+    ],
+    "name:war_x_preferred":[
+        "\u010ce\u010dejovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010ce\u010dejovce",
+    "qs:la_lc":"*SK426521302",
+    "qs:level":"locality",
+    "qs:loc":"\u010ce\u010dejovce",
+    "qs:loc_alt":"Cecejovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1123,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725010,
+        "gp:id":818890,
+        "qs:id":1270972,
+        "wd:id":"Q341403",
+        "wk:page":"\u010ce\u010dejovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3a09193b058387c87ef2a49efe902013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782919,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782919,
+    "wof:lastmodified":1527688324,
+    "wof:name":"\u010ce\u010dejovce",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0589652732113,
+    48.58590226413577,
+    21.07468092254345,
+    48.60180577926383
+],
+  "geometry": {"coordinates":[[[21.07034887514953,48.59935652727097],[21.06895967698915,48.59314073855097],[21.06761688914287,48.59327541010452],[21.06702172179462,48.59061147982783],[21.06836444022667,48.59047681655193],[21.06776928376871,48.58781288702301],[21.07179719141737,48.58740882480998],[21.07199563738101,48.58829679387861],[21.07468092254345,48.58802733254004],[21.07428394701367,48.58625140460538],[21.06891353544825,48.58679024039679],[21.06871515359381,48.58590226413577],[21.06200210693908,48.58657543054159],[21.06259693226389,48.58923939818607],[21.06125423382207,48.58937399113285],[21.06145250362812,48.59026198143277],[21.06010977548061,48.59039656093341],[21.06030803106574,48.59128455315465],[21.0589652732113,48.59141911920824],[21.06055145379764,48.59852304894923],[21.06323733322535,48.59825385651487],[21.0640308227799,48.60180577926383],[21.06940287311534,48.60126715576905],[21.06900592530275,48.59949121814225],[21.07034887514953,48.59935652727097]]],"type":"Polygon"}
+}

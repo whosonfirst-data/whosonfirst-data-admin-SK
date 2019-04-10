@@ -1,0 +1,67 @@
+{
+  "id": 1293501169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65457,48.74099,19.65457,48.74099",
+    "geom:latitude":48.74099,
+    "geom:longitude":19.65457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vydrovo",
+    "gn:country_code":"SK",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056671,
+    "gn:latitude":48.74099,
+    "gn:longitude":19.65457,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Vydrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056671
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f10da14849c65318ba4a1c17ae688e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1293501169,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293501169,
+    "wof:lastmodified":1536767688,
+    "wof:name":"Vydrovo",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65457,
+    48.74099,
+    19.65457,
+    48.74099
+],
+  "geometry": {"coordinates":[19.65457,48.74099],"type":"Point"}
+}

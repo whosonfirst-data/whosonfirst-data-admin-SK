@@ -1,0 +1,140 @@
+{
+  "id": 101858957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.445435,49.064128,19.445435,49.064128",
+    "geom:latitude":49.064128,
+    "geom:longitude":19.445435,
+    "iso:country":"SK",
+    "lbl:latitude":49.064128,
+    "lbl:longitude":19.445435,
+    "mps:latitude":49.064128,
+    "mps:longitude":19.445435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:ces_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:cze_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:ger_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9metlipcse"
+    ],
+    "name:ita_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:may_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:nld_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:pol_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:slo_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u0409\u0443\u043f\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nemeck\u00e1 \u013eup\u010da"
+    ],
+    "name:war_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Liptovsk\u00fd Mikul\u00e1\u0161",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Partiz\u00e1nska \u013dup\u010da",
+    "qs:loc_alt":"Partizanska Lupca",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058269,
+        "gp:id":821507,
+        "qs:id":1181706,
+        "wd:id":"Q1091734",
+        "wk:page":"Partiz\u00e1nska \u013dup\u010da"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ab856a8917eaffcc5b8505b0359d9c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":101858957,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101858957,
+    "wof:lastmodified":1544744668,
+    "wof:name":"Partiz\u00e1nska \u013dup\u010da",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.445435,
+    49.064128,
+    19.445435,
+    49.064128
+],
+  "geometry": {"coordinates":[19.445435,49.064128],"type":"Point"}
+}

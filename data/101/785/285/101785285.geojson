@@ -1,0 +1,138 @@
+{
+  "id": 101785285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1375938.151025,
+    "geom:bbox":"16.986364712,48.3619265221,17.0148464417,48.3778241737",
+    "geom:latitude":48.371902,
+    "geom:longitude":17.002048,
+    "iso:country":"SK",
+    "lbl:latitude":48.371646,
+    "lbl:longitude":17.001832,
+    "mps:latitude":48.371646,
+    "mps:longitude":17.001832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:ces_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:cze_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:deu_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:dut_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:eng_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:epo_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:fra_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:fre_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:ger_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:hun_x_preferred":[
+        "Detrek\u0151cs\u00fct\u00f6rt\u00f6k"
+    ],
+    "name:ita_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:may_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:msa_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:nan_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:nld_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:por_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:slo_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0432\u0435\u0446\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Plaveck\u00fd \u0160tvrtok"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Malacky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"L\u00e1b",
+    "qs:la_lc":"*SK106508039",
+    "qs:level":"locality",
+    "qs:loc":"Plaveck\u00fd \u0160tvrtok",
+    "qs:loc_alt":"Plavecky Stvrtok",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058182,
+        "gp:id":821611,
+        "qs:id":345007,
+        "wd:id":"Q163449",
+        "wk:page":"Plaveck\u00fd \u0160tvrtok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4f163db262d9ea8aa733281e4aee0686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":101785285,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101785285,
+    "wof:lastmodified":1527684900,
+    "wof:name":"Plaveck\u00fd \u0160tvrtok",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98636471201439,
+    48.36192652208405,
+    17.01484644170807,
+    48.37782417371403
+],
+  "geometry": {"coordinates":[[[16.99871378521914,48.37667352236082],[17.00274700532299,48.37641777558684],[17.00287189167068,48.37731281654408],[17.00421631368795,48.37722753323624],[17.00396649941467,48.37543745426905],[17.01068831124979,48.37501081045684],[17.01081333358769,48.37590584147074],[17.01215770711201,48.37582046200816],[17.01228275869283,48.37671549072275],[17.01362715166988,48.37663009319351],[17.01350207648557,48.37573506622897],[17.01484644170807,48.37564965413293],[17.01459626105782,48.37385960205643],[17.01325194303917,48.3739450106516],[17.013126884776,48.37304998203859],[17.01178258620683,48.37313537256773],[17.01140751605021,48.37045027818164],[17.00737480783789,48.3707063361307],[17.00712493083347,48.36891625996464],[17.00578073366211,48.36900157648739],[17.00515625770174,48.36452636771492],[17.00381217435313,48.36461165918485],[17.00343762711901,48.36192652208405],[17.00209361039583,48.36201179199963],[17.00221843025588,48.36290683999658],[17.00087438580255,48.36299209534656],[17.00112399522692,48.36478219318542],[16.99977989945108,48.36486743571595],[17.00015428501644,48.36755258359369],[16.99881011431921,48.36763781504993],[16.99893489716709,48.36853286499041],[16.99490228944398,48.36878846671061],[16.99502700712708,48.36968352133999],[16.99368277267604,48.36976869102921],[16.99380747238473,48.37066374685475],[16.99515173043466,48.37057857542044],[16.99565067991625,48.37415878625558],[16.99027324525599,48.37449940201981],[16.9903979022726,48.3753944603381],[16.98636471201439,48.37564975606347],[16.98648930383376,48.37654481906623],[16.99455578874722,48.37603407028979],[16.99480527253763,48.37782417371403],[16.99883860074863,48.37756856855992],[16.99871378521914,48.37667352236082]]],"type":"Polygon"}
+}

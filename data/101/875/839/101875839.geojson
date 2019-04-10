@@ -1,0 +1,183 @@
+{
+  "id": 101875839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.652765,48.888564,21.652765,48.888564",
+    "geom:latitude":48.888564,
+    "geom:longitude":21.652765,
+    "gn:population":23246,
+    "iso:country":"SK",
+    "lbl:latitude":48.888564,
+    "lbl:longitude":21.652765,
+    "mps:latitude":48.888564,
+    "mps:longitude":21.652765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0627\u0646\u0648\u0641 \u0646\u0627\u062f \u062a\u0648\u0628\u0644\u0648\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Vranov nad Toplyou"
+    ],
+    "name:cat_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:deu_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:deu_x_variant":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:eng_x_preferred":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:epo_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u0646\u0648 \u0646\u0627\u062f \u062a\u067e\u0644\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:fra_x_variant":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:hbs_x_preferred":[
+        "Vranov na Toploj"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3k\u00f6cs\u00e9ny"
+    ],
+    "name:hun_x_variant":[
+        "Varann\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:lav_x_preferred":[
+        "Vranova pie Top\u013cas"
+    ],
+    "name:lit_x_preferred":[
+        "Vranovas prie Toplios"
+    ],
+    "name:msa_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:pol_x_variant":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:ron_x_preferred":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u0456\u0432 \u043d\u0430\u0434 \u0422\u043e\u043f\u043b\u0451\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u043e\u0432-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u0451\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Ku\u010d\u00edn"
+    ],
+    "name:slk_x_variant":[
+        "Vranov nad Top\u013eou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u043e\u0432 \u043d\u0430 \u0422\u043e\u043f\u043b\u043e\u0458"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u043e\u0432-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
+    ],
+    "name:und_x_preferred":[
+        "Vranov Nad Toplou"
+    ],
+    "name:unk_x_variant":[
+        "Vranov"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u666e\u62c9\u6cb3\u7554\u5f17\u62c9\u8afe\u592b"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vranov nad Top\u013eou",
+    "qs:loc_alt":"Vranov nad Toplou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070dc736-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":723195,
+        "gp:id":823125,
+        "loc:id":"n2002124572",
+        "qs:id":213152,
+        "qs_pg:id":213152,
+        "wd:id":"Q842005",
+        "wk:page":"Vranov nad Top\u013eou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"77cdb0847fc94d66e7f4eba498ba7497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101875839,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101875839,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544751965,
+    "wof:name":"Vranov nad Top\u013eou",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:population":23246,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.652765,
+    48.888564,
+    21.652765,
+    48.888564
+],
+  "geometry": {"coordinates":[21.652765,48.888564],"type":"Point"}
+}

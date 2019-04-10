@@ -1,0 +1,132 @@
+{
+  "id": 1125860969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43515,49.06476,19.43515,49.06476",
+    "geom:latitude":49.06476,
+    "geom:longitude":19.43515,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.06476,
+    "lbl:longitude":19.43515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:cze_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:ger_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9metlipcse"
+    ],
+    "name:ita_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:may_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:pol_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:slo_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u0409\u0443\u043f\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nemeck\u00e1 \u013eup\u010da"
+    ],
+    "name:war_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058269,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Partiz\u00e1nska L\u0315up\u010da",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1181706,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821507,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058269,
+        "gp:id":821507,
+        "qs_pg:id":1181706,
+        "wd:id":"Q1091734"
+    },
+    "wof:country":"SK",
+    "wof:created":1497293828,
+    "wof:geomhash":"dfadd268ee06a23b64be9edeae448a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1125860969,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125860969,
+    "wof:lastmodified":1514505217,
+    "wof:name":"Partiz\u00e1nska L\u0315up\u010da",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43515,
+    49.06476,
+    19.43515,
+    49.06476
+],
+  "geometry": {"coordinates":[19.43515,49.06476],"type":"Point"}
+}

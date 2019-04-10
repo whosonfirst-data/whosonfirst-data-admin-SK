@@ -1,0 +1,71 @@
+{
+  "id": 1226342687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88337,48.00833,17.88337,48.00833",
+    "geom:latitude":48.00833,
+    "geom:longitude":17.88337,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Batona",
+    "gn:country_code":"SK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061162,
+    "gn:latitude":48.00833,
+    "gn:longitude":17.88337,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bato\u0148a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Bato\u0148a",
+        "Bato\u0148a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061162
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"483a87b09c3cb69fad983e88b7841281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080467,
+            "locality_id":1226342687,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226342687,
+    "wof:lastmodified":1537700437,
+    "wof:name":"Batona",
+    "wof:parent_id":102080467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88337000000001,
+    48.00833,
+    17.88337000000001,
+    48.00833
+],
+  "geometry": {"coordinates":[17.88337000000001,48.00833],"type":"Point"}
+}

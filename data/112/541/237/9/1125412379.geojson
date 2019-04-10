@@ -1,0 +1,82 @@
+{
+  "id": 1125412379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.996333,48.615,20.996333,48.615",
+    "geom:latitude":48.615,
+    "geom:longitude":20.996333,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.615,
+    "lbl:longitude":20.996333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Moldava Nad Bodvou",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":312,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":242103,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401943,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29401943,
+        "qs_pg:id":242103
+    },
+    "wof:country":"SK",
+    "wof:created":1497050614,
+    "wof:geomhash":"316d51c6f87321d82db9b498fabee40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "localadmin_id":1125412379,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125412379,
+    "wof:lastmodified":1509390293,
+    "wof:name":"Moldava Nad Bodvou",
+    "wof:parent_id":102080557,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.996333,
+    48.615,
+    20.996333,
+    48.615
+],
+  "geometry": {"coordinates":[20.996333,48.615],"type":"Point"}
+}

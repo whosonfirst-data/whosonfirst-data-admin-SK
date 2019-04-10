@@ -1,0 +1,68 @@
+{
+  "id": 1360303143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17724,48.19588,19.17724,48.19588",
+    "geom:latitude":48.19588,
+    "geom:longitude":19.17724,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Opava",
+    "gn:country_code":"SK",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058383,
+    "gn:latitude":48.19588,
+    "gn:longitude":19.17724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Opava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058383,
+        "wk:page":"Opava%2C_Ve%C4%BEk%C3%BD_Krt%C3%AD%C5%A1_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5e53edb37164ea2749947c7ff17fe4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1360303143,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1360303143,
+    "wof:lastmodified":1537573596,
+    "wof:name":"Opava",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17724,
+    48.19588,
+    19.17724,
+    48.19588
+],
+  "geometry": {"coordinates":[19.17724,48.19588],"type":"Point"}
+}

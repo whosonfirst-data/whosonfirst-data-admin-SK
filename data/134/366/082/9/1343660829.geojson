@@ -1,0 +1,72 @@
+{
+  "id": 1343660829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15251,49.14074,22.15251,49.14074",
+    "geom:latitude":49.14074,
+    "geom:longitude":22.15251,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Osadne",
+    "gn:country_code":"SK",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723960,
+    "gn:latitude":49.14074,
+    "gn:longitude":22.15251,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Osadn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telepovce",
+        "Osadn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723960,
+        "wk:page":"Osadn%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f360930f7bbb07f241eaa3eb08c124d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1343660829,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343660829,
+    "wof:lastmodified":1537700355,
+    "wof:name":"Osadne",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15251,
+    49.14074,
+    22.15251,
+    49.14074
+],
+  "geometry": {"coordinates":[22.15251,49.14074],"type":"Point"}
+}

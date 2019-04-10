@@ -1,0 +1,71 @@
+{
+  "id": 1343585173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37898,48.76368,18.37898,48.76368",
+    "geom:latitude":48.76368,
+    "geom:longitude":18.37898,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uhrovske Podhradie",
+    "gn:country_code":"SK",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057040,
+    "gn:latitude":48.76368,
+    "gn:longitude":18.37898,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uhrovsk\u00e9 Podhradie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uhrovsk\u00e9 Podhradie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057040,
+        "wk:page":"Uhrovsk%C3%A9_Podhradie"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8e094361a7480cf811eb96ec975c1619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1343585173,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343585173,
+    "wof:lastmodified":1537700384,
+    "wof:name":"Uhrovske Podhradie",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37898,
+    48.76368,
+    18.37898,
+    48.76368
+],
+  "geometry": {"coordinates":[18.37898,48.76368],"type":"Point"}
+}

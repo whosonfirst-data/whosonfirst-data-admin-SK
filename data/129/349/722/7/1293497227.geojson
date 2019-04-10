@@ -1,0 +1,67 @@
+{
+  "id": 1293497227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85,48.21667,19.85,48.21667",
+    "geom:latitude":48.21667,
+    "geom:longitude":19.85,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cure",
+    "gn:country_code":"SK",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060619,
+    "gn:latitude":48.21667,
+    "gn:longitude":19.85,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"\u010cure",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060619
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6f61bbbf6c8e5dbd0ea271ba70d24f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1293497227,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293497227,
+    "wof:lastmodified":1536773562,
+    "wof:name":"Cure",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85,
+    48.21667,
+    19.85,
+    48.21667
+],
+  "geometry": {"coordinates":[19.85,48.21667],"type":"Point"}
+}

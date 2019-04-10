@@ -1,0 +1,67 @@
+{
+  "id": 1343785875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35516,49.26223,18.35516,49.26223",
+    "geom:latitude":49.26223,
+    "geom:longitude":18.35516,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Modlatin",
+    "gn:country_code":"SK",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058665,
+    "gn:latitude":49.26223,
+    "gn:longitude":18.35516,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Modlat\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058665
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0e081ef7773cd3f5b92b41ded4ae56c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1343785875,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343785875,
+    "wof:lastmodified":1536774971,
+    "wof:name":"Modlatin",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35516,
+    49.26223,
+    18.35516,
+    49.26223
+],
+  "geometry": {"coordinates":[18.35516,49.26223],"type":"Point"}
+}

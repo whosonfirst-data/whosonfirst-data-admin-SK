@@ -1,0 +1,71 @@
+{
+  "id": 1360189295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39966,49.07974,21.39966,49.07974",
+    "geom:latitude":49.07974,
+    "geom:longitude":21.39966,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Celovce",
+    "gn:country_code":"SK",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725006,
+    "gn:latitude":49.07974,
+    "gn:longitude":21.39966,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"\u010celovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725006,
+        "wk:page":"%C4%8Celovce%2C_Pre%C5%A1ov_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1308f94dc5b98c363458f6e8a9b29886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1360189295,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1360189295,
+    "wof:lastmodified":1537700374,
+    "wof:name":"Celovce",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39966,
+    49.07974,
+    21.39966,
+    49.07974
+],
+  "geometry": {"coordinates":[21.39966,49.07974],"type":"Point"}
+}

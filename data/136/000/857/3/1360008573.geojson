@@ -1,0 +1,71 @@
+{
+  "id": 1360008573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16952,49.10199,22.16952,49.10199",
+    "geom:latitude":49.10199,
+    "geom:longitude":22.16952,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cukalovce",
+    "gn:country_code":"SK",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724923,
+    "gn:latitude":49.10199,
+    "gn:longitude":22.16952,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cukalovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cukalovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724923,
+        "wk:page":"%C4%8Cukalovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"629266fda22cb05e4ba18c9e97447713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1360008573,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1360008573,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Cukalovce",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16952,
+    49.10199,
+    22.16952,
+    49.10199
+],
+  "geometry": {"coordinates":[22.16952,49.10199],"type":"Point"}
+}

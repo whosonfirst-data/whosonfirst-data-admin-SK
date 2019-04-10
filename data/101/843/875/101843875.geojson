@@ -1,0 +1,135 @@
+{
+  "id": 101843875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":827530.263771,
+    "geom:bbox":"21.0125569359,48.5896667787,21.0313177129,48.6024190538",
+    "geom:latitude":48.595505,
+    "geom:longitude":21.021346,
+    "iso:country":"SK",
+    "lbl:latitude":48.59565,
+    "lbl:longitude":21.021204,
+    "mps:latitude":48.59565,
+    "mps:longitude":21.021204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mokrance"
+    ],
+    "name:deu_x_preferred":[
+        "Mokrance"
+    ],
+    "name:dut_x_preferred":[
+        "Mokrance"
+    ],
+    "name:eng_x_preferred":[
+        "Mokrance"
+    ],
+    "name:epo_x_preferred":[
+        "Mokrance"
+    ],
+    "name:fra_x_preferred":[
+        "Mokrance"
+    ],
+    "name:fre_x_preferred":[
+        "Mokrance"
+    ],
+    "name:ger_x_preferred":[
+        "Mokrance"
+    ],
+    "name:hun_x_preferred":[
+        "Makranc"
+    ],
+    "name:ita_x_preferred":[
+        "Mokrance"
+    ],
+    "name:may_x_preferred":[
+        "Mokrance"
+    ],
+    "name:msa_x_preferred":[
+        "Mokrance"
+    ],
+    "name:nld_x_preferred":[
+        "Mokrance"
+    ],
+    "name:pol_x_preferred":[
+        "Mokrance"
+    ],
+    "name:slk_x_preferred":[
+        "Mokrance"
+    ],
+    "name:slo_x_preferred":[
+        "Mokrance"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0430\u043d\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Mokrance"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Mokrance"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Mokrance",
+    "qs:la_lc":"*SK426521680",
+    "qs:level":"locality",
+    "qs:loc":"Mokrance",
+    "qs:loc_alt":"Mokrance",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724113,
+        "gp:id":821093,
+        "qs:id":1271454,
+        "wd:id":"Q1050552",
+        "wk:page":"Mokrance"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7eef37541b0cef5496cadb4704eb8a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101843875,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843875,
+    "wof:lastmodified":1527642591,
+    "wof:name":"Mokrance",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01255693593885,
+    48.58966677865362,
+    21.03131771289691,
+    48.6024190538372
+],
+  "geometry": {"coordinates":[[[21.02294638444175,48.60228493576835],[21.02235344461531,48.59962073710687],[21.02369650186739,48.59948661107478],[21.02330120679392,48.59771047997094],[21.02464421118481,48.59757634322779],[21.02424890536827,48.59580021429247],[21.02693480188771,48.5955319031782],[21.02634177094029,48.59286772002571],[21.02768463992555,48.59273354840559],[21.02748695757845,48.59184548843848],[21.0301726296035,48.59157710207791],[21.02997490985609,48.59068904677696],[21.03131771289691,48.59055483203787],[21.03111997889778,48.58966677865362],[21.01769188524906,48.5910081692947],[21.0184819487028,48.59456048777724],[21.01713901073362,48.59469454869605],[21.01733652565696,48.59558262898395],[21.01599355798993,48.59571667644173],[21.01638856818391,48.59749284001634],[21.01504554766228,48.59762687675931],[21.01524304293042,48.5985149600462],[21.01255693593885,48.59878299039826],[21.01295186049589,48.60055916546429],[21.01563806012166,48.60029112412531],[21.01583558204635,48.60117920491786],[21.021207995373,48.60064291673064],[21.02160325116409,48.6024190538372],[21.02294638444175,48.60228493576835]]],"type":"Polygon"}
+}

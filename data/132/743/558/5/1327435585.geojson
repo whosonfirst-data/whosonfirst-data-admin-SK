@@ -1,0 +1,73 @@
+{
+  "id": 1327435585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00185,48.59023,19.00185,48.59023",
+    "geom:latitude":48.59023,
+    "geom:longitude":19.00185,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hronska Dubrava",
+    "gn:country_code":"SK",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059855,
+    "gn:latitude":48.59023,
+    "gn:longitude":19.00185,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hronsk\u00e1 D\u00fabrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00fabrav",
+        "D\u00fabrava",
+        "Hronsk\u00e1 D\u00fabrava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059855,
+        "wk:page":"Hronsk%C3%A1_D%C3%BAbrava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f762b79e9e0b0e2b87a0ae3a5cfc2353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1327435585,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1327435585,
+    "wof:lastmodified":1537700418,
+    "wof:name":"Hronska Dubrava",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00185,
+    48.59023,
+    19.00185,
+    48.59023
+],
+  "geometry": {"coordinates":[19.00185,48.59023],"type":"Point"}
+}

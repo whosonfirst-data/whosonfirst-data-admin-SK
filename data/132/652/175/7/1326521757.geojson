@@ -1,0 +1,67 @@
+{
+  "id": 1326521757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39679,48.57377,17.39679,48.57377",
+    "geom:latitude":48.57377,
+    "geom:longitude":17.39679,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rozbehy",
+    "gn:country_code":"SK",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057821,
+    "gn:latitude":48.57377,
+    "gn:longitude":17.39679,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rozbehy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057821
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b143c0471aeed4826a9978e1f4113daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1326521757,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1326521757,
+    "wof:lastmodified":1536998442,
+    "wof:name":"Rozbehy",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39679,
+    48.57377,
+    17.39679,
+    48.57377
+],
+  "geometry": {"coordinates":[17.39679,48.57377],"type":"Point"}
+}

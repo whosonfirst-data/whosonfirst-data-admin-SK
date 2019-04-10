@@ -1,0 +1,67 @@
+{
+  "id": 1242975487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51123,48.98562,21.51123,48.98562",
+    "geom:latitude":48.98562,
+    "geom:longitude":21.51123,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hermanovce",
+    "gn:country_code":"SK",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724716,
+    "gn:latitude":48.98562,
+    "gn:longitude":21.51123,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Hermanovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724716
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7061d744cdd57ce8ea5c3a0e6685a163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1242975487,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1242975487,
+    "wof:lastmodified":1536986687,
+    "wof:name":"Hermanovce",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51123,
+    48.98562,
+    21.51123,
+    48.98562
+],
+  "geometry": {"coordinates":[21.51123,48.98562],"type":"Point"}
+}

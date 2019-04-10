@@ -1,0 +1,72 @@
+{
+  "id": 1326935057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90928,49.17808,21.90928,49.17808",
+    "geom:latitude":49.17808,
+    "geom:longitude":21.90928,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizne Cabiny",
+    "gn:country_code":"SK",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724051,
+    "gn:latitude":49.17808,
+    "gn:longitude":21.90928,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e9 \u010cabiny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017enie \u010cabiny",
+        "Ni\u017en\u00ed \u010cabiny",
+        "Ni\u017en\u00e9 \u010cabiny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724051
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ed90c34a7a4c4632d839a30f16ba2306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080617,
+            "locality_id":1326935057,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1326935057,
+    "wof:lastmodified":1537700357,
+    "wof:name":"Nizne Cabiny",
+    "wof:parent_id":102080617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90928,
+    49.17808,
+    21.90928,
+    49.17808
+],
+  "geometry": {"coordinates":[21.90928,49.17808],"type":"Point"}
+}

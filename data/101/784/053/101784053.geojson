@@ -1,0 +1,144 @@
+{
+  "id": 101784053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":797638.873445,
+    "geom:bbox":"18.6106858142,48.376416131,18.6246075154,48.3937446918",
+    "geom:latitude":48.385574,
+    "geom:longitude":18.61799,
+    "iso:country":"SK",
+    "lbl:latitude":48.386271,
+    "lbl:longitude":18.619045,
+    "mps:latitude":48.386271,
+    "mps:longitude":18.619045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:ces_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:cze_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:deu_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:dut_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:eng_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:epo_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:fra_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:fre_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:ger_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:hun_x_preferred":[
+        "Barsberzence"
+    ],
+    "name:ita_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:may_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:msa_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:nan_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:nld_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:pol_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:slo_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0458\u0435\u043a\u043e\u0432\u0441\u043a\u0430 \u0411\u0440\u0435\u0437\u045a\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Brezovica"
+    ],
+    "name:war_x_preferred":[
+        "Tekovsk\u00e1 Breznica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017darnovica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tekovsk\u00e1 Breznica",
+    "qs:la_lc":"*SK32C517291",
+    "qs:level":"locality",
+    "qs:loc":"Tekovsk\u00e1 Breznica",
+    "qs:loc_alt":"Tekovska Breznica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":305,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060941,
+        "gp:id":818742,
+        "qs:id":884323,
+        "qs_pg:id":358326,
+        "wd:id":"Q790780",
+        "wk:page":"Tekovsk\u00e1 Breznica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3e1da88e48ec935b11f27ecedc5c2392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":101784053,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784053,
+    "wof:lastmodified":1527688538,
+    "wof:name":"Tekovsk\u00e1 Breznica",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6106858142353,
+    48.37641613101522,
+    18.62460751541897,
+    48.39374469180581
+],
+  "geometry": {"coordinates":[[[18.62315331489577,48.39363974160671],[18.62253822360941,48.39006920034046],[18.6238804558381,48.38996424247301],[18.62326538176995,48.3863936993825],[18.62460751541897,48.38628873384829],[18.62399245857512,48.38271818892986],[18.61862426732165,48.38313791919569],[18.61847061386777,48.38224527275361],[18.61578653444366,48.3824550360743],[18.61547934173541,48.38066973265734],[18.61413734112483,48.38077458564834],[18.6139837785002,48.37988193081935],[18.61264179616904,48.37998676541315],[18.61202770820069,48.37641613101522],[18.6106858142353,48.37652094078231],[18.61237456508911,48.38634018391343],[18.61371671607822,48.38623535056416],[18.61402389824275,48.38802065475397],[18.61536609088955,48.38791580086007],[18.61551971571259,48.38880844983453],[18.61686192664541,48.38870357753967],[18.61701558175594,48.38959622371851],[18.61970003510208,48.38938642606956],[18.62031491170507,48.39295698711288],[18.62165722424584,48.39285205531803],[18.62181098406973,48.39374469180581],[18.62315331489577,48.39363974160671]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125834041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.038619,49.194717,19.038619,49.194717",
+    "geom:latitude":49.194717,
+    "geom:longitude":19.038619,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.194717,
+    "lbl:longitude":19.038619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vratna",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos":278,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":278,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091621,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402945,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402945,
+        "qs_pg:id":1091621
+    },
+    "wof:country":"SK",
+    "wof:created":1497292631,
+    "wof:geomhash":"9b1c9254d202cc11a14bd71e75fd2bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1125834041,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125834041,
+    "wof:lastmodified":1509394878,
+    "wof:name":"Vratna",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.038619,
+    49.194717,
+    19.038619,
+    49.194717
+],
+  "geometry": {"coordinates":[19.038619,49.194717],"type":"Point"}
+}

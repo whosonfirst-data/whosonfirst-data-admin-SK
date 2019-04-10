@@ -1,0 +1,70 @@
+{
+  "id": 1242692951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98333,48.3,16.98333,48.3",
+    "geom:latitude":48.3,
+    "geom:longitude":16.98333,
+    "gn:asciiname":"Piesky",
+    "gn:cc2":"CZ",
+    "gn:country_code":"SK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068322,
+    "gn:latitude":48.3,
+    "gn:longitude":16.98333,
+    "gn:modification_date":"2007-04-28",
+    "gn:name":"Piesky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Piesky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068322
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"52164cd0c9c98cc5816761b95dab228a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":1242692951,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1242692951,
+    "wof:lastmodified":1537700439,
+    "wof:name":"Piesky",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98333,
+    48.3,
+    16.98333,
+    48.3
+],
+  "geometry": {"coordinates":[16.98333,48.3],"type":"Point"}
+}

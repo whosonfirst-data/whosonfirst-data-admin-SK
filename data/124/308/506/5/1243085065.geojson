@@ -1,0 +1,72 @@
+{
+  "id": 1243085065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85133,48.24253,19.85133,48.24253",
+    "geom:latitude":48.24253,
+    "geom:longitude":19.85133,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Belina",
+    "gn:country_code":"SK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061137,
+    "gn:latitude":48.24253,
+    "gn:longitude":19.85133,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9na",
+        "Belina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061137,
+        "wk:page":"Belina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2cb863b57e943639b21d4547d1eb8870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1243085065,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243085065,
+    "wof:lastmodified":1537700437,
+    "wof:name":"Belina",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85133,
+    48.24253,
+    19.85133,
+    48.24253
+],
+  "geometry": {"coordinates":[19.85133,48.24253],"type":"Point"}
+}

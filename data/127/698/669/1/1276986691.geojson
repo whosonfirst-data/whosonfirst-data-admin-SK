@@ -1,0 +1,71 @@
+{
+  "id": 1276986691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41209,48.32064,18.41209,48.32064",
+    "geom:latitude":48.32064,
+    "geom:longitude":18.41209,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ke Vozokany",
+    "gn:country_code":"SK",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056852,
+    "gn:latitude":48.32064,
+    "gn:longitude":18.41209,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e9 Vozokany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00e9 Vozokany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056852,
+        "wk:page":"Ve%C4%BEk%C3%A9_Vozokany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a0bfb90796e7a26f3fba090b51f0eae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1276986691,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1276986691,
+    "wof:lastmodified":1537700382,
+    "wof:name":"Vel'ke Vozokany",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41209,
+    48.32064,
+    18.41209,
+    48.32064
+],
+  "geometry": {"coordinates":[18.41209,48.32064],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125327841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.305349,48.336276,17.305349,48.336276",
+    "geom:latitude":48.336276,
+    "geom:longitude":17.305349,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.336276,
+    "lbl:longitude":17.305349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Modra",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":156,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112863,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401239,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29401239,
+        "qs_pg:id":1112863
+    },
+    "wof:country":"SK",
+    "wof:created":1497044924,
+    "wof:geomhash":"615b590fb9ffe601a1898fd4d3e52e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080471,
+            "localadmin_id":1125327841,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1125327841,
+    "wof:lastmodified":1509388289,
+    "wof:name":"Modra",
+    "wof:parent_id":102080471,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.305349,
+    48.336276,
+    17.305349,
+    48.336276
+],
+  "geometry": {"coordinates":[17.305349,48.336276],"type":"Point"}
+}

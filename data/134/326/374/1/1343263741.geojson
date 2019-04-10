@@ -1,0 +1,75 @@
+{
+  "id": 1343263741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9778,48.65073,20.9778,48.65073",
+    "geom:latitude":48.65073,
+    "geom:longitude":20.9778,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Debrad'",
+    "gn:country_code":"SK",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724911,
+    "gn:latitude":48.65073,
+    "gn:longitude":20.9778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Debra\u010f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Debr\u0151d"
+    ],
+    "name:und_x_variant":[
+        "Debra\u010f",
+        "Debr\u0151d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724911,
+        "wk:page":"Debra%C4%8F"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"173a01ac76c106fae48c2de2b5b8a628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1343263741,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1343263741,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Debrad'",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9778,
+    48.65073,
+    20.9778,
+    48.65073
+],
+  "geometry": {"coordinates":[20.9778,48.65073],"type":"Point"}
+}

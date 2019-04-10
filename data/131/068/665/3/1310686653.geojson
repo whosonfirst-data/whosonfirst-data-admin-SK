@@ -1,0 +1,67 @@
+{
+  "id": 1310686653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49253,49.25789,18.49253,49.25789",
+    "geom:latitude":49.25789,
+    "geom:longitude":18.49253,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Setechov",
+    "gn:country_code":"SK",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057683,
+    "gn:latitude":49.25789,
+    "gn:longitude":18.49253,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Setechov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057683
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f6fe5563c89e4ef1c93ccaf111f0a2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080581,
+            "locality_id":1310686653,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1310686653,
+    "wof:lastmodified":1536655650,
+    "wof:name":"Setechov",
+    "wof:parent_id":102080581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49253,
+    49.25789,
+    18.49253,
+    49.25789
+],
+  "geometry": {"coordinates":[18.49253,49.25789],"type":"Point"}
+}

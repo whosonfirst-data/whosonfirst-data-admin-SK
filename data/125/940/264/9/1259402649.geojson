@@ -1,0 +1,72 @@
+{
+  "id": 1259402649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82946,48.78617,18.82946,48.78617",
+    "geom:latitude":48.78617,
+    "geom:longitude":18.82946,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sklene",
+    "gn:country_code":"SK",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057614,
+    "gn:latitude":48.78617,
+    "gn:longitude":18.82946,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sklen\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glaserhay",
+        "Sklen\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057614,
+        "wk:page":"Sklen%C3%A9%2C_Tur%C4%8Dianske_Teplice_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1701f26737dd1efee39f85c31b3a8962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080539,
+            "locality_id":1259402649,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1259402649,
+    "wof:lastmodified":1537700391,
+    "wof:name":"Sklene",
+    "wof:parent_id":102080539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82946,
+    48.78617,
+    18.82946,
+    48.78617
+],
+  "geometry": {"coordinates":[18.82946,48.78617],"type":"Point"}
+}

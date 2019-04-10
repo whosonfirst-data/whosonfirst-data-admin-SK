@@ -1,0 +1,67 @@
+{
+  "id": 1210012217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52577,49.18494,18.52577,49.18494",
+    "geom:latitude":49.18494,
+    "geom:longitude":18.52577,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Marova",
+    "gn:country_code":"SK",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058781,
+    "gn:latitude":49.18494,
+    "gn:longitude":18.52577,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ma\u0159ov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058781
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"36627344694642e8847348c3d9de7a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080581,
+            "locality_id":1210012217,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1210012217,
+    "wof:lastmodified":1536396687,
+    "wof:name":"Marova",
+    "wof:parent_id":102080581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52577,
+    49.18494000000001,
+    18.52577,
+    49.18494000000001
+],
+  "geometry": {"coordinates":[18.52577,49.18494000000001],"type":"Point"}
+}

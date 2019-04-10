@@ -1,0 +1,126 @@
+{
+  "id": 1126016857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67643,49.10911,19.67643,49.10911",
+    "geom:latitude":49.10911,
+    "geom:longitude":19.67643,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.10911,
+    "lbl:longitude":19.67643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:cze_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:dut_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:eng_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:epo_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:fre_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9lporuba"
+    ],
+    "name:ita_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:may_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:pol_x_preferred":[
+        "Wiaterna Por\u0119ba"
+    ],
+    "name:slo_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0442\u0458\u0435\u0440\u043d\u0430 \u041f\u043e\u0440\u0443\u0431\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056790,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vetern\u00e1 Poruba",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014300,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":823033,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056790,
+        "gp:id":823033,
+        "qs_pg:id":1014300,
+        "wd:id":"Q1072443"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300602,
+    "wof:geomhash":"8c4eb3178e7a6d002f3d489a000d24a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1126016857,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1126016857,
+    "wof:lastmodified":1514505341,
+    "wof:name":"Vetern\u00e1 Poruba",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67643,
+    49.10911,
+    19.67643,
+    49.10911
+],
+  "geometry": {"coordinates":[19.67643,49.10911],"type":"Point"}
+}

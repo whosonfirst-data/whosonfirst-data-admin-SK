@@ -1,0 +1,153 @@
+{
+  "id": 101780531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000193,
+    "geom:area_square_m":1565162.363374,
+    "geom:bbox":"22.0936661881,48.9656617772,22.1270222538,48.9827796504",
+    "geom:latitude":48.974887,
+    "geom:longitude":22.108987,
+    "iso:country":"SK",
+    "lbl:latitude":48.978495,
+    "lbl:longitude":22.10507,
+    "mps:latitude":48.978495,
+    "mps:longitude":22.10507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:ces_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:cze_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:deu_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:dut_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:eng_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:epo_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:fra_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:fre_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:ger_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d4 \u05e0\u05d0\u05d3 \u05e6\u05d9\u05e8\u05d5\u05e6'\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Cir\u00f3kab\u00e9la"
+    ],
+    "name:ita_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:may_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:msa_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:nan_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:nld_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:pol_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u043d\u0430\u0434 \u0426\u0456\u0440\u043e\u0445\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430-\u043d\u0430\u0434-\u0426\u0438\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:slo_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u043d\u0430 \u0426\u0438\u0440\u043e\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0430-\u043d\u0430\u0434-\u0426\u0456\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Cirock\u00e1 Bel\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Bel\u00e1 nad Cirochou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Snina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Snina",
+    "qs:la_lc":"*SK419520802",
+    "qs:level":"locality",
+    "qs:loc":"Bel\u00e1 nad Cirochou",
+    "qs:loc_alt":"Bela nad Cirochou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725154,
+        "gp:id":818554,
+        "qs:id":1270892,
+        "wd:id":"Q816326",
+        "wk:page":"Bel\u00e1 nad Cirochou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0f7985ed7c0366d5d5fb4882cf82bfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":101780531,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780531,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Bel\u00e1 nad Cirochou",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09366618806808,
+    48.96566177721274,
+    22.12702225375273,
+    48.98277965039142
+],
+  "geometry": {"coordinates":[[[22.10330606892876,48.98277965039142],[22.11276134825818,48.98174769158339],[22.11232210000014,48.97997671231263],[22.11097141451421,48.98012417775249],[22.11075182864118,48.97923868368952],[22.10940115917424,48.97938612979783],[22.10874253120926,48.97672963294957],[22.11549545497701,48.9759922853184],[22.11483656620481,48.97333582592802],[22.11618705892658,48.97318831670663],[22.11596742586318,48.97230283145313],[22.11866834262332,48.97200777026967],[22.11844867281332,48.97112229019535],[22.12114951355795,48.97082716999506],[22.12092980700669,48.9699416951006],[22.12498094309746,48.96949890186227],[22.1243216730461,48.96684249911095],[22.12702225375273,48.96654724053622],[22.12680247028254,48.96566177721274],[22.12275165821774,48.9661046315066],[22.12297137169026,48.96699010398277],[22.11486940955865,48.96787539138705],[22.11508899295347,48.96876088124003],[22.10833703957059,48.96949818833752],[22.10877600275694,48.97126919576448],[22.10742554341363,48.97141661444158],[22.1076450165566,48.97230211982367],[22.10629452654257,48.97244952526796],[22.10651398626919,48.97333503277844],[22.10516346558336,48.97348242498907],[22.10538291189192,48.97436793462748],[22.09998066249977,48.97495735284662],[22.09976130958063,48.97407183102325],[22.09706018763336,48.97436643635291],[22.0972794938549,48.97525196426665],[22.09592889854821,48.97539924555394],[22.09614819134083,48.97628477559488],[22.09479756536052,48.97643204364471],[22.09501684472269,48.97731757581266],[22.09366618806808,48.9774648306244],[22.09388545399742,48.97835036491949],[22.09523613400557,48.97820310706311],[22.09545543320979,48.9790886373961],[22.0968061292491,48.97894136021148],[22.09702546173105,48.9798268865818],[22.09972687854537,48.97953227727152],[22.10016566670441,48.98130331507571],[22.10151641083309,48.98115597990267],[22.10173584315959,48.98204149438135],[22.10308660331629,48.9818941398778],[22.10330606892876,48.98277965039142]]],"type":"Polygon"}
+}

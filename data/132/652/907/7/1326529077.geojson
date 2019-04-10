@@ -1,0 +1,72 @@
+{
+  "id": 1326529077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37144,49.0222,21.37144,49.0222",
+    "geom:latitude":49.0222,
+    "geom:longitude":21.37144,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Okruzna",
+    "gn:country_code":"SK",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724003,
+    "gn:latitude":49.0222,
+    "gn:longitude":21.37144,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Okru\u017en\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kere\u0161tvej",
+        "Okru\u017en\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724003,
+        "wk:page":"Okru%C5%BEn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bac91805359feb380cecabdd5b80ebd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1326529077,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1326529077,
+    "wof:lastmodified":1537700356,
+    "wof:name":"Okruzna",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37144,
+    49.0222,
+    21.37144,
+    49.0222
+],
+  "geometry": {"coordinates":[21.37144,49.0222],"type":"Point"}
+}

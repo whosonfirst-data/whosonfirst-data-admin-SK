@@ -1,0 +1,128 @@
+{
+  "id": 101782741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":897333.18334,
+    "geom:bbox":"17.6387471885,48.4675788519,17.6601256167,48.4839896396",
+    "geom:latitude":48.475754,
+    "geom:longitude":17.647408,
+    "iso:country":"SK",
+    "lbl:latitude":48.475946,
+    "lbl:longitude":17.647246,
+    "mps:latitude":48.475946,
+    "mps:longitude":17.647246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0633\u0644\u0648\u0641\u0633\u0643\u064a \u0628\u0648\u0647\u0648\u0646\u064a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:ces_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:deu_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:eng_x_preferred":[
+        "Bohunice"
+    ],
+    "name:eng_x_variant":[
+        "Jaslovce"
+    ],
+    "name:epo_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:fra_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:hun_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:ita_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:msa_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:nld_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:und_x_colloquial":[
+        "Jaslovske Bohunice"
+    ],
+    "name:und_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trnava",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Jaslovsk\u00e9 Bohunice",
+    "qs:la_lc":"*SK217507156",
+    "qs:level":"locality",
+    "qs:loc":"Jaslovsk\u00e9 Bohunice",
+    "qs:loc_alt":"Jaslovske Bohunice",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070efd5e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3059687,
+        "gp:id":820026,
+        "qs:id":1251431,
+        "qs_pg:id":1251431,
+        "wd:id":"Q994459",
+        "wk:page":"Jaslovsk\u00e9 Bohunice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"04bd801b2cf4c662684ebc3a19903241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":101782741,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101782741,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527688320,
+    "wof:name":"Jaslovsk\u00e9 Bohunice",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63874718849956,
+    48.46757885192483,
+    17.66012561668623,
+    48.48398963963598
+],
+  "geometry": {"coordinates":[[[17.64467908801163,48.48380346600334],[17.64426885312059,48.48112115188678],[17.64561509839439,48.48102804630946],[17.64547834214488,48.4801339423538],[17.64682455923486,48.48004082235764],[17.64668778552516,48.47914671973319],[17.65072633859899,48.47886726749886],[17.65017902193517,48.4752908741421],[17.65152510266773,48.47519769839124],[17.65138826531864,48.47430360051072],[17.65273431787307,48.47421041034488],[17.65246061445578,48.47242221666465],[17.65380661520663,48.47232901399809],[17.6536697491415,48.47143491819872],[17.65770765321571,48.47115521797525],[17.65757072245918,48.4702611273367],[17.65891665775769,48.47016786318954],[17.65877970956183,48.46927377388317],[17.66012561668623,48.46918049532422],[17.65998865105257,48.46828640735043],[17.65729687949261,48.4684729443116],[17.65715996728142,48.46757885192483],[17.65446822475707,48.46776531975178],[17.6546050897278,48.46865941596712],[17.65325918802057,48.46875262730532],[17.65339603554872,48.46964672485228],[17.65205010567024,48.46973992177732],[17.65218693575389,48.47063402065544],[17.65084097770381,48.47072720316726],[17.6509777903409,48.47162130337625],[17.6496318041178,48.47171447147366],[17.64976859930687,48.47260857301387],[17.6430384818583,48.47307417814216],[17.64331185448378,48.47486239860046],[17.63927358770184,48.47514157720104],[17.6395468432267,48.47692980680085],[17.64089298396124,48.47683675977476],[17.64143966359364,48.48041320435487],[17.63874718849956,48.48059929736519],[17.63902047079665,48.48238752381337],[17.64036675789265,48.48229448165165],[17.6405034319377,48.48318859209297],[17.64184973812871,48.48309553168741],[17.6419864419874,48.48398963963598],[17.64467908801163,48.48380346600334]]],"type":"Polygon"}
+}

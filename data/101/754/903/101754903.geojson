@@ -1,0 +1,144 @@
+{
+  "id": 101754903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1121532.983977,
+    "geom:bbox":"18.5593356422,48.7527502733,18.578615984,48.7713342006",
+    "geom:latitude":48.761784,
+    "geom:longitude":18.57032,
+    "iso:country":"SK",
+    "lbl:latitude":48.76356,
+    "lbl:longitude":18.572876,
+    "mps:latitude":48.76356,
+    "mps:longitude":18.572876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:cze_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:deu_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:dut_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:eng_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:epo_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:fra_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:fre_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:ger_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:hbs_x_preferred":[
+        "Opatovce na Njitri"
+    ],
+    "name:hun_x_preferred":[
+        "Bajm\u00f3cap\u00e1ti"
+    ],
+    "name:ita_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:may_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:msa_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:nan_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:nld_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:slk_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:slo_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0446\u0435 \u043d\u0430 \u040a\u0438\u0442\u0440\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Opatovce nad Nitrou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bojnice",
+    "qs:la_lc":"*SK227513903",
+    "qs:level":"locality",
+    "qs:loc":"Opatovce nad Nitrou",
+    "qs:loc_alt":"Opatovce nad Nitrou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058390,
+        "gp:id":821400,
+        "qs:id":1155888,
+        "qs_pg:id":1155888,
+        "wd:id":"Q788730",
+        "wk:page":"Opatovce nad Nitrou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"46c1f63e2268f271044336c5b4aaef31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101754903,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101754903,
+    "wof:lastmodified":1527641861,
+    "wof:name":"Opatovce nad Nitrou",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.559335642169,
+    48.75275027330008,
+    18.57861598400513,
+    48.77133420059045
+],
+  "geometry": {"coordinates":[[[18.57233146959402,48.77125976461838],[18.57508560055999,48.77133420059045],[18.57502279783148,48.77097190498415],[18.5763752987944,48.77086740389456],[18.57606585298214,48.76908230926068],[18.57741830110189,48.76897779609561],[18.57726356489422,48.76808524999871],[18.57861598400513,48.76798072259686],[18.57815174601592,48.76530308702348],[18.57679939839272,48.76540760793915],[18.57602592793489,48.76094485860853],[18.57467369426303,48.76104935231984],[18.57420976765849,48.75837168869833],[18.57285760027793,48.75847615953188],[18.57239380825945,48.75579848377396],[18.56698537286235,48.75621617724062],[18.56652192974678,48.75353846991703],[18.56516987942854,48.75364284582213],[18.56501543621903,48.75275027330008],[18.56231136771726,48.75295897161362],[18.56277457546429,48.75563670024252],[18.56142246201659,48.75574103128071],[18.56188566134171,48.75841876073292],[18.56053347126817,48.7585230818479],[18.56068786122944,48.75941565923432],[18.559335642169,48.75951996611047],[18.55949001530973,48.7604125450269],[18.56219449591418,48.76020391056323],[18.56204007512531,48.7593113359618],[18.56609668581837,48.75899826776839],[18.56640567734303,48.76078340339438],[18.56775791821872,48.76067901022043],[18.56791244831874,48.7615715749327],[18.56926470784958,48.76146716320312],[18.5697284116938,48.76414484709483],[18.56702374450492,48.76435366711405],[18.56717827882181,48.7652462314748],[18.56582591364338,48.7653506190473],[18.56598043114155,48.76624318493964],[18.57003758265461,48.76592996655029],[18.5701921786557,48.76682252533664],[18.57154457598028,48.76671808424993],[18.57233146959402,48.77125976461838]]],"type":"Polygon"}
+}

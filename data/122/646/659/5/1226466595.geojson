@@ -1,0 +1,76 @@
+{
+  "id": 1226466595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58208,48.02509,18.58208,48.02509",
+    "geom:latitude":48.02509,
+    "geom:longitude":18.58208,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nyrovce",
+    "gn:country_code":"SK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058433,
+    "gn:latitude":48.02509,
+    "gn:longitude":18.58208,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u00fdrovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Ny\u00edr\u00e1g\u00f3"
+    ],
+    "name:und_x_variant":[
+        "N\u00edrovce",
+        "Nyir",
+        "N\u00fdrovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058433,
+        "wk:page":"N%C3%BDrovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"50077aac80a1a6e075699f7eb990a3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1226466595,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226466595,
+    "wof:lastmodified":1537700398,
+    "wof:name":"Nyrovce",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58208,
+    48.02509000000001,
+    18.58208,
+    48.02509000000001
+],
+  "geometry": {"coordinates":[18.58208,48.02509000000001],"type":"Point"}
+}

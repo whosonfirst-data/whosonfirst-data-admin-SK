@@ -1,0 +1,71 @@
+{
+  "id": 1209918061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86221,48.52849,18.86221,48.52849",
+    "geom:latitude":48.52849,
+    "geom:longitude":18.86221,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sklene Teplice",
+    "gn:country_code":"SK",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057613,
+    "gn:latitude":48.52849,
+    "gn:longitude":18.86221,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sklen\u00e9 Teplice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sklen\u00e9 Teplice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057613,
+        "wk:page":"Sklen%C3%A9_Teplice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"26b89d4b8c12f28b8364fdb71a12b093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1209918061,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1209918061,
+    "wof:lastmodified":1537700391,
+    "wof:name":"Sklene Teplice",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86221,
+    48.52849000000001,
+    18.86221,
+    48.52849000000001
+],
+  "geometry": {"coordinates":[18.86221,48.52849000000001],"type":"Point"}
+}

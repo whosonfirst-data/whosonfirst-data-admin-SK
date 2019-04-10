@@ -1,0 +1,154 @@
+{
+  "id": 101843807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":1834517.640758,
+    "geom:bbox":"18.7609670177,48.5313712185,18.7934954241,48.5445794504",
+    "geom:latitude":48.537425,
+    "geom:longitude":18.779355,
+    "iso:country":"SK",
+    "lbl:latitude":48.539781,
+    "lbl:longitude":18.785023,
+    "mps:latitude":48.539781,
+    "mps:longitude":18.785023,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:ces_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:cze_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:deu_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:dut_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:eng_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:epo_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:fra_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:fre_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:ger_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:hun_x_preferred":[
+        "Geletnek"
+    ],
+    "name:ita_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:may_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:msa_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:nan_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:nld_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:pol_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u0438\u043a-\u043d\u0430\u0434-\u0413\u0440\u043e\u043d\u043e\u043c"
+    ],
+    "name:slo_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043b\u0438\u045a\u0438\u043a \u043d\u0430 \u0425\u0440\u043e\u043d\u0443"
+    ],
+    "name:und_x_colloquial":[
+        "Hlinik nad Hronom"
+    ],
+    "name:und_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "name:war_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017diar nad Hronom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Hlin\u00edk nad Hronom",
+    "qs:la_lc":"*SK32D516767",
+    "qs:level":"locality",
+    "qs:loc":"Hlin\u00edk nad Hronom",
+    "qs:loc_alt":"Hlinik nad Hronom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070ec33e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3060099,
+        "gp:id":819606,
+        "qs:id":1013287,
+        "qs_pg:id":1013287,
+        "wd:id":"Q947067",
+        "wk:page":"Hlin\u00edk nad Hronom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"43a5050e9d12d99d1df9bdb1f179191a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":101843807,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101843807,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642599,
+    "wof:name":"Hlin\u00edk nad Hronom",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76096701768995,
+    48.53137121845765,
+    18.79349542405487,
+    48.54457945041793
+],
+  "geometry": {"coordinates":[[[18.79111843296414,48.54415140113196],[18.79096094116784,48.54325911092843],[18.79230695109874,48.54315206004259],[18.79214944288515,48.54225977138327],[18.79349542405487,48.54215270639224],[18.79318038190786,48.54036813150725],[18.79183444778459,48.54047519209996],[18.79136200844113,48.53779831826222],[18.7927078720025,48.53769126426664],[18.79255038291655,48.5367989738761],[18.79120454287357,48.53690602567286],[18.79041732161795,48.53244455289803],[18.78907159392065,48.53255157740102],[18.78891419449542,48.53165927868241],[18.78622277043456,48.53187327439082],[18.78638012283341,48.53276557750399],[18.7836886308271,48.53297951240188],[18.78416058953246,48.53565643099409],[18.78281476513649,48.53576338058019],[18.78297207538577,48.53665568766496],[18.77893450027295,48.53697644519571],[18.77846280248741,48.53429950221448],[18.77711700421975,48.53440638219917],[18.77680262153808,48.53262174588326],[18.77276533649223,48.53294227485696],[18.77260822633838,48.53204994913466],[18.76991672389772,48.53226354922054],[18.76975966786449,48.53137121845765],[18.76572244560504,48.53169148974467],[18.76587943108922,48.53258382708503],[18.76453365638349,48.53269055376904],[18.76469062543333,48.53358289264793],[18.76334482199223,48.5336896052213],[18.76350177460631,48.53458194563848],[18.76215594242871,48.53468864410047],[18.76231287860531,48.53558098605583],[18.76096701768995,48.53568767040622],[18.7611239374267,48.53658001389954],[18.76246982186439,48.53647332735818],[18.76262677220672,48.5373656680074],[18.76531857247596,48.53715224162949],[18.7654755769496,48.53804457724146],[18.76682149278008,48.53793783740423],[18.76697852786424,48.53883017017063],[18.76967039091278,48.53861663719749],[18.76982748013387,48.53950896492421],[18.77386530611415,48.53918853660122],[18.7740224730004,48.54008085709216],[18.77940626192566,48.53965338228852],[18.77987808745752,48.54233031349389],[18.78122409219611,48.54222339744365],[18.78138140509805,48.54311570434101],[18.7827274281338,48.54300876978897],[18.78288477166404,48.54390107383506],[18.7855768490972,48.54368715142073],[18.7857342467853,48.54457945041793],[18.79111843296414,48.54415140113196]]],"type":"Polygon"}
+}

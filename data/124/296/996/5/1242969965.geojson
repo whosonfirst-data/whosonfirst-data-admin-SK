@@ -1,0 +1,71 @@
+{
+  "id": 1242969965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36209,49.24953,21.36209,49.24953",
+    "geom:latitude":49.24953,
+    "geom:longitude":21.36209,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vysna Vol'a",
+    "gn:country_code":"SK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723154,
+    "gn:latitude":49.24953,
+    "gn:longitude":21.36209,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00e1 Vo\u013ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161n\u00e1 Vo\u013ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723154,
+        "wk:page":"Vy%C5%A1n%C3%A1_Vo%C4%BEa"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1d3361fbee071905f26382f2d71a59ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1242969965,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1242969965,
+    "wof:lastmodified":1537700342,
+    "wof:name":"Vysna Vol'a",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36209,
+    49.24953,
+    21.36209,
+    49.24953
+],
+  "geometry": {"coordinates":[21.36209,49.24953],"type":"Point"}
+}

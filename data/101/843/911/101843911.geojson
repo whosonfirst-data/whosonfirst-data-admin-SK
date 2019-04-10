@@ -1,0 +1,138 @@
+{
+  "id": 101843911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":837396.490539,
+    "geom:bbox":"19.4740990765,49.0444122249,19.4868634439,49.0586662987",
+    "geom:latitude":49.052208,
+    "geom:longitude":19.480305,
+    "iso:country":"SK",
+    "lbl:latitude":49.052504,
+    "lbl:longitude":19.48074,
+    "mps:latitude":49.052504,
+    "mps:longitude":19.48074,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:cze_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:deu_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:dut_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:eng_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:epo_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:fra_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:fre_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:ger_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:hbs_x_preferred":[
+        "Ljubelja"
+    ],
+    "name:hun_x_preferred":[
+        "Lubella"
+    ],
+    "name:ita_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:may_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:msa_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:nld_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:pol_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:slo_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u0435\u0459\u0430"
+    ],
+    "name:unk_x_variant":[
+        "\u013eube\u013ea"
+    ],
+    "name:war_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Liptovsk\u00fd Mikul\u00e1\u0161",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u013dube\u013ea",
+    "qs:la_lc":"*SK315510793",
+    "qs:level":"locality",
+    "qs:loc":"\u013dube\u013ea",
+    "qs:loc_alt":"Lubela",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059003,
+        "gp:id":820718,
+        "qs:id":190953,
+        "wd:id":"Q1072541",
+        "wk:page":"\u013dube\u013ea"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"29943ef9271fa5f2e5c64c111bfbe2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":101843911,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843911,
+    "wof:lastmodified":1527642600,
+    "wof:name":"\u013dube\u013ea",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47409907652798,
+    49.04441222489959,
+    19.48686344386726,
+    49.05866629865932
+],
+  "geometry": {"coordinates":[[[19.48076073915058,49.0585507141854],[19.48058823247374,49.05765984209035],[19.48194685298597,49.05754424355996],[19.48177433015513,49.05665337319192],[19.48585008479415,49.05630648604216],[19.48550491863398,49.05452475771375],[19.48686344386726,49.05440910055484],[19.48582799009739,49.04906391366546],[19.48311122194423,49.0492951826181],[19.48293872185639,49.0484043109343],[19.48158035307824,49.04851991831146],[19.48123542449707,49.04673816808429],[19.47851876555342,49.04696932382882],[19.47834636106131,49.04607844287932],[19.47698804689134,49.04619399365487],[19.47664330948436,49.04441222489959],[19.47528503752119,49.04452775440342],[19.47545737829398,49.04541864152748],[19.47409907652798,49.04553415697728],[19.47427140114991,49.04642504582552],[19.47562972692037,49.04630952797032],[19.47666398364686,49.05165483232537],[19.47530551382488,49.05177036461646],[19.47565028089792,49.0535521320997],[19.4742917572479,49.05366765274022],[19.47446412855567,49.05455853786714],[19.47582267622062,49.05444301482021],[19.47651233609969,49.05800653889565],[19.47922960615455,49.0577754241566],[19.47940208881272,49.05866629865932],[19.48076073915058,49.0585507141854]]],"type":"Polygon"}
+}

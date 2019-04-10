@@ -1,0 +1,67 @@
+{
+  "id": 1343882357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32918,49.22534,18.32918,49.22534",
+    "geom:latitude":49.22534,
+    "geom:longitude":18.32918,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Paganovce",
+    "gn:country_code":"SK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058305,
+    "gn:latitude":49.22534,
+    "gn:longitude":18.32918,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Paga\u0148ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058305
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1b37fb63142b755830849d4919c8ed41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1343882357,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343882357,
+    "wof:lastmodified":1536633678,
+    "wof:name":"Paganovce",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32918,
+    49.22534,
+    18.32918,
+    49.22534
+],
+  "geometry": {"coordinates":[18.32918,49.22534],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226356555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05381,48.80879,19.05381,48.80879",
+    "geom:latitude":48.80879,
+    "geom:longitude":19.05381,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolny",
+    "gn:country_code":"SK",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060132,
+    "gn:latitude":48.80879,
+    "gn:longitude":19.05381,
+    "gn:modification_date":"2008-05-17",
+    "gn:name":"Doln\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060132
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0d3c1de719dd08d94671af671d19430d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":1226356555,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226356555,
+    "wof:lastmodified":1536774495,
+    "wof:name":"Dolny",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05381,
+    48.80879,
+    19.05381,
+    48.80879
+],
+  "geometry": {"coordinates":[19.05381,48.80879],"type":"Point"}
+}

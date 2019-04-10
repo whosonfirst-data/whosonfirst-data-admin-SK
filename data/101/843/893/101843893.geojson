@@ -1,0 +1,141 @@
+{
+  "id": 101843893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":518402.378893,
+    "geom:bbox":"20.7009088121,48.938953325,20.7113404292,48.9549718335",
+    "geom:latitude":48.946989,
+    "geom:longitude":20.706008,
+    "iso:country":"SK",
+    "lbl:latitude":48.948109,
+    "lbl:longitude":20.705929,
+    "mps:latitude":48.948109,
+    "mps:longitude":20.705929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:ces_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:deu_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:fra_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:hun_x_preferred":[
+        "Szepesk\u00f6rtv\u00e9lyes"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:msa_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:pol_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0438 \u0425\u0440\u0443\u0448\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00fd Hru\u0161ov",
+    "qs:la_lc":"*SK42A543616",
+    "qs:level":"locality",
+    "qs:loc":"Spi\u0161sk\u00fd Hru\u0161ov",
+    "qs:loc_alt":"Spissky Hrusov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":478,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723515,
+        "gp:id":822366,
+        "qs:id":191051,
+        "qs_pg:id":191051,
+        "wd:id":"Q776575",
+        "wk:page":"Spi\u0161sk\u00fd Hru\u0161ov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bd4b763ddf84a32c520b047d7a9b4827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":101843893,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843893,
+    "wof:lastmodified":1527642593,
+    "wof:name":"Spi\u0161sk\u00fd Hru\u0161ov",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70090881214071,
+    48.93895332499665,
+    20.71134042917845,
+    48.9549718334884
+],
+  "geometry": {"coordinates":[[[20.70400340519808,48.95484144050238],[20.70380935670721,48.95395287682658],[20.70516262304477,48.95382247018341],[20.70496855971436,48.95293390842181],[20.70632179591195,48.95280348812241],[20.70593364837902,48.95102636763977],[20.7072868307979,48.95089593638698],[20.70709274659799,48.95000737766577],[20.70844589888048,48.94987693275812],[20.70747549175144,48.94543414083762],[20.71018154047431,48.94517322897894],[20.70998743819359,48.94428467363389],[20.71134042917845,48.94415419587443],[20.71114631207132,48.94326564244329],[20.70979334471627,48.94339611749996],[20.70882300936466,48.93895332499665],[20.70611729144207,48.93921419902694],[20.70669932448891,48.94187989310649],[20.70534638490648,48.94201031369568],[20.70573440367593,48.94378744454167],[20.70438141033992,48.94391785417906],[20.70476941704493,48.94569498727418],[20.70341636994976,48.94582538595893],[20.70380436458544,48.94760252130357],[20.70245126372618,48.94773290903476],[20.70322726405078,48.95128718107213],[20.70187406214296,48.95141756325154],[20.70226206782775,48.95319469994553],[20.70090881214071,48.95332507116916],[20.70110280454151,48.95421364103595],[20.70245608387222,48.95408326711078],[20.70265010871873,48.9549718334884],[20.70400340519808,48.95484144050238]]],"type":"Polygon"}
+}

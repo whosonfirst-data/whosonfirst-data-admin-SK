@@ -1,0 +1,133 @@
+{
+  "id": 1125866931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4426,48.00835,17.4426,48.00835",
+    "geom:latitude":48.00835,
+    "geom:longitude":17.4426,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.00835,
+    "lbl:longitude":17.4426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:cze_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:dut_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:eng_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:epo_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:fre_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:ger_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e1rosfa"
+    ],
+    "name:ita_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:may_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:nan_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:por_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:slo_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0430 \u043d\u0430 \u041e\u0441\u0442\u0440\u0432\u0443"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e1rosfa"
+    ],
+    "name:war_x_preferred":[
+        "Blatn\u00e1 na Ostrove"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061060,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Blatn\u00e1 na Ostrove",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":358309,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":818628,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061060,
+        "gp:id":818628,
+        "qs_pg:id":358309,
+        "wd:id":"Q387205"
+    },
+    "wof:country":"SK",
+    "wof:created":1497294088,
+    "wof:geomhash":"b1948d4a426fe515f2cb3343a36d19df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1125866931,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125866931,
+    "wof:lastmodified":1514505051,
+    "wof:name":"Blatn\u00e1 na Ostrove",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4426,
+    48.00835,
+    17.4426,
+    48.00835
+],
+  "geometry": {"coordinates":[17.4426,48.00835],"type":"Point"}
+}

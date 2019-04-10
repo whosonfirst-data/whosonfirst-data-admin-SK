@@ -1,0 +1,143 @@
+{
+  "id": 101780583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":677849.053182,
+    "geom:bbox":"20.6027694363,49.327382348,20.6251757756,49.3382098339",
+    "geom:latitude":49.332492,
+    "geom:longitude":20.613423,
+    "iso:country":"SK",
+    "lbl:latitude":49.332338,
+    "lbl:longitude":20.612659,
+    "mps:latitude":49.332338,
+    "mps:longitude":20.612659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamienka"
+    ],
+    "name:ces_x_preferred":[
+        "Kamienka"
+    ],
+    "name:cze_x_preferred":[
+        "Kamienka"
+    ],
+    "name:deu_x_preferred":[
+        "Kamienka"
+    ],
+    "name:dut_x_preferred":[
+        "Kamienka"
+    ],
+    "name:eng_x_preferred":[
+        "Kamienka"
+    ],
+    "name:epo_x_preferred":[
+        "Kamienka"
+    ],
+    "name:fra_x_preferred":[
+        "Kamienka"
+    ],
+    "name:fre_x_preferred":[
+        "Kamienka"
+    ],
+    "name:ger_x_preferred":[
+        "Kamienka"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6vesfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Kamienka"
+    ],
+    "name:may_x_preferred":[
+        "Kamienka"
+    ],
+    "name:msa_x_preferred":[
+        "Kamienka"
+    ],
+    "name:nld_x_preferred":[
+        "Kamienka"
+    ],
+    "name:pol_x_preferred":[
+        "Kamionka"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0430\u043c\u044e\u043d\u043a\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Kamienka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0458\u0435\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0439\u043e\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kamionka"
+    ],
+    "name:war_x_preferred":[
+        "Kamienka"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Star\u00e1 Lubovna",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamienka",
+    "qs:la_lc":"*SK41A526789",
+    "qs:level":"locality",
+    "qs:loc":"Kamienka",
+    "qs:loc_alt":"Kamienka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724532,
+        "gp:id":820120,
+        "qs:id":940007,
+        "wd:id":"Q390048",
+        "wk:page":"Kamienka, Star\u00e1 \u013dubov\u0148a District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7ce61fde8d5bee91b063ee3b7425166b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":101780583,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780583,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Kamienka",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60276943625206,
+    49.32738234802076,
+    20.62517577561874,
+    49.33820983393002
+],
+  "geometry": {"coordinates":[[[20.62517577561874,49.32978890629181],[20.62498090913914,49.32890034265864],[20.6236172063044,49.32902992380161],[20.62342237285532,49.32814135668912],[20.6220586875454,49.32827091861191],[20.62186388712445,49.32738234802076],[20.62050021934004,49.32751189072388],[20.62069499564535,49.32840046402953],[20.61524016216248,49.3289184806456],[20.61543485090903,49.32980706404214],[20.60861604027946,49.33045422699149],[20.60919979814213,49.33312001328954],[20.60647208306773,49.33337877919053],[20.60666663857842,49.33426737852153],[20.60393884892187,49.33452608381231],[20.60413336508043,49.33541468780322],[20.60276943625206,49.33554401839638],[20.6033529657463,49.33820983393002],[20.6047169669655,49.33808049520457],[20.6045224241019,49.33719189349927],[20.60997826661901,49.33667438434622],[20.6097836361418,49.33578579272546],[20.61251146963366,49.3355269445193],[20.61231679980904,49.33463835756118],[20.61504455870249,49.33437944874731],[20.6148498495362,49.33349086645262],[20.62030519176852,49.33297286158682],[20.62011039502232,49.33208428938468],[20.62147418998501,49.33195474961485],[20.62108457499033,49.3301776083494],[20.62517577561874,49.32978890629181]]],"type":"Polygon"}
+}

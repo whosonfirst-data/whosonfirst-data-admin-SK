@@ -1,0 +1,134 @@
+{
+  "id": 101783965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":887415.751156,
+    "geom:bbox":"18.4392484639,48.1999866741,18.4508286732,48.2186687085",
+    "geom:latitude":48.21005,
+    "geom:longitude":18.44512,
+    "iso:country":"SK",
+    "lbl:latitude":48.207643,
+    "lbl:longitude":18.444637,
+    "mps:latitude":48.207643,
+    "mps:longitude":18.444637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:hun_x_preferred":[
+        "Nagygy\u0151r\u00f6d"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u0414\u0458\u0443\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Doln\u00ed \u010e\u00farad"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00fd \u010eur"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levice",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ve\u013ek\u00fd \u010eur",
+    "qs:la_lc":"*SK232502936",
+    "qs:level":"locality",
+    "qs:loc":"Ve\u013ek\u00fd \u010eur",
+    "qs:loc_alt":"Velky Dur",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060415,
+        "gp:id":819249,
+        "qs:id":402218,
+        "wd:id":"Q1044787"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"94ee275e9f8d0fe69a2a2a8fbd8fc9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":101783965,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101783965,
+    "wof:lastmodified":1527688493,
+    "wof:name":"Ve\u013ek\u00fd \u010eur",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43924846391303,
+    48.19998667411136,
+    18.45082867324936,
+    48.21866870852358
+],
+  "geometry": {"coordinates":[[[18.44401108815589,48.21846328064072],[18.44386129208863,48.21757027753972],[18.44519927870846,48.21746754138826],[18.44504946615712,48.21657453973165],[18.45040127041995,48.21616344148924],[18.44995159468385,48.21348445774186],[18.44861372062678,48.21358725032451],[18.4484638653546,48.2126942523538],[18.4471260095537,48.21279702664492],[18.44652674843655,48.20922501991367],[18.44786451145973,48.20912225399059],[18.44756487482243,48.20733625092072],[18.44890258652367,48.20723347298434],[18.44815349653754,48.20276846442533],[18.45082867324936,48.20256288088405],[18.45052899153666,48.20077688128924],[18.44919145201681,48.20087967697356],[18.44904164441868,48.19998667411136],[18.44636659693077,48.20019221271349],[18.44666612611218,48.20197822615495],[18.44532854859676,48.20208097534669],[18.44547830007411,48.2029739831861],[18.44414069443735,48.20307671827305],[18.44429042944273,48.20396972755503],[18.44161515698829,48.20417515332332],[18.44191455438727,48.20596117830547],[18.44057686438015,48.20606387107568],[18.4407265499575,48.20695688468538],[18.44206426315498,48.20685418982475],[18.44251342973661,48.20953322049621],[18.44117564696245,48.20963592162792],[18.4413253593894,48.21052893264698],[18.44266316535817,48.21042622942451],[18.44311241251143,48.21310525232406],[18.44177453695391,48.21320796181863],[18.44192427623761,48.21410097024778],[18.43924846391303,48.2143063448201],[18.43984730259319,48.21787838878862],[18.44118530403011,48.21777570124004],[18.44133505369024,48.21866870852358],[18.44401108815589,48.21846328064072]]],"type":"Polygon"}
+}

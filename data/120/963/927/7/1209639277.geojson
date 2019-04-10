@@ -1,0 +1,68 @@
+{
+  "id": 1209639277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03333,48.13333,18.03333,48.13333",
+    "geom:latitude":48.13333,
+    "geom:longitude":18.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolny Jatov",
+    "gn:country_code":"SK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060410,
+    "gn:latitude":48.13333,
+    "gn:longitude":18.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00fd Jatov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Als\u00f3jatt\u00f3"
+    ],
+    "name:und_x_variant":[
+        "Dvor Doln\u00fd Jatov",
+        "Doln\u00fd Jatov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060410
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"27b3ccf9953c1c480088d1c28092e8a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209639277
+        }
+    ],
+    "wof:id":1209639277,
+    "wof:lastmodified":1537700427,
+    "wof:name":"Dolny Jatov",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03333,
+    48.13333,
+    18.03333,
+    48.13333
+],
+  "geometry": {"coordinates":[18.03333,48.13333],"type":"Point"}
+}

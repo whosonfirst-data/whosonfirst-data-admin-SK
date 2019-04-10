@@ -1,0 +1,136 @@
+{
+  "id": 1125854015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24022,48.89971,21.24022,48.89971",
+    "geom:latitude":48.89971,
+    "geom:longitude":21.24022,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.89971,
+    "lbl:longitude":21.24022,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:dut_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "Somos\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:rue_x_preferred":[
+        "\u0414\u0440\u044a\u0454\u043d\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:slo_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0458\u0435\u043d\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Somos\u00fajfalu"
+    ],
+    "name:war_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724866,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Drienovsk\u00e1 Nov\u00e1 Ves",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1289445,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819308,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724866,
+        "gp:id":819308,
+        "qs_pg:id":1289445,
+        "wd:id":"Q958802"
+    },
+    "wof:country":"SK",
+    "wof:created":1497293534,
+    "wof:geomhash":"44438a2119ddbd2535aad408cd6df406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1125854015,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125854015,
+    "wof:lastmodified":1514505085,
+    "wof:name":"Drienovsk\u00e1 Nov\u00e1 Ves",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24022,
+    48.89971,
+    21.24022,
+    48.89971
+],
+  "geometry": {"coordinates":[21.24022,48.89971],"type":"Point"}
+}

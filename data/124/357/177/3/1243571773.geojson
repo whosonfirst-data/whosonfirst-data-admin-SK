@@ -1,0 +1,68 @@
+{
+  "id": 1243571773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05022,48.5608,20.05022,48.5608",
+    "geom:latitude":48.5608,
+    "geom:longitude":20.05022,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Potok",
+    "gn:country_code":"SK",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723827,
+    "gn:latitude":48.5608,
+    "gn:longitude":20.05022,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723827,
+        "wk:page":"Potok%2C_Rimavsk%C3%A1_Sobota_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1f248354d35af379035e3f05560a2ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1243571773,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243571773,
+    "wof:lastmodified":1537573568,
+    "wof:name":"Potok",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05022,
+    48.5608,
+    20.05022,
+    48.5608
+],
+  "geometry": {"coordinates":[20.05022,48.5608],"type":"Point"}
+}

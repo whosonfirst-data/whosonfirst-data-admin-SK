@@ -1,0 +1,71 @@
+{
+  "id": 1242768417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88286,49.00101,18.88286,49.00101",
+    "geom:latitude":49.00101,
+    "geom:longitude":18.88286,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pribovce",
+    "gn:country_code":"SK",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058014,
+    "gn:latitude":49.00101,
+    "gn:longitude":18.88286,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pr\u00edbovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00edbovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058014,
+        "wk:page":"Pr%C3%ADbovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"66b1a2ef9426f359bf8195480c75fb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1242768417,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1242768417,
+    "wof:lastmodified":1537700395,
+    "wof:name":"Pribovce",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88286,
+    49.00101,
+    18.88286,
+    49.00101
+],
+  "geometry": {"coordinates":[18.88286,49.00101],"type":"Point"}
+}

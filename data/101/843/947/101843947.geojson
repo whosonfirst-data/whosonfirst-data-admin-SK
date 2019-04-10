@@ -1,0 +1,133 @@
+{
+  "id": 101843947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":727743.092223,
+    "geom:bbox":"21.1146770824,49.0086001818,21.133632947,49.0172667539",
+    "geom:latitude":49.013292,
+    "geom:longitude":21.124598,
+    "iso:country":"SK",
+    "lbl:latitude":49.012336,
+    "lbl:longitude":21.125532,
+    "mps:latitude":49.012336,
+    "mps:longitude":21.125532,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Svinia"
+    ],
+    "name:ces_x_preferred":[
+        "Svinia"
+    ],
+    "name:deu_x_preferred":[
+        "Svinia"
+    ],
+    "name:epo_x_preferred":[
+        "Svinia"
+    ],
+    "name:fra_x_preferred":[
+        "Svinia"
+    ],
+    "name:hun_x_preferred":[
+        "Szinye"
+    ],
+    "name:ita_x_preferred":[
+        "Svinia"
+    ],
+    "name:msa_x_preferred":[
+        "Svinia"
+    ],
+    "name:nld_x_preferred":[
+        "Svinia"
+    ],
+    "name:pol_x_preferred":[
+        "Svinia"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0432\u0456\u043d\u044c\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Svinia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0438\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Svinia"
+    ],
+    "name:und_x_preferred":[
+        "Svinia"
+    ],
+    "name:war_x_preferred":[
+        "Svinia"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Svinia"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pre\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Svinia",
+    "qs:la_lc":"*SK417525171",
+    "qs:level":"locality",
+    "qs:loc":"Svinia",
+    "qs:loc_alt":"Svinia",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070bff78-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":723415,
+        "gp:id":822582,
+        "qs:id":1084067,
+        "wd:id":"Q1027875",
+        "wk:page":"Svinia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bdc66239022e0891ce465a6985db3a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":101843947,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101843947,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642594,
+    "wof:name":"Svinia",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11467708239343,
+    49.00860018176201,
+    21.1336329470131,
+    49.01726675392382
+],
+  "geometry": {"coordinates":[[[21.12320517391834,49.01713125358771],[21.12300317577814,49.01624358931372],[21.1243571931235,49.01610807543057],[21.12415518052558,49.01522041314433],[21.12821712107342,49.0148137817834],[21.12862129718678,49.01658908866426],[21.13132931819547,49.01631790805686],[21.13112717830467,49.01543026065292],[21.13248115502654,49.01529464862574],[21.13227900068648,49.01440700321058],[21.1336329470131,49.01427137763972],[21.13343077822668,49.01338373421362],[21.13207685552118,49.01351935697159],[21.13147047506351,49.01085641331156],[21.13011661644401,49.01099201127658],[21.12971245589966,49.00921670576008],[21.12700481282138,49.00948784137859],[21.12680279353617,49.00860018176201],[21.12274134901452,49.00900675409605],[21.1231452550465,49.01078208936826],[21.12179137943735,49.0109175863895],[21.12199332258064,49.0118052556009],[21.11793158430265,49.01221165695699],[21.11813346574365,49.01309933377405],[21.1167795158334,49.0132347709889],[21.11698138281309,49.01412244979247],[21.11562740251509,49.01425787345886],[21.11603111670763,49.01603323421648],[21.11467708239343,49.01616864714265],[21.1148789296044,49.01705632909676],[21.12164915166471,49.01637908683961],[21.12185112617789,49.01726675392382],[21.12320517391834,49.01713125358771]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259400227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08025,48.71587,20.08025,48.71587",
+    "geom:latitude":48.71587,
+    "geom:longitude":20.08025,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muranska Dlha Luka",
+    "gn:country_code":"SK",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724094,
+    "gn:latitude":48.71587,
+    "gn:longitude":20.08025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mur\u00e1nska Dlh\u00e1 L\u00faka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mur\u00e1nska Dlh\u00e1 L\u00faka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724094,
+        "wk:page":"Mur%C3%A1nska_Dlh%C3%A1_L%C3%BAka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5c22e727772458426d68ed0f22b3a8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1259400227,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1259400227,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Muranska Dlha Luka",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08025,
+    48.71587,
+    20.08025,
+    48.71587
+],
+  "geometry": {"coordinates":[20.08025,48.71587],"type":"Point"}
+}

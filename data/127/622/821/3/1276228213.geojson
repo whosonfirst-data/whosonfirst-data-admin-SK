@@ -1,0 +1,72 @@
+{
+  "id": 1276228213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.659,48.91582,18.659,48.91582",
+    "geom:latitude":48.91582,
+    "geom:longitude":18.659,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kl'acno",
+    "gn:country_code":"SK",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059519,
+    "gn:latitude":48.91582,
+    "gn:longitude":18.659,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u013ea\u010dno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gajdel",
+        "K\u013ea\u010dno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059519,
+        "wk:page":"K%C4%BEa%C4%8Dno"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c5ec54ee675bd96d450b5894dfd9b244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1276228213,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1276228213,
+    "wof:lastmodified":1537700414,
+    "wof:name":"Kl'acno",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.659,
+    48.91582,
+    18.659,
+    48.91582
+],
+  "geometry": {"coordinates":[18.659,48.91582],"type":"Point"}
+}

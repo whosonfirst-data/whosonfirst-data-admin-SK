@@ -1,0 +1,72 @@
+{
+  "id": 1209814573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0498,48.98149,21.0498,48.98149",
+    "geom:latitude":48.98149,
+    "geom:longitude":21.0498,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Krizovany",
+    "gn:country_code":"SK",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724382,
+    "gn:latitude":48.98149,
+    "gn:longitude":21.0498,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kr\u00ed\u017eovany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eoviany",
+        "Kr\u00ed\u017eovany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724382,
+        "wk:page":"Kr%C3%AD%C5%BEovany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"805a4fbd957dbddbb636eeefee59b549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1209814573,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1209814573,
+    "wof:lastmodified":1537700363,
+    "wof:name":"Krizovany",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0498,
+    48.98149,
+    21.0498,
+    48.98149
+],
+  "geometry": {"coordinates":[21.0498,48.98149],"type":"Point"}
+}

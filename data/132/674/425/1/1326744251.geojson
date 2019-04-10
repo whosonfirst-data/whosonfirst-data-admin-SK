@@ -1,0 +1,67 @@
+{
+  "id": 1326744251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36161,48.45084,19.36161,48.45084",
+    "geom:latitude":48.45084,
+    "geom:longitude":19.36161,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jasenova",
+    "gn:country_code":"SK",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059696,
+    "gn:latitude":48.45084,
+    "gn:longitude":19.36161,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Jasenov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059696
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ba9be3648c34025dc96097dc75922a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080507,
+            "locality_id":1326744251,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1326744251,
+    "wof:lastmodified":1536678313,
+    "wof:name":"Jasenova",
+    "wof:parent_id":102080507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36161,
+    48.45084,
+    19.36161,
+    48.45084
+],
+  "geometry": {"coordinates":[19.36161,48.45084],"type":"Point"}
+}

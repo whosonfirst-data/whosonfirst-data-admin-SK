@@ -1,0 +1,71 @@
+{
+  "id": 1226143301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23526,48.83417,18.23526,48.83417",
+    "geom:latitude":48.83417,
+    "geom:longitude":18.23526,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krasna Ves",
+    "gn:country_code":"SK",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059291,
+    "gn:latitude":48.83417,
+    "gn:longitude":18.23526,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kr\u00e1sna Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u00e1sna Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059291,
+        "wk:page":"Kr%C3%A1sna_Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eeb9afe667f6e115ca00f01fb1b6a87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1226143301,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226143301,
+    "wof:lastmodified":1537700411,
+    "wof:name":"Krasna Ves",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23526,
+    48.83417,
+    18.23526,
+    48.83417
+],
+  "geometry": {"coordinates":[18.23526,48.83417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360104793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98333,49.23333,18.98333,49.23333",
+    "geom:latitude":49.23333,
+    "geom:longitude":18.98333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Branica",
+    "gn:country_code":"SK",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060975,
+    "gn:latitude":49.23333,
+    "gn:longitude":18.98333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Branica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060975
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e67ec69f2b87bf5f66be2ad5895fa3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1360104793,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1360104793,
+    "wof:lastmodified":1536917793,
+    "wof:name":"Branica",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98333,
+    49.23333,
+    18.98333,
+    49.23333
+],
+  "geometry": {"coordinates":[18.98333,49.23333],"type":"Point"}
+}

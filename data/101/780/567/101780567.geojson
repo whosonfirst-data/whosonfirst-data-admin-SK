@@ -1,0 +1,144 @@
+{
+  "id": 101780567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":608086.719496,
+    "geom:bbox":"20.417757768,49.2208968172,20.433711586,49.2306770512",
+    "geom:latitude":49.22568,
+    "geom:longitude":20.42549,
+    "iso:country":"SK",
+    "lbl:latitude":49.225649,
+    "lbl:longitude":20.425611,
+    "mps:latitude":49.225649,
+    "mps:longitude":20.425611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:ces_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:dut_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "Szepest\u00f3tfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:msa_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "S\u0142owia\u0144ska Wie\u015b"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:slo_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "T\u00f3tfalu"
+    ],
+    "name:war_x_preferred":[
+        "Slovensk\u00e1 Ves"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ke\u017emarok",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Slovensk\u00e1 Ves",
+    "qs:la_lc":"*SK413523810",
+    "qs:level":"locality",
+    "qs:loc":"Slovensk\u00e1 Ves",
+    "qs:loc_alt":"Slovenska Ves",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723578,
+        "gp:id":822293,
+        "qs:id":917768,
+        "wd:id":"Q1025238",
+        "wk:page":"Slovensk\u00e1 Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"98bfc8979551ad530ce8d8d193a7a41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":101780567,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780567,
+    "wof:lastmodified":1527715863,
+    "wof:name":"Slovensk\u00e1 Ves",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41775776796999,
+    49.220896817241,
+    20.43371158595204,
+    49.23067705119331
+],
+  "geometry": {"coordinates":[[[20.42843081025035,49.23042275451274],[20.42804944434971,49.22864475250418],[20.42941080747647,49.22851758476133],[20.42845742493932,49.22407257987982],[20.43254111522708,49.2236910176548],[20.43235039275532,49.2228020223975],[20.43371158595204,49.2226748046952],[20.43333011908152,49.220896817241],[20.4278854998928,49.22140556793306],[20.42807613286993,49.2222945726669],[20.42263131464784,49.22280307037607],[20.42282186021436,49.22369208498435],[20.42146061555195,49.22381917087671],[20.42165114578887,49.22470818738975],[20.41892858911262,49.2249623150546],[20.41911907998491,49.22585133612756],[20.41775776796999,49.22597837789897],[20.41813872774321,49.22775642310336],[20.419500087828,49.2276293760217],[20.41988113047233,49.22940741291364],[20.42532669879091,49.22889903855503],[20.425707968545,49.23067705119331],[20.42843081025035,49.23042275451274]]],"type":"Polygon"}
+}

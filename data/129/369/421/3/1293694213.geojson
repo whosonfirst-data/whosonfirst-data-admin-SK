@@ -1,0 +1,72 @@
+{
+  "id": 1293694213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58551,48.52357,21.58551,48.52357",
+    "geom:latitude":48.52357,
+    "geom:longitude":21.58551,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vel'ky Kazimir",
+    "gn:country_code":"SK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723250,
+    "gn:latitude":48.52357,
+    "gn:longitude":21.58551,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00fd Kazim\u00edr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazim\u00edr",
+        "Ve\u013ek\u00fd Kazim\u00edr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723250,
+        "wk:page":"Kazim%C3%ADr"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"923c35177e0dd38c73e3f0b8334c49db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1293694213,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1293694213,
+    "wof:lastmodified":1537700344,
+    "wof:name":"Vel'ky Kazimir",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58551,
+    48.52357,
+    21.58551,
+    48.52357
+],
+  "geometry": {"coordinates":[21.58551,48.52357],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327245521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53333,48.6,19.53333,48.6",
+    "geom:latitude":48.6,
+    "geom:longitude":19.53333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sklena Huta",
+    "gn:country_code":"SK",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057616,
+    "gn:latitude":48.6,
+    "gn:longitude":19.53333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Sklen\u00e1 Huta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057616
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"aa4379b6f7fd1a8beda67be717aba472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080507,
+            "locality_id":1327245521,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1327245521,
+    "wof:lastmodified":1536950732,
+    "wof:name":"Sklena Huta",
+    "wof:parent_id":102080507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53333,
+    48.6,
+    19.53333,
+    48.6
+],
+  "geometry": {"coordinates":[19.53333,48.6],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209247647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69675,47.9878,18.69675,47.9878",
+    "geom:latitude":47.9878,
+    "geom:longitude":18.69675,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Male Ludince",
+    "gn:country_code":"SK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058846,
+    "gn:latitude":47.9878,
+    "gn:longitude":18.69675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u00e9 Ludince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kis \u00d6lved",
+        "Mal\u00e9 Ludince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058846,
+        "wk:page":"Mal%C3%A9_Ludince"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"827f274cb5a8b5905298265aad6d3f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209247647
+        }
+    ],
+    "wof:id":1209247647,
+    "wof:lastmodified":1537700405,
+    "wof:name":"Male Ludince",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69675,
+    47.9878,
+    18.69675,
+    47.9878
+],
+  "geometry": {"coordinates":[18.69675,47.9878],"type":"Point"}
+}

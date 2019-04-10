@@ -1,0 +1,94 @@
+{
+  "id": 1125331237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71859,48.3312,17.71859,48.3312",
+    "geom:latitude":48.3312,
+    "geom:longitude":17.71859,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.3312,
+    "lbl:longitude":17.71859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "Nagys\u00far"
+    ],
+    "name:unk_x_variant":[
+        "\u0160\u00farovce"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056858,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Surovce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1300343,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401295,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056858,
+        "gp:id":29401295,
+        "qs_pg:id":1300343
+    },
+    "wof:country":"SK",
+    "wof:created":1497045146,
+    "wof:geomhash":"0bf341909d18cf0ee55c66b5d626af68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "localadmin_id":1125331237,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125331237,
+    "wof:lastmodified":1509388388,
+    "wof:name":"Surovce",
+    "wof:parent_id":102080489,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71859,
+    48.3312,
+    17.71859,
+    48.3312
+],
+  "geometry": {"coordinates":[17.71859,48.3312],"type":"Point"}
+}

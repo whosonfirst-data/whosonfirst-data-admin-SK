@@ -1,0 +1,67 @@
+{
+  "id": 1242570111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61911,48.77552,17.61911,48.77552",
+    "geom:latitude":48.77552,
+    "geom:longitude":17.61911,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Poriadie",
+    "gn:country_code":"SK",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058073,
+    "gn:latitude":48.77552,
+    "gn:longitude":17.61911,
+    "gn:modification_date":"2017-05-16",
+    "gn:name":"Poriadie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058073
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"80f6736d21eab373a5fbbb8d7889a969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1242570111,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1242570111,
+    "wof:lastmodified":1537071389,
+    "wof:name":"Poriadie",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61911,
+    48.77552,
+    17.61911,
+    48.77552
+],
+  "geometry": {"coordinates":[17.61911,48.77552],"type":"Point"}
+}

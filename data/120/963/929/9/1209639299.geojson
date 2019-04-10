@@ -1,0 +1,62 @@
+{
+  "id": 1209639299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27458,48.36662,18.27458,48.36662",
+    "geom:latitude":48.36662,
+    "geom:longitude":18.27458,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Neverice",
+    "gn:country_code":"SK",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058539,
+    "gn:latitude":48.36662,
+    "gn:longitude":18.27458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Neverice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058539,
+        "wk:page":"Neverice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"407b2da386cb9b2c10f514fc6099b6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209639299
+        }
+    ],
+    "wof:id":1209639299,
+    "wof:lastmodified":1537573597,
+    "wof:name":"Neverice",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27458,
+    48.36662000000001,
+    18.27458,
+    48.36662000000001
+],
+  "geometry": {"coordinates":[18.27458,48.36662000000001],"type":"Point"}
+}

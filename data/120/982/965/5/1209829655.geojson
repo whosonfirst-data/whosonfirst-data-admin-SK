@@ -1,0 +1,72 @@
+{
+  "id": 1209829655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11254,48.27367,20.11254,48.27367",
+    "geom:latitude":48.27367,
+    "geom:longitude":20.11254,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Simonovce",
+    "gn:country_code":"SK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723616,
+    "gn:latitude":48.27367,
+    "gn:longitude":20.11254,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160imonovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simonyi",
+        "\u0160imonovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723616,
+        "wk:page":"%C5%A0imonovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2301de145bf9f29e42837cb326f20d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1209829655,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1209829655,
+    "wof:lastmodified":1537700350,
+    "wof:name":"Simonovce",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11254,
+    48.27367,
+    20.11254,
+    48.27367
+],
+  "geometry": {"coordinates":[20.11254,48.27367],"type":"Point"}
+}

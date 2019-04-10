@@ -1,0 +1,71 @@
+{
+  "id": 1242880357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03698,48.53671,18.03698,48.53671",
+    "geom:latitude":48.53671,
+    "geom:longitude":18.03698,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hajna Nova Ves",
+    "gn:country_code":"SK",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060161,
+    "gn:latitude":48.53671,
+    "gn:longitude":18.03698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hajn\u00e1 Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajn\u00e1 Nov\u00e1 Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060161,
+        "wk:page":"Hajn%C3%A1_Nov%C3%A1_Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9e821670721e08d16ac2616b002a3e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1242880357,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1242880357,
+    "wof:lastmodified":1537700424,
+    "wof:name":"Hajna Nova Ves",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03698,
+    48.53671,
+    18.03698,
+    48.53671
+],
+  "geometry": {"coordinates":[18.03698,48.53671],"type":"Point"}
+}

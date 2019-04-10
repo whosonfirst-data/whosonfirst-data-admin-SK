@@ -1,0 +1,70 @@
+{
+  "id": 1310106407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44261,47.99038,18.44261,47.99038",
+    "geom:latitude":47.99038,
+    "geom:longitude":18.44261,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lieskova",
+    "gn:country_code":"SK",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3059094,
+    "gn:latitude":47.99038,
+    "gn:longitude":18.44261,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"Lieskov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e1rtova Pusta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059094
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fe3eecf757599ba632be85aff15f518c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1310106407,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310106407,
+    "wof:lastmodified":1537700408,
+    "wof:name":"Lieskova",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44261,
+    47.99038,
+    18.44261,
+    47.99038
+],
+  "geometry": {"coordinates":[18.44261,47.99038],"type":"Point"}
+}

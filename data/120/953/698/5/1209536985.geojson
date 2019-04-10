@@ -1,0 +1,62 @@
+{
+  "id": 1209536985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88475,48.61794,17.88475,48.61794",
+    "geom:latitude":48.61794,
+    "geom:longitude":17.88475,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hubina",
+    "gn:country_code":"SK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059831,
+    "gn:latitude":48.61794,
+    "gn:longitude":17.88475,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hubina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059831,
+        "wk:page":"Hubina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9695552e1d8a98f4e32365e5a1aa9446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209536985
+        }
+    ],
+    "wof:id":1209536985,
+    "wof:lastmodified":1537573604,
+    "wof:name":"Hubina",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88475,
+    48.61794,
+    17.88475,
+    48.61794
+],
+  "geometry": {"coordinates":[17.88475,48.61794],"type":"Point"}
+}

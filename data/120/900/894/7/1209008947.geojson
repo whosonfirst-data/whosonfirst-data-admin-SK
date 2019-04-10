@@ -1,0 +1,62 @@
+{
+  "id": 1209008947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86862,49.01556,21.86862,49.01556",
+    "geom:latitude":49.01556,
+    "geom:longitude":21.86862,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sopkovce",
+    "gn:country_code":"SK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723537,
+    "gn:latitude":49.01556,
+    "gn:longitude":21.86862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sopkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723537,
+        "wk:page":"Sopkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c1296bf166831b4a25d2040da7968dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209008947
+        }
+    ],
+    "wof:id":1209008947,
+    "wof:lastmodified":1537573563,
+    "wof:name":"Sopkovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86862,
+    49.01556,
+    21.86862,
+    49.01556
+],
+  "geometry": {"coordinates":[21.86862,49.01556],"type":"Point"}
+}

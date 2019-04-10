@@ -1,0 +1,72 @@
+{
+  "id": 1293098081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39806,49.23431,20.39806,49.23431",
+    "geom:latitude":49.23431,
+    "geom:longitude":20.39806,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vyborna",
+    "gn:country_code":"SK",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723186,
+    "gn:latitude":49.23431,
+    "gn:longitude":20.39806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00fdborn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bierbrunn",
+        "V\u00fdborn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723186,
+        "wk:page":"V%C3%BDborn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"22b7894aee5cff8004148f0609a04182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1293098081,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293098081,
+    "wof:lastmodified":1537700343,
+    "wof:name":"Vyborna",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39806,
+    49.23431,
+    20.39806,
+    49.23431
+],
+  "geometry": {"coordinates":[20.39806,49.23431],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327034865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44514,49.38807,21.44514,49.38807",
+    "geom:latitude":49.38807,
+    "geom:longitude":21.44514,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vysny Mirosov",
+    "gn:country_code":"SK",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723129,
+    "gn:latitude":49.38807,
+    "gn:longitude":21.44514,
+    "gn:modification_date":"2010-09-10",
+    "gn:name":"Vy\u0161n\u00fd Miro\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161nyj Miro\u0161ov",
+        "Vy\u0161n\u00ed Miro\u0161ov",
+        "Vy\u0161n\u00fd Miro\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723129,
+        "wk:page":"Vy%C5%A1n%C3%BD_Miro%C5%A1ov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fe6f2b07bd10bbbba97824b8d6aed754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1327034865,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327034865,
+    "wof:lastmodified":1537700341,
+    "wof:name":"Vysny Mirosov",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44514,
+    49.38807,
+    21.44514,
+    49.38807
+],
+  "geometry": {"coordinates":[21.44514,49.38807],"type":"Point"}
+}

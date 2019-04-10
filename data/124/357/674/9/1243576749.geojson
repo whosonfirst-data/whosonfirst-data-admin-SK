@@ -1,0 +1,68 @@
+{
+  "id": 1243576749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62539,49.25862,21.62539,49.25862",
+    "geom:latitude":49.25862,
+    "geom:longitude":21.62539,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Potoky",
+    "gn:country_code":"SK",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723825,
+    "gn:latitude":49.25862,
+    "gn:longitude":21.62539,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Potoky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723825,
+        "wk:page":"Potoky"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8174854b6876d9ff16afe3040aaa97c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1243576749,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1243576749,
+    "wof:lastmodified":1537573568,
+    "wof:name":"Potoky",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62539,
+    49.25862,
+    21.62539,
+    49.25862
+],
+  "geometry": {"coordinates":[21.62539,49.25862],"type":"Point"}
+}

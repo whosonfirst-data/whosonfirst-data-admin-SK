@@ -1,0 +1,67 @@
+{
+  "id": 1293521315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46107,49.03937,20.46107,49.03937",
+    "geom:latitude":49.03937,
+    "geom:longitude":20.46107,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pikovce",
+    "gn:country_code":"SK",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723892,
+    "gn:latitude":49.03937,
+    "gn:longitude":20.46107,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Pikovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723892
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3d66b3f0f757e133847083e1932719b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1293521315,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293521315,
+    "wof:lastmodified":1536738252,
+    "wof:name":"Pikovce",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46107,
+    49.03937,
+    20.46107,
+    49.03937
+],
+  "geometry": {"coordinates":[20.46107,49.03937],"type":"Point"}
+}

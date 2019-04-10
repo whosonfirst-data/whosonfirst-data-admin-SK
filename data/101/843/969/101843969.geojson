@@ -1,0 +1,147 @@
+{
+  "id": 101843969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":937019.474695,
+    "geom:bbox":"18.4638889712,49.3639821375,18.503784572,49.3761018593",
+    "geom:latitude":49.370969,
+    "geom:longitude":18.481599,
+    "iso:country":"SK",
+    "lbl:latitude":49.370581,
+    "lbl:longitude":18.480238,
+    "mps:latitude":49.370581,
+    "mps:longitude":18.480238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Makov"
+    ],
+    "name:ces_x_preferred":[
+        "Makov"
+    ],
+    "name:cze_x_preferred":[
+        "Makov"
+    ],
+    "name:deu_x_preferred":[
+        "Makov"
+    ],
+    "name:dut_x_preferred":[
+        "Makov"
+    ],
+    "name:eng_x_preferred":[
+        "Makov"
+    ],
+    "name:epo_x_preferred":[
+        "Makov"
+    ],
+    "name:fra_x_preferred":[
+        "Makov"
+    ],
+    "name:fre_x_preferred":[
+        "Makov"
+    ],
+    "name:ger_x_preferred":[
+        "Makov"
+    ],
+    "name:hbs_x_preferred":[
+        "Makov"
+    ],
+    "name:hun_x_preferred":[
+        "Trencs\u00e9nmak\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Makov"
+    ],
+    "name:may_x_preferred":[
+        "Makov"
+    ],
+    "name:msa_x_preferred":[
+        "Makov"
+    ],
+    "name:nld_x_preferred":[
+        "Makov"
+    ],
+    "name:pol_x_preferred":[
+        "Makov"
+    ],
+    "name:slk_x_preferred":[
+        "Makov"
+    ],
+    "name:slo_x_preferred":[
+        "Makov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Makov"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Makov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Cadca",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vysok\u00e1 nad Kysucou",
+    "qs:la_lc":"*SK312509515",
+    "qs:level":"locality",
+    "qs:loc":"Makov",
+    "qs:loc_alt":"Makov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058909,
+        "gp:id":820806,
+        "qs:id":1139373,
+        "qs_pg:id":1139373,
+        "wd:id":"Q1027990",
+        "wk:page":"Makov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"83601e7892f874b515c5646a382df2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":101843969,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843969,
+    "wof:lastmodified":1553815540,
+    "wof:name":"Makov",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46388897120147,
+    49.36398213745815,
+    18.50378457196808,
+    49.376101859323
+],
+  "geometry": {"coordinates":[[[18.50378457196808,49.37512829233577],[18.50362826586013,49.37423586857813],[18.50225908538232,49.37433967612026],[18.50210281105251,49.37344724958473],[18.49799531150279,49.37375856585282],[18.49783911812898,49.37286613216941],[18.49510080771233,49.37307358881202],[18.49478854086851,49.37128871093364],[18.49341942687352,49.37139240993713],[18.49357553211638,49.37228485135586],[18.48946808450927,49.3725958551189],[18.48931205303637,49.3717034071509],[18.48794291780916,49.37180703962292],[18.48778691810105,49.37091458888153],[18.48367955435845,49.37122537995265],[18.48274414929091,49.36587062383376],[18.48411312832127,49.36576705652863],[18.48380133481044,49.36398213745815],[18.48106346977977,49.36418924671534],[18.48168688880446,49.36775909993708],[18.47484164180054,49.36827662562911],[18.47468589922863,49.36738415231213],[18.47194781251983,49.36759104180646],[18.47210350591575,49.36848351947958],[18.46388897120147,49.3691038018448],[18.46420008437826,49.3708887815468],[18.46830752310325,49.37057870215318],[18.46861881245894,49.37236366643816],[18.4713571768479,49.37215685496375],[18.47120147940416,49.37126437747128],[18.47667804625553,49.37085056362855],[18.47683384206857,49.37174303240636],[18.47820299512813,49.37163953518257],[18.47898220464742,49.376101859323],[18.48035147537911,49.37599833456483],[18.47988385438026,49.37332094839127],[18.48672975956754,49.37280310779397],[18.48688574903173,49.37369555953586],[18.4896241231574,49.37348830249601],[18.48978016898167,49.37438074928235],[18.49525695190465,49.37396602686437],[18.49541310327777,49.37485846432554],[18.49815151205979,49.37465099894484],[18.49830771980004,49.37554343144535],[18.50378457196808,49.37512829233577]]],"type":"Polygon"}
+}

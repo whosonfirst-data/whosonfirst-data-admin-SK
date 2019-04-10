@@ -1,0 +1,164 @@
+{
+  "id": 101780503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1036759.405227,
+    "geom:bbox":"20.2430174024,49.1180518209,20.2735236588,49.130586108",
+    "geom:latitude":49.124067,
+    "geom:longitude":20.258257,
+    "gn:population":1520,
+    "iso:country":"SK",
+    "lbl:latitude":49.124256,
+    "lbl:longitude":20.263111,
+    "mps:latitude":49.124256,
+    "mps:longitude":20.263111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3erd\u0151falva"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Nowa Le\u015bna"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430-\u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0409\u0435\u0441\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Nova Lesna"
+    ],
+    "name:unk_x_variant":[
+        "Neu-Walddorf"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Poprad",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vysok\u00e9 Tatry",
+    "qs:la_lc":"*SK416560103",
+    "qs:level":"locality",
+    "qs:loc":"Nov\u00e1 Lesn\u00e1",
+    "qs:loc_alt":"Nova Lesna",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070da8a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":724026,
+        "gp:id":821286,
+        "qs:id":1077642,
+        "qs_pg:id":1077642,
+        "wd:id":"Q664187",
+        "wk:page":"Nov\u00e1 Lesn\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9b070babf0ad45beb2f2884dfa23ea54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":101780503,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780503,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527715864,
+    "wof:name":"Nov\u00e1 Lesn\u00e1",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:population":1520,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24301740244806,
+    49.11805182088631,
+    20.2735236587842,
+    49.13058610795326
+],
+  "geometry": {"coordinates":[[[20.2560462150779,49.12400016151719],[20.26012277609976,49.12362499314776],[20.26068384311947,49.12629312205883],[20.26204275603322,49.12616802521802],[20.26222981936871,49.12705739743086],[20.26494767419081,49.12680714918758],[20.26476056296525,49.12591778219064],[20.26611945698176,49.12579263600446],[20.265932330341,49.12490327087392],[20.26729119411436,49.12477811084813],[20.26710405206069,49.1238887475842],[20.26846288559153,49.12376357371949],[20.2682757281267,49.12287421232219],[20.27235211908982,49.12249859987259],[20.27216489833927,49.12160924556099],[20.2735236587842,49.12148401112751],[20.27314919500776,49.11970530549547],[20.27179048243511,49.11983053470931],[20.27141610065655,49.11805182088631],[20.26734006874045,49.11842739419956],[20.26771430690962,49.12020612367598],[20.26499682506068,49.12045643409016],[20.26518390906227,49.12134580293133],[20.25974877403934,49.12184623683254],[20.25956178579332,49.12095685756208],[20.25820301023776,49.12108192231335],[20.25801605445236,49.12019253969493],[20.25529853233814,49.12044261464484],[20.2554854402444,49.1213320024749],[20.25140903806198,49.1217069993632],[20.25178273577762,49.12348578843103],[20.2490650070971,49.12373571453679],[20.2494386430987,49.12551451105918],[20.24536185922841,49.1258892924775],[20.24554861815869,49.12677869743982],[20.24418965367568,49.12690359428376],[20.24437639716905,49.12779300110947],[20.24301740244806,49.12791788410675],[20.24357761215015,49.13058610795326],[20.24901384072444,49.13008644601615],[20.24864016745846,49.12830765169031],[20.25407610375777,49.12780774738195],[20.25351537035459,49.12513958159923],[20.25623315706264,49.12488954638201],[20.2560462150779,49.12400016151719]]],"type":"Polygon"}
+}

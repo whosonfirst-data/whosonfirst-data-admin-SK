@@ -1,0 +1,65 @@
+{
+  "id": 102547761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1363888889,48.8075,17.1363888889,48.8075",
+    "geom:latitude":48.8075,
+    "geom:longitude":17.136389,
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"520",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424877,
+        "county_id":29399324,
+        "localadmin_id":29402163,
+        "planet_id":1,
+        "state_id":20070504
+    },
+    "wof:belongsto":[
+        85633769,
+        85688369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514610,
+        "icao:code":"LZHL",
+        "oa:id":"308331",
+        "wd:id":"Q14602143"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5a91c676090a31a5d69747bdef02ba8e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547761,
+            "country_id":85633769,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":102547761,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Holic Airport",
+    "wof:parent_id":85688369,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.136388888889,
+    48.8075,
+    17.136388888889,
+    48.8075
+],
+  "geometry": {"coordinates":[17.136388888889,48.8075],"type":"Point"}
+}

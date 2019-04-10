@@ -1,0 +1,71 @@
+{
+  "id": 1343980691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60158,49.38343,21.60158,49.38343",
+    "geom:latitude":49.38343,
+    "geom:longitude":21.60158,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizna Pisana",
+    "gn:country_code":"SK",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724062,
+    "gn:latitude":49.38343,
+    "gn:longitude":21.60158,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e1 Pisan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017en\u00e1 Pisan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724062,
+        "wk:page":"Ni%C5%BEn%C3%A1_Pisan%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8bbb64000f5327248ab771e9155259f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1343980691,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343980691,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Nizna Pisana",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60158,
+    49.38343,
+    21.60158,
+    49.38343
+],
+  "geometry": {"coordinates":[21.60158,49.38343],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326634795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.06285,49.0401,21.06285,49.0401",
+    "geom:latitude":49.0401,
+    "geom:longitude":21.06285,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Daletice",
+    "gn:country_code":"SK",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724920,
+    "gn:latitude":49.0401,
+    "gn:longitude":21.06285,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daletice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724920,
+        "wk:page":"Daletice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"31fd9d9854d86e1005355b6879010f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1326634795,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1326634795,
+    "wof:lastmodified":1537573582,
+    "wof:name":"Daletice",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.06285,
+    49.0401,
+    21.06285,
+    49.0401
+],
+  "geometry": {"coordinates":[21.06285,49.0401],"type":"Point"}
+}

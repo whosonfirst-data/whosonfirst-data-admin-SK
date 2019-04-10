@@ -1,0 +1,67 @@
+{
+  "id": 1276571017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48881,49.12203,19.48881,49.12203",
+    "geom:latitude":49.12203,
+    "geom:longitude":19.48881,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hlinik",
+    "gn:country_code":"SK",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060100,
+    "gn:latitude":49.12203,
+    "gn:longitude":19.48881,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Hlin\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060100
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a103bb68333ef383e1a863712ce02b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1276571017,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276571017,
+    "wof:lastmodified":1536957750,
+    "wof:name":"Hlinik",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48881,
+    49.12203,
+    19.48881,
+    49.12203
+],
+  "geometry": {"coordinates":[19.48881,49.12203],"type":"Point"}
+}

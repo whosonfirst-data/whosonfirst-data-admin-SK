@@ -1,0 +1,67 @@
+{
+  "id": 1243472055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17043,48.54061,19.17043,48.54061",
+    "geom:latitude":48.54061,
+    "geom:longitude":19.17043,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bobek",
+    "gn:country_code":"SK",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061042,
+    "gn:latitude":48.54061,
+    "gn:longitude":19.17043,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bobek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061042
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4435f767dbe067a658c54af1f792200d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1243472055,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243472055,
+    "wof:lastmodified":1536769103,
+    "wof:name":"Bobek",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17043,
+    48.54061,
+    19.17043,
+    48.54061
+],
+  "geometry": {"coordinates":[19.17043,48.54061],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101858945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.780779,48.454086,18.780779,48.454086",
+    "geom:latitude":48.454086,
+    "geom:longitude":18.780779,
+    "iso:country":"SK",
+    "lbl:latitude":48.454086,
+    "lbl:longitude":18.780779,
+    "mps:latitude":48.454086,
+    "mps:longitude":18.780779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:cze_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:dut_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:eng_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:epo_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:fre_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:ger_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:hun_x_preferred":[
+        "Hodrush\u00e1mor"
+    ],
+    "name:ita_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:may_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:pol_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:slo_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0434\u0440\u0443\u0448\u0430-\u0425\u0430\u043c\u0440\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017darnovica",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hodru\u0161a - H\u00e1mre",
+    "qs:loc_alt":"Hodrusa - Hamre",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402868,
+        "qs:id":4,
+        "wd:id":"Q1037257"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3d334babf9310875c662166f028b9c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":101858945,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101858945,
+    "wof:lastmodified":1544744663,
+    "wof:name":"Hodru\u0161a - H\u00e1mre",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.780779,
+    48.454086,
+    18.780779,
+    48.454086
+],
+  "geometry": {"coordinates":[18.780779,48.454086],"type":"Point"}
+}

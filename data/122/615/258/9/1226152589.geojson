@@ -1,0 +1,71 @@
+{
+  "id": 1226152589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90717,48.25324,18.90717,48.25324",
+    "geom:latitude":48.25324,
+    "geom:longitude":18.90717,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drazovce",
+    "gn:country_code":"SK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060368,
+    "gn:latitude":48.25324,
+    "gn:longitude":18.90717,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dr\u00e1\u017eovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr\u00e1\u017eovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060368,
+        "wk:page":"Dr%C3%A1%C5%BEovce_%28Bansk%C3%A1_Bystrica%29"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3d2fec453121d3f97030f0c8fa766465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1226152589,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226152589,
+    "wof:lastmodified":1537700427,
+    "wof:name":"Drazovce",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90717,
+    48.25324000000001,
+    18.90717,
+    48.25324000000001
+],
+  "geometry": {"coordinates":[18.90717,48.25324000000001],"type":"Point"}
+}

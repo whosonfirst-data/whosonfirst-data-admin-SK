@@ -1,0 +1,67 @@
+{
+  "id": 1293674777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95,49.26667,18.95,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":18.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zlien",
+    "gn:country_code":"SK",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056483,
+    "gn:latitude":49.26667,
+    "gn:longitude":18.95,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Zlie\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056483
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c43f07ee9496c5d0ee80da90cf9065fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1293674777,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1293674777,
+    "wof:lastmodified":1537013642,
+    "wof:name":"Zlien",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95,
+    49.26667,
+    18.95,
+    49.26667
+],
+  "geometry": {"coordinates":[18.95,49.26667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209436269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21566,48.77922,17.21566,48.77922",
+    "geom:latitude":48.77922,
+    "geom:longitude":17.21566,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mocidlany",
+    "gn:country_code":"SK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058668,
+    "gn:latitude":48.77922,
+    "gn:longitude":17.21566,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mo\u010didlany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058668
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4998f127908aca99e9ddf0880c6fcc28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209436269
+        }
+    ],
+    "wof:id":1209436269,
+    "wof:lastmodified":1536287095,
+    "wof:name":"Mocidlany",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21566,
+    48.77922,
+    17.21566,
+    48.77922
+],
+  "geometry": {"coordinates":[17.21566,48.77922],"type":"Point"}
+}

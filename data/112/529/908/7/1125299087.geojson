@@ -1,0 +1,82 @@
+{
+  "id": 1125299087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.866949,48.329548,17.866949,48.329548",
+    "geom:latitude":48.329548,
+    "geom:longitude":17.866949,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.329548,
+    "lbl:longitude":17.866949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rumanova",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos":79,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":119,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":210269,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401273,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29401273,
+        "qs_pg:id":210269
+    },
+    "wof:country":"SK",
+    "wof:created":1497043319,
+    "wof:geomhash":"27b78f7b9eac9cf45775b4bf15415005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "localadmin_id":1125299087,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125299087,
+    "wof:lastmodified":1509387675,
+    "wof:name":"Rumanova",
+    "wof:parent_id":102080473,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.866949,
+    48.329548,
+    17.866949,
+    48.329548
+],
+  "geometry": {"coordinates":[17.866949,48.329548],"type":"Point"}
+}

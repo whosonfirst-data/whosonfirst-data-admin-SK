@@ -1,0 +1,91 @@
+{
+  "id": 1125800531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74261,48.46164,18.74261,48.46164",
+    "geom:latitude":48.46164,
+    "geom:longitude":18.74261,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.46164,
+    "lbl:longitude":18.74261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dolnie H\u00e1mry"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3060470,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Doln\u00e9 H\u00e1mre",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":184050,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819196,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060470,
+        "gp:id":819196,
+        "qs_pg:id":184050
+    },
+    "wof:country":"SK",
+    "wof:created":1497291240,
+    "wof:geomhash":"d2cb9dfeb7cf893aad191cbc0d623356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":1125800531,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125800531,
+    "wof:lastmodified":1509392886,
+    "wof:name":"Doln\u00e9 H\u00e1mre",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74261,
+    48.46164,
+    18.74261,
+    48.46164
+],
+  "geometry": {"coordinates":[18.74261,48.46164],"type":"Point"}
+}

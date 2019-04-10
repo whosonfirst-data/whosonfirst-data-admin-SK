@@ -1,0 +1,71 @@
+{
+  "id": 1327036053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16752,48.46417,18.16752,48.46417",
+    "geom:latitude":48.46417,
+    "geom:longitude":18.16752,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sulovce",
+    "gn:country_code":"SK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057342,
+    "gn:latitude":48.46417,
+    "gn:longitude":18.16752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00falovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00falovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057342,
+        "wk:page":"S%C3%BAlovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"31959b92ca29a290154d70a8a8a3c70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1327036053,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1327036053,
+    "wof:lastmodified":1537700388,
+    "wof:name":"Sulovce",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16752,
+    48.46417,
+    18.16752,
+    48.46417
+],
+  "geometry": {"coordinates":[18.16752,48.46417],"type":"Point"}
+}

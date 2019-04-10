@@ -1,0 +1,72 @@
+{
+  "id": 1243176153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27144,48.13442,19.27144,48.13442",
+    "geom:latitude":48.13442,
+    "geom:longitude":19.27144,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Batorova",
+    "gn:country_code":"SK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061161,
+    "gn:latitude":48.13442,
+    "gn:longitude":19.27144,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e1torov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e1torfalu",
+        "B\u00e1torov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061161,
+        "wk:page":"B%C3%A1torov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9d72df591f186317b84ebda7b9b62c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1243176153,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243176153,
+    "wof:lastmodified":1537700437,
+    "wof:name":"Batorova",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27144,
+    48.13442,
+    19.27144,
+    48.13442
+],
+  "geometry": {"coordinates":[19.27144,48.13442],"type":"Point"}
+}

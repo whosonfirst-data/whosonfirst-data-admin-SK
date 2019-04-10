@@ -1,0 +1,82 @@
+{
+  "id": 1226574875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4801,49.23973,20.4801,49.23973",
+    "geom:latitude":49.23973,
+    "geom:longitude":20.4801,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Podhorany",
+    "gn:country_code":"SK",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723872,
+    "gn:latitude":49.23973,
+    "gn:longitude":20.4801,
+    "gn:modification_date":"2013-10-31",
+    "gn:name":"Podhorany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "M\u00e4ltern",
+        "M\u00e4lter"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00e4ltern"
+    ],
+    "name:deu_x_variant":[
+        "M\u00e4lter"
+    ],
+    "name:und_x_variant":[
+        "Maldur",
+        "Podhorany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723872,
+        "wk:page":"Podhorany%2C_Ke%C5%BEmarok_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2f73699d5b70013740c50255c798e756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1226574875,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226574875,
+    "wof:lastmodified":1537700354,
+    "wof:name":"Podhorany",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4801,
+    49.23973,
+    20.4801,
+    49.23973
+],
+  "geometry": {"coordinates":[20.4801,49.23973],"type":"Point"}
+}

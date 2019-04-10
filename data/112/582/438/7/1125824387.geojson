@@ -1,0 +1,153 @@
+{
+  "id": 1125824387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2554,48.18675,17.2554,48.18675",
+    "geom:latitude":48.18675,
+    "geom:longitude":17.2554,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":6245,
+    "iso:country":"SK",
+    "lbl:latitude":48.18675,
+    "lbl:longitude":17.2554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u043a\u0430 \u043f\u0440\u044b \u0414\u0443\u043d\u0430\u0456"
+    ],
+    "name:cat_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:cze_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:dut_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:eng_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:epo_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:fre_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:ger_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:hun_x_preferred":[
+        "Pozsonyiv\u00e1nka"
+    ],
+    "name:ita_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f4\u30a1\u30f3\u30ab\u30fb\u30d7\u30ea\u30fb\u30c9\u30a5\u30ca\u30a4"
+    ],
+    "name:may_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:nob_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:por_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043a\u0430 \u043f\u0440\u0438 \u0414\u0443\u043d\u0430\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:slv_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043a\u0430 \u043f\u0440\u0438 \u0414\u0443\u043d\u0430\u0432\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Ivanka"
+    ],
+    "name:war_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3059767,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ivanka pri Dunaji",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos":229,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":229,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168814,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819943,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059767,
+        "gp:id":819943,
+        "qs_pg:id":1168814,
+        "wd:id":"Q302787"
+    },
+    "wof:country":"SK",
+    "wof:created":1497292211,
+    "wof:geomhash":"bdf6b1af131627e62a37775bfc4aafb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":1125824387,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1125824387,
+    "wof:lastmodified":1514505117,
+    "wof:name":"Ivanka pri Dunaji",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:population":6245,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2554,
+    48.18675,
+    17.2554,
+    48.18675
+],
+  "geometry": {"coordinates":[17.2554,48.18675],"type":"Point"}
+}

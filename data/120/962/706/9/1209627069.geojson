@@ -1,0 +1,65 @@
+{
+  "id": 1209627069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87552,48.86142,21.87552,48.86142",
+    "geom:latitude":48.86142,
+    "geom:longitude":21.87552,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Stare",
+    "gn:country_code":"SK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723501,
+    "gn:latitude":48.86142,
+    "gn:longitude":21.87552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Star\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Star\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723501,
+        "wk:page":"Star%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"04a23262b5c3d55191efbb9c3eacd34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209627069
+        }
+    ],
+    "wof:id":1209627069,
+    "wof:lastmodified":1537700348,
+    "wof:name":"Stare",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87552,
+    48.86142,
+    21.87552,
+    48.86142
+],
+  "geometry": {"coordinates":[21.87552,48.86142],"type":"Point"}
+}

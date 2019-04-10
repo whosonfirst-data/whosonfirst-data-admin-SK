@@ -1,0 +1,67 @@
+{
+  "id": 1310338391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22893,49.07812,18.22893,49.07812",
+    "geom:latitude":49.07812,
+    "geom:longitude":18.22893,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hlohovec",
+    "gn:country_code":"SK",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060094,
+    "gn:latitude":49.07812,
+    "gn:longitude":18.22893,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Hlohovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060094
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bd4c8d54ac0c57ddd2add2fc6bb3e168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1310338391,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1310338391,
+    "wof:lastmodified":1536660613,
+    "wof:name":"Hlohovec",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22893,
+    49.07812,
+    18.22893,
+    49.07812
+],
+  "geometry": {"coordinates":[18.22893,49.07812],"type":"Point"}
+}

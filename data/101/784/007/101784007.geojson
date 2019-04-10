@@ -1,0 +1,111 @@
+{
+  "id": 101784007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":947206.523926,
+    "geom:bbox":"18.5177061605,48.3481266768,18.5370684969,48.3606673439",
+    "geom:latitude":48.355624,
+    "geom:longitude":18.528623,
+    "iso:country":"SK",
+    "lbl:latitude":48.356129,
+    "lbl:longitude":18.529576,
+    "mps:latitude":48.356129,
+    "mps:longitude":18.529576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:ces_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:deu_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:epo_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:fra_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:hbs_x_preferred":[
+        "Tjekovske Njemce"
+    ],
+    "name:hun_x_preferred":[
+        "Garamn\u00e9meti"
+    ],
+    "name:ita_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:msa_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:nld_x_preferred":[
+        "Tekovsk\u00e9 Nemce"
+    ],
+    "name:unk_x_variant":[
+        "Nemce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zlat\u00e9 Moravce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010caradice",
+    "qs:la_lc":"*SK237500127",
+    "qs:level":"locality",
+    "qs:loc":"Tekovsk\u00e9 Nemce",
+    "qs:loc_alt":"Tekovske Nemce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057232,
+        "gp:id":822626,
+        "qs:id":1271768,
+        "wd:id":"Q933341",
+        "wk:page":"Tekovsk\u00e9 Nemce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3fd89d39718a0a27d272f8ed52eec067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":101784007,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101784007,
+    "wof:lastmodified":1527688539,
+    "wof:name":"Tekovsk\u00e9 Nemce",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51770616050516,
+    48.34812667677829,
+    18.53706849693162,
+    48.36066734391648
+],
+  "geometry": {"coordinates":[[[18.53172940043748,48.36004460662804],[18.53157739881675,48.35915180861122],[18.53426053348767,48.35894410376676],[18.53350039441949,48.35448012521783],[18.53484183745832,48.35437625903836],[18.53468980680856,48.35348346351248],[18.53603122146984,48.353379583209],[18.53572713399109,48.35159399446354],[18.53706849693162,48.3514901021606],[18.53676439011616,48.34970451507456],[18.53542307386061,48.34980840313131],[18.53527105404947,48.34891560649504],[18.5339297561049,48.34901947618391],[18.53377776647017,48.34812667677829],[18.53243648683741,48.34823052809998],[18.53258845313132,48.34912332962796],[18.53124714512978,48.34922716682672],[18.53139909491568,48.35011996982996],[18.53005775854393,48.3502237929053],[18.53020969181949,48.35111659738396],[18.52886832707702,48.3512204063353],[18.52902024384048,48.35211321228905],[18.5276788507262,48.35221700711566],[18.52783075097574,48.35310981454472],[18.52648932948858,48.35321359524573],[18.52664121322175,48.35410640414989],[18.52395830847468,48.35431392105272],[18.52411015234082,48.35520673355256],[18.52276866908039,48.35531046975302],[18.5229204964254,48.35620328372738],[18.52157898478936,48.35630700580032],[18.52173079561106,48.35719982124925],[18.51770616050516,48.35751089633669],[18.51816142374884,48.36018935788849],[18.52352787409512,48.35977453316951],[18.52367973558722,48.36066734391648],[18.53172940043748,48.36004460662804]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293901355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2804,48.31366,20.2804,48.31366",
+    "geom:latitude":48.31366,
+    "geom:longitude":20.2804,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ciz",
+    "gn:country_code":"SK",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724929,
+    "gn:latitude":48.31366,
+    "gn:longitude":20.2804,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010c\u00ed\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u00ed\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724929,
+        "wk:page":"%C4%8C%C3%AD%C5%BE"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"812ca7012e6783ba592ed5423d9bfe7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1293901355,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293901355,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Ciz",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2804,
+    48.31366,
+    20.2804,
+    48.31366
+],
+  "geometry": {"coordinates":[20.2804,48.31366],"type":"Point"}
+}

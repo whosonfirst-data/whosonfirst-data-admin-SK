@@ -1,0 +1,141 @@
+{
+  "id": 101780499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":538318.743081,
+    "geom:bbox":"20.8566983975,49.1715758196,20.8741660789,49.1782293293",
+    "geom:latitude":49.174905,
+    "geom:longitude":20.865128,
+    "iso:country":"SK",
+    "lbl:latitude":49.174731,
+    "lbl:longitude":20.86526,
+    "mps:latitude":49.174731,
+    "mps:longitude":20.86526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:hun_x_preferred":[
+        "Dar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:may_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0448\u043a\u0435 \u0414\u0440\u0430\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0456 \u0414\u0440\u0430\u0432\u0446\u0456"
+    ],
+    "name:war_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Sabinov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u0160ari\u0161sk\u00e9 Dravce",
+    "qs:la_lc":"*SK418525219",
+    "qs:level":"locality",
+    "qs:loc":"\u0160ari\u0161sk\u00e9 Dravce",
+    "qs:loc_alt":"Sarisske Dravce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723653,
+        "gp:id":822106,
+        "qs:id":885869,
+        "wd:id":"Q834602",
+        "wk:page":"\u0160ari\u0161sk\u00e9 Dravce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a1484a49c5c720966016c5ec80bc3272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":101780499,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780499,
+    "wof:lastmodified":1527715867,
+    "wof:name":"\u0160ari\u0161sk\u00e9 Dravce",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85669839748908,
+    49.17157581961953,
+    20.87416607886439,
+    49.17822932931597
+],
+  "geometry": {"coordinates":[[[20.86680607679239,49.17769960408361],[20.86660773378975,49.17681147222135],[20.86932567703764,49.17654651652714],[20.86912729532213,49.17565838939657],[20.87184516410144,49.17539337349558],[20.87144833229809,49.1736171279066],[20.87416607886439,49.17335205732849],[20.87376918774476,49.17157581961953],[20.86289842313113,49.17263566337118],[20.86309667320046,49.17352380471795],[20.85766103518716,49.17405334327066],[20.85805737142709,49.17582964566867],[20.85669839748908,49.17596199474383],[20.85709472209669,49.17773829949419],[20.86117176716112,49.17734118640868],[20.86137001465136,49.17822932931597],[20.86680607679239,49.17769960408361]]],"type":"Polygon"}
+}

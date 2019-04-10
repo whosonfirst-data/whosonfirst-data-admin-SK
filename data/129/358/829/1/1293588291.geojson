@@ -1,0 +1,98 @@
+{
+  "id": 1293588291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7994,49.02378,20.7994,49.02378",
+    "geom:latitude":49.02378,
+    "geom:longitude":20.7994,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bijacovce",
+    "gn:country_code":"SK",
+    "gn:dem":519,
+    "gn:elevation":"513.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725124,
+    "gn:latitude":49.02378,
+    "gn:longitude":20.7994,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"Bijacovce",
+    "gn:population":955,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Biazowitz",
+        "Betendorf"
+    ],
+    "name:deu_x_preferred":[
+        "Biazowitz"
+    ],
+    "name:deu_x_variant":[
+        "Betendorf"
+    ],
+    "name:eng_x_preferred":[
+        "Bijacovce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u044f\u0446\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Bijacovce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u044f\u0446\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Szepes-mindszent",
+        "Bijacovce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725124,
+        "wk:page":"Bijacovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4c34c82a5b5049bcd9f28347edbc0e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1293588291,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293588291,
+    "wof:lastmodified":1537700376,
+    "wof:name":"Bijacovce",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:population":955,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7994,
+    49.02378,
+    20.7994,
+    49.02378
+],
+  "geometry": {"coordinates":[20.7994,49.02378],"type":"Point"}
+}

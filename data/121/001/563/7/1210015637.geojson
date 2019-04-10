@@ -1,0 +1,70 @@
+{
+  "id": 1210015637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42341,49.38539,20.42341,49.38539",
+    "geom:latitude":49.38539,
+    "geom:longitude":20.42341,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kupele Cerveny Klastor",
+    "gn:country_code":"SK",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724357,
+    "gn:latitude":49.38539,
+    "gn:longitude":20.42341,
+    "gn:modification_date":"2009-08-10",
+    "gn:name":"K\u00fapele \u010cerven\u00fd Kl\u00e1\u0161tor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smerd\u017eonka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724357
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b72b0a3b540840e85c8375122e264c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1210015637,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1210015637,
+    "wof:lastmodified":1537700363,
+    "wof:name":"Kupele Cerveny Klastor",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42341,
+    49.38539,
+    20.42341,
+    49.38539
+],
+  "geometry": {"coordinates":[20.42341,49.38539],"type":"Point"}
+}

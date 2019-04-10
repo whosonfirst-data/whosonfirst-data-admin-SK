@@ -1,0 +1,67 @@
+{
+  "id": 1343285925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27907,49.01446,18.27907,49.01446",
+    "geom:latitude":49.01446,
+    "geom:longitude":18.27907,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nozdrovice",
+    "gn:country_code":"SK",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058434,
+    "gn:latitude":49.01446,
+    "gn:longitude":18.27907,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nozdrovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058434
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a6f7e7cb58a8a30cefe262d465b43ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080555,
+            "locality_id":1343285925,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343285925,
+    "wof:lastmodified":1536997435,
+    "wof:name":"Nozdrovice",
+    "wof:parent_id":102080555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27907,
+    49.01446,
+    18.27907,
+    49.01446
+],
+  "geometry": {"coordinates":[18.27907,49.01446],"type":"Point"}
+}

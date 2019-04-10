@@ -1,0 +1,145 @@
+{
+  "id": 101754901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":983468.180302,
+    "geom:bbox":"18.1162419288,48.3267335496,18.1365849126,48.339739639",
+    "geom:latitude":48.332875,
+    "geom:longitude":18.12677,
+    "iso:country":"SK",
+    "lbl:latitude":48.332819,
+    "lbl:longitude":18.126076,
+    "mps:latitude":48.332819,
+    "mps:longitude":18.126076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:ces_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:cze_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:dut_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:eng_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:fre_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:ger_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:hbs_x_preferred":[
+        "Njitranske Hrn\u010djarovce"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitragerencs\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:may_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:slo_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0435 \u0425\u0440\u043d\u0447\u0458\u0430\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Nitrianske Hrnciarovce"
+    ],
+    "name:unk_x_variant":[
+        "Hrn\u010diarovce"
+    ],
+    "name:war_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nitra",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nitra",
+    "qs:la_lc":"*SK233500011",
+    "qs:level":"locality",
+    "qs:loc":"Nitrianske Hrn\u010diarovce",
+    "qs:loc_alt":"Nitrianske Hrnciarovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070d9180-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3058525,
+        "gp:id":821212,
+        "qs:id":1271478,
+        "wd:id":"Q1070681",
+        "wk:page":"Nitrianske Hrn\u010diarovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9df46754bccceab5580e607cec3af416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":101754901,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101754901,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641851,
+    "wof:name":"Nitrianske Hrn\u010diarovce",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11624192877787,
+    48.32673354958996,
+    18.13658491258792,
+    48.33973963897483
+],
+  "geometry": {"coordinates":[[[18.11816725098873,48.33057073964068],[18.11816725098873,48.33430587681909],[18.11856504521899,48.33427658469583],[18.11827595910535,48.33248966149108],[18.12230059846524,48.33219315395559],[18.12273444789895,48.33487351965186],[18.12139283606172,48.33497237781535],[18.12153744215891,48.33586583382868],[18.12422070783026,48.33566809720213],[18.12451003311435,48.33745499928602],[18.12719337320368,48.33725718954128],[18.12733809239586,48.33815063561002],[18.12867977864897,48.33805170432788],[18.1288245277463,48.33894514775449],[18.13016623260268,48.33884619819094],[18.13031101160749,48.33973963897483],[18.13165273506638,48.33964067112936],[18.13136313678132,48.33785379298757],[18.1327048086589,48.3377548129298],[18.13255999589444,48.33686137495198],[18.13658491258792,48.33656434330044],[18.1364400361656,48.33567091077373],[18.13509842545272,48.33576993555801],[18.13480873893707,48.33398306459463],[18.13346717020863,48.3340820690741],[18.13288796890072,48.3305083116071],[18.1288635146031,48.33080520323091],[18.12842939245473,48.3281248604128],[18.12574653927953,48.32832269475301],[18.12560189167812,48.32742924186317],[18.1229190661212,48.3276270071413],[18.1227744717886,48.32673354958996],[18.12009167385651,48.32693124580811],[18.12023622142419,48.32782470739926],[18.11624192877787,48.32811892532783],[18.121601,48.330082],[18.11816725098873,48.33057073964068]]],"type":"Polygon"}
+}

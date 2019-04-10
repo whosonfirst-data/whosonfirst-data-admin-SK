@@ -1,0 +1,135 @@
+{
+  "id": 101783995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:area_square_m":1166533.94291,
+    "geom:bbox":"18.4904052565,48.4656592005,18.5114859387,48.4791546759",
+    "geom:latitude":48.471872,
+    "geom:longitude":18.498748,
+    "iso:country":"SK",
+    "lbl:latitude":48.47264,
+    "lbl:longitude":18.497151,
+    "mps:latitude":48.47264,
+    "mps:longitude":18.497151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:ces_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:cze_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:deu_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:dut_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:eng_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:epo_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:fra_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:fre_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:ger_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:hbs_x_preferred":[
+        "Jedljove Kostoljani"
+    ],
+    "name:hun_x_preferred":[
+        "Feny\u0151kosztol\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:may_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:msa_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:nld_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:slo_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0434\u0459\u043e\u0432\u0435 \u041a\u043e\u0441\u0442\u043e\u0459\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Jed\u013eov\u00e9 Kosto\u013eany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zlat\u00e9 Moravce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Jed\u013eov\u00e9 Kosto\u013eany",
+    "qs:la_lc":"*SK237500364",
+    "qs:level":"locality",
+    "qs:loc":"Jed\u013eov\u00e9 Kosto\u013eany",
+    "qs:loc_alt":"Jedlove Kostolany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059656,
+        "gp:id":820042,
+        "qs:id":1271222,
+        "wd:id":"Q999913",
+        "wk:page":"Jed\u013eov\u00e9 Kosto\u013eany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"38e13b86ccb3bf6011d359429675c4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":101783995,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101783995,
+    "wof:lastmodified":1527688499,
+    "wof:name":"Jed\u013eov\u00e9 Kosto\u013eany",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49040525653868,
+    48.46565920050278,
+    18.51148593870585,
+    48.47915467593987
+],
+  "geometry": {"coordinates":[[[18.50164079954862,48.47905117397181],[18.50148878156267,48.47815838020631],[18.50283355973897,48.47805486406702],[18.50161747464324,48.47091250796279],[18.50296205982437,48.47080899251699],[18.50281005653937,48.4699161972556],[18.50818825284279,48.46950198105611],[18.50864456512551,48.47218033943955],[18.50998917204572,48.47207673828882],[18.51014131334671,48.47296952101442],[18.51148593870585,48.47286590144728],[18.51087732070505,48.46929477521292],[18.50953278929865,48.46939838627998],[18.50938067543336,48.46850560099926],[18.50669164444577,48.46871277001293],[18.5065395844087,48.4678199798451],[18.50519508482859,48.46792353779273],[18.50504305513147,48.46703074486265],[18.50100959657073,48.46734131459579],[18.50085764418048,48.46644851465851],[18.49951317138959,48.46655200320055],[18.4993612493339,48.46565920050278],[18.49398340168898,48.46607298328649],[18.49413522980512,48.46696579446967],[18.49279073180736,48.46706920156163],[18.49294254328225,48.46796201422757],[18.49159801675836,48.46806540714988],[18.49174981158961,48.46895822129835],[18.49040525653868,48.4690616000496],[18.49055703472425,48.46995441568083],[18.49190161326487,48.46985103480949],[18.49250888841482,48.47342228247879],[18.49116421590605,48.47352567183208],[18.49131602831346,48.4744184842765],[18.49266072431709,48.47431509280261],[18.49326813639613,48.47788632772443],[18.494612921346,48.47778291147273],[18.49476481498482,48.47867571648857],[18.50014399833867,48.47826188005109],[18.50029599282607,48.47915467593987],[18.50164079954862,48.47905117397181]]],"type":"Polygon"}
+}

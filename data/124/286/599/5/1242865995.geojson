@@ -1,0 +1,73 @@
+{
+  "id": 1242865995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69565,48.03306,17.69565,48.03306",
+    "geom:latitude":48.03306,
+    "geom:longitude":17.69565,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"207.0",
+    "gn:asciiname":"Dunajsky Klatov",
+    "gn:country_code":"SK",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060306,
+    "gn:latitude":48.03306,
+    "gn:longitude":17.69565,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"Dunajsk\u00fd Kl\u00e1tov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f6k\u00e9s",
+        "Dunajsk\u00fd Kl\u00e1tov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060306,
+        "wk:page":"Dunajsk%C3%BD_Kl%C3%A1tov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"926e1110555b78c7e9ab9d8e43ea0e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1242865995,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1242865995,
+    "wof:lastmodified":1537700426,
+    "wof:name":"Dunajsky Klatov",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69565,
+    48.03306,
+    17.69565,
+    48.03306
+],
+  "geometry": {"coordinates":[17.69565,48.03306],"type":"Point"}
+}

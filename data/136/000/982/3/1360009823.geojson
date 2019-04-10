@@ -1,0 +1,71 @@
+{
+  "id": 1360009823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26453,48.1452,18.26453,48.1452",
+    "geom:latitude":48.1452,
+    "geom:longitude":18.26453,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mala Mana",
+    "gn:country_code":"SK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058884,
+    "gn:latitude":48.1452,
+    "gn:longitude":18.26453,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u00e1 Ma\u0148a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kis-M\u00e1nya",
+        "Mal\u00e1 Ma\u0148a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058884
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"19f513ff8d1986177a89ef34316de08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1360009823,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1360009823,
+    "wof:lastmodified":1537700406,
+    "wof:name":"Mala Mana",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26453,
+    48.1452,
+    18.26453,
+    48.1452
+],
+  "geometry": {"coordinates":[18.26453,48.1452],"type":"Point"}
+}

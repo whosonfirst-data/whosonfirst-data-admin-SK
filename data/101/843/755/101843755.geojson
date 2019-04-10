@@ -1,0 +1,136 @@
+{
+  "id": 101843755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1136654.425305,
+    "geom:bbox":"18.545088161,48.3370144633,18.5738942084,48.3526670663",
+    "geom:latitude":48.345058,
+    "geom:longitude":18.560958,
+    "iso:country":"SK",
+    "lbl:latitude":48.34286,
+    "lbl:longitude":18.56194,
+    "mps:latitude":48.34286,
+    "mps:longitude":18.56194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:ces_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:cze_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:deu_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:dut_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:eng_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:epo_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:fra_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:fre_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:ger_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:hun_x_preferred":[
+        "Garamszentbenedek"
+    ],
+    "name:ita_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ed\u30f3\u30b9\u30ad\u30fc\u30fb\u30d9\u30cb\u30e3\u30c7\u30a3\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:msa_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:nld_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:pol_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:slo_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u043e\u043d\u0441\u043a\u0438 \u0411\u0435\u045a\u0430\u0452\u0438\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Hronsk\u00fd Be\u0148adik"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levice",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Tekovsk\u00e9 Nemce",
+    "qs:la_lc":"*SK237517305",
+    "qs:level":"locality",
+    "qs:loc":"Hronsk\u00fd Be\u0148adik",
+    "qs:loc_alt":"Hronsky Benadik",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":428,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":822548,
+        "wd:id":"Q600313"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"350c89eea5f63b9e25f7e777e8a48dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":101843755,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101843755,
+    "wof:lastmodified":1527642588,
+    "wof:name":"Hronsk\u00fd Be\u0148adik",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54508816100508,
+    48.33701446332543,
+    18.57389420844009,
+    48.35266706625958
+],
+  "geometry": {"coordinates":[[[18.57389420844009,48.35224980599696],[18.57343608577605,48.34957160452552],[18.56807105482602,48.34998883920809],[18.56791845434481,48.34909609555945],[18.56657720731886,48.34920036149009],[18.5656618885015,48.34384387318602],[18.56700299553222,48.34373962003747],[18.56685044307198,48.34284687184476],[18.56819152172756,48.34274260458471],[18.56803895279836,48.34184985787311],[18.56669789747042,48.34195412300284],[18.56624030181092,48.33927587258103],[18.56355831597392,48.33948434134044],[18.56340584444945,48.33859158564246],[18.56206486728991,48.33869579353296],[18.56191242594343,48.33780303505688],[18.5605714670653,48.33790722457917],[18.56041905589433,48.33701446332543],[18.55907811529823,48.33711863447996],[18.5595352993945,48.33979692267798],[18.55819428378464,48.33990108397637],[18.55834666885971,48.3407938475392],[18.55700562488232,48.34089799472463],[18.55761514037818,48.34446905099952],[18.55225054079051,48.34488551136457],[18.5519459559917,48.3430999675067],[18.54658146245094,48.34351615098194],[18.54642927364716,48.34262336957761],[18.54508816100508,48.34272737271561],[18.54539249879065,48.34451293912662],[18.54673365809799,48.34440893173849],[18.54688586058768,48.34530171184718],[18.54822703819349,48.34519768609078],[18.54853151037497,48.34698324011367],[18.55389635710378,48.34656695764812],[18.55404869680677,48.34745972518158],[18.56075475848678,48.3469389959883],[18.56090722171638,48.34783175223288],[18.56224844225812,48.34772755553558],[18.56240093567885,48.34862030900229],[18.56374217451014,48.34851609393229],[18.56404722859594,48.35030159466021],[18.56538850905406,48.35019735908679],[18.56569363725197,48.35198285295934],[18.56837627637503,48.35177432455805],[18.56852889744357,48.35266706625958],[18.57389420844009,48.35224980599696]]],"type":"Polygon"}
+}

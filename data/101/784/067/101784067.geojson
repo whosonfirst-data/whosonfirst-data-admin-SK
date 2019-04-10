@@ -1,0 +1,135 @@
+{
+  "id": 101784067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":697913.665687,
+    "geom:bbox":"18.2445859104,48.5381141109,18.2598622005,48.5490444738",
+    "geom:latitude":48.543433,
+    "geom:longitude":18.252196,
+    "iso:country":"SK",
+    "lbl:latitude":48.543136,
+    "lbl:longitude":18.252716,
+    "mps:latitude":48.543136,
+    "mps:longitude":18.252716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:ces_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:cze_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:ger_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:hbs_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Kerencs"
+    ],
+    "name:ita_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:may_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:nld_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:slo_x_preferred":[
+        "Krn\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u043d\u0447\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Krn\u010da"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Topolcany",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Krn\u010da",
+    "qs:la_lc":"*SK236543101",
+    "qs:level":"locality",
+    "qs:loc":"Krn\u010da",
+    "qs:loc_alt":"Krnca",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059253,
+        "gp:id":820455,
+        "qs:id":402477,
+        "wd:id":"Q1071440",
+        "wk:page":"Krn\u010da"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f59e2744964cfee8514333776974a4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":101784067,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101784067,
+    "wof:lastmodified":1527688545,
+    "wof:name":"Krn\u010da",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24458591039257,
+    48.53811411092835,
+    18.25986220047849,
+    48.54904447383575
+],
+  "geometry": {"coordinates":[[[18.24757561500962,48.5489440356198],[18.24742781246908,48.54805086855447],[18.25281606035679,48.54764896064097],[18.25266817000846,48.54675580122341],[18.25401519605686,48.54665528548458],[18.25386728877061,48.54576212751658],[18.25656127886242,48.54556105118269],[18.25626538986575,48.54377474166279],[18.25761233029266,48.54367418313632],[18.25731642079967,48.54188787528074],[18.258663309074,48.54178730456078],[18.25851534074025,48.5408941517739],[18.25986220047849,48.54079356679335],[18.25941826474798,48.53811411092835],[18.25537788326329,48.538415798279],[18.25552578432576,48.539308957054],[18.25013844568298,48.53971098653767],[18.25043407895055,48.5414973187651],[18.24908718476576,48.54159778944734],[18.24923498780134,48.54249095670053],[18.24654113744771,48.54269185320942],[18.24668889992745,48.54358502397594],[18.24534194375809,48.54368544980127],[18.2459329659585,48.54725813495804],[18.24458591039257,48.54735855271252],[18.24473365901019,48.54825172452473],[18.24608073819883,48.54815130470524],[18.24622851711558,48.54904447383575],[18.24757561500962,48.5489440356198]]],"type":"Polygon"}
+}

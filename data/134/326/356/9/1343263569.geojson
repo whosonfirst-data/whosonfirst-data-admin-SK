@@ -1,0 +1,72 @@
+{
+  "id": 1343263569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41057,48.66715,21.41057,48.66715",
+    "geom:latitude":48.66715,
+    "geom:longitude":21.41057,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Blazice",
+    "gn:country_code":"SK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725117,
+    "gn:latitude":48.66715,
+    "gn:longitude":21.41057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bla\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bologd",
+        "Bla\u017eice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725117,
+        "wk:page":"Bla%C5%BEice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"18670148eaf9dc0d285b6d05b1e1be9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1343263569,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1343263569,
+    "wof:lastmodified":1537700375,
+    "wof:name":"Blazice",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41057,
+    48.66715,
+    21.41057,
+    48.66715
+],
+  "geometry": {"coordinates":[21.41057,48.66715],"type":"Point"}
+}

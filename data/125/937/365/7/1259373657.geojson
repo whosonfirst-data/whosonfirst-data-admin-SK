@@ -1,0 +1,67 @@
+{
+  "id": 1259373657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53333,49.31667,19.53333,49.31667",
+    "geom:latitude":49.31667,
+    "geom:longitude":19.53333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Klin",
+    "gn:country_code":"SK",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059499,
+    "gn:latitude":49.31667,
+    "gn:longitude":19.53333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Klin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059499
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"949751d5f5ada18b2066a2c584249d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080605,
+            "locality_id":1259373657,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1259373657,
+    "wof:lastmodified":1537015724,
+    "wof:name":"Klin",
+    "wof:parent_id":102080605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53333,
+    49.31667,
+    19.53333,
+    49.31667
+],
+  "geometry": {"coordinates":[19.53333,49.31667],"type":"Point"}
+}

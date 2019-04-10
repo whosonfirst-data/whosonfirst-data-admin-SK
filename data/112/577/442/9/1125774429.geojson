@@ -1,0 +1,121 @@
+{
+  "id": 1125774429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46271,47.86948,18.46271,47.86948",
+    "geom:latitude":47.86948,
+    "geom:longitude":18.46271,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":47.86948,
+    "lbl:longitude":18.46271,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:hun_x_preferred":[
+        "Kis\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0458\u0435\u0441\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kis-\u00dajfalu"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058481,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nov\u00e1 Vieska",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":190992,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821300,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058481,
+        "gp:id":821300,
+        "qs_pg:id":190992,
+        "wd:id":"Q1044209"
+    },
+    "wof:country":"SK",
+    "wof:created":1497290198,
+    "wof:geomhash":"d3e2901975285236e1e5d2c03517b7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1125774429,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125774429,
+    "wof:lastmodified":1514505205,
+    "wof:name":"Nov\u00e1 Vieska",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46271,
+    47.86948,
+    18.46271,
+    47.86948
+],
+  "geometry": {"coordinates":[18.46271,47.86948],"type":"Point"}
+}

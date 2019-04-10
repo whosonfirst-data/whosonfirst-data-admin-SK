@@ -1,0 +1,72 @@
+{
+  "id": 1226250105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92408,48.58337,20.92408,48.58337",
+    "geom:latitude":48.58337,
+    "geom:longitude":20.92408,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zarnov",
+    "gn:country_code":"SK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723103,
+    "gn:latitude":48.58337,
+    "gn:longitude":20.92408,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u017darnov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zsarn\u00f3",
+        "\u017darnov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723103,
+        "wk:page":"%C5%BDarnov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f4ebe8d013bd644f54aa6ed959cb2679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1226250105,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226250105,
+    "wof:lastmodified":1537700340,
+    "wof:name":"Zarnov",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92408,
+    48.58337,
+    20.92408,
+    48.58337
+],
+  "geometry": {"coordinates":[20.92408,48.58337],"type":"Point"}
+}

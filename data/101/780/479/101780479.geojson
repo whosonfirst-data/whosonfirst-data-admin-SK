@@ -1,0 +1,122 @@
+{
+  "id": 101780479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":827407.206448,
+    "geom:bbox":"20.8735105654,49.1552845126,20.8939191769,49.1647882677",
+    "geom:latitude":49.160132,
+    "geom:longitude":20.883648,
+    "iso:country":"SK",
+    "lbl:latitude":49.159876,
+    "lbl:longitude":20.882643,
+    "mps:latitude":49.159876,
+    "mps:longitude":20.882643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Torysa"
+    ],
+    "name:cze_x_preferred":[
+        "Torysa"
+    ],
+    "name:dut_x_preferred":[
+        "Torysa"
+    ],
+    "name:eng_x_preferred":[
+        "Torysa"
+    ],
+    "name:epo_x_preferred":[
+        "Torysa"
+    ],
+    "name:fre_x_preferred":[
+        "Torysa"
+    ],
+    "name:ger_x_preferred":[
+        "Torysa"
+    ],
+    "name:hun_x_preferred":[
+        "Tarca"
+    ],
+    "name:ita_x_preferred":[
+        "Torysa"
+    ],
+    "name:may_x_preferred":[
+        "Torysa"
+    ],
+    "name:pol_x_preferred":[
+        "Torysa"
+    ],
+    "name:slo_x_preferred":[
+        "Torysa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u0441\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Torysa"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Sabinov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Torysa",
+    "qs:la_lc":"*SK418525316",
+    "qs:level":"locality",
+    "qs:loc":"Torysa",
+    "qs:loc_alt":"Torysa",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723364,
+        "gp:id":822686,
+        "qs:id":1271785,
+        "wd:id":"Q1073003",
+        "wk:page":"Torysa (village)"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d8614a3cad683322dc69543057ff2f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":101780479,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780479,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Torysa",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87351056543224,
+    49.15528451258564,
+    20.89391917688283,
+    49.16478826773385
+],
+  "geometry": {"coordinates":[[[20.88888235838579,49.16465554919176],[20.88868369431816,49.16376745755792],[20.89140082419374,49.16350197672432],[20.89120212146679,49.16261388982855],[20.89391917688283,49.16234834882141],[20.89372043550122,49.16146026666411],[20.89236193499005,49.16159304261362],[20.8921632265139,49.16070495689348],[20.89080474316728,49.16083771365032],[20.8902087435963,49.15817344341815],[20.88885032511536,49.158306175451],[20.88865170053862,49.15741808101694],[20.88593489122263,49.1576834902765],[20.88573632338989,49.15679538951696],[20.88437793255662,49.15692806674474],[20.88417939761649,49.15603996242521],[20.8828210239505,49.15617262046408],[20.88262252190088,49.15528451258564],[20.87990580222549,49.15554977386188],[20.88010425657944,49.15643788726766],[20.87738746249426,49.15670308837173],[20.87758587818809,49.15759120650915],[20.87351056543224,49.15798889326379],[20.87390728081971,49.15976514373051],[20.87662425807815,49.15950002460386],[20.87721954206791,49.16216437777376],[20.8785780922455,49.16203178528161],[20.87877656217881,49.1629198986534],[20.88013512953307,49.16278728697034],[20.8803336323657,49.16367539678413],[20.88440936590979,49.16327745487894],[20.8846079493585,49.16416555560454],[20.88732511935046,49.16390017333407],[20.88752375956142,49.16478826773385],[20.88888235838579,49.16465554919176]]],"type":"Polygon"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101786333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1126780.97751,
+    "geom:bbox":"18.3838257723,47.9826116209,18.4064729969,47.9978207076",
+    "geom:latitude":47.988591,
+    "geom:longitude":18.39656,
+    "iso:country":"SK",
+    "lbl:latitude":47.988228,
+    "lbl:longitude":18.397332,
+    "mps:latitude":47.988228,
+    "mps:longitude":18.397332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:hbs_x_preferred":[
+        "Jasova"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00e1szfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:slk_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "J\u00e1szfalu"
+    ],
+    "name:war_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kolta",
+    "qs:la_lc":"*SK234503274",
+    "qs:level":"locality",
+    "qs:loc":"Jasov\u00e1",
+    "qs:loc_alt":"Jasova",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059685,
+        "gp:id":820028,
+        "qs:id":388333,
+        "wd:id":"Q1044014",
+        "wk:page":"Jasov\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a652568f50e7a0b29ae4ca101e29ebfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101786333,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101786333,
+    "wof:lastmodified":1527715649,
+    "wof:name":"Jasov\u00e1",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38382577226116,
+    47.98261162091882,
+    18.40647299691784,
+    47.99782070756561
+],
+  "geometry": {"coordinates":[[[18.39019143260242,47.99284485744806],[18.39418803833053,47.99253875941633],[18.394335941728,47.99343194605245],[18.39566815689318,47.99332987906757],[18.39552023054364,47.99243669449629],[18.40084895089359,47.99202827360432],[18.40070093934497,47.99113509663903],[18.40469735981168,47.99082861790032],[18.40440121884626,47.98904227439942],[18.40573330340004,47.9889400867134],[18.40514100899378,47.98536740009911],[18.40647299691784,47.98526520456176],[18.40617684348274,47.98347886144745],[18.39685314731611,47.98419386279943],[18.39670524109408,47.98330067579684],[18.39404133014483,47.98350481270614],[18.39389347640565,47.98261162091882],[18.39256153660256,47.98271366313259],[18.39270936740047,47.9836068569839],[18.39004542737638,47.98381089718447],[18.39048882169601,47.98649048718215],[18.39182086296228,47.98638846895113],[18.39241223953985,47.98996123817938],[18.391080106483,47.99006326466474],[18.39122794417585,47.99095645739624],[18.3898957833224,47.99105846982479],[18.39004360466299,47.99195166396407],[18.38871141601203,47.99205366233474],[18.3888592209986,47.99294685788209],[18.38619478325495,47.99315081038498],[18.38649032120372,47.99493720776616],[18.38382577226116,47.99514110403118],[18.3842689909153,47.99782070756561],[18.38560133668267,47.99771876130671],[18.38545356757658,47.99682556284608],[18.38678588554029,47.99672360252663],[18.38663810007318,47.99583040547395],[18.3879703902337,47.99572843109439],[18.3878225884078,47.99483523544967],[18.39048710827797,47.9946312424496],[18.39019143260242,47.99284485744806]]],"type":"Polygon"}
+}

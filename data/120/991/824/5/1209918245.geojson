@@ -1,0 +1,71 @@
+{
+  "id": 1209918245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15297,48.39305,20.15297,48.39305",
+    "geom:latitude":48.39305,
+    "geom:longitude":20.15297,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tomasovce",
+    "gn:country_code":"SK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723372,
+    "gn:latitude":48.39305,
+    "gn:longitude":20.15297,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tom\u00e1\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam\u00e1si",
+        "Tom\u00e1\u0161ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723372
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ca93ae6ce2a60e94b8c05115d6ff2129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1209918245,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1209918245,
+    "wof:lastmodified":1537700346,
+    "wof:name":"Tomasovce",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15297,
+    48.39305,
+    20.15297,
+    48.39305
+],
+  "geometry": {"coordinates":[20.15297,48.39305],"type":"Point"}
+}

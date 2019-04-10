@@ -1,0 +1,141 @@
+{
+  "id": 101843903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":438644.194863,
+    "geom:bbox":"18.8973707737,49.0247255811,18.9066583091,49.0364287812",
+    "geom:latitude":49.030568,
+    "geom:longitude":18.902657,
+    "iso:country":"SK",
+    "lbl:latitude":49.030343,
+    "lbl:longitude":18.902727,
+    "mps:latitude":49.030343,
+    "mps:longitude":18.902727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:ces_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:cze_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:deu_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:dut_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:eng_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:epo_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:fre_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:ger_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:hun_x_preferred":[
+        "Kosty\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:may_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:msa_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:nan_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:nld_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:slo_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0448\u0442\u0458\u0430\u043d\u0438 \u043d\u0430 \u0422\u0443\u0440\u0458\u0435\u0446\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Ko\u0161tany"
+    ],
+    "name:war_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Martin",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ko\u0161\u0165any nad Turcom",
+    "qs:la_lc":"*SK316512371",
+    "qs:level":"locality",
+    "qs:loc":"Ko\u0161\u0165any nad Turcom",
+    "qs:loc_alt":"Kostany nad Turcom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":657,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059368,
+        "gp:id":820336,
+        "qs:id":190928,
+        "wd:id":"Q964999",
+        "wk:page":"Ko\u0161\u0165any nad Turcom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ee3e42a0b5e52d1dbf2400b9798ef36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":101843903,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843903,
+    "wof:lastmodified":1527642596,
+    "wof:name":"Ko\u0161\u0165any nad Turcom",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8973707737166,
+    49.02472558108207,
+    18.90665830908796,
+    49.03642878118228
+],
+  "geometry": {"coordinates":[[[18.90665830908796,49.03621159661537],[18.9050388118896,49.0272926933859],[18.90367992949007,49.02740127128675],[18.90319429659564,49.02472558108207],[18.90183548100691,49.02483413571719],[18.90199732717019,49.02572603535185],[18.89927963147312,49.02594309970237],[18.90008873211167,49.03040261091263],[18.8973707737166,49.03061963194415],[18.89769436925809,49.03240344100533],[18.90041242403009,49.03218641093019],[18.90057428106223,49.03307830998205],[18.90193332436803,49.03296976795781],[18.90209521287881,49.03386166410991],[18.90345427482907,49.0337531033403],[18.90394005696078,49.03642878118228],[18.90665830908796,49.03621159661537]]],"type":"Polygon"}
+}

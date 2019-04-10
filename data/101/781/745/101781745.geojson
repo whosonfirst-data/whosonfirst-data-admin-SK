@@ -1,0 +1,141 @@
+{
+  "id": 101781745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1056766.297519,
+    "geom:bbox":"19.9039483697,48.8465082732,19.9247674289,48.8564656293",
+    "geom:latitude":48.851196,
+    "geom:longitude":19.914693,
+    "iso:country":"SK",
+    "lbl:latitude":48.851334,
+    "lbl:longitude":19.914495,
+    "mps:latitude":48.851334,
+    "mps:longitude":19.914495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:cze_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:dut_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:eng_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:epo_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:fra_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:fre_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:ger_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c1gostonlak"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:may_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:nan_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:slo_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0432\u0430\u0434\u043a\u0430 \u043d\u0430 \u0425\u0440\u043e\u043d\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Z\u00e1vadka nad Hronom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Brezno",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Z\u00e1vadka nad Hronom",
+    "qs:la_lc":"*SK323509124",
+    "qs:level":"locality",
+    "qs:loc":"Z\u00e1vadka nad Hronom",
+    "qs:loc_alt":"Zavadka nad Hronom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056573,
+        "gp:id":823309,
+        "qs:id":271860,
+        "qs_pg:id":271860,
+        "wd:id":"Q247054",
+        "wk:page":"Z\u00e1vadka nad Hronom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c79ad2375dc07d085941227d1bac715d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":101781745,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101781745,
+    "wof:lastmodified":1527715632,
+    "wof:name":"Z\u00e1vadka nad Hronom",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90394836973627,
+    48.84650827318433,
+    19.92476742890341,
+    48.85646562929765
+],
+  "geometry": {"coordinates":[[[19.91926210847043,48.8563447929933],[19.91908277238383,48.85545464528911],[19.92043502694565,48.85533379511946],[19.92025567530334,48.85444364918988],[19.92160790017903,48.85432278515623],[19.92142853298327,48.8534326410014],[19.92278072817396,48.85331176310422],[19.92260134542619,48.8524216207241],[19.92395351093302,48.85230072896388],[19.92341534044141,48.84963030496942],[19.92476742890341,48.84950940434959],[19.92458803132587,48.84861926406631],[19.92188389576222,48.84886104394138],[19.92170455367511,48.84797089793005],[19.91900044147837,48.84821260735373],[19.91882115487874,48.84732245561565],[19.91611706605619,48.84756409459061],[19.91593783494091,48.84667393712766],[19.90782556671911,48.8473984463609],[19.90764648580137,48.84650827318433],[19.90629444381153,48.84662896495718],[19.90665256640449,48.84840931557858],[19.90394836973627,48.84865066002169],[19.90412739584434,48.8495408392377],[19.90683163987819,48.84929948980164],[19.90772712904652,48.85375035004057],[19.90637489159491,48.85387104542565],[19.90655399010285,48.85476121779595],[19.9106107555491,48.85439907505167],[19.91078993324703,48.8552892392035],[19.91214220009931,48.85516848972622],[19.91232140961176,48.85605865065412],[19.91773051182361,48.85557547909292],[19.9179098242214,48.85646562929765],[19.91926210847043,48.8563447929933]]],"type":"Polygon"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101781647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1006924.571524,
+    "geom:bbox":"18.6122824564,48.8126632979,18.6300367473,48.8248954205",
+    "geom:latitude":48.819346,
+    "geom:longitude":18.6207,
+    "iso:country":"SK",
+    "lbl:latitude":48.819789,
+    "lbl:longitude":18.620835,
+    "mps:latitude":48.819789,
+    "mps:longitude":18.620835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lazany"
+    ],
+    "name:ces_x_preferred":[
+        "Lazany"
+    ],
+    "name:cze_x_preferred":[
+        "Lazany"
+    ],
+    "name:deu_x_preferred":[
+        "Lazany"
+    ],
+    "name:dut_x_preferred":[
+        "Lazany"
+    ],
+    "name:eng_x_preferred":[
+        "Lazany"
+    ],
+    "name:epo_x_preferred":[
+        "Lazany"
+    ],
+    "name:fra_x_preferred":[
+        "Lazany"
+    ],
+    "name:fre_x_preferred":[
+        "Lazany"
+    ],
+    "name:ger_x_preferred":[
+        "Lazany"
+    ],
+    "name:hbs_x_preferred":[
+        "Lazani"
+    ],
+    "name:hun_x_preferred":[
+        "Bajm\u00f3claz\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Lazany"
+    ],
+    "name:may_x_preferred":[
+        "Lazany"
+    ],
+    "name:msa_x_preferred":[
+        "Lazany"
+    ],
+    "name:nan_x_preferred":[
+        "Lazany"
+    ],
+    "name:nld_x_preferred":[
+        "Lazany"
+    ],
+    "name:slk_x_preferred":[
+        "Lazany"
+    ],
+    "name:slo_x_preferred":[
+        "Lazany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0437\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Lazany"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Lazany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Lazany",
+    "qs:la_lc":"*SK227514128",
+    "qs:level":"locality",
+    "qs:loc":"Lazany",
+    "qs:loc_alt":"Lazany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059144,
+        "gp:id":820580,
+        "qs:id":1271353,
+        "wd:id":"Q375023",
+        "wk:page":"Lazany, Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"01a3b8c8b1a2ff31aa09c3896e867828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101781647,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781647,
+    "wof:lastmodified":1553815497,
+    "wof:name":"Lazany",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61228245638625,
+    48.81266329789509,
+    18.63003674732181,
+    48.82489542050661
+],
+  "geometry": {"coordinates":[[[18.62779698302103,48.82205981366945],[18.62748519772794,48.82027493025043],[18.62883894003375,48.82016977607424],[18.62868303412336,48.81927733559945],[18.63003674732181,48.81917216718614],[18.62956900042758,48.8164948485221],[18.62280074045896,48.81702049376622],[18.62217765464311,48.81345068318916],[18.62082408251155,48.81355575428779],[18.62066835261999,48.81266329789509],[18.6166076765661,48.8129784061818],[18.61676333482234,48.81387086910098],[18.61540974183015,48.81397587454393],[18.61572103179003,48.81576080284668],[18.61707467254331,48.81565579305362],[18.6175417321524,48.81833317426918],[18.61348057929769,48.81864817397803],[18.61363620831918,48.81954063965162],[18.61228245638625,48.81964560889719],[18.61259368786006,48.82143054270966],[18.61394748756902,48.82132556911523],[18.61457013090967,48.82489542050661],[18.6213395290228,48.82437026276233],[18.6211837381228,48.82347781173655],[18.62659906709933,48.82305739873027],[18.62644318771953,48.82216495578598],[18.62779698302103,48.82205981366945]]],"type":"Polygon"}
+}

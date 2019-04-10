@@ -1,0 +1,144 @@
+{
+  "id": 101784117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1256222.771727,
+    "geom:bbox":"17.8369496762,48.650129492,17.8548500746,48.6620348985",
+    "geom:latitude":48.655973,
+    "geom:longitude":17.845514,
+    "iso:country":"SK",
+    "lbl:latitude":48.655501,
+    "lbl:longitude":17.844789,
+    "mps:latitude":48.655501,
+    "mps:longitude":17.844789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:ces_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:cze_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:deu_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:epo_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151szerdahely"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u0421\u0442\u0440\u0435\u0434\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043d\u0430 \u0421\u0442\u0440\u0435\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hornia Streda nad V\u00e1hom"
+    ],
+    "name:war_x_preferred":[
+        "Horn\u00e1 Streda"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Mesto nad V\u00e1hom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Horn\u00e1 Streda",
+    "qs:la_lc":"*SK224506001",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00e1 Streda",
+    "qs:loc_alt":"Horna Streda",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":182,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060022,
+        "gp:id":819676,
+        "qs:id":343030,
+        "qs_pg:id":343030,
+        "wd:id":"Q999521",
+        "wk:page":"Horn\u00e1 Streda"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a62cb089569390db81baac55b51a9abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":101784117,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101784117,
+    "wof:lastmodified":1527688541,
+    "wof:name":"Horn\u00e1 Streda",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83694967617453,
+    48.65012949200911,
+    17.85485007457237,
+    48.66203489850284
+],
+  "geometry": {"coordinates":[[[17.85228983112597,48.6617479415961],[17.85214860824743,48.66085421821475],[17.85485007457237,48.6606628356086],[17.85456755273907,48.65887539499232],[17.85321686957303,48.65897109053941],[17.85236960058512,48.65360874279668],[17.85101905559264,48.65370441010595],[17.85045443280592,48.65012949200911],[17.83694967617453,48.65108518487887],[17.83821807810097,48.65912891497294],[17.83956878929217,48.65903340168552],[17.83985077429287,48.66082088689319],[17.84525376252481,48.66043865406436],[17.8453948598995,48.66133238790133],[17.8480963733835,48.66114116919772],[17.84823752479781,48.66203489850284],[17.85228983112597,48.6617479415961]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242988579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27304,48.43855,20.27304,48.43855",
+    "geom:latitude":48.43855,
+    "geom:longitude":20.27304,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ziar",
+    "gn:country_code":"SK",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723064,
+    "gn:latitude":48.43855,
+    "gn:longitude":20.27304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u017diar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zsor",
+        "\u017diar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723064,
+        "wk:page":"%C5%BDiar%2C_Rev%C3%BAca_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f86a768c0cb7a73aa0d46c62f3c66d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1242988579,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1242988579,
+    "wof:lastmodified":1537700339,
+    "wof:name":"Ziar",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27304,
+    48.43855,
+    20.27304,
+    48.43855
+],
+  "geometry": {"coordinates":[20.27304,48.43855],"type":"Point"}
+}

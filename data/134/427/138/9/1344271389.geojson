@@ -1,0 +1,71 @@
+{
+  "id": 1344271389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14327,48.18318,19.14327,48.18318",
+    "geom:latitude":48.18318,
+    "geom:longitude":19.14327,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Celovce",
+    "gn:country_code":"SK",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060791,
+    "gn:latitude":48.18318,
+    "gn:longitude":19.14327,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"\u010celovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060791,
+        "wk:page":"%C4%8Celovce%2C_Ve%C4%BEk%C3%BD_Krt%C3%AD%C5%A1_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8a082f9c2c52ac10b857035b3e909de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1344271389,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1344271389,
+    "wof:lastmodified":1537700433,
+    "wof:name":"Celovce",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14327,
+    48.18318,
+    19.14327,
+    48.18318
+],
+  "geometry": {"coordinates":[19.14327,48.18318],"type":"Point"}
+}

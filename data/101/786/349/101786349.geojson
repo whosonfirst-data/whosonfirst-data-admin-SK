@@ -1,0 +1,138 @@
+{
+  "id": 101786349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1226450.448685,
+    "geom:bbox":"18.2249500596,48.0955125618,18.2478932162,48.1135725223",
+    "geom:latitude":48.105619,
+    "geom:longitude":18.237528,
+    "iso:country":"SK",
+    "lbl:latitude":48.107503,
+    "lbl:longitude":18.238658,
+    "mps:latitude":48.107503,
+    "mps:longitude":18.238658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:deu_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:dut_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:eng_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:epo_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:fra_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:fre_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:ger_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:hbs_x_preferred":[
+        "Uljani na \u017ditavi"
+    ],
+    "name:hun_x_preferred":[
+        "Zsitvaf\u00f6d\u00e9mes"
+    ],
+    "name:ita_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:may_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:msa_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:nan_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:nld_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:slk_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:slo_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0459\u0430\u043d\u0438 \u043d\u0430 \u0416\u0438\u0442\u0430\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Fed\u00fdme\u015b nad \u017d\u00edtvou"
+    ],
+    "name:war_x_preferred":[
+        "\u00da\u013eany nad \u017ditavou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u00da\u013eany nad \u017ditavou",
+    "qs:la_lc":"*SK234556050",
+    "qs:level":"locality",
+    "qs:loc":"\u00da\u013eany nad \u017ditavou",
+    "qs:loc_alt":"Ulany nad Zitavou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057029,
+        "gp:id":822831,
+        "qs:id":940119,
+        "wd:id":"Q781025",
+        "wk:page":"\u00da\u013eany nad \u017ditavou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4d2a46e9ff497b65788df35b0ae12e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101786349,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101786349,
+    "wof:lastmodified":1527715647,
+    "wof:name":"\u00da\u013eany nad \u017ditavou",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22495005955483,
+    48.09551256183875,
+    18.24789321619301,
+    48.1135725223063
+],
+  "geometry": {"coordinates":[[[18.24789321619301,48.11307112939596],[18.2474556609622,48.1103910439972],[18.24612015299522,48.11049134881233],[18.24582852836824,48.1087046179415],[18.24449306182481,48.10880490251401],[18.24420150951806,48.10701816501239],[18.24286608439576,48.10711842934364],[18.24242887418518,48.10443831218697],[18.24109351358726,48.10453855424396],[18.24080211893181,48.10275180220447],[18.23946679974949,48.10285202402395],[18.23917547737898,48.10106526535702],[18.2378401996101,48.10116546694059],[18.23754894951389,48.0993787016472],[18.23621371315664,48.09947888299644],[18.23606812098262,48.09858549735702],[18.23473290293714,48.09868566050631],[18.23458734037638,48.09779227219417],[18.23191693612256,48.09799254592826],[18.23177142627185,48.09709915291165],[18.23043624006488,48.09719926349709],[18.23029075982282,48.09630586780952],[18.22895559192943,48.09640596019722],[18.22881014129388,48.09551256183875],[18.22613983735363,48.09571269405421],[18.22628524179515,48.09660609647455],[18.22495005955483,48.09670614036384],[18.22524084176115,48.09849294734812],[18.22791129385507,48.0982928352804],[18.22805674091893,48.09918623375245],[18.23072722008118,48.09898605295444],[18.23130925825063,48.10255962419836],[18.23264458306261,48.10245950142019],[18.23293568743219,48.10424627914222],[18.23427105366613,48.10414613613045],[18.23572719756601,48.11307996606462],[18.24106953900349,48.11267915096585],[18.24121528170656,48.1135725223063],[18.24789321619301,48.11307112939596]]],"type":"Polygon"}
+}

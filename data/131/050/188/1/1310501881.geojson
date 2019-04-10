@@ -1,0 +1,67 @@
+{
+  "id": 1310501881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56564,49.05031,18.56564,49.05031",
+    "geom:latitude":49.05031,
+    "geom:longitude":18.56564,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kardosova Vieska",
+    "gn:country_code":"SK",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059567,
+    "gn:latitude":49.05031,
+    "gn:longitude":18.56564,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kardo\u0161ova Vieska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059567
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0883d36f8afd9666ff5826396cdba08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1310501881,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1310501881,
+    "wof:lastmodified":1536922829,
+    "wof:name":"Kardosova Vieska",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56564,
+    49.05031,
+    18.56564,
+    49.05031
+],
+  "geometry": {"coordinates":[18.56564,49.05031],"type":"Point"}
+}

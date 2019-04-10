@@ -1,0 +1,137 @@
+{
+  "id": 101780861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":697908.215296,
+    "geom:bbox":"17.3682079098,48.5807242413,17.3877617494,48.593961107",
+    "geom:latitude":48.586234,
+    "geom:longitude":17.378952,
+    "iso:country":"SK",
+    "lbl:latitude":48.58744,
+    "lbl:longitude":17.382358,
+    "mps:latitude":48.58744,
+    "mps:longitude":17.382358,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Korl\u00e1tk\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u043e\u0432\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Cerov\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Senica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Cerov\u00e1",
+    "qs:la_lc":"*SK215504297",
+    "qs:level":"locality",
+    "qs:loc":"Cerov\u00e1",
+    "qs:loc_alt":"Cerova",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060773,
+        "gp:id":818925,
+        "qs:id":402143,
+        "wd:id":"Q1020367"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3f0ca2a2496569495d007c2bead0020d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":101780861,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101780861,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Cerov\u00e1",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36820790983796,
+    48.58072424131899,
+    17.38776174936737,
+    48.59396110697895
+],
+  "geometry": {"coordinates":[[[17.38559303764004,48.58993364755395],[17.38519538778957,48.58725035963784],[17.38654486356438,48.58716037346449],[17.38641230181634,48.58626594489448],[17.38776174936737,48.58617594419479],[17.38736402873707,48.58349266069064],[17.38196649760232,48.58385254294956],[17.38209896994744,48.5847469787617],[17.37670127290875,48.58510660634829],[17.37656889576397,48.58421216312428],[17.37387006834638,48.58439187492843],[17.37347311566663,48.58170853078883],[17.37482246018573,48.58161868863237],[17.37469013081073,48.58072424131899],[17.37064215540539,48.58099371309561],[17.37077441338897,48.5818881659626],[17.36942505563189,48.58197795897956],[17.36955729580518,48.58287241313826],[17.36820790983796,48.58296219162514],[17.36834013219828,48.58385664707492],[17.36968954196584,48.58376686673745],[17.36982179411484,48.58466131977815],[17.37117122327186,48.58457152120906],[17.37143579314119,48.58636042191165],[17.3727852654896,48.58627060325921],[17.37291758321385,48.58716505092076],[17.37561656227456,48.5869853607677],[17.37574893359931,48.5878798041665],[17.37979744047959,48.58761014051601],[17.38019480467341,48.59029345068132],[17.37884523538099,48.59038336050651],[17.37937504305216,48.59396110697895],[17.38072470758163,48.59387118973939],[17.38032727140148,48.59118788628462],[17.38302644434123,48.59100801377821],[17.382893929999,48.59011358188275],[17.38559303764004,48.58993364755395]]],"type":"Polygon"}
+}

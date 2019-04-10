@@ -1,0 +1,150 @@
+{
+  "id": 101780331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":558243.820147,
+    "geom:bbox":"18.2107735387,49.2105173876,18.2198439645,49.2381985388",
+    "geom:latitude":49.224261,
+    "geom:longitude":18.214403,
+    "iso:country":"SK",
+    "lbl:latitude":49.225302,
+    "lbl:longitude":18.213338,
+    "mps:latitude":49.225302,
+    "mps:longitude":18.213338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:ces_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:cze_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:deu_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:dut_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:eng_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:epo_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:fra_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:fre_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:ger_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:hbs_x_preferred":[
+        "Lazi pod Makitom"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:may_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:msa_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:nan_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:nld_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:slk_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:slo_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0437\u0438 \u043f\u043e\u0434 \u041c\u0430\u043a\u0438\u0442\u043e\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Laz"
+    ],
+    "name:war_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"P\u00fachov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Lazy pod Makytou",
+    "qs:la_lc":"*SK228513300",
+    "qs:level":"locality",
+    "qs:loc":"Lazy pod Makytou",
+    "qs:loc_alt":"Lazy pod Makytou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059134,
+        "gp:id":29402580,
+        "qs:id":490007,
+        "qs_pg:id":490007,
+        "wd:id":"Q289836",
+        "wk:page":"Lazy pod Makytou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4075d316bd4b7c135fdfa7c3b1617a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":101780331,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101780331,
+    "wof:lastmodified":1527715864,
+    "wof:name":"Lazy pod Makytou",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21077353870834,
+    49.2105173876372,
+    18.21984396447954,
+    49.23819853875125
+],
+  "geometry": {"coordinates":[[[18.21984396447954,49.23809822789491],[18.21954304794235,49.23631236818449],[18.21817720548137,49.23641267483106],[18.21802678203022,49.23551974200274],[18.21666095893596,49.23562002995175],[18.21605943197687,49.23204828443227],[18.2174251572161,49.23194800489989],[18.21682364276398,49.22837625853185],[18.21818926506916,49.22827597082482],[18.2178885003085,49.22649009837335],[18.21515734842501,49.22669064878318],[18.2133539257573,49.21597531492637],[18.21471921086538,49.21587507324938],[18.21381772492259,49.2105173876372],[18.21108744288176,49.210717829185],[18.21213885844082,49.21696848979491],[18.21077353870834,49.21706870040236],[18.21137440133663,49.2206405021231],[18.21273981885292,49.22054028310833],[18.21334088949811,49.22411206715248],[18.21197537418112,49.22421229457603],[18.21257645726985,49.2277840777636],[18.21394207040566,49.2276838419296],[18.21559588667571,49.23750617480272],[18.21832763583183,49.2373056070806],[18.21847807308313,49.23819853875125],[18.21984396447954,49.23809822789491]]],"type":"Polygon"}
+}

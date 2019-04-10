@@ -1,0 +1,138 @@
+{
+  "id": 101782909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":1415724.251915,
+    "geom:bbox":"20.9674714145,48.7036500539,20.9880962263,48.7195025832",
+    "geom:latitude":48.711229,
+    "geom:longitude":20.975558,
+    "iso:country":"SK",
+    "lbl:latitude":48.710103,
+    "lbl:longitude":20.974855,
+    "mps:latitude":48.710103,
+    "mps:longitude":20.974855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:dut_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:epo_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:ger_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00e1sz\u00f3mindszent"
+    ],
+    "name:hun_x_variant":[
+        "Mindszent",
+        "J\u00e1sz\u00f3mindeszent"
+    ],
+    "name:ita_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:may_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:msa_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:nld_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:pol_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:slk_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:slo_x_preferred":[
+        "Popro\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u0440\u043e\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Mindszent"
+    ],
+    "name:war_x_preferred":[
+        "Popro\u010d"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Popro\u010d",
+    "qs:la_lc":"*SK426521892",
+    "qs:level":"locality",
+    "qs:loc":"Popro\u010d",
+    "qs:loc_alt":"Poproc",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723840,
+        "gp:id":821724,
+        "qs:id":402760,
+        "wd:id":"Q1088580",
+        "wk:page":"Popro\u010d, Ko\u0161ice-okolie District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9433997259b418232659f8225109be2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782909,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782909,
+    "wof:lastmodified":1553815498,
+    "wof:name":"Popro\u010d",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96747141450794,
+    48.70365005391659,
+    20.98809622633257,
+    48.71950258320658
+],
+  "geometry": {"coordinates":[[[20.97712826450174,48.71759275616716],[20.9825134336154,48.71705815651831],[20.98271106914501,48.71794625206883],[20.98809622633257,48.71741138134263],[20.98789849759396,48.71652329679273],[20.9852059787496,48.71679075916427],[20.98481064122763,48.71501457659173],[20.98346441854869,48.7151482778965],[20.98326678646038,48.7142601826252],[20.98192058051029,48.71439386492705],[20.97954997006423,48.70373662445348],[20.97147427367082,48.7045381791213],[20.97127692043239,48.70365005391659],[20.96993097135964,48.70378358673872],[20.97012830130791,48.7046717146888],[20.96878232238618,48.70480523400545],[20.96917696239575,48.70658149292797],[20.96783093033036,48.7067150014833],[20.96881756961392,48.71115564812163],[20.96747141450794,48.71128915415062],[20.96826079294027,48.71484166764179],[20.96960704125007,48.71470815063049],[20.97019923845653,48.71737251887845],[20.97154555011565,48.71723897737314],[20.97134811883774,48.71635085819247],[20.97538694451254,48.71595014438577],[20.97617700272713,48.71950258320658],[20.97752335803881,48.71936896843596],[20.97712826450174,48.71759275616716]]],"type":"Polygon"}
+}

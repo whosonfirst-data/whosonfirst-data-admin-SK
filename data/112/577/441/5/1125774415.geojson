@@ -1,0 +1,136 @@
+{
+  "id": 1125774415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85054,49.10233,20.85054,49.10233",
+    "geom:latitude":49.10233,
+    "geom:longitude":20.85054,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.10233,
+    "lbl:longitude":20.85054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:cze_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:dut_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:eng_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:epo_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:fre_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:ger_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3szal\u00f3k"
+    ],
+    "name:ita_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:may_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:nan_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:pol_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:slo_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0436\u043d\u0438 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0456\u0439 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Ni\u017en\u00ed Slavkov"
+    ],
+    "name:war_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724031,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ni\u017en\u00fd Slavkov",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":190991,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821271,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724031,
+        "gp:id":821271,
+        "qs_pg:id":190991,
+        "wd:id":"Q679288"
+    },
+    "wof:country":"SK",
+    "wof:created":1497290198,
+    "wof:geomhash":"26e92739439af907d696c4f935cb17ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1125774415,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125774415,
+    "wof:lastmodified":1514505202,
+    "wof:name":"Ni\u017en\u00fd Slavkov",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85054,
+    49.10233,
+    20.85054,
+    49.10233
+],
+  "geometry": {"coordinates":[20.85054,49.10233],"type":"Point"}
+}

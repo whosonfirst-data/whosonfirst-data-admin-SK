@@ -1,0 +1,67 @@
+{
+  "id": 1360202415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31276,48.58553,20.31276,48.58553",
+    "geom:latitude":48.58553,
+    "geom:longitude":20.31276,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mikolcany",
+    "gn:country_code":"SK",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724140,
+    "gn:latitude":48.58553,
+    "gn:longitude":20.31276,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mikol\u010dany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724140
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d46d1f3d6f376d4c873f623bb7c4eb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1360202415,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1360202415,
+    "wof:lastmodified":1536776991,
+    "wof:name":"Mikolcany",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31276,
+    48.58553,
+    20.31276,
+    48.58553
+],
+  "geometry": {"coordinates":[20.31276,48.58553],"type":"Point"}
+}

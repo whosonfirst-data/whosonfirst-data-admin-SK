@@ -1,0 +1,213 @@
+{
+  "id": 1125967117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6862,49.29859,20.6862,49.29859",
+    "geom:latitude":49.29859,
+    "geom:longitude":20.6862,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16000,
+    "gn:population":16000,
+    "iso:country":"SK",
+    "lbl:latitude":49.29859,
+    "lbl:longitude":20.6862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0627 \u0644\u0648\u0628\u0648\u0641\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Stara Lyubovnya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0440\u0430-\u041b\u044e\u0431\u0430\u045e\u043d\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:chi_x_preferred":[
+        "\u820a\u67f3\u535a\u592b\u5c3c\u4e9e"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:dan_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:deu_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:dut_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:eng_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:fin_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:fre_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:ger_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:hrv_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d3lubl\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30e9\u30fc\u30fb\u30eb\u30dc\u30f4\u30ca"
+    ],
+    "name:lav_x_preferred":[
+        "Stara \u013bubov\u0146a"
+    ],
+    "name:lit_x_preferred":[
+        "Stara Liubovnia"
+    ],
+    "name:may_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:nan_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:nob_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0627 \u0644\u0648\u0628\u0648\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Lubowla"
+    ],
+    "name:ron_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
+    ],
+    "name:rum_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:slo_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:spa_x_preferred":[
+        "Castillo de Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0409\u0443\u0431\u043e\u0432\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u041b\u04af\u0431\u043e\u0432\u043d\u04d9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:war_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u67f3\u535a\u592b\u5c3c\u4e9e"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723505,
+    "qs_pg:gn_pop":16000,
+    "qs_pg:name":"Star\u00e1 L\u0315ubov\u0148a",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":138,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":138,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1085654,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822391,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723505,
+        "gp:id":822391,
+        "qs_pg:id":1085654,
+        "wd:id":"Q605521"
+    },
+    "wof:country":"SK",
+    "wof:created":1497298017,
+    "wof:geomhash":"183f89c2167083c55384fb6d139f36cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1125967117,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125967117,
+    "wof:lastmodified":1514505292,
+    "wof:name":"Star\u00e1 L\u0315ubov\u0148a",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:population":16000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6862,
+    49.29859,
+    20.6862,
+    49.29859
+],
+  "geometry": {"coordinates":[20.6862,49.29859],"type":"Point"}
+}

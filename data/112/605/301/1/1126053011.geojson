@@ -1,0 +1,133 @@
+{
+  "id": 1126053011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70091,48.96607,21.70091,48.96607",
+    "geom:latitude":48.96607,
+    "geom:longitude":21.70091,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.96607,
+    "lbl:longitude":21.70091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:cze_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:dut_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:eng_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:fre_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:ger_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3ny\u00edrjes"
+    ],
+    "name:ita_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:may_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:nan_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:pol_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:slo_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430 \u041a\u0430\u0458\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u0430 \u041a\u0430\u0439\u043d\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Slovensk\u00e1 Kaj\u0148a"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723580,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Slovensk\u00e1 Kaj\u0148a",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060744,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822290,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723580,
+        "gp:id":822290,
+        "qs_pg:id":1060744,
+        "wd:id":"Q678677"
+    },
+    "wof:country":"SK",
+    "wof:created":1497302901,
+    "wof:geomhash":"0fcdf95a071ff42ab497d07baff025cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1126053011,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1126053011,
+    "wof:lastmodified":1514505277,
+    "wof:name":"Slovensk\u00e1 Kaj\u0148a",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70091,
+    48.96607,
+    21.70091,
+    48.96607
+],
+  "geometry": {"coordinates":[21.70091,48.96607],"type":"Point"}
+}

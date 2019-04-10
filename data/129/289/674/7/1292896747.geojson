@@ -1,0 +1,67 @@
+{
+  "id": 1292896747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3936,48.95401,19.3936,48.95401",
+    "geom:latitude":48.95401,
+    "geom:longitude":19.3936,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zelezne",
+    "gn:country_code":"SK",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056548,
+    "gn:latitude":48.95401,
+    "gn:longitude":19.3936,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u017delezn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056548
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"68b87b992fac233e83bb6a878825f5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1292896747,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1292896747,
+    "wof:lastmodified":1536644013,
+    "wof:name":"Zelezne",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3936,
+    48.95401,
+    19.3936,
+    48.95401
+],
+  "geometry": {"coordinates":[19.3936,48.95401],"type":"Point"}
+}

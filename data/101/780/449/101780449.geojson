@@ -1,0 +1,141 @@
+{
+  "id": 101780449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":737729.681507,
+    "geom:bbox":"21.7519673216,48.9047174223,21.7688741442,48.920044056",
+    "geom:latitude":48.912249,
+    "geom:longitude":21.759879,
+    "iso:country":"SK",
+    "lbl:latitude":48.913317,
+    "lbl:longitude":21.758598,
+    "mps:latitude":48.913317,
+    "mps:longitude":21.758598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:ces_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:cze_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:epo_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Tavarna"
+    ],
+    "name:ita_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:slo_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0440\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0440\u043d\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tovarn\u00e9",
+    "qs:la_lc":"*SK41D529192",
+    "qs:level":"locality",
+    "qs:loc":"Tovarn\u00e9",
+    "qs:loc_alt":"Tovarne",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723361,
+        "gp:id":822688,
+        "qs:id":1271787,
+        "wd:id":"Q608876",
+        "wk:page":"Tovarn\u00e9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0cccfee56f0af854159c039141c0088a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101780449,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780449,
+    "wof:lastmodified":1527715865,
+    "wof:name":"Tovarn\u00e9",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75196732159077,
+    48.90471742228175,
+    21.76887414420486,
+    48.92004405597885
+],
+  "geometry": {"coordinates":[[[21.76290521387551,48.91666919426007],[21.76205369286004,48.91312392854053],[21.76340342475481,48.91298071604922],[21.76297767528678,48.91120808377912],[21.76567702434977,48.91092162178774],[21.76503833221682,48.90826268447029],[21.76638792604001,48.90811943792977],[21.76617502456276,48.90723312667234],[21.76887414420486,48.9069465906735],[21.768661205657,48.90606028444404],[21.76596213271051,48.90634681452673],[21.76574925048294,48.90546050149305],[21.76439972670545,48.90560373916082],[21.76418687744808,48.90471742228175],[21.76148785528892,48.90500384287174],[21.7625519643168,48.90943544795857],[21.75580370094474,48.91015128847931],[21.75601643484777,48.91103762161561],[21.75196732159077,48.91146693944046],[21.75260537079521,48.91412596012583],[21.75530492687824,48.91383974679104],[21.75679437208947,48.92004405597885],[21.75949422685073,48.91975773612836],[21.75885569527202,48.91709876953803],[21.76290521387551,48.91666919426007]]],"type":"Polygon"}
+}

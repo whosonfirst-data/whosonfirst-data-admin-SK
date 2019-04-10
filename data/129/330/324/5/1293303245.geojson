@@ -1,0 +1,66 @@
+{
+  "id": 1293303245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18127,49.26736,19.18127,49.26736",
+    "geom:latitude":49.26736,
+    "geom:longitude":19.18127,
+    "gn:asciiname":"Plesiva",
+    "gn:country_code":"SK",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058176,
+    "gn:latitude":49.26736,
+    "gn:longitude":19.18127,
+    "gn:modification_date":"2008-07-14",
+    "gn:name":"Ple\u0161iv\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058176
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8c9ebe41bd77f14828049b4c98d91f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1293303245,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1293303245,
+    "wof:lastmodified":1537050411,
+    "wof:name":"Plesiva",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18127,
+    49.26736,
+    19.18127,
+    49.26736
+],
+  "geometry": {"coordinates":[19.18127,49.26736],"type":"Point"}
+}

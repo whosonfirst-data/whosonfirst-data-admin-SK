@@ -1,0 +1,71 @@
+{
+  "id": 1243546197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71813,48.65748,17.71813,48.65748",
+    "geom:latitude":48.65748,
+    "geom:longitude":17.71813,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sipkove",
+    "gn:country_code":"SK",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057656,
+    "gn:latitude":48.65748,
+    "gn:longitude":17.71813,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160\u00edpkov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u00edpkov\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057656,
+        "wk:page":"%C5%A0%C3%ADpkov%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e59c50c1936db4f0820aff52364a6444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080495,
+            "locality_id":1243546197,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1243546197,
+    "wof:lastmodified":1537700391,
+    "wof:name":"Sipkove",
+    "wof:parent_id":102080495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71813,
+    48.65748,
+    17.71813,
+    48.65748
+],
+  "geometry": {"coordinates":[17.71813,48.65748],"type":"Point"}
+}

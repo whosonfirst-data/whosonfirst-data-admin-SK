@@ -1,0 +1,144 @@
+{
+  "id": 101780317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":1535250.640096,
+    "geom:bbox":"18.7876042911,48.9676908441,18.8275343268,48.9811877156",
+    "geom:latitude":48.974061,
+    "geom:longitude":18.805957,
+    "iso:country":"SK",
+    "lbl:latitude":48.976138,
+    "lbl:longitude":18.797336,
+    "mps:latitude":48.976138,
+    "mps:longitude":18.797336,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:ces_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:cze_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:deu_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:dut_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:eng_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:epo_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:fra_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:fre_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:ger_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:hun_x_preferred":[
+        "Zni\u00f3v\u00e1ralja"
+    ],
+    "name:ita_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:may_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:msa_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:nld_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:pol_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:rum_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u043e\u0440-\u043f\u043e\u0434-\u0417\u043d\u0435\u0432\u043e\u043c"
+    ],
+    "name:slo_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u043e\u0440 \u043f\u043e\u0434 \u0417\u045a\u0435\u0432\u043e\u043c"
+    ],
+    "name:war_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Martin",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kl\u00e1\u0161tor pod Znievom",
+    "qs:la_lc":"*SK316512354",
+    "qs:level":"locality",
+    "qs:loc":"Kl\u00e1\u0161tor pod Znievom",
+    "qs:loc_alt":"Klastor pod Znievom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059508,
+        "gp:id":820191,
+        "qs:id":1181542,
+        "qs_pg:id":1181542,
+        "wd:id":"Q764320",
+        "wk:page":"Kl\u00e1\u0161tor pod Znievom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"98cdba93999d9497ff8b830187639d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":101780317,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780317,
+    "wof:lastmodified":1527715877,
+    "wof:name":"Kl\u00e1\u0161tor pod Znievom",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78760429110736,
+    48.96769084406066,
+    18.82753432684035,
+    48.98118771563583
+],
+  "geometry": {"coordinates":[[[18.79199689704927,48.98108052686723],[18.79183726427738,48.98018842354395],[18.80134172257669,48.97943765665775],[18.80086236289446,48.9767613897526],[18.80900839901568,48.97611727323033],[18.80868857377789,48.97433311892661],[18.81140377996883,48.97411829062565],[18.81124383019807,48.97322621699169],[18.81531652702319,48.97290385775528],[18.81547654891045,48.97379592468337],[18.81819170129927,48.97358093172909],[18.81867195494516,48.97625711528684],[18.82002959518434,48.97614958740161],[18.81986947930181,48.97525752908746],[18.82258469554461,48.97504242839426],[18.82242453887835,48.97415037391988],[18.82378211488287,48.97404280111306],[18.82346177536527,48.97225869473414],[18.82753432684035,48.97193589095525],[18.82721387230384,48.97015179546383],[18.82585640859975,48.97025940871083],[18.82553603131964,48.96847530619976],[18.82417861029251,48.96858289850729],[18.82401845662781,48.96769084406066],[18.8213036464806,48.96790597481242],[18.82162386498067,48.96969009201979],[18.81619398783738,48.9701201738614],[18.81651404323611,48.97190430641973],[18.81244143466375,48.97222670834429],[18.81212152348053,48.97044256237342],[18.8053339753298,48.97097954727707],[18.80549380709397,48.97187163174999],[18.79870600438954,48.97240821620051],[18.79838658852316,48.97062402429708],[18.79159889194625,48.97116017480437],[18.79287576832621,48.97829701645361],[18.78880250890666,48.97861856268696],[18.7889620790321,48.97951067173545],[18.78760429110736,48.97961782310625],[18.78776384445285,48.98050993375188],[18.79047946303723,48.98029561008212],[18.79063907175743,48.98118771563583],[18.79199689704927,48.98108052686723]]],"type":"Polygon"}
+}

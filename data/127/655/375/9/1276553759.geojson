@@ -1,0 +1,67 @@
+{
+  "id": 1276553759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35927,48.99316,18.35927,48.99316",
+    "geom:latitude":48.99316,
+    "geom:longitude":18.35927,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mraznica",
+    "gn:country_code":"SK",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058624,
+    "gn:latitude":48.99316,
+    "gn:longitude":18.35927,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mraznica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058624
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dc029c527e5cc6edaa4c4519bd9df9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080555,
+            "locality_id":1276553759,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1276553759,
+    "wof:lastmodified":1536979967,
+    "wof:name":"Mraznica",
+    "wof:parent_id":102080555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35927,
+    48.99316,
+    18.35927,
+    48.99316
+],
+  "geometry": {"coordinates":[18.35927,48.99316],"type":"Point"}
+}

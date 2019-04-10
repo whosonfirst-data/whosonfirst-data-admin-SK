@@ -1,0 +1,71 @@
+{
+  "id": 1259674399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08333,49.15,19.08333,49.15",
+    "geom:latitude":49.15,
+    "geom:longitude":19.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sutovo",
+    "gn:country_code":"SK",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057329,
+    "gn:latitude":49.15,
+    "gn:longitude":19.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160\u00fatovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u00fatovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057329,
+        "wk:page":"%C5%A0%C3%BAtovo"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"740a45f86a6558167de3816ed5a52fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1259674399,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1259674399,
+    "wof:lastmodified":1537700387,
+    "wof:name":"Sutovo",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08333,
+    49.15,
+    19.08333,
+    49.15
+],
+  "geometry": {"coordinates":[19.08333,49.15],"type":"Point"}
+}

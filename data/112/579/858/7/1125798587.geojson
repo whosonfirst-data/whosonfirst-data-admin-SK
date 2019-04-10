@@ -1,0 +1,122 @@
+{
+  "id": 1125798587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.052,47.85141,18.052,47.85141",
+    "geom:latitude":47.85141,
+    "geom:longitude":18.052,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":563,
+    "gn:population":563,
+    "iso:country":"SK",
+    "lbl:latitude":47.85141,
+    "lbl:longitude":18.052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:dut_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:eng_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:epo_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:fre_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:hun_x_preferred":[
+        "Sziget"
+    ],
+    "name:hun_x_variant":[
+        "Keszegfalusi Sziget",
+        "V\u00e1gf\u00fczes"
+    ],
+    "name:ita_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:may_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:nan_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:slk_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:slo_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u043e\u0432\u0430 \u043d\u0430 \u0412\u0430\u0445\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Vrbov\u00e1 nad V\u00e1hom"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6690447,
+    "qs_pg:gn_pop":563,
+    "qs_pg:name":"V\u00e1gf\u00fczes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":643887,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690447,
+        "qs_pg:id":643887,
+        "wd:id":"Q771550"
+    },
+    "wof:country":"SK",
+    "wof:created":1497291160,
+    "wof:geomhash":"9ac9bc12e665a6e68f0f5bb71d027595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1125798587,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125798587,
+    "wof:lastmodified":1514505358,
+    "wof:name":"V\u00e1gf\u00fczes",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:population":563,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.052,
+    47.85141,
+    18.052,
+    47.85141
+],
+  "geometry": {"coordinates":[18.052,47.85141],"type":"Point"}
+}

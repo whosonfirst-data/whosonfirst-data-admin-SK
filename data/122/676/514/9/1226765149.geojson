@@ -1,0 +1,73 @@
+{
+  "id": 1226765149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36276,48.27017,19.36276,48.27017",
+    "geom:latitude":48.27017,
+    "geom:longitude":19.36276,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Horne Strhare",
+    "gn:country_code":"SK",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059965,
+    "gn:latitude":48.27017,
+    "gn:longitude":19.36276,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Strh\u00e1re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Strh\u00e1ry",
+        "Hornie Strh\u00e1ry",
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059965,
+        "wk:page":"Horn%C3%A9_Strh%C3%A1re"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"037015623b44788e09a09e414f3def97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1226765149,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226765149,
+    "wof:lastmodified":1537700421,
+    "wof:name":"Horne Strhare",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36276,
+    48.27017,
+    19.36276,
+    48.27017
+],
+  "geometry": {"coordinates":[19.36276,48.27017],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226030469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54189,49.40672,18.54189,49.40672",
+    "geom:latitude":49.40672,
+    "geom:longitude":18.54189,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nizna Korna",
+    "gn:country_code":"SK",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058513,
+    "gn:latitude":49.40672,
+    "gn:longitude":18.54189,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e1 Kor\u0148a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017enia Kor\u0148a",
+        "Ni\u017en\u00e1 Kor\u0148a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058513
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ccf1415d55bbaee0b1461291170c77ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1226030469,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1226030469,
+    "wof:lastmodified":1537700400,
+    "wof:name":"Nizna Korna",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54189,
+    49.40672,
+    18.54189,
+    49.40672
+],
+  "geometry": {"coordinates":[18.54189,49.40672],"type":"Point"}
+}

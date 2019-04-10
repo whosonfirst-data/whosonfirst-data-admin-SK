@@ -1,0 +1,67 @@
+{
+  "id": 1293218407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19628,48.40002,19.19628,48.40002",
+    "geom:latitude":48.40002,
+    "geom:longitude":19.19628,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Last'oky",
+    "gn:country_code":"SK",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059155,
+    "gn:latitude":48.40002,
+    "gn:longitude":19.19628,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La\u0161\u0165oky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059155
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d071ecf7337b140ca643c65454f98003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1293218407,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293218407,
+    "wof:lastmodified":1536677944,
+    "wof:name":"Last'oky",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19628,
+    48.40002,
+    19.19628,
+    48.40002
+],
+  "geometry": {"coordinates":[19.19628,48.40002],"type":"Point"}
+}

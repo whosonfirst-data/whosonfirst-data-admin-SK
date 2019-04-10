@@ -1,0 +1,129 @@
+{
+  "id": 101843867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":448674.682651,
+    "geom:bbox":"21.7371477316,48.3945999365,21.7526818025,48.4026092439",
+    "geom:latitude":48.398637,
+    "geom:longitude":21.744997,
+    "iso:country":"SK",
+    "lbl:latitude":48.398667,
+    "lbl:longitude":21.744997,
+    "mps:latitude":48.398667,
+    "mps:longitude":21.744997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:cze_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:dut_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:eng_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:epo_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:fre_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:ger_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:hun_x_preferred":[
+        "Bodrogszerdahely"
+    ],
+    "name:ita_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:may_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:nan_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:pol_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0434\u0430 \u043d\u0430\u0434 \u0411\u043e\u0434\u0440\u043e\u0491\u043e\u043c"
+    ],
+    "name:slo_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0434\u0430 \u043d\u0430 \u0411\u043e\u0434\u0440\u043e\u0433\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0434\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0440\u043e\u0491\u043e\u043c"
+    ],
+    "name:war_x_preferred":[
+        "Streda nad Bodrogom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vini\u010dky",
+    "qs:la_lc":"*SK42B543926",
+    "qs:level":"locality",
+    "qs:loc":"Streda nad Bodrogom",
+    "qs:loc_alt":"Streda nad Bodrogom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723463,
+        "gp:id":823058,
+        "qs:id":9,
+        "wd:id":"Q833132",
+        "wk:page":"Streda nad Bodrogom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"678632b0776dfb72df2cd48ebd74b8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101843867,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843867,
+    "wof:lastmodified":1527642593,
+    "wof:name":"Streda nad Bodrogom",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73714773156132,
+    48.3945999365194,
+    21.75268180246047,
+    48.40260924391788
+],
+  "geometry": {"coordinates":[[[21.75197379870082,48.40246638718895],[21.75134568850444,48.39980662479246],[21.75268180246047,48.39966376068952],[21.75247242835536,48.39877717431472],[21.74980023908341,48.39906288061462],[21.74917230951814,48.39640309860482],[21.74382812148826,48.39697428322535],[21.74361892140024,48.39608767578665],[21.74228287994413,48.39623042880658],[21.74207371197321,48.39534381755652],[21.74073768639641,48.39548655158023],[21.74052855054026,48.3945999365194],[21.7391925408445,48.39474265154769],[21.7398199081789,48.39740250271916],[21.73714773156132,48.39768790191692],[21.737565932145,48.39946114310942],[21.74023819982858,48.39917573229849],[21.740447359683,48.40006234572792],[21.74311964536821,48.39977686473441],[21.7433288601124,48.40066347144852],[21.74600116379207,48.40037792027113],[21.74621043342836,48.40126452026777],[21.74888275509488,48.40097889890421],[21.74909207962611,48.40186549218231],[21.75042825289432,48.40172265445381],[21.75063760955521,48.40260924391788],[21.75197379870082,48.40246638718895]]],"type":"Polygon"}
+}

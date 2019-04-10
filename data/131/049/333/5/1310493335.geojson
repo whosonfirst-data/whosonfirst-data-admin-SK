@@ -1,0 +1,72 @@
+{
+  "id": 1310493335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39757,48.13983,17.39757,48.13983",
+    "geom:latitude":48.13983,
+    "geom:longitude":17.39757,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Janiky",
+    "gn:country_code":"SK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059725,
+    "gn:latitude":48.13983,
+    "gn:longitude":17.39757,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jan\u00edky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e1nok",
+        "Jan\u00edky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059725,
+        "wk:page":"Jan%C3%ADky"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"abcd6d204706af8f4ed91f2562fb967b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1310493335,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310493335,
+    "wof:lastmodified":1537700416,
+    "wof:name":"Janiky",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39757,
+    48.13983,
+    17.39757,
+    48.13983
+],
+  "geometry": {"coordinates":[17.39757,48.13983],"type":"Point"}
+}

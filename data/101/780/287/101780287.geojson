@@ -1,0 +1,150 @@
+{
+  "id": 101780287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":967043.472281,
+    "geom:bbox":"21.8437096087,48.8134766891,21.8642562923,48.8320450628",
+    "geom:latitude":48.821895,
+    "geom:longitude":21.853116,
+    "iso:country":"SK",
+    "lbl:latitude":48.821054,
+    "lbl:longitude":21.853817,
+    "mps:latitude":48.821054,
+    "mps:longitude":21.853817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:ces_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:dut_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:hbs_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1tafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:may_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:msa_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:nan_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:slk_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0446\u0438\u043d\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0446\u0456\u043d\u0430 \u0412\u0435\u0441\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nacina Ves"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Michalovce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Star\u00e9",
+    "qs:la_lc":"*SK427523097",
+    "qs:level":"locality",
+    "qs:loc":"Nacina Ves",
+    "qs:loc_alt":"Nacina Ves",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724084,
+        "gp:id":821150,
+        "qs:id":1271468,
+        "wd:id":"Q543003",
+        "wk:page":"Nacina Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5e727c5033a9dc6e57659ff3d6655ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":101780287,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780287,
+    "wof:lastmodified":1527715865,
+    "wof:name":"Nacina Ves",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84370960874315,
+    48.81347668913941,
+    21.86425629229399,
+    48.83204506283244
+],
+  "geometry": {"coordinates":[[[21.85151519742612,48.83087043048499],[21.85130127186494,48.8299842745289],[21.85264855493921,48.8298400174595],[21.85243461579427,48.82895386357501],[21.85512911410848,48.82866530664836],[21.85405933083621,48.8242345534423],[21.85810067641228,48.82380164081013],[21.85767269130037,48.82202935105659],[21.85901974579588,48.82188502030783],[21.85880574449493,48.82099887705232],[21.85745871322621,48.82114320482907],[21.85681683692104,48.81848476074305],[21.85816379851644,48.81834044188133],[21.85773588279471,48.81656814726375],[21.86042969174417,48.81627947271051],[21.86021570192077,48.81539332999398],[21.86425629229399,48.81496020529488],[21.86404224247082,48.81407407059396],[21.86134856910962,48.81436283068621],[21.86113457537436,48.81347668913941],[21.85574723610313,48.81405400258711],[21.85596113696727,48.8149401560197],[21.85192048814054,48.81537297952087],[21.85256203963638,48.8180314611493],[21.84852111777883,48.81846416523092],[21.84830732730495,48.81757799667906],[21.84561339028357,48.81786637893009],[21.84539965590284,48.81698020354088],[21.84405269995017,48.81712436733841],[21.84448013190382,48.8188967231543],[21.84717412959895,48.81860836744534],[21.84738790649203,48.81949453806669],[21.8500819221897,48.8192061114591],[21.85200676646372,48.82718155310681],[21.84527062846468,48.82790263145694],[21.84505683445445,48.82701646002221],[21.84370960874315,48.82716062399311],[21.8443509500031,48.82981914450795],[21.84569824542729,48.829674971629],[21.84591206838132,48.83056114036629],[21.84860668435914,48.83027273993599],[21.84903445217691,48.83204506283244],[21.85038179596881,48.83190083230909],[21.85016788399378,48.83101467428145],[21.85151519742612,48.83087043048499]]],"type":"Polygon"}
+}

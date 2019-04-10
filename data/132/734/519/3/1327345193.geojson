@@ -1,0 +1,71 @@
+{
+  "id": 1327345193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61206,48.68203,20.61206,48.68203",
+    "geom:latitude":48.68203,
+    "geom:longitude":20.61206,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Paca",
+    "gn:country_code":"SK",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723947,
+    "gn:latitude":48.68203,
+    "gn:longitude":20.61206,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pa\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723947,
+        "wk:page":"Pa%C4%8Da"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8257506aba9f216fe62b828cf1def441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1327345193,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1327345193,
+    "wof:lastmodified":1537700355,
+    "wof:name":"Paca",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61206,
+    48.68203,
+    20.61206,
+    48.68203
+],
+  "geometry": {"coordinates":[20.61206,48.68203],"type":"Point"}
+}

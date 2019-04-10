@@ -1,0 +1,72 @@
+{
+  "id": 1310715979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23913,48.47141,20.23913,48.47141",
+    "geom:latitude":48.47141,
+    "geom:longitude":20.23913,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rasice",
+    "gn:country_code":"SK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723773,
+    "gn:latitude":48.47141,
+    "gn:longitude":20.23913,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ra\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e1s",
+        "Ra\u0161ice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723773,
+        "wk:page":"Ra%C5%A1ice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"86618d06a95f2ed9b5850a96d93e0fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1310715979,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1310715979,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Rasice",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23913,
+    48.47141,
+    20.23913,
+    48.47141
+],
+  "geometry": {"coordinates":[20.23913,48.47141],"type":"Point"}
+}

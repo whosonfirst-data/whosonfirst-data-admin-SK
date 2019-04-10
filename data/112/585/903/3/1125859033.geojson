@@ -1,0 +1,142 @@
+{
+  "id": 1125859033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26072,48.08347,17.26072,48.08347",
+    "geom:latitude":48.08347,
+    "geom:longitude":17.26072,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4482,
+    "gn:population":4482,
+    "iso:country":"SK",
+    "lbl:latitude":48.08347,
+    "lbl:longitude":17.26072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u041b\u0443\u0436\u043d\u044f"
+    ],
+    "name:slo_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0458\u0441\u043a\u0430 \u041b\u0443\u0436\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8436244,
+    "qs_pg:gn_pop":4482,
+    "qs_pg:name":"Dunajska Luzna",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":207497,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402291,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436244,
+        "gp:id":29402291,
+        "qs_pg:id":207497,
+        "wd:id":"Q911359"
+    },
+    "wof:country":"SK",
+    "wof:created":1497293746,
+    "wof:geomhash":"d7e822a80df9cf035c3ff7b2c8d12ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":1125859033,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1125859033,
+    "wof:lastmodified":1514505087,
+    "wof:name":"Dunajska Luzna",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:population":4482,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26072,
+    48.08347,
+    17.26072,
+    48.08347
+],
+  "geometry": {"coordinates":[17.26072,48.08347],"type":"Point"}
+}

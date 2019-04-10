@@ -1,0 +1,140 @@
+{
+  "id": 101780211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":927371.677758,
+    "geom:bbox":"18.6488845458,47.8451292002,18.6650870719,47.8577877808",
+    "geom:latitude":47.851697,
+    "geom:longitude":18.657365,
+    "iso:country":"SK",
+    "lbl:latitude":47.851533,
+    "lbl:longitude":18.657488,
+    "mps:latitude":47.851533,
+    "mps:longitude":18.657488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:ces_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:cze_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:deu_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:epo_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:hbs_x_preferred":[
+        "Kameni Most"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0151h\u00eddgyarmat"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:may_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:msa_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:nld_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438 \u041c\u043e\u0441\u0442"
+    ],
+    "name:unk_x_variant":[
+        "K\u0151hid-Gyarmat"
+    ],
+    "name:war_x_preferred":[
+        "Kamenn\u00fd Most"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamenn\u00fd Most",
+    "qs:la_lc":"*SK234503258",
+    "qs:level":"locality",
+    "qs:loc":"Kamenn\u00fd Most",
+    "qs:loc_alt":"Kamenny Most",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059575,
+        "gp:id":820119,
+        "qs:id":342523,
+        "qs_pg:id":342523,
+        "wd:id":"Q1071029",
+        "wk:page":"Kamenn\u00fd Most (Nov\u00e9 Z\u00e1mky District)"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"db9b306e4f5536d0407a8cb86f940b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101780211,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101780211,
+    "wof:lastmodified":1514505124,
+    "wof:name":"Kamenn\u00fd Most",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64888454575805,
+    47.84512920018665,
+    18.66508707193339,
+    47.85778778079174
+],
+  "geometry": {"coordinates":[[[18.66482302887005,47.85473971768721],[18.66467101253011,47.85384690036051],[18.66334285563681,47.85395218487548],[18.66273494889481,47.85038090027319],[18.66406301479157,47.85027562423909],[18.66375905648999,47.84848998209009],[18.66508707193339,47.84838469423789],[18.66493508017857,47.84749187426121],[18.66360708747948,47.84759715999297],[18.66345512522867,47.84670433721442],[18.66212715031304,47.84680960476891],[18.66197521756402,47.84591677918922],[18.66064726043163,47.84602202856712],[18.66049535718275,47.84512920018665],[18.65783947352821,47.8453396465336],[18.65799133129212,47.84623247915175],[18.65666335928614,47.84633768035826],[18.65681520106034,47.8472305144133],[18.65548720135365,47.84733570168055],[18.65563902713728,47.84822853717282],[18.65431099972886,47.84833371050013],[18.6544628095192,47.84922654742934],[18.6531347544078,47.84933170681592],[18.65328654820382,47.85022454518202],[18.65195846538893,47.85032969062763],[18.65226202773891,47.85211536955268],[18.65093389446906,47.85222050317395],[18.6512374383251,47.8540061836116],[18.64990925459534,47.85411130540734],[18.65021277995237,47.85589698735811],[18.64888454575805,47.85600209732735],[18.64918805261078,47.85778778079174],[18.65450114170142,47.85736722760726],[18.65434929387254,47.8564743946859],[18.65567753099549,47.85636921835442],[18.65552566716696,47.8554763868712],[18.66482302887005,47.85473971768721]]],"type":"Polygon"}
+}

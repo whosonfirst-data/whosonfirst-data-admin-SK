@@ -1,0 +1,68 @@
+{
+  "id": 1193030021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59447,48.38824,18.59447,48.38824",
+    "geom:latitude":48.38824,
+    "geom:longitude":18.59447,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Orovnica",
+    "gn:country_code":"SK",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058358,
+    "gn:latitude":48.38824,
+    "gn:longitude":18.59447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Orovnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058358,
+        "wk:page":"Orovnica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"900be0f6d5b9a07b27fb2adb620b93cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":1193030021,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1193030021,
+    "wof:lastmodified":1537573596,
+    "wof:name":"Orovnica",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59447,
+    48.38824,
+    18.59447,
+    48.38824
+],
+  "geometry": {"coordinates":[18.59447,48.38824],"type":"Point"}
+}

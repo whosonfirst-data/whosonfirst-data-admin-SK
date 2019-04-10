@@ -1,0 +1,69 @@
+{
+  "id": 1260186421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23543,48.78308,19.23543,48.78308",
+    "geom:latitude":48.78308,
+    "geom:longitude":19.23543,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"601.0",
+    "gn:asciiname":"Priechod",
+    "gn:country_code":"SK",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058010,
+    "gn:latitude":48.78308,
+    "gn:longitude":19.23543,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Priechod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058010,
+        "wk:page":"Priechod"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"340f32d6642660db2be6a8d4ec817ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":1260186421,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1260186421,
+    "wof:lastmodified":1537573594,
+    "wof:name":"Priechod",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23543,
+    48.78308,
+    19.23543,
+    48.78308
+],
+  "geometry": {"coordinates":[19.23543,48.78308],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309923587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08768,48.07921,19.08768,48.07921",
+    "geom:latitude":48.07921,
+    "geom:longitude":19.08768,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vel'ka Ves nad Ipl'om",
+    "gn:country_code":"SK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056897,
+    "gn:latitude":48.07921,
+    "gn:longitude":19.08768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e1 Ves nad Ip\u013eom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagyfalu",
+        "Ve\u013ek\u00e1 Ves nad Ip\u013eom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056897,
+        "wk:page":"Ve%C4%BEk%C3%A1_Ves_nad_Ip%C4%BEom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"796b188096b3829beffad32a1b348025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1309923587,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1309923587,
+    "wof:lastmodified":1537700382,
+    "wof:name":"Vel'ka Ves nad Ipl'om",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08768,
+    48.07921,
+    19.08768,
+    48.07921
+],
+  "geometry": {"coordinates":[19.08768,48.07921],"type":"Point"}
+}

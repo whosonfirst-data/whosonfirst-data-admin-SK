@@ -1,0 +1,67 @@
+{
+  "id": 1259789413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48028,48.77185,17.48028,48.77185",
+    "geom:latitude":48.77185,
+    "geom:longitude":17.48028,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"U Koziku",
+    "gn:country_code":"SK",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057032,
+    "gn:latitude":48.77185,
+    "gn:longitude":17.48028,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"U Koz\u00edku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057032
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bd47eab6d8acf4c6b652d1d966c9efb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1259789413,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259789413,
+    "wof:lastmodified":1536915048,
+    "wof:name":"U Koziku",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48028,
+    48.77185,
+    17.48028,
+    48.77185
+],
+  "geometry": {"coordinates":[17.48028,48.77185],"type":"Point"}
+}

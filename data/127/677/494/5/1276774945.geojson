@@ -1,0 +1,71 @@
+{
+  "id": 1276774945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10011,48.67919,21.10011,48.67919",
+    "geom:latitude":48.67919,
+    "geom:longitude":21.10011,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hodkovce",
+    "gn:country_code":"SK",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724699,
+    "gn:latitude":48.67919,
+    "gn:longitude":21.10011,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hodkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Hatk\u00f3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724699,
+        "wk:page":"Hodkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4c1bb9f8cc2076df56f365061721171c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1276774945,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276774945,
+    "wof:lastmodified":1537700369,
+    "wof:name":"Hodkovce",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10011,
+    48.67919000000001,
+    21.10011,
+    48.67919000000001
+],
+  "geometry": {"coordinates":[21.10011,48.67919000000001],"type":"Point"}
+}

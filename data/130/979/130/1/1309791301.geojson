@@ -1,0 +1,68 @@
+{
+  "id": 1309791301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86701,48.95108,18.86701,48.95108",
+    "geom:latitude":48.95108,
+    "geom:longitude":18.86701,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Socovce",
+    "gn:country_code":"SK",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057533,
+    "gn:latitude":48.95108,
+    "gn:longitude":18.86701,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Socovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057533,
+        "wk:page":"Socovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"203aed23d1c34d4bd3dc6df31224b988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1309791301,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1309791301,
+    "wof:lastmodified":1537573591,
+    "wof:name":"Socovce",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86701,
+    48.95108,
+    18.86701,
+    48.95108
+],
+  "geometry": {"coordinates":[18.86701,48.95108],"type":"Point"}
+}

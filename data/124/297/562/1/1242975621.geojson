@@ -1,0 +1,73 @@
+{
+  "id": 1242975621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47518,49.35756,21.47518,49.35756",
+    "geom:latitude":49.35756,
+    "geom:longitude":21.47518,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizny Mirosov",
+    "gn:country_code":"SK",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724033,
+    "gn:latitude":49.35756,
+    "gn:longitude":21.47518,
+    "gn:modification_date":"2010-09-10",
+    "gn:name":"Ni\u017en\u00fd Miro\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017enyj Miro\u0161ov",
+        "Ni\u017en\u00ed Mirosov",
+        "Ni\u017en\u00fd Miro\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724033,
+        "wk:page":"Ni%C5%BEn%C3%BD_Miro%C5%A1ov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5df0d5fc87abfc91c9e5f42c68a2bd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1242975621,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1242975621,
+    "wof:lastmodified":1537700357,
+    "wof:name":"Nizny Mirosov",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47518,
+    49.35756,
+    21.47518,
+    49.35756
+],
+  "geometry": {"coordinates":[21.47518,49.35756],"type":"Point"}
+}

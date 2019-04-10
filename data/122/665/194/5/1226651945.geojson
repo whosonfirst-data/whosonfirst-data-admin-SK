@@ -1,0 +1,67 @@
+{
+  "id": 1226651945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19213,48.6588,18.19213,48.6588",
+    "geom:latitude":48.6588,
+    "geom:longitude":18.19213,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horny Riadok",
+    "gn:country_code":"SK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059927,
+    "gn:latitude":48.6588,
+    "gn:longitude":18.19213,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Horn\u00fd Riadok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059927
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cb22bbe42d8e03dbd5f6d5a728128075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1226651945,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226651945,
+    "wof:lastmodified":1536849348,
+    "wof:name":"Horny Riadok",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19213,
+    48.6588,
+    18.19213,
+    48.6588
+],
+  "geometry": {"coordinates":[18.19213,48.6588],"type":"Point"}
+}

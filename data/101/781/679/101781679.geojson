@@ -1,0 +1,141 @@
+{
+  "id": 101781679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1146515.144014,
+    "geom:bbox":"18.4861049309,48.7413619691,18.5074585596,48.7538594397",
+    "geom:latitude":48.747639,
+    "geom:longitude":18.497645,
+    "iso:country":"SK",
+    "lbl:latitude":48.747062,
+    "lbl:longitude":18.498697,
+    "mps:latitude":48.747062,
+    "mps:longitude":18.498697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:ces_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:dut_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "Div\u00e9k\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:msa_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:por_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u0432\u0458\u0430\u0446\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:war_x_preferred":[
+        "Diviacka Nov\u00e1 Ves"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Diviacka Nov\u00e1 Ves",
+    "qs:la_lc":"*SK227513954",
+    "qs:level":"locality",
+    "qs:loc":"Diviacka Nov\u00e1 Ves",
+    "qs:loc_alt":"Diviacka Nova Ves",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":316,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060567,
+        "gp:id":819096,
+        "qs:id":885825,
+        "qs_pg:id":885825,
+        "wd:id":"Q387540",
+        "wk:page":"Diviacka Nov\u00e1 Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"52d38622164b6158a637fe2254ca3c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101781679,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781679,
+    "wof:lastmodified":1553815497,
+    "wof:name":"Diviacka Nov\u00e1 Ves",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48610493094242,
+    48.74136196909978,
+    18.50745855959474,
+    48.75385943971321
+],
+  "geometry": {"coordinates":[[[18.50745855959474,48.75265584242948],[18.5066916246717,48.7481925031301],[18.50533961500912,48.74829615043222],[18.50487960899039,48.74561813293394],[18.50217571718929,48.74582536550037],[18.50140941770871,48.74136196909978],[18.4960020489039,48.7417761946873],[18.49646152197113,48.74445426009038],[18.49240572725699,48.7447647764177],[18.49225263407033,48.74387208215427],[18.48819686473058,48.74418244452136],[18.48850291514032,48.74596784525829],[18.48715093415467,48.74607127086983],[18.48745696468711,48.74785667339114],[18.48610493094242,48.7479600868844],[18.48625793279751,48.7488527893492],[18.48896204281397,48.74864594169077],[18.48926816264179,48.75043133619801],[18.4906202576189,48.75032788349756],[18.49077335177282,48.75122057767766],[18.5002380399672,48.7504959347105],[18.50054458266283,48.75228129123252],[18.50324882846093,48.75207409425451],[18.50355549427172,48.75385943971321],[18.50625981485678,48.75365216857909],[18.5061064308228,48.75275950044784],[18.50745855959474,48.75265584242948]]],"type":"Polygon"}
+}

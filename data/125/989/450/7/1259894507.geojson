@@ -1,0 +1,74 @@
+{
+  "id": 1259894507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15043,48.21318,17.15043,48.21318",
+    "geom:latitude":48.21318,
+    "geom:longitude":17.15043,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bratislava - Raca",
+    "gn:cc2":"SK",
+    "gn:country_code":"SK",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057932,
+    "gn:latitude":48.21318,
+    "gn:longitude":17.15043,
+    "gn:modification_date":"2007-03-21",
+    "gn:name":"Bratislava - Ra\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ratzersdorf",
+        "R\u00e9cse",
+        "Ra\u010di\u0161torf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057932,
+        "wk:page":"Ra%C4%8Da%2C_Bratislava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6801143ba470b1207154e036b82042a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1259894507,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1259894507,
+    "wof:lastmodified":1537700394,
+    "wof:name":"Bratislava - Raca",
+    "wof:parent_id":102080459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15043,
+    48.21318,
+    17.15043,
+    48.21318
+],
+  "geometry": {"coordinates":[17.15043,48.21318],"type":"Point"}
+}

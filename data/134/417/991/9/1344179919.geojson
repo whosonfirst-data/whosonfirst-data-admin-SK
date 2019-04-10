@@ -1,0 +1,72 @@
+{
+  "id": 1344179919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57061,49.40121,21.57061,49.40121",
+    "geom:latitude":49.40121,
+    "geom:longitude":21.57061,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dlhona",
+    "gn:country_code":"SK",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724900,
+    "gn:latitude":49.40121,
+    "gn:longitude":21.57061,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dlho\u0148a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolho\u0148a",
+        "Dlho\u0148a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724900,
+        "wk:page":"Dlho%C5%88a"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"554f210a01b8bb295502b91c5221bf55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1344179919,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1344179919,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Dlhona",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57061,
+    49.40121,
+    21.57061,
+    49.40121
+],
+  "geometry": {"coordinates":[21.57061,49.40121],"type":"Point"}
+}

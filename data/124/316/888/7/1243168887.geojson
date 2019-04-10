@@ -1,0 +1,71 @@
+{
+  "id": 1243168887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56226,47.96903,17.56226,47.96903",
+    "geom:latitude":47.96903,
+    "geom:longitude":17.56226,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moravske Kracany",
+    "gn:country_code":"SK",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058643,
+    "gn:latitude":47.96903,
+    "gn:longitude":17.56226,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moravsk\u00e9 Kra\u010dany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f3roc-Karcsa",
+        "Moravsk\u00e9 Kra\u010dany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058643
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cf5ab507e5df52c794d9017db54f567f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1243168887,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1243168887,
+    "wof:lastmodified":1537700402,
+    "wof:name":"Moravske Kracany",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56226,
+    47.96903,
+    17.56226,
+    47.96903
+],
+  "geometry": {"coordinates":[17.56226,47.96903],"type":"Point"}
+}

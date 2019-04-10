@@ -1,0 +1,71 @@
+{
+  "id": 1310228981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46667,48.1,18.46667,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":18.46667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vinice",
+    "gn:country_code":"SK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056764,
+    "gn:latitude":48.1,
+    "gn:longitude":18.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vinice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Vinice",
+        "Vinice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056764
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c463dd8c8de1f8ce68620b245663a0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1310228981,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310228981,
+    "wof:lastmodified":1537700381,
+    "wof:name":"Vinice",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46667,
+    48.1,
+    18.46667,
+    48.1
+],
+  "geometry": {"coordinates":[18.46667,48.1],"type":"Point"}
+}

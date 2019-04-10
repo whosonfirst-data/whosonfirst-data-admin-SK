@@ -1,0 +1,71 @@
+{
+  "id": 1226753637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56271,49.13015,18.56271,49.13015",
+    "geom:latitude":49.13015,
+    "geom:longitude":18.56271,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vrchtepla",
+    "gn:country_code":"SK",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056690,
+    "gn:latitude":49.13015,
+    "gn:longitude":18.56271,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vrchtepl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrchtepl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056690,
+        "wk:page":"Vrchtepl%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eacbe12491f32447277935d2e6ac777a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1226753637,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226753637,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vrchtepla",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56271,
+    49.13015,
+    18.56271,
+    49.13015
+],
+  "geometry": {"coordinates":[18.56271,49.13015],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 1125990429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67528,48.21349,18.67528,48.21349",
+    "geom:latitude":48.21349,
+    "geom:longitude":18.67528,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.21349,
+    "lbl:longitude":18.67528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:cze_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:hun_x_preferred":[
+        "Keresk\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:pol_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:slo_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0448\u043a\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kr\u0161kany"
+    ],
+    "name:war_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056872,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00e9 Kr\u0161kany",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":280967,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822959,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056872,
+        "gp:id":822959,
+        "qs_pg:id":280967,
+        "wd:id":"Q1044740"
+    },
+    "wof:country":"SK",
+    "wof:created":1497299031,
+    "wof:geomhash":"98895107801b13a32e4003349dc1dbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1125990429,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125990429,
+    "wof:lastmodified":1514505337,
+    "wof:name":"Vel\u0315k\u00e9 Kr\u0161kany",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67528,
+    48.21349,
+    18.67528,
+    48.21349
+],
+  "geometry": {"coordinates":[18.67528,48.21349],"type":"Point"}
+}

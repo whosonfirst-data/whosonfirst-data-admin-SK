@@ -1,0 +1,72 @@
+{
+  "id": 1360205943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85217,48.46607,17.85217,48.46607",
+    "geom:latitude":48.46607,
+    "geom:longitude":17.85217,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Teplicky",
+    "gn:country_code":"SK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057216,
+    "gn:latitude":48.46607,
+    "gn:longitude":17.85217,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tepli\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fornosek",
+        "Tepli\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057216,
+        "wk:page":"Tepli%C4%8Dky"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"16619565dee1ac155cb251806377a12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080481,
+            "locality_id":1360205943,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1360205943,
+    "wof:lastmodified":1537700385,
+    "wof:name":"Teplicky",
+    "wof:parent_id":102080481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85217,
+    48.46607,
+    17.85217,
+    48.46607
+],
+  "geometry": {"coordinates":[17.85217,48.46607],"type":"Point"}
+}

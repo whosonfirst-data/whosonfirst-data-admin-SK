@@ -1,0 +1,147 @@
+{
+  "id": 101786363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1296289.298219,
+    "geom:bbox":"18.4035149687,48.0055011355,18.418917621,48.0253549257",
+    "geom:latitude":48.016707,
+    "geom:longitude":18.412572,
+    "iso:country":"SK",
+    "lbl:latitude":48.017652,
+    "lbl:longitude":18.412573,
+    "mps:latitude":48.017652,
+    "mps:longitude":18.412573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kolta"
+    ],
+    "name:ces_x_preferred":[
+        "Kolta"
+    ],
+    "name:cze_x_preferred":[
+        "Kolta"
+    ],
+    "name:deu_x_preferred":[
+        "Kolta"
+    ],
+    "name:dut_x_preferred":[
+        "Kolta"
+    ],
+    "name:eng_x_preferred":[
+        "Kolta"
+    ],
+    "name:epo_x_preferred":[
+        "Kolta"
+    ],
+    "name:fra_x_preferred":[
+        "Kolta"
+    ],
+    "name:fre_x_preferred":[
+        "Kolta"
+    ],
+    "name:ger_x_preferred":[
+        "Kolta"
+    ],
+    "name:hbs_x_preferred":[
+        "Kolta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kolta"
+    ],
+    "name:ita_x_preferred":[
+        "Kolta"
+    ],
+    "name:may_x_preferred":[
+        "Kolta"
+    ],
+    "name:msa_x_preferred":[
+        "Kolta"
+    ],
+    "name:nan_x_preferred":[
+        "Kolta"
+    ],
+    "name:nld_x_preferred":[
+        "Kolta"
+    ],
+    "name:slk_x_preferred":[
+        "Kolta"
+    ],
+    "name:slo_x_preferred":[
+        "Kolta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u0442\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Kolta"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kolta"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kolta",
+    "qs:la_lc":"*SK234503274",
+    "qs:level":"locality",
+    "qs:loc":"Kolta",
+    "qs:loc_alt":"Kolta",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059438,
+        "gp:id":820267,
+        "qs:id":402440,
+        "wd:id":"Q379003",
+        "wk:page":"Kolta"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b11097d929c4a3cd209d527f2450a0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101786363,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101786363,
+    "wof:lastmodified":1527715643,
+    "wof:name":"Kolta",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40351496868391,
+    48.0055011355264,
+    18.41891762101829,
+    48.02535492570399
+],
+  "geometry": {"coordinates":[[[18.41580947263947,48.02525260479564],[18.41566104882469,48.02435946723597],[18.41699403254916,48.02425713226739],[18.41669715884063,48.02247085932538],[18.41803009172787,48.02236851236938],[18.41758476194309,48.01968910425484],[18.41891762101829,48.01958674738466],[18.41743338950602,48.01065536508122],[18.41476812597188,48.01086002126016],[18.41417480266142,48.00728743339602],[18.41550734499174,48.00718512165281],[18.41535900775665,48.00629197511665],[18.41402648839102,48.00639428478939],[18.41387818074293,48.0055011355264],[18.412545679478,48.00560342700339],[18.41269396416192,48.00649657833657],[18.41136143506969,48.00659885575811],[18.41150970340937,48.0074920085047],[18.41017714648854,48.00759427187029],[18.41032539848163,48.00848742603057],[18.41165797836913,48.00838516059548],[18.41210284297597,48.01106461293085],[18.41077019418145,48.01116688457552],[18.41091847265665,48.01206003611208],[18.4095857960275,48.01216229369902],[18.40973405815186,48.01305544664939],[18.40840135368774,48.01315769017805],[18.40854959945949,48.0140508445424],[18.40721686715864,48.01415307401209],[18.40736509657597,48.01504622979019],[18.40469957143739,48.0152506444814],[18.40484776152215,48.01614380374212],[18.40351496868391,48.01624598896257],[18.40381132275127,48.01803230965555],[18.40647699547895,48.0178279148098],[18.40721822628905,48.0222936843881],[18.40855117026518,48.02219145242242],[18.40869945927648,48.0230846023029],[18.41136537860052,48.02288008583639],[18.41166206843536,48.02466637535002],[18.41432806023033,48.02446178607261],[18.41447646105956,48.02535492570399],[18.41580947263947,48.02525260479564]]],"type":"Polygon"}
+}

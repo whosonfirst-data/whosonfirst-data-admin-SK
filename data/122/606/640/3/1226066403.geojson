@@ -1,0 +1,76 @@
+{
+  "id": 1226066403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38148,47.97346,17.38148,47.97346",
+    "geom:latitude":47.97346,
+    "geom:longitude":17.38148,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Vojka nad Dunajom",
+    "gn:country_code":"SK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056726,
+    "gn:latitude":47.97346,
+    "gn:longitude":17.38148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vojka nad Dunajom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Vajka"
+    ],
+    "name:und_x_variant":[
+        "Duna-Vajka",
+        "Vajka nad Dunajom",
+        "Vojka nad Dunajom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056726,
+        "wk:page":"Vojka_nad_Dunajom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d78c75edcdfbe5d69e485741b02208e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1226066403,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1226066403,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vojka nad Dunajom",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38148,
+    47.97346,
+    17.38148,
+    47.97346
+],
+  "geometry": {"coordinates":[17.38148,47.97346],"type":"Point"}
+}

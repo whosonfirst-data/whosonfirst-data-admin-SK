@@ -1,0 +1,126 @@
+{
+  "id": 1125987785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51697,48.2474,18.51697,48.2474",
+    "geom:latitude":48.2474,
+    "geom:longitude":18.51697,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.2474,
+    "lbl:longitude":18.51697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajbars"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0422\u0458\u0435\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "\u00daj-Bars"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00fd Tekov"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058438,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nov\u00fd Tekov",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":888123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821341,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058438,
+        "gp:id":821341,
+        "qs_pg:id":888123,
+        "wd:id":"Q1044692"
+    },
+    "wof:country":"SK",
+    "wof:created":1497298896,
+    "wof:geomhash":"1c08a72afaed704068442ff673a81a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1125987785,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125987785,
+    "wof:lastmodified":1514505209,
+    "wof:name":"Nov\u00fd Tekov",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51697,
+    48.2474,
+    18.51697,
+    48.2474
+],
+  "geometry": {"coordinates":[18.51697,48.2474],"type":"Point"}
+}

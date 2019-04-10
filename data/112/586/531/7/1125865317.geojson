@@ -1,0 +1,82 @@
+{
+  "id": 1125865317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.597721,48.941558,19.597721,48.941558",
+    "geom:latitude":48.941558,
+    "geom:longitude":19.597721,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.941558,
+    "lbl:longitude":19.597721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Srdiecko",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":496,
+    "qs_pg:photos_1k":101,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":496,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1326903,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402695,
+        "qs_pg:id":1326903
+    },
+    "wof:country":"SK",
+    "wof:created":1497294010,
+    "wof:geomhash":"a2203ecb1f906e2e6bdb380c4fc85d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1125865317,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125865317,
+    "wof:lastmodified":1509396931,
+    "wof:name":"Srdiecko",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.597721,
+    48.941558,
+    19.597721,
+    48.941558
+],
+  "geometry": {"coordinates":[19.597721,48.941558],"type":"Point"}
+}

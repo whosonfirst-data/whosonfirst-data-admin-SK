@@ -1,0 +1,66 @@
+{
+  "id": 1326948901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43045,48.85274,20.43045,48.85274",
+    "geom:latitude":48.85274,
+    "geom:longitude":20.43045,
+    "gn:asciiname":"Rakovec",
+    "gn:country_code":"SK",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723778,
+    "gn:latitude":48.85274,
+    "gn:longitude":20.43045,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Rakovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723778
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"797bab1044d09475f8332c938864c14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":1326948901,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1326948901,
+    "wof:lastmodified":1536880069,
+    "wof:name":"Rakovec",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43045,
+    48.85274,
+    20.43045,
+    48.85274
+],
+  "geometry": {"coordinates":[20.43045,48.85274],"type":"Point"}
+}

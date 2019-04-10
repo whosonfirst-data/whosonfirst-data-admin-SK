@@ -1,0 +1,67 @@
+{
+  "id": 1276981133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49013,48.48356,18.49013,48.48356",
+    "geom:latitude":48.48356,
+    "geom:longitude":18.49013,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lukacov Stal",
+    "gn:country_code":"SK",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058971,
+    "gn:latitude":48.48356,
+    "gn:longitude":18.49013,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Luka\u010dov \u0160t\u00e1l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058971
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"29250595925a1dabeef94e6c270ffc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1276981133,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1276981133,
+    "wof:lastmodified":1536905713,
+    "wof:name":"Lukacov Stal",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49013,
+    48.48356,
+    18.49013,
+    48.48356
+],
+  "geometry": {"coordinates":[18.49013,48.48356],"type":"Point"}
+}

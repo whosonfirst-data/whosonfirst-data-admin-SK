@@ -1,0 +1,67 @@
+{
+  "id": 1309839287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37162,48.55683,18.37162,48.55683",
+    "geom:latitude":48.55683,
+    "geom:longitude":18.37162,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Klizske Hradiste",
+    "gn:country_code":"SK",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059493,
+    "gn:latitude":48.55683,
+    "gn:longitude":18.37162,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kl\u00ed\u017eske Hradi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059493
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"790ffbb414741be9fd8f01e4777966de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080503,
+            "locality_id":1309839287,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1309839287,
+    "wof:lastmodified":1536882231,
+    "wof:name":"Klizske Hradiste",
+    "wof:parent_id":102080503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37162,
+    48.55683,
+    18.37162,
+    48.55683
+],
+  "geometry": {"coordinates":[18.37162,48.55683],"type":"Point"}
+}

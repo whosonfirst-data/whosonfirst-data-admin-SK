@@ -1,0 +1,148 @@
+{
+  "id": 101780417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1156432.908372,
+    "geom:bbox":"21.1718802651,49.0023476431,21.1911021037,49.0175020448",
+    "geom:latitude":49.009049,
+    "geom:longitude":21.183931,
+    "iso:country":"SK",
+    "lbl:latitude":49.007866,
+    "lbl:longitude":21.184878,
+    "mps:latitude":49.007866,
+    "mps:longitude":21.184878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:ger_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Kiss\u00e1ros"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:nan_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142y Szarysz"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u0430\u043b\u0456 \u0428\u0430\u0440\u0456\u0448"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0428\u0430\u0440\u0438\u0448"
+    ],
+    "name:und_x_preferred":[
+        "Maly Saris"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00fd \u0160ari\u0161"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pre\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u017dup\u010dany",
+    "qs:la_lc":"*SK417525511",
+    "qs:level":"locality",
+    "qs:loc":"Mal\u00fd \u0160ari\u0161",
+    "qs:loc_alt":"Maly Saris",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070c0392-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":724187,
+        "gp:id":29399960,
+        "qs:id":1312109,
+        "wd:id":"Q392069",
+        "wk:page":"Mal\u00fd \u0160ari\u0161"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2b2a73614b142ed642d3052876038eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":101780417,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780417,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527715873,
+    "wof:name":"Mal\u00fd \u0160ari\u0161",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17188026506551,
+    49.00234764309209,
+    21.19110210374112,
+    49.01750204480874
+],
+  "geometry": {"coordinates":[[[21.18555198963219,49.01722954897161],[21.18534886425971,49.01634201730229],[21.18941047566318,49.01593315936884],[21.18920728867505,49.01504563535013],[21.19056112191964,49.01490931949178],[21.18974837173181,49.01135922643243],[21.19110210374112,49.01122290552888],[21.19049256708746,49.00856033550701],[21.18913890588811,49.00869664793129],[21.18852952299642,49.00603406196626],[21.18988311339444,49.00589775802052],[21.1896799805964,49.0050102305326],[21.19103354059325,49.00487391306308],[21.19062725545012,49.00309886125092],[21.18927374264609,49.00323517306839],[21.18907063749259,49.00234764309209],[21.18771714148164,49.00248393573503],[21.18792022304001,49.00337146853695],[21.17438465303633,49.00473352400485],[21.1745875078189,49.00562108421559],[21.17188026506551,49.00589330475293],[21.17208308184649,49.00678086977973],[21.17343673022265,49.00664476486463],[21.17363957980939,49.0075323262414],[21.17499324499516,49.00739620215285],[21.17519612739068,49.00828375987936],[21.17654980938528,49.00814761661667],[21.17675272459115,49.00903517069224],[21.17810642339401,49.00889900825484],[21.17830937141275,49.00978655867891],[21.1796630870229,49.00965037706607],[21.17986606785666,49.01053792383817],[21.18121980027405,49.01040172304954],[21.18142281392454,49.01128926616872],[21.18277656314785,49.01115304620328],[21.18358880431055,49.01470319909674],[21.18223496065167,49.01483943036192],[21.18243802036773,49.0157269693392],[21.18108414629512,49.01586318707564],[21.18128719161331,49.01675072804954],[21.18264108929901,49.01661450748827],[21.1828441674453,49.01750204480874],[21.18555198963219,49.01722954897161]]],"type":"Polygon"}
+}

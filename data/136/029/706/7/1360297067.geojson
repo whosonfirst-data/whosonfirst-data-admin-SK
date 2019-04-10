@@ -1,0 +1,71 @@
+{
+  "id": 1360297067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37613,48.58762,21.37613,48.58762",
+    "geom:latitude":48.58762,
+    "geom:longitude":21.37613,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Skaros",
+    "gn:country_code":"SK",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723601,
+    "gn:latitude":48.58762,
+    "gn:longitude":21.37613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sk\u00e1ro\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sk\u00e1ro\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723601,
+        "wk:page":"Sk%C3%A1ro%C5%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ee3f37bfe65e2ce624c8cd71b838d73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1360297067,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1360297067,
+    "wof:lastmodified":1537700349,
+    "wof:name":"Skaros",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37613,
+    48.58762,
+    21.37613,
+    48.58762
+],
+  "geometry": {"coordinates":[21.37613,48.58762],"type":"Point"}
+}

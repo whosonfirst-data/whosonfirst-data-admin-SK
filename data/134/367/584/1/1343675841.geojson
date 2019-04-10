@@ -1,0 +1,72 @@
+{
+  "id": 1343675841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11667,48.45,20.11667,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":20.11667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vysny Blh",
+    "gn:country_code":"SK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723140,
+    "gn:latitude":48.45,
+    "gn:longitude":20.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00fd Blh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fels\u0151-Balog",
+        "Vy\u0161n\u00ed Blh",
+        "Vy\u0161n\u00fd Blh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723140
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e5853e81fd754af6710afbbb955d8310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1343675841,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1343675841,
+    "wof:lastmodified":1537700341,
+    "wof:name":"Vysny Blh",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11667000000001,
+    48.45,
+    20.11667000000001,
+    48.45
+],
+  "geometry": {"coordinates":[20.11667000000001,48.45],"type":"Point"}
+}

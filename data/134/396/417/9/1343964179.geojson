@@ -1,0 +1,71 @@
+{
+  "id": 1343964179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.216,49.14973,18.216,49.14973",
+    "geom:latitude":49.14973,
+    "geom:longitude":18.216,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zubak",
+    "gn:country_code":"SK",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056469,
+    "gn:latitude":49.14973,
+    "gn:longitude":18.216,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zub\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zub\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056469,
+        "wk:page":"Zub%C3%A1k"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0f267d19a1ba9f223059a9e02845fd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1343964179,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343964179,
+    "wof:lastmodified":1537700377,
+    "wof:name":"Zubak",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.216,
+    49.14973,
+    18.216,
+    49.14973
+],
+  "geometry": {"coordinates":[18.216,49.14973],"type":"Point"}
+}

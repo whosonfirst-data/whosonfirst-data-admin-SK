@@ -1,0 +1,82 @@
+{
+  "id": 1125784891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.309989,48.029129,17.309989,48.029129",
+    "geom:latitude":48.029129,
+    "geom:longitude":17.309989,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.029129,
+    "lbl:longitude":17.309989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00c5 Amor\u00ed",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":31429,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822091,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":822091,
+        "qs_pg:id":31429
+    },
+    "wof:country":"SK",
+    "wof:created":1497290635,
+    "wof:geomhash":"2df37beb19c36520e294069e31be1490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1125784891,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125784891,
+    "wof:lastmodified":1509391883,
+    "wof:name":"\u00c5 Amor\u00ed",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.309989,
+    48.029129,
+    17.309989,
+    48.029129
+],
+  "geometry": {"coordinates":[17.309989,48.029129],"type":"Point"}
+}

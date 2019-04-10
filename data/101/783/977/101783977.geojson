@@ -1,0 +1,138 @@
+{
+  "id": 101783977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1236390.036448,
+    "geom:bbox":"18.52467864,48.2395339778,18.5501114462,48.2515562566",
+    "geom:latitude":48.244391,
+    "geom:longitude":18.537076,
+    "iso:country":"SK",
+    "lbl:latitude":48.243844,
+    "lbl:longitude":18.537076,
+    "mps:latitude":48.243844,
+    "mps:longitude":18.537076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:deu_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:dut_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:eng_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:epo_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:fra_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:fre_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:ger_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d3bars"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:may_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:msa_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:nld_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:pol_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:slk_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:slo_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0422\u0458\u0435\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "\u00d3 Bars"
+    ],
+    "name:war_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levice",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Star\u00fd Tekov",
+    "qs:la_lc":"*SK232502766",
+    "qs:level":"locality",
+    "qs:loc":"Star\u00fd Tekov",
+    "qs:loc_alt":"Stary Tekov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057466,
+        "gp:id":822406,
+        "qs:id":383710,
+        "qs_pg:id":383710,
+        "wd:id":"Q1071480",
+        "wk:page":"Star\u00fd Tekov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ad27132c9b1b3654946d94cef434a558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":101783977,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101783977,
+    "wof:lastmodified":1527688497,
+    "wof:name":"Star\u00fd Tekov",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52467864000562,
+    48.23953397784163,
+    18.5501114462474,
+    48.25155625662796
+],
+  "geometry": {"coordinates":[[[18.5370291275334,48.24746572406889],[18.54372215351395,48.24694618352891],[18.54341877758975,48.24516052333831],[18.5501114462474,48.24464059880557],[18.54980786537976,48.24285495718823],[18.54846938809396,48.24295897026923],[18.54816588089272,48.24117332180089],[18.54682744502821,48.24127731443917],[18.54667572485204,48.24038448710695],[18.54399888453304,48.24059241953273],[18.54384721758754,48.23969958731141],[18.53447828138525,48.24042682552982],[18.53432678373258,48.23953397784163],[18.53298836748985,48.23963780208061],[18.53313984192891,48.24053065188394],[18.53180139747462,48.24063446203286],[18.53195285549373,48.24152731329866],[18.53061438282714,48.24163110935649],[18.53076582442452,48.24252396208476],[18.52808881766816,48.24273150981111],[18.5283916283725,48.24451722176883],[18.52571450875712,48.2447247131243],[18.52601725374922,48.24651043093007],[18.52467864000562,48.24661415652389],[18.52482999946642,48.24750701656296],[18.53018451735983,48.24709200848599],[18.53094188106951,48.25155625662796],[18.5322806141765,48.25145245351359],[18.5321291046132,48.25055960730367],[18.53346780949312,48.25045579009566],[18.53331628350242,48.24956294534979],[18.53599363180888,48.24935526653894],[18.53584206616864,48.24846242537262],[18.5371807095957,48.24835856377115],[18.5370291275334,48.24746572406889]]],"type":"Polygon"}
+}

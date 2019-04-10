@@ -1,0 +1,67 @@
+{
+  "id": 1209730519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27787,48.89655,22.27787,48.89655",
+    "geom:latitude":48.89655,
+    "geom:longitude":22.27787,
+    "gn:asciiname":"Strihovce",
+    "gn:country_code":"SK",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723458,
+    "gn:latitude":48.89655,
+    "gn:longitude":22.27787,
+    "gn:modification_date":"2008-06-02",
+    "gn:name":"Strihovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723458,
+        "wk:page":"Strihovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6445b0391d248fcbdc71cbd923b0e51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1209730519,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1209730519,
+    "wof:lastmodified":1537573563,
+    "wof:name":"Strihovce",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27787,
+    48.89655,
+    22.27787,
+    48.89655
+],
+  "geometry": {"coordinates":[22.27787,48.89655],"type":"Point"}
+}

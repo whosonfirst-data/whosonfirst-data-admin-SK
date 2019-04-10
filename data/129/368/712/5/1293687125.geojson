@@ -1,0 +1,73 @@
+{
+  "id": 1293687125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01667,47.78333,18.01667,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":18.01667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cserhatpuszta",
+    "gn:country_code":"SK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060629,
+    "gn:latitude":47.78333,
+    "gn:longitude":18.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cserh\u00e1tpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "\u010cerh\u00e1t"
+    ],
+    "name:und_x_variant":[
+        "Cserh\u00e1tpuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060629
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f3b7b6a0789fbabafbfc1a400f7b2938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1293687125,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293687125,
+    "wof:lastmodified":1537700432,
+    "wof:name":"Cserhatpuszta",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01667,
+    47.78333,
+    18.01667,
+    47.78333
+],
+  "geometry": {"coordinates":[18.01667,47.78333],"type":"Point"}
+}

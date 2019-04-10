@@ -1,0 +1,87 @@
+{
+  "id": 1125996735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56971,48.24012,18.56971,48.24012",
+    "geom:latitude":48.24012,
+    "geom:longitude":18.56971,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.24012,
+    "lbl:longitude":18.56971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "K\u013ea\u010dany"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3059853,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hronsk\u00e9 Kl\u0315a\u010dany",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904662,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819851,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059853,
+        "gp:id":819851,
+        "qs_pg:id":904662
+    },
+    "wof:country":"SK",
+    "wof:created":1497299390,
+    "wof:geomhash":"b8af99dc67cdd3e92a7bc953acfc7464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1125996735,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125996735,
+    "wof:lastmodified":1509405829,
+    "wof:name":"Hronsk\u00e9 Kl\u0315a\u010dany",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56971,
+    48.24012,
+    18.56971,
+    48.24012
+],
+  "geometry": {"coordinates":[18.56971,48.24012],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226456581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96546,48.4205,19.96546,48.4205",
+    "geom:latitude":48.4205,
+    "geom:longitude":19.96546,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krasna",
+    "gn:country_code":"SK",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059294,
+    "gn:latitude":48.4205,
+    "gn:longitude":19.96546,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kr\u00e1sna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sz\u00e9plak",
+        "Kr\u00e1sna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059294,
+        "wk:page":"Kr%C3%A1sna"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"84bef6d7e7aa260f76e0cc3dab3d0891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1226456581,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226456581,
+    "wof:lastmodified":1537700411,
+    "wof:name":"Krasna",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96546,
+    48.4205,
+    19.96546,
+    48.4205
+],
+  "geometry": {"coordinates":[19.96546,48.4205],"type":"Point"}
+}

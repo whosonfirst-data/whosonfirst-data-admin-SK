@@ -1,0 +1,135 @@
+{
+  "id": 1125805549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28128,49.16616,20.28128,49.16616",
+    "geom:latitude":49.16616,
+    "geom:longitude":20.28128,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":800,
+    "gn:population":800,
+    "iso:country":"SK",
+    "lbl:latitude":49.16616,
+    "lbl:longitude":20.28128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u7279\u862d\u65af\u5361\u9b6f\u9580\u5c3c\u5361"
+    ],
+    "name:cze_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:dut_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:eng_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:epo_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:fre_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:ger_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00e1tralomnic"
+    ],
+    "name:lit_x_preferred":[
+        "Tatr\u0173 Lomnica"
+    ],
+    "name:nan_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "name:pol_x_preferred":[
+        "Tatrza\u0144ska \u0141omnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0442\u0440\u0430\u043d\u0441\u043a\u0430 \u041b\u043e\u043c\u043d\u0438\u0446\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Tatransk\u00e1 Lomnica"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723397,
+    "qs_pg:gn_pop":800,
+    "qs_pg:name":"Tatransk\u00e1 Lomnica",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":946,
+    "qs_pg:photos_1k":192,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":946,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":2937,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822616,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723397,
+        "gp:id":822616,
+        "qs_pg:id":2937,
+        "wd:id":"Q144454"
+    },
+    "wof:country":"SK",
+    "wof:created":1497291448,
+    "wof:geomhash":"d14cb2edebc3694a722f03cca705432e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125805549,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125805549,
+    "wof:lastmodified":1514505303,
+    "wof:name":"Tatransk\u00e1 Lomnica",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:population":800,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28128,
+    49.16616,
+    20.28128,
+    49.16616
+],
+  "geometry": {"coordinates":[20.28128,49.16616],"type":"Point"}
+}

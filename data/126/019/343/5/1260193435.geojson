@@ -1,0 +1,66 @@
+{
+  "id": 1260193435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54987,48.874,19.54987,48.874",
+    "geom:latitude":48.874,
+    "geom:longitude":19.54987,
+    "gn:asciiname":"Krpacovo",
+    "gn:country_code":"SK",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630207,
+    "gn:latitude":48.874,
+    "gn:longitude":19.54987,
+    "gn:modification_date":"2015-09-02",
+    "gn:name":"Krpacovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630207
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"716c9256d186b26e480efa9b271ec423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1260193435,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1260193435,
+    "wof:lastmodified":1536833194,
+    "wof:name":"Krpacovo",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54987,
+    48.874,
+    19.54987,
+    48.874
+],
+  "geometry": {"coordinates":[19.54987,48.874],"type":"Point"}
+}

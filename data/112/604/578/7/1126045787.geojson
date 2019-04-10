@@ -1,0 +1,137 @@
+{
+  "id": 1126045787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96694,48.44892,18.96694,48.44892",
+    "geom:latitude":48.44892,
+    "geom:longitude":18.96694,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.44892,
+    "lbl:longitude":18.96694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:cze_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:dut_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:eng_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:epo_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:fre_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:ger_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f3patak"
+    ],
+    "name:ita_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:may_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:nan_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:pol_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:slo_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u0441\u043a\u0438 \u0421\u0442\u0443\u0434\u0458\u0435\u045a\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Kolpachy"
+    ],
+    "name:war_x_preferred":[
+        "Bansk\u00fd Studenec"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061183,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bansk\u00fd Studenec",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":465996,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":818514,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061183,
+        "gp:id":818514,
+        "qs_pg:id":465996,
+        "wd:id":"Q806961"
+    },
+    "wof:country":"SK",
+    "wof:created":1497302420,
+    "wof:geomhash":"303d80bd1d3fb1591b80151a8fcd20ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080491,
+            "locality_id":1126045787,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1126045787,
+    "wof:lastmodified":1514505044,
+    "wof:name":"Bansk\u00fd Studenec",
+    "wof:parent_id":102080491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96694,
+    48.44892,
+    18.96694,
+    48.44892
+],
+  "geometry": {"coordinates":[18.96694,48.44892],"type":"Point"}
+}

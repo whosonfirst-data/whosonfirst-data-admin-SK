@@ -1,0 +1,73 @@
+{
+  "id": 1343269525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48557,48.77852,21.48557,48.77852",
+    "geom:latitude":48.77852,
+    "geom:longitude":21.48557,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vysna Kamenica",
+    "gn:country_code":"SK",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723168,
+    "gn:latitude":48.77852,
+    "gn:longitude":21.48557,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00e1 Kamenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161nia Kamenica",
+        "Vy\u0161n\u00ed Kamenica",
+        "Vy\u0161n\u00e1 Kamenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723168,
+        "wk:page":"Vy%C5%A1n%C3%A1_Kamenica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d64bd7678f189fbe6c5a7f8d98fe997e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1343269525,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1343269525,
+    "wof:lastmodified":1537700342,
+    "wof:name":"Vysna Kamenica",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48557000000001,
+    48.77852,
+    21.48557000000001,
+    48.77852
+],
+  "geometry": {"coordinates":[21.48557000000001,48.77852],"type":"Point"}
+}

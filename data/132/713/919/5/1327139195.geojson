@@ -1,0 +1,71 @@
+{
+  "id": 1327139195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98166,49.303,20.98166,49.303",
+    "geom:latitude":49.303,
+    "geom:longitude":20.98166,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Obrucne",
+    "gn:country_code":"SK",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724010,
+    "gn:latitude":49.303,
+    "gn:longitude":20.98166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obru\u010dn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obru\u010dn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724010,
+        "wk:page":"Obru%C4%8Dn%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a272026dbcb2fd1e59e87172489331ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1327139195,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327139195,
+    "wof:lastmodified":1537700356,
+    "wof:name":"Obrucne",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98166,
+    49.303,
+    20.98166,
+    49.303
+],
+  "geometry": {"coordinates":[20.98166,49.303],"type":"Point"}
+}

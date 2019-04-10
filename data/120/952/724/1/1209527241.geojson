@@ -1,0 +1,65 @@
+{
+  "id": 1209527241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03189,48.69729,22.03189,48.69729",
+    "geom:latitude":48.69729,
+    "geom:longitude":22.03189,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Inacovce",
+    "gn:country_code":"SK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724607,
+    "gn:latitude":48.69729,
+    "gn:longitude":22.03189,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"I\u0148a\u010dovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I\u0148a\u010dovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724607,
+        "wk:page":"I%C5%88a%C4%8Dovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3c7aa587462cde159dc58b721d038b47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209527241
+        }
+    ],
+    "wof:id":1209527241,
+    "wof:lastmodified":1537700367,
+    "wof:name":"Inacovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03189,
+    48.69729,
+    22.03189,
+    48.69729
+],
+  "geometry": {"coordinates":[22.03189,48.69729],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326524559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72021,48.48487,17.72021,48.48487",
+    "geom:latitude":48.48487,
+    "geom:longitude":17.72021,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pecenady",
+    "gn:country_code":"SK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058245,
+    "gn:latitude":48.48487,
+    "gn:longitude":17.72021,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pe\u010de\u0148ady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u010de\u0148ady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058245,
+        "wk:page":"Pe%C4%8De%C5%88ady"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f85b0cd971f6d1b577156c383810fd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080495,
+            "locality_id":1326524559,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1326524559,
+    "wof:lastmodified":1537700396,
+    "wof:name":"Pecenady",
+    "wof:parent_id":102080495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72021,
+    48.48487,
+    17.72021,
+    48.48487
+],
+  "geometry": {"coordinates":[17.72021,48.48487],"type":"Point"}
+}

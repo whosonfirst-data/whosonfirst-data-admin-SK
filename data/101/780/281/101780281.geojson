@@ -1,0 +1,104 @@
+{
+  "id": 101780281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":428670.273612,
+    "geom:bbox":"20.5822781067,48.9043956366,20.5961847237,48.9110042417",
+    "geom:latitude":48.908163,
+    "geom:longitude":20.588039,
+    "iso:country":"SK",
+    "lbl:latitude":48.908352,
+    "lbl:longitude":20.588039,
+    "mps:latitude":48.908352,
+    "mps:longitude":20.588039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:hbs_x_preferred":[
+        "Tjepli\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Teplicska"
+    ],
+    "name:ita_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:slk_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0458\u0435\u043f\u043b\u0438\u0447\u043a\u0430"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tepli\u010dka",
+    "qs:la_lc":"*SK42A543667",
+    "qs:level":"locality",
+    "qs:loc":"Tepli\u010dka",
+    "qs:loc_alt":"Teplicka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723391,
+        "gp:id":822635,
+        "qs:id":1324921,
+        "wd:id":"Q396767"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"56b11ae100bf4263d1cc32f030691772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":101780281,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780281,
+    "wof:lastmodified":1527715867,
+    "wof:name":"Tepli\u010dka",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58227810672787,
+    48.90439563663188,
+    20.59618472373052,
+    48.91100424165865
+],
+  "geometry": {"coordinates":[[[20.58401367117239,48.91100424165865],[20.59618472373052,48.9098432185346],[20.59580105821959,48.90806561320608],[20.593096519227,48.90832372210264],[20.59290474673901,48.90743491292562],[20.59155249123302,48.90756394018103],[20.59136075104948,48.90667512755323],[20.59000851274129,48.90680413579076],[20.58981680486045,48.90591531971262],[20.58711235623116,48.90617328180537],[20.5867290609778,48.90439563663188],[20.58267248162434,48.9047824411515],[20.58363043072853,48.90922658826776],[20.58227810672787,48.90935550375355],[20.58246969898954,48.91024433350731],[20.58382204660711,48.91011541535295],[20.58401367117239,48.91100424165865]]],"type":"Polygon"}
+}

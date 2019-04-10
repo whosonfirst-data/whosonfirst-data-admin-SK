@@ -1,0 +1,68 @@
+{
+  "id": 1293801545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15667,48.25466,19.15667,48.25466",
+    "geom:latitude":48.25466,
+    "geom:longitude":19.15667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cerovo",
+    "gn:country_code":"SK",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060771,
+    "gn:latitude":48.25466,
+    "gn:longitude":19.15667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cerovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060771,
+        "wk:page":"Cerovo%2C_Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"58cc7aceba4701b371a883475759b59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1293801545,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293801545,
+    "wof:lastmodified":1537573609,
+    "wof:name":"Cerovo",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15667,
+    48.25466,
+    19.15667,
+    48.25466
+],
+  "geometry": {"coordinates":[19.15667,48.25466],"type":"Point"}
+}

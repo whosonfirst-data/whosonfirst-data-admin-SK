@@ -1,0 +1,71 @@
+{
+  "id": 1293399577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99695,48.56776,18.99695,48.56776",
+    "geom:latitude":48.56776,
+    "geom:longitude":18.99695,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hronska Breznica",
+    "gn:country_code":"SK",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059856,
+    "gn:latitude":48.56776,
+    "gn:longitude":18.99695,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hronsk\u00e1 Breznica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hronsk\u00e1 Breznica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059856,
+        "wk:page":"Hronsk%C3%A1_Breznica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"279ace3b171a42ea6eb0e8765e9482f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1293399577,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293399577,
+    "wof:lastmodified":1537700418,
+    "wof:name":"Hronska Breznica",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99695,
+    48.56776,
+    18.99695,
+    48.56776
+],
+  "geometry": {"coordinates":[18.99695,48.56776],"type":"Point"}
+}

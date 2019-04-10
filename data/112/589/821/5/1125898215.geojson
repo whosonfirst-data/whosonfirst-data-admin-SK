@@ -1,0 +1,148 @@
+{
+  "id": 1125898215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06292,49.11939,20.06292,49.11939",
+    "geom:latitude":49.11939,
+    "geom:longitude":20.06292,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"SK",
+    "lbl:latitude":49.11939,
+    "lbl:longitude":20.06292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u65af\u7279\u723e\u5e03\u65af\u51f1\u666e\u840a\u7d22"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:deu_x_preferred":[
+        "Tschirmer See"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:est_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:hun_x_preferred":[
+        "Csorbat\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c8\u30a5\u30eb\u30d6\u30b9\u30b1\u30fc\u30fb\u30d7\u30ec\u30bd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ud2b8\ub974\ud504\uc2a4\ucf00\ud50c\ub808\uc18c"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160trbske Plesas"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:nob_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:pol_x_preferred":[
+        "Szczyrbskie Jezioro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0440\u0431\u0441\u043a\u0435 \u041f\u043b\u0435\u0441\u043e"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160trbsk\u00e9 Pleso"
+    ],
+    "name:unk_x_variant":[
+        "Szczyrbskie Jezioro"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u723e\u5e03\u65af\u51f1\u666e\u840a\u7d22"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723465,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"\u0160trbsk\u00e9 Pleso",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1026818,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723465,
+        "qs_pg:id":1026818,
+        "wd:id":"Q392483"
+    },
+    "wof:country":"SK",
+    "wof:created":1497295680,
+    "wof:geomhash":"997165ee70eff44a20c68039f49aa297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125898215,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125898215,
+    "wof:lastmodified":1553816610,
+    "wof:name":"\u0160trbsk\u00e9 Pleso",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06292,
+    49.11939,
+    20.06292,
+    49.11939
+],
+  "geometry": {"coordinates":[20.06292,49.11939],"type":"Point"}
+}

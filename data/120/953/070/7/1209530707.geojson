@@ -1,0 +1,60 @@
+{
+  "id": 1209530707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37277,48.86059,20.37277,48.86059",
+    "geom:latitude":48.86059,
+    "geom:longitude":20.37277,
+    "gn:asciiname":"Dobinska Masa",
+    "gn:country_code":"SK",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629562,
+    "gn:latitude":48.86059,
+    "gn:longitude":20.37277,
+    "gn:modification_date":"2013-10-30",
+    "gn:name":"Dobinska Masa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629562
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"512893ea0b66edb3bae3b51cee54b5f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209530707
+        }
+    ],
+    "wof:id":1209530707,
+    "wof:lastmodified":1536284289,
+    "wof:name":"Dobinska Masa",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.372770000000006,
+    48.86059,
+    20.372770000000006,
+    48.86059
+],
+  "geometry": {"coordinates":[20.37277000000001,48.86059],"type":"Point"}
+}

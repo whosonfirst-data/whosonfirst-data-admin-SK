@@ -1,0 +1,68 @@
+{
+  "id": 1344254671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33382,49.11791,18.33382,49.11791",
+    "geom:latitude":49.11791,
+    "geom:longitude":18.33382,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"308.0",
+    "gn:asciiname":"Horne Kockovce",
+    "gn:country_code":"SK",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059997,
+    "gn:latitude":49.11791,
+    "gn:longitude":18.33382,
+    "gn:modification_date":"2017-05-12",
+    "gn:name":"Horn\u00e9 Ko\u010dkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059997
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8ff4666e9bdfc3a81a0b93cf346fa9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1344254671,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1344254671,
+    "wof:lastmodified":1537089396,
+    "wof:name":"Horne Kockovce",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33382000000001,
+    49.11791,
+    18.33382000000001,
+    49.11791
+],
+  "geometry": {"coordinates":[18.33382000000001,49.11791],"type":"Point"}
+}

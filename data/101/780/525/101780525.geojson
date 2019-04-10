@@ -1,0 +1,147 @@
+{
+  "id": 101780525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":947075.289044,
+    "geom:bbox":"20.0761732712,48.9598884561,20.0967890626,48.976794171",
+    "geom:latitude":48.967804,
+    "geom:longitude":20.089483,
+    "iso:country":"SK",
+    "lbl:latitude":48.968458,
+    "lbl:longitude":20.092763,
+    "mps:latitude":48.968458,
+    "mps:longitude":20.092763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:ces_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:cze_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:dut_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:fre_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Teplicska"
+    ],
+    "name:ita_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:may_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0456\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u0422\u0454\u043f\u043b\u0456\u0447\u043a\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u0422\u0458\u0435\u043f\u043b\u0438\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u044c\u043a\u0430 \u0422\u0435\u043f\u043b\u0438\u0447\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Poprad",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Liptovsk\u00e1 Tepli\u010dka",
+    "qs:la_lc":"*SK416523631",
+    "qs:level":"locality",
+    "qs:loc":"Liptovsk\u00e1 Tepli\u010dka",
+    "qs:loc_alt":"Liptovska Teplicka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724278,
+        "gp:id":820670,
+        "qs:id":1161728,
+        "qs_pg:id":1161728,
+        "wd:id":"Q168439",
+        "wk:page":"Liptovsk\u00e1 Tepli\u010dka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ef075e4d60deaba95f39f9f10339ed81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":101780525,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780525,
+    "wof:lastmodified":1527715877,
+    "wof:name":"Liptovsk\u00e1 Tepli\u010dka",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07617327117993,
+    48.95988845609503,
+    20.096789062602,
+    48.97679417095844
+],
+  "geometry": {"coordinates":[[[20.09265079582246,48.97667118622513],[20.09228453523258,48.97489165488378],[20.09363967171902,48.97476865885568],[20.09345653011133,48.97387889463641],[20.09616673706159,48.97363285848513],[20.09543406351202,48.97007381468802],[20.096789062602,48.96995078222699],[20.0958732889826,48.96550197371022],[20.09451840882997,48.96562499340513],[20.09433530285531,48.96473522694356],[20.09162557169839,48.96498121203683],[20.09144252161127,48.96409143973563],[20.09008767060834,48.9642144051349],[20.08953864159321,48.96154507616728],[20.08818385580139,48.9616680175161],[20.08781792559029,48.95988845609503],[20.08646318122453,48.96001137594658],[20.08682906387401,48.96179094246884],[20.08547426581185,48.96191385102537],[20.08565719582163,48.96280363573493],[20.08430236784187,48.96292653044537],[20.08448528237943,48.96381631697074],[20.07906581398896,48.96430774204111],[20.0788829945925,48.96341794531804],[20.07617327117993,48.96366355437169],[20.07635604300339,48.96455335619146],[20.07771093156117,48.96443055731515],[20.07789373547718,48.96532035585295],[20.07924864169195,48.96519753803017],[20.07943147770283,48.9660873332856],[20.08349623091738,48.96571877378216],[20.08386207059789,48.9674983467936],[20.0852170236447,48.96737545572938],[20.08539997974265,48.96826523858334],[20.08675495044326,48.96814232856997],[20.08693793864563,48.96903210813872],[20.08964790921374,48.96878623381338],[20.09074629858895,48.97412486518613],[20.08803604249988,48.97437077013353],[20.08840214366046,48.97615031825859],[20.09111249494003,48.97590440310205],[20.09129560559768,48.97679417095844],[20.09265079582246,48.97667118622513]]],"type":"Polygon"}
+}

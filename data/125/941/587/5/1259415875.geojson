@@ -1,0 +1,71 @@
+{
+  "id": 1259415875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89938,48.52627,17.89938,48.52627",
+    "geom:latitude":48.52627,
+    "geom:longitude":17.89938,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Salgovce",
+    "gn:country_code":"SK",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057761,
+    "gn:latitude":48.52627,
+    "gn:longitude":17.89938,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160algovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160algovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057761,
+        "wk:page":"%C5%A0algovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c9efcefa4a71002ec5748c04eaad7d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1259415875,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1259415875,
+    "wof:lastmodified":1537700392,
+    "wof:name":"Salgovce",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89937999999999,
+    48.52627,
+    17.89937999999999,
+    48.52627
+],
+  "geometry": {"coordinates":[17.89937999999999,48.52627],"type":"Point"}
+}

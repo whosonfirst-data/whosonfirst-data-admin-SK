@@ -1,0 +1,72 @@
+{
+  "id": 1293391841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10938,48.5362,21.10938,48.5362",
+    "geom:latitude":48.5362,
+    "geom:longitude":21.10938,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nizny Lanec",
+    "gn:country_code":"SK",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724034,
+    "gn:latitude":48.5362,
+    "gn:longitude":21.10938,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00fd L\u00e1nec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017en\u00fd L\u00e1nc",
+        "Ni\u017en\u00fd L\u00e1nec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724034,
+        "wk:page":"Ni%C5%BEn%C3%BD_L%C3%A1nec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0d7ce95fdc943341842da20a961e1f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1293391841,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1293391841,
+    "wof:lastmodified":1537700357,
+    "wof:name":"Nizny Lanec",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10938,
+    48.5362,
+    21.10938,
+    48.5362
+],
+  "geometry": {"coordinates":[21.10938,48.5362],"type":"Point"}
+}

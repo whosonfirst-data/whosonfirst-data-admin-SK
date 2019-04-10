@@ -1,0 +1,70 @@
+{
+  "id": 1327338323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19271,48.96729,21.19271,48.96729",
+    "geom:latitude":48.96729,
+    "geom:longitude":21.19271,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kvasna Voda",
+    "gn:country_code":"SK",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724343,
+    "gn:latitude":48.96729,
+    "gn:longitude":21.19271,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Kvasn\u00e1 Voda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Kva\u0161n\u00e1 voda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724343
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a841c7913c0bb6905954ed75c7bd438c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1327338323,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327338323,
+    "wof:lastmodified":1537700363,
+    "wof:name":"Kvasna Voda",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19271,
+    48.96729000000001,
+    21.19271,
+    48.96729000000001
+],
+  "geometry": {"coordinates":[21.19271,48.96729000000001],"type":"Point"}
+}

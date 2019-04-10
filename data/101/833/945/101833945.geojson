@@ -1,0 +1,144 @@
+{
+  "id": 101833945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000198,
+    "geom:area_square_m":1617608.289577,
+    "geom:bbox":"16.9826749628,48.5800100864,17.0147008952,48.5942863641",
+    "geom:latitude":48.588753,
+    "geom:longitude":16.998214,
+    "iso:country":"SK",
+    "lbl:latitude":48.588329,
+    "lbl:longitude":16.994453,
+    "mps:latitude":48.588329,
+    "mps:longitude":16.994453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:ces_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:cze_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:ger_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:hun_x_preferred":[
+        "Morvaszentj\u00e1nos"
+    ],
+    "name:ita_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:may_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:msa_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:nan_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:slo_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0438 \u0421\u0432\u0435\u0442\u0438 \u0408\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Moravsk\u00fd J\u00e1n"
+    ],
+    "name:war_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Senica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Sekule",
+    "qs:la_lc":"*SK215556114",
+    "qs:level":"locality",
+    "qs:loc":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n",
+    "qs:loc_alt":"Moravsky Svaty Jan",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058641,
+        "gp:id":821104,
+        "qs:id":342904,
+        "qs_pg:id":342904,
+        "wd:id":"Q203687",
+        "wk:page":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a2f7be8c66fa405599afe0c2cbe5069d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":101833945,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101833945,
+    "wof:lastmodified":1527642929,
+    "wof:name":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98267496283302,
+    48.58001008641207,
+    17.01470089523042,
+    48.59428636412105
+],
+  "geometry": {"coordinates":[[[17.00054479463523,48.59373536008241],[17.0044713303318,48.59259629150301],[17.00440342044044,48.59211299793037],[17.00662059566537,48.59197280026319],[17.01101522333335,48.59069794051885],[17.01090246469676,48.58989616735721],[17.0122525542825,48.58981073158981],[17.0121266863373,48.58891579250695],[17.01347674786314,48.58883034210515],[17.01335086176391,48.58793540424676],[17.01470089523042,48.58784993921154],[17.01457499097882,48.58695500257778],[17.01322498136784,48.58704046585069],[17.01309910667476,48.58614552691671],[17.01174911671671,48.58623097203201],[17.01162327158028,48.58533603079854],[17.01027330127584,48.58542145775669],[17.01014748569372,48.58452651422374],[17.0087975350429,48.58461192302605],[17.00904912419969,48.5864018130768],[16.99959901815924,48.58699924027286],[16.99947338772006,48.58610428319662],[16.99812337964727,48.58618956259687],[16.99736985964404,48.58081979830837],[16.99601999049872,48.58090505076467],[16.99589444759266,48.58001008641207],[16.99319474443246,48.58018053862884],[16.9935712471061,48.582865440619],[16.99087138408282,48.58303583780071],[16.99124779480144,48.58572074550023],[16.98989778544217,48.58580592476818],[16.99002324319395,48.58670089468467],[16.98867320578938,48.58678605931289],[16.9887986453669,48.58768103044918],[16.99014870663001,48.5875958640645],[16.99052513104715,48.59028076898579],[16.98647471994587,48.59053623475489],[16.98660013453286,48.59143120725827],[16.98389979180246,48.59160143929296],[16.98402516434237,48.5924964147714],[16.98267496283302,48.59258150794642],[16.98280031718747,48.59347648464433],[16.98415054256327,48.59339138971427],[16.98427592646595,48.59428636412105],[16.99507776964037,48.59360500026946],[16.99495219480735,48.59271003991671],[16.99900274524805,48.59245426316795],[16.99912839167496,48.59334921824512],[17.00047859063136,48.59326392477362],[17.00054479463523,48.59373536008241]]],"type":"Polygon"}
+}

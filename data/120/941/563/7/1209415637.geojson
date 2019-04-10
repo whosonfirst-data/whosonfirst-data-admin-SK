@@ -1,0 +1,62 @@
+{
+  "id": 1209415637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74241,48.77093,18.74241,48.77093",
+    "geom:latitude":48.77093,
+    "geom:longitude":18.74241,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"307.0",
+    "gn:asciiname":"Jalovec",
+    "gn:country_code":"SK",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059737,
+    "gn:latitude":48.77093,
+    "gn:longitude":18.74241,
+    "gn:modification_date":"2017-09-09",
+    "gn:name":"Jalovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059737
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b97a5c62be87eb682588536a1ff2a510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209415637
+        }
+    ],
+    "wof:id":1209415637,
+    "wof:lastmodified":1536287698,
+    "wof:name":"Jalovec",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74241,
+    48.77093,
+    18.74241,
+    48.77093
+],
+  "geometry": {"coordinates":[18.74241,48.77093],"type":"Point"}
+}

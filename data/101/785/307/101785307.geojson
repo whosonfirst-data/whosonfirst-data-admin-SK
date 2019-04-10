@@ -1,0 +1,145 @@
+{
+  "id": 101785307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":887388.187357,
+    "geom:bbox":"17.5588299034,48.3366661277,17.5772279276,48.3473974928",
+    "geom:latitude":48.34243,
+    "geom:longitude":17.567596,
+    "iso:country":"SK",
+    "lbl:latitude":48.342801,
+    "lbl:longitude":17.56669,
+    "mps:latitude":48.342801,
+    "mps:longitude":17.56669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:ces_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:cze_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:deu_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:dut_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:eng_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:epo_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:fra_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:fre_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:ger_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:hun_x_preferred":[
+        "Gerencs\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:may_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:msa_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:nld_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:por_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:slo_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u043d\u0447\u0458\u0430\u0440\u043e\u0432\u0446\u0435 \u043d\u0430 \u041f\u0430\u0440\u043d\u0438"
+    ],
+    "name:und_x_preferred":[
+        "Hrnciarovce Nad Parnou"
+    ],
+    "name:unk_x_variant":[
+        "Hrn\u010diarovce"
+    ],
+    "name:war_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trnava",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Hrn\u010diarovce nad Parnou",
+    "qs:la_lc":"*SK217581020",
+    "qs:level":"locality",
+    "qs:loc":"Hrn\u010diarovce nad Parnou",
+    "qs:loc_alt":"Hrnciarovce nad Parnou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070d3ac8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3059867,
+        "gp:id":819838,
+        "qs:id":402364,
+        "wd:id":"Q958443",
+        "wk:page":"Hrn\u010diarovce nad Parnou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cb109cc25ffcb561979614b2f767c78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":101785307,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101785307,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527677691,
+    "wof:name":"Hrn\u010diarovce nad Parnou",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55882990340422,
+    48.33666612774709,
+    17.57722792760148,
+    48.34739749275775
+],
+  "geometry": {"coordinates":[[[17.56957615933908,48.34712110812632],[17.56944131230921,48.34622683657545],[17.57481237884508,48.34585810329031],[17.57467744393665,48.34496383870044],[17.57602017590671,48.34487161655534],[17.57588522358913,48.34397735326809],[17.57722792760148,48.34388511672648],[17.57709295787629,48.34299085474186],[17.57575027734885,48.34308308939626],[17.57534547508618,48.34040029427365],[17.56997499007019,48.34076904742415],[17.56970534011964,48.33898049933123],[17.56836275465855,48.33907264314257],[17.56822796226936,48.33817836633426],[17.56554282491066,48.33836260134103],[17.56540808554985,48.33746832017977],[17.56406553365389,48.33756041137644],[17.56393082383852,48.33666612774709],[17.56258829095862,48.3367582007786],[17.56272297729447,48.33765248629146],[17.56138041647284,48.33774454492487],[17.56151508539313,48.33863883173728],[17.55882990340422,48.33882290392415],[17.55896453142441,48.33971719391837],[17.56030714813198,48.33962516408326],[17.56084581477978,48.34320231069205],[17.56218852096356,48.34311025704108],[17.56259265509453,48.34579310521883],[17.56393542727773,48.34570102963221],[17.56407017427847,48.34659530930691],[17.56541296548613,48.34650321555114],[17.56554774204619,48.34739749275775],[17.56957615933908,48.34712110812632]]],"type":"Polygon"}
+}

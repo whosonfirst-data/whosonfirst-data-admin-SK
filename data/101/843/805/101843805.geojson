@@ -1,0 +1,144 @@
+{
+  "id": 101843805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":967092.425382,
+    "geom:bbox":"18.8314910018,48.6097396943,18.8547230814,48.6204147616",
+    "geom:latitude":48.615908,
+    "geom:longitude":18.842964,
+    "iso:country":"SK",
+    "lbl:latitude":48.615259,
+    "lbl:longitude":18.842172,
+    "mps:latitude":48.615259,
+    "mps:longitude":18.842172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lutila"
+    ],
+    "name:ces_x_preferred":[
+        "Lutila"
+    ],
+    "name:cze_x_preferred":[
+        "Lutila"
+    ],
+    "name:deu_x_preferred":[
+        "Lutila"
+    ],
+    "name:dut_x_preferred":[
+        "Lutila"
+    ],
+    "name:eng_x_preferred":[
+        "Lutila"
+    ],
+    "name:epo_x_preferred":[
+        "Lutila"
+    ],
+    "name:fra_x_preferred":[
+        "Lutila"
+    ],
+    "name:fre_x_preferred":[
+        "Lutila"
+    ],
+    "name:ger_x_preferred":[
+        "Lutila"
+    ],
+    "name:hbs_x_preferred":[
+        "Lutila"
+    ],
+    "name:hun_x_preferred":[
+        "Lutilla"
+    ],
+    "name:ita_x_preferred":[
+        "Lutila"
+    ],
+    "name:may_x_preferred":[
+        "Lutila"
+    ],
+    "name:msa_x_preferred":[
+        "Lutila"
+    ],
+    "name:nld_x_preferred":[
+        "Lutila"
+    ],
+    "name:pol_x_preferred":[
+        "Lutila"
+    ],
+    "name:slk_x_preferred":[
+        "Lutila"
+    ],
+    "name:slo_x_preferred":[
+        "Lutila"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0442\u0438\u043b\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Lutila"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Lutila"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017diar nad Hronom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Lutila",
+    "qs:la_lc":"*SK32D599336",
+    "qs:level":"locality",
+    "qs:loc":"Lutila",
+    "qs:loc_alt":"Lutila",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058958,
+        "gp:id":820768,
+        "qs:id":402547,
+        "wd:id":"Q1045508",
+        "wk:page":"Lutila"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"201883e7ceb03e6334323ceb3ef29407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":101843805,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101843805,
+    "wof:lastmodified":1527642593,
+    "wof:name":"Lutila",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83149100179372,
+    48.60973969428551,
+    18.8547230814097,
+    48.62041476159015
+],
+  "geometry": {"coordinates":[[[18.8346627536929,48.62030717158854],[18.83434548367319,48.61852280281596],[18.83838930130594,48.61819994811583],[18.83870671297359,48.61998430359466],[18.84275062467543,48.61966128861974],[18.84259184443192,48.61876911785737],[18.84798355822875,48.61833821146291],[18.84830131474655,48.62012253459039],[18.85099723432143,48.61990697453632],[18.850838305259,48.61901481773793],[18.85353415644784,48.61879919680047],[18.85337518736105,48.61790704378552],[18.8547230814097,48.61779921104153],[18.85440511758821,48.61601490748455],[18.85305727074376,48.61612273578908],[18.85289832321274,48.61523058080752],[18.84750697731215,48.61566172185854],[18.84703046101657,48.61298522635758],[18.84568268211478,48.6130929641443],[18.84536508767496,48.61130862609895],[18.8440173506811,48.61141634312287],[18.84385858782332,48.61052417090042],[18.84251086913929,48.6106318693802],[18.84235213705279,48.60973969428551],[18.83830902007895,48.61006268511073],[18.83894370829279,48.61363140815081],[18.83759589767089,48.61373904796591],[18.83791323760727,48.61552340998941],[18.8325217534628,48.61595382367881],[18.83283893324784,48.61773820080538],[18.83149100179372,48.61784576783162],[18.83164957883236,48.6187379576283],[18.83299753389406,48.61863038838754],[18.83331475669638,48.62041476159015],[18.8346627536929,48.62030717158854]]],"type":"Polygon"}
+}

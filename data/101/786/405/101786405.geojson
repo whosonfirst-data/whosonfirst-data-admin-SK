@@ -1,0 +1,141 @@
+{
+  "id": 101786405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":927315.011199,
+    "geom:bbox":"17.6380685395,48.1210488214,17.6565141417,48.1326740893",
+    "geom:latitude":48.126954,
+    "geom:longitude":17.648646,
+    "iso:country":"SK",
+    "lbl:latitude":48.126084,
+    "lbl:longitude":17.649554,
+    "mps:latitude":48.126084,
+    "mps:longitude":17.649554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:hbs_x_preferred":[
+        "\u010cjerna Voda"
+    ],
+    "name:hun_x_preferred":[
+        "Feketeny\u00e9k"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:may_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0458\u0435\u0440\u043d\u0430 \u0412\u043e\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "\u010ciern\u00e9 Nekyje"
+    ],
+    "name:war_x_preferred":[
+        "\u010cierna Voda"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Mostov\u00e1",
+    "qs:la_lc":"*SK212503924",
+    "qs:level":"locality",
+    "qs:loc":"\u010cierna Voda",
+    "qs:loc_alt":"Cierna Voda",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060674,
+        "gp:id":819010,
+        "qs:id":297290,
+        "qs_pg:id":297290,
+        "wd:id":"Q341440",
+        "wk:page":"\u010cierna Voda"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"24030a5dee9a79b56a4bd608b313f0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101786405,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101786405,
+    "wof:lastmodified":1553815501,
+    "wof:name":"\u010cierna Voda",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63806853951223,
+    48.12104882141728,
+    17.65651414172379,
+    48.13267408933075
+],
+  "geometry": {"coordinates":[[[17.65492413297403,48.13248786308657],[17.6547886566733,48.13159361909976],[17.65612564603271,48.13150048356727],[17.65599015257925,48.13060624087331],[17.65465318644482,48.13069937451223],[17.65411136624761,48.1271223901532],[17.65544823949222,48.12702926408781],[17.65517731937939,48.125240772089],[17.65651414172379,48.12514763361003],[17.65637866755606,48.12425338860203],[17.65504186842901,48.1243465251876],[17.65490642354916,48.12345227768509],[17.65356964317743,48.12354539617792],[17.65343422758332,48.12265114618151],[17.65209746596764,48.12274424658199],[17.6519620796571,48.12184999409163],[17.65062533679708,48.12194307640078],[17.650489979768,48.12104882141728],[17.64781652710326,48.1212349336551],[17.64795183770258,48.12212919242165],[17.64661508146997,48.12222222613326],[17.64675037491713,48.12311648619021],[17.6454135910119,48.12320950559319],[17.6455488673048,48.12410376694032],[17.64421205572569,48.12419677203428],[17.64434731486273,48.12509103467153],[17.64167363190097,48.12527700003926],[17.64194407547836,48.12706553107364],[17.63927028181439,48.12725143919772],[17.63940546624815,48.12814570759394],[17.63806853951223,48.12823863924319],[17.63833888010822,48.13002717801504],[17.64636065239625,48.12946932241118],[17.64649597113731,48.13036357955451],[17.64916990602808,48.1301774942861],[17.64930527728575,48.13107174704561],[17.65064226126742,48.1309786782158],[17.65077766181901,48.13187292848249],[17.65211466456572,48.13177984155766],[17.65225009441366,48.13267408933075],[17.65492413297403,48.13248786308657]]],"type":"Polygon"}
+}

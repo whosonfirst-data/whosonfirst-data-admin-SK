@@ -1,0 +1,61 @@
+{
+  "id": 1209039523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99226,48.89417,17.99226,48.89417",
+    "geom:latitude":48.89417,
+    "geom:longitude":17.99226,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ke Zablatie",
+    "gn:country_code":"SK",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056850,
+    "gn:latitude":48.89417,
+    "gn:longitude":17.99226,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ve\u013ek\u00e9 Z\u00e1blatie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056850
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f72f36a82a2ecf95a0f8120ad8a167c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209039523
+        }
+    ],
+    "wof:id":1209039523,
+    "wof:lastmodified":1536299590,
+    "wof:name":"Vel'ke Zablatie",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99226,
+    48.89417,
+    17.99226,
+    48.89417
+],
+  "geometry": {"coordinates":[17.99226,48.89417],"type":"Point"}
+}

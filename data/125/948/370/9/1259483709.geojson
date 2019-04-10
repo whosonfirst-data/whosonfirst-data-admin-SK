@@ -1,0 +1,67 @@
+{
+  "id": 1259483709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60326,48.67336,17.60326,48.67336",
+    "geom:latitude":48.67336,
+    "geom:longitude":17.60326,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minarovci",
+    "gn:country_code":"SK",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058700,
+    "gn:latitude":48.67336,
+    "gn:longitude":17.60326,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Minarovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058700
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"03f5066a62175dde3283e72f208af62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1259483709,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259483709,
+    "wof:lastmodified":1536857265,
+    "wof:name":"Minarovci",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60326000000001,
+    48.67336,
+    17.60326000000001,
+    48.67336
+],
+  "geometry": {"coordinates":[17.60326000000001,48.67336],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276878847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6927,48.24035,18.6927,48.24035",
+    "geom:latitude":48.24035,
+    "geom:longitude":18.6927,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horsa",
+    "gn:country_code":"SK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059916,
+    "gn:latitude":48.24035,
+    "gn:longitude":18.6927,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hor\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Horhi"
+    ],
+    "name:und_x_variant":[
+        "Hur\u0161a",
+        "Hor\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059916
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"794e1eca0ca0d90f92c0125e2fcca43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1276878847,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1276878847,
+    "wof:lastmodified":1537700419,
+    "wof:name":"Horsa",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6927,
+    48.24035,
+    18.6927,
+    48.24035
+],
+  "geometry": {"coordinates":[18.6927,48.24035],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293199679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62878,49.26091,20.62878,49.26091",
+    "geom:latitude":49.26091,
+    "geom:longitude":20.62878,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kolackov",
+    "gn:country_code":"SK",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724472,
+    "gn:latitude":49.26091,
+    "gn:longitude":20.62878,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kola\u010dkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kola\u010dkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724472,
+        "wk:page":"Kola%C4%8Dkov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eae5786a5aac7d41b827f9aee84a84a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1293199679,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293199679,
+    "wof:lastmodified":1537700364,
+    "wof:name":"Kolackov",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62878,
+    49.26091,
+    20.62878,
+    49.26091
+],
+  "geometry": {"coordinates":[20.62878,49.26091],"type":"Point"}
+}

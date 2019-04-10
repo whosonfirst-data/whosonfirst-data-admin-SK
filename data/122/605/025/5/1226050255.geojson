@@ -1,0 +1,71 @@
+{
+  "id": 1226050255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85127,48.70113,21.85127,48.70113",
+    "geom:latitude":48.70113,
+    "geom:longitude":21.85127,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Laskovce",
+    "gn:country_code":"SK",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724318,
+    "gn:latitude":48.70113,
+    "gn:longitude":21.85127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La\u0161kovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u0161kovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724318,
+        "wk:page":"La%C5%A1kovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e2531087fb3b3bc0c8f899b43d1bee3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1226050255,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226050255,
+    "wof:lastmodified":1537700362,
+    "wof:name":"Laskovce",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85127,
+    48.70113,
+    21.85127,
+    48.70113
+],
+  "geometry": {"coordinates":[21.85127,48.70113],"type":"Point"}
+}

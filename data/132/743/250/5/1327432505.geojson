@@ -1,0 +1,68 @@
+{
+  "id": 1327432505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31294,48.46461,18.31294,48.46461",
+    "geom:latitude":48.46461,
+    "geom:longitude":18.31294,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zlatno",
+    "gn:country_code":"SK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056489,
+    "gn:latitude":48.46461,
+    "gn:longitude":18.31294,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Zlatno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056489,
+        "wk:page":"Zlatno%2C_Zlat%C3%A9_Moravce_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"083707af3f69f8b289aad7dd340231c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1327432505,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1327432505,
+    "wof:lastmodified":1537573586,
+    "wof:name":"Zlatno",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31294,
+    48.46461,
+    18.31294,
+    48.46461
+],
+  "geometry": {"coordinates":[18.31294,48.46461],"type":"Point"}
+}

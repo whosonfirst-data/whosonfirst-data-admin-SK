@@ -1,0 +1,71 @@
+{
+  "id": 1243455067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2062,48.76273,18.2062,48.76273",
+    "geom:latitude":48.76273,
+    "geom:longitude":18.2062,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vlckovo",
+    "gn:country_code":"SK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056735,
+    "gn:latitude":48.76273,
+    "gn:longitude":18.2062,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vl\u010dkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farka\u0161ka",
+        "Vl\u010dkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056735
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fa0d0c61409ad9e7a820c21f9727221a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1243455067,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1243455067,
+    "wof:lastmodified":1537700380,
+    "wof:name":"Vlckovo",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2062,
+    48.76273,
+    18.2062,
+    48.76273
+],
+  "geometry": {"coordinates":[18.2062,48.76273],"type":"Point"}
+}

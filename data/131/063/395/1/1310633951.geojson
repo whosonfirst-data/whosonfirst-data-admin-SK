@@ -1,0 +1,72 @@
+{
+  "id": 1310633951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54616,48.10149,18.54616,48.10149",
+    "geom:latitude":48.10149,
+    "geom:longitude":18.54616,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tekovske Luzianky",
+    "gn:country_code":"SK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057233,
+    "gn:latitude":48.10149,
+    "gn:longitude":18.54616,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tekovsk\u00e9 Lu\u017eianky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kis-Sall\u00f3",
+        "Tekovsk\u00e9 \u0160arlu\u017eky",
+        "Tekovsk\u00e9 Lu\u017eianky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057233
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f4cdd41804119e6f0ef6bb7e1e09c6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1310633951,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310633951,
+    "wof:lastmodified":1537700386,
+    "wof:name":"Tekovske Luzianky",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54616,
+    48.10149000000001,
+    18.54616,
+    48.10149000000001
+],
+  "geometry": {"coordinates":[18.54616,48.10149000000001],"type":"Point"}
+}

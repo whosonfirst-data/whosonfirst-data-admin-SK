@@ -1,0 +1,61 @@
+{
+  "id": 1209622775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47899,48.81197,20.47899,48.81197",
+    "geom:latitude":48.81197,
+    "geom:longitude":20.47899,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sul'ova",
+    "gn:country_code":"SK",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723443,
+    "gn:latitude":48.81197,
+    "gn:longitude":20.47899,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"S\u00fa\u013eova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723443
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d7707ee6b14c289663acacacb87b77a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209622775
+        }
+    ],
+    "wof:id":1209622775,
+    "wof:lastmodified":1536281459,
+    "wof:name":"Sul'ova",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47899,
+    48.81197,
+    20.47899,
+    48.81197
+],
+  "geometry": {"coordinates":[20.47899,48.81197],"type":"Point"}
+}

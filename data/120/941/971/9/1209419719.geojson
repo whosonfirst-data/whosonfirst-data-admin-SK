@@ -1,0 +1,65 @@
+{
+  "id": 1209419719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40376,49.14313,21.40376,49.14313",
+    "geom:latitude":49.14313,
+    "geom:longitude":21.40376,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Stul'any",
+    "gn:country_code":"SK",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723451,
+    "gn:latitude":49.14313,
+    "gn:longitude":21.40376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stu\u013eany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stu\u013eany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723451,
+        "wk:page":"Stu%C4%BEany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"755903053b4ae4b5cf91297193dbbcff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209419719
+        }
+    ],
+    "wof:id":1209419719,
+    "wof:lastmodified":1537700347,
+    "wof:name":"Stul'any",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40376,
+    49.14313,
+    21.40376,
+    49.14313
+],
+  "geometry": {"coordinates":[21.40376,49.14313],"type":"Point"}
+}

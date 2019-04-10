@@ -1,0 +1,96 @@
+{
+  "id": 1125359247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31284,48.65567,19.31284,48.65567",
+    "geom:latitude":48.65567,
+    "geom:longitude":19.31284,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1500,
+    "iso:country":"SK",
+    "lbl:latitude":48.65567,
+    "lbl:longitude":19.31284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "Horh\u00e1t"
+    ],
+    "name:unk_x_variant":[
+        "Hrocho\u0165"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3059865,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hrochot",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1160905,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29400692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059865,
+        "gp:id":29400692,
+        "qs_pg:id":1160905
+    },
+    "wof:country":"SK",
+    "wof:created":1497046671,
+    "wof:geomhash":"bfdcf8ecc6adb50cf780c875f3a8ccf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "localadmin_id":1125359247,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125359247,
+    "wof:lastmodified":1509389033,
+    "wof:name":"Hrochot",
+    "wof:parent_id":102080531,
+    "wof:placetype":"localadmin",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31284,
+    48.65567,
+    19.31284,
+    48.65567
+],
+  "geometry": {"coordinates":[19.31284,48.65567],"type":"Point"}
+}

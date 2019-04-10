@@ -1,0 +1,139 @@
+{
+  "id": 101843913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":667917.892177,
+    "geom:bbox":"19.8092254144,49.0822091888,19.8270337874,49.0985250748",
+    "geom:latitude":49.089421,
+    "geom:longitude":19.816938,
+    "iso:country":"SK",
+    "lbl:latitude":49.08969,
+    "lbl:longitude":19.816803,
+    "mps:latitude":49.08969,
+    "mps:longitude":19.816803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:cze_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:deu_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:dut_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:eng_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:epo_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:fra_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:fre_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:ger_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:hbs_x_preferred":[
+        "Liptovska Kokava"
+    ],
+    "name:hun_x_preferred":[
+        "Kokava"
+    ],
+    "name:ita_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:may_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:msa_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:nld_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:pol_x_preferred":[
+        "Kokawa Liptowska"
+    ],
+    "name:slo_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u041a\u043e\u043a\u0430\u0432\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Liptovsk\u00fd Mikul\u00e1\u0161",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Liptovsk\u00e1 Kokava",
+    "qs:la_lc":"*SK315510611",
+    "qs:level":"locality",
+    "qs:loc":"Liptovsk\u00e1 Kokava",
+    "qs:loc_alt":"Liptovska Kokava",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059070,
+        "gp:id":820661,
+        "qs:id":358340,
+        "qs_pg:id":358340,
+        "wd:id":"Q1069680",
+        "wk:page":"Liptovsk\u00e1 Kokava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"094251bcf40ba1d09b0db08d8dee1f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":101843913,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843913,
+    "wof:lastmodified":1527642595,
+    "wof:name":"Liptovsk\u00e1 Kokava",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80922541441242,
+    49.08220918882574,
+    19.82703378744179,
+    49.09852507478695
+],
+  "geometry": {"coordinates":[[[19.82703378744179,49.09739525982945],[19.82667580008933,49.09561482212376],[19.82531682269791,49.09573462144618],[19.82513786525828,49.09484439903645],[19.82377890583774,49.09496417940164],[19.82359998055267,49.09407395378878],[19.82224103910278,49.09419371519755],[19.82116780262567,49.08885233170668],[19.81980899910957,49.08897206168353],[19.81963017889012,49.08808182613353],[19.81827139334297,49.08820153715743],[19.81809260526387,49.08731129840641],[19.81673383768629,49.08743099047797],[19.81601886280538,49.08387001843346],[19.81466018515641,49.08398968407317],[19.8143027945643,49.08220918882574],[19.81158551715748,49.082448460764],[19.81176416041376,49.08333871372599],[19.81040548870561,49.08345832750234],[19.81058411611946,49.08434858225047],[19.80922541441242,49.0844681820621],[19.81011855368092,49.08891945767243],[19.8141950005886,49.08856057147881],[19.81490994650881,49.09212154934619],[19.81898662716765,49.09176248509675],[19.81952313813292,49.09443318863384],[19.82088209162947,49.09431346014594],[19.82123985436982,49.09609392064834],[19.82259884983745,49.09597417070859],[19.82277776743996,49.09686439740449],[19.82413678088091,49.09674462850751],[19.82449468855901,49.09852507478695],[19.82585374397297,49.09840528443544],[19.82567476205463,49.09751506414563],[19.82703378744179,49.09739525982945]]],"type":"Polygon"}
+}

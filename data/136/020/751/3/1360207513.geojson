@@ -1,0 +1,71 @@
+{
+  "id": 1360207513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62018,48.94968,20.62018,48.94968",
+    "geom:latitude":48.94968,
+    "geom:longitude":20.62018,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Danisovce",
+    "gn:country_code":"SK",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724916,
+    "gn:latitude":48.94968,
+    "gn:longitude":20.62018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dani\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dani\u0161ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724916,
+        "wk:page":"Dani%C5%A1ovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fb7a85994f0742878a926ec72491d138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":1360207513,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1360207513,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Danisovce",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62018,
+    48.94968,
+    20.62018,
+    48.94968
+],
+  "geometry": {"coordinates":[20.62018,48.94968],"type":"Point"}
+}

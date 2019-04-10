@@ -1,0 +1,71 @@
+{
+  "id": 1293590989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44196,48.6652,20.44196,48.6652",
+    "geom:latitude":48.6652,
+    "geom:longitude":20.44196,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Roznavske Bystre",
+    "gn:country_code":"SK",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723711,
+    "gn:latitude":48.6652,
+    "gn:longitude":20.44196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ro\u017e\u0148avsk\u00e9 Bystr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u017e\u0148avsk\u00e9 Bystr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723711,
+        "wk:page":"Ro%C5%BE%C5%88avsk%C3%A9_Bystr%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b5ca3cf052924e5a8bd55b1fd517f393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1293590989,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1293590989,
+    "wof:lastmodified":1537700352,
+    "wof:name":"Roznavske Bystre",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44196,
+    48.6652,
+    20.44196,
+    48.6652
+],
+  "geometry": {"coordinates":[20.44196,48.6652],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310117419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85246,48.88051,21.85246,48.88051",
+    "geom:latitude":48.88051,
+    "geom:longitude":21.85246,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Krivost'any",
+    "gn:country_code":"SK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724388,
+    "gn:latitude":48.88051,
+    "gn:longitude":21.85246,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Krivo\u0161\u0165any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724388
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"793dc977226e692b80b43f18af896dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1310117419,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310117419,
+    "wof:lastmodified":1536978645,
+    "wof:name":"Krivost'any",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85246,
+    48.88051,
+    21.85246,
+    48.88051
+],
+  "geometry": {"coordinates":[21.85246,48.88051],"type":"Point"}
+}

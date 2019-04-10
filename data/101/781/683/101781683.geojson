@@ -1,0 +1,137 @@
+{
+  "id": 101781683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":977052.310998,
+    "geom:bbox":"18.5388413664,48.6640699483,18.5634470085,48.6793487755",
+    "geom:latitude":48.671963,
+    "geom:longitude":18.550564,
+    "iso:country":"SK",
+    "lbl:latitude":48.670185,
+    "lbl:longitude":18.55075,
+    "mps:latitude":48.670185,
+    "mps:longitude":18.55075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:ces_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:cze_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:deu_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:epo_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:hbs_x_preferred":[
+        "Kamenjec pod Vta\u010dnjikom"
+    ],
+    "name:hun_x_preferred":[
+        "Kemenec"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:may_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:msa_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:nld_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:pol_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u045a\u0435\u0446 \u043f\u043e\u0434 \u0412\u0442\u0430\u0447\u045a\u0438\u043a\u043e\u043c"
+    ],
+    "name:war_x_preferred":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamenec pod Vt\u00e1\u010dnikom",
+    "qs:la_lc":"*SK227514063",
+    "qs:level":"locality",
+    "qs:loc":"Kamenec pod Vt\u00e1\u010dnikom",
+    "qs:loc_alt":"Kamenec pod Vtacnikom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059587,
+        "gp:id":819256,
+        "qs:id":8,
+        "wd:id":"Q1070700"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7368040aad12be52b889e3eca7846096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101781683,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781683,
+    "wof:lastmodified":1527715630,
+    "wof:name":"Kamenec pod Vt\u00e1\u010dnikom",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53884136641113,
+    48.66406994831863,
+    18.56344700846887,
+    48.67934877545173
+],
+  "geometry": {"coordinates":[[[18.55912522467401,48.6790360367936],[18.55897124271473,48.67814342277734],[18.55762120975714,48.67824768321191],[18.55715937688865,48.67556983092214],[18.55985929531755,48.67536130659369],[18.5595513467045,48.67357607717997],[18.56090125076787,48.67347179477144],[18.56074726319918,48.67257918126819],[18.56344700846887,48.6723705716625],[18.56329298043602,48.67147796183042],[18.56194313408918,48.67158227266344],[18.56178913674734,48.6706896600478],[18.55908947607173,48.67089822832156],[18.55924342597842,48.67179084523934],[18.55789356421593,48.67189510698245],[18.55835538460195,48.67457296039822],[18.554305555008,48.67488566679748],[18.55307474260752,48.66774466012157],[18.55442450119313,48.66764045821719],[18.55380916730405,48.66406994831863],[18.55110983470075,48.66427831857476],[18.55126361030437,48.66517095129433],[18.54991391259432,48.66527511402933],[18.55006767144744,48.66616774826571],[18.54871794489452,48.66627189678718],[18.54902543605647,48.66805716766191],[18.5463258727014,48.66826542420995],[18.54647958129107,48.66915806299613],[18.5451297682024,48.66926216887344],[18.5452834600336,48.6701548091761],[18.54258377103361,48.67036297613515],[18.54273742238405,48.67125562010085],[18.54138754647221,48.67135968118146],[18.54154118105907,48.67225232666311],[18.53884136641113,48.67246040402449],[18.53930216957065,48.67513834956446],[18.54065215063042,48.67503431262753],[18.54080578932133,48.67592695773402],[18.54350578350795,48.67571883046998],[18.54335209736558,48.67482618965715],[18.5460520235838,48.67461800122584],[18.54574457728285,48.67283272629828],[18.54979428579236,48.67252033380259],[18.55025567919267,48.67519822591333],[18.5516056429322,48.67509405590647],[18.55175947838575,48.67598668319908],[18.55310946071523,48.67588249467747],[18.55326332686047,48.67677511918936],[18.55461332777952,48.67667091215276],[18.55507503920416,48.67934877545173],[18.55912522467401,48.6790360367936]]],"type":"Polygon"}
+}

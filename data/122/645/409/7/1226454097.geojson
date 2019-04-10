@@ -1,0 +1,72 @@
+{
+  "id": 1226454097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17794,48.69772,22.17794,48.69772",
+    "geom:latitude":48.69772,
+    "geom:longitude":22.17794,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Porostov",
+    "gn:country_code":"SK",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723836,
+    "gn:latitude":48.69772,
+    "gn:longitude":22.17794,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Porostov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porostovo",
+        "Porostov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723836,
+        "wk:page":"Porostov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bfe51e6c37dfecca97db2332d3a850b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080571,
+            "locality_id":1226454097,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226454097,
+    "wof:lastmodified":1537700354,
+    "wof:name":"Porostov",
+    "wof:parent_id":102080571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17794,
+    48.69772,
+    22.17794,
+    48.69772
+],
+  "geometry": {"coordinates":[22.17794,48.69772],"type":"Point"}
+}

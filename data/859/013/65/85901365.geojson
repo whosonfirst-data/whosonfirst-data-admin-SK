@@ -1,0 +1,161 @@
+{
+  "id": 85901365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":27307022.429057,
+    "geom:bbox":"17.062808,48.156226,17.062808,48.156226",
+    "geom:latitude":48.156226,
+    "geom:longitude":17.062808,
+    "gn:latitude":48.15344,
+    "gn:longitude":17.05522,
+    "iso:country":"SK",
+    "lbl:latitude":48.156226,
+    "lbl:longitude":17.062808,
+    "mps:latitude":48.151086,
+    "mps:longitude":17.040912,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0451\u043d \u041a\u0430\u0440\u043b\u0430\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0440\u043b\u0430\u0432\u0430 \u0412\u044d\u0441"
+    ],
+    "name:ces_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:fin_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:hbs_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:hrv_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00e1rolyfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:slk_x_preferred":[
+        "Bratislava \u2013 mestsk\u00e1 \u010das\u0165 Karlova Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:und_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:unk_x_variant":[
+        "Karlova Ves"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u7f85\u74e6\u7dad\u65af"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3060972,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Karlova Ves",
+    "qs:local_max":14839,
+    "qs:local_sum":27271,
+    "qs:localhoods":23,
+    "qs:name":"Karlova Ves",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Bratislavsky",
+    "qs:name_adm2":"Bratislava",
+    "qs:name_lau":"Bratislava IV",
+    "qs:name_local":"Bratislava",
+    "qs:photo_max":309,
+    "qs:photo_sum":966,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":81,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070505,
+    "qs:woe_adm2":29399347,
+    "qs:woe_lau":29402279,
+    "qs:woe_local":818717,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":860,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059564,
+        "gp:id":820134,
+        "qs:id":2893,
+        "qs_pg:id":2893,
+        "wd:id":"Q1012707",
+        "wk:page":"Karlova Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"53a706ae9b01af39d97726af31123782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":85901365,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":85901365,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932484,
+    "wof:name":"Karlova Ves",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.062808,
+    48.156226,
+    17.062808,
+    48.156226
+],
+  "geometry": {"coordinates":[17.062808,48.156226],"type":"Point"}
+}

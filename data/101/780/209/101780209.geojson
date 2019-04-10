@@ -1,0 +1,129 @@
+{
+  "id": 101780209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1186634.124269,
+    "geom:bbox":"18.6343797619,47.8794786768,18.6524534879,47.8944469466",
+    "geom:latitude":47.887836,
+    "geom:longitude":18.643111,
+    "iso:country":"SK",
+    "lbl:latitude":47.888587,
+    "lbl:longitude":18.642495,
+    "mps:latitude":47.888587,
+    "mps:longitude":18.642495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:epo_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:hbs_x_preferred":[
+        "Kamenjin"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00e9m\u00e9nd"
+    ],
+    "name:ita_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:slk_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:slo_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u045a\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e9m\u00e9nd"
+    ],
+    "name:war_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamen\u00edn",
+    "qs:la_lc":"*SK234503240",
+    "qs:level":"locality",
+    "qs:loc":"Kamen\u00edn",
+    "qs:loc_alt":"Kamenin",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059582,
+        "gp:id":820115,
+        "qs:id":940006,
+        "wd:id":"Q1044018",
+        "wk:page":"Kamen\u00edn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5b3add953bce94a19225428d999372dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101780209,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101780209,
+    "wof:lastmodified":1527715874,
+    "wof:name":"Kamen\u00edn",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63437976194456,
+    47.87947867681362,
+    18.65245348787414,
+    47.89444694661364
+],
+  "geometry": {"coordinates":[[[18.64463016077121,47.89434189231218],[18.64447831593475,47.89344906113678],[18.64846592424658,47.89313380813974],[18.64861783747949,47.89402663295812],[18.65127626379342,47.89381637968143],[18.65112430496407,47.89292355910237],[18.65245348787414,47.8928184104721],[18.6519975835925,47.89013995102448],[18.6506684690699,47.89024509329465],[18.65006078257875,47.88667379605221],[18.64873175426038,47.88677891377154],[18.64857987233574,47.88588608564544],[18.64592184639116,47.88609626863018],[18.64531456860772,47.88252493239224],[18.64132776594852,47.88284006091766],[18.64102430432081,47.88105437602388],[18.63969540575732,47.8811593824903],[18.63954370785973,47.88026653690918],[18.63821482712518,47.88037152518876],[18.63806315876485,47.87947867681362],[18.63540542799979,47.87968860093014],[18.63570868033003,47.88147430546547],[18.63437976194456,47.88157924764897],[18.63468299569894,47.88336495370345],[18.63601195966038,47.88326000728904],[18.63616360945196,47.88415285718406],[18.63749259124751,47.88404789258243],[18.63825105544259,47.88851212131027],[18.6369219596865,47.88861709649291],[18.63737705086527,47.8912956319466],[18.63870621500917,47.89119065041416],[18.63900968849799,47.89297633309536],[18.64033889327925,47.89287133125436],[18.64049066295786,47.89376416946129],[18.64314910323753,47.89355411331991],[18.64330092527422,47.89444694661364],[18.64463016077121,47.89434189231218]]],"type":"Polygon"}
+}

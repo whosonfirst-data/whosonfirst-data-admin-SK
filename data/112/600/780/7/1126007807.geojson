@@ -1,0 +1,135 @@
+{
+  "id": 1126007807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3608,48.21335,17.3608,48.21335",
+    "geom:latitude":48.21335,
+    "geom:longitude":17.3608,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.21335,
+    "lbl:longitude":17.3608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:cze_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarb\u00e9l"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:por_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u0411\u0458\u0435\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Magyar-B\u00e9l"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056845,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00fd Biel",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":185,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":245260,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822993,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056845,
+        "gp:id":822993,
+        "qs_pg:id":245260,
+        "wd:id":"Q221808"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300081,
+    "wof:geomhash":"37f62a8cdbd0dfcdbc7611f5c53be1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":1126007807,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1126007807,
+    "wof:lastmodified":1514505340,
+    "wof:name":"Vel\u0315k\u00fd Biel",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3608,
+    48.21335,
+    17.3608,
+    48.21335
+],
+  "geometry": {"coordinates":[17.3608,48.21335],"type":"Point"}
+}

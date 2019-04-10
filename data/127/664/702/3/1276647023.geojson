@@ -1,0 +1,67 @@
+{
+  "id": 1276647023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7565,49.32608,18.7565,49.32608",
+    "geom:latitude":49.32608,
+    "geom:longitude":18.7565,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Majtanky",
+    "gn:country_code":"SK",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058910,
+    "gn:latitude":49.32608,
+    "gn:longitude":18.7565,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Majt\u00e1nky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058910
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"27c3b54045fba4a2fb3840dce7e46a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080589,
+            "locality_id":1276647023,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276647023,
+    "wof:lastmodified":1536854402,
+    "wof:name":"Majtanky",
+    "wof:parent_id":102080589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7565,
+    49.32608,
+    18.7565,
+    49.32608
+],
+  "geometry": {"coordinates":[18.7565,49.32608],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293006541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19137,48.80602,18.19137,48.80602",
+    "geom:latitude":48.80602,
+    "geom:longitude":18.19137,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bobot",
+    "gn:country_code":"SK",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061040,
+    "gn:latitude":48.80602,
+    "gn:longitude":18.19137,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bobot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061040,
+        "wk:page":"Bobot%2C_Tren%C4%8D%C3%ADn_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f8aa5557bfd9a69b7f822fd0b5664477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1293006541,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1293006541,
+    "wof:lastmodified":1537573611,
+    "wof:name":"Bobot",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19137000000001,
+    48.80602,
+    18.19137000000001,
+    48.80602
+],
+  "geometry": {"coordinates":[18.19137000000001,48.80602],"type":"Point"}
+}

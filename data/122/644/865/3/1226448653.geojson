@@ -1,0 +1,72 @@
+{
+  "id": 1226448653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57973,47.92316,18.57973,47.92316",
+    "geom:latitude":47.92316,
+    "geom:longitude":18.57973,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bruty",
+    "gn:country_code":"SK",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060915,
+    "gn:latitude":47.92316,
+    "gn:longitude":18.57973,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bruty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bart",
+        "Bruty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060915,
+        "wk:page":"Bruty"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f2b9a17a92b81e45b969a8df116c5469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1226448653,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226448653,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Bruty",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57973,
+    47.92316,
+    18.57973,
+    47.92316
+],
+  "geometry": {"coordinates":[18.57973,47.92316],"type":"Point"}
+}

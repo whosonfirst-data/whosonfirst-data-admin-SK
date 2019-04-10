@@ -1,0 +1,75 @@
+{
+  "id": 1343470173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81499,48.48359,21.81499,48.48359",
+    "geom:latitude":48.48359,
+    "geom:longitude":21.81499,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Brehov",
+    "gn:country_code":"SK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725083,
+    "gn:latitude":48.48359,
+    "gn:longitude":21.81499,
+    "gn:modification_date":"2016-04-28",
+    "gn:name":"Brehov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Imreg"
+    ],
+    "name:und_x_variant":[
+        "Imbreg",
+        "Brehov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725083,
+        "wk:page":"Brehov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"152262cf067359461cb1c3ebef6673ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1343470173,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1343470173,
+    "wof:lastmodified":1537700375,
+    "wof:name":"Brehov",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81499,
+    48.48359,
+    21.81499,
+    48.48359
+],
+  "geometry": {"coordinates":[21.81499,48.48359],"type":"Point"}
+}

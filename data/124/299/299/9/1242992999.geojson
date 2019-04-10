@@ -1,0 +1,71 @@
+{
+  "id": 1242992999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67181,49.20844,18.67181,49.20844",
+    "geom:latitude":49.20844,
+    "geom:longitude":18.67181,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bitarova",
+    "gn:country_code":"SK",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061065,
+    "gn:latitude":49.20844,
+    "gn:longitude":18.67181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bitarov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitarov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061065,
+        "wk:page":"Bitarov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6ff46e8c04c3deb51d23186f5b3888be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1242992999,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1242992999,
+    "wof:lastmodified":1537700436,
+    "wof:name":"Bitarova",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67181,
+    49.20844,
+    18.67181,
+    49.20844
+],
+  "geometry": {"coordinates":[18.67181,49.20844],"type":"Point"}
+}

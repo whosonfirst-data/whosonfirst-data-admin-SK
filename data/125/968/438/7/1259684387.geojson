@@ -1,0 +1,71 @@
+{
+  "id": 1259684387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07654,48.93909,18.07654,48.93909",
+    "geom:latitude":48.93909,
+    "geom:longitude":18.07654,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ujazd",
+    "gn:country_code":"SK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057039,
+    "gn:latitude":48.93909,
+    "gn:longitude":18.07654,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00dajazd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dajezd",
+        "\u00dajazd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057039
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"527f686c5c8fe50e372a9c7cceb8fd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1259684387,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259684387,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Ujazd",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07654,
+    48.93909,
+    18.07654,
+    48.93909
+],
+  "geometry": {"coordinates":[18.07654,48.93909],"type":"Point"}
+}

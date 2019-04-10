@@ -1,0 +1,72 @@
+{
+  "id": 1193016557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66432,48.16392,18.66432,48.16392",
+    "geom:latitude":48.16392,
+    "geom:longitude":18.66432,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mytne Ludany",
+    "gn:country_code":"SK",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058605,
+    "gn:latitude":48.16392,
+    "gn:longitude":18.66432,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00fdtne Ludany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e1mos-Lad\u00e1ny",
+        "M\u00fdtne Ludany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058605,
+        "wk:page":"M%C3%BDtne_Ludany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8a81cbe4826da59e2d979bd10072cde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1193016557,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1193016557,
+    "wof:lastmodified":1537700401,
+    "wof:name":"Mytne Ludany",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66432,
+    48.16392000000001,
+    18.66432,
+    48.16392000000001
+],
+  "geometry": {"coordinates":[18.66432,48.16392000000001],"type":"Point"}
+}

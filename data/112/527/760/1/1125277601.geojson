@@ -1,0 +1,82 @@
+{
+  "id": 1125277601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.348197,49.302572,18.348197,49.302572",
+    "geom:latitude":49.302572,
+    "geom:longitude":18.348197,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.302572,
+    "lbl:longitude":18.348197,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Papradno",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070528,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29399662,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29399662,
+        "qs_pg:id":1070528
+    },
+    "wof:country":"SK",
+    "wof:created":1497042382,
+    "wof:geomhash":"ea0c377049164994989c00580d65c0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "localadmin_id":1125277601,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125277601,
+    "wof:lastmodified":1509387192,
+    "wof:name":"Papradno",
+    "wof:parent_id":102080575,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.348197,
+    49.302572,
+    18.348197,
+    49.302572
+],
+  "geometry": {"coordinates":[18.348197,49.302572],"type":"Point"}
+}

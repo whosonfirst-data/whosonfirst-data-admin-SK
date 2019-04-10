@@ -1,0 +1,71 @@
+{
+  "id": 1259701581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73577,48.42226,19.73577,48.42226",
+    "geom:latitude":48.42226,
+    "geom:longitude":19.73577,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Breznicka",
+    "gn:country_code":"SK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060951,
+    "gn:latitude":48.42226,
+    "gn:longitude":19.73577,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Brezni\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezni\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060951,
+        "wk:page":"Brezni%C4%8Dka%2C_Polt%C3%A1r_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"787291e1d26f75023079b0ef12715848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080513,
+            "locality_id":1259701581,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1259701581,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Breznicka",
+    "wof:parent_id":102080513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73577,
+    48.42226,
+    19.73577,
+    48.42226
+],
+  "geometry": {"coordinates":[19.73577,48.42226],"type":"Point"}
+}

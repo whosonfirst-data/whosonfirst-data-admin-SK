@@ -1,0 +1,73 @@
+{
+  "id": 1276758843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65234,47.87541,17.65234,47.87541",
+    "geom:latitude":47.87541,
+    "geom:longitude":17.65234,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Patas",
+    "gn:country_code":"SK",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058261,
+    "gn:latitude":47.87541,
+    "gn:longitude":17.65234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pata\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Past\u00fachy",
+        "Milenium",
+        "Pata\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058261,
+        "wk:page":"Pata%C5%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5342046c4e0b066de40208716ec79b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1276758843,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1276758843,
+    "wof:lastmodified":1537700397,
+    "wof:name":"Patas",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65234,
+    47.87541,
+    17.65234,
+    47.87541
+],
+  "geometry": {"coordinates":[17.65234,47.87541],"type":"Point"}
+}

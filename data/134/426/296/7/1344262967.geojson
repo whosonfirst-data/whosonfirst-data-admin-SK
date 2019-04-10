@@ -1,0 +1,72 @@
+{
+  "id": 1344262967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70051,48.08899,18.70051,48.08899",
+    "geom:latitude":48.08899,
+    "geom:longitude":18.70051,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kukucinov",
+    "gn:country_code":"SK",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059221,
+    "gn:latitude":48.08899,
+    "gn:longitude":18.70051,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuku\u010dinov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oros",
+        "Kuku\u010dinov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059221,
+        "wk:page":"Kuku%C4%8D%C3%ADnov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6c5eabaec1fe55922b2f71971c3e5068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1344262967,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1344262967,
+    "wof:lastmodified":1537700410,
+    "wof:name":"Kukucinov",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70051,
+    48.08899,
+    18.70051,
+    48.08899
+],
+  "geometry": {"coordinates":[18.70051,48.08899],"type":"Point"}
+}

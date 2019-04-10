@@ -1,0 +1,72 @@
+{
+  "id": 1209829215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07538,48.27887,19.07538,48.27887",
+    "geom:latitude":48.27887,
+    "geom:longitude":19.07538,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Horny Badin",
+    "gn:country_code":"SK",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059953,
+    "gn:latitude":48.27887,
+    "gn:longitude":19.07538,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00fd Bad\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Bad\u00edn",
+        "Horn\u00fd Bad\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059953,
+        "wk:page":"Horn%C3%BD_Bad%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ada640a76377de73e2308a4d6202886a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1209829215,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1209829215,
+    "wof:lastmodified":1537700420,
+    "wof:name":"Horny Badin",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07538,
+    48.27887,
+    19.07538,
+    48.27887
+],
+  "geometry": {"coordinates":[19.07538,48.27887],"type":"Point"}
+}

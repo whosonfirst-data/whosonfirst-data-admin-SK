@@ -1,0 +1,71 @@
+{
+  "id": 1343259589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66507,49.22372,18.66507,49.22372",
+    "geom:latitude":49.22372,
+    "geom:longitude":18.66507,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ovciarsko",
+    "gn:country_code":"SK",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058313,
+    "gn:latitude":49.22372,
+    "gn:longitude":18.66507,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ov\u010diarsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ov\u010diarsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058313,
+        "wk:page":"Ov%C4%8Diarsko"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4b96ea42ee6a58e58266c0511ee15181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1343259589,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343259589,
+    "wof:lastmodified":1537700397,
+    "wof:name":"Ovciarsko",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66507,
+    49.22372,
+    18.66507,
+    49.22372
+],
+  "geometry": {"coordinates":[18.66507,49.22372],"type":"Point"}
+}

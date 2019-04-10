@@ -1,0 +1,72 @@
+{
+  "id": 1293199805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90135,49.17995,21.90135,49.17995",
+    "geom:latitude":49.17995,
+    "geom:longitude":21.90135,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vysne Cabiny",
+    "gn:country_code":"SK",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723153,
+    "gn:latitude":49.17995,
+    "gn:longitude":21.90135,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00e9 \u010cabiny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161nie Cabiny",
+        "Vy\u0161n\u00ed \u010cabiny",
+        "Vy\u0161n\u00e9 \u010cabiny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723153
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b874423b20ef9d4c74a5ea1b7b6df84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080617,
+            "locality_id":1293199805,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293199805,
+    "wof:lastmodified":1537700342,
+    "wof:name":"Vysne Cabiny",
+    "wof:parent_id":102080617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90135,
+    49.17995,
+    21.90135,
+    49.17995
+],
+  "geometry": {"coordinates":[21.90135,49.17995],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344162925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54145,48.27049,18.54145,48.27049",
+    "geom:latitude":48.27049,
+    "geom:longitude":18.54145,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ke Kozmalovce",
+    "gn:country_code":"SK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056873,
+    "gn:latitude":48.27049,
+    "gn:longitude":18.54145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e9 Kozm\u00e1lovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00e9 Kozm\u00e1lovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056873,
+        "wk:page":"Ve%C4%BEk%C3%A9_Kozm%C3%A1lovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d6cee7312d0eee01d62eec97a1a1fa4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1344162925,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1344162925,
+    "wof:lastmodified":1537700382,
+    "wof:name":"Vel'ke Kozmalovce",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54145,
+    48.27049,
+    18.54145,
+    48.27049
+],
+  "geometry": {"coordinates":[18.54145,48.27049],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276336709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11667,48.53333,22.11667,48.53333",
+    "geom:latitude":48.53333,
+    "geom:longitude":22.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kl'acany",
+    "gn:country_code":"SK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724501,
+    "gn:latitude":48.53333,
+    "gn:longitude":22.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u013ea\u010dany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelecs\u00e9ny",
+        "\u0147arad-K\u013ea\u010dany",
+        "K\u013ea\u010dany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724501,
+        "wk:page":"%C5%87arad-K%C4%BEa%C4%8Dany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"19472d5b7f33a32830f29cecebddb66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1276336709,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276336709,
+    "wof:lastmodified":1537700365,
+    "wof:name":"Kl'acany",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11667000000001,
+    48.53333,
+    22.11667000000001,
+    48.53333
+],
+  "geometry": {"coordinates":[22.11667000000001,48.53333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276125827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90898,48.38464,21.90898,48.38464",
+    "geom:latitude":48.38464,
+    "geom:longitude":21.90898,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vel'ky Hores",
+    "gn:country_code":"SK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723253,
+    "gn:latitude":48.38464,
+    "gn:longitude":21.90898,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00fd Hore\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagy G\u00e9res",
+        "Ve\u013ek\u00fd G\u00fdre\u0161",
+        "Ve\u013ek\u00fd Hore\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723253,
+        "wk:page":"Ve%C4%BEk%C3%BD_Hore%C5%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9a9377e10a07f3f018aaf3d88eb3921d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1276125827,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276125827,
+    "wof:lastmodified":1537700344,
+    "wof:name":"Vel'ky Hores",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90898,
+    48.38464000000001,
+    21.90898,
+    48.38464000000001
+],
+  "geometry": {"coordinates":[21.90898,48.38464000000001],"type":"Point"}
+}

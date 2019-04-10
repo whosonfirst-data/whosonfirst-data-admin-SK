@@ -1,0 +1,144 @@
+{
+  "id": 1126010291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46707,49.0012,20.46707,49.0012",
+    "geom:latitude":49.0012,
+    "geom:longitude":20.46707,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.0012,
+    "lbl:longitude":20.46707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00fct\u00f6rt\u00f6khely"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d4\u30b7\u30e5\u30b9\u30ad\u30fc\u30fb\u30b7\u30e5\u30c8\u30a6\u30eb\u30c8\u30af\u6751"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:pol_x_preferred":[
+        "Spiski Czwartek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0438\u0441\u044c\u043a\u0438\u0439 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723513,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Spissky Stvrtok",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013065,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822368,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723513,
+        "gp:id":822368,
+        "qs_pg:id":1013065,
+        "wd:id":"Q876522"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300228,
+    "wof:geomhash":"6870ffc7185e2b2bc0c8f2bfec08ed8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1126010291,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1126010291,
+    "wof:lastmodified":1514505286,
+    "wof:name":"Spissky Stvrtok",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46707,
+    49.0012,
+    20.46707,
+    49.0012
+],
+  "geometry": {"coordinates":[20.46707,49.0012],"type":"Point"}
+}

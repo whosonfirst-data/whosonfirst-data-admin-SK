@@ -1,0 +1,72 @@
+{
+  "id": 1327158343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30069,48.82241,18.30069,48.82241",
+    "geom:latitude":48.82241,
+    "geom:longitude":18.30069,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Trebichava",
+    "gn:country_code":"SK",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057155,
+    "gn:latitude":48.82241,
+    "gn:longitude":18.30069,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trebichava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trebichova",
+        "Trebichava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057155,
+        "wk:page":"Trebichava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"60d17be8d0e84e374d7398ff4b48717d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1327158343,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1327158343,
+    "wof:lastmodified":1537700384,
+    "wof:name":"Trebichava",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30069,
+    48.82241,
+    18.30069,
+    48.82241
+],
+  "geometry": {"coordinates":[18.30069,48.82241],"type":"Point"}
+}

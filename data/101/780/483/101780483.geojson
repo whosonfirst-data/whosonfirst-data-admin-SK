@@ -1,0 +1,111 @@
+{
+  "id": 101780483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1166351.396039,
+    "geom:bbox":"20.8340383642,49.1383943803,20.8625857668,49.1476350382",
+    "geom:latitude":49.143647,
+    "geom:longitude":20.849133,
+    "iso:country":"SK",
+    "lbl:latitude":49.142916,
+    "lbl:longitude":20.850322,
+    "mps:latitude":49.142916,
+    "mps:longitude":20.850322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:ces_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e1mbor"
+    ],
+    "name:ita_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:unk_x_variant":[
+        "Hamborek"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Sabinov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Brezovica",
+    "qs:la_lc":"*SK418524239",
+    "qs:level":"locality",
+    "qs:loc":"Brezovica",
+    "qs:loc_alt":"Brezovica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725068,
+        "gp:id":818754,
+        "qs:id":7,
+        "wd:id":"Q1056983",
+        "wk:page":"Brezovi\u010dka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5a6c5432a0a64bd2f51099e36f9a69f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":101780483,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780483,
+    "wof:lastmodified":1527715866,
+    "wof:name":"Brezovica",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83403836418211,
+    49.13839438028486,
+    20.86258576680274,
+    49.14763503820035
+],
+  "geometry": {"coordinates":[[[20.86006748195524,49.14750267606917],[20.85986944594333,49.14661451725118],[20.86258576680274,49.14634974923695],[20.86238769212821,49.1454615951414],[20.86102955887065,49.1455939846017],[20.86063348426001,49.14381766851477],[20.85927539201799,49.14395003603846],[20.85887940115458,49.14217371126375],[20.85752134992669,49.14230605685242],[20.85712544279824,49.1405297233913],[20.85576743258287,49.14066204704682],[20.85537160917806,49.13888570490093],[20.85129768159698,49.13928256081294],[20.85109985491238,49.13839438028486],[20.84566795364918,49.13892328060348],[20.84626117469747,49.14158785285889],[20.8449031112404,49.14172004514819],[20.8451008457609,49.14260823706928],[20.83695218231179,49.14340106246732],[20.83675459083616,49.14251285403162],[20.83403836418211,49.14277699228387],[20.8346310225441,49.14544163172491],[20.83598921072632,49.14530956255652],[20.83618680535477,49.14619777137017],[20.83890320946534,49.14593357826016],[20.83910086078623,49.14682178077879],[20.84317548861145,49.14642535968125],[20.84337322047287,49.14731355314967],[20.85016425300847,49.14665250908666],[20.85036211310319,49.14754068799164],[20.85172032348703,49.14740842715469],[20.85152243954826,49.14652025100463],[20.85559695921853,49.14612337822325],[20.85579491468673,49.14701154610509],[20.85851127551916,49.14674687662495],[20.85870928768924,49.14763503820035],[20.86006748195524,49.14750267606917]]],"type":"Polygon"}
+}

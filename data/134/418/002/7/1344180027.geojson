@@ -1,0 +1,68 @@
+{
+  "id": 1344180027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50073,49.0502,20.50073,49.0502",
+    "geom:latitude":49.0502,
+    "geom:longitude":20.50073,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vlkovce",
+    "gn:country_code":"SK",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723210,
+    "gn:latitude":49.0502,
+    "gn:longitude":20.50073,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vlkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723210,
+        "wk:page":"Vlkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4007b3303aebdcb806c53ffd926af632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":1344180027,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1344180027,
+    "wof:lastmodified":1537573559,
+    "wof:name":"Vlkovce",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50073,
+    49.0502,
+    20.50073,
+    49.0502
+],
+  "geometry": {"coordinates":[20.50073,49.0502],"type":"Point"}
+}

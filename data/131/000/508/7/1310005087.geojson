@@ -1,0 +1,72 @@
+{
+  "id": 1310005087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5208,49.0268,20.5208,49.0268",
+    "geom:latitude":49.0268,
+    "geom:longitude":20.5208,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dlhe Straze",
+    "gn:country_code":"SK",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724901,
+    "gn:latitude":49.0268,
+    "gn:longitude":20.5208,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dlh\u00e9 Str\u00e1\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengvarty",
+        "Dlh\u00e9 Str\u00e1\u017ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724901,
+        "wk:page":"Dlh%C3%A9_Str%C3%A1%C5%BEe"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1c19685a474bf6709e7ed5498cd6775e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1310005087,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310005087,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Dlhe Straze",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5208,
+    49.0268,
+    20.5208,
+    49.0268
+],
+  "geometry": {"coordinates":[20.5208,49.0268],"type":"Point"}
+}

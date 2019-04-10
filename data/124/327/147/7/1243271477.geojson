@@ -1,0 +1,72 @@
+{
+  "id": 1243271477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88784,48.68127,21.88784,48.68127",
+    "geom:latitude":48.68127,
+    "geom:longitude":21.88784,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vrbnica",
+    "gn:country_code":"SK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723192,
+    "gn:latitude":48.68127,
+    "gn:longitude":21.88784,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u0155bnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fi\u0161ar",
+        "V\u0155bnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723192,
+        "wk:page":"Vrbnica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"70f743eb823388395c2be25db569eb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1243271477,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1243271477,
+    "wof:lastmodified":1537700343,
+    "wof:name":"Vrbnica",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88784,
+    48.68127,
+    21.88784,
+    48.68127
+],
+  "geometry": {"coordinates":[21.88784,48.68127],"type":"Point"}
+}

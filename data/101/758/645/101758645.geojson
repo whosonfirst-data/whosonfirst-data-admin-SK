@@ -1,0 +1,142 @@
+{
+  "id": 101758645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":953892.438749,
+    "geom:bbox":"18.7170404645,49.1701918304,18.7336975309,49.182681775",
+    "geom:latitude":49.176301,
+    "geom:longitude":18.723783,
+    "iso:country":"SK",
+    "lbl:latitude":49.176077,
+    "lbl:longitude":18.723215,
+    "mps:latitude":49.176077,
+    "mps:longitude":18.723215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:ces_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:cze_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:dut_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:fre_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Litvaill\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:may_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:slo_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0442\u0430\u0432\u0441\u043a\u0430 \u041b\u0443\u0447\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Lietavska Lucka"
+    ],
+    "name:war_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017dilina",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u017dilina",
+    "qs:la_lc":"*SK31B517402",
+    "qs:level":"locality",
+    "qs:loc":"Lietavsk\u00e1 L\u00fa\u010dka",
+    "qs:loc_alt":"Lietavska Lucka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-very-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070bf7f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3059085,
+        "gp:id":29399911,
+        "qs:id":1158961,
+        "wd:id":"Q1130583",
+        "wk:page":"Lietavsk\u00e1 L\u00fa\u010dka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"795717669783140415957b670a0b6aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":101758645,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101758645,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689304,
+    "wof:name":"Lietavsk\u00e1 L\u00fa\u010dka",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7170404645438,
+    49.17019183035006,
+    18.73369753085814,
+    49.18268177499408
+],
+  "geometry": {"coordinates":[[[18.72743367160444,49.18245775419683],[18.72752999999983,49.18156349999987],[18.72756199999981,49.18127049999981],[18.73095299999989,49.17991249999989],[18.73369753085814,49.179635996206],[18.73331117455831,49.17747566865251],[18.73194785758341,49.17758220768258],[18.73210737429173,49.17847433166844],[18.72801731808761,49.17879385616544],[18.72737958670291,49.17522532976255],[18.72874284694768,49.17511884705954],[18.72810513509938,49.17155031968122],[18.72674197205436,49.17165679347062],[18.72658258662881,49.17076465785209],[18.72249313805418,49.17108397326871],[18.72233383281281,49.17019183035006],[18.71824440865157,49.17051099018425],[18.71840364099887,49.17140313978217],[18.7170404645438,49.17150949552985],[18.7183143912693,49.17864668789088],[18.71967776215342,49.17854031433382],[18.72015567787429,49.18121674460377],[18.72151911629868,49.18111034781782],[18.72167846043442,49.18200248777936],[18.72440536973596,49.18178964010565],[18.72456476978948,49.18268177499408],[18.72743367160444,49.18245775419683]]],"type":"Polygon"}
+}

@@ -1,0 +1,150 @@
+{
+  "id": 101780273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":628070.412022,
+    "geom:bbox":"20.7480847657,48.9446160021,20.7726223949,48.9558601246",
+    "geom:latitude":48.950143,
+    "geom:longitude":20.761942,
+    "iso:country":"SK",
+    "lbl:latitude":48.950167,
+    "lbl:longitude":20.765846,
+    "mps:latitude":48.950167,
+    "mps:longitude":20.765846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bystrany"
+    ],
+    "name:ces_x_preferred":[
+        "Bystrany"
+    ],
+    "name:cze_x_preferred":[
+        "Bystrany"
+    ],
+    "name:deu_x_preferred":[
+        "Bystrany"
+    ],
+    "name:dut_x_preferred":[
+        "Bystrany"
+    ],
+    "name:eng_x_preferred":[
+        "Bystrany"
+    ],
+    "name:epo_x_preferred":[
+        "Bystrany"
+    ],
+    "name:fra_x_preferred":[
+        "Bystrany"
+    ],
+    "name:fre_x_preferred":[
+        "Bystrany"
+    ],
+    "name:ger_x_preferred":[
+        "Bystrany"
+    ],
+    "name:hbs_x_preferred":[
+        "Bistrani"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c1gosth\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "Bystrany"
+    ],
+    "name:may_x_preferred":[
+        "Bystrany"
+    ],
+    "name:msa_x_preferred":[
+        "Bystrany"
+    ],
+    "name:nan_x_preferred":[
+        "Bystrany"
+    ],
+    "name:nld_x_preferred":[
+        "Bystrany"
+    ],
+    "name:pol_x_preferred":[
+        "Bystrany"
+    ],
+    "name:slk_x_preferred":[
+        "Bystrany"
+    ],
+    "name:slo_x_preferred":[
+        "Bystrany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ve\u013ebachy"
+    ],
+    "name:war_x_preferred":[
+        "Bystrany"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bystrany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00e9 Vlachy",
+    "qs:la_lc":"*SK42A543594",
+    "qs:level":"locality",
+    "qs:loc":"Bystrany",
+    "qs:loc_alt":"Bystrany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725028,
+        "gp:id":818832,
+        "qs:id":1270958,
+        "wd:id":"Q568397",
+        "wk:page":"Bystrany (Slovakia)"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e619454fdce226529c08007f820f2b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":101780273,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780273,
+    "wof:lastmodified":1527715865,
+    "wof:name":"Bystrany",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74808476568808,
+    48.94461600209706,
+    20.77262239490119,
+    48.95586012455897
+],
+  "geometry": {"coordinates":[[[20.75118091306069,48.95572915915068],[20.75098600789028,48.95484069228297],[20.75233919467405,48.95470971323186],[20.75214427471121,48.95382124828581],[20.7534974313362,48.95369025559216],[20.75330249658288,48.9528017925681],[20.75736185640289,48.95240872449597],[20.75716685960055,48.95152026882283],[20.75987301958412,48.9512581470957],[20.75967798437,48.95036969606031],[20.76373710449468,48.94997639895746],[20.76432244933056,48.9526417252402],[20.76567554719327,48.95251058534762],[20.76587070346898,48.95339902313833],[20.76857692685212,48.95313668885393],[20.76877213923916,48.95402512041602],[20.77012526475801,48.95389392602345],[20.76953958327533,48.95122863711015],[20.76818652864057,48.95135982334887],[20.76760099772207,48.94869451913831],[20.76895398148247,48.94856334105231],[20.76875879859057,48.94767490744528],[20.77011175219536,48.94754371572361],[20.76991655453452,48.94665528404016],[20.77262239490119,48.94639285697502],[20.77223193165992,48.94461600209706],[20.76817330302583,48.94500960186048],[20.76836845936316,48.94589803784947],[20.76566262704159,48.94616036136614],[20.7658577449879,48.94704880199492],[20.76450479540921,48.94717994194093],[20.76469989858231,48.94806838449267],[20.75387587793438,48.94911693706865],[20.75426573280788,48.95089386323571],[20.7529126536017,48.95102486414271],[20.75310757067138,48.95191332875163],[20.7517544613101,48.95204431601729],[20.7519493635902,48.95293278254769],[20.74924307803138,48.95319471343942],[20.74943794188636,48.95408318460449],[20.74808476568808,48.95421412822952],[20.74827961474818,48.95510260131573],[20.74963281458122,48.95497165497767],[20.74982769611631,48.95586012455897],[20.75118091306069,48.95572915915068]]],"type":"Polygon"}
+}

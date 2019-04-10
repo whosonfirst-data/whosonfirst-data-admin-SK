@@ -1,0 +1,152 @@
+{
+  "id": 101782749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":957169.386123,
+    "geom:bbox":"18.9330329705,48.4044278232,18.9455019784,48.4313865419",
+    "geom:latitude":48.418598,
+    "geom:longitude":18.939706,
+    "gn:elevation":435,
+    "gn:population":1172,
+    "iso:country":"SK",
+    "lbl:latitude":48.418122,
+    "lbl:longitude":18.939281,
+    "mps:latitude":48.418122,
+    "mps:longitude":18.939281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:ces_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:cze_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:deu_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:dut_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:eng_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:epo_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:fra_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:fre_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:ger_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:hun_x_preferred":[
+        "Szentantal"
+    ],
+    "name:ita_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a1\u30c6\u30a3\u30fb\u30a2\u30f3\u30c8\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:msa_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:nan_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:nld_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:pol_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:slo_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0410\u043d\u0442\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Sv\u00e4t\u00fd Antol"
+    ],
+    "name:war_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Bansk\u00e1 \u0160tiavnica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Sv\u00e4t\u00fd Anton",
+    "qs:la_lc":"*SK322516597",
+    "qs:level":"locality",
+    "qs:loc":"Sv\u00e4t\u00fd Anton",
+    "qs:loc_alt":"Svaty Anton",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":410,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057311,
+        "gp:id":822547,
+        "qs:id":580745,
+        "qs_pg:id":580745,
+        "wd:id":"Q249613",
+        "wk:page":"Sv\u00e4t\u00fd Anton"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c56f6f1e96ecd8294593ce4185e2af7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080491,
+            "locality_id":101782749,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101782749,
+    "wof:lastmodified":1553815498,
+    "wof:name":"Sv\u00e4t\u00fd Anton",
+    "wof:parent_id":102080491,
+    "wof:placetype":"locality",
+    "wof:population":1172,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93303297050602,
+    48.40442782322725,
+    18.94550197838879,
+    48.43138654190813
+],
+  "geometry": {"coordinates":[[[18.94550197838879,48.42316173352566],[18.94502302562296,48.42048547877829],[18.94368054891129,48.42059434328144],[18.94352093571291,48.41970225479338],[18.94217847706824,48.41981110081628],[18.9407424916015,48.41178225413523],[18.94208474010122,48.41167342815521],[18.94192519871063,48.41078133294508],[18.94326741858242,48.41067249294281],[18.94215066643693,48.40442782322725],[18.93946654817222,48.40464545581563],[18.93994497313992,48.4073217602284],[18.93860283607108,48.40743055882893],[18.93892177524373,48.40921476286019],[18.93757958621131,48.40932354966378],[18.93869593594042,48.41556825818026],[18.93735357820202,48.41567704431452],[18.93751306209049,48.41656914506922],[18.93617067571921,48.41667791717822],[18.93633014343288,48.41757001948702],[18.9349877284269,48.4176787775699],[18.93530663867659,48.41946298462369],[18.9366491003899,48.4193542220894],[18.93680858963432,48.42024632238332],[18.9381510694198,48.42013754137031],[18.93894874010766,48.42459802163455],[18.93760614353243,48.42470681377966],[18.93792521534886,48.42649100563824],[18.9365825667644,48.42659978598192],[18.93674209008037,48.42749188313076],[18.93539941284695,48.42760064944565],[18.93555891997875,48.42849274814989],[18.93421621409499,48.42860150043549],[18.93437570504045,48.42949360069474],[18.93303297050602,48.42960233895013],[18.93335192719871,48.43138654190813],[18.9360374844548,48.43116904023617],[18.93587795578219,48.4302769435451],[18.93990618191475,48.42995057579236],[18.93942742868995,48.42727430173466],[18.94077009006475,48.42716548665385],[18.94029133139719,48.42448921323512],[18.9443190735434,48.4241626905125],[18.94415943160874,48.42327060471257],[18.94550197838879,48.42316173352566]]],"type":"Polygon"}
+}

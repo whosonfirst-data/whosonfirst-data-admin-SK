@@ -1,0 +1,121 @@
+{
+  "id": 1125774377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57287,49.06899,18.57287,49.06899",
+    "geom:latitude":49.06899,
+    "geom:longitude":18.57287,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.06899,
+    "lbl:longitude":18.57287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:cze_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:hun_x_preferred":[
+        "Kislednic"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u0409\u0435\u0434\u045a\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00e9 Lednice"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058847,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mal\u00e9 Lednice",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":190961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":820870,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058847,
+        "gp:id":820870,
+        "qs_pg:id":190961,
+        "wd:id":"Q1043843"
+    },
+    "wof:country":"SK",
+    "wof:created":1497290196,
+    "wof:geomhash":"e00686ee800c02aa6c07e18b6c2538f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1125774377,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125774377,
+    "wof:lastmodified":1514505173,
+    "wof:name":"Mal\u00e9 Lednice",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57287,
+    49.06899,
+    18.57287,
+    49.06899
+],
+  "geometry": {"coordinates":[18.57287,49.06899],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 101833939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":1561391.318956,
+    "geom:bbox":"18.0779993293,48.421721285,18.1022832568,48.4474204799",
+    "geom:latitude":48.43587,
+    "geom:longitude":18.092552,
+    "iso:country":"SK",
+    "lbl:latitude":48.435097,
+    "lbl:longitude":18.094391,
+    "mps:latitude":48.435097,
+    "mps:longitude":18.094391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:ces_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:cze_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:dut_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:eng_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:epo_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:fra_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:fre_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:hbs_x_preferred":[
+        "Hru\u0161ovani"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitrak\u00f6rtv\u00e9lyes"
+    ],
+    "name:ita_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:may_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:msa_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:nld_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:slk_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:slo_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0443\u0448\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Hru\u0161ovany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Topolcany",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamanov\u00e1",
+    "qs:la_lc":"*SK236543039",
+    "qs:level":"locality",
+    "qs:loc":"Hru\u0161ovany",
+    "qs:loc_alt":"Hrusovany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059837,
+        "gp:id":819862,
+        "qs:id":939984,
+        "wd:id":"Q1044195",
+        "wk:page":"Hru\u0161ovany, Topo\u013e\u010dany District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"11f8cb782a07df20cf76ba20aac79f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":101833939,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101833939,
+    "wof:lastmodified":1553815532,
+    "wof:name":"Hru\u0161ovany",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07799932927207,
+    48.42172128499476,
+    18.10228325679304,
+    48.44742047994691
+],
+  "geometry": {"coordinates":[[[18.09310441269866,48.44570082835708],[18.10228325679304,48.44357117444946],[18.10205657985574,48.44217194744607],[18.0980230941226,48.44246781526942],[18.09729986924879,48.43800058320909],[18.09998862935441,48.43780337450994],[18.0996992909931,48.43601648548366],[18.0983549603705,48.43611509393821],[18.09792107227952,48.43343474973813],[18.09926533236518,48.43333614734769],[18.09883143242359,48.43065580369489],[18.09748724286533,48.4307544000219],[18.09705347211786,48.42807404478867],[18.09570934828054,48.4281726187599],[18.09527570669729,48.42549225194784],[18.09796380855556,48.42529509983433],[18.09738552298893,48.42172128499476],[18.09604156845546,48.4218198611166],[18.09647520235956,48.42450022922696],[18.08841095148733,48.42509138018949],[18.08855536814019,48.42598484711516],[18.08452310749641,48.4262802087033],[18.08481181930074,48.42806715282416],[18.08615595798358,48.42796871121925],[18.08630034715389,48.42886218034334],[18.09033280497147,48.42856675171214],[18.09119969987455,48.43392751726196],[18.08985541100321,48.43402602188047],[18.09043337716491,48.43759986140952],[18.09177776009489,48.43750134871306],[18.09192229143946,48.43839480504505],[18.09326669308973,48.43829627403147],[18.09355582236651,48.44008318081848],[18.09490026625497,48.43998462946684],[18.09533407962243,48.44266497899304],[18.08592237769795,48.44335453861362],[18.08606683052739,48.44424800137091],[18.07799932927207,48.44483842891049],[18.07828797214296,48.44662537680682],[18.07963261472406,48.44652700893243],[18.07977696945221,48.44742047994691],[18.0851555859619,48.44702683737006],[18.08501113711736,48.4461333744282],[18.09307877683062,48.44554243366326],[18.09310441269866,48.44570082835708]]],"type":"Polygon"}
+}

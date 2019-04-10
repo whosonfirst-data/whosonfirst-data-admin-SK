@@ -1,0 +1,72 @@
+{
+  "id": 1293691701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79379,49.25222,20.79379,49.25222",
+    "geom:latitude":49.25222,
+    "geom:longitude":20.79379,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hromos",
+    "gn:country_code":"SK",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724640,
+    "gn:latitude":49.25222,
+    "gn:longitude":20.79379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hromo\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gromo\u0161",
+        "Hromo\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724640,
+        "wk:page":"Hromo%C5%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"79a8075709133849253fdd53ca055ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1293691701,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293691701,
+    "wof:lastmodified":1537700368,
+    "wof:name":"Hromos",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79379,
+    49.25222,
+    20.79379,
+    49.25222
+],
+  "geometry": {"coordinates":[20.79379,49.25222],"type":"Point"}
+}

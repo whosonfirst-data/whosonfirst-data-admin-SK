@@ -1,0 +1,141 @@
+{
+  "id": 101785189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1206475.563298,
+    "geom:bbox":"17.4866882611,48.2440157925,17.5061284689,48.2574321399",
+    "geom:latitude":48.250137,
+    "geom:longitude":17.496704,
+    "iso:country":"SK",
+    "lbl:latitude":48.250533,
+    "lbl:longitude":17.495894,
+    "mps:latitude":48.250533,
+    "mps:longitude":17.495894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:ger_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:hbs_x_preferred":[
+        "Veljki Grob"
+    ],
+    "name:hun_x_preferred":[
+        "Magyargurab"
+    ],
+    "name:hun_x_variant":[
+        "Nagygurab"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u0413\u0440\u043e\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Nemeck\u00fd Grob"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00fd Grob"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010cataj",
+    "qs:la_lc":"*SK108507865",
+    "qs:level":"locality",
+    "qs:loc":"Ve\u013ek\u00fd Grob",
+    "qs:loc_alt":"Velky Grob",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056835,
+        "gp:id":823002,
+        "qs:id":1140400,
+        "wd:id":"Q762283",
+        "wk:page":"Ve\u013ek\u00fd Grob"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3e120ca1b75f091ae127a6e95308d652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101785189,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101785189,
+    "wof:lastmodified":1527677696,
+    "wof:name":"Ve\u013ek\u00fd Grob",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48668826105182,
+    48.24401579252293,
+    17.50612846892449,
+    48.25743213985845
+],
+  "geometry": {"coordinates":[[[17.50156668632462,48.2550957860044],[17.50090042606467,48.25062373486242],[17.50358112012003,48.25044111842112],[17.5034478392638,48.24954671016451],[17.50612846892449,48.2493640324434],[17.50559521833873,48.24578640847528],[17.50425499924177,48.24587774800608],[17.50398845665501,48.24408892878176],[17.49862772326577,48.24445410949858],[17.49876089804542,48.24534852685457],[17.49340000070657,48.24571345501869],[17.49326691945066,48.24481903021638],[17.49192670749858,48.24491021977042],[17.49179365560445,48.24401579252293],[17.49045346263557,48.24410696396649],[17.49111866499385,48.24857910365972],[17.48977835071156,48.24867026815366],[17.49044358563719,48.25314240253789],[17.48910315001336,48.25323356008147],[17.48923619154863,48.254127987066],[17.48789572813462,48.25421913021609],[17.48802875225732,48.25511355847698],[17.48668826105182,48.25520468723306],[17.48695428044823,48.25699354572322],[17.48829481844365,48.25690241324691],[17.48816178236035,48.2560079861538],[17.48950229256241,48.25591683928315],[17.48936923906496,48.25502241346652],[17.49339067309143,48.2547488809106],[17.49379006207943,48.25743213985845],[17.4964711364558,48.25724969238019],[17.49620477756815,48.25546086111359],[17.50156668632462,48.2550957860044]]],"type":"Polygon"}
+}

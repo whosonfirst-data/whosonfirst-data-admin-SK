@@ -1,0 +1,130 @@
+{
+  "id": 1125823299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8924,48.72066,17.8924,48.72066",
+    "geom:latitude":48.72066,
+    "geom:longitude":17.8924,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.72066,
+    "lbl:longitude":17.8924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:cze_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:epo_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1ghorka"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:may_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:slo_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043a\u0430 \u043d\u0430 \u0412\u0430\u0445\u0443"
+    ],
+    "name:unk_x_variant":[
+        "H\u00f4rka"
+    ],
+    "name:war_x_preferred":[
+        "H\u00f4rka nad V\u00e1hom"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3060052,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00f4rka nad V\u00e1hom",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":190896,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819651,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060052,
+        "gp:id":819651,
+        "qs_pg:id":190896,
+        "wd:id":"Q1070581"
+    },
+    "wof:country":"SK",
+    "wof:created":1497292167,
+    "wof:geomhash":"d9aca34338fcdb5829ee52b3b0b66a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1125823299,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1125823299,
+    "wof:lastmodified":1514505114,
+    "wof:name":"H\u00f4rka nad V\u00e1hom",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8924,
+    48.72066,
+    17.8924,
+    48.72066
+],
+  "geometry": {"coordinates":[17.8924,48.72066],"type":"Point"}
+}

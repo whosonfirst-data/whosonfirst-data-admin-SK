@@ -1,0 +1,72 @@
+{
+  "id": 1344062827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5845,48.16274,18.5845,48.16274",
+    "geom:latitude":48.16274,
+    "geom:longitude":18.5845,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vysne nad Hronom",
+    "gn:country_code":"SK",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056658,
+    "gn:latitude":48.16274,
+    "gn:longitude":18.5845,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00e9 nad Hronom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na\u010fod",
+        "Vy\u0161n\u00e9 nad Hronom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056658,
+        "wk:page":"Vy%C5%A1n%C3%A9_nad_Hronom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d9d65708a4c0d462f0cf7e0e854090df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1344062827,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1344062827,
+    "wof:lastmodified":1537700379,
+    "wof:name":"Vysne nad Hronom",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5845,
+    48.16274,
+    18.5845,
+    48.16274
+],
+  "geometry": {"coordinates":[18.5845,48.16274],"type":"Point"}
+}

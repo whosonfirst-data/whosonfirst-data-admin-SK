@@ -1,0 +1,134 @@
+{
+  "id": 101843771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000198,
+    "geom:area_square_m":1625222.030232,
+    "geom:bbox":"18.3482015056,48.3268640738,18.3742777913,48.3500617294",
+    "geom:latitude":48.337973,
+    "geom:longitude":18.359188,
+    "iso:country":"SK",
+    "lbl:latitude":48.337605,
+    "lbl:longitude":18.357904,
+    "mps:latitude":48.337605,
+    "mps:longitude":18.357904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:ces_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:cze_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:deu_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:dut_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:eng_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:epo_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:fra_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:fre_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:ger_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:hbs_x_preferred":[
+        "Tjesarske Mlinjani"
+    ],
+    "name:hun_x_preferred":[
+        "Tasz\u00e1rmalonya"
+    ],
+    "name:ita_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:may_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:msa_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:nld_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:slo_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0458\u0435\u0441\u0430\u0440\u0441\u043a\u0435 \u041c\u043b\u0438\u045a\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Tes\u00e1rske Mly\u0148any"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zlat\u00e9 Moravce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vieska nad \u017ditavou",
+    "qs:la_lc":"*SK237500909",
+    "qs:level":"locality",
+    "qs:loc":"Tes\u00e1rske Mly\u0148any",
+    "qs:loc_alt":"Tesarske Mlynany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058684,
+        "gp:id":821052,
+        "qs:id":915239,
+        "wd:id":"Q1184564"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"58c69d86da6e5fa231c4c36206aae1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":101843771,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101843771,
+    "wof:lastmodified":1527642594,
+    "wof:name":"Tes\u00e1rske Mly\u0148any",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34820150561166,
+    48.32686407383369,
+    18.37427779133901,
+    48.35006172943542
+],
+  "geometry": {"coordinates":[[[18.36831560917358,48.34995988568318],[18.3675704144103,48.34549455830705],[18.37159485536853,48.34518896076776],[18.37174395100715,48.34608202126782],[18.37308544482306,48.34598012083711],[18.37293632582112,48.34508706241968],[18.37427779133901,48.34498514782098],[18.37397952673098,48.34319903324422],[18.36324803826369,48.34401386170259],[18.36295017425539,48.34222771127719],[18.36160876273431,48.34232948754709],[18.36116208703288,48.33965025090419],[18.36250342847489,48.33954848087376],[18.36235452660827,48.33865540280181],[18.36503714799585,48.338451818154],[18.36488820611248,48.33755874360617],[18.36354692123894,48.33766054197434],[18.36339800940834,48.33676746471099],[18.36205674296286,48.33686924475103],[18.36161011770696,48.33419000290809],[18.36026891639642,48.33429176046207],[18.35952479159039,48.32982633428196],[18.36220695579294,48.32962282371693],[18.36190925932567,48.32783665710946],[18.36056822637715,48.32793841635686],[18.3604194115257,48.32704533002044],[18.35907839699922,48.32714707094436],[18.35922718850617,48.32804015935932],[18.35118085794414,48.32865027622626],[18.35088356176112,48.32686407383369],[18.34820150561166,48.32706730785526],[18.34879593793301,48.33063972670737],[18.35013706185617,48.33053810951577],[18.35058302631677,48.33321741075849],[18.35192421537522,48.33311577109077],[18.3520729069175,48.33400886815821],[18.35341411440959,48.33390721016633],[18.35475284944533,48.34194503650258],[18.353411431734,48.34204671319236],[18.35356019015859,48.34293980391089],[18.35221874416163,48.34304146642791],[18.35236748591285,48.34393455858952],[18.36041622821676,48.34332432725705],[18.36130966043709,48.34868279206137],[18.36265124044201,48.34858101748148],[18.36280019262432,48.34947409064608],[18.36682497316394,48.34916866314927],[18.36697400215525,48.35006172943542],[18.36831560917358,48.34995988568318]]],"type":"Polygon"}
+}

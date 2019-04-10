@@ -1,0 +1,71 @@
+{
+  "id": 1309927229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37598,48.60022,17.37598,48.60022",
+    "geom:latitude":48.60022,
+    "geom:longitude":17.37598,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Brezina",
+    "gn:country_code":"SK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060954,
+    "gn:latitude":48.60022,
+    "gn:longitude":17.37598,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brezina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Brezina",
+        "Brezina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060954
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9cc0a73ec01372a2d5d9bca5aadd3307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1309927229,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1309927229,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Brezina",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37598,
+    48.60022,
+    17.37598,
+    48.60022
+],
+  "geometry": {"coordinates":[17.37598,48.60022],"type":"Point"}
+}

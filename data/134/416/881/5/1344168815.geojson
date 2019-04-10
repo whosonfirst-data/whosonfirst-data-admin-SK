@@ -1,0 +1,67 @@
+{
+  "id": 1344168815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08333,48.55,22.08333,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":22.08333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cepel'",
+    "gn:country_code":"SK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725002,
+    "gn:latitude":48.55,
+    "gn:longitude":22.08333,
+    "gn:modification_date":"2007-12-10",
+    "gn:name":"\u010cepe\u013e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725002
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0cc5573a7e3e85e469d44ba0ba257263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1344168815,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1344168815,
+    "wof:lastmodified":1536719538,
+    "wof:name":"Cepel'",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08333,
+    48.55,
+    22.08333,
+    48.55
+],
+  "geometry": {"coordinates":[22.08333,48.55],"type":"Point"}
+}

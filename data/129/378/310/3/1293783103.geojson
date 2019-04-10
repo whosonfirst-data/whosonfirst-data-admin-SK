@@ -1,0 +1,72 @@
+{
+  "id": 1293783103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70416,49.08928,20.70416,49.08928",
+    "geom:latitude":49.08928,
+    "geom:longitude":20.70416,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizne Repase",
+    "gn:country_code":"SK",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724046,
+    "gn:latitude":49.08928,
+    "gn:longitude":20.70416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e9 Repa\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017enie Repa\u0161e",
+        "Ni\u017en\u00e9 Repa\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724046,
+        "wk:page":"Ni%C5%BEn%C3%A9_Repa%C5%A1e"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"01b3a91ca12f0d47ab45e6eaeedf3090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1293783103,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293783103,
+    "wof:lastmodified":1537700357,
+    "wof:name":"Nizne Repase",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70416,
+    49.08928,
+    20.70416,
+    49.08928
+],
+  "geometry": {"coordinates":[20.70416,49.08928],"type":"Point"}
+}

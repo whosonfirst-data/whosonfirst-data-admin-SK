@@ -1,0 +1,73 @@
+{
+  "id": 1276566155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76196,48.54645,18.76196,48.54645",
+    "geom:latitude":48.54645,
+    "geom:longitude":18.76196,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolna Zdana",
+    "gn:country_code":"SK",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060479,
+    "gn:latitude":48.54645,
+    "gn:longitude":18.76196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e1 \u017dda\u0148a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolnia \u017dd\u00e1\u0148a",
+        "Doln\u00ed \u017dd\u00e1\u0148a",
+        "Doln\u00e1 \u017dda\u0148a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060479,
+        "wk:page":"Doln%C3%A1_%C5%BDda%C5%88a"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a123108547cf0f3357402b0ec3aa77ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1276566155,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1276566155,
+    "wof:lastmodified":1537700429,
+    "wof:name":"Dolna Zdana",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76196,
+    48.54645,
+    18.76196,
+    48.54645
+],
+  "geometry": {"coordinates":[18.76196,48.54645],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101780455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1026851.477147,
+    "geom:bbox":"21.5313160248,48.8981061672,21.5697414319,48.9071146422",
+    "geom:latitude":48.902209,
+    "geom:longitude":21.551747,
+    "iso:country":"SK",
+    "lbl:latitude":48.901143,
+    "lbl:longitude":21.556259,
+    "mps:latitude":48.901143,
+    "mps:longitude":21.556259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:cze_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:dut_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:eng_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:epo_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:fra_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:fre_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:ger_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:hun_x_preferred":[
+        "Op\u00e1lhegy"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:may_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:nan_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:slo_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043c\u0443\u0442\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043c\u0443\u0442\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Z\u00e1mutov",
+    "qs:la_lc":"*SK41D529265",
+    "qs:level":"locality",
+    "qs:loc":"Z\u00e1mutov",
+    "qs:loc_alt":"Zamutov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723104,
+        "gp:id":823283,
+        "qs:id":191093,
+        "qs_pg:id":191093,
+        "wd:id":"Q246914",
+        "wk:page":"Z\u00e1mutov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4fc601df890347f88fbbdc6071146b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101780455,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780455,
+    "wof:lastmodified":1527715868,
+    "wof:name":"Z\u00e1mutov",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53131602480198,
+    48.89810616722298,
+    21.56974143187136,
+    48.90711464218521
+],
+  "geometry": {"coordinates":[[[21.56247882615457,48.90594633525404],[21.56206040030219,48.90417280391608],[21.56341036780231,48.90403201692226],[21.56299193301487,48.90225848792534],[21.56434184675101,48.90211769045834],[21.56413262016065,48.90123092756431],[21.56818224930998,48.9008084461592],[21.56839154606627,48.90169520032782],[21.56974143187136,48.90155433770809],[21.56932280104962,48.89978083431987],[21.5625735360743,48.9004849554525],[21.56236435179534,48.89959818791272],[21.55966464371653,48.89987971653693],[21.55924639708525,48.89810616722298],[21.55384708430279,48.89866900576743],[21.55405610933866,48.8995557924826],[21.54865659141024,48.90011838204123],[21.548865532337,48.90100517950725],[21.53806597473471,48.9021295999836],[21.53785722095614,48.90124277929453],[21.53245736852409,48.90180458697154],[21.53266602871707,48.90269141926501],[21.53131602480198,48.90283183335907],[21.53152467103422,48.9037186676868],[21.53422471869715,48.90343781740705],[21.53443342116583,48.90432464506745],[21.53578345794932,48.90418419259026],[21.53599219325764,48.90507101648348],[21.54139236431945,48.90450903205772],[21.54118353541719,48.90362221977279],[21.5452335203484,48.9032005691098],[21.54544241944092,48.90408737268541],[21.54949241181919,48.90366556670028],[21.5497013905495,48.90455236069602],[21.55780132736288,48.90370829146747],[21.55801045591681,48.90459506716104],[21.55936044435856,48.90445432903573],[21.55998795696331,48.90711464218521],[21.56133800861011,48.90697387904788],[21.56112880488502,48.9060871117739],[21.56247882615457,48.90594633525404]]],"type":"Polygon"}
+}

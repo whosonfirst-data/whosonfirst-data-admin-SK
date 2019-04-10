@@ -1,0 +1,82 @@
+{
+  "id": 1125991753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06318,49.1262935,20.06318,49.1262935",
+    "geom:latitude":49.126294,
+    "geom:longitude":20.06318,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.126294,
+    "lbl:longitude":20.06318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00c5 Trbsk\u00e9 Pleso",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":1846,
+    "qs_pg:photos_1k":374,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1846,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281458,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822456,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":822456,
+        "qs_pg:id":281458
+    },
+    "wof:country":"SK",
+    "wof:created":1497299095,
+    "wof:geomhash":"14b1ffb1c6aae941047864ee84b744b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125991753,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125991753,
+    "wof:lastmodified":1509405449,
+    "wof:name":"\u00c5 Trbsk\u00e9 Pleso",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06318,
+    49.1262935,
+    20.06318,
+    49.1262935
+],
+  "geometry": {"coordinates":[20.06318,49.1262935],"type":"Point"}
+}

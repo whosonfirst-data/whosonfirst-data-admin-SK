@@ -1,0 +1,160 @@
+{
+  "id": 101784017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":777692.302311,
+    "geom:bbox":"17.4201825085,48.4331878057,17.438470008,48.4432980225",
+    "geom:latitude":48.438854,
+    "geom:longitude":17.429104,
+    "iso:country":"SK",
+    "lbl:latitude":48.438971,
+    "lbl:longitude":17.427718,
+    "mps:latitude":48.438971,
+    "mps:longitude":17.427718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:deu_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:epo_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:fra_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3di\u00f3s"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:msa_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:nan_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:nld_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:por_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u045a\u0435 \u041e\u0440\u0435\u0448\u0430\u043d\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Dolne Oresany",
+        "Dolni Oresany",
+        "Dolnie Oresany"
+    ],
+    "name:und_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:und_x_variant":[
+        "Dolnie Ore\u0161any",
+        "Doln\u00ed Ore\u0161any"
+    ],
+    "name:unk_x_variant":[
+        "Doln\u00ed Ore\u0161any"
+    ],
+    "name:war_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trnava",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Doln\u00e9 Ore\u0161any",
+    "qs:la_lc":"*SK217506940",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00e9 Ore\u0161any",
+    "qs:loc_alt":"Dolne Oresany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070e8c0c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3060453,
+        "gp:id":819212,
+        "qs:id":190866,
+        "qs_pg:id":190866,
+        "wd:id":"Q664033",
+        "wk:page":"Doln\u00e9 Ore\u0161any"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"058b00332b46edeba5c3429c5de56e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":101784017,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101784017,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527688544,
+    "wof:name":"Doln\u00e9 Ore\u0161any",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42018250853783,
+    48.43318780573281,
+    17.43847000796376,
+    48.44329802251229
+],
+  "geometry": {"coordinates":[[[17.435911833538,48.44293593276086],[17.43577897473529,48.4420415125673],[17.43847000796376,48.44186037345492],[17.43820421386607,48.44007153879124],[17.432822318717,48.44043373684781],[17.43268952514262,48.43953931122678],[17.43134406394188,48.43962981807147],[17.43094579003093,48.43694653221274],[17.43363656631328,48.43676551334318],[17.43350377309469,48.43587108729685],[17.43484913100298,48.43578055523449],[17.43458351531712,48.43399170514454],[17.4332382046361,48.43408223349167],[17.43310542939571,48.43318780573281],[17.42906954172668,48.43345928726836],[17.42920224612931,48.4343537205977],[17.42785691780807,48.43444418365431],[17.42798960458555,48.43533861826938],[17.42529888748999,48.43551949912586],[17.42543153302404,48.43641393688205],[17.42274075106747,48.43659475615539],[17.42287335535343,48.43748919705183],[17.42018250853783,48.43766995473942],[17.42044764058642,48.43945884224104],[17.42313858188055,48.43927807713465],[17.4236691067677,48.44285583045973],[17.43039685530817,48.44240359488754],[17.43052961961905,48.44329802251229],[17.435911833538,48.44293593276086]]],"type":"Polygon"}
+}

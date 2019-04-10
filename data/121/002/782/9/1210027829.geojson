@@ -1,0 +1,72 @@
+{
+  "id": 1210027829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48597,48.53231,20.48597,48.53231",
+    "geom:latitude":48.53231,
+    "geom:longitude":20.48597,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Silicka Brezova",
+    "gn:country_code":"SK",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723620,
+    "gn:latitude":48.53231,
+    "gn:longitude":20.48597,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Silick\u00e1 Brezov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borzov\u00e1",
+        "Silick\u00e1 Brezov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723620,
+        "wk:page":"Silick%C3%A1_Brezov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"237caca91b57b071eb9937bd242da4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1210027829,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1210027829,
+    "wof:lastmodified":1537700350,
+    "wof:name":"Silicka Brezova",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48597,
+    48.53231,
+    20.48597,
+    48.53231
+],
+  "geometry": {"coordinates":[20.48597,48.53231],"type":"Point"}
+}

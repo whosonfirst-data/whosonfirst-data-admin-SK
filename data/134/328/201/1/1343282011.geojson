@@ -1,0 +1,72 @@
+{
+  "id": 1343282011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96896,49.03439,18.96896,49.03439",
+    "geom:latitude":49.03439,
+    "geom:longitude":18.96896,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Horny Kalnik",
+    "gn:country_code":"SK",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059939,
+    "gn:latitude":49.03439,
+    "gn:longitude":18.96896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00fd Kaln\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Kaln\u00ed",
+        "Horn\u00fd Kaln\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059939,
+        "wk:page":"Horn%C3%BD_Kaln%C3%ADk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3e9823d942cd2b4d0725d101aa3246f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1343282011,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343282011,
+    "wof:lastmodified":1537700420,
+    "wof:name":"Horny Kalnik",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96896,
+    49.03439,
+    18.96896,
+    49.03439
+],
+  "geometry": {"coordinates":[18.96896,49.03439],"type":"Point"}
+}

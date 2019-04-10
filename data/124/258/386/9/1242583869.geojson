@@ -1,0 +1,67 @@
+{
+  "id": 1242583869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,48.76667,17.63333,48.76667",
+    "geom:latitude":48.76667,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pribisovia",
+    "gn:country_code":"SK",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058016,
+    "gn:latitude":48.76667,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Pribi\u0161ovia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058016
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cf94c67a38c7218618b7e2d4dc50ecb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1242583869,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1242583869,
+    "wof:lastmodified":1537052336,
+    "wof:name":"Pribisovia",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    48.76667,
+    17.63332999999999,
+    48.76667
+],
+  "geometry": {"coordinates":[17.63332999999999,48.76667],"type":"Point"}
+}

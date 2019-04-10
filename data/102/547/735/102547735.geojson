@@ -1,0 +1,65 @@
+{
+  "id": 102547735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1041666667,49.0797222222,21.1041666667,49.0797222222",
+    "geom:latitude":49.079722,
+    "geom:longitude":21.104167,
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1050",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424877,
+        "county_id":29399304,
+        "localadmin_id":29399824,
+        "planet_id":1,
+        "state_id":20070496
+    },
+    "wof:belongsto":[
+        85633769,
+        85688347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514624,
+        "icao:code":"LZRY",
+        "oa:id":"317685",
+        "wd:id":"Q14602125"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"94f611eb2afcf1fd76cfe4748f401adf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547735,
+            "country_id":85633769,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":102547735,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Raznany Airport",
+    "wof:parent_id":85688347,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.104166666667,
+    49.079722222222,
+    21.104166666667,
+    49.079722222222
+],
+  "geometry": {"coordinates":[21.104166666667,49.079722222222],"type":"Point"}
+}

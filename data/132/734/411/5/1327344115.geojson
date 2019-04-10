@@ -1,0 +1,67 @@
+{
+  "id": 1327344115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56493,49.1606,19.56493,49.1606",
+    "geom:latitude":49.1606,
+    "geom:longitude":19.56493,
+    "gn:asciiname":"Liptovske Matiasovce",
+    "gn:country_code":"SK",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059056,
+    "gn:latitude":49.1606,
+    "gn:longitude":19.56493,
+    "gn:modification_date":"2008-07-01",
+    "gn:name":"Liptovsk\u00e9 Matia\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059056,
+        "wk:page":"Liptovsk%C3%A9_Matia%C5%A1ovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5fb1f6b34e8cae7521366a68fbc4a830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1327344115,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1327344115,
+    "wof:lastmodified":1537573600,
+    "wof:name":"Liptovske Matiasovce",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56493,
+    49.1606,
+    19.56493,
+    49.1606
+],
+  "geometry": {"coordinates":[19.56493,49.1606],"type":"Point"}
+}

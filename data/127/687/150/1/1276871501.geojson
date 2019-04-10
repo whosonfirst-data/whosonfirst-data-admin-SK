@@ -1,0 +1,71 @@
+{
+  "id": 1276871501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71621,49.20951,21.71621,49.20951",
+    "geom:latitude":49.20951,
+    "geom:longitude":21.71621,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Potocky",
+    "gn:country_code":"SK",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723828,
+    "gn:latitude":49.20951,
+    "gn:longitude":21.71621,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pot\u00f4\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pot\u00f4\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723828,
+        "wk:page":"Pot%C3%B4%C4%8Dky"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bd3f47dcec3f9b9fef866e86c5cc78fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1276871501,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276871501,
+    "wof:lastmodified":1537700354,
+    "wof:name":"Potocky",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71621,
+    49.20951,
+    21.71621,
+    49.20951
+],
+  "geometry": {"coordinates":[21.71621,49.20951],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259605595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44779,49.11209,19.44779,49.11209",
+    "geom:latitude":49.11209,
+    "geom:longitude":19.44779,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Potok",
+    "gn:country_code":"SK",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058064,
+    "gn:latitude":49.11209,
+    "gn:longitude":19.44779,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058064,
+        "wk:page":"Potok%2C_Ru%C5%BEomberok_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"92ded9da813c5cd7c3c720dcb8de4333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1259605595,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1259605595,
+    "wof:lastmodified":1537573595,
+    "wof:name":"Potok",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44779,
+    49.11209,
+    19.44779,
+    49.11209
+],
+  "geometry": {"coordinates":[19.44779,49.11209],"type":"Point"}
+}

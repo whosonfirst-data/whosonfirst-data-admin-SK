@@ -1,0 +1,68 @@
+{
+  "id": 1259706473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08654,48.94517,21.08654,48.94517",
+    "geom:latitude":48.94517,
+    "geom:longitude":21.08654,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kvacany",
+    "gn:country_code":"SK",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724345,
+    "gn:latitude":48.94517,
+    "gn:longitude":21.08654,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Kva\u010dany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724345,
+        "wk:page":"Kva%C4%8Dany%2C_Pre%C5%A1ov_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d1ca54708655645607734bdbf96ca84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1259706473,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1259706473,
+    "wof:lastmodified":1537573575,
+    "wof:name":"Kvacany",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08654,
+    48.94517000000001,
+    21.08654,
+    48.94517000000001
+],
+  "geometry": {"coordinates":[21.08654,48.94517000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344057335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78333,48.88333,17.78333,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":17.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mazur",
+    "gn:country_code":"SK",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058756,
+    "gn:latitude":48.88333,
+    "gn:longitude":17.78333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Mazur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058756
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c1cd2561ca8174f821502217c9c6563e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1344057335,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1344057335,
+    "wof:lastmodified":1536879306,
+    "wof:name":"Mazur",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78333,
+    48.88333,
+    17.78333,
+    48.88333
+],
+  "geometry": {"coordinates":[17.78333,48.88333],"type":"Point"}
+}

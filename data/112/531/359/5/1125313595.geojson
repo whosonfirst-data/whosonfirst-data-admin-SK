@@ -1,0 +1,92 @@
+{
+  "id": 1125313595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24536,48.66065,19.24536,48.66065",
+    "geom:latitude":48.66065,
+    "geom:longitude":19.24536,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.66065,
+    "lbl:longitude":19.24536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "Cser\u00e9ny"
+    ],
+    "name:unk_x_variant":[
+        "\u010cer\u00edn"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3060780,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cerin",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":883768,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29400688,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060780,
+        "gp:id":29400688,
+        "qs_pg:id":883768
+    },
+    "wof:country":"SK",
+    "wof:created":1497044150,
+    "wof:geomhash":"44c912cd4e6ffa700824e73d7db73af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "localadmin_id":1125313595,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125313595,
+    "wof:lastmodified":1509387943,
+    "wof:name":"Cerin",
+    "wof:parent_id":102080531,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24536,
+    48.66065,
+    19.24536,
+    48.66065
+],
+  "geometry": {"coordinates":[19.24536,48.66065],"type":"Point"}
+}

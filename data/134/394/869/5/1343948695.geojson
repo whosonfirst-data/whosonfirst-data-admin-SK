@@ -1,0 +1,67 @@
+{
+  "id": 1343948695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27265,49.21381,19.27265,49.21381",
+    "geom:latitude":49.21381,
+    "geom:longitude":19.27265,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Maly Bysterec",
+    "gn:country_code":"SK",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058820,
+    "gn:latitude":49.21381,
+    "gn:longitude":19.27265,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mal\u00fd Bysterec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058820
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b4f99cfcff389fc4f8f7f6534a7b1f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1343948695,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343948695,
+    "wof:lastmodified":1537035486,
+    "wof:name":"Maly Bysterec",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27265,
+    49.21381,
+    19.27265,
+    49.21381
+],
+  "geometry": {"coordinates":[19.27265,49.21381],"type":"Point"}
+}

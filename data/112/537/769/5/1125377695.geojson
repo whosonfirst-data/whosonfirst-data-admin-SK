@@ -1,0 +1,82 @@
+{
+  "id": 1125377695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.972077,48.413127,16.972077,48.413127",
+    "geom:latitude":48.413127,
+    "geom:longitude":16.972077,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.413127,
+    "lbl:longitude":16.972077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Plavecky Stvrtok",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Bratislavsky",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":126091,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402227,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Bratislavsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402227,
+        "qs_pg:id":126091
+    },
+    "wof:country":"SK",
+    "wof:created":1497047854,
+    "wof:geomhash":"56e1c58e75e40242b743b74524f6b186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "localadmin_id":1125377695,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1125377695,
+    "wof:lastmodified":1509389499,
+    "wof:name":"Plavecky Stvrtok",
+    "wof:parent_id":102080487,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.972077,
+    48.413127,
+    16.972077,
+    48.413127
+],
+  "geometry": {"coordinates":[16.972077,48.413127],"type":"Point"}
+}

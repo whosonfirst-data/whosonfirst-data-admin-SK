@@ -1,0 +1,72 @@
+{
+  "id": 1260187099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43695,49.33131,20.43695,49.33131",
+    "geom:latitude":49.33131,
+    "geom:longitude":20.43695,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vel'ka Lesna",
+    "gn:country_code":"SK",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723276,
+    "gn:latitude":49.33131,
+    "gn:longitude":20.43695,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e1 Lesn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rychvald",
+        "Ve\u013ek\u00e1 Lesn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723276,
+        "wk:page":"Ve%C4%BEk%C3%A1_Lesn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0e35e71771adbc7f5098493deaf44ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1260187099,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1260187099,
+    "wof:lastmodified":1537700344,
+    "wof:name":"Vel'ka Lesna",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43695,
+    49.33131,
+    20.43695,
+    49.33131
+],
+  "geometry": {"coordinates":[20.43695,49.33131],"type":"Point"}
+}

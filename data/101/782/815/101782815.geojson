@@ -1,0 +1,138 @@
+{
+  "id": 101782815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":1036853.909751,
+    "geom:bbox":"17.8819030858,48.7268557427,17.8963550391,48.7504748657",
+    "geom:latitude":48.740371,
+    "geom:longitude":17.887602,
+    "iso:country":"SK",
+    "lbl:latitude":48.744267,
+    "lbl:longitude":17.887712,
+    "mps:latitude":48.744267,
+    "mps:longitude":17.887712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:ces_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:cze_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:deu_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:dut_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:eng_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:epo_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:fre_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:ger_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:hun_x_preferred":[
+        "Kocs\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:may_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:msa_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:nld_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:slo_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0447\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Ko\u010dovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Mesto nad V\u00e1hom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nov\u00e1 Ves nad V\u00e1hom",
+    "qs:la_lc":"*SK224556459",
+    "qs:level":"locality",
+    "qs:loc":"Ko\u010dovce",
+    "qs:loc_alt":"Kocovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059458,
+        "gp:id":820239,
+        "qs:id":190931,
+        "qs_pg:id":190931,
+        "wd:id":"Q781023",
+        "wk:page":"Ko\u010dovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ab3cc180bb8043a42273e57339c8bd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":101782815,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101782815,
+    "wof:lastmodified":1527688321,
+    "wof:name":"Ko\u010dovce",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88190308581886,
+    48.72685574267388,
+    17.89635503907499,
+    48.75047486567672
+],
+  "geometry": {"coordinates":[[[17.89635503907499,48.74989773240026],[17.89621264130835,48.74900411162696],[17.89350654289916,48.74919655109096],[17.89336419943754,48.74830292575206],[17.89201116700406,48.74839911886102],[17.89073058186017,48.7403564466656],[17.88802493317786,48.74054874780325],[17.88774052538952,48.73876147294504],[17.88638774172767,48.73885759490855],[17.88596125017932,48.73617667228297],[17.88731396211892,48.73608055628517],[17.88702961887503,48.73429327559637],[17.88973493286085,48.73410100230524],[17.88959272311342,48.73320736506366],[17.89094534906525,48.73311120578296],[17.88994989425709,48.72685574267388],[17.88724497216759,48.72704801697859],[17.88738711284549,48.72794166029314],[17.8860346207714,48.72803777481323],[17.88646100982078,48.73071870722032],[17.88510844129746,48.73081481128941],[17.88581909923602,48.73528303024193],[17.88311370889727,48.73547520901099],[17.88325581202866,48.73636885502788],[17.88190308581886,48.73646492177465],[17.88232936219481,48.73914586229114],[17.88368216012964,48.73904978958171],[17.88425071459341,48.74262436082893],[17.88289782101015,48.74272044148967],[17.88332423287238,48.74540136977259],[17.881971262783,48.74549743997756],[17.88211338905893,48.74639108356172],[17.8834663830666,48.74629501136872],[17.88360853971534,48.74718865238248],[17.88496155288283,48.74709256178016],[17.88510373990619,48.74798620022341],[17.8878097997997,48.74779396577713],[17.88823654313796,48.75047486567672],[17.89635503907499,48.74989773240026]]],"type":"Polygon"}
+}

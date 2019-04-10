@@ -1,0 +1,136 @@
+{
+  "id": 101826667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":348885.979977,
+    "geom:bbox":"18.5371749412,49.4115825968,18.5539324892,49.417724562",
+    "geom:latitude":49.41433,
+    "geom:longitude":18.545352,
+    "iso:country":"SK",
+    "lbl:latitude":49.413852,
+    "lbl:longitude":18.546622,
+    "mps:latitude":49.413852,
+    "mps:longitude":18.546622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:ces_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:cze_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:deu_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:dut_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:eng_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:fra_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:fre_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:ger_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "Kornyav\u00f6lgy"
+    ],
+    "name:ita_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:may_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:msa_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:nan_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:nld_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:pol_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:slo_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u045a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Cadca",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kor\u0148a",
+    "qs:la_lc":"*SK312509230",
+    "qs:level":"locality",
+    "qs:loc":"Kor\u0148a",
+    "qs:loc_alt":"Korna",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":802,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402935,
+        "qs:id":6,
+        "wd:id":"Q643641"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4316c0d1d0e47786c2fdd8ca3d6a2509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":101826667,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101826667,
+    "wof:lastmodified":1527642505,
+    "wof:name":"Kor\u0148a",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5371749411504,
+    49.41158259680685,
+    18.55393248919296,
+    49.4177245619714
+],
+  "geometry": {"coordinates":[[[18.55393248919296,49.4156266477932],[18.55361765102441,49.41384199379138],[18.54950704585247,49.41415522992196],[18.54934971153085,49.41326289542712],[18.54797952372445,49.41336727197665],[18.54766492606524,49.41158259680685],[18.54492463291194,49.41179129116659],[18.54508187886012,49.41268363344795],[18.5409713250865,49.41299655673896],[18.54081415303409,49.41210420786058],[18.53807380635953,49.41231273575829],[18.53854519641538,49.41498979380555],[18.5371749411504,49.41509403937789],[18.53748918807469,49.41687874617782],[18.53885949261422,49.41677449620954],[18.53870234089823,49.41588214530367],[18.54144288464875,49.41567359981912],[18.54128569089352,49.41478125271823],[18.54539639246821,49.41446831623205],[18.54555366012875,49.41536065673489],[18.54966438741553,49.4150475638238],[18.55013645555653,49.4177245619714],[18.55150676117842,49.4176201577697],[18.55134937325187,49.41672782784809],[18.55271964887834,49.41662340919999],[18.55256224356077,49.41573108088687],[18.55393248919296,49.4156266477932]]],"type":"Polygon"}
+}

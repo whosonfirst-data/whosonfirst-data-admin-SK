@@ -1,0 +1,71 @@
+{
+  "id": 1310515285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86945,48.73179,18.86945,48.73179",
+    "geom:latitude":48.73179,
+    "geom:longitude":18.86945,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kunesov",
+    "gn:country_code":"SK",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059217,
+    "gn:latitude":48.73179,
+    "gn:longitude":18.86945,
+    "gn:modification_date":"2008-05-16",
+    "gn:name":"Kune\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuneschhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059217,
+        "wk:page":"Kune%C5%A1ov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f2c60a5bf1cc38f61a3113e382d47f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1310515285,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1310515285,
+    "wof:lastmodified":1537700410,
+    "wof:name":"Kunesov",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86945,
+    48.73179,
+    18.86945,
+    48.73179
+],
+  "geometry": {"coordinates":[18.86945,48.73179],"type":"Point"}
+}

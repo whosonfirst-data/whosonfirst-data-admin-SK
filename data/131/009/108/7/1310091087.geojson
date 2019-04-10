@@ -1,0 +1,71 @@
+{
+  "id": 1310091087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82841,48.94368,18.82841,48.94368",
+    "geom:latitude":48.94368,
+    "geom:longitude":18.82841,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Moskovec",
+    "gn:country_code":"SK",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058639,
+    "gn:latitude":48.94368,
+    "gn:longitude":18.82841,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mo\u0161kovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u0161kovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058639,
+        "wk:page":"Mo%C5%A1kovec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"303d0748b2f1ebee790e0d73115b1c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080539,
+            "locality_id":1310091087,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1310091087,
+    "wof:lastmodified":1537700401,
+    "wof:name":"Moskovec",
+    "wof:parent_id":102080539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82841,
+    48.94368,
+    18.82841,
+    48.94368
+],
+  "geometry": {"coordinates":[18.82841,48.94368],"type":"Point"}
+}

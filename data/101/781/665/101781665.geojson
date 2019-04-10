@@ -1,0 +1,111 @@
+{
+  "id": 101781665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":458608.685152,
+    "geom:bbox":"18.463382441,48.7253694076,18.4744787788,48.7376974207",
+    "geom:latitude":48.731652,
+    "geom:longitude":18.469499,
+    "iso:country":"SK",
+    "lbl:latitude":48.730843,
+    "lbl:longitude":18.469415,
+    "mps:latitude":48.730843,
+    "mps:longitude":18.469415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:hbs_x_preferred":[
+        "Njitranske Su\u010dani"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitraszucs\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:slk_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:unk_x_variant":[
+        "Su\u010dany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nitrianske Su\u010dany",
+    "qs:la_lc":"*SK227514241",
+    "qs:level":"locality",
+    "qs:loc":"Nitrianske Su\u010dany",
+    "qs:loc_alt":"Nitrianske Sucany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058522,
+        "gp:id":821215,
+        "qs:id":940062,
+        "wd:id":"Q1043746",
+        "wk:page":"Nitrianske Su\u010dany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dc1da52a9258af40555186d4475ebbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101781665,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781665,
+    "wof:lastmodified":1527715631,
+    "wof:name":"Nitrianske Su\u010dany",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46338244097961,
+    48.72536940758528,
+    18.47447877884929,
+    48.73769742070601
+],
+  "geometry": {"coordinates":[[[18.46924723534335,48.73749105908541],[18.46894195661287,48.7357055891224],[18.47029368933045,48.73560238799013],[18.47014103653817,48.73470965420847],[18.47149274034217,48.7346064388185],[18.4711874079087,48.7328209736545],[18.47253905899345,48.73271774614051],[18.4722337066392,48.73093228275343],[18.47358530500952,48.73082904311667],[18.47312725698953,48.72815084976617],[18.47447877884929,48.72804760014134],[18.47402072173332,48.72536940758528],[18.47266927127032,48.72547265080954],[18.47297458816138,48.72725811740349],[18.46756854489894,48.72767094348615],[18.46772111852374,48.72856368437959],[18.46636957115447,48.72866685206128],[18.46728501536802,48.73402329714594],[18.46593332006478,48.73412646123035],[18.46608589450784,48.73501920203233],[18.46338244097961,48.73522548529178],[18.46353497471955,48.7361182297355],[18.4662384758696,48.73591194221223],[18.46654365935234,48.73769742070601],[18.46924723534335,48.73749105908541]]],"type":"Polygon"}
+}

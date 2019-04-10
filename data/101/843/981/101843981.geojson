@@ -1,0 +1,168 @@
+{
+  "id": 101843981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1156359.636558,
+    "geom:bbox":"20.5465054634,49.2972479782,20.5694793139,49.3117378309",
+    "geom:latitude":49.305937,
+    "geom:longitude":20.560924,
+    "gn:population":1296,
+    "iso:country":"SK",
+    "lbl:latitude":49.306687,
+    "lbl:longitude":20.562664,
+    "mps:latitude":49.306687,
+    "mps:longitude":20.562664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:deu_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:dut_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:eng_x_preferred":[
+        "Vysne Ruzbachy"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:fra_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:fre_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:ger_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151z\u00fag\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:may_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:msa_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:nan_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:nld_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:pol_x_preferred":[
+        "Dru\u017cbaki Wy\u017cne"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u044b\u0448\u043d\u0457 \u0420\u0443\u0436\u0431\u0430\u0445\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0448\u043d\u0435 \u0420\u0443\u0436\u0431\u0430\u0445\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u045a\u0435 \u0420\u0443\u0436\u0431\u0430\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0456 \u0420\u0443\u0436\u0431\u0430\u0445\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Druzbaki Wyzny",
+        "Vysne Ruzbachy",
+        "Vysnie Ruzbachy"
+    ],
+    "name:und_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "name:und_x_variant":[
+        "Druzbaki Wy\u017cny",
+        "Vy\u0161nie Ru\u017ebachy"
+    ],
+    "name:unk_x_variant":[
+        "Druzbaki Wy\u017cny"
+    ],
+    "name:war_x_preferred":[
+        "Vy\u0161n\u00e9 Ru\u017ebachy"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Star\u00e1 Lubovna",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Vy\u0161n\u00e9 Ru\u017ebachy",
+    "qs:la_lc":"*SK41A527092",
+    "qs:level":"locality",
+    "qs:loc":"Vy\u0161n\u00e9 Ru\u017ebachy",
+    "qs:loc_alt":"Vysne Ruzbachy",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0710c5da-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":723143,
+        "gp:id":823208,
+        "qs:id":57397,
+        "qs_pg:id":57397,
+        "wd:id":"Q746119",
+        "wk:page":"Vy\u0161n\u00e9 Ru\u017ebachy"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ef986ffe9a7dbc983012df82e6cb7ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":101843981,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101843981,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642602,
+    "wof:name":"Vy\u0161n\u00e9 Ru\u017ebachy",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:population":1296,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54650546340883,
+    49.2972479782369,
+    20.56947931393034,
+    49.31173783092402
+],
+  "geometry": {"coordinates":[[[20.56947931393034,49.31057832389587],[20.56657422780864,49.2972479782369],[20.56521127018277,49.29737683787596],[20.56559845169329,49.29915423257495],[20.56423543934125,49.29928308111283],[20.56462260807547,49.30106047816741],[20.56325954099174,49.30118931560293],[20.56345311454197,49.30207801568815],[20.5511849995184,49.30323683443896],[20.55137836503258,49.3041255580311],[20.55001518434193,49.30425423586803],[20.55020853459718,49.30514296139643],[20.5488453232669,49.30527162542751],[20.54903865826128,49.30616035289188],[20.54767541629025,49.30628900311677],[20.54786873602222,49.30717773251723],[20.54650546340883,49.30730636893503],[20.54669876787602,49.30819510027158],[20.55078863842243,49.30780913343034],[20.55059526163672,49.30692041017744],[20.55741146123472,49.30627681556058],[20.55818550356275,49.30983165010178],[20.55682218030523,49.30996041281355],[20.55720920636003,49.31173783092402],[20.56947931393034,49.31057832389587]]],"type":"Polygon"}
+}

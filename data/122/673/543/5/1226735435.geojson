@@ -1,0 +1,71 @@
+{
+  "id": 1226735435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68842,49.09235,18.68842,49.09235",
+    "geom:latitude":49.09235,
+    "geom:longitude":18.68842,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kamenna Poruba",
+    "gn:country_code":"SK",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059579,
+    "gn:latitude":49.09235,
+    "gn:longitude":18.68842,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kamenn\u00e1 Poruba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamenn\u00e1 Poruba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059579,
+        "wk:page":"Kamenn%C3%A1_Poruba%2C_%C5%BDilina_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2a18eff8e3058ad5f4ef62610f539b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1226735435,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1226735435,
+    "wof:lastmodified":1537700415,
+    "wof:name":"Kamenna Poruba",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68842,
+    49.09235,
+    18.68842,
+    49.09235
+],
+  "geometry": {"coordinates":[18.68842,49.09235],"type":"Point"}
+}

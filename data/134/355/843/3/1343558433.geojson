@@ -1,0 +1,67 @@
+{
+  "id": 1343558433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67929,49.28914,18.67929,49.28914",
+    "geom:latitude":49.28914,
+    "geom:longitude":18.67929,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Luky",
+    "gn:country_code":"SK",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058965,
+    "gn:latitude":49.28914,
+    "gn:longitude":18.67929,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"L\u00faky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058965
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5cfae4cb817ac694b69868ecda0c1f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1343558433,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343558433,
+    "wof:lastmodified":1536601733,
+    "wof:name":"Luky",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67929,
+    49.28914,
+    18.67929,
+    49.28914
+],
+  "geometry": {"coordinates":[18.67929,49.28914],"type":"Point"}
+}

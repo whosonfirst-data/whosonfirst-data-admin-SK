@@ -1,0 +1,71 @@
+{
+  "id": 1193154695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04822,48.72767,20.04822,48.72767",
+    "geom:latitude":48.72767,
+    "geom:longitude":20.04822,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muranska Lehota",
+    "gn:country_code":"SK",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724092,
+    "gn:latitude":48.72767,
+    "gn:longitude":20.04822,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mur\u00e1nska Lehota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mur\u00e1nska Lehota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724092,
+        "wk:page":"Mur%C3%A1nska_Lehota"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"53804e919f7c61935bfba2b1900ede7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1193154695,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1193154695,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Muranska Lehota",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04822,
+    48.72767,
+    20.04822,
+    48.72767
+],
+  "geometry": {"coordinates":[20.04822,48.72767],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 101780475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":976929.231715,
+    "geom:bbox":"20.9501728084,49.180998652,20.966164692,49.2015548468",
+    "geom:latitude":49.190332,
+    "geom:longitude":20.958106,
+    "iso:country":"SK",
+    "lbl:latitude":49.187916,
+    "lbl:longitude":20.956228,
+    "mps:latitude":49.187916,
+    "mps:longitude":20.956228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kamenica"
+    ],
+    "name:cze_x_preferred":[
+        "Kamenica"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenica"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenica"
+    ],
+    "name:epo_x_preferred":[
+        "Kamenica"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenica"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenica"
+    ],
+    "name:hun_x_preferred":[
+        "Tark\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenica"
+    ],
+    "name:may_x_preferred":[
+        "Kamenica"
+    ],
+    "name:pol_x_preferred":[
+        "Kamenica"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Kamenica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Sabinov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kamenica",
+    "qs:la_lc":"*SK418524611",
+    "qs:level":"locality",
+    "qs:loc":"Kamenica",
+    "qs:loc_alt":"Kamenica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724536,
+        "gp:id":820109,
+        "qs:id":1083725,
+        "wd:id":"Q1186911",
+        "wk:page":"Kamenica, Sabinov District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7bac1402c168d56fea6cbe8d4ad01d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":101780475,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780475,
+    "wof:lastmodified":1553815496,
+    "wof:name":"Kamenica",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95017280838067,
+    49.18099865202652,
+    20.96616469200052,
+    49.20155484676189
+],
+  "geometry": {"coordinates":[[[20.96616469200052,49.19338247198408],[20.96596444725117,49.19249455389587],[20.96460526012675,49.19262821869228],[20.96340412649295,49.18730067662256],[20.9620450758531,49.18743430826345],[20.9618449427121,49.1865463789959],[20.96048590920077,49.18667999141888],[20.9602858090476,49.18579205856469],[20.95892679266552,49.18592565177056],[20.95872672549751,49.18503771533005],[20.95736772624571,49.18517128931927],[20.95716769206058,49.18428334929342],[20.95580870993962,49.18441690406632],[20.95560870873521,49.18352896045542],[20.95424974374561,49.18366249601314],[20.95364986640459,49.18099865202652],[20.95229096627418,49.1811321628021],[20.95249089241315,49.18202011438137],[20.95113196168819,49.18215361151033],[20.95153179356765,49.1839295178363],[20.95017280838067,49.18406300410135],[20.95157233988664,49.1902786705345],[20.95429063770973,49.19001164259782],[20.9544906549811,49.19089958617798],[20.95992726528459,49.19036532196611],[20.96052765829882,49.19302911447943],[20.95916844420748,49.19316271354069],[20.95956870407485,49.19493857678805],[20.95820943548881,49.19507216498778],[20.95921012540839,49.19951182303799],[20.95785073067594,49.19964540873445],[20.95805087214666,49.20053334073157],[20.95669144678749,49.20066691277776],[20.95689157349648,49.20155484676189],[20.9623293300171,49.20102044880775],[20.961128133415,49.19569289979034],[20.96520595013027,49.19529197891819],[20.96480548100146,49.19351613956815],[20.96616469200052,49.19338247198408]]],"type":"Polygon"}
+}

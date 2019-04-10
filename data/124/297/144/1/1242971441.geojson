@@ -1,0 +1,71 @@
+{
+  "id": 1242971441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33964,48.31038,18.33964,48.31038",
+    "geom:latitude":48.31038,
+    "geom:longitude":18.33964,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Slepcany",
+    "gn:country_code":"SK",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057579,
+    "gn:latitude":48.31038,
+    "gn:longitude":18.33964,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slep\u010dany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slep\u010dany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057579,
+        "wk:page":"Slep%C4%8Dany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"305b654b7a2a75188e4d9365f226ff88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1242971441,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1242971441,
+    "wof:lastmodified":1537700390,
+    "wof:name":"Slepcany",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33964,
+    48.31038,
+    18.33964,
+    48.31038
+],
+  "geometry": {"coordinates":[18.33964,48.31038],"type":"Point"}
+}

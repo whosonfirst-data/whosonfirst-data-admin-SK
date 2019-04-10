@@ -1,0 +1,138 @@
+{
+  "id": 101780555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":498414.093949,
+    "geom:bbox":"19.7797330166,49.3634485983,19.7982167975,49.3697993041",
+    "geom:latitude":49.366261,
+    "geom:longitude":19.789075,
+    "iso:country":"SK",
+    "lbl:latitude":49.366433,
+    "lbl:longitude":19.789215,
+    "mps:latitude":49.366433,
+    "mps:longitude":19.789215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:ces_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:cze_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:deu_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:dut_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:eng_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:epo_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:fra_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:fre_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:ger_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:hun_x_preferred":[
+        "Szuchahora"
+    ],
+    "name:ita_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:may_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:msa_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:nld_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:pol_x_preferred":[
+        "Sucha G\u00f3ra Orawska"
+    ],
+    "name:slo_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0445\u0430 \u0425\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sucha G\u00f3ra"
+    ],
+    "name:war_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Tvrdo\u0161\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Such\u00e1 Hora",
+    "qs:la_lc":"*SK31A510076",
+    "qs:level":"locality",
+    "qs:loc":"Such\u00e1 Hora",
+    "qs:loc_alt":"Sucha Hora",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057368,
+        "gp:id":822499,
+        "qs:id":6,
+        "wd:id":"Q1022840",
+        "wk:page":"Such\u00e1 Hora"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8d5a092ff846f909e3943560e2b3612c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080605,
+            "locality_id":101780555,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780555,
+    "wof:lastmodified":1527715871,
+    "wof:name":"Such\u00e1 Hora",
+    "wof:parent_id":102080605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77973301655874,
+    49.3634485982974,
+    19.79821679752501,
+    49.36979930411763
+],
+  "geometry": {"coordinates":[[[19.79174386207887,49.369560371695],[19.79156399823506,49.36867019800752],[19.79293056575693,49.36855070945603],[19.79275068582393,49.36766053758822],[19.79821679752501,49.36718242776146],[19.79785686771618,49.36540210204191],[19.79512392141868,49.36564118004162],[19.79494401756506,49.36475101112171],[19.79357755959677,49.36487052276249],[19.79339768832904,49.36398035064053],[19.7892983508242,49.3643387786405],[19.78911856080811,49.3634485982974],[19.78365278943141,49.3639262603474],[19.78383248210514,49.3648164507257],[19.77973301655874,49.36517453084912],[19.77991264446013,49.36606472806],[19.78127916340821,49.36594538207748],[19.78163849261017,49.36772576941371],[19.78710470216379,49.36724819975376],[19.78746425906235,49.36902856426042],[19.78883084488695,49.36890912540997],[19.78901066004846,49.36979930411763],[19.79174386207887,49.369560371695]]],"type":"Polygon"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101780493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1395659.946573,
+    "geom:bbox":"21.1291101889,49.05523784,21.1446908638,49.0763314595",
+    "geom:latitude":49.066196,
+    "geom:longitude":21.13694,
+    "iso:country":"SK",
+    "lbl:latitude":49.067858,
+    "lbl:longitude":21.137058,
+    "mps:latitude":49.067858,
+    "mps:longitude":21.137058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:hun_x_preferred":[
+        "Szentmih\u00e1lyfalva"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:may_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0448\u043a\u0435 \u041c\u0438\u0445\u0430\u0459\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0456 \u041c\u0438\u0445\u0430\u043b\u044f\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Micha\u013eany nad Torysou"
+    ],
+    "name:war_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Sabinov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Medzany",
+    "qs:la_lc":"*SK417556823",
+    "qs:level":"locality",
+    "qs:loc":"\u0160ari\u0161sk\u00e9 Micha\u013eany",
+    "qs:loc_alt":"Sarisske Michalany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723649,
+        "gp:id":822110,
+        "qs:id":8,
+        "wd:id":"Q391231",
+        "wk:page":"\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b024630b06439e44cb0ebe314c65949e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":101780493,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780493,
+    "wof:lastmodified":1527715874,
+    "wof:name":"\u0160ari\u0161sk\u00e9 Micha\u013eany",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12911018894903,
+    49.05523783999496,
+    21.14469086380404,
+    49.07633145947182
+],
+  "geometry": {"coordinates":[[[21.14469086380404,49.07490081663246],[21.14387993241218,49.0713504393496],[21.14252445861848,49.07148621245705],[21.14090322739565,49.06438539585474],[21.13954793627329,49.06452113002712],[21.13894019750359,49.06185830177463],[21.14029541759049,49.06172257605954],[21.14009283272975,49.06083496781611],[21.14144802234523,49.0606992285463],[21.14063768023254,49.05714879862256],[21.14199276835973,49.05701305425572],[21.14158760517552,49.05523783999496],[21.13887751680687,49.05550930108268],[21.13908004645873,49.05639691426154],[21.13501479195008,49.05680399155909],[21.13521725978671,49.05769161236867],[21.13250700881247,49.057962921007],[21.13270943849864,49.05885054662855],[21.13135427915176,49.05898617920519],[21.13175911876056,49.06076143361599],[21.13311432545993,49.06062579540583],[21.13392420975396,49.06417628309794],[21.13121360012906,49.06444756568118],[21.13141604683574,49.06533519118477],[21.13006070815283,49.06547081073023],[21.13046558179303,49.06724606490661],[21.12911018894903,49.06738167371009],[21.13012241558931,49.07181980886389],[21.13147792687494,49.07168418597428],[21.13168042349281,49.07257180772405],[21.13710249544067,49.07202914111303],[21.13730509602516,49.07291675076726],[21.13866062070878,49.07278104035026],[21.1394712098882,49.07633145947182],[21.14218242839178,49.07605996694258],[21.14197971989665,49.07517236903556],[21.14469086380404,49.07490081663246]]],"type":"Polygon"}
+}

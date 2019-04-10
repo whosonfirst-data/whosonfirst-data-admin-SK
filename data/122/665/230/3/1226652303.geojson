@@ -1,0 +1,71 @@
+{
+  "id": 1226652303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19908,48.64863,18.19908,48.64863",
+    "geom:latitude":48.64863,
+    "geom:longitude":18.19908,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chuda Lehota",
+    "gn:country_code":"SK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060693,
+    "gn:latitude":48.64863,
+    "gn:longitude":18.19908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chud\u00e1 Lehota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chud\u00e1 Lehota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060693,
+        "wk:page":"Chud%C3%A1_Lehota"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a3aec73ba71f17cb188b270061340066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1226652303,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226652303,
+    "wof:lastmodified":1537700432,
+    "wof:name":"Chuda Lehota",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19908,
+    48.64863,
+    18.19908,
+    48.64863
+],
+  "geometry": {"coordinates":[18.19908,48.64863],"type":"Point"}
+}

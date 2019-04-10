@@ -1,0 +1,138 @@
+{
+  "id": 1126046177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63247,48.85171,19.63247,48.85171",
+    "geom:latitude":48.85171,
+    "geom:longitude":19.63247,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":542,
+    "gn:population":542,
+    "iso:country":"SK",
+    "lbl:latitude":48.85171,
+    "lbl:longitude":19.63247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:cze_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:dut_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:ger_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1mos"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:may_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:slo_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0442\u043e \u043f\u043e\u0434 \u0414\u0458\u0443\u043c\u0431\u0458\u0435\u0440\u043e\u043c"
+    ],
+    "name:war_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058604,
+    "qs_pg:gn_pop":542,
+    "qs_pg:name":"M\u00fdto pod \u010eumbierom",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":326256,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821142,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058604,
+        "gp:id":821142,
+        "qs_pg:id":326256,
+        "wd:id":"Q1074354"
+    },
+    "wof:country":"SK",
+    "wof:created":1497302444,
+    "wof:geomhash":"0aed30c4fce3899203763d1d1cd389ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1126046177,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1126046177,
+    "wof:lastmodified":1514505189,
+    "wof:name":"M\u00fdto pod \u010eumbierom",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63247,
+    48.85171,
+    19.63247,
+    48.85171
+],
+  "geometry": {"coordinates":[19.63247,48.85171],"type":"Point"}
+}

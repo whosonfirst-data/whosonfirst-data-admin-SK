@@ -1,0 +1,72 @@
+{
+  "id": 1344071237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11591,48.26265,20.11591,48.26265",
+    "geom:latitude":48.26265,
+    "geom:longitude":20.11591,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drna",
+    "gn:country_code":"SK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724864,
+    "gn:latitude":48.26265,
+    "gn:longitude":20.11591,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dr\u0148a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar\u0148a",
+        "Dr\u0148a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724864,
+        "wk:page":"Dr%C5%88a"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c4a81820d9d9d48cac9000fcba8da5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1344071237,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1344071237,
+    "wof:lastmodified":1537700371,
+    "wof:name":"Drna",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11591,
+    48.26265,
+    20.11591,
+    48.26265
+],
+  "geometry": {"coordinates":[20.11591,48.26265],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225864911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43841,49.32606,18.43841,49.32606",
+    "geom:latitude":49.32606,
+    "geom:longitude":18.43841,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Magale",
+    "gn:country_code":"SK",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058928,
+    "gn:latitude":49.32606,
+    "gn:longitude":18.43841,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Magale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058928
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d191d6da933866ea6fe76c00402ac69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080581,
+            "locality_id":1225864911,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1225864911,
+    "wof:lastmodified":1536985306,
+    "wof:name":"Magale",
+    "wof:parent_id":102080581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43841,
+    49.32606,
+    18.43841,
+    49.32606
+],
+  "geometry": {"coordinates":[18.43841,49.32606],"type":"Point"}
+}

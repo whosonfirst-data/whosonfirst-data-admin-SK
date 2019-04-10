@@ -1,0 +1,147 @@
+{
+  "id": 101826673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":628003.473572,
+    "geom:bbox":"19.3691485906,49.383710073,19.3896784213,49.394744596",
+    "geom:latitude":49.387607,
+    "geom:longitude":19.381514,
+    "iso:country":"SK",
+    "lbl:latitude":49.387329,
+    "lbl:longitude":19.38237,
+    "mps:latitude":49.387329,
+    "mps:longitude":19.38237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Breza"
+    ],
+    "name:ces_x_preferred":[
+        "Breza"
+    ],
+    "name:cze_x_preferred":[
+        "Breza"
+    ],
+    "name:deu_x_preferred":[
+        "Breza"
+    ],
+    "name:dut_x_preferred":[
+        "Breza"
+    ],
+    "name:eng_x_preferred":[
+        "Breza"
+    ],
+    "name:epo_x_preferred":[
+        "Breza"
+    ],
+    "name:fra_x_preferred":[
+        "Breza"
+    ],
+    "name:fre_x_preferred":[
+        "Breza"
+    ],
+    "name:ger_x_preferred":[
+        "Breza"
+    ],
+    "name:hbs_x_preferred":[
+        "Breza"
+    ],
+    "name:hun_x_preferred":[
+        "Breza"
+    ],
+    "name:ita_x_preferred":[
+        "Breza"
+    ],
+    "name:may_x_preferred":[
+        "Breza"
+    ],
+    "name:msa_x_preferred":[
+        "Breza"
+    ],
+    "name:nan_x_preferred":[
+        "Breza"
+    ],
+    "name:nld_x_preferred":[
+        "Breza"
+    ],
+    "name:pol_x_preferred":[
+        "Brzeza"
+    ],
+    "name:slk_x_preferred":[
+        "Breza"
+    ],
+    "name:slo_x_preferred":[
+        "Breza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Breza"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Breza"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"N\u00e1mestovo",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Breza",
+    "qs:la_lc":"*SK317509591",
+    "qs:level":"locality",
+    "qs:loc":"Breza",
+    "qs:loc_alt":"Breza",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060959,
+        "gp:id":818733,
+        "qs:id":1021651,
+        "wd:id":"Q427243",
+        "wk:page":"Breza, Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"096c8a9eeb37fb241587ca05ef990b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080615,
+            "locality_id":101826673,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101826673,
+    "wof:lastmodified":1553815528,
+    "wof:name":"Breza",
+    "wof:parent_id":102080615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36914859059749,
+    49.3837100730114,
+    19.38967842131967,
+    49.3947445959821
+],
+  "geometry": {"coordinates":[[[19.38967842131967,49.38948820206713],[19.38950580978644,49.38859729903686],[19.38813787959583,49.38871188988196],[19.38744761050185,49.38514826154267],[19.38607977222114,49.38526282615095],[19.38590724919987,49.38437191501231],[19.38317160394126,49.38460098962656],[19.38299913772238,49.3837100730114],[19.37205651795546,49.38462568842226],[19.37188425518463,49.38373475188934],[19.36914859059749,49.38396348498281],[19.36932080448224,49.38485442632748],[19.37068866414404,49.38474006567253],[19.37086091038231,49.3856310039551],[19.37496452759086,49.38528781520017],[19.37513685507326,49.38617874560663],[19.37787261950001,49.38594986531291],[19.3783897961107,49.38862263814667],[19.37975774287634,49.38850816588251],[19.38096493661419,49.3947445959821],[19.38370115487112,49.39451556793597],[19.38283858951598,49.39006100238527],[19.38967842131967,49.38948820206713]]],"type":"Polygon"}
+}

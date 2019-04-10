@@ -1,0 +1,67 @@
+{
+  "id": 1293002693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51853,48.67775,20.51853,48.67775",
+    "geom:latitude":48.67775,
+    "geom:longitude":20.51853,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nadabula",
+    "gn:country_code":"SK",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724083,
+    "gn:latitude":48.67775,
+    "gn:longitude":20.51853,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nadabula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724083
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2a4f8355df0908e69eb3f48c3a8a7c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1293002693,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1293002693,
+    "wof:lastmodified":1536988086,
+    "wof:name":"Nadabula",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51853,
+    48.67775,
+    20.51853,
+    48.67775
+],
+  "geometry": {"coordinates":[20.51853,48.67775],"type":"Point"}
+}

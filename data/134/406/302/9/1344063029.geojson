@@ -1,0 +1,72 @@
+{
+  "id": 1344063029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09924,48.13017,18.09924,48.13017",
+    "geom:latitude":48.13017,
+    "geom:longitude":18.09924,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nove Rastislavice",
+    "gn:country_code":"SK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058474,
+    "gn:latitude":48.13017,
+    "gn:longitude":18.09924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nov\u00e9 Rastislavice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nov\u00fd Dege\u0161",
+        "Nov\u00e9 Rastislavice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058474,
+        "wk:page":"Rastislavice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"41439748284157ff4f03f8eb0007742f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":1344063029,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1344063029,
+    "wof:lastmodified":1537700399,
+    "wof:name":"Nove Rastislavice",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09924,
+    48.13017,
+    18.09924,
+    48.13017
+],
+  "geometry": {"coordinates":[18.09924,48.13017],"type":"Point"}
+}

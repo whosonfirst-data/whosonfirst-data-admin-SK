@@ -1,0 +1,71 @@
+{
+  "id": 1243278235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12728,48.52018,20.12728,48.52018",
+    "geom:latitude":48.52018,
+    "geom:longitude":20.12728,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Spanie Pole",
+    "gn:country_code":"SK",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723531,
+    "gn:latitude":48.52018,
+    "gn:longitude":20.12728,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160panie Pole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160panie Pole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723531,
+        "wk:page":"%C5%A0panie_Pole"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c51dc132673fee8c7605cbe8e48601c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1243278235,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243278235,
+    "wof:lastmodified":1537700349,
+    "wof:name":"Spanie Pole",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12728,
+    48.52018,
+    20.12728,
+    48.52018
+],
+  "geometry": {"coordinates":[20.12728,48.52018],"type":"Point"}
+}

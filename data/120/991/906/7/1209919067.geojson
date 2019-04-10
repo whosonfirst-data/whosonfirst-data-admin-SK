@@ -1,0 +1,71 @@
+{
+  "id": 1209919067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66933,49.25102,21.66933,49.25102",
+    "geom:latitude":49.25102,
+    "geom:longitude":21.66933,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vyskovce",
+    "gn:country_code":"SK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723174,
+    "gn:latitude":49.25102,
+    "gn:longitude":21.66933,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vy\u0161kovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161kovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723174,
+        "wk:page":"Vy%C5%A1kovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7265e9fb9fe2212168939f3a61cab86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1209919067,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1209919067,
+    "wof:lastmodified":1537700343,
+    "wof:name":"Vyskovce",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66933,
+    49.25102,
+    21.66933,
+    49.25102
+],
+  "geometry": {"coordinates":[21.66933,49.25102],"type":"Point"}
+}

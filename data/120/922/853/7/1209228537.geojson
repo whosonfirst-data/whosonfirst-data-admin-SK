@@ -1,0 +1,67 @@
+{
+  "id": 1209228537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65305,48.28466,19.65305,48.28466",
+    "geom:latitude":48.28466,
+    "geom:longitude":19.65305,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Panicke Dravce",
+    "gn:country_code":"SK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058287,
+    "gn:latitude":48.28466,
+    "gn:longitude":19.65305,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Panick\u00e9 Dravce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panyit-Dar\u00f3c",
+        "Panitsk\u00e9 Dravce",
+        "Panick\u00e9 Dravce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058287,
+        "wk:page":"Panick%C3%A9_Dravce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f8d0afbebeec6e92a985cb0a61e5dfdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209228537
+        }
+    ],
+    "wof:id":1209228537,
+    "wof:lastmodified":1537700397,
+    "wof:name":"Panicke Dravce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65305,
+    48.28466,
+    19.65305,
+    48.28466
+],
+  "geometry": {"coordinates":[19.65305,48.28466],"type":"Point"}
+}

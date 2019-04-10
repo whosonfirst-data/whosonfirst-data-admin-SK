@@ -1,0 +1,142 @@
+{
+  "id": 101833915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1041234.218967,
+    "geom:bbox":"17.5799024578,48.0149078661,17.6002772564,48.0258251527",
+    "geom:latitude":48.020351,
+    "geom:longitude":17.590516,
+    "iso:country":"SK",
+    "lbl:latitude":48.020376,
+    "lbl:longitude":17.59067,
+    "mps:latitude":48.020376,
+    "mps:longitude":17.59067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vydrany"
+    ],
+    "name:deu_x_preferred":[
+        "Vydrany"
+    ],
+    "name:dut_x_preferred":[
+        "Vydrany"
+    ],
+    "name:eng_x_preferred":[
+        "Vydrany"
+    ],
+    "name:epo_x_preferred":[
+        "Vydrany"
+    ],
+    "name:fra_x_preferred":[
+        "Vydrany"
+    ],
+    "name:fre_x_preferred":[
+        "Vydrany"
+    ],
+    "name:ger_x_preferred":[
+        "Vydrany"
+    ],
+    "name:hbs_x_preferred":[
+        "Vidrani"
+    ],
+    "name:hun_x_preferred":[
+        "Nemesh\u00f3dos"
+    ],
+    "name:ita_x_preferred":[
+        "Vydrany"
+    ],
+    "name:may_x_preferred":[
+        "Vydrany"
+    ],
+    "name:msa_x_preferred":[
+        "Vydrany"
+    ],
+    "name:nld_x_preferred":[
+        "Vydrany"
+    ],
+    "name:por_x_preferred":[
+        "Vydrany"
+    ],
+    "name:slk_x_preferred":[
+        "Vydrany"
+    ],
+    "name:slo_x_preferred":[
+        "Vydrany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0434\u0440\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Hodos"
+    ],
+    "name:war_x_preferred":[
+        "Vydrany"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Vydrany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Dunajsk\u00e1 Streda",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Ve\u013ek\u00e9 Blahovo",
+    "qs:la_lc":"*SK211501981",
+    "qs:level":"locality",
+    "qs:loc":"Vydrany",
+    "qs:loc_alt":"Vydrany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":308,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056674,
+        "gp:id":823158,
+        "qs:id":940137,
+        "wd:id":"Q1070374",
+        "wk:page":"Vydrany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1ed6f45b23b8dd037bebc8b4efd9a6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":101833915,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101833915,
+    "wof:lastmodified":1527642923,
+    "wof:name":"Vydrany",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5799024577762,
+    48.01490786605535,
+    17.60027725640424,
+    48.02582515266164
+],
+  "geometry": {"coordinates":[[[17.58652169717993,48.01524085140306],[17.5799024577762,48.01957936178263],[17.58013044684668,48.02110456031369],[17.58146466123685,48.02101236148502],[17.58159839308007,48.02190676148086],[17.58560107921352,48.02163006239573],[17.58573488636733,48.02252445618035],[17.58706912939681,48.02243218895109],[17.58720296564485,48.02332658026307],[17.58853722738718,48.02323429499774],[17.58867109273211,48.02412868383647],[17.59000537318713,48.02403638053443],[17.5902731680639,48.02582515266164],[17.59160749034305,48.0257328294507],[17.5914735667983,48.02483844556002],[17.59547643789688,48.02456138454585],[17.59561043077679,48.02545576281989],[17.59827903572091,48.02527097090177],[17.59814499661928,48.02437659637371],[17.59947926937559,48.0242841780389],[17.5989430804832,48.02070668138794],[17.60027725640424,48.02061425438217],[17.60014320106279,48.0197198805842],[17.59880904824666,48.01981230571681],[17.59867502200433,48.01891792944247],[17.59600674937286,48.01910272747],[17.59587277533137,48.01820834684656],[17.59453865551728,48.01830071974223],[17.59440471056973,48.0174063366436],[17.59307060945889,48.01749869150376],[17.59293669360341,48.01660430592995],[17.59160261119587,48.01669664275545],[17.59133484365151,48.01490786605535],[17.58652169717993,48.01524085140306]]],"type":"Polygon"}
+}

@@ -1,0 +1,139 @@
+{
+  "id": 101781551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":299108.185654,
+    "geom:bbox":"18.5649422902,48.4956969762,18.5760107267,48.5019457206",
+    "geom:latitude":48.499185,
+    "geom:longitude":18.570407,
+    "iso:country":"SK",
+    "lbl:latitude":48.499963,
+    "lbl:longitude":18.570491,
+    "mps:latitude":48.499963,
+    "mps:longitude":18.570491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:cze_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:ger_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:hun_x_preferred":[
+        "Kis\u00fcl\u00e9s"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0409\u0435\u0445\u043e\u0442\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00e1 Lehota"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017darnovica",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Mal\u00e1 Lehota",
+    "qs:la_lc":"*SK32C517062",
+    "qs:level":"locality",
+    "qs:loc":"Mal\u00e1 Lehota",
+    "qs:loc_alt":"Mala Lehota",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058891,
+        "gp:id":820822,
+        "qs:id":343116,
+        "qs_pg:id":343116,
+        "wd:id":"Q1044841",
+        "wk:page":"Mal\u00e1 Lehota"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"81d96aa9c5e902d2bf008911ca018ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":101781551,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101781551,
+    "wof:lastmodified":1527715623,
+    "wof:name":"Mal\u00e1 Lehota",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56494229016374,
+    48.4956969761966,
+    18.57601072669979,
+    48.50194572064663
+],
+  "geometry": {"coordinates":[[[18.57481892546269,48.50053122232532],[18.57466550207226,48.49963855653925],[18.57601072669979,48.49953414529142],[18.5757038536608,48.49774881608005],[18.57435867605273,48.49785322304223],[18.57420527342293,48.49696055533093],[18.57286011422843,48.49706494385271],[18.57301349334955,48.49795761370632],[18.56897791467316,48.49827068790933],[18.56867130440355,48.49648533471037],[18.56732614834465,48.49658965589919],[18.56717287709012,48.4956969761966],[18.56582773944848,48.49580127894706],[18.56628750342492,48.49847932255256],[18.56494229016374,48.4985836154263],[18.56509553513763,48.4994762974863],[18.56644077191044,48.49937200247206],[18.56659404731028,48.50026468175014],[18.56793930250427,48.50016036829606],[18.56824592107586,48.50194572064663],[18.57362707902587,48.50152828670412],[18.57347367222695,48.50063561941704],[18.57481892546269,48.50053122232532]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260085127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72292,49.29448,21.72292,49.29448",
+    "geom:latitude":49.29448,
+    "geom:longitude":21.72292,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gribov",
+    "gn:country_code":"SK",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724767,
+    "gn:latitude":49.29448,
+    "gn:longitude":21.72292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gribov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724767,
+        "wk:page":"Gribov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"271fb4abedfbb09d64f24ae65c59309b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1260085127,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1260085127,
+    "wof:lastmodified":1537573581,
+    "wof:name":"Gribov",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72292,
+    49.29448,
+    21.72292,
+    49.29448
+],
+  "geometry": {"coordinates":[21.72292,49.29448],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226265493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80688,49.22422,21.80688,49.22422",
+    "geom:latitude":49.22422,
+    "geom:longitude":21.80688,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Varechovce",
+    "gn:country_code":"SK",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723298,
+    "gn:latitude":49.22422,
+    "gn:longitude":21.80688,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Varechovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723298,
+        "wk:page":"Varechovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e7d842809b18ec9d7839863de1ba9f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1226265493,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226265493,
+    "wof:lastmodified":1537573560,
+    "wof:name":"Varechovce",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80688,
+    49.22422,
+    21.80688,
+    49.22422
+],
+  "geometry": {"coordinates":[21.80688,49.22422],"type":"Point"}
+}

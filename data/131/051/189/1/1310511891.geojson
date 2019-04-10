@@ -1,0 +1,67 @@
+{
+  "id": 1310511891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27063,48.91754,20.27063,48.91754",
+    "geom:latitude":48.91754,
+    "geom:longitude":20.27063,
+    "gn:asciiname":"Vernar",
+    "gn:country_code":"SK",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723239,
+    "gn:latitude":48.91754,
+    "gn:longitude":20.27063,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Vern\u00e1r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723239,
+        "wk:page":"Vern%C3%A1r"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"53745cef5b1a7415d9cd890e09463504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1310511891,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310511891,
+    "wof:lastmodified":1537573560,
+    "wof:name":"Vernar",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27063,
+    48.91754,
+    20.27063,
+    48.91754
+],
+  "geometry": {"coordinates":[20.27063,48.91754],"type":"Point"}
+}

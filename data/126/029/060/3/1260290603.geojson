@@ -1,0 +1,67 @@
+{
+  "id": 1260290603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86204,48.14575,18.86204,48.14575",
+    "geom:latitude":48.14575,
+    "geom:longitude":18.86204,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dvor Vilma",
+    "gn:country_code":"SK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060268,
+    "gn:latitude":48.14575,
+    "gn:longitude":18.86204,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dvor Vilma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060268
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1869a9d24f42fc6ee08fdaef3f2cd5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1260290603,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1260290603,
+    "wof:lastmodified":1536702633,
+    "wof:name":"Dvor Vilma",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86204,
+    48.14575,
+    18.86204,
+    48.14575
+],
+  "geometry": {"coordinates":[18.86204,48.14575],"type":"Point"}
+}

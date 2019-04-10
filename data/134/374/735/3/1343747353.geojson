@@ -1,0 +1,71 @@
+{
+  "id": 1343747353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81056,48.84599,18.81056,48.84599",
+    "geom:latitude":48.84599,
+    "geom:longitude":18.81056,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pozehy",
+    "gn:country_code":"SK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058047,
+    "gn:latitude":48.84599,
+    "gn:longitude":18.81056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Po\u017eehy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Po\u017eehy",
+        "Po\u017eehy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058047
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"845e1684e39109f08faa9a891b130da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080539,
+            "locality_id":1343747353,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343747353,
+    "wof:lastmodified":1537700395,
+    "wof:name":"Pozehy",
+    "wof:parent_id":102080539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81056,
+    48.84599,
+    18.81056,
+    48.84599
+],
+  "geometry": {"coordinates":[18.81056,48.84599],"type":"Point"}
+}

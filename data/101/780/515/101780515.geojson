@@ -1,0 +1,143 @@
+{
+  "id": 101780515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":608110.693586,
+    "geom:bbox":"20.2407991717,49.0426885743,20.2572148366,49.0507084947",
+    "geom:latitude":49.046387,
+    "geom:longitude":20.248891,
+    "iso:country":"SK",
+    "lbl:latitude":49.046641,
+    "lbl:longitude":20.249451,
+    "mps:latitude":49.046641,
+    "mps:longitude":20.249451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:ces_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:deu_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:fra_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:hun_x_preferred":[
+        "Szepestapolca"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:msa_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:pol_x_preferred":[
+        "Spiska Cieplica"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u043f\u0456\u0441\u044c\u043a\u0430 \u0422\u0454\u043f\u043b\u0456\u0446\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0430 \u0422\u0458\u0435\u043f\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0438\u0441\u044c\u043a\u0430 \u0422\u0435\u043f\u043b\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00e1 Teplica"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Poprad",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00e1 Teplica",
+    "qs:la_lc":"*SK416523844",
+    "qs:level":"locality",
+    "qs:loc":"Spi\u0161sk\u00e1 Teplica",
+    "qs:loc_alt":"Spisska Teplica",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723522,
+        "gp:id":822359,
+        "qs:id":1271712,
+        "wd:id":"Q959490"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"767d6d1d25f2714e7c22042eec85a352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":101780515,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780515,
+    "wof:lastmodified":1527715878,
+    "wof:name":"Spi\u0161sk\u00e1 Teplica",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24079917165022,
+    49.04268857430276,
+    20.25721483658981,
+    49.0507084946949
+],
+  "geometry": {"coordinates":[[[20.25721483658981,49.05045849190094],[20.25702830518719,49.04956907734311],[20.25567147396936,49.04969408435034],[20.2549255286375,49.04613640827216],[20.25628226445099,49.04601141166302],[20.25609577548255,49.04512199338069],[20.25473906351772,49.04524698739073],[20.25455260688216,49.04435756576441],[20.25319591250116,49.04448254075709],[20.25300948819603,49.0435931157873],[20.24893943901941,49.04396793446153],[20.2487530947368,49.04307850095319],[20.2433263702498,49.0435780189419],[20.24314012983507,49.04268857430276],[20.24178345691689,49.04281341015815],[20.24215589852315,49.04459230388454],[20.24079917165022,49.04471712851284],[20.2413578260585,49.04738547131183],[20.24271462448678,49.04726063889564],[20.24290088342462,49.04815008241178],[20.24697131271819,49.04777547885493],[20.2473439991503,49.04955434807465],[20.25277134137872,49.04905462600379],[20.25295779273335,49.04994404910468],[20.25431463648431,49.04981907493766],[20.25450112017876,49.0507084946949],[20.25721483658981,49.05045849190094]]],"type":"Polygon"}
+}

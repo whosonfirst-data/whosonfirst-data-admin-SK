@@ -1,0 +1,68 @@
+{
+  "id": 1360003465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14252,48.7572,19.14252,48.7572",
+    "geom:latitude":48.7572,
+    "geom:longitude":19.14252,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"601.0",
+    "gn:asciiname":"Kostiviarska",
+    "gn:country_code":"SK",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059366,
+    "gn:latitude":48.7572,
+    "gn:longitude":19.14252,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Kostiviarska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059366
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2aa3b8e814ced98e5afeb41ac6e1088b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":1360003465,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1360003465,
+    "wof:lastmodified":1537060705,
+    "wof:name":"Kostiviarska",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14252,
+    48.7572,
+    19.14252,
+    48.7572
+],
+  "geometry": {"coordinates":[19.14252,48.7572],"type":"Point"}
+}

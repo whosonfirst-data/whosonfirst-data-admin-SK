@@ -1,0 +1,72 @@
+{
+  "id": 1226660057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17294,48.29802,20.17294,48.29802",
+    "geom:latitude":48.29802,
+    "geom:longitude":20.17294,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Martinova",
+    "gn:country_code":"SK",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724176,
+    "gn:latitude":48.29802,
+    "gn:longitude":20.17294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Martinov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e1rtonfala",
+        "Martinov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724176,
+        "wk:page":"Martinov%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1825a8171de5889c864113fbb68d3131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1226660057,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226660057,
+    "wof:lastmodified":1537700360,
+    "wof:name":"Martinova",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17294,
+    48.29802,
+    20.17294,
+    48.29802
+],
+  "geometry": {"coordinates":[20.17294,48.29802],"type":"Point"}
+}

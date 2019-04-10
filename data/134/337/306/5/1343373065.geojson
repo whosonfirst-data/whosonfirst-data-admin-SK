@@ -1,0 +1,71 @@
+{
+  "id": 1343373065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09936,48.6131,19.09936,48.6131",
+    "geom:latitude":48.6131,
+    "geom:longitude":19.09936,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trebul'a",
+    "gn:country_code":"SK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057150,
+    "gn:latitude":48.6131,
+    "gn:longitude":19.09936,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trebu\u013ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Trebu\u013ea",
+        "Trebu\u013ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057150
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cb43263398d14e0cd140f7917c1a29c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1343373065,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1343373065,
+    "wof:lastmodified":1537700384,
+    "wof:name":"Trebul'a",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09936,
+    48.6131,
+    19.09936,
+    48.6131
+],
+  "geometry": {"coordinates":[19.09936,48.6131],"type":"Point"}
+}

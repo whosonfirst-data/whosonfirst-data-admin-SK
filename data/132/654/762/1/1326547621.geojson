@@ -1,0 +1,72 @@
+{
+  "id": 1326547621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97066,48.45371,19.97066,48.45371",
+    "geom:latitude":48.45371,
+    "geom:longitude":19.97066,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nizny Skalnik",
+    "gn:country_code":"SK",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058504,
+    "gn:latitude":48.45371,
+    "gn:longitude":19.97066,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00fd Sk\u00e1lnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017en\u00ed Sk\u00e1lnik",
+        "Ni\u017en\u00fd Sk\u00e1lnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058504,
+        "wk:page":"Ni%C5%BEn%C3%BD_Sk%C3%A1lnik"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"98e5ef420359b152cfe5683237cc7956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1326547621,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1326547621,
+    "wof:lastmodified":1537700399,
+    "wof:name":"Nizny Skalnik",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97066,
+    48.45371,
+    19.97066,
+    48.45371
+],
+  "geometry": {"coordinates":[19.97066,48.45371],"type":"Point"}
+}

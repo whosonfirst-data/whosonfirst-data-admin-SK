@@ -1,0 +1,137 @@
+{
+  "id": 101782905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":797584.747271,
+    "geom:bbox":"21.4332976428,48.7056832317,21.4518119666,48.7153898318",
+    "geom:latitude":48.709826,
+    "geom:longitude":21.441783,
+    "iso:country":"SK",
+    "lbl:latitude":48.709743,
+    "lbl:longitude":21.44038,
+    "mps:latitude":48.709743,
+    "mps:longitude":21.44038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:deu_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:dut_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:eng_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:epo_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:fra_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:fre_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:ger_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:hun_x_preferred":[
+        "Gy\u00f6rke"
+    ],
+    "name:ita_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:may_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:msa_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:nan_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:nld_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:pol_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:slk_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:slo_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0458\u0443\u0440\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Gy\u00f6rke"
+    ],
+    "name:war_x_preferred":[
+        "\u010eurkov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010eurkov",
+    "qs:la_lc":"*SK426521361",
+    "qs:level":"locality",
+    "qs:loc":"\u010eurkov",
+    "qs:loc_alt":"Durkov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724835,
+        "gp:id":819373,
+        "qs:id":402250,
+        "wd:id":"Q390247"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bd41bdd0d69d931866db5217a243743a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782905,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782905,
+    "wof:lastmodified":1527688321,
+    "wof:name":"\u010eurkov",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43329764275376,
+    48.7056832316926,
+    21.45181196664123,
+    48.71538983180386
+],
+  "geometry": {"coordinates":[[[21.45181196664123,48.71030931177626],[21.45119403544561,48.7076480131999],[21.44715911768839,48.7080660025465],[21.4467473490738,48.70629178199113],[21.44405746247213,48.70657034899153],[21.4438516384505,48.7056832316926],[21.43443698242771,48.70665768512862],[21.43464264412569,48.70754482244422],[21.43329764275376,48.70768396804061],[21.43370894756083,48.70945824579343],[21.43505399531773,48.70931909448018],[21.43525968481322,48.71020622920054],[21.43660474893358,48.71006705880319],[21.43783921971357,48.71538983180386],[21.44321996457302,48.71483291931776],[21.44301410347492,48.71394580408924],[21.44435924940183,48.71380653826208],[21.44374165216857,48.71114519596603],[21.45181196664123,48.71030931177626]]],"type":"Polygon"}
+}

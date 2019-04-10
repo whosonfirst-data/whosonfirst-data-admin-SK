@@ -1,0 +1,80 @@
+{
+  "id": 1327436389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05373,49.32469,21.05373,49.32469",
+    "geom:latitude":49.32469,
+    "geom:longitude":21.05373,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Snakov",
+    "gn:country_code":"SK",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723560,
+    "gn:latitude":49.32469,
+    "gn:longitude":21.05373,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Snakov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Sz\u00e1nk\u00f3"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u043d\u0430\u043a\u0456\u0432"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043d\u0430\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043d\u0430\u043a\u0456\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723560,
+        "wk:page":"Snakov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4afb42a35532054888acffa7e83777c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1327436389,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327436389,
+    "wof:lastmodified":1537700349,
+    "wof:name":"Snakov",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05373,
+    49.32469,
+    21.05373,
+    49.32469
+],
+  "geometry": {"coordinates":[21.05373,49.32469],"type":"Point"}
+}

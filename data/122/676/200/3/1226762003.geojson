@@ -1,0 +1,71 @@
+{
+  "id": 1226762003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00626,48.18301,19.00626,48.18301",
+    "geom:latitude":48.18301,
+    "geom:longitude":19.00626,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brezovo",
+    "gn:country_code":"SK",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060940,
+    "gn:latitude":48.18301,
+    "gn:longitude":19.00626,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brezovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Brezovo",
+        "Brezovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060940
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c37fe02bbaed425085ee369df5cc11b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1226762003,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226762003,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Brezovo",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00626,
+    48.18301,
+    19.00626,
+    48.18301
+],
+  "geometry": {"coordinates":[19.00626,48.18301],"type":"Point"}
+}

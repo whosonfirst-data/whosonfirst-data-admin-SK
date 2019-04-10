@@ -1,0 +1,124 @@
+{
+  "id": 1125816497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16789,48.67475,21.16789,48.67475",
+    "geom:latitude":48.67475,
+    "geom:longitude":21.16789,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.67475,
+    "lbl:longitude":21.16789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:ger_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:hun_x_preferred":[
+        "Kisida"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0418\u0434\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724211,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mal\u00e1 Ida",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":820820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724211,
+        "gp:id":820820,
+        "qs_pg:id":244746,
+        "wd:id":"Q1073906"
+    },
+    "wof:country":"SK",
+    "wof:created":1497291866,
+    "wof:geomhash":"d24b956d23af62eb8ef7bc61ed17579c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1125816497,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125816497,
+    "wof:lastmodified":1514505173,
+    "wof:name":"Mal\u00e1 Ida",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16789,
+    48.67475,
+    21.16789,
+    48.67475
+],
+  "geometry": {"coordinates":[21.16789,48.67475],"type":"Point"}
+}

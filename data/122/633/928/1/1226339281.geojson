@@ -1,0 +1,67 @@
+{
+  "id": 1226339281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85,49.3,18.85,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":18.85,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pod Stenami",
+    "gn:country_code":"SK",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058120,
+    "gn:latitude":49.3,
+    "gn:longitude":18.85,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Pod Sten\u00e1mi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058120
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cd5ff763b12fbab3b8df227f73865f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080589,
+            "locality_id":1226339281,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1226339281,
+    "wof:lastmodified":1536798915,
+    "wof:name":"Pod Stenami",
+    "wof:parent_id":102080589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85,
+    49.3,
+    18.85,
+    49.3
+],
+  "geometry": {"coordinates":[18.85,49.3],"type":"Point"}
+}

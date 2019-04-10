@@ -1,0 +1,68 @@
+{
+  "id": 1343881253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40138,49.07134,22.40138,49.07134",
+    "geom:latitude":49.07134,
+    "geom:longitude":22.40138,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Runina",
+    "gn:country_code":"SK",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723699,
+    "gn:latitude":49.07134,
+    "gn:longitude":22.40138,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Runina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723699,
+        "wk:page":"Runina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"735bd3485999eef5c56e43306e564c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1343881253,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343881253,
+    "wof:lastmodified":1537573566,
+    "wof:name":"Runina",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40138,
+    49.07134,
+    22.40138,
+    49.07134
+],
+  "geometry": {"coordinates":[22.40138,49.07134],"type":"Point"}
+}

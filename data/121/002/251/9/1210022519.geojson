@@ -1,0 +1,72 @@
+{
+  "id": 1210022519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56667,47.96667,18.56667,47.96667",
+    "geom:latitude":47.96667,
+    "geom:longitude":18.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ket'",
+    "gn:country_code":"SK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059539,
+    "gn:latitude":47.96667,
+    "gn:longitude":18.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ke\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kvetn\u00e1",
+        "Ke\u0165"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059539,
+        "wk:page":"Ke%C5%A5"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"09eedb4b90dd9c92b79d4b818494d1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1210022519,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1210022519,
+    "wof:lastmodified":1537700414,
+    "wof:name":"Ket'",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56667,
+    47.96667,
+    18.56667,
+    47.96667
+],
+  "geometry": {"coordinates":[18.56667,47.96667],"type":"Point"}
+}

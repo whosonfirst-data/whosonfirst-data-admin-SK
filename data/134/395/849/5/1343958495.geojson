@@ -1,0 +1,71 @@
+{
+  "id": 1343958495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31308,49.05135,18.31308,49.05135",
+    "geom:latitude":49.05135,
+    "geom:longitude":18.31308,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hloza",
+    "gn:country_code":"SK",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060092,
+    "gn:latitude":49.05135,
+    "gn:longitude":18.31308,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hlo\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hlozsa",
+        "Hlo\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060092
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4651f560274cc5ee5c656e5104a21e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1343958495,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343958495,
+    "wof:lastmodified":1537700424,
+    "wof:name":"Hloza",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31308,
+    49.05135,
+    18.31308,
+    49.05135
+],
+  "geometry": {"coordinates":[18.31308,49.05135],"type":"Point"}
+}

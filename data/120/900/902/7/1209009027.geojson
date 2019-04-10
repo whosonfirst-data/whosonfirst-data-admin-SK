@@ -1,0 +1,66 @@
+{
+  "id": 1209009027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35778,49.028,20.35778,49.028",
+    "geom:latitude":49.028,
+    "geom:longitude":20.35778,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Svabovce",
+    "gn:country_code":"SK",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723438,
+    "gn:latitude":49.028,
+    "gn:longitude":20.35778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160v\u00e1bovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svabovice",
+        "\u0160v\u00e1bovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723438,
+        "wk:page":"%C5%A0v%C3%A1bovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a03ad179b64859a3999db7e01322a7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209009027
+        }
+    ],
+    "wof:id":1209009027,
+    "wof:lastmodified":1537700347,
+    "wof:name":"Svabovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35778,
+    49.028,
+    20.35778,
+    49.028
+],
+  "geometry": {"coordinates":[20.35778,49.028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226343143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99415,48.20226,17.99415,48.20226",
+    "geom:latitude":48.20226,
+    "geom:longitude":17.99415,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Riegler Majer",
+    "gn:country_code":"SK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057859,
+    "gn:latitude":48.20226,
+    "gn:longitude":17.99415,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Riegler Majer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057859
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8911533a2fb7952f0413319773d7cf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1226343143,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226343143,
+    "wof:lastmodified":1536793515,
+    "wof:name":"Riegler Majer",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99415,
+    48.20226,
+    17.99415,
+    48.20226
+],
+  "geometry": {"coordinates":[17.99415,48.20226],"type":"Point"}
+}

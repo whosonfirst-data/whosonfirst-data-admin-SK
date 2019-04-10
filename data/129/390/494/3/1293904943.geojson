@@ -1,0 +1,71 @@
+{
+  "id": 1293904943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68732,48.65145,17.68732,48.65145",
+    "geom:latitude":48.65145,
+    "geom:longitude":17.68732,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Prasnik",
+    "gn:country_code":"SK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058041,
+    "gn:latitude":48.65145,
+    "gn:longitude":17.68732,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pra\u0161n\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pra\u0161n\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058041,
+        "wk:page":"Pra%C5%A1n%C3%ADk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"511b3d1cb0355551adad4e643bfeb848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080495,
+            "locality_id":1293904943,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1293904943,
+    "wof:lastmodified":1537700395,
+    "wof:name":"Prasnik",
+    "wof:parent_id":102080495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68732,
+    48.65145,
+    17.68732,
+    48.65145
+],
+  "geometry": {"coordinates":[17.68732,48.65145],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276585325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38885,49.25307,18.38885,49.25307",
+    "geom:latitude":49.25307,
+    "geom:longitude":18.38885,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Podziar",
+    "gn:country_code":"SK",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058110,
+    "gn:latitude":49.25307,
+    "gn:longitude":18.38885,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Pod\u017eiar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058110
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8306341cd2f160365da9b82400a857f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080575,
+            "locality_id":1276585325,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1276585325,
+    "wof:lastmodified":1536939390,
+    "wof:name":"Podziar",
+    "wof:parent_id":102080575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38885,
+    49.25307,
+    18.38885,
+    49.25307
+],
+  "geometry": {"coordinates":[18.38885,49.25307],"type":"Point"}
+}

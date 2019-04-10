@@ -1,0 +1,72 @@
+{
+  "id": 1243364597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32511,48.2572,18.32511,48.2572",
+    "geom:latitude":48.2572,
+    "geom:longitude":18.32511,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horny Ohaj",
+    "gn:country_code":"SK",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059930,
+    "gn:latitude":48.2572,
+    "gn:longitude":18.32511,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00fd Ohaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aha",
+        "Horn\u00ed Ohaj",
+        "Horn\u00fd Ohaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059930
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4c61d0d838f5227d2da3c59e5744beec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1243364597,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1243364597,
+    "wof:lastmodified":1537700419,
+    "wof:name":"Horny Ohaj",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32511,
+    48.2572,
+    18.32511,
+    48.2572
+],
+  "geometry": {"coordinates":[18.32511,48.2572],"type":"Point"}
+}

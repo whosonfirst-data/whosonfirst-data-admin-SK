@@ -1,0 +1,138 @@
+{
+  "id": 101782915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":717843.716186,
+    "geom:bbox":"20.9389048634,48.6052848516,20.9588617239,48.6169203528",
+    "geom:latitude":48.610491,
+    "geom:longitude":20.9491,
+    "iso:country":"SK",
+    "lbl:latitude":48.60903,
+    "lbl:longitude":20.950612,
+    "mps:latitude":48.60903,
+    "mps:longitude":20.950612,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Drienovec"
+    ],
+    "name:deu_x_preferred":[
+        "Drienovec"
+    ],
+    "name:dut_x_preferred":[
+        "Drienovec"
+    ],
+    "name:eng_x_preferred":[
+        "Drienovec"
+    ],
+    "name:epo_x_preferred":[
+        "Drienovec"
+    ],
+    "name:fra_x_preferred":[
+        "Drienovec"
+    ],
+    "name:fre_x_preferred":[
+        "Drienovec"
+    ],
+    "name:ger_x_preferred":[
+        "Drienovec"
+    ],
+    "name:hun_x_preferred":[
+        "Somodi"
+    ],
+    "name:ita_x_preferred":[
+        "Drienovec"
+    ],
+    "name:may_x_preferred":[
+        "Drienovec"
+    ],
+    "name:msa_x_preferred":[
+        "Drienovec"
+    ],
+    "name:nld_x_preferred":[
+        "Drienovec"
+    ],
+    "name:pol_x_preferred":[
+        "Drienovec"
+    ],
+    "name:slk_x_preferred":[
+        "Drienovec"
+    ],
+    "name:slo_x_preferred":[
+        "Drienovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0458\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "\u0160mody"
+    ],
+    "name:war_x_preferred":[
+        "Drienovec"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Drienovec"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Drienovec",
+    "qs:la_lc":"*SK426521337",
+    "qs:level":"locality",
+    "qs:loc":"Drienovec",
+    "qs:loc_alt":"Drienovec",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724867,
+        "gp:id":819306,
+        "qs:id":184061,
+        "wd:id":"Q1073600",
+        "wk:page":"Drienovec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c43bf3fe7f5295be2bd07ef6de93071b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782915,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782915,
+    "wof:lastmodified":1527688319,
+    "wof:name":"Drienovec",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93890486337341,
+    48.60528485162558,
+    20.95886172392864,
+    48.61692035284824
+],
+  "geometry": {"coordinates":[[[20.94945713437403,48.61141378359855],[20.95483122463713,48.6108806943231],[20.95502772495627,48.61176889702574],[20.95637125442101,48.61163558142988],[20.95617473091704,48.6107473814605],[20.95886172392864,48.61048070708404],[20.95787900724974,48.60603972218831],[20.95653562990742,48.60617305381618],[20.95633913628228,48.60528485162558],[20.95499577560412,48.60541816430509],[20.95519224605079,48.60630636922872],[20.94847522907793,48.60697270305383],[20.94867159246201,48.60786092081293],[20.94598469373307,48.60812734629246],[20.94637735427693,48.60990379026072],[20.94100329323578,48.61043646846008],[20.94159207207269,48.61310116099497],[20.93890486337341,48.6133674191662],[20.93968983996041,48.61692035284824],[20.94372092155464,48.61652090849896],[20.94313196713,48.61385623404703],[20.94447557839868,48.61372306168357],[20.94427925473894,48.6128348379483],[20.94965354194869,48.61230199723224],[20.94945713437403,48.61141378359855]]],"type":"Polygon"}
+}

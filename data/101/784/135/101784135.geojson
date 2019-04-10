@@ -1,0 +1,141 @@
+{
+  "id": 101784135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":548397.605719,
+    "geom:bbox":"19.9484009431,48.2116494282,19.9629887807,48.2216856082",
+    "geom:latitude":48.217078,
+    "geom:longitude":19.9565,
+    "iso:country":"SK",
+    "lbl:latitude":48.217864,
+    "lbl:longitude":19.95965,
+    "mps:latitude":48.217864,
+    "mps:longitude":19.95965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:ces_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:cze_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:dut_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:fre_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Ajn\u00e1csk\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:may_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:nan_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:slo_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0458\u043d\u0430\u0447\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:war_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Rimavsk\u00e1 Sobota",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Hajn\u00e1\u010dka",
+    "qs:la_lc":"*SK329514811",
+    "qs:level":"locality",
+    "qs:loc":"Hajn\u00e1\u010dka",
+    "qs:loc_alt":"Hajnacka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060165,
+        "gp:id":819527,
+        "qs:id":966330,
+        "wd:id":"Q554592",
+        "wk:page":"Hajn\u00e1\u010dka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ba475df93b3231dffd49ed96519234ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":101784135,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784135,
+    "wof:lastmodified":1553815499,
+    "wof:name":"Hajn\u00e1\u010dka",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94840094305283,
+    48.21164942824873,
+    19.96298878070712,
+    48.22168560816999
+],
+  "geometry": {"coordinates":[[[19.96298878070712,48.21982659750171],[19.96210558480863,48.21537480938582],[19.96077042319735,48.21549593299471],[19.960593830645,48.21460557063256],[19.95658837976788,48.21496883731561],[19.95623535593143,48.21318809555783],[19.953565118048,48.21343018287621],[19.95321221749759,48.21164942824873],[19.9518771357117,48.21177044280228],[19.95222999040345,48.2135512023446],[19.95089485695809,48.21367220568567],[19.95107127320733,48.21456258677523],[19.94840094305283,48.21480454998857],[19.94875370748753,48.216585319719],[19.95142412937525,48.2163433466776],[19.95160056929444,48.21723372549025],[19.95694143518017,48.21674957603545],[19.9574710775114,48.21942067841991],[19.95346523038432,48.21978383683012],[19.95364172480856,48.22067421014918],[19.95230640788628,48.22079523315165],[19.95248288726566,48.22168560816999],[19.96183014437304,48.22083809121523],[19.96165350442891,48.21994773341083],[19.96298878070712,48.21982659750171]]],"type":"Polygon"}
+}

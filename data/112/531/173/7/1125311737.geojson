@@ -1,0 +1,87 @@
+{
+  "id": 1125311737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30967,49.08902,21.30967,49.08902",
+    "geom:latitude":49.08902,
+    "geom:longitude":21.30967,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.08902,
+    "lbl:longitude":21.30967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tul\u010d\u00edk"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723341,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tulcik",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":207487,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402063,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723341,
+        "gp:id":29402063,
+        "qs_pg:id":207487
+    },
+    "wof:country":"SK",
+    "wof:created":1497044028,
+    "wof:geomhash":"bda043200637a1d40179111143ea5e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "localadmin_id":1125311737,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125311737,
+    "wof:lastmodified":1509387906,
+    "wof:name":"Tulcik",
+    "wof:parent_id":102080591,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30967,
+    49.08902,
+    21.30967,
+    49.08902
+],
+  "geometry": {"coordinates":[21.30967,49.08902],"type":"Point"}
+}

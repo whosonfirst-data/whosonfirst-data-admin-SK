@@ -1,0 +1,144 @@
+{
+  "id": 101843881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1056825.938882,
+    "geom:bbox":"20.8706774102,48.5939373838,20.8904594261,48.6073952408",
+    "geom:latitude":48.599804,
+    "geom:longitude":20.880153,
+    "iso:country":"SK",
+    "lbl:latitude":48.6005,
+    "lbl:longitude":20.880827,
+    "mps:latitude":48.6005,
+    "mps:longitude":20.880827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:ces_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:cze_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:deu_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:dut_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:eng_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:epo_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:fra_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:fre_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:ger_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:hun_x_preferred":[
+        "Torna"
+    ],
+    "name:ita_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30cb\u30e3\u30fb\u30ca\u30c9\u30fb\u30dc\u30c9\u30f4\u30a9\u30a6\u6751"
+    ],
+    "name:may_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:msa_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:nan_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:nld_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:pol_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:slo_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u045a\u0430 \u043d\u0430 \u0411\u043e\u0434\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Torna"
+    ],
+    "name:war_x_preferred":[
+        "Tur\u0148a nad Bodvou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Tur\u0148a nad Bodvou",
+    "qs:la_lc":"*SK426559784",
+    "qs:level":"locality",
+    "qs:loc":"Tur\u0148a nad Bodvou",
+    "qs:loc_alt":"Turna nad Bodvou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":269,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723334,
+        "gp:id":822772,
+        "qs:id":1220719,
+        "wd:id":"Q669340",
+        "wk:page":"Tur\u0148a nad Bodvou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c187994fef3940674ce3813fa203b3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101843881,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843881,
+    "wof:lastmodified":1527642591,
+    "wof:name":"Tur\u0148a nad Bodvou",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87067741020519,
+    48.59393738382022,
+    20.89045942611676,
+    48.60739524084738
+],
+  "geometry": {"coordinates":[[[20.88127352159881,48.60726283648933],[20.88068807800249,48.6045977607028],[20.88606204946711,48.60406801365622],[20.88547640662068,48.60140296307884],[20.88681981373747,48.60127049391787],[20.88642938272227,48.59949379486528],[20.89045942611676,48.59909630637424],[20.89006889113301,48.59731962033788],[20.88872559617562,48.59745212728592],[20.88853036504571,48.59656378032105],[20.88718708679903,48.59669626833676],[20.88699188763621,48.59580791783605],[20.88027551527182,48.59647010109859],[20.88008044080323,48.59558173620422],[20.87873717011087,48.59571412149455],[20.87834709387079,48.59393738382022],[20.87566062582096,48.59420209490008],[20.87585561318855,48.59509046957294],[20.87451234628571,48.595222803502],[20.8747073192435,48.59611118006831],[20.87067741020519,48.59650809269351],[20.87145711153107,48.60006162331598],[20.87414390951926,48.59979700941864],[20.87433890316146,48.60068538460274],[20.8756823156487,48.60055305061417],[20.87685260096572,48.60588326824336],[20.87819614614142,48.60575090175456],[20.87839124761615,48.60663926577922],[20.87973480951825,48.60650688035611],[20.87992994297093,48.60739524084738],[20.88127352159881,48.60726283648933]]],"type":"Polygon"}
+}

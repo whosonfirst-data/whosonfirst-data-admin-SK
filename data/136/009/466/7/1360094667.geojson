@@ -1,0 +1,67 @@
+{
+  "id": 1360094667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19835,48.86028,19.19835,48.86028",
+    "geom:latitude":48.86028,
+    "geom:longitude":19.19835,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Moce",
+    "gn:country_code":"SK",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057025,
+    "gn:latitude":48.86028,
+    "gn:longitude":19.19835,
+    "gn:modification_date":"2017-06-22",
+    "gn:name":"M\u00f4ce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057025
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e397c190f4a387e2caab86d70384eea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":1360094667,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1360094667,
+    "wof:lastmodified":1536932497,
+    "wof:name":"Moce",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19835,
+    48.86028,
+    19.19835,
+    48.86028
+],
+  "geometry": {"coordinates":[19.19835,48.86028],"type":"Point"}
+}

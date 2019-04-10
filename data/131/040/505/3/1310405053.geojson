@@ -1,0 +1,71 @@
+{
+  "id": 1310405053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00498,49.18024,21.00498,49.18024",
+    "geom:latitude":49.18024,
+    "geom:longitude":21.00498,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Milpos",
+    "gn:country_code":"SK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724133,
+    "gn:latitude":49.18024,
+    "gn:longitude":21.00498,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Milpo\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milpo\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724133,
+        "wk:page":"Milpo%C5%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"783470b5e4095ea94a4a6763d28c0938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1310405053,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310405053,
+    "wof:lastmodified":1537700359,
+    "wof:name":"Milpos",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00498,
+    49.18024000000001,
+    21.00498,
+    49.18024000000001
+],
+  "geometry": {"coordinates":[21.00498,49.18024000000001],"type":"Point"}
+}

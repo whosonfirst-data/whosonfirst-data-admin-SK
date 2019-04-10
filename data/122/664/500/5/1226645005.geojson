@@ -1,0 +1,71 @@
+{
+  "id": 1226645005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72982,48.96952,21.72982,48.96952",
+    "geom:latitude":48.96952,
+    "geom:longitude":21.72982,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zalobin",
+    "gn:country_code":"SK",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723106,
+    "gn:latitude":48.96952,
+    "gn:longitude":21.72982,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u017dalob\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dalob\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723106,
+        "wk:page":"%C5%BDalob%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eaa169d1b31754a6932e3e18d8029dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1226645005,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226645005,
+    "wof:lastmodified":1537700340,
+    "wof:name":"Zalobin",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72982,
+    48.96952,
+    21.72982,
+    48.96952
+],
+  "geometry": {"coordinates":[21.72982,48.96952],"type":"Point"}
+}

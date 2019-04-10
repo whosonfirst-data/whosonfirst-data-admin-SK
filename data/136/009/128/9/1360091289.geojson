@@ -1,0 +1,67 @@
+{
+  "id": 1360091289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91667,48.93333,17.91667,48.93333",
+    "geom:latitude":48.93333,
+    "geom:longitude":17.91667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Reznaci",
+    "gn:country_code":"SK",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057863,
+    "gn:latitude":48.93333,
+    "gn:longitude":17.91667,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Re\u017en\u00e1ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057863
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5ed0efe992e07a9ca80ab485d8870dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1360091289,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1360091289,
+    "wof:lastmodified":1536937411,
+    "wof:name":"Reznaci",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91667,
+    48.93333,
+    17.91667,
+    48.93333
+],
+  "geometry": {"coordinates":[17.91667,48.93333],"type":"Point"}
+}

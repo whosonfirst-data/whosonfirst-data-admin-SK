@@ -1,0 +1,136 @@
+{
+  "id": 101780311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1365748.448202,
+    "geom:bbox":"19.378511064,49.0508818873,19.3970173448,49.0788718446",
+    "geom:latitude":49.064131,
+    "geom:longitude":19.387248,
+    "iso:country":"SK",
+    "lbl:latitude":49.061272,
+    "lbl:longitude":19.38865,
+    "mps:latitude":49.061272,
+    "mps:longitude":19.38865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:ces_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:cze_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:dut_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:eng_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:epo_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:fre_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:ger_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e1romszl\u00e9cs"
+    ],
+    "name:ita_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:may_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:msa_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:nld_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:slo_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0435 \u0421\u0459\u0430\u0447\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Liptovsk\u00e9 Slia\u010de"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ru\u017eomberok",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Liptovsk\u00e9 Slia\u010de",
+    "qs:la_lc":"*SK318511005",
+    "qs:level":"locality",
+    "qs:loc":"Slia\u010de",
+    "qs:loc_alt":"Sliace",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057574,
+        "gp:id":29402443,
+        "wd:id":"Q581492"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fcfea5ff0a0426e37c464a9efe3804bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":101780311,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780311,
+    "wof:lastmodified":1514505276,
+    "wof:name":"Slia\u010de",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37851106396403,
+    49.05088188729917,
+    19.39701734483037,
+    49.07887184459275
+],
+  "geometry": {"coordinates":[[[19.39481248122542,49.06401832904317],[19.39429957327218,49.06134525355577],[19.39701734483037,49.06111613405909],[19.39650436280868,49.05844306682678],[19.39514555201879,49.05855762764912],[19.394974597638,49.05766660150312],[19.39089820284346,49.05801017799786],[19.38987307278887,49.05266396401805],[19.39123173261402,49.05254946930091],[19.39106088083616,49.05165843366342],[19.38970224503976,49.05177292599569],[19.38953142507819,49.05088188729917],[19.38681418429132,49.05111081779432],[19.38783893251093,49.05645706847844],[19.38376259564717,49.05680038363164],[19.38478719153602,49.06214665298262],[19.38342825684981,49.06226107273255],[19.38376980302121,49.06404316189872],[19.38512878579394,49.06392873738019],[19.38581206777587,49.06749289809784],[19.38173481364583,49.06783615085044],[19.38207635707863,49.06961824147879],[19.38071721276441,49.0697326308848],[19.38105873924525,49.07151472359095],[19.37969954107382,49.0716291012908],[19.37987029194187,49.07252014901951],[19.37851106396403,49.07263451262827],[19.37970636970982,49.07887184459275],[19.38106576610346,49.07875746429465],[19.38089496071052,49.07786642127201],[19.38225432728751,49.07775202688134],[19.38191269175218,49.07596994358863],[19.3832720044548,49.07585553749124],[19.38310117431507,49.07496449722123],[19.38446045720451,49.07485007703269],[19.38411877218573,49.0730679992455],[19.38547800120784,49.07295356735204],[19.38530714633112,49.07206252983451],[19.3866663455446,49.07194808385168],[19.38615375550819,49.06927497441831],[19.38887199235876,49.0690460473437],[19.3887010964981,49.06815501429116],[19.39006018224177,49.06804052842983],[19.38954746927686,49.06536743238968],[19.39226547921862,49.06513842556694],[19.39209454239517,49.06424739697894],[19.39481248122542,49.06401832904317]]],"type":"Polygon"}
+}

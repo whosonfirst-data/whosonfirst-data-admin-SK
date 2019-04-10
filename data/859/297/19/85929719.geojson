@@ -1,0 +1,108 @@
+{
+  "id": 85929719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6084523.970855,
+    "geom:bbox":"21.281267,48.68997,21.281267,48.68997",
+    "geom:latitude":48.68997,
+    "geom:longitude":21.281267,
+    "gn:id":"",
+    "iso:country":"SK",
+    "lbl:latitude":48.68997,
+    "lbl:longitude":21.281267,
+    "mps:latitude":48.692838,
+    "mps:longitude":21.28333,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Nad jazerom"
+    ],
+    "name:unk_x_variant":[
+        "Nad jazerom"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_id":0,
+    "qs:gn_local":724443,
+    "qs:gn_nam_loc":"Kosice, Kosicky, Ko\u0161ice, SK",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":2062,
+    "qs:local_sum":3449,
+    "qs:localhoods":7,
+    "qs:name":"Nad jazerom",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Kosicky",
+    "qs:name_adm2":"Kosice",
+    "qs:name_lau":"Kosice IV",
+    "qs:name_local":"Ko\u0161ice",
+    "qs:photo_max":8,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070497,
+    "qs:woe_adm2":29399357,
+    "qs:woe_lau":29402289,
+    "qs:woe_local":820323,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        101752055,
+        102080549,
+        85688359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55867264,
+        "qs:id":1334755,
+        "qs_pg:id":1334755
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"311d5e67a235f9e926e3df11ec931f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080549,
+            "locality_id":101752055,
+            "neighbourhood_id":85929719,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":85929719,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939156,
+    "wof:name":"Nad jazerom",
+    "wof:parent_id":101752055,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.281267,
+    48.68997,
+    21.281267,
+    48.68997
+],
+  "geometry": {"coordinates":[21.281267,48.68997],"type":"Point"}
+}

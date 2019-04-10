@@ -1,0 +1,136 @@
+{
+  "id": 1126021445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86521,49.17516,20.86521,49.17516",
+    "geom:latitude":49.17516,
+    "geom:longitude":20.86521,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.17516,
+    "lbl:longitude":20.86521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:hun_x_preferred":[
+        "Dar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:may_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0448\u043a\u0435 \u0414\u0440\u0430\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0456 \u0414\u0440\u0430\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:war_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723653,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sarisske Dravce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":885869,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822106,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723653,
+        "gp:id":822106,
+        "qs_pg:id":885869,
+        "wd:id":"Q834602"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300855,
+    "wof:geomhash":"d40a01bf796bb012980ae7e226e57064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1126021445,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1126021445,
+    "wof:lastmodified":1514505267,
+    "wof:name":"Sarisske Dravce",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86521,
+    49.17516,
+    20.86521,
+    49.17516
+],
+  "geometry": {"coordinates":[20.86521,49.17516],"type":"Point"}
+}

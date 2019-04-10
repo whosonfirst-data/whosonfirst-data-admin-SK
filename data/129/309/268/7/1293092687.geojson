@@ -1,0 +1,72 @@
+{
+  "id": 1293092687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41667,48.11667,17.41667,48.11667",
+    "geom:latitude":48.11667,
+    "geom:longitude":17.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rastice",
+    "gn:country_code":"SK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057889,
+    "gn:latitude":48.11667,
+    "gn:longitude":17.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rastice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00fd Mager",
+        "Nagy-Magyar",
+        "Rastice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057889
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5561a300af31750d2146f62716207265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1293092687,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1293092687,
+    "wof:lastmodified":1537700393,
+    "wof:name":"Rastice",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41667,
+    48.11667,
+    17.41667,
+    48.11667
+],
+  "geometry": {"coordinates":[17.41667,48.11667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293018533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07851,48.2576,19.07851,48.2576",
+    "geom:latitude":48.2576,
+    "geom:longitude":19.07851,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cabradsky Vrbovok",
+    "gn:country_code":"SK",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060840,
+    "gn:latitude":48.2576,
+    "gn:longitude":19.07851,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cabradsk\u00fd Vrbovok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cabradsk\u00fd Vrbovok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060840,
+        "wk:page":"%C4%8Cabradsk%C3%BD_Vrbovok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2f2c29fcd9badd302b6a8052da93280e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1293018533,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293018533,
+    "wof:lastmodified":1537700434,
+    "wof:name":"Cabradsky Vrbovok",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07851,
+    48.2576,
+    19.07851,
+    48.2576
+],
+  "geometry": {"coordinates":[19.07851,48.2576],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209628995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2,48.65,20.2,48.65",
+    "geom:latitude":48.65,
+    "geom:longitude":20.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chyznianska Voda",
+    "gn:country_code":"SK",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724949,
+    "gn:latitude":48.65,
+    "gn:longitude":20.2,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Chy\u017eniansk\u00e1 Voda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724949
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b7e864099c1353416404fb0a19d99f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209628995
+        }
+    ],
+    "wof:id":1209628995,
+    "wof:lastmodified":1536281254,
+    "wof:name":"Chyznianska Voda",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2,
+    48.65,
+    20.2,
+    48.65
+],
+  "geometry": {"coordinates":[20.2,48.65],"type":"Point"}
+}

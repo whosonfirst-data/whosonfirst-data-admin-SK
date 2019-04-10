@@ -1,0 +1,110 @@
+{
+  "id": 1126002791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.584159,48.969061,19.584159,48.969061",
+    "geom:latitude":48.969061,
+    "geom:longitude":19.584159,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.969061,
+    "lbl:longitude":19.584159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Jasn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Jasn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Jasn\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30b9\u30ca"
+    ],
+    "name:lit_x_preferred":[
+        "Jasna"
+    ],
+    "name:pol_x_preferred":[
+        "Jasn\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u043d\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Jasn\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Jasn\u00e1"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jasna",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos":173,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":173,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":243453,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":55870579,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870579,
+        "qs_pg:id":243453,
+        "wd:id":"Q282536"
+    },
+    "wof:country":"SK",
+    "wof:created":1497299750,
+    "wof:geomhash":"d54463047fe7c956716053dfa73c2a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1126002791,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1126002791,
+    "wof:lastmodified":1514505120,
+    "wof:name":"Jasna",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.584159,
+    48.969061,
+    19.584159,
+    48.969061
+],
+  "geometry": {"coordinates":[19.584159,48.969061],"type":"Point"}
+}

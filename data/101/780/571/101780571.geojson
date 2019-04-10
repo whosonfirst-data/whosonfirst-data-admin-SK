@@ -1,0 +1,188 @@
+{
+  "id": 101780571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1505271.140566,
+    "geom:bbox":"20.4423858198,49.1792314858,20.4729066258,49.1962557024",
+    "geom:latitude":49.187964,
+    "geom:longitude":20.455615,
+    "gn:population":6136,
+    "iso:country":"SK",
+    "lbl:latitude":49.187503,
+    "lbl:longitude":20.455846,
+    "mps:latitude":49.187503,
+    "mps:longitude":20.455846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u0634\u0633\u0643\u0627 \u0628\u064a\u0644\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u057a\u056b\u0577\u057d\u056f\u0561 \u0532\u0565\u056c\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u76ae\u4ec0\u65af\u5361\u8c9d\u62c9"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0627 \u0628\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:hbs_x_preferred":[
+        "Spi\u0161ka Bela"
+    ],
+    "name:hrv_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Szepesb\u00e9la"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud53c\uc288\uc2a4\uce74\ubca8\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Spi\u0161ska Bela"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0627 \u0628\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bia\u0142a Spiska"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u043f\u0456\u0441\u044c\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0430-\u0411\u0435\u043b\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0430-\u0411\u0435\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0438\u0441\u044c\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u76ae\u4ec0\u65af\u5361\u8c9d\u62c9"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ke\u017emarok",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00e1 Bel\u00e1",
+    "qs:la_lc":"*SK413523828",
+    "qs:level":"locality",
+    "qs:loc":"Spi\u0161sk\u00e1 Bel\u00e1",
+    "qs:loc_alt":"Spisska Bela",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":49.183333,
+    "wd:longitude":20.45,
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723529,
+        "gp:id":822355,
+        "qs:id":1226013,
+        "qs_pg:id":1226013,
+        "wd:id":"Q605059"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3fe4b03bed43371b89e018f6ddd6a7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":101780571,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780571,
+    "wof:lastmodified":1527715876,
+    "wof:name":"Spi\u0161sk\u00e1 Bel\u00e1",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:population":6136,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44238581984058,
+    49.17923148575153,
+    20.47290662579354,
+    49.1962557023586
+],
+  "geometry": {"coordinates":[[[20.44859040544338,49.19498460629291],[20.44839956009974,49.19409563098225],[20.45112029365947,49.19384081162644],[20.45092940904874,49.19295184088122],[20.45228974218753,49.19282440916805],[20.45209884230087,49.19193544032834],[20.45890029150667,49.19129804812252],[20.45870928041279,49.19040909183383],[20.46551044871103,49.18977130138404],[20.46512821287087,49.18799341316571],[20.4664883792463,49.18786581101836],[20.46629725042828,49.18697686843836],[20.46901751589684,49.18672162008988],[20.46882634784816,49.18583268208079],[20.47290662579354,49.18544969410203],[20.47271539454721,49.18456076332984],[20.46727510695683,49.18507137039137],[20.46708398032285,49.18418242820502],[20.46300376889957,49.18456520268808],[20.46243065705249,49.18189834762347],[20.46515066061158,49.18164319707017],[20.4649595928189,49.18075424919397],[20.46359961822856,49.18088183003726],[20.46340858311976,49.17999287874215],[20.46204862605919,49.18012044046543],[20.46185762363234,49.17923148575153],[20.46049768410262,49.17935902835518],[20.46107064561465,49.18202589821243],[20.45835060342563,49.18228095001416],[20.45854156007755,49.18316991044367],[20.45310130257599,49.18367982718115],[20.45271958976639,49.18190188428173],[20.45135955725294,49.18202931699767],[20.45212292180048,49.18558521041365],[20.44804249795885,49.18596744171521],[20.44842408860058,49.18774539984861],[20.4457036779595,49.18800014904673],[20.44608520749347,49.18977811479613],[20.44472494456028,49.18990547001954],[20.44491569839931,49.19079445442117],[20.44355540505006,49.19092179584004],[20.44374614360726,49.19181078214558],[20.44238581984058,49.1919381097598],[20.44295801576925,49.19460507212557],[20.44431841150151,49.19447773653604],[20.44469996695591,49.1962557023586],[20.44606040423696,49.19612834498668],[20.44586959816576,49.19523936511172],[20.44859040544338,49.19498460629291]]],"type":"Polygon"}
+}

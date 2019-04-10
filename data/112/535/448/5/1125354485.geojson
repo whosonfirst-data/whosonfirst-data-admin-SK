@@ -1,0 +1,91 @@
+{
+  "id": 1125354485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20451,48.33765,18.20451,48.33765",
+    "geom:latitude":48.33765,
+    "geom:longitude":18.20451,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":400,
+    "gn:population":400,
+    "iso:country":"SK",
+    "lbl:latitude":48.33765,
+    "lbl:longitude":18.20451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ges\u0165"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3059908,
+    "qs_pg:gn_pop":400,
+    "qs_pg:name":"Hostova",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":70343,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401299,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059908,
+        "gp:id":29401299,
+        "qs_pg:id":70343
+    },
+    "wof:country":"SK",
+    "wof:created":1497046380,
+    "wof:geomhash":"c8bbee50a9848a89364bd653fb6d9a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "localadmin_id":1125354485,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125354485,
+    "wof:lastmodified":1509388915,
+    "wof:name":"Hostova",
+    "wof:parent_id":102080473,
+    "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20451,
+    48.33765,
+    18.20451,
+    48.33765
+],
+  "geometry": {"coordinates":[18.20451,48.33765],"type":"Point"}
+}

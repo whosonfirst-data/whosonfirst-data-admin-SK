@@ -1,0 +1,148 @@
+{
+  "id": 85901387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5270989.803258,
+    "geom:bbox":"17.108446,48.146961,17.108446,48.146961",
+    "geom:latitude":48.146961,
+    "geom:longitude":17.108446,
+    "gn:latitude":48.15039,
+    "gn:longitude":17.09002,
+    "iso:country":"SK",
+    "lbl:latitude":48.146961,
+    "lbl:longitude":17.108446,
+    "mps:latitude":48.147037,
+    "mps:longitude":17.114488,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Old Town"
+    ],
+    "name:epo_x_preferred":[
+        "Malnova Urbo"
+    ],
+    "name:fin_x_preferred":[
+        "Bratislavan vanhakaupunki"
+    ],
+    "name:fra_x_preferred":[
+        "Vieille ville"
+    ],
+    "name:hbs_x_preferred":[
+        "Stare Mesto"
+    ],
+    "name:hrv_x_preferred":[
+        "Stari grad"
+    ],
+    "name:pol_x_preferred":[
+        "Stare Miasto"
+    ],
+    "name:slk_x_preferred":[
+        "Bratislava \u2013 mestsk\u00e1 \u010das\u0165 Star\u00e9 Mesto"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u041c\u0435\u0441\u0442\u043e"
+    ],
+    "name:und_x_colloquial":[
+        "Stare Mesto"
+    ],
+    "name:und_x_preferred":[
+        "Star\u00e9 Mesto"
+    ],
+    "name:unk_x_variant":[
+        "Star\u00e9 Mesto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u63d0\u65af\u62c9\u74e6\u8001\u57ce"
+    ],
+    "qs:gn_adm0_cc":"SK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3060972,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Star\u00e9 Mesto",
+    "qs:local_max":14839,
+    "qs:local_sum":27271,
+    "qs:localhoods":23,
+    "qs:name":"Star\u00e9 Mesto",
+    "qs:name_adm0":"Slovensk\u00e1",
+    "qs:name_adm1":"Bratislavsky",
+    "qs:name_adm2":"Bratislava",
+    "qs:name_lau":"Bratislava I",
+    "qs:name_local":"Bratislava",
+    "qs:photo_max":3920,
+    "qs:photo_sum":14839,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":141,
+    "qs:woe_adm0":23424877,
+    "qs:woe_adm1":20070505,
+    "qs:woe_adm2":29399347,
+    "qs:woe_lau":29402281,
+    "qs:woe_local":818717,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057478,
+        "gp:id":822396,
+        "qs:id":803633,
+        "qs_pg:id":803633,
+        "wd:id":"Q1898406",
+        "wk:page":"Old Town, Bratislava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b9c61dc735928d0404a50f7a8ba3f7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":85901387,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":85901387,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932491,
+    "wof:name":"Star\u00e9 Mesto",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.108446,
+    48.146961,
+    17.108446,
+    48.146961
+],
+  "geometry": {"coordinates":[17.108446,48.146961],"type":"Point"}
+}

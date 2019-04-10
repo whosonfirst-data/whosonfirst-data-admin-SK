@@ -1,0 +1,71 @@
+{
+  "id": 1310493203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45,48.06667,17.45,48.06667",
+    "geom:latitude":48.06667,
+    "geom:longitude":17.45,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sasa",
+    "gn:country_code":"SK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057738,
+    "gn:latitude":48.06667,
+    "gn:longitude":17.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e1sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sz\u00e1sz",
+        "S\u00e1sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057738
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fa163d3fb83943be57421acfa3194432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1310493203,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310493203,
+    "wof:lastmodified":1537700392,
+    "wof:name":"Sasa",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45,
+    48.06667,
+    17.45,
+    48.06667
+],
+  "geometry": {"coordinates":[17.45,48.06667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310120043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05592,48.0625,19.05592,48.0625",
+    "geom:latitude":48.0625,
+    "geom:longitude":19.05592,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ipel'ske Predmostie",
+    "gn:country_code":"SK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059780,
+    "gn:latitude":48.0625,
+    "gn:longitude":19.05592,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ipe\u013esk\u00e9 Predmostie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Ipolyhidv\u00e9g"
+    ],
+    "name:hun_x_variant":[
+        "Hidv\u00e9g"
+    ],
+    "name:slk_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059780,
+        "wk:page":"Ipe%C4%BEsk%C3%A9_Predmostie"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cb61a217588b0ac842518df9fe1a1461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1310120043,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1310120043,
+    "wof:lastmodified":1537573604,
+    "wof:name":"Ipel'ske Predmostie",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05592,
+    48.0625,
+    19.05592,
+    48.0625
+],
+  "geometry": {"coordinates":[19.05592,48.0625],"type":"Point"}
+}

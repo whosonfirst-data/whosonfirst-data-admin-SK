@@ -1,0 +1,67 @@
+{
+  "id": 1276871403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32268,48.91762,21.32268,48.91762",
+    "geom:latitude":48.91762,
+    "geom:longitude":21.32268,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dubrava",
+    "gn:country_code":"SK",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724848,
+    "gn:latitude":48.91762,
+    "gn:longitude":21.32268,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"D\u00fabrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724848
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d5e1f6477070ba30892c59febaeae1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1276871403,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276871403,
+    "wof:lastmodified":1537050400,
+    "wof:name":"Dubrava",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32268,
+    48.91762,
+    21.32268,
+    48.91762
+],
+  "geometry": {"coordinates":[21.32268,48.91762],"type":"Point"}
+}

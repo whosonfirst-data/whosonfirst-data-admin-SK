@@ -1,0 +1,75 @@
+{
+  "id": 1260002405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72953,49.29613,20.72953,49.29613",
+    "geom:latitude":49.29613,
+    "geom:longitude":20.72953,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chmel'nica",
+    "gn:country_code":"SK",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724968,
+    "gn:latitude":49.29613,
+    "gn:longitude":20.72953,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chme\u013enica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hopgarten"
+    ],
+    "name:und_x_variant":[
+        "Hobgart",
+        "Chme\u013enica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724968,
+        "wk:page":"Chme%C4%BEnica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"232dbcdb3146c9392a66a2b08c806d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1260002405,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1260002405,
+    "wof:lastmodified":1537700373,
+    "wof:name":"Chmel'nica",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72953,
+    49.29613,
+    20.72953,
+    49.29613
+],
+  "geometry": {"coordinates":[20.72953,49.29613],"type":"Point"}
+}

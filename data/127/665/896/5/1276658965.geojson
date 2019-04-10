@@ -1,0 +1,71 @@
+{
+  "id": 1276658965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98333,48.55,21.98333,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":21.98333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bernatov Dvor",
+    "gn:country_code":"SK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725138,
+    "gn:latitude":48.55,
+    "gn:longitude":21.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bern\u00e1tov Dvor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukah\u00e1za",
+        "Bern\u00e1tov Dvor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725138
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"19c7f9a344057fe8ac2988809db1ac89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1276658965,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276658965,
+    "wof:lastmodified":1537700376,
+    "wof:name":"Bernatov Dvor",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98333,
+    48.55,
+    21.98333,
+    48.55
+],
+  "geometry": {"coordinates":[21.98333,48.55],"type":"Point"}
+}

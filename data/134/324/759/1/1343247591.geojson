@@ -1,0 +1,72 @@
+{
+  "id": 1343247591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83788,49.2746,18.83788,49.2746",
+    "geom:latitude":49.2746,
+    "geom:longitude":18.83788,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lopusne Pazite",
+    "gn:country_code":"SK",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059011,
+    "gn:latitude":49.2746,
+    "gn:longitude":18.83788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lopu\u0161n\u00e9 Pa\u017eite",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u017eite",
+        "Lopu\u0161n\u00e9 Pa\u017eite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059011,
+        "wk:page":"Lopu%C5%A1n%C3%A9_Pa%C5%BEite"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"01986ed903d1285ef9d4f6fec7de9b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080589,
+            "locality_id":1343247591,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343247591,
+    "wof:lastmodified":1537700407,
+    "wof:name":"Lopusne Pazite",
+    "wof:parent_id":102080589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83788,
+    49.2746,
+    18.83788,
+    49.2746
+],
+  "geometry": {"coordinates":[18.83788,49.2746],"type":"Point"}
+}

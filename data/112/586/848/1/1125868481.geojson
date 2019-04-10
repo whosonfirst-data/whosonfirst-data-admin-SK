@@ -1,0 +1,87 @@
+{
+  "id": 1125868481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98801,48.87172,20.98801,48.87172",
+    "geom:latitude":48.87172,
+    "geom:longitude":20.98801,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.87172,
+    "lbl:longitude":20.98801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Jaklovce"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":724595,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jaku\u0161ovce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":885833,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":819974,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724595,
+        "gp:id":819974,
+        "qs_pg:id":885833
+    },
+    "wof:country":"SK",
+    "wof:created":1497294165,
+    "wof:geomhash":"0012185bb15b5f90caeea16f05b0315c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080559,
+            "locality_id":1125868481,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125868481,
+    "wof:lastmodified":1509397149,
+    "wof:name":"Jaku\u0161ovce",
+    "wof:parent_id":102080559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98801,
+    48.87172,
+    20.98801,
+    48.87172
+],
+  "geometry": {"coordinates":[20.98801,48.87172],"type":"Point"}
+}

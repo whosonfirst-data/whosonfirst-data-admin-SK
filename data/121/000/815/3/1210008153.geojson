@@ -1,0 +1,74 @@
+{
+  "id": 1210008153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73172,48.3381,17.73172,48.3381",
+    "geom:latitude":48.3381,
+    "geom:longitude":17.73172,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Varov Sur",
+    "gn:country_code":"SK",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056957,
+    "gn:latitude":48.3381,
+    "gn:longitude":17.73172,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Varov \u0160\u00far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "V\u00e1rass\u00far"
+    ],
+    "name:und_x_variant":[
+        "Vara\u0161\u00far",
+        "Varov \u0160\u00far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056957
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0e9dae0ef5c0e91bd6f79adaeb47fb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1210008153,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1210008153,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Varov Sur",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73172000000001,
+    48.3381,
+    17.73172000000001,
+    48.3381
+],
+  "geometry": {"coordinates":[17.73172000000001,48.3381],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293798217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45395,48.58431,19.45395,48.58431",
+    "geom:latitude":48.58431,
+    "geom:longitude":19.45395,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Skliarovo",
+    "gn:country_code":"SK",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057612,
+    "gn:latitude":48.58431,
+    "gn:longitude":19.45395,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Skliarovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057612
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"634b538feb821da5a86d0b1620d90421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080507,
+            "locality_id":1293798217,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293798217,
+    "wof:lastmodified":1536835074,
+    "wof:name":"Skliarovo",
+    "wof:parent_id":102080507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45395,
+    48.58431,
+    19.45395,
+    48.58431
+],
+  "geometry": {"coordinates":[19.45395,48.58431],"type":"Point"}
+}

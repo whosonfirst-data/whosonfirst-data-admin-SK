@@ -1,0 +1,71 @@
+{
+  "id": 1326921919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,48.33333,17.46667,48.33333",
+    "geom:latitude":48.33333,
+    "geom:longitude":17.46667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bozetechovo",
+    "gn:country_code":"SK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060982,
+    "gn:latitude":48.33333,
+    "gn:longitude":17.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bo\u017eetechovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gocnod",
+        "Bo\u017eetechovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060982
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"db88b0a266f959596f152b7a08ac69bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1326921919,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1326921919,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Bozetechovo",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    48.33333,
+    17.46667,
+    48.33333
+],
+  "geometry": {"coordinates":[17.46667,48.33333],"type":"Point"}
+}

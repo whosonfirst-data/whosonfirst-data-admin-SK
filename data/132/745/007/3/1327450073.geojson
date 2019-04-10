@@ -1,0 +1,67 @@
+{
+  "id": 1327450073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32422,48.96827,22.32422,48.96827",
+    "geom:latitude":48.96827,
+    "geom:longitude":22.32422,
+    "gn:asciiname":"Kalna Roztoka",
+    "gn:country_code":"SK",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724542,
+    "gn:latitude":48.96827,
+    "gn:longitude":22.32422,
+    "gn:modification_date":"2008-06-02",
+    "gn:name":"Kaln\u00e1 Roztoka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724542,
+        "wk:page":"Kaln%C3%A1_Roztoka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3102a209edeb2a7e31aa5aafdc17194f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1327450073,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327450073,
+    "wof:lastmodified":1537573577,
+    "wof:name":"Kalna Roztoka",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32422,
+    48.96827,
+    22.32422,
+    48.96827
+],
+  "geometry": {"coordinates":[22.32422,48.96827],"type":"Point"}
+}

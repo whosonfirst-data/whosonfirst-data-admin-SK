@@ -1,0 +1,68 @@
+{
+  "id": 1259681677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53845,48.78556,17.53845,48.78556",
+    "geom:latitude":48.78556,
+    "geom:longitude":17.53845,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Hornaci",
+    "gn:country_code":"SK",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060046,
+    "gn:latitude":48.78556,
+    "gn:longitude":17.53845,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"Horn\u00e1ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060046
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e506a8db7c6f6d68272c07aa70ce2121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1259681677,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259681677,
+    "wof:lastmodified":1537066725,
+    "wof:name":"Hornaci",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53845,
+    48.78556,
+    17.53845,
+    48.78556
+],
+  "geometry": {"coordinates":[17.53845,48.78556],"type":"Point"}
+}

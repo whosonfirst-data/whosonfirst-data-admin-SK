@@ -1,0 +1,68 @@
+{
+  "id": 1226078171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51795,48.15064,18.51795,48.15064",
+    "geom:latitude":48.15064,
+    "geom:longitude":18.51795,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bajka",
+    "gn:country_code":"SK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061207,
+    "gn:latitude":48.15064,
+    "gn:longitude":18.51795,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bajka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061207,
+        "wk:page":"Bajka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3ebc119e6e198ac1b5574006a0070ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1226078171,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226078171,
+    "wof:lastmodified":1537573612,
+    "wof:name":"Bajka",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51795,
+    48.15064,
+    18.51795,
+    48.15064
+],
+  "geometry": {"coordinates":[18.51795,48.15064],"type":"Point"}
+}

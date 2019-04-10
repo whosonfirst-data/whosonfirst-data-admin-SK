@@ -1,0 +1,66 @@
+{
+  "id": 1209038257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76296,49.36997,20.76296,49.36997",
+    "geom:latitude":49.36997,
+    "geom:longitude":20.76296,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vel'ky Sulin",
+    "gn:country_code":"SK",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723243,
+    "gn:latitude":49.36997,
+    "gn:longitude":20.76296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00fd Sul\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sul\u00edn",
+        "Ve\u013ek\u00fd Sul\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723243,
+        "wk:page":"Sul%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"58ae19ef3b559763c8f3d832d87f2189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209038257
+        }
+    ],
+    "wof:id":1209038257,
+    "wof:lastmodified":1537700344,
+    "wof:name":"Vel'ky Sulin",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76296,
+    49.36997,
+    20.76296,
+    49.36997
+],
+  "geometry": {"coordinates":[20.76296,49.36997],"type":"Point"}
+}

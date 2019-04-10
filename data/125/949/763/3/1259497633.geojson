@@ -1,0 +1,74 @@
+{
+  "id": 1259497633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70055,48.27905,19.70055,48.27905",
+    "geom:latitude":48.27905,
+    "geom:longitude":19.70055,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mul'ka",
+    "gn:country_code":"SK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058618,
+    "gn:latitude":48.27905,
+    "gn:longitude":19.70055,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mu\u013eka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Kism\u00falyad"
+    ],
+    "name:und_x_variant":[
+        "Mu\u013eadka",
+        "Mu\u013eka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058618
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0888046ffca9ffab5b6bafb86fcc8bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1259497633,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1259497633,
+    "wof:lastmodified":1537700401,
+    "wof:name":"Mul'ka",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70055,
+    48.27905,
+    19.70055,
+    48.27905
+],
+  "geometry": {"coordinates":[19.70055,48.27905],"type":"Point"}
+}

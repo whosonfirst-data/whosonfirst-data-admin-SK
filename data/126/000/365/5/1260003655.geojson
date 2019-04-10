@@ -1,0 +1,67 @@
+{
+  "id": 1260003655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93384,48.85169,17.93384,48.85169",
+    "geom:latitude":48.85169,
+    "geom:longitude":17.93384,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Male Bierovce",
+    "gn:country_code":"SK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058870,
+    "gn:latitude":48.85169,
+    "gn:longitude":17.93384,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mal\u00e9 Bierovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058870
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b221d8cb9a1d7524734702d8ffeb0998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1260003655,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1260003655,
+    "wof:lastmodified":1536602989,
+    "wof:name":"Male Bierovce",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93384,
+    48.85169000000001,
+    17.93384,
+    48.85169000000001
+],
+  "geometry": {"coordinates":[17.93384,48.85169000000001],"type":"Point"}
+}

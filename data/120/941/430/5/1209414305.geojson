@@ -1,0 +1,62 @@
+{
+  "id": 1209414305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86147,49.09437,21.86147,49.09437",
+    "geom:latitude":49.09437,
+    "geom:longitude":21.86147,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hrubov",
+    "gn:country_code":"SK",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724639,
+    "gn:latitude":49.09437,
+    "gn:longitude":21.86147,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hrubov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724639,
+        "wk:page":"Hrubov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0a572dd5067f544c36294bcbba35de0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209414305
+        }
+    ],
+    "wof:id":1209414305,
+    "wof:lastmodified":1537573579,
+    "wof:name":"Hrubov",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86147,
+    49.09437,
+    21.86147,
+    49.09437
+],
+  "geometry": {"coordinates":[21.86147,49.09437],"type":"Point"}
+}

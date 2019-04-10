@@ -1,0 +1,67 @@
+{
+  "id": 1243181761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70162,48.41672,18.70162,48.41672",
+    "geom:latitude":48.41672,
+    "geom:longitude":18.70162,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Husarovsko",
+    "gn:country_code":"SK",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059819,
+    "gn:latitude":48.41672,
+    "gn:longitude":18.70162,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Hus\u00e1rovsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059819
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c2e4cf400bfa4e1c8c9bcec15320f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080499,
+            "locality_id":1243181761,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243181761,
+    "wof:lastmodified":1536690167,
+    "wof:name":"Husarovsko",
+    "wof:parent_id":102080499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70162,
+    48.41672,
+    18.70162,
+    48.41672
+],
+  "geometry": {"coordinates":[18.70162,48.41672],"type":"Point"}
+}

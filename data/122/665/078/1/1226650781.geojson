@@ -1,0 +1,67 @@
+{
+  "id": 1226650781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98181,49.18296,20.98181,49.18296",
+    "geom:latitude":49.18296,
+    "geom:longitude":20.98181,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lucka",
+    "gn:country_code":"SK",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724250,
+    "gn:latitude":49.18296,
+    "gn:longitude":20.98181,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"L\u00fa\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724250
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9fcc5c9d91b5b2f845cc0fef67ae5b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1226650781,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226650781,
+    "wof:lastmodified":1536851037,
+    "wof:name":"Lucka",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98181,
+    49.18296,
+    20.98181,
+    49.18296
+],
+  "geometry": {"coordinates":[20.98181,49.18296],"type":"Point"}
+}

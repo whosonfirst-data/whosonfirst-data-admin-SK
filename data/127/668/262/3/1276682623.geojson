@@ -1,0 +1,67 @@
+{
+  "id": 1276682623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95,48.93333,17.95,48.93333",
+    "geom:latitude":48.93333,
+    "geom:longitude":17.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lelasi",
+    "gn:country_code":"SK",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059115,
+    "gn:latitude":48.93333,
+    "gn:longitude":17.95,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Lela\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059115
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6728d228421e30d64802a4ca3b1486a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1276682623,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1276682623,
+    "wof:lastmodified":1536807407,
+    "wof:name":"Lelasi",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95,
+    48.93333,
+    17.95,
+    48.93333
+],
+  "geometry": {"coordinates":[17.95,48.93333],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101784001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":927253.292293,
+    "geom:bbox":"18.4466890019,48.4198533115,18.4676111228,48.4333162034",
+    "geom:latitude":48.427373,
+    "geom:longitude":18.457593,
+    "iso:country":"SK",
+    "lbl:latitude":48.427568,
+    "lbl:longitude":18.459178,
+    "mps:latitude":48.427568,
+    "mps:longitude":18.459178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Obyce"
+    ],
+    "name:ces_x_preferred":[
+        "Obyce"
+    ],
+    "name:cze_x_preferred":[
+        "Obyce"
+    ],
+    "name:deu_x_preferred":[
+        "Obyce"
+    ],
+    "name:dut_x_preferred":[
+        "Obyce"
+    ],
+    "name:eng_x_preferred":[
+        "Obyce"
+    ],
+    "name:epo_x_preferred":[
+        "Obyce"
+    ],
+    "name:fra_x_preferred":[
+        "Obyce"
+    ],
+    "name:fre_x_preferred":[
+        "Obyce"
+    ],
+    "name:ger_x_preferred":[
+        "Obyce"
+    ],
+    "name:hbs_x_preferred":[
+        "Obice"
+    ],
+    "name:hun_x_preferred":[
+        "Ebedec"
+    ],
+    "name:ita_x_preferred":[
+        "Obyce"
+    ],
+    "name:may_x_preferred":[
+        "Obyce"
+    ],
+    "name:msa_x_preferred":[
+        "Obyce"
+    ],
+    "name:nan_x_preferred":[
+        "Obyce"
+    ],
+    "name:nld_x_preferred":[
+        "Obyce"
+    ],
+    "name:slk_x_preferred":[
+        "Obyce"
+    ],
+    "name:slo_x_preferred":[
+        "Obyce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Obyce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Obyce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zlat\u00e9 Moravce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Obyce",
+    "qs:la_lc":"*SK237500658",
+    "qs:level":"locality",
+    "qs:loc":"Obyce",
+    "qs:loc_alt":"Obyce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058424,
+        "gp:id":821353,
+        "qs:id":402675,
+        "wd:id":"Q742071",
+        "wk:page":"Obyce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"543505b718489cc9d06b64fd0c9906e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":101784001,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101784001,
+    "wof:lastmodified":1527688540,
+    "wof:name":"Obyce",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4466890018769,
+    48.4198533114548,
+    18.46761112278892,
+    48.43331620336204
+],
+  "geometry": {"coordinates":[[[18.46522624754442,48.43300711534573],[18.46492394223333,48.43122136937825],[18.46761112278892,48.43101523775198],[18.46745993345178,48.43012236803463],[18.46611636912871,48.4302254398753],[18.46566291231863,48.42754682056119],[18.46431941332054,48.4276498697908],[18.46416829811255,48.42675699329948],[18.4628248175477,48.42686002414149],[18.46237158309259,48.42418138450887],[18.45699789205787,48.42459331979336],[18.45684692128083,48.42370043020281],[18.45281667076529,48.42400920444152],[18.45236401019758,48.42133051287232],[18.44967729214886,48.42153626834067],[18.44952646576371,48.42064336566227],[18.44818312267716,48.42074621687675],[18.44803232652436,48.4198533114548],[18.4466890018769,48.41995614428788],[18.44699055409654,48.42174195870706],[18.44833392562276,48.42163912166171],[18.44878637521856,48.42431783219422],[18.45012981206958,48.42421497255305],[18.45058239314761,48.42689367103208],[18.45192589532985,48.42679078879246],[18.45252952571269,48.43036236941697],[18.45656028360173,48.43005359973495],[18.45671127854399,48.43094648697308],[18.45805487794246,48.43084352907982],[18.45820590313764,48.43173641357151],[18.45954952097759,48.43163343728997],[18.45970057642802,48.43252631903488],[18.46104421270866,48.43242332436466],[18.46119529841656,48.43331620336204],[18.46522624754442,48.43300711534573]]],"type":"Polygon"}
+}

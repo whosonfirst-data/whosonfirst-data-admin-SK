@@ -1,0 +1,71 @@
+{
+  "id": 1326652883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16113,49.33483,21.16113,49.33483",
+    "geom:latitude":49.33483,
+    "geom:longitude":21.16113,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sverzov",
+    "gn:country_code":"SK",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723423,
+    "gn:latitude":49.33483,
+    "gn:longitude":21.16113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sver\u017eov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sver\u017eov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723423,
+        "wk:page":"Sver%C5%BEov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"22ff5c99fd1548e94f1c6b651b5c561b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1326652883,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1326652883,
+    "wof:lastmodified":1537700347,
+    "wof:name":"Sverzov",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16113,
+    49.33483,
+    21.16113,
+    49.33483
+],
+  "geometry": {"coordinates":[21.16113,49.33483],"type":"Point"}
+}

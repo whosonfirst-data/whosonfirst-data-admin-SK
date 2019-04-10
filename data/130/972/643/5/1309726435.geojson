@@ -1,0 +1,72 @@
+{
+  "id": 1309726435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19141,48.37407,20.19141,48.37407",
+    "geom:latitude":48.37407,
+    "geom:longitude":20.19141,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dulovo",
+    "gn:country_code":"SK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724839,
+    "gn:latitude":48.37407,
+    "gn:longitude":20.19141,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dulovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dulh\u00e1za",
+        "Dulovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724839,
+        "wk:page":"Dulovo%2C_Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a2e32e8bf101974fb16aba231aac2d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1309726435,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1309726435,
+    "wof:lastmodified":1537700371,
+    "wof:name":"Dulovo",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19141,
+    48.37407,
+    20.19141,
+    48.37407
+],
+  "geometry": {"coordinates":[20.19141,48.37407],"type":"Point"}
+}

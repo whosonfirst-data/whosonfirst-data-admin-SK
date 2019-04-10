@@ -1,0 +1,67 @@
+{
+  "id": 1259588003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71667,49.3,20.71667,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":20.71667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Podsadek",
+    "gn:country_code":"SK",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723863,
+    "gn:latitude":49.3,
+    "gn:longitude":20.71667,
+    "gn:modification_date":"2007-12-10",
+    "gn:name":"Podsadek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723863
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b846df8113f009903b41c93ab6d8ed96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1259588003,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1259588003,
+    "wof:lastmodified":1536708562,
+    "wof:name":"Podsadek",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71667,
+    49.3,
+    20.71667,
+    49.3
+],
+  "geometry": {"coordinates":[20.71667,49.3],"type":"Point"}
+}

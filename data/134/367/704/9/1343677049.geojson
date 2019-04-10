@@ -1,0 +1,67 @@
+{
+  "id": 1343677049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1453,48.63721,17.1453,48.63721",
+    "geom:latitude":48.63721,
+    "geom:longitude":17.1453,
+    "gn:asciiname":"Sastin-Straze",
+    "gn:country_code":"SK",
+    "gn:dem":169,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11054693,
+    "gn:latitude":48.63721,
+    "gn:longitude":17.1453,
+    "gn:modification_date":"2016-02-02",
+    "gn:name":"\u0160a\u0161t\u00edn-Str\u00e1\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054693
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ef1e0cec20531b9f96e8077b09a30db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1343677049,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1343677049,
+    "wof:lastmodified":1536931790,
+    "wof:name":"Sastin-Straze",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1453,
+    48.63721,
+    17.1453,
+    48.63721
+],
+  "geometry": {"coordinates":[17.1453,48.63721],"type":"Point"}
+}

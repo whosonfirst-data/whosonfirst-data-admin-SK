@@ -1,0 +1,71 @@
+{
+  "id": 1277001911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.394,49.2029,19.394,49.2029",
+    "geom:latitude":49.2029,
+    "geom:longitude":19.394,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pokryvac",
+    "gn:country_code":"SK",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058103,
+    "gn:latitude":49.2029,
+    "gn:longitude":19.394,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pokryv\u00e1\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokryv\u00e1\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058103,
+        "wk:page":"Pokryv%C3%A1%C4%8D"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"03ed976e4484c92431b870174443c591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1277001911,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1277001911,
+    "wof:lastmodified":1537700395,
+    "wof:name":"Pokryvac",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.394,
+    49.2029,
+    19.394,
+    49.2029
+],
+  "geometry": {"coordinates":[19.394,49.2029],"type":"Point"}
+}

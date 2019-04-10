@@ -1,0 +1,71 @@
+{
+  "id": 1276476625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57852,49.00725,21.57852,49.00725",
+    "geom:latitude":49.00725,
+    "geom:longitude":21.57852,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Skrabske",
+    "gn:country_code":"SK",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723599,
+    "gn:latitude":49.00725,
+    "gn:longitude":21.57852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Skrabsk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skrabsk\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723599,
+        "wk:page":"Skrabsk%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a8eec9cd65222957d6e1081945a2c278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1276476625,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276476625,
+    "wof:lastmodified":1537700349,
+    "wof:name":"Skrabske",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57852,
+    49.00725,
+    21.57852,
+    49.00725
+],
+  "geometry": {"coordinates":[21.57852,49.00725],"type":"Point"}
+}

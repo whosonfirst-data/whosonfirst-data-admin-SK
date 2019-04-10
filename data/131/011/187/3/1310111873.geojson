@@ -1,0 +1,71 @@
+{
+  "id": 1310111873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3824,48.44398,18.3824,48.44398",
+    "geom:latitude":48.44398,
+    "geom:longitude":18.3824,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zikava",
+    "gn:country_code":"SK",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056509,
+    "gn:latitude":48.44398,
+    "gn:longitude":18.3824,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u017dikava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dikava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056509,
+        "wk:page":"%C5%BDikava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"aa63408a6e2cfcc38bb6556f99d63cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1310111873,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310111873,
+    "wof:lastmodified":1537700378,
+    "wof:name":"Zikava",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3824,
+    48.44398,
+    18.3824,
+    48.44398
+],
+  "geometry": {"coordinates":[18.3824,48.44398],"type":"Point"}
+}

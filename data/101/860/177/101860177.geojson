@@ -1,0 +1,145 @@
+{
+  "id": 101860177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.571544,49.249847,20.571544,49.249847",
+    "geom:latitude":49.249847,
+    "geom:longitude":20.571544,
+    "iso:country":"SK",
+    "lbl:latitude":49.249847,
+    "lbl:longitude":20.571544,
+    "mps:latitude":49.249847,
+    "mps:longitude":20.571544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:ces_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:cze_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:dut_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:fre_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Kislomnic"
+    ],
+    "name:ita_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:may_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:nan_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141omniczka"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u043e\u043c\u043d\u0456\u0447\u043a\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043c\u045a\u0438\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043c\u043d\u0438\u0447\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Star\u00e1 Lubovna",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lomni\u010dka",
+    "qs:loc_alt":"Lomnicka",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724272,
+        "gp:id":820699,
+        "qs:id":6,
+        "wd:id":"Q668046",
+        "wk:page":"Lomni\u010dka (Star\u00e1 \u013dubov\u0148a District)"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b3bb8f192d8a8b07b1cd3cc19745409d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":101860177,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101860177,
+    "wof:lastmodified":1553815553,
+    "wof:name":"Lomni\u010dka",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.571544,
+    49.249847,
+    20.571544,
+    49.249847
+],
+  "geometry": {"coordinates":[20.571544,49.249847],"type":"Point"}
+}

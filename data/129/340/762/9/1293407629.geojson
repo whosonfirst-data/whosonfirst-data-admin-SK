@@ -1,0 +1,67 @@
+{
+  "id": 1293407629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.95,48.35,19.95,48.35",
+    "geom:latitude":48.35,
+    "geom:longitude":19.95,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Opatska Pustatina",
+    "gn:country_code":"SK",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058384,
+    "gn:latitude":48.35,
+    "gn:longitude":19.95,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Opatsk\u00e1 Pustatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058384
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1665e883de4914466700268b77ddbe16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1293407629,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293407629,
+    "wof:lastmodified":1536902259,
+    "wof:name":"Opatska Pustatina",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.95,
+    48.35,
+    19.95,
+    48.35
+],
+  "geometry": {"coordinates":[19.95,48.35],"type":"Point"}
+}

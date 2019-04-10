@@ -1,0 +1,73 @@
+{
+  "id": 1293783229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57745,49.28113,20.57745,49.28113",
+    "geom:latitude":49.28113,
+    "geom:longitude":20.57745,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizne Ruzbachy",
+    "gn:country_code":"SK",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724045,
+    "gn:latitude":49.28113,
+    "gn:longitude":20.57745,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e9 Ru\u017ebachy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Druzbaki Ni\u017cny",
+        "Ni\u017enie Ru\u017ebachy",
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724045,
+        "wk:page":"Ni%C5%BEn%C3%A9_Ru%C5%BEbachy"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6a622b271cde008ff8709d3e9079ec51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1293783229,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293783229,
+    "wof:lastmodified":1537700357,
+    "wof:name":"Nizne Ruzbachy",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57745,
+    49.28113,
+    20.57745,
+    49.28113
+],
+  "geometry": {"coordinates":[20.57745,49.28113],"type":"Point"}
+}

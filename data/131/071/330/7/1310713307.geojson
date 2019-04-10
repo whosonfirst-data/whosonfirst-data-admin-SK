@@ -1,0 +1,72 @@
+{
+  "id": 1310713307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46076,48.65645,20.46076,48.65645",
+    "geom:latitude":48.65645,
+    "geom:longitude":20.46076,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rakovnica",
+    "gn:country_code":"SK",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723776,
+    "gn:latitude":48.65645,
+    "gn:longitude":20.46076,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rakovnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reke\u0148a",
+        "Rakovnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723776,
+        "wk:page":"Rakovnica"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e74175e60a93eb6008191b5a71a5d6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1310713307,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310713307,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Rakovnica",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46076,
+    48.65645,
+    20.46076,
+    48.65645
+],
+  "geometry": {"coordinates":[20.46076,48.65645],"type":"Point"}
+}

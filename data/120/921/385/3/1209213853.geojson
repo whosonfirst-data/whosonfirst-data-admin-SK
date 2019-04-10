@@ -1,0 +1,61 @@
+{
+  "id": 1209213853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53205,49.03264,21.53205,49.03264",
+    "geom:latitude":49.03264,
+    "geom:longitude":21.53205,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vyduma",
+    "gn:country_code":"SK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723181,
+    "gn:latitude":49.03264,
+    "gn:longitude":21.53205,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Vyduma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723181
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7ec3ac95ea046388ecf02d8c51281b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209213853
+        }
+    ],
+    "wof:id":1209213853,
+    "wof:lastmodified":1536294200,
+    "wof:name":"Vyduma",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53205,
+    49.03264,
+    21.53205,
+    49.03264
+],
+  "geometry": {"coordinates":[21.53205,49.03264],"type":"Point"}
+}

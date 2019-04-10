@@ -1,0 +1,71 @@
+{
+  "id": 1293223413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17008,49.06624,22.17008,49.06624",
+    "geom:latitude":49.06624,
+    "geom:longitude":22.17008,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pcoline",
+    "gn:country_code":"SK",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723913,
+    "gn:latitude":49.06624,
+    "gn:longitude":22.17008,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u010dolin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u010dolin\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723913,
+        "wk:page":"P%C4%8Dolin%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d1071c9ff05a54521301f050c9905d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080599,
+            "locality_id":1293223413,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293223413,
+    "wof:lastmodified":1537700355,
+    "wof:name":"Pcoline",
+    "wof:parent_id":102080599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17008,
+    49.06624,
+    22.17008,
+    49.06624
+],
+  "geometry": {"coordinates":[22.17008,49.06624],"type":"Point"}
+}

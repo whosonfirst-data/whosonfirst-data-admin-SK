@@ -1,0 +1,141 @@
+{
+  "id": 101786353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":1565483.860177,
+    "geom:bbox":"18.3324668628,48.0971783994,18.3573941585,48.1146566403",
+    "geom:latitude":48.105325,
+    "geom:longitude":18.342606,
+    "iso:country":"SK",
+    "lbl:latitude":48.104272,
+    "lbl:longitude":18.337413,
+    "mps:latitude":48.104272,
+    "mps:longitude":18.337413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:deu_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:dut_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:eng_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:epo_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:fra_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:fre_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:ger_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:hbs_x_preferred":[
+        "Podhajska"
+    ],
+    "name:hun_x_preferred":[
+        "Bellegszencse"
+    ],
+    "name:ita_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:may_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:msa_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:nan_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:nld_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:slk_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:slo_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:spa_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0445\u0430\u0458\u0441\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Podh\u00e1jska"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Z\u00e1mky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Podh\u00e1jska",
+    "qs:la_lc":"*SK234503479",
+    "qs:level":"locality",
+    "qs:loc":"Podh\u00e1jska",
+    "qs:loc_alt":"Podhajska",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7197210,
+        "gp:id":821642,
+        "qs:id":1181905,
+        "qs_pg:id":1181905,
+        "wd:id":"Q595525",
+        "wk:page":"Podh\u00e1jska"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d9702a7d83a70964da0ad9dfbaaecb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080463,
+            "locality_id":101786353,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101786353,
+    "wof:lastmodified":1527715642,
+    "wof:name":"Podh\u00e1jska",
+    "wof:parent_id":102080463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33246686284019,
+    48.09717839942749,
+    18.35739415848241,
+    48.11465664030254
+],
+  "geometry": {"coordinates":[[[18.33602195078527,48.11455525991863],[18.33587453149482,48.11366203764027],[18.33854541424108,48.11345923248609],[18.33839795534959,48.11256601367961],[18.33973336634881,48.11246458891026],[18.33929095997928,48.10978493479348],[18.34062629683814,48.10968350003475],[18.34003642169529,48.10611062707176],[18.3493829972856,48.10540018880232],[18.35012116593958,48.10986620628222],[18.35279180333725,48.10966305782421],[18.35264411020717,48.10876985974528],[18.35531468199093,48.10856665075005],[18.35472379084376,48.10499386846385],[18.35739415848241,48.10479061131196],[18.35709866022506,48.10300422453622],[18.35576352500595,48.1031058570685],[18.35561580887793,48.10221266064696],[18.35428069188657,48.10231427495376],[18.35413300545122,48.1014210758226],[18.35279790668704,48.10152267190489],[18.35265024994283,48.1006294700644],[18.34063435042975,48.10154308893527],[18.34019204306139,48.09886342390905],[18.33885698811656,48.0989648501274],[18.33856219568327,48.09717839942749],[18.33589216358331,48.09738119514617],[18.33618686368851,48.09916765407701],[18.33485179420654,48.09926903180832],[18.3352938245593,48.10194872153016],[18.33395868097676,48.10205008927034],[18.3342533546695,48.10383654996934],[18.33291816006573,48.1039379056603],[18.33380220084445,48.10929728460178],[18.33246686284019,48.10939863647127],[18.33320362935268,48.11386477812385],[18.33453908284804,48.11376341596593],[18.33468647903771,48.11465664030254],[18.33602195078527,48.11455525991863]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209246513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94067,49.15338,21.94067,49.15338",
+    "geom:latitude":49.15338,
+    "geom:longitude":21.94067,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zbudska Bela",
+    "gn:country_code":"SK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723088,
+    "gn:latitude":49.15338,
+    "gn:longitude":21.94067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zbudsk\u00e1 Bel\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zbudsk\u00e1 Bel\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723088,
+        "wk:page":"Zbudsk%C3%A1_Bel%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"89fed6355cd150ec32ace830b80da88c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209246513
+        }
+    ],
+    "wof:id":1209246513,
+    "wof:lastmodified":1537700340,
+    "wof:name":"Zbudska Bela",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94067,
+    49.15338,
+    21.94067,
+    49.15338
+],
+  "geometry": {"coordinates":[21.94067,49.15338],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293199797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00527,49.19203,22.00527,49.19203",
+    "geom:latitude":49.19203,
+    "geom:longitude":22.00527,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vyrava",
+    "gn:country_code":"SK",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723176,
+    "gn:latitude":49.19203,
+    "gn:longitude":22.00527,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"V\u00fdrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723176,
+        "wk:page":"V%C3%BDrava_%28Medzilaborce_District%29"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f4ab82b9d0f9bfa0752d254a55b5d72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080617,
+            "locality_id":1293199797,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293199797,
+    "wof:lastmodified":1537573559,
+    "wof:name":"Vyrava",
+    "wof:parent_id":102080617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00527,
+    49.19203,
+    22.00527,
+    49.19203
+],
+  "geometry": {"coordinates":[22.00527,49.19203],"type":"Point"}
+}

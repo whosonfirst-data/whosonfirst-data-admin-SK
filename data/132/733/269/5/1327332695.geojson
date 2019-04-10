@@ -1,0 +1,77 @@
+{
+  "id": 1327332695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70733,49.35371,21.70733,49.35371",
+    "geom:latitude":49.35371,
+    "geom:longitude":21.70733,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bodruzzal'",
+    "gn:country_code":"SK",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725108,
+    "gn:latitude":49.35371,
+    "gn:longitude":21.70733,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bodru\u017eza\u013e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Bodru\u017eal"
+    ],
+    "name:slk_x_variant":[
+        "Bodru\u017ea\u013e"
+    ],
+    "name:und_x_variant":[
+        "Bodru\u017eza\u013e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725108,
+        "wk:page":"Bodru%C5%BEal"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"53b1f6e855003ef8f2662039a9c45f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1327332695,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327332695,
+    "wof:lastmodified":1537700375,
+    "wof:name":"Bodruzzal'",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70733,
+    49.35371,
+    21.70733,
+    49.35371
+],
+  "geometry": {"coordinates":[21.70733,49.35371],"type":"Point"}
+}

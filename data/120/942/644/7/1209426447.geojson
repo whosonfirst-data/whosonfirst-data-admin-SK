@@ -1,0 +1,65 @@
+{
+  "id": 1209426447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26545,48.73225,22.26545,48.73225",
+    "geom:latitude":48.73225,
+    "geom:longitude":22.26545,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Porubka",
+    "gn:country_code":"SK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723834,
+    "gn:latitude":48.73225,
+    "gn:longitude":22.26545,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Por\u00fabka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Por\u00fabka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723834,
+        "wk:page":"Por%C3%BAbka%2C_Sobrance_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cdb0f5b2c558aa7fd10f7d8dc864dc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209426447
+        }
+    ],
+    "wof:id":1209426447,
+    "wof:lastmodified":1537700354,
+    "wof:name":"Porubka",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26545,
+    48.73225,
+    22.26545,
+    48.73225
+],
+  "geometry": {"coordinates":[22.26545,48.73225],"type":"Point"}
+}

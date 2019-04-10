@@ -1,0 +1,138 @@
+{
+  "id": 1125800263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5471,49.12038,19.5471,49.12038",
+    "geom:latitude":49.12038,
+    "geom:longitude":19.5471,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":550,
+    "gn:population":550,
+    "iso:country":"SK",
+    "lbl:latitude":49.12038,
+    "lbl:longitude":19.5471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:cze_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:dut_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:eng_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:epo_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:fre_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:ger_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:hun_x_preferred":[
+        "Tarn\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:may_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:pol_x_preferred":[
+        "Liptowski Tarnowiec"
+    ],
+    "name:slk_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:slo_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438 \u0422\u0440\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:war_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3059046,
+    "qs_pg:gn_pop":550,
+    "qs_pg:name":"Liptovsk\u00fd Trnovec",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":271584,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":820681,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059046,
+        "gp:id":820681,
+        "qs_pg:id":271584,
+        "wd:id":"Q1072522"
+    },
+    "wof:country":"SK",
+    "wof:created":1497291229,
+    "wof:geomhash":"86f82ce6de32055ef9ada6a672b9173d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":1125800263,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125800263,
+    "wof:lastmodified":1514505165,
+    "wof:name":"Liptovsk\u00fd Trnovec",
+    "wof:parent_id":102080577,
+    "wof:placetype":"locality",
+    "wof:population":550,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5471,
+    49.12038,
+    19.5471,
+    49.12038
+],
+  "geometry": {"coordinates":[19.5471,49.12038],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277068521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37416,48.00264,17.37416,48.00264",
+    "geom:latitude":48.00264,
+    "geom:longitude":17.37416,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bac",
+    "gn:country_code":"SK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061224,
+    "gn:latitude":48.00264,
+    "gn:longitude":17.37416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e1\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u010dfa",
+        "B\u00e1\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061224,
+        "wk:page":"B%C3%A1%C4%8D"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9b844efaf414572d961406c40483ecdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1277068521,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1277068521,
+    "wof:lastmodified":1537700438,
+    "wof:name":"Bac",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37416,
+    48.00264,
+    17.37416,
+    48.00264
+],
+  "geometry": {"coordinates":[17.37416,48.00264],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 101782933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":987044.758216,
+    "geom:bbox":"21.3267308549,48.5645197275,21.3478716033,48.5828196022",
+    "geom:latitude":48.574723,
+    "geom:longitude":21.334865,
+    "iso:country":"SK",
+    "lbl:latitude":48.576659,
+    "lbl:longitude":21.334144,
+    "mps:latitude":48.576659,
+    "mps:longitude":21.334144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:deu_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:dut_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:eng_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:epo_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:fra_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:fre_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:ger_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:hun_x_preferred":[
+        "Aba\u00fajn\u00e1dasd"
+    ],
+    "name:ita_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:may_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:msa_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:nan_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:nld_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:pol_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:slk_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:slo_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0458\u0435\u045a\u0435 \u043f\u0440\u0438 \u0425\u043e\u0440\u043d\u0430\u0434\u0443"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e1do\u0161\u0165"
+    ],
+    "name:war_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Gy\u0148ov",
+    "qs:la_lc":"*SK426521388",
+    "qs:level":"locality",
+    "qs:loc":"Trsten\u00e9 pri Horn\u00e1de",
+    "qs:loc_alt":"Trstene pri Hornade",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057106,
+        "gp:id":822741,
+        "qs:id":940111,
+        "qs_pg:id":289625,
+        "wd:id":"Q479394",
+        "wk:page":"Trsten\u00e9 pri Horn\u00e1de"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"13f57b74548a3cda1875686c6fc7dda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782933,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782933,
+    "wof:lastmodified":1527688321,
+    "wof:name":"Trsten\u00e9 pri Horn\u00e1de",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32673085485334,
+    48.56451972752171,
+    21.34787160326778,
+    48.58281960215942
+],
+  "geometry": {"coordinates":[[[21.33888587736448,48.57844256360931],[21.33847959731276,48.57666775118321],[21.34116306121132,48.57639184758278],[21.34095988875629,48.57550444572377],[21.34498496499288,48.57509047743105],[21.34518820662402,48.57597787081704],[21.34787160326778,48.57570180539835],[21.34746503690872,48.57392702906355],[21.34075672543031,48.57461704300289],[21.34035042616102,48.57284223497453],[21.33900878980648,48.57298018357193],[21.33880567691858,48.57209277544166],[21.33746405689817,48.57223070503528],[21.3368548421459,48.56956846700382],[21.33551328456923,48.56970637195013],[21.33490422107519,48.56704411769522],[21.33356272593642,48.56718199799707],[21.33295381366895,48.56451972752171],[21.33027094154306,48.56479542266379],[21.33047385708289,48.56568285265837],[21.32913238789934,48.56582067878185],[21.32933528950457,48.56670811073536],[21.33067678173882,48.56657028179154],[21.33108265839962,48.56834513747322],[21.33242419002266,48.56820728670914],[21.33283014926099,48.56998213330291],[21.33417172027401,48.56984426071654],[21.33478079669658,48.57250651568057],[21.32673085485334,48.57333355926812],[21.32693376021871,48.57422099279268],[21.32827545704401,48.57408318982806],[21.32929023595364,48.5785203304348],[21.33063204137488,48.5783824971835],[21.33164716364342,48.58281960215942],[21.33433098499347,48.58254385888495],[21.3339248164433,48.58076903076687],[21.3379503596438,48.58035531140877],[21.33754408920657,48.57858049678265],[21.33888587736448,48.57844256360931]]],"type":"Polygon"}
+}

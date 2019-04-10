@@ -1,0 +1,68 @@
+{
+  "id": 1193136529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60025,49.00214,21.60025,49.00214",
+    "geom:latitude":49.00214,
+    "geom:longitude":21.60025,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Petkovce",
+    "gn:country_code":"SK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723907,
+    "gn:latitude":49.00214,
+    "gn:longitude":21.60025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723907,
+        "wk:page":"Petkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f58006af07fd59fc691169501b1de8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1193136529,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1193136529,
+    "wof:lastmodified":1537573569,
+    "wof:name":"Petkovce",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60025,
+    49.00214,
+    21.60025,
+    49.00214
+],
+  "geometry": {"coordinates":[21.60025,49.00214],"type":"Point"}
+}

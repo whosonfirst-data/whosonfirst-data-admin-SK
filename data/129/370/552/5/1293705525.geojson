@@ -1,0 +1,75 @@
+{
+  "id": 1293705525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84841,47.90017,17.84841,47.90017",
+    "geom:latitude":47.90017,
+    "geom:longitude":17.84841,
+    "gn:asciiname":"Golyasmajor",
+    "gn:country_code":"SK",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6690550,
+    "gn:latitude":47.90017,
+    "gn:longitude":17.84841,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"G\u00f3ly\u00e1smajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "G\u00f3ly\u00e1s"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00fd Go\u013e\u00e1\u0161"
+    ],
+    "name:slk_x_variant":[
+        "Star\u00fd Go\u013e\u00e1\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690550
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cd35599ced7ed1021a9f035a855764a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1293705525,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1293705525,
+    "wof:lastmodified":1537700439,
+    "wof:name":"Golyasmajor",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84841,
+    47.90017,
+    17.84841,
+    47.90017
+],
+  "geometry": {"coordinates":[17.84841,47.90017],"type":"Point"}
+}

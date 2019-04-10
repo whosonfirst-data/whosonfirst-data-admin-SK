@@ -1,0 +1,65 @@
+{
+  "id": 1209621099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25,48.18333,18.25,48.18333",
+    "geom:latitude":48.18333,
+    "geom:longitude":18.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Michalsky Majer",
+    "gn:country_code":"SK",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058718,
+    "gn:latitude":48.18333,
+    "gn:longitude":18.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Michalsk\u00fd Majer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michalsk\u00fd Dvor",
+        "Michalsk\u00fd Majer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058718
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"63e1b4eb614705cc44008eea5b4d4035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209621099
+        }
+    ],
+    "wof:id":1209621099,
+    "wof:lastmodified":1537700402,
+    "wof:name":"Michalsky Majer",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25,
+    48.18333,
+    18.25,
+    48.18333
+],
+  "geometry": {"coordinates":[18.25,48.18333],"type":"Point"}
+}

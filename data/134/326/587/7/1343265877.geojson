@@ -1,0 +1,72 @@
+{
+  "id": 1343265877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21444,48.28024,20.21444,48.28024",
+    "geom:latitude":48.28024,
+    "geom:longitude":20.21444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Janice",
+    "gn:country_code":"SK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724587,
+    "gn:latitude":48.28024,
+    "gn:longitude":20.21444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Janice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e9ne",
+        "Janice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724587,
+        "wk:page":"Janice%2C_Rimavsk%C3%A1_Sobota_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f0c77042472c8c95c92d51ff865caa65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":1343265877,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1343265877,
+    "wof:lastmodified":1537700367,
+    "wof:name":"Janice",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21444,
+    48.28024,
+    20.21444,
+    48.28024
+],
+  "geometry": {"coordinates":[20.21444,48.28024],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293685905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32439,48.97728,21.32439,48.97728",
+    "geom:latitude":48.97728,
+    "geom:longitude":21.32439,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ruska Nova Ves",
+    "gn:country_code":"SK",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723694,
+    "gn:latitude":48.97728,
+    "gn:longitude":21.32439,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rusk\u00e1 Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723694,
+        "wk:page":"Rusk%C3%A1_Nov%C3%A1_Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4f5c93e3875d8e23cfa0e4a90cb5b32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1293685905,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293685905,
+    "wof:lastmodified":1537700351,
+    "wof:name":"Ruska Nova Ves",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32439,
+    48.97728,
+    21.32439,
+    48.97728
+],
+  "geometry": {"coordinates":[21.32439,48.97728],"type":"Point"}
+}

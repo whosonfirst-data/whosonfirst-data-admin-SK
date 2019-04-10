@@ -1,0 +1,163 @@
+{
+  "id": 101843825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":378847.704294,
+    "geom:bbox":"19.1793965361,48.7561693257,19.1897354085,48.769657683",
+    "geom:latitude":48.76309,
+    "geom:longitude":19.184949,
+    "iso:country":"SK",
+    "lbl:latitude":48.763316,
+    "lbl:longitude":19.185301,
+    "mps:latitude":48.763316,
+    "mps:longitude":19.185301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nemce"
+    ],
+    "name:ces_x_preferred":[
+        "Nemce"
+    ],
+    "name:cze_x_preferred":[
+        "Nemce"
+    ],
+    "name:deu_x_preferred":[
+        "Nemce"
+    ],
+    "name:dut_x_preferred":[
+        "Nemce"
+    ],
+    "name:eng_x_preferred":[
+        "Nemce"
+    ],
+    "name:epo_x_preferred":[
+        "Nemce"
+    ],
+    "name:fra_x_preferred":[
+        "Nemce"
+    ],
+    "name:fre_x_preferred":[
+        "Nemce"
+    ],
+    "name:ger_x_preferred":[
+        "Nemce"
+    ],
+    "name:hbs_x_preferred":[
+        "Njemce"
+    ],
+    "name:hun_x_preferred":[
+        "Z\u00f3lyomn\u00e9meti"
+    ],
+    "name:ita_x_preferred":[
+        "Nemce"
+    ],
+    "name:may_x_preferred":[
+        "Nemce"
+    ],
+    "name:msa_x_preferred":[
+        "Nemce"
+    ],
+    "name:nan_x_preferred":[
+        "Nemce"
+    ],
+    "name:nld_x_preferred":[
+        "Nemce"
+    ],
+    "name:nob_x_preferred":[
+        "Nemce"
+    ],
+    "name:pol_x_preferred":[
+        "Nemce"
+    ],
+    "name:slk_x_preferred":[
+        "Nemce"
+    ],
+    "name:slo_x_preferred":[
+        "Nemce"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u043c\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0454\u043c\u0446\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Zvolenske Nemce"
+    ],
+    "name:und_x_preferred":[
+        "Zvolensk\u00e9 Nemce"
+    ],
+    "name:war_x_preferred":[
+        "Nemce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nemce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Bansk\u00e1 Bystrica",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Selce",
+    "qs:la_lc":"*SK321508985",
+    "qs:level":"locality",
+    "qs:loc":"Nemce",
+    "qs:loc_alt":"Nemce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0710e65a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3056456,
+        "gp:id":823424,
+        "wd:id":"Q248973",
+        "wk:page":"Nemce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"bfb9fdccd2a51db543daa3b52f19ed9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":101843825,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101843825,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642598,
+    "wof:name":"Nemce",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17939653610597,
+    48.75616932566896,
+    19.1897354084532,
+    48.76965768297788
+],
+  "geometry": {"coordinates":[[[19.1897354084532,48.75795235906668],[19.18940403396289,48.75616932566896],[19.18670202955349,48.75639319328798],[19.18686766562689,48.75728471494818],[19.18551663141153,48.75739662652154],[19.18601351352993,48.76007119440015],[19.1846624026449,48.76018309654285],[19.18499364748908,48.76196614305491],[19.18364248364037,48.76207803345403],[19.18380809360394,48.76296955801274],[19.18245690050435,48.7630814343558],[19.18262249425533,48.76397296055353],[19.18127127190371,48.76408482283989],[19.1817680270243,48.76675940433341],[19.18041672797688,48.76687125718468],[19.18074788813465,48.76865431277531],[19.17939653610597,48.76876615387937],[19.17956210371665,48.76965768297788],[19.18361621437464,48.76932210361997],[19.18328494430978,48.76753905862068],[19.18463625601072,48.76742717071818],[19.18430496852847,48.76564412765356],[19.18565622725077,48.76553222800612],[19.18549057105002,48.76464070777729],[19.18684180051667,48.76452879407356],[19.18667612810486,48.76363727548448],[19.18802732831705,48.76352534772496],[19.18753028497827,48.7608507948587],[19.18888140850709,48.76073885766954],[19.18838436159695,48.758064305684],[19.1897354084532,48.75795235906668]]],"type":"Polygon"}
+}

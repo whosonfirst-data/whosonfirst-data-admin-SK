@@ -1,0 +1,62 @@
+{
+  "id": 1209220539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45548,49.04475,18.45548,49.04475",
+    "geom:latitude":49.04475,
+    "geom:longitude":18.45548,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Podskalie",
+    "gn:country_code":"SK",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058123,
+    "gn:latitude":49.04475,
+    "gn:longitude":18.45548,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Podskalie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058123,
+        "wk:page":"Podskalie"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5605052862321b3ec8cafbe1f6aa8da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209220539
+        }
+    ],
+    "wof:id":1209220539,
+    "wof:lastmodified":1537573595,
+    "wof:name":"Podskalie",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45548,
+    49.04475,
+    18.45548,
+    49.04475
+],
+  "geometry": {"coordinates":[18.45548,49.04475],"type":"Point"}
+}

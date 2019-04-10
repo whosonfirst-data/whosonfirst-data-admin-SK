@@ -1,0 +1,72 @@
+{
+  "id": 1327332719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14102,49.10558,21.14102,49.10558",
+    "geom:latitude":49.10558,
+    "geom:longitude":21.14102,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jakubovany",
+    "gn:country_code":"SK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724592,
+    "gn:latitude":49.10558,
+    "gn:longitude":21.14102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jakubovany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jakuboviany",
+        "Jakubovany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724592,
+        "wk:page":"Jakubovany%2C_Sabinov_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"831675640fc379131f451dac91f643bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1327332719,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327332719,
+    "wof:lastmodified":1537700367,
+    "wof:name":"Jakubovany",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14102,
+    49.10558,
+    21.14102,
+    49.10558
+],
+  "geometry": {"coordinates":[21.14102,49.10558],"type":"Point"}
+}

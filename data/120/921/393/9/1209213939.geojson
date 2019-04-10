@@ -1,0 +1,65 @@
+{
+  "id": 1209213939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14242,49.05152,20.14242,49.05152",
+    "geom:latitude":49.05152,
+    "geom:longitude":20.14242,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lucivna",
+    "gn:country_code":"SK",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724255,
+    "gn:latitude":49.05152,
+    "gn:longitude":20.14242,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lu\u010divn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu\u010divn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724255,
+        "wk:page":"Lu%C4%8Divn%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"32e9da696c0f2275e0030bce044c78ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209213939
+        }
+    ],
+    "wof:id":1209213939,
+    "wof:lastmodified":1537700361,
+    "wof:name":"Lucivna",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14242,
+    49.05152,
+    20.14242,
+    49.05152
+],
+  "geometry": {"coordinates":[20.14242,49.05152],"type":"Point"}
+}

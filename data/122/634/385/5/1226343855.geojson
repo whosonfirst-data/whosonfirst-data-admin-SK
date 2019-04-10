@@ -1,0 +1,71 @@
+{
+  "id": 1226343855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01938,48.75233,22.01938,48.75233",
+    "geom:latitude":48.75233,
+    "geom:longitude":22.01938,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hazin",
+    "gn:country_code":"SK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724731,
+    "gn:latitude":48.75233,
+    "gn:longitude":22.01938,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u017e\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha\u017e\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724731,
+        "wk:page":"Ha%C5%BE%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dd8b4765c550ffb10ec5163f72ea52c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1226343855,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226343855,
+    "wof:lastmodified":1537700369,
+    "wof:name":"Hazin",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01938,
+    48.75233,
+    22.01938,
+    48.75233
+],
+  "geometry": {"coordinates":[22.01938,48.75233],"type":"Point"}
+}

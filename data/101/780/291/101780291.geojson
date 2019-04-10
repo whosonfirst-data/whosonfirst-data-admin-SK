@@ -1,0 +1,147 @@
+{
+  "id": 101780291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1316002.016128,
+    "geom:bbox":"21.7723869362,48.7595442485,21.7914437341,48.7804776578",
+    "geom:latitude":48.771012,
+    "geom:longitude":21.783066,
+    "iso:country":"SK",
+    "lbl:latitude":48.773497,
+    "lbl:longitude":21.782416,
+    "mps:latitude":48.773497,
+    "mps:longitude":21.782416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:deu_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:dut_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:eng_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:epo_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:fra_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:fre_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:ger_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:hbs_x_preferred":[
+        "Rakovec na Ondavi"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1k\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:may_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:msa_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:nan_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:nld_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:pol_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:slk_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:slo_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0435\u0446 \u043d\u0430 \u041e\u043d\u0434\u0430\u0432\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0435\u0446-\u043d\u0430\u0434-\u041e\u043d\u0434\u0430\u0432\u043e\u044e"
+    ],
+    "name:war_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Rakovec nad Ondavou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Michalovce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Rakovec nad Ondavou",
+    "qs:la_lc":"*SK427522996",
+    "qs:level":"locality",
+    "qs:loc":"Rakovec nad Ondavou",
+    "qs:loc_alt":"Rakovec nad Ondavou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723777,
+        "gp:id":821904,
+        "qs:id":904515,
+        "qs_pg:id":904515,
+        "wd:id":"Q945141",
+        "wk:page":"Rakovec nad Ondavou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fc7e3e4296043b383621d8f1da21bb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":101780291,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780291,
+    "wof:lastmodified":1527715875,
+    "wof:name":"Rakovec nad Ondavou",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77238693620774,
+    48.75954424854467,
+    21.7914437341272,
+    48.78047765776142
+],
+  "geometry": {"coordinates":[[[21.77996639485764,48.7803343016048],[21.77954178040591,48.77856161939201],[21.78627210396377,48.7778446246582],[21.78648452237394,48.77873095146339],[21.78783058909937,48.77858750087938],[21.78761814749657,48.77770117702454],[21.79031021337829,48.77741423307168],[21.79009773497023,48.77652791422298],[21.7914437341272,48.77638442085538],[21.79123124210798,48.77549810406225],[21.78988526614017,48.77564159447843],[21.7892479171129,48.77298262986938],[21.78790200364654,48.77312609520607],[21.78768959630861,48.77223976892742],[21.78634369896906,48.7723832150869],[21.78422038386952,48.7635198735332],[21.78960300366793,48.76294610952891],[21.78939063208753,48.762059782243],[21.79073624622441,48.7619163036336],[21.79031148543027,48.76014365227155],[21.78762034278941,48.76043058146928],[21.78740802308931,48.75954424854467],[21.78068015891313,48.76026127290601],[21.78174127374115,48.7646930022774],[21.78039556387313,48.76483637321991],[21.78103227801284,48.76749540893985],[21.77834069803976,48.7677821198377],[21.77918959868731,48.77132751184683],[21.77784370538399,48.7714708547478],[21.77848041175588,48.77412989820078],[21.77713444183337,48.77427323371842],[21.77777116474084,48.77693227796192],[21.77238693620774,48.77750549311935],[21.77259910353411,48.77839185120177],[21.77394519444329,48.77824856880903],[21.77415739453136,48.77913492305026],[21.77684960157956,48.77884830368043],[21.77706185762838,48.77973465113132],[21.77840797376552,48.77959131415349],[21.77862026258049,48.78047765776142],[21.77996639485764,48.7803343016048]]],"type":"Polygon"}
+}

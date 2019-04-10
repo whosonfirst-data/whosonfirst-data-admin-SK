@@ -1,0 +1,67 @@
+{
+  "id": 1243571761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.58333,48.8,19.58333,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":19.58333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Huta",
+    "gn:country_code":"SK",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059811,
+    "gn:latitude":48.8,
+    "gn:longitude":19.58333,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Huta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059811
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1d3f0548613ff3e224e25766690b65c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1243571761,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243571761,
+    "wof:lastmodified":1536622969,
+    "wof:name":"Huta",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.58333,
+    48.8,
+    19.58333,
+    48.8
+],
+  "geometry": {"coordinates":[19.58333,48.8],"type":"Point"}
+}

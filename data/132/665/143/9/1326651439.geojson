@@ -1,0 +1,67 @@
+{
+  "id": 1326651439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4338,48.73864,17.4338,48.73864",
+    "geom:latitude":48.73864,
+    "geom:longitude":17.4338,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Majericky",
+    "gn:country_code":"SK",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058914,
+    "gn:latitude":48.73864,
+    "gn:longitude":17.4338,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Majer\u00ed\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058914
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d2500a55d0ede3626679dd918b78826d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1326651439,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1326651439,
+    "wof:lastmodified":1536811680,
+    "wof:name":"Majericky",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4338,
+    48.73864,
+    17.4338,
+    48.73864
+],
+  "geometry": {"coordinates":[17.4338,48.73864],"type":"Point"}
+}

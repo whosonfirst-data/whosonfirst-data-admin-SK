@@ -1,0 +1,71 @@
+{
+  "id": 1293882757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12971,48.98776,21.12971,48.98776",
+    "geom:latitude":48.98776,
+    "geom:longitude":21.12971,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sarisske Luzianky",
+    "gn:country_code":"SK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723650,
+    "gn:latitude":48.98776,
+    "gn:longitude":21.12971,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"\u0160ari\u0161sk\u00e9 Lu\u017eianky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu\u017eanky",
+        "\u0160ari\u0161sk\u00e9 Lu\u017eianky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723650
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"078756dfcc40ec3844efa269d676d5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1293882757,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293882757,
+    "wof:lastmodified":1537700350,
+    "wof:name":"Sarisske Luzianky",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12971,
+    48.98776,
+    21.12971,
+    48.98776
+],
+  "geometry": {"coordinates":[21.12971,48.98776],"type":"Point"}
+}

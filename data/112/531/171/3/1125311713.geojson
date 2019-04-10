@@ -1,0 +1,87 @@
+{
+  "id": 1125311713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61018,48.49173,17.61018,48.49173",
+    "geom:latitude":48.49173,
+    "geom:longitude":17.61018,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.49173,
+    "lbl:longitude":17.61018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dubov\u00e9"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3060471,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dolne Dubove",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":207484,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401088,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060471,
+        "gp:id":29401088,
+        "qs_pg:id":207484
+    },
+    "wof:country":"SK",
+    "wof:created":1497044027,
+    "wof:geomhash":"82eed034aa04ee80107bfc22ef56b52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "localadmin_id":1125311713,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125311713,
+    "wof:lastmodified":1509387905,
+    "wof:name":"Dolne Dubove",
+    "wof:parent_id":102080489,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61018,
+    48.49173,
+    17.61018,
+    48.49173
+],
+  "geometry": {"coordinates":[17.61018,48.49173],"type":"Point"}
+}

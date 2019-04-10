@@ -1,0 +1,71 @@
+{
+  "id": 1226047305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04861,49.16759,21.04861,49.16759",
+    "geom:latitude":49.16759,
+    "geom:longitude":21.04861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"l'utina",
+    "gn:country_code":"SK",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724241,
+    "gn:latitude":49.16759,
+    "gn:longitude":21.04861,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u013eutina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u013eutina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724241,
+        "wk:page":"%C4%BDutina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c0c41e575a29ad994f0f50b7ba9c6ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1226047305,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226047305,
+    "wof:lastmodified":1537700361,
+    "wof:name":"l'utina",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04861,
+    49.16759,
+    21.04861,
+    49.16759
+],
+  "geometry": {"coordinates":[21.04861,49.16759],"type":"Point"}
+}

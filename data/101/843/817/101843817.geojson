@@ -1,0 +1,135 @@
+{
+  "id": 101843817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":857410.629979,
+    "geom:bbox":"20.1757702733,48.6519695319,20.2023310934,48.6608453682",
+    "geom:latitude":48.656289,
+    "geom:longitude":20.189504,
+    "iso:country":"SK",
+    "lbl:latitude":48.657463,
+    "lbl:longitude":20.188196,
+    "mps:latitude":48.657463,
+    "mps:longitude":20.188196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:deu_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:dut_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:eng_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:epo_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:fra_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:fre_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:ger_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:hbs_x_preferred":[
+        "Lubenjik"
+    ],
+    "name:hun_x_preferred":[
+        "Lub\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:may_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:msa_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:nld_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:pol_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0435\u043d\u0438\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0431\u0435\u045a\u0438\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Luben\u00edk"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Rev\u00faca",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Mokr\u00e1 L\u00faka",
+    "qs:la_lc":"*SK328580384",
+    "qs:level":"locality",
+    "qs:loc":"Luben\u00edk",
+    "qs:loc_alt":"Lubenik",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724266,
+        "gp:id":820719,
+        "qs:id":1271381,
+        "wd:id":"Q1073053",
+        "wk:page":"Luben\u00edk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"878877b226ddb46b8e31d8ec27007327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":101843817,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101843817,
+    "wof:lastmodified":1527642591,
+    "wof:name":"Luben\u00edk",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17577027327036,
+    48.65196953185853,
+    20.2023310934394,
+    48.66084536818363
+],
+  "geometry": {"coordinates":[[[20.1911300048489,48.65945949551224],[20.1907637672046,48.65768006431733],[20.19211015294951,48.65755599172337],[20.19192702312375,48.65666627754064],[20.19731241160912,48.65616983460308],[20.19749563502296,48.65705953857793],[20.20018833950598,48.65681121434511],[20.19982180736446,48.65503181584864],[20.20116810367551,48.65490763442438],[20.20098482661535,48.65401793659163],[20.2023310934394,48.65389374144536],[20.20214780125639,48.65300404540727],[20.20080155782392,48.65312823800036],[20.20061829730179,48.65223853865047],[20.19388710571315,48.65285924472778],[20.19370397041365,48.65196953185853],[20.19101149793295,48.65221769526141],[20.19119458644764,48.65310741323287],[20.18850204283149,48.65335551663611],[20.1886850928189,48.65424523895064],[20.18599247806713,48.65449328235081],[20.18617548952216,48.65538300900801],[20.1807900934125,48.65587891068839],[20.18097301953242,48.65676864678494],[20.17828023817952,48.65701650505963],[20.17846312575267,48.65790624549601],[20.17577027327036,48.65815404375576],[20.17613597956495,48.65993353255016],[20.18556118443109,48.65906591809841],[20.1859272513899,48.66084536818363],[20.18996667403127,48.66047327394358],[20.18978356621506,48.65958355693118],[20.1911300048489,48.65945949551224]]],"type":"Polygon"}
+}

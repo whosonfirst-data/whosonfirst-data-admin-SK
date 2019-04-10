@@ -1,0 +1,67 @@
+{
+  "id": 1293006641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91667,47.83333,17.91667,47.83333",
+    "geom:latitude":47.83333,
+    "geom:longitude":17.91667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Logorretitanyak",
+    "gn:country_code":"SK",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059032,
+    "gn:latitude":47.83333,
+    "gn:longitude":17.91667,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"L\u00f6g\u00f6rr\u011btitany\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059032
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2593df2785371a98b323dcb0a8074564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1293006641,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293006641,
+    "wof:lastmodified":1536982453,
+    "wof:name":"Logorretitanyak",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91667,
+    47.83333,
+    17.91667,
+    47.83333
+],
+  "geometry": {"coordinates":[17.91667,47.83333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343858847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59706,49.10277,18.59706,49.10277",
+    "geom:latitude":49.10277,
+    "geom:longitude":18.59706,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mala Cierna",
+    "gn:country_code":"SK",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058898,
+    "gn:latitude":49.10277,
+    "gn:longitude":18.59706,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u00e1 \u010cierna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u00e1 \u010cierna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058898,
+        "wk:page":"Mal%C3%A1_%C4%8Cierna"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"17683f1ec34f849e0e991bfc74d525d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1343858847,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1343858847,
+    "wof:lastmodified":1537700406,
+    "wof:name":"Mala Cierna",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59706,
+    49.10277,
+    18.59706,
+    49.10277
+],
+  "geometry": {"coordinates":[18.59706,49.10277],"type":"Point"}
+}

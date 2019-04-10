@@ -1,0 +1,112 @@
+{
+  "id": 101784103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1166503.171959,
+    "geom:bbox":"19.2478055935,48.5586342689,19.2728579597,48.5688913455",
+    "geom:latitude":48.563536,
+    "geom:longitude":19.259316,
+    "iso:country":"SK",
+    "lbl:latitude":48.563556,
+    "lbl:longitude":19.257418,
+    "mps:latitude":48.563556,
+    "mps:longitude":19.257418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:ces_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:deu_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:epo_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:fra_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyszalatna"
+    ],
+    "name:ita_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:msa_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:nld_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:pol_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zvolen",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Zvolensk\u00e1 Slatina",
+    "qs:la_lc":"*SK32B518972",
+    "qs:level":"locality",
+    "qs:loc":"Zvolensk\u00e1 Slatina",
+    "qs:loc_alt":"Zvolenska Slatina",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056457,
+        "gp:id":823423,
+        "qs:id":905038,
+        "qs_pg:id":905038,
+        "wd:id":"Q231435",
+        "wk:page":"Zvolensk\u00e1 Slatina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9d95dac5c48e7f07ee6785127560a5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":101784103,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784103,
+    "wof:lastmodified":1527688536,
+    "wof:name":"Zvolensk\u00e1 Slatina",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2478055935386,
+    48.55863426891767,
+    19.27285795965304,
+    48.56889134552335
+],
+  "geometry": {"coordinates":[[[19.25569514865981,48.56777450800843],[19.26376998536381,48.56709806818304],[19.26393604103617,48.56798953756527],[19.26528185131235,48.56787673825704],[19.26511577216991,48.56698527119192],[19.26646155345617,48.56687245790965],[19.26629545833788,48.56598099247327],[19.26764121063536,48.56586816521764],[19.26730899594565,48.56408523691397],[19.27134607891384,48.56374667131212],[19.27151225290879,48.5646381288542],[19.27285795965304,48.56452523875532],[19.27252557223125,48.56274232761928],[19.27117991241568,48.56285521308075],[19.27068145789787,48.56018083425215],[19.26799026247647,48.56040654239979],[19.26815635956439,48.56129800733436],[19.26411945465361,48.56163645434168],[19.26395342795314,48.56074498245658],[19.26260780541048,48.56085776323096],[19.2624418096616,48.55996628834083],[19.2597505949538,48.56019179639111],[19.25958465361651,48.55930031618107],[19.25689346377629,48.55952575444576],[19.2567275768472,48.55863426891767],[19.25403641188166,48.55885963739837],[19.25420225188651,48.5597511275551],[19.25151101795302,48.55997643550819],[19.25167681851121,48.56086792960434],[19.24898551561103,48.56109317702663],[19.2491512767179,48.5619846750613],[19.2478055935386,48.56209727665055],[19.24830285132879,48.56477177356834],[19.25234009555106,48.56443389911141],[19.25316936019931,48.56889134552335],[19.25586106350278,48.56866599128642],[19.25569514865981,48.56777450800843]]],"type":"Polygon"}
+}

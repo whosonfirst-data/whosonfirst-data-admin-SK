@@ -1,0 +1,158 @@
+{
+  "id": 101785297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":608206.141224,
+    "geom:bbox":"17.5239137955,48.3622154761,17.5386912527,48.3726030828",
+    "geom:latitude":48.366947,
+    "geom:longitude":17.530617,
+    "iso:country":"SK",
+    "lbl:latitude":48.36651,
+    "lbl:longitude":17.530505,
+    "mps:latitude":48.36651,
+    "mps:longitude":17.530505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:ces_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:cze_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:deu_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:dut_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:eng_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:epo_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:fra_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:fre_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:ger_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:hbs_x_preferred":[
+        "Bjeli Kostol"
+    ],
+    "name:hun_x_preferred":[
+        "Pozsonyfeh\u00e9regyh\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:may_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:msa_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:nan_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:nld_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:por_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:slk_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:slo_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0435\u043b\u0438 \u041a\u043e\u0441\u0442\u043e\u043b"
+    ],
+    "name:und_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:war_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Biely Kostol"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trnava",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Trnava",
+    "qs:la_lc":"*SK217506745",
+    "qs:level":"locality",
+    "qs:loc":"Biely Kostol",
+    "qs:loc_alt":"Biely Kostol",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070d382a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3061082,
+        "gp:id":818613,
+        "qs:id":1012878,
+        "qs_pg:id":1012878,
+        "wd:id":"Q857455",
+        "wk:page":"Biely Kostol",
+        "woe:id":818613
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dd0792b14e02fe61dd481e765d281c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":101785297,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101785297,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527684902,
+    "wof:name":"Biely Kostol",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52391379550414,
+    48.36221547605697,
+    17.53869125265913,
+    48.37260308275427
+],
+  "geometry": {"coordinates":[[[17.52982440342527,48.3715254413641],[17.52969016314734,48.37063112357419],[17.5310336433642,48.37053944079526],[17.53089938561243,48.36964512430239],[17.53224283785454,48.36955342710644],[17.53210856263087,48.36865911191086],[17.53345198689851,48.36856740029816],[17.53331769420492,48.3676730864002],[17.53869125265913,48.36730608452189],[17.53842249728081,48.36551747001295],[17.53707916138444,48.36560924116486],[17.53694481629276,48.36471493115999],[17.53560149945775,48.36480668414032],[17.53546718393392,48.36391237167584],[17.53412388616096,48.36400410648514],[17.53385532029523,48.36221547605697],[17.52982554135201,48.3624905714646],[17.52995975071792,48.36338489260123],[17.52861645865545,48.36347656036276],[17.52875065055252,48.36437088279575],[17.52740733052485,48.36446253614133],[17.52754150495127,48.36535685987013],[17.52619815695789,48.36544849879914],[17.52633231391115,48.36634282382403],[17.52498893795104,48.36643444833555],[17.52525722295269,48.36822310039702],[17.52391379550414,48.36831471236644],[17.52418205763911,48.37010336585985],[17.52552553213343,48.37001175013842],[17.52565969579138,48.37090607413904],[17.52700318936058,48.37081444024602],[17.52727158186525,48.37260308275427],[17.52861511803451,48.37251142881223],[17.52848089523292,48.37161710972504],[17.52982440342527,48.3715254413641]]],"type":"Polygon"}
+}

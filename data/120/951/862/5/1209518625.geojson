@@ -1,0 +1,61 @@
+{
+  "id": 1209518625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15,48.13333,17.15,48.13333",
+    "geom:latitude":48.13333,
+    "geom:longitude":17.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brenner",
+    "gn:country_code":"SK",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060964,
+    "gn:latitude":48.13333,
+    "gn:longitude":17.15,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Brenner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060964
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e3b617cc15b182dc3f9757995a4f91b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209518625
+        }
+    ],
+    "wof:id":1209518625,
+    "wof:lastmodified":1536284651,
+    "wof:name":"Brenner",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15,
+    48.13333,
+    17.15,
+    48.13333
+],
+  "geometry": {"coordinates":[17.15,48.13333],"type":"Point"}
+}

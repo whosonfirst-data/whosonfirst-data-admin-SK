@@ -1,0 +1,72 @@
+{
+  "id": 1276442729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66643,48.76592,18.66643,48.76592",
+    "geom:latitude":48.76592,
+    "geom:longitude":18.66643,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mala Lehotka",
+    "gn:country_code":"SK",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058889,
+    "gn:latitude":48.76592,
+    "gn:longitude":18.66643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u00e1 Leh\u00f4tka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u00e1 Lehota",
+        "Mal\u00e1 Lihotka",
+        "Mal\u00e1 Leh\u00f4tka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058889
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fb0c83f7f5c1eb9e4c9a4a74c885331c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1276442729,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1276442729,
+    "wof:lastmodified":1537700406,
+    "wof:name":"Mala Lehotka",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66643,
+    48.76592,
+    18.66643,
+    48.76592
+],
+  "geometry": {"coordinates":[18.66643,48.76592],"type":"Point"}
+}

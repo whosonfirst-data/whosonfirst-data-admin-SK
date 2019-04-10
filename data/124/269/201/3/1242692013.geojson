@@ -1,0 +1,75 @@
+{
+  "id": 1242692013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91403,48.2336,19.91403,48.2336",
+    "geom:latitude":48.2336,
+    "geom:longitude":19.91403,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Surice",
+    "gn:country_code":"SK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057337,
+    "gn:latitude":48.2336,
+    "gn:longitude":19.91403,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160urice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "S\u0151reg"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6reg",
+        "\u0160urice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057337,
+        "wk:page":"%C5%A0urice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d6707ea9d801f01e85995742963d8501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1242692013,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1242692013,
+    "wof:lastmodified":1537700387,
+    "wof:name":"Surice",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91403,
+    48.2336,
+    19.91403,
+    48.2336
+],
+  "geometry": {"coordinates":[19.91403,48.2336],"type":"Point"}
+}

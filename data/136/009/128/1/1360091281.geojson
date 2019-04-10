@@ -1,0 +1,71 @@
+{
+  "id": 1360091281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53054,48.11078,18.53054,48.11078",
+    "geom:latitude":48.11078,
+    "geom:longitude":18.53054,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hulvinky",
+    "gn:country_code":"SK",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059825,
+    "gn:latitude":48.11078,
+    "gn:longitude":18.53054,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hulv\u00ednky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f6lv\u00e9ny",
+        "Hulv\u00ednky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059825
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"50ab0d136867fd1239a348a0de1d27db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1360091281,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1360091281,
+    "wof:lastmodified":1537700418,
+    "wof:name":"Hulvinky",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53054,
+    48.11078,
+    18.53054,
+    48.11078
+],
+  "geometry": {"coordinates":[18.53054,48.11078],"type":"Point"}
+}

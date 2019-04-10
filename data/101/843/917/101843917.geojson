@@ -1,0 +1,147 @@
+{
+  "id": 101843917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":857349.614205,
+    "geom:bbox":"20.4565434453,48.9941748917,20.4733738339,49.0045919557",
+    "geom:latitude":48.999688,
+    "geom:longitude":20.466471,
+    "iso:country":"SK",
+    "lbl:latitude":49.000141,
+    "lbl:longitude":20.466471,
+    "mps:latitude":49.000141,
+    "mps:longitude":20.466471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:ces_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:cze_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:deu_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:dut_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:eng_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:fra_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:fre_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:ger_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00fct\u00f6rt\u00f6khely"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d4\u30b7\u30e5\u30b9\u30ad\u30fc\u30fb\u30b7\u30e5\u30c8\u30a6\u30eb\u30c8\u30af\u6751"
+    ],
+    "name:may_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:msa_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:nan_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:pol_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0438\u0441\u044c\u043a\u0438\u0439 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levoca",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00fd \u0160tvrtok",
+    "qs:la_lc":"*SK414543624",
+    "qs:level":"locality",
+    "qs:loc":"Spi\u0161sk\u00fd \u0160tvrtok",
+    "qs:loc_alt":"Spissky Stvrtok",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723513,
+        "gp:id":822368,
+        "qs:id":1013065,
+        "wd:id":"Q876522",
+        "wk:page":"Spi\u0161sk\u00fd \u0160tvrtok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8a2ed807fab0633ab1cbb6964faab086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":101843917,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101843917,
+    "wof:lastmodified":1527642601,
+    "wof:name":"Spi\u0161sk\u00fd \u0160tvrtok",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45654344525354,
+    48.99417489169559,
+    20.47337383393148,
+    49.00459195568811
+],
+  "geometry": {"coordinates":[[[20.47142426705784,49.00420923119992],[20.47123412787096,49.00332021992114],[20.47258923820516,49.003192614959],[20.47201880122623,49.00052558447754],[20.47337383393148,49.00039797107252],[20.47204295042957,48.99417489169559],[20.46662344622968,48.99468517282935],[20.46700346552535,48.99646322052013],[20.4615836694162,48.99697326062449],[20.46177359702762,48.99786229390884],[20.46041860832668,48.99798976560925],[20.4606085208186,48.99887880077489],[20.45654344525354,48.99926112547655],[20.45711302074147,49.00192825019678],[20.45982321999725,49.00167336757897],[20.46001314325503,49.00256240233273],[20.46272336453495,49.00230744885965],[20.46291334393072,49.00319647755578],[20.46426846876579,49.00306897358627],[20.46445848054827,49.00395799887076],[20.46716875860449,49.0037029364637],[20.46735882653104,49.00459195568811],[20.47142426705784,49.00420923119992]]],"type":"Polygon"}
+}

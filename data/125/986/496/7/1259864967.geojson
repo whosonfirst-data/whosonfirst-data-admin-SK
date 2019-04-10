@@ -1,0 +1,67 @@
+{
+  "id": 1259864967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84544,49.37497,18.84544,49.37497",
+    "geom:latitude":49.37497,
+    "geom:longitude":18.84544,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"U Blazkov",
+    "gn:country_code":"SK",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057059,
+    "gn:latitude":49.37497,
+    "gn:longitude":18.84544,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"U Bla\u017ekov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057059
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d47269c56b45920088d8ed35b74400d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1259864967,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1259864967,
+    "wof:lastmodified":1536805731,
+    "wof:name":"U Blazkov",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84544,
+    49.37497000000001,
+    18.84544,
+    49.37497000000001
+],
+  "geometry": {"coordinates":[18.84544,49.37497000000001],"type":"Point"}
+}

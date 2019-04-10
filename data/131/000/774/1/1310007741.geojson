@@ -1,0 +1,71 @@
+{
+  "id": 1310007741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36729,48.45152,20.36729,48.45152",
+    "geom:latitude":48.45152,
+    "geom:longitude":20.36729,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lapsa",
+    "gn:country_code":"SK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724321,
+    "gn:latitude":48.45152,
+    "gn:longitude":20.36729,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lap\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Lap\u0161a",
+        "Lap\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724321
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6c82a8d3bdc79cff5ff8d4bc2f3d310c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1310007741,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1310007741,
+    "wof:lastmodified":1537700362,
+    "wof:name":"Lapsa",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36729,
+    48.45152,
+    20.36729,
+    48.45152
+],
+  "geometry": {"coordinates":[20.36729,48.45152],"type":"Point"}
+}

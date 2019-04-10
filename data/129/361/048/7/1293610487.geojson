@@ -1,0 +1,72 @@
+{
+  "id": 1293610487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90434,48.44025,17.90434,48.44025",
+    "geom:latitude":48.44025,
+    "geom:longitude":17.90434,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dolne Trhoviste",
+    "gn:country_code":"SK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060432,
+    "gn:latitude":48.44025,
+    "gn:longitude":17.90434,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Trhovi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00e9 Va\u0161ardice",
+        "Doln\u00e9 Trhovi\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060432,
+        "wk:page":"Doln%C3%A9_Trhovi%C5%A1te"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7a2644dcc9203387910494210457d5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080481,
+            "locality_id":1293610487,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1293610487,
+    "wof:lastmodified":1537700428,
+    "wof:name":"Dolne Trhoviste",
+    "wof:parent_id":102080481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90433999999999,
+    48.44025,
+    17.90433999999999,
+    48.44025
+],
+  "geometry": {"coordinates":[17.90433999999999,48.44025],"type":"Point"}
+}

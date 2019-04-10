@@ -1,0 +1,104 @@
+{
+  "id": 1125824407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22034,49.13905,20.22034,49.13905",
+    "geom:latitude":49.13905,
+    "geom:longitude":20.22034,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"SK",
+    "lbl:latitude":49.13905,
+    "lbl:longitude":20.22034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Altschmecks"
+    ],
+    "name:eng_x_preferred":[
+        "Stary Smokovec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Alt Schmecks"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723496,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Star\u00fd Smokovec",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":630,
+    "qs_pg:photos_1k":128,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":630,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1168819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822405,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723496,
+        "gp:id":822405,
+        "qs_pg:id":1168819
+    },
+    "wof:country":"SK",
+    "wof:created":1497292212,
+    "wof:geomhash":"0013a7e9a41c49b7e27db535cbb7e8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125824407,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125824407,
+    "wof:lastmodified":1509394318,
+    "wof:name":"Star\u00fd Smokovec",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22034,
+    49.13905,
+    20.22034,
+    49.13905
+],
+  "geometry": {"coordinates":[20.22034,49.13905],"type":"Point"}
+}

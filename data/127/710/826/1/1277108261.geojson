@@ -1,0 +1,71 @@
+{
+  "id": 1277108261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51283,49.38721,21.51283,49.38721",
+    "geom:latitude":49.38721,
+    "geom:longitude":21.51283,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Keckovce",
+    "gn:country_code":"SK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724510,
+    "gn:latitude":49.38721,
+    "gn:longitude":21.51283,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ke\u010dkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ke\u010dkovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724510,
+        "wk:page":"Ke%C4%8Dkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"23ae5e32cb893c13162f853b84835866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1277108261,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1277108261,
+    "wof:lastmodified":1537700365,
+    "wof:name":"Keckovce",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51283,
+    49.38721,
+    21.51283,
+    49.38721
+],
+  "geometry": {"coordinates":[21.51283,49.38721],"type":"Point"}
+}

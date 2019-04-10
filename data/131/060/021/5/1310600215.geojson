@@ -1,0 +1,68 @@
+{
+  "id": 1310600215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65941,48.76465,21.65941,48.76465",
+    "geom:latitude":48.76465,
+    "geom:longitude":21.65941,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Stankovce",
+    "gn:country_code":"SK",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723508,
+    "gn:latitude":48.76465,
+    "gn:longitude":21.65941,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stankovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723508,
+        "wk:page":"Stankovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3de8fe7f794fcb92de4b44ad01a1a666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1310600215,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310600215,
+    "wof:lastmodified":1537573563,
+    "wof:name":"Stankovce",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65941,
+    48.76465,
+    21.65941,
+    48.76465
+],
+  "geometry": {"coordinates":[21.65941,48.76465],"type":"Point"}
+}

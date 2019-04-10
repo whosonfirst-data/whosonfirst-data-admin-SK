@@ -1,0 +1,66 @@
+{
+  "id": 1209516313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8832,47.76237,17.8832,47.76237",
+    "geom:latitude":47.76237,
+    "geom:longitude":17.8832,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ke Kosihy",
+    "gn:country_code":"SK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056876,
+    "gn:latitude":47.76237,
+    "gn:longitude":17.8832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00e9 Kosihy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagy-Keszi",
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056876,
+        "wk:page":"Ve%C4%BEk%C3%A9_Kosihy"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cd5369cc918ae289737f07db9c875af5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209516313
+        }
+    ],
+    "wof:id":1209516313,
+    "wof:lastmodified":1537700382,
+    "wof:name":"Vel'ke Kosihy",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8832,
+    47.76237,
+    17.8832,
+    47.76237
+],
+  "geometry": {"coordinates":[17.8832,47.76237],"type":"Point"}
+}

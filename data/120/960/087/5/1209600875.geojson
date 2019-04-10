@@ -1,0 +1,65 @@
+{
+  "id": 1209600875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86301,48.8847,18.86301,48.8847",
+    "geom:latitude":48.8847,
+    "geom:longitude":18.86301,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Turciansky Svaty Michal",
+    "gn:country_code":"SK",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057085,
+    "gn:latitude":48.8847,
+    "gn:longitude":18.86301,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tur\u010diansky Sv\u00e4t\u00fd Michal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sv\u00e4t\u00fd Michal",
+        "Tur\u010diansky Sv\u00e4t\u00fd Michal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057085
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ac4f5bf3637e45d94075c261c36dd53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209600875
+        }
+    ],
+    "wof:id":1209600875,
+    "wof:lastmodified":1537700384,
+    "wof:name":"Turciansky Svaty Michal",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86301,
+    48.8847,
+    18.86301,
+    48.8847
+],
+  "geometry": {"coordinates":[18.86301,48.8847],"type":"Point"}
+}

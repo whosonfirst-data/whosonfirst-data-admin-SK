@@ -1,0 +1,129 @@
+{
+  "id": 1126003007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88928,48.73044,17.88928,48.73044",
+    "geom:latitude":48.73044,
+    "geom:longitude":17.88928,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.73044,
+    "lbl:longitude":17.88928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:ger_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1g\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0435\u0441 \u043d\u0430 \u0412\u0430\u0445\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00e1 Ves nad V\u00e1hom"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058484,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nov\u00e1 Ves nad V\u00e1hom",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":293159,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":821297,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058484,
+        "gp:id":821297,
+        "qs_pg:id":293159,
+        "wd:id":"Q1070626"
+    },
+    "wof:country":"SK",
+    "wof:created":1497299766,
+    "wof:geomhash":"f7cd45370655ed4e1f52dc01d2ca3449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1126003007,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1126003007,
+    "wof:lastmodified":1514505205,
+    "wof:name":"Nov\u00e1 Ves nad V\u00e1hom",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88928,
+    48.73044,
+    17.88928,
+    48.73044
+],
+  "geometry": {"coordinates":[17.88928,48.73044],"type":"Point"}
+}

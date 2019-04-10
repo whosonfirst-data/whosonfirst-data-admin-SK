@@ -1,0 +1,67 @@
+{
+  "id": 1360303037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13629,48.76805,19.13629,48.76805",
+    "geom:latitude":48.76805,
+    "geom:longitude":19.13629,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Svaty Jakub",
+    "gn:country_code":"SK",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057307,
+    "gn:latitude":48.76805,
+    "gn:longitude":19.13629,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sv\u00e4t\u00fd Jakub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057307
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2c9bd7a6891f3bca0d49f6284629979e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":1360303037,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1360303037,
+    "wof:lastmodified":1536629503,
+    "wof:name":"Svaty Jakub",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13629,
+    48.76805,
+    19.13629,
+    48.76805
+],
+  "geometry": {"coordinates":[19.13629,48.76805],"type":"Point"}
+}

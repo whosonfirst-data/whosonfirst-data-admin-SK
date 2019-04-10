@@ -1,0 +1,72 @@
+{
+  "id": 1276678289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38234,49.26207,19.38234,49.26207",
+    "geom:latitude":49.26207,
+    "geom:longitude":19.38234,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dolna Lehota",
+    "gn:country_code":"SK",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060504,
+    "gn:latitude":49.26207,
+    "gn:longitude":19.38234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e1 Lehota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00ed Lehota",
+        "Dolnia Lehota",
+        "Doln\u00e1 Lehota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060504
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"32ec3bd5f76be8159fbf02c1d90c3716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1276678289,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276678289,
+    "wof:lastmodified":1537700430,
+    "wof:name":"Dolna Lehota",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38234,
+    49.26207,
+    19.38234,
+    49.26207
+],
+  "geometry": {"coordinates":[19.38234,49.26207],"type":"Point"}
+}

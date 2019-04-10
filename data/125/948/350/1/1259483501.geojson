@@ -1,0 +1,80 @@
+{
+  "id": 1259483501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65922,48.2001,18.65922,48.2001",
+    "geom:latitude":48.2001,
+    "geom:longitude":18.65922,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kalinciakovo",
+    "gn:country_code":"SK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059607,
+    "gn:latitude":48.2001,
+    "gn:longitude":18.65922,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalin\u010diakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Hontvars\u00e1ny"
+    ],
+    "name:slk_x_historical":[
+        "Var\u0161any"
+    ],
+    "name:slk_x_preferred":[
+        "Kalin\u010diakovo"
+    ],
+    "name:slk_x_variant":[
+        "Var\u0161any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059607,
+        "wk:page":"Kalin%C4%8Diakovo"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"31f6d64e487dec2b443a79b878ac08c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1259483501,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1259483501,
+    "wof:lastmodified":1537700415,
+    "wof:name":"Kalinciakovo",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65922,
+    48.2001,
+    18.65922,
+    48.2001
+],
+  "geometry": {"coordinates":[18.65922,48.2001],"type":"Point"}
+}

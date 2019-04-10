@@ -1,0 +1,72 @@
+{
+  "id": 1309799279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36273,49.06744,18.36273,49.06744",
+    "geom:latitude":49.06744,
+    "geom:longitude":18.36273,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"308.0",
+    "gn:asciiname":"Visolaje",
+    "gn:country_code":"SK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056752,
+    "gn:latitude":49.06744,
+    "gn:longitude":18.36273,
+    "gn:modification_date":"2017-05-12",
+    "gn:name":"Visolaje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Viszolaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056752,
+        "wk:page":"Visolaje"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6e2ae811bff0671fead35582248ecfd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1309799279,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1309799279,
+    "wof:lastmodified":1537700381,
+    "wof:name":"Visolaje",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36273,
+    49.06744000000001,
+    18.36273,
+    49.06744000000001
+],
+  "geometry": {"coordinates":[18.36273,49.06744000000001],"type":"Point"}
+}

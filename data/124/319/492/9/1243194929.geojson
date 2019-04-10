@@ -1,0 +1,73 @@
+{
+  "id": 1243194929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63416,49.14328,21.63416,49.14328",
+    "geom:latitude":49.14328,
+    "geom:longitude":21.63416,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizna Olsava",
+    "gn:country_code":"SK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724063,
+    "gn:latitude":49.14328,
+    "gn:longitude":21.63416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u017en\u00e1 Ol\u0161ava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u017en\u00ed Ol\u0161ava",
+        "Ni\u017enia O\u013esava",
+        "Ni\u017en\u00e1 Ol\u0161ava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724063,
+        "wk:page":"Ni%C5%BEn%C3%A1_Ol%C5%A1ava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4d96e8cbde9898d79af22bbdba42314d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1243194929,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1243194929,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Nizna Olsava",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63416,
+    49.14328,
+    21.63416,
+    49.14328
+],
+  "geometry": {"coordinates":[21.63416,49.14328],"type":"Point"}
+}

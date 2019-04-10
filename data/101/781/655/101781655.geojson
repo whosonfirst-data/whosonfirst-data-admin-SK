@@ -1,0 +1,143 @@
+{
+  "id": 101781655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":1405707.833008,
+    "geom:bbox":"18.6366491928,48.8090337715,18.6578920214,48.8290392376",
+    "geom:latitude":48.818405,
+    "geom:longitude":18.646956,
+    "iso:country":"SK",
+    "lbl:latitude":48.815922,
+    "lbl:longitude":18.648565,
+    "mps:latitude":48.815922,
+    "mps:longitude":18.648565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:ces_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:cze_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:deu_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:dut_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:eng_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:epo_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:fra_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:fre_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:ger_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:hbs_x_preferred":[
+        "Njedo\u017eeri-Brezani"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1das\u00e9rberzseny"
+    ],
+    "name:ita_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:may_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:msa_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:nan_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:nld_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0434\u043e\u0436\u0435\u0440\u044b-\u0411\u0440\u0435\u0437\u0430\u043d\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Nedo\u017eery - Brezany"
+    ],
+    "name:slo_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u0434\u043e\u0436\u0435\u0440\u0438-\u0411\u0440\u0435\u0437\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nedo\u017eery-Brezany",
+    "qs:la_lc":"*SK227514209",
+    "qs:level":"locality",
+    "qs:loc":"Nedo\u017eery - Brezany",
+    "qs:loc_alt":"Nedozery - Brezany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058561,
+        "gp:id":821176,
+        "qs:id":7,
+        "wd:id":"Q738992"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"886ef1d7a6c24867122a07e1b0f5deb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101781655,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781655,
+    "wof:lastmodified":1527715630,
+    "wof:name":"Nedo\u017eery - Brezany",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6366491928228,
+    48.80903377150423,
+    18.65789202138495,
+    48.82903923762541
+],
+  "geometry": {"coordinates":[[[18.64784338115538,48.82683295875876],[18.64659333789854,48.81969368947404],[18.6520080784606,48.8192720462975],[18.65216440455328,48.82016444842981],[18.65487179117787,48.81995352398513],[18.6550281721328,48.82084592111732],[18.65638188146858,48.82074043208769],[18.65653829340778,48.82163282640386],[18.65789202138495,48.8215273187738],[18.65757915684856,48.81974253388205],[18.65622547663298,48.81984803714079],[18.65559992831885,48.81627845104191],[18.65424633837546,48.81638392914658],[18.65346468212761,48.81192192139889],[18.65481815270482,48.8118164542164],[18.65466181888161,48.81092405295738],[18.65601526035289,48.81081857154777],[18.65570256626535,48.80903377150423],[18.65299577355984,48.80924470917546],[18.65315206931837,48.8101371138813],[18.65044520793924,48.8103479902768],[18.6506014630562,48.8112403987185],[18.64924800064665,48.81134581448259],[18.6494042389877,48.81223822447618],[18.64399024154335,48.81265973214477],[18.64445871264883,48.8153369845304],[18.64039794477077,48.81565296258481],[18.64071015103269,48.81743780744637],[18.6366491928228,48.81775365086179],[18.63742947431626,48.8222157847045],[18.64149079076793,48.82189990857393],[18.64274018316104,48.82903923762541],[18.64409413596161,48.82893389529124],[18.64393791318929,48.8280414835466],[18.64664575530122,48.82783075398925],[18.6464894918434,48.82693834598092],[18.64784338115538,48.82683295875876]]],"type":"Polygon"}
+}

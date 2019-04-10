@@ -1,0 +1,73 @@
+{
+  "id": 1276546125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14331,49.26744,20.14331,49.26744",
+    "geom:latitude":49.26744,
+    "geom:longitude":20.14331,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Javorina",
+    "gn:country_code":"SK",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724566,
+    "gn:latitude":49.26744,
+    "gn:longitude":20.14331,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Javorina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaworzyna",
+        "Jarovina",
+        "Javorina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724566,
+        "wk:page":"Javorina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ca6a6821a8cd2638b4c95fa0794d649e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1276546125,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276546125,
+    "wof:lastmodified":1537700366,
+    "wof:name":"Javorina",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14331,
+    49.26744,
+    20.14331,
+    49.26744
+],
+  "geometry": {"coordinates":[20.14331,49.26744],"type":"Point"}
+}

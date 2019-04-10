@@ -1,0 +1,67 @@
+{
+  "id": 1277062107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.40922,49.10976,19.40922,49.10976",
+    "geom:latitude":49.10976,
+    "geom:longitude":19.40922,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Madocany",
+    "gn:country_code":"SK",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058931,
+    "gn:latitude":49.10976,
+    "gn:longitude":19.40922,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mado\u010dany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058931
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"925dee708c093eae6dbc3b1f693a76da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1277062107,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1277062107,
+    "wof:lastmodified":1536796916,
+    "wof:name":"Madocany",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.40922,
+    49.10976,
+    19.40922,
+    49.10976
+],
+  "geometry": {"coordinates":[19.40922,49.10976],"type":"Point"}
+}

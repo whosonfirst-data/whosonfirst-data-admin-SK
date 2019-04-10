@@ -1,0 +1,147 @@
+{
+  "id": 101780223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":1505381.838359,
+    "geom:bbox":"18.6252289761,48.8584388575,18.6496736634,48.8827443549",
+    "geom:latitude":48.87074,
+    "geom:longitude":18.635907,
+    "iso:country":"SK",
+    "lbl:latitude":48.870965,
+    "lbl:longitude":18.633685,
+    "mps:latitude":48.870965,
+    "mps:longitude":18.633685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:cze_x_preferred":[
+        "Nitriansk\u00e9 Pravno"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:dut_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:eng_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:fre_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:ger_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:hbs_x_preferred":[
+        "Njitranske Pravno"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9metpr\u00f3na"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:may_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:nan_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:slk_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:slo_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0435 \u041f\u0440\u0430\u0432\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Deutsch-Pravno"
+    ],
+    "name:war_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Nitrianske Pravno",
+    "qs:la_lc":"*SK227514225",
+    "qs:level":"locality",
+    "qs:loc":"Nitrianske Pravno",
+    "qs:loc_alt":"Nitrianske Pravno",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058524,
+        "gp:id":821213,
+        "qs:id":320408,
+        "qs_pg:id":320408,
+        "wd:id":"Q387076",
+        "wk:page":"Nitrianske Pravno"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9137d99b92782dedc04500bf5eee09ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101780223,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101780223,
+    "wof:lastmodified":1527715873,
+    "wof:name":"Nitrianske Pravno",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62522897614986,
+    48.85843885746641,
+    18.649673663437,
+    48.88274435492093
+],
+  "geometry": {"coordinates":[[[18.64232434436332,48.88153599272948],[18.64201146445663,48.87975120654767],[18.63930079024868,48.87996185656527],[18.63883166746558,48.87728465947691],[18.64696319594356,48.87665255152194],[18.64711970680469,48.87754493806176],[18.64847496712787,48.87743952702095],[18.6483184323161,48.87654714266807],[18.649673663437,48.87644171737821],[18.64951711179441,48.87554933458512],[18.6481619046229,48.87565475768758],[18.64784887058829,48.87386998584384],[18.64107299546185,48.8743968329527],[18.64091660885543,48.87350443515879],[18.63956144203507,48.87360975308849],[18.63940508648648,48.87271735248208],[18.63804993836777,48.87282265179164],[18.63742468304349,48.86925303435692],[18.63877973538223,48.86914774378528],[18.6386234153764,48.86825534004271],[18.63997843853019,48.86815003522167],[18.63950944933407,48.86547282678362],[18.64086439542541,48.86536751208303],[18.64055172362265,48.86358270768881],[18.63648701324337,48.86389858938878],[18.6358620421255,48.86032894686252],[18.63721685508989,48.86022367812819],[18.63690436428186,48.85843885746641],[18.63419482883893,48.85864936977248],[18.63466343211405,48.8613266129218],[18.63330858473824,48.8614318509774],[18.63346477609747,48.86232426628828],[18.63075501776189,48.86253469746993],[18.63137966270938,48.86610436990173],[18.6286696919185,48.86631475281104],[18.6288258230237,48.86720717371566],[18.62747080583085,48.86731234270223],[18.62762692009193,48.86820476516175],[18.62627187371976,48.86830991989575],[18.62658407564788,48.87009476729878],[18.62522897614986,48.870199909961],[18.62554115857625,48.87198475922116],[18.62960658503948,48.87166926884015],[18.63023132247014,48.87523893366222],[18.63429698916713,48.87492326916765],[18.6344532631353,48.87581567725749],[18.63580849883374,48.87571042070272],[18.63612111599485,48.87749523063422],[18.63747639435286,48.87738995327408],[18.63841456019298,48.88274435492093],[18.6411253886393,48.88253372466602],[18.64096896197123,48.88164133032927],[18.64232434436332,48.88153599272948]]],"type":"Polygon"}
+}

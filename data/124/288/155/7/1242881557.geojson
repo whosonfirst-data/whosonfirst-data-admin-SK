@@ -1,0 +1,67 @@
+{
+  "id": 1242881557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46806,48.79323,21.46806,48.79323",
+    "geom:latitude":48.79323,
+    "geom:longitude":21.46806,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zirovce",
+    "gn:country_code":"SK",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723059,
+    "gn:latitude":48.79323,
+    "gn:longitude":21.46806,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u017d\u00edrovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723059
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0eec246555636733273283d7f3edbd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1242881557,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1242881557,
+    "wof:lastmodified":1536623825,
+    "wof:name":"Zirovce",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46806,
+    48.79323,
+    21.46806,
+    48.79323
+],
+  "geometry": {"coordinates":[21.46806,48.79323],"type":"Point"}
+}

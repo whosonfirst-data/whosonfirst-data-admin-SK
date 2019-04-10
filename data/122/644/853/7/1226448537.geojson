@@ -1,0 +1,74 @@
+{
+  "id": 1226448537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70585,48.26196,18.70585,48.26196",
+    "geom:latitude":48.26196,
+    "geom:longitude":18.70585,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kmet'ovce",
+    "gn:country_code":"SK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059479,
+    "gn:latitude":48.26196,
+    "gn:longitude":18.70585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kme\u0165ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Diszn\u00f3s"
+    ],
+    "name:und_x_variant":[
+        "Disno\u0161",
+        "Kme\u0165ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059479
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"31a08bc14a7583496f4f11c1b556be6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1226448537,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1226448537,
+    "wof:lastmodified":1537700414,
+    "wof:name":"Kmet'ovce",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70585,
+    48.26196,
+    18.70585,
+    48.26196
+],
+  "geometry": {"coordinates":[18.70585,48.26196],"type":"Point"}
+}

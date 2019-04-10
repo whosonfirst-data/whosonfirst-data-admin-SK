@@ -1,0 +1,71 @@
+{
+  "id": 1242881903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39239,48.7955,21.39239,48.7955",
+    "geom:latitude":48.7955,
+    "geom:longitude":21.39239,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cizatice",
+    "gn:country_code":"SK",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724928,
+    "gn:latitude":48.7955,
+    "gn:longitude":21.39239,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010ci\u017eatice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ci\u017eatice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724928,
+        "wk:page":"%C4%8Ci%C5%BEatice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8de31ffe7dbfa2f79f01552e3d7b4716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1242881903,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1242881903,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Cizatice",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39239,
+    48.7955,
+    21.39239,
+    48.7955
+],
+  "geometry": {"coordinates":[21.39239,48.7955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226447291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9078,48.94655,20.9078,48.94655",
+    "geom:latitude":48.94655,
+    "geom:longitude":20.9078,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hrisovce",
+    "gn:country_code":"SK",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724643,
+    "gn:latitude":48.94655,
+    "gn:longitude":20.9078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hri\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hri\u0161ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724643,
+        "wk:page":"Hri%C5%A1ovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dec49721feae8b76e0380a9622dc6048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080559,
+            "locality_id":1226447291,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226447291,
+    "wof:lastmodified":1537700368,
+    "wof:name":"Hrisovce",
+    "wof:parent_id":102080559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9078,
+    48.94655,
+    20.9078,
+    48.94655
+],
+  "geometry": {"coordinates":[20.9078,48.94655],"type":"Point"}
+}

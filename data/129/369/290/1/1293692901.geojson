@@ -1,0 +1,71 @@
+{
+  "id": 1293692901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49676,48.8862,18.49676,48.8862",
+    "geom:latitude":48.8862,
+    "geom:longitude":18.49676,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cavoj",
+    "gn:country_code":"SK",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060807,
+    "gn:latitude":48.8862,
+    "gn:longitude":18.49676,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cavoj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cavoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060807,
+        "wk:page":"%C4%8Cavoj"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4d6fab052ad2f230b531d7bb039ad8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1293692901,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1293692901,
+    "wof:lastmodified":1537700434,
+    "wof:name":"Cavoj",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49676,
+    48.8862,
+    18.49676,
+    48.8862
+],
+  "geometry": {"coordinates":[18.49676,48.8862],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343761261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8,49.31667,21.8,49.31667",
+    "geom:latitude":49.31667,
+    "geom:longitude":21.8,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mala Driecna",
+    "gn:country_code":"SK",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724213,
+    "gn:latitude":49.31667,
+    "gn:longitude":21.8,
+    "gn:modification_date":"2007-12-10",
+    "gn:name":"Mal\u00e1 Drie\u010dna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724213
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ea911aadd2d7868a755b73ddb7b4b48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080613,
+            "locality_id":1343761261,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343761261,
+    "wof:lastmodified":1536809394,
+    "wof:name":"Mala Driecna",
+    "wof:parent_id":102080613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8,
+    49.31667,
+    21.8,
+    49.31667
+],
+  "geometry": {"coordinates":[21.8,49.31667],"type":"Point"}
+}

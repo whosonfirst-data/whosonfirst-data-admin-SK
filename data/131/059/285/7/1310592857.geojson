@@ -1,0 +1,67 @@
+{
+  "id": 1310592857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,48.76667,17.23333,48.76667",
+    "geom:latitude":48.76667,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Vlckovany",
+    "gn:country_code":"SK",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056738,
+    "gn:latitude":48.76667,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Vl\u010dkovany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056738
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fec672a26b08407e04dd5b9e3363c0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080517,
+            "locality_id":1310592857,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310592857,
+    "wof:lastmodified":1536791334,
+    "wof:name":"Vlckovany",
+    "wof:parent_id":102080517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    48.76667,
+    17.23333,
+    48.76667
+],
+  "geometry": {"coordinates":[17.23333,48.76667],"type":"Point"}
+}

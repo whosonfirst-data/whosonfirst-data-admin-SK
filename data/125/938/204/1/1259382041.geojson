@@ -1,0 +1,68 @@
+{
+  "id": 1259382041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39341,48.86088,21.39341,48.86088",
+    "geom:latitude":48.86088,
+    "geom:longitude":21.39341,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bunetice",
+    "gn:country_code":"SK",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725043,
+    "gn:latitude":48.86088,
+    "gn:longitude":21.39341,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bunetice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725043,
+        "wk:page":"Bunetice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"16e9e909f5cf80d8388edec76033f1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1259382041,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1259382041,
+    "wof:lastmodified":1537573584,
+    "wof:name":"Bunetice",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39341,
+    48.86088,
+    21.39341,
+    48.86088
+],
+  "geometry": {"coordinates":[21.39341,48.86088],"type":"Point"}
+}

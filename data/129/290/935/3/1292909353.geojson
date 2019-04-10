@@ -1,0 +1,72 @@
+{
+  "id": 1292909353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26196,48.39556,18.26196,48.39556",
+    "geom:latitude":48.39556,
+    "geom:longitude":18.26196,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ladice",
+    "gn:country_code":"SK",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059171,
+    "gn:latitude":48.39556,
+    "gn:longitude":18.26196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ladice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9dec",
+        "Ladice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059171,
+        "wk:page":"Ladice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"838644d60a7acc45c2d566019b5e7804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1292909353,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1292909353,
+    "wof:lastmodified":1537700409,
+    "wof:name":"Ladice",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26196,
+    48.39556,
+    18.26196,
+    48.39556
+],
+  "geometry": {"coordinates":[18.26196,48.39556],"type":"Point"}
+}

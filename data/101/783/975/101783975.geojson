@@ -1,0 +1,136 @@
+{
+  "id": 101783975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1366007.446108,
+    "geom:bbox":"18.7287241123,48.2531235685,18.74942346,48.2720787424",
+    "geom:latitude":48.261597,
+    "geom:longitude":18.739629,
+    "geonames:id":"3056543,3059956",
+    "iso:country":"SK",
+    "lbl:latitude":48.260869,
+    "lbl:longitude":18.740649,
+    "mps:latitude":48.260869,
+    "mps:longitude":18.740649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:cze_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:deu_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:dut_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:eng_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:epo_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:fra_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:fre_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:ger_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:hun_x_preferred":[
+        "Zsember"
+    ],
+    "name:ita_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:may_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:msa_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:nld_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:pol_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:slk_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:slo_x_preferred":[
+        "\u017demberovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043c\u0431\u0435\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "\u017demberovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levice",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u017demberovce",
+    "qs:la_lc":"*SK232502995",
+    "qs:level":"locality",
+    "qs:loc":"\u017demberovce",
+    "qs:loc_alt":"Zemberovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056543,
+        "gp:id":823352,
+        "qs:id":940154,
+        "wd:id":"Q1044753",
+        "wk:page":"\u017demberovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3d218a73384eaee1d2e56d21180c664c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":101783975,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101783975,
+    "wof:lastmodified":1527688505,
+    "wof:name":"\u017demberovce",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72872411229991,
+    48.25312356851765,
+    18.7494234600328,
+    48.27207874236899
+],
+  "geometry": {"coordinates":[[[18.74474975820533,48.27186598454273],[18.74459439026475,48.27097349519789],[18.74593326728876,48.27086709414266],[18.7454671356586,48.26818962862154],[18.74412832827363,48.26829602317105],[18.74319639248978,48.26294106114699],[18.74453506062417,48.2628346796061],[18.74437973917958,48.26194218577331],[18.74571837898338,48.2618357901967],[18.74540771059407,48.26005080486931],[18.7494234600328,48.25973153392988],[18.74895730091475,48.25705407045848],[18.74226470755826,48.25758607515638],[18.74210945111821,48.25669357516085],[18.74077094027507,48.25679992532758],[18.74030528233425,48.2541224148444],[18.74164372358558,48.25401607117755],[18.74148849500273,48.25312356851765],[18.73613479205881,48.25354883731529],[18.73628992785848,48.25444134863898],[18.73495146612913,48.25454762750149],[18.73510658569114,48.25544014032494],[18.73242960048339,48.25565265377531],[18.73258468060635,48.25654517026288],[18.729907628533,48.25675762323453],[18.73006266921163,48.25765014338566],[18.72872411229991,48.2577563477318],[18.7288791367323,48.2586488693816],[18.73155629184379,48.25843644015828],[18.73202154609987,48.26111398813219],[18.73737607335363,48.2606889092678],[18.73799688109256,48.26425892927239],[18.73398071485281,48.26457778871577],[18.73460135549743,48.2681478240699],[18.73995660493989,48.26772261107385],[18.74057772842787,48.27129260112196],[18.74191662083348,48.27118624868774],[18.7420719423431,48.27207874236899],[18.74474975820533,48.27186598454273]]],"type":"Polygon"}
+}

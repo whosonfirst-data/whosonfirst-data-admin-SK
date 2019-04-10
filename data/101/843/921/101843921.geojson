@@ -1,0 +1,140 @@
+{
+  "id": 101843921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":797492.444624,
+    "geom:bbox":"18.5180237715,49.2529603228,18.5407364393,49.2682203987",
+    "geom:latitude":49.258534,
+    "geom:longitude":18.529151,
+    "iso:country":"SK",
+    "lbl:latitude":49.256152,
+    "lbl:longitude":18.528377,
+    "mps:latitude":49.256152,
+    "mps:longitude":18.528377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Petrovice"
+    ],
+    "name:ces_x_preferred":[
+        "Petrovice"
+    ],
+    "name:cze_x_preferred":[
+        "Petrovice"
+    ],
+    "name:deu_x_preferred":[
+        "Petrovice"
+    ],
+    "name:dut_x_preferred":[
+        "Petrovice"
+    ],
+    "name:eng_x_preferred":[
+        "Petrovice"
+    ],
+    "name:epo_x_preferred":[
+        "Petrovice"
+    ],
+    "name:fra_x_preferred":[
+        "Petrovice"
+    ],
+    "name:fre_x_preferred":[
+        "Petrovice"
+    ],
+    "name:ger_x_preferred":[
+        "Petrovice"
+    ],
+    "name:hun_x_preferred":[
+        "Trencs\u00e9np\u00e9teri"
+    ],
+    "name:ita_x_preferred":[
+        "Petrovice"
+    ],
+    "name:may_x_preferred":[
+        "Petrovice"
+    ],
+    "name:msa_x_preferred":[
+        "Petrovice"
+    ],
+    "name:nan_x_preferred":[
+        "Petrovice"
+    ],
+    "name:nld_x_preferred":[
+        "Petrovice"
+    ],
+    "name:pol_x_preferred":[
+        "Petrovice"
+    ],
+    "name:slo_x_preferred":[
+        "Petrovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0456\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Petrovice"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Bytca",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kol\u00e1rovice",
+    "qs:la_lc":"*SK311517674",
+    "qs:level":"locality",
+    "qs:loc":"Petrovice",
+    "qs:loc_alt":"Petrovice",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058217,
+        "gp:id":796009,
+        "qs:id":1081932,
+        "wd:id":"Q525011",
+        "wk:page":"Petrovice, Byt\u010da District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f60b8e445d814fb3e6147d5d4ce4e387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080581,
+            "locality_id":101843921,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843921,
+    "wof:lastmodified":1553815540,
+    "wof:name":"Petrovice",
+    "wof:parent_id":102080581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5180237715154,
+    49.25296032283848,
+    18.54073643928876,
+    49.26822039868301
+],
+  "geometry": {"coordinates":[[[18.53668032163779,49.26230125866044],[18.53804632844782,49.26219706786384],[18.53773356315008,49.26041224492121],[18.53909951577185,49.26030804191038],[18.53878673028316,49.2585232209417],[18.54015262872139,49.25841900571766],[18.53937066833322,49.25395695372595],[18.54073643928876,49.25385273285121],[18.54058004429459,49.25296032283848],[18.52828813483166,49.25389769396264],[18.52844430991752,49.25479012364571],[18.52571266735026,49.25499825026725],[18.52586880072403,49.25589068371829],[18.52450294706256,49.25599472433299],[18.52465906315842,49.25688715936798],[18.52056139710169,49.25719918823972],[18.52102956837695,49.25987650939612],[18.51966359578108,49.2599804923924],[18.51997569686597,49.26176537453404],[18.5186096700877,49.26186934530631],[18.51938992583467,49.26633155109675],[18.5180237715154,49.26643551619088],[18.51833587502142,49.26822039868301],[18.52106827618098,49.26801244317278],[18.52075607486091,49.26622756941163],[18.52212221859344,49.26612357113567],[18.52196610422351,49.2652311355406],[18.52333221821095,49.26512712285734],[18.52239553568137,49.25977250981157],[18.52376149769293,49.25966849363897],[18.52360538455667,49.25877605821796],[18.52497131683236,49.25867202764039],[18.52481518641497,49.25777959380389],[18.52891287815362,49.25746740909716],[18.52906908189334,49.25835983638177],[18.53043499298906,49.25825573945389],[18.5301225437945,49.25647088865429],[18.53558593969058,49.25605435255443],[18.53668032163779,49.26230125866044]]],"type":"Polygon"}
+}

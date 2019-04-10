@@ -1,0 +1,72 @@
+{
+  "id": 1260388261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78908,49.14707,20.78908,49.14707",
+    "geom:latitude":49.14707,
+    "geom:longitude":20.78908,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tichy Potok",
+    "gn:country_code":"SK",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723376,
+    "gn:latitude":49.14707,
+    "gn:longitude":20.78908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tich\u00fd Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160telbach",
+        "Tich\u00fd Potok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723376,
+        "wk:page":"Tich%C3%BD_Potok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1aab2ccf70d9e0c2557aff3a97e0e34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1260388261,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1260388261,
+    "wof:lastmodified":1537700346,
+    "wof:name":"Tichy Potok",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78908,
+    49.14707,
+    20.78908,
+    49.14707
+],
+  "geometry": {"coordinates":[20.78908,49.14707],"type":"Point"}
+}

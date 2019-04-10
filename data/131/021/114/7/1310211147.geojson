@@ -1,0 +1,71 @@
+{
+  "id": 1310211147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,48.33333,18.36667,48.33333",
+    "geom:latitude":48.33333,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tesare nad Zitavou",
+    "gn:country_code":"SK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057206,
+    "gn:latitude":48.33333,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tes\u00e1re nad \u017ditavou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tes\u00e1ry nad \u017ditavou",
+        "Tes\u00e1re nad \u017ditavou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057206
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"706e18522b92384fdb925cf19e532f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1310211147,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310211147,
+    "wof:lastmodified":1537700385,
+    "wof:name":"Tesare nad Zitavou",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    48.33333,
+    18.36667000000001,
+    48.33333
+],
+  "geometry": {"coordinates":[18.36667000000001,48.33333],"type":"Point"}
+}

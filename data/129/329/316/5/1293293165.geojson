@@ -1,0 +1,72 @@
+{
+  "id": 1293293165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15968,48.3505,18.15968,48.3505",
+    "geom:latitude":48.3505,
+    "geom:longitude":18.15968,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolne Stitare",
+    "gn:country_code":"SK",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060435,
+    "gn:latitude":48.3505,
+    "gn:longitude":18.15968,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 \u0160tit\u00e1re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Als\u00f3 Csit\u00e1r",
+        "Doln\u00e9 \u0160tit\u00e1ry",
+        "Doln\u00e9 \u0160tit\u00e1re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060435
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0a66c252df99ccc33dca16928d581ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1293293165,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293293165,
+    "wof:lastmodified":1537700428,
+    "wof:name":"Dolne Stitare",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15968,
+    48.3505,
+    18.15968,
+    48.3505
+],
+  "geometry": {"coordinates":[18.15968,48.3505],"type":"Point"}
+}

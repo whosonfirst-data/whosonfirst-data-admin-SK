@@ -1,0 +1,67 @@
+{
+  "id": 1310503267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70696,48.59048,21.70696,48.59048",
+    "geom:latitude":48.59048,
+    "geom:longitude":21.70696,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ceriaky",
+    "gn:country_code":"SK",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724994,
+    "gn:latitude":48.59048,
+    "gn:longitude":21.70696,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u010ceriaky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724994
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a50b225da27acc304dcb5bf2466bdfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1310503267,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310503267,
+    "wof:lastmodified":1536920782,
+    "wof:name":"Ceriaky",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70696,
+    48.59048,
+    21.70696,
+    48.59048
+],
+  "geometry": {"coordinates":[21.70696,48.59048],"type":"Point"}
+}

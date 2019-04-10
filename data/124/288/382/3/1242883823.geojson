@@ -1,0 +1,72 @@
+{
+  "id": 1242883823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26116,48.19544,19.26116,48.19544",
+    "geom:latitude":48.19544,
+    "geom:longitude":19.26116,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolne Pribelce",
+    "gn:country_code":"SK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060446,
+    "gn:latitude":48.19544,
+    "gn:longitude":19.26116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Pr\u00edbelce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolnie Pr\u00edbelce",
+        "Doln\u00ed Pr\u00edbelce",
+        "Doln\u00e9 Pr\u00edbelce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060446
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c0b63dc476fe7a3d27503a5d2005f5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1242883823,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1242883823,
+    "wof:lastmodified":1537700429,
+    "wof:name":"Dolne Pribelce",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26116,
+    48.19544000000001,
+    19.26116,
+    48.19544000000001
+],
+  "geometry": {"coordinates":[19.26116,48.19544000000001],"type":"Point"}
+}

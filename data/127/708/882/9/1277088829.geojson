@@ -1,0 +1,67 @@
+{
+  "id": 1277088829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99436,48.84464,17.99436,48.84464",
+    "geom:latitude":48.84464,
+    "geom:longitude":17.99436,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sedlicna",
+    "gn:country_code":"SK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057712,
+    "gn:latitude":48.84464,
+    "gn:longitude":17.99436,
+    "gn:modification_date":"2007-06-30",
+    "gn:name":"Sedli\u010dn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057712
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6a13218a07a1abaf6b5ba3bb534e630b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1277088829,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1277088829,
+    "wof:lastmodified":1536758924,
+    "wof:name":"Sedlicna",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99436,
+    48.84464000000001,
+    17.99436,
+    48.84464000000001
+],
+  "geometry": {"coordinates":[17.99436,48.84464000000001],"type":"Point"}
+}

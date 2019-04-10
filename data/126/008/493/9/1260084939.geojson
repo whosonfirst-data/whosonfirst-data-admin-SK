@@ -1,0 +1,67 @@
+{
+  "id": 1260084939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46518,48.91167,21.46518,48.91167",
+    "geom:latitude":48.91167,
+    "geom:longitude":21.46518,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dubnik",
+    "gn:country_code":"SK",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724857,
+    "gn:latitude":48.91167,
+    "gn:longitude":21.46518,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Dubn\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724857
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a6fec8d74348bc2c1ff39d0f07a3544d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1260084939,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1260084939,
+    "wof:lastmodified":1536985058,
+    "wof:name":"Dubnik",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46518,
+    48.91167,
+    21.46518,
+    48.91167
+],
+  "geometry": {"coordinates":[21.46518,48.91167],"type":"Point"}
+}

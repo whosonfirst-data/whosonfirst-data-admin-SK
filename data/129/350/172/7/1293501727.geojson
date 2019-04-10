@@ -1,0 +1,67 @@
+{
+  "id": 1293501727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9811,48.34895,18.9811,48.34895",
+    "geom:latitude":48.34895,
+    "geom:longitude":18.9811,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kral'ovce",
+    "gn:country_code":"SK",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059302,
+    "gn:latitude":48.34895,
+    "gn:longitude":18.9811,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kr\u00e1\u013eovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059302
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c958b4a99432f2933e29d98733762dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080483,
+            "locality_id":1293501727,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293501727,
+    "wof:lastmodified":1536766865,
+    "wof:name":"Kral'ovce",
+    "wof:parent_id":102080483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9811,
+    48.34895,
+    18.9811,
+    48.34895
+],
+  "geometry": {"coordinates":[18.9811,48.34895],"type":"Point"}
+}

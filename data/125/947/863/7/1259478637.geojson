@@ -1,0 +1,68 @@
+{
+  "id": 1259478637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05453,49.08614,19.05453,49.08614",
+    "geom:latitude":49.08614,
+    "geom:longitude":19.05453,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Podhradie",
+    "gn:country_code":"SK",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058141,
+    "gn:latitude":49.08614,
+    "gn:longitude":19.05453,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Podhradie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058141,
+        "wk:page":"Podhradie%2C_Martin_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0a5caad619f072ca8031792065621223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1259478637,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1259478637,
+    "wof:lastmodified":1537573595,
+    "wof:name":"Podhradie",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05453,
+    49.08614,
+    19.05453,
+    49.08614
+],
+  "geometry": {"coordinates":[19.05453,49.08614],"type":"Point"}
+}

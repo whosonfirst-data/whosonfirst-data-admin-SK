@@ -1,0 +1,146 @@
+{
+  "id": 101782873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000258,
+    "geom:area_square_m":2113728.962651,
+    "geom:bbox":"22.0445232882,48.4010680411,22.0725266528,48.4176003585",
+    "geom:latitude":48.410194,
+    "geom:longitude":22.057552,
+    "iso:country":"SK",
+    "lbl:latitude":48.409983,
+    "lbl:longitude":22.057764,
+    "mps:latitude":48.409983,
+    "mps:longitude":22.057764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Biel"
+    ],
+    "name:ces_x_preferred":[
+        "Biel"
+    ],
+    "name:cze_x_preferred":[
+        "Biel"
+    ],
+    "name:deu_x_preferred":[
+        "Biel"
+    ],
+    "name:dut_x_preferred":[
+        "Biel"
+    ],
+    "name:eng_x_preferred":[
+        "Biel"
+    ],
+    "name:epo_x_preferred":[
+        "Biel"
+    ],
+    "name:fra_x_preferred":[
+        "Biel"
+    ],
+    "name:fre_x_preferred":[
+        "Biel"
+    ],
+    "name:ger_x_preferred":[
+        "Biel"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9ly"
+    ],
+    "name:ita_x_preferred":[
+        "Biel"
+    ],
+    "name:may_x_preferred":[
+        "Biel"
+    ],
+    "name:msa_x_preferred":[
+        "Biel"
+    ],
+    "name:nan_x_preferred":[
+        "Biel"
+    ],
+    "name:nld_x_preferred":[
+        "Biel"
+    ],
+    "name:pol_x_preferred":[
+        "Biel"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0454\u043b"
+    ],
+    "name:slo_x_preferred":[
+        "Biel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0454\u043b"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e9ly"
+    ],
+    "name:war_x_preferred":[
+        "Biel"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010cierna nad Tisou",
+    "qs:la_lc":"*SK42B528293",
+    "qs:level":"locality",
+    "qs:loc":"Biel",
+    "qs:loc_alt":"Biel",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725127,
+        "gp:id":818606,
+        "qs:id":1270909,
+        "wd:id":"Q266460",
+        "wk:page":"Biel, Trebi\u0161ov District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"85f265957417a99d5ddd651121501a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101782873,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782873,
+    "wof:lastmodified":1514505050,
+    "wof:name":"Biel",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04452328817854,
+    48.40106804107484,
+    22.07252665283926,
+    48.41760035848802
+],
+  "geometry": {"coordinates":[[[22.05714234238525,48.41760035848802],[22.0718363231033,48.41598722516829],[22.07162118811419,48.41510136798638],[22.06627811227202,48.41568817510165],[22.06563303749385,48.41303056212251],[22.07097584084062,48.4124437908124],[22.07119094698368,48.41332965080863],[22.07252665283926,48.41318291480161],[22.07209640475747,48.41141119983985],[22.06942507679224,48.4117046438389],[22.06921001258138,48.41081877898279],[22.06787436069203,48.41096547388224],[22.0676593287975,48.41007960510461],[22.06632369253919,48.41022628094356],[22.06589370298695,48.40845453460884],[22.0645581050635,48.40860118840533],[22.0630536031552,48.40240002581868],[22.05904724366911,48.40283982813787],[22.05861760859312,48.40106804107484],[22.05327587862081,48.40165419527682],[22.05349060057108,48.40254010119543],[22.05215512772537,48.4026866025373],[22.05236983657232,48.40357251049801],[22.05103433396624,48.40371899874299],[22.05124902970795,48.40460490874574],[22.04991349734024,48.40475138389331],[22.0501281799751,48.40563729593839],[22.04879261784453,48.40578375798765],[22.0496513535191,48.40932740871818],[22.04831569350682,48.40947386660417],[22.04853037870691,48.41035977992499],[22.04452328817854,48.41079906604699],[22.04538185241159,48.41434274571117],[22.04671764716124,48.41419632117004],[22.04693233492088,48.41508223576864],[22.05093974493201,48.41464285672879],[22.05115451043037,48.41552876145403],[22.05249032235139,48.4153822666342],[22.05270512016398,48.4162681674436],[22.05404094773252,48.41612165356332],[22.05425577786167,48.41700755045605],[22.05692745722297,48.41671446849341],[22.05714234238525,48.41760035848802]]],"type":"Polygon"}
+}

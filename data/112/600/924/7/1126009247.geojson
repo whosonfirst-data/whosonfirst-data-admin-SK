@@ -1,0 +1,132 @@
+{
+  "id": 1126009247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94922,49.11627,18.94922,49.11627",
+    "geom:latitude":49.11627,
+    "geom:longitude":18.94922,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":49.11627,
+    "lbl:longitude":18.94922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:cze_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:dut_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:eng_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:epo_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:fre_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:ger_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1gkelecs\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:may_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:pol_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:slo_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0447\u0458\u0430\u043d\u0441\u043a\u0435 \u041a\u0459\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "K\u013ea\u010dany"
+    ],
+    "name:war_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3057087,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tur\u010dianske Kl\u0315a\u010dany",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1012816,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822759,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057087,
+        "gp:id":822759,
+        "qs_pg:id":1012816,
+        "wd:id":"Q1186107"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300167,
+    "wof:geomhash":"4f35796b16a2567cc9acb5811991f710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1126009247,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1126009247,
+    "wof:lastmodified":1514505329,
+    "wof:name":"Tur\u010dianske Kl\u0315a\u010dany",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94922,
+    49.11627,
+    18.94922,
+    49.11627
+],
+  "geometry": {"coordinates":[18.94922,49.11627],"type":"Point"}
+}

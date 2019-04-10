@@ -1,0 +1,71 @@
+{
+  "id": 1243549943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7067,49.11996,18.7067,49.11996",
+    "geom:latitude":49.11996,
+    "geom:longitude":18.7067,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Stranske",
+    "gn:country_code":"SK",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057426,
+    "gn:latitude":49.11996,
+    "gn:longitude":18.7067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Str\u00e1nske",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Str\u00e1nske"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057426,
+        "wk:page":"Str%C3%A1nske"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"04d086a049d1270857c3ab0e97511388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1243549943,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1243549943,
+    "wof:lastmodified":1537700389,
+    "wof:name":"Stranske",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7067,
+    49.11996,
+    18.7067,
+    49.11996
+],
+  "geometry": {"coordinates":[18.7067,49.11996],"type":"Point"}
+}

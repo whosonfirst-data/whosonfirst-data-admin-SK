@@ -1,0 +1,71 @@
+{
+  "id": 1260087855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41509,48.53199,20.41509,48.53199",
+    "geom:latitude":48.53199,
+    "geom:longitude":20.41509,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ardovo",
+    "gn:country_code":"SK",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725199,
+    "gn:latitude":48.53199,
+    "gn:longitude":20.41509,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ardovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Pels\u0151card\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725199,
+        "wk:page":"Ardovo"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a076d47116e3218fcc65b694b88d5839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1260087855,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1260087855,
+    "wof:lastmodified":1537700377,
+    "wof:name":"Ardovo",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41509,
+    48.53199,
+    20.41509,
+    48.53199
+],
+  "geometry": {"coordinates":[20.41509,48.53199],"type":"Point"}
+}

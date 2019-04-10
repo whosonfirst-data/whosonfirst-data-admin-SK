@@ -1,0 +1,71 @@
+{
+  "id": 1226551643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72387,48.88418,20.72387,48.88418",
+    "geom:latitude":48.88418,
+    "geom:longitude":20.72387,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Porac",
+    "gn:country_code":"SK",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723839,
+    "gn:latitude":48.88418,
+    "gn:longitude":20.72387,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Por\u00e1\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Por\u00e1\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723839,
+        "wk:page":"Por%C3%A1%C4%8D"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a762c49148ebffe99f9c4e84b7a4ab2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":1226551643,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226551643,
+    "wof:lastmodified":1537700354,
+    "wof:name":"Porac",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72387,
+    48.88418,
+    20.72387,
+    48.88418
+],
+  "geometry": {"coordinates":[20.72387,48.88418],"type":"Point"}
+}

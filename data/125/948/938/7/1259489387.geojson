@@ -1,0 +1,75 @@
+{
+  "id": 1259489387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02245,47.83019,18.02245,47.83019",
+    "geom:latitude":47.83019,
+    "geom:longitude":18.02245,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Balvany",
+    "gn:country_code":"SK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061197,
+    "gn:latitude":47.83019,
+    "gn:longitude":18.02245,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balvany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "B\u00e1lv\u00e1nyszak\u00e1llas"
+    ],
+    "name:und_x_variant":[
+        "Dvor Balvany",
+        "B\u00e1lv\u00e1ny",
+        "Balvany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061197
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"55d91c5f970393485a522baa431332bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1259489387,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1259489387,
+    "wof:lastmodified":1537700437,
+    "wof:name":"Balvany",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02245,
+    47.83019,
+    18.02245,
+    47.83019
+],
+  "geometry": {"coordinates":[18.02245,47.83019],"type":"Point"}
+}

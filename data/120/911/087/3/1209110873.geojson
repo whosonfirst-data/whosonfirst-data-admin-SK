@@ -1,0 +1,62 @@
+{
+  "id": 1209110873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32572,48.89222,21.32572,48.89222",
+    "geom:latitude":48.89222,
+    "geom:longitude":21.32572,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mirkovce",
+    "gn:country_code":"SK",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724130,
+    "gn:latitude":48.89222,
+    "gn:longitude":21.32572,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mirkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724130,
+        "wk:page":"Mirkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c49a1cd136cc1cf85c6c80cffc616d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209110873
+        }
+    ],
+    "wof:id":1209110873,
+    "wof:lastmodified":1537573572,
+    "wof:name":"Mirkovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32572,
+    48.89222,
+    21.32572,
+    48.89222
+],
+  "geometry": {"coordinates":[21.32572,48.89222],"type":"Point"}
+}

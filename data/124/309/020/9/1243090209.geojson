@@ -1,0 +1,71 @@
+{
+  "id": 1243090209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7,49.01667,21.7,49.01667",
+    "geom:latitude":49.01667,
+    "geom:longitude":21.7,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dobra nad Ondavou",
+    "gn:country_code":"SK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724896,
+    "gn:latitude":49.01667,
+    "gn:longitude":21.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dobr\u00e1 nad Ondavou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobra",
+        "Dobr\u00e1 nad Ondavou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724896
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"67e57b65a72243826f7bcba6f6fb5f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1243090209,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1243090209,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Dobra nad Ondavou",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7,
+    49.01667,
+    21.7,
+    49.01667
+],
+  "geometry": {"coordinates":[21.7,49.01667],"type":"Point"}
+}

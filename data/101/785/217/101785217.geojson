@@ -1,0 +1,216 @@
+{
+  "id": 101785217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1086822.773839,
+    "geom:bbox":"17.2019500003,48.2406100112,17.2225134882,48.2605592174",
+    "geom:latitude":48.251075,
+    "geom:longitude":17.212682,
+    "gn:population":4614,
+    "iso:country":"SK",
+    "lbl:latitude":48.251214,
+    "lbl:longitude":17.215097,
+    "mps:latitude":48.251214,
+    "mps:longitude":17.215097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u0627\u062a\u064a \u062c\u0648\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0432\u0435\u0442\u044b-\u042e\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u044c\u0432\u044f\u0442\u044b \u042e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:ces_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u55ac\u6cbb"
+    ],
+    "name:cze_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:dan_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:deu_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:deu_x_variant":[
+        "Sankt Georgen"
+    ],
+    "name:dut_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:eng_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:epo_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u06cc \u06cc\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:fre_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:ger_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:hbs_x_preferred":[
+        "Sveti Jur"
+    ],
+    "name:hrv_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:hun_x_preferred":[
+        "Szentgy\u00f6rgy"
+    ],
+    "name:ind_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:ita_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:lav_x_preferred":[
+        "Sveti Jura"
+    ],
+    "name:lit_x_preferred":[
+        "Sanct Georgius"
+    ],
+    "name:may_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:nan_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:nno_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:nob_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u062a\u06cc \u06cc\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:por_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:ron_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:rum_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438-\u042e\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:slo_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0408\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0432\u04d9\u0442\u0438-\u042e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u044f\u0442\u0438\u0439 \u042e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Jur pri Bratislave"
+    ],
+    "name:war_x_preferred":[
+        "Sv\u00e4t\u00fd Jur"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u55ac\u6cbb"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pezinok",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Sv\u00e4t\u00fd Jur",
+    "qs:la_lc":"*SK107507989",
+    "qs:level":"locality",
+    "qs:loc":"Sv\u00e4t\u00fd Jur",
+    "qs:loc_alt":"Svaty Jur",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":48.25,
+    "wd:longitude":17.216667,
+    "wd:wordcount":647,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057304,
+        "gp:id":822554,
+        "qs:id":1255281,
+        "qs_pg:id":1255281,
+        "wd:id":"Q247240",
+        "wk:page":"Sv\u00e4t\u00fd Jur"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f37a4223a74f760009c6e0894bc2f3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080471,
+            "locality_id":101785217,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101785217,
+    "wof:lastmodified":1527677694,
+    "wof:name":"Sv\u00e4t\u00fd Jur",
+    "wof:parent_id":102080471,
+    "wof:placetype":"locality",
+    "wof:population":4614,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20195000032754,
+    48.24061001120094,
+    17.22251348816201,
+    48.26055921737964
+],
+  "geometry": {"coordinates":[[[17.22251348816201,48.25387343081314],[17.22225686983563,48.25208383315197],[17.22091607029773,48.25217173313865],[17.22053125635898,48.24948732700125],[17.21919052285966,48.24957520534213],[17.2190622865071,48.24868040036586],[17.2177215721922,48.24876826065059],[17.2174651636326,48.24697864540565],[17.21612449192577,48.24706648584174],[17.2159963197148,48.24617167557386],[17.21465566719246,48.24625949795558],[17.21452752416633,48.24536468532665],[17.21184625325435,48.24554027772132],[17.2117181628322,48.24464546093992],[17.20769629496414,48.24490872219803],[17.20756828056324,48.24401389947491],[17.20622767289501,48.24410161891461],[17.20609968767008,48.24320679383356],[17.20475909919043,48.24329449522213],[17.20437524829549,48.24061001120094],[17.20303472584158,48.24069769095985],[17.20329057384856,48.24248735112087],[17.20195000032754,48.24257501819858],[17.20220582449969,48.24436467966757],[17.20354644486218,48.24427700901106],[17.2036743889978,48.24517183710464],[17.20501502855166,48.2450841483971],[17.20514300186289,48.2459789741331],[17.20782431512072,48.24580354435307],[17.20795234103343,48.24669836594023],[17.20929301473598,48.24661062486678],[17.2094210698296,48.24750544409511],[17.21076176272146,48.24741768496841],[17.21140224170398,48.2518917636354],[17.2100614316771,48.25197953172045],[17.21031761673265,48.25376916279703],[17.20763589024557,48.25394465734183],[17.20802007043244,48.25662911045049],[17.20667913053319,48.25671683869967],[17.20693523258211,48.2585064748522],[17.20425324632964,48.25868188971708],[17.20438125911562,48.25957671052475],[17.20304023619804,48.25966439534824],[17.20316823130145,48.26055921737964],[17.20585031978146,48.2603838278842],[17.2057222777982,48.25948900943445],[17.20840430245602,48.25931355845393],[17.20827621935456,48.25841874301994],[17.20961720189064,48.25833099492172],[17.2094891011123,48.25743618071232],[17.21217100659806,48.2572606393021],[17.21204286471004,48.25636582810984],[17.21472470637076,48.25619022522278],[17.21459652337768,48.25529541704856],[17.221300936153,48.25485613416203],[17.22117264176529,48.25396133438909],[17.22251348816201,48.25387343081314]]],"type":"Polygon"}
+}

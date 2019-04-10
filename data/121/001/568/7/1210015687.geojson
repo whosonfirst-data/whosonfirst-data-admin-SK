@@ -1,0 +1,71 @@
+{
+  "id": 1210015687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22019,49.11641,21.22019,49.11641",
+    "geom:latitude":49.11641,
+    "geom:longitude":21.22019,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Babin Potok",
+    "gn:country_code":"SK",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725192,
+    "gn:latitude":49.11641,
+    "gn:longitude":21.22019,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Babin Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balpotok",
+        "Babin Potok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725192
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cbbf1fecb9ef82bbf63171b2e60596af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1210015687,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1210015687,
+    "wof:lastmodified":1537700377,
+    "wof:name":"Babin Potok",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22019,
+    49.11641,
+    21.22019,
+    49.11641
+],
+  "geometry": {"coordinates":[21.22019,49.11641],"type":"Point"}
+}

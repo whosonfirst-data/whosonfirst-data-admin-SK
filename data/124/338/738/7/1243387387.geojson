@@ -1,0 +1,67 @@
+{
+  "id": 1243387387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3575,48.70963,18.3575,48.70963",
+    "geom:latitude":48.70963,
+    "geom:longitude":18.3575,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Latkovce",
+    "gn:country_code":"SK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059152,
+    "gn:latitude":48.70963,
+    "gn:longitude":18.3575,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"L\u00e1tkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059152
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"226b15cb2ceb613b2d3c669d6de69640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080523,
+            "locality_id":1243387387,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1243387387,
+    "wof:lastmodified":1536890389,
+    "wof:name":"Latkovce",
+    "wof:parent_id":102080523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3575,
+    48.70963,
+    18.3575,
+    48.70963
+],
+  "geometry": {"coordinates":[18.3575,48.70963],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326844473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36624,48.16939,19.36624,48.16939",
+    "geom:latitude":48.16939,
+    "geom:longitude":19.36624,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nova Ves",
+    "gn:country_code":"SK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058486,
+    "gn:latitude":48.16939,
+    "gn:longitude":19.36624,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nov\u00e1 Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058486,
+        "wk:page":"Nov%C3%A1_Ves_%28Slovakia%29"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c1976e231d8e9e33dd9b0043a1783689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1326844473,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1326844473,
+    "wof:lastmodified":1537700399,
+    "wof:name":"Nova Ves",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36624,
+    48.16939,
+    19.36624,
+    48.16939
+],
+  "geometry": {"coordinates":[19.36624,48.16939],"type":"Point"}
+}

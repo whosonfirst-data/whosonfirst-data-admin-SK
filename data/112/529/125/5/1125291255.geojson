@@ -1,0 +1,128 @@
+{
+  "id": 1125291255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35043,48.21058,19.35043,48.21058",
+    "geom:latitude":48.21058,
+    "geom:longitude":19.35043,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":12608,
+    "iso:country":"SK",
+    "lbl:latitude":48.21058,
+    "lbl:longitude":19.35043,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0643\u064a \u0643\u0631\u062a\u064a\u0634"
+    ],
+    "name:aze_x_preferred":[
+        "Velki Krti\u015f"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u043b\u044c\u043a\u0456 \u041a\u0440\u0446\u0456\u0448"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0438 \u041a\u0440\u0442\u0438\u0448"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u06cc \u06a9\u0631\u062a\u06cc\u0634"
+    ],
+    "name:hbs_x_preferred":[
+        "Veljki Krti\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyk\u00fcrt\u00f6s"
+    ],
+    "name:lav_x_preferred":[
+        "Ve\u013cki Krt\u012b\u0161a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0438-\u041a\u0440\u0442\u0438\u0448"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0438 \u041a\u0440\u0442\u0438\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Krt\u00ed\u0161"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u514b\u723e\u5b63\u4ec0"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056825,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Velky Krtis",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":343502,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401408,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056825,
+        "gp:id":29401408,
+        "qs_pg:id":343502
+    },
+    "wof:country":"SK",
+    "wof:created":1497042928,
+    "wof:geomhash":"360e5f48f1b6916eeeea02ae6e680f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "localadmin_id":1125291255,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125291255,
+    "wof:lastmodified":1509387535,
+    "wof:name":"Velky Krtis",
+    "wof:parent_id":102080479,
+    "wof:placetype":"localadmin",
+    "wof:population":12608,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35043,
+    48.21058,
+    19.35043,
+    48.21058
+],
+  "geometry": {"coordinates":[19.35043,48.21058],"type":"Point"}
+}

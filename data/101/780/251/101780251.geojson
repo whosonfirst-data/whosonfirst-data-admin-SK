@@ -1,0 +1,138 @@
+{
+  "id": 101780251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":986990.510807,
+    "geom:bbox":"20.7950825377,48.7950089491,20.8124407987,48.8124152947",
+    "geom:latitude":48.802743,
+    "geom:longitude":20.804206,
+    "iso:country":"SK",
+    "lbl:latitude":48.802791,
+    "lbl:longitude":20.803615,
+    "mps:latitude":48.802791,
+    "mps:longitude":20.803615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:deu_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:dut_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:eng_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:epo_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:fra_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:fre_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:ger_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:hbs_x_preferred":[
+        "Mnji\u0161ek na Hnjiljecu"
+    ],
+    "name:hun_x_preferred":[
+        "Szepesremete"
+    ],
+    "name:ita_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:may_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:msa_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:nld_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:pol_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:slo_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:spa_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u045a\u0438\u0448\u0435\u043a \u043d\u0430 \u0425\u045a\u0438\u0459\u0435\u0446\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Mi\u0161ek"
+    ],
+    "name:war_x_preferred":[
+        "Mn\u00ed\u0161ek nad Hnilcom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Gelnica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Mn\u00ed\u0161ek nad Hnilcom",
+    "qs:la_lc":"*SK421543365",
+    "qs:level":"locality",
+    "qs:loc":"Mn\u00ed\u0161ek nad Hnilcom",
+    "qs:loc_alt":"Mnisek nad Hnilcom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724122,
+        "gp:id":821062,
+        "qs:id":1,
+        "wd:id":"Q1073009",
+        "wk:page":"Mn\u00ed\u0161ek nad Hnilcom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"402d8c9dd2edec2650b65658b5934a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080559,
+            "locality_id":101780251,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780251,
+    "wof:lastmodified":1527715868,
+    "wof:name":"Mn\u00ed\u0161ek nad Hnilcom",
+    "wof:parent_id":102080559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79508253765306,
+    48.79500894911155,
+    20.81244079867577,
+    48.81241529467695
+],
+  "geometry": {"coordinates":[[[20.81148193891619,48.80922358428018],[20.81109172066078,48.8074467661408],[20.81244079867577,48.80731511666659],[20.81224567933373,48.80642670910657],[20.80819849611299,48.8068216004886],[20.80722338335465,48.80237950990329],[20.80857233371529,48.80224790931345],[20.80818230344357,48.80047107288061],[20.8095312004242,48.80033946142328],[20.8091411585383,48.7985626272029],[20.81049000214347,48.79843100487898],[20.81029497098814,48.79754258927693],[20.80894615081826,48.79767420888635],[20.80836118054305,48.79500894911155],[20.80431489194444,48.79540368575061],[20.80450980292267,48.79629211461997],[20.80316100362819,48.79642366362435],[20.80374571911898,48.79908895354754],[20.79835017573708,48.79961501916472],[20.79854500476466,48.80050345838112],[20.79584714722125,48.80076639883737],[20.79643154649585,48.80343172793829],[20.79508253765306,48.80356318185517],[20.79547213431323,48.80534006933129],[20.79951928202797,48.80494564241684],[20.79971416390947,48.80583407681473],[20.8010632235999,48.80570256586788],[20.80145306069193,48.80747942682882],[20.80684942203231,48.80695319835331],[20.80704444758942,48.80784161677389],[20.80839354511716,48.80771001619439],[20.80897874504336,48.8103752584895],[20.80762957716905,48.81050686721363],[20.807824638,48.81139528241971],[20.80647544017046,48.81152687755912],[20.80667048636923,48.81241529467695],[20.80936892242852,48.81215208266815],[20.80917382932523,48.81126367098068],[20.81052301414513,48.81113204324191],[20.81013280750125,48.80935522288689],[20.81148193891619,48.80922358428018]]],"type":"Polygon"}
+}

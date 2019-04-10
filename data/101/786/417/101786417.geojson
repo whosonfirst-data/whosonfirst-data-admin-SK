@@ -1,0 +1,144 @@
+{
+  "id": 101786417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":907388.826856,
+    "geom:bbox":"17.8207676063,48.0513471037,17.8389017133,48.0653287481",
+    "geom:latitude":48.058458,
+    "geom:longitude":17.829114,
+    "iso:country":"SK",
+    "lbl:latitude":48.060131,
+    "lbl:longitude":17.828221,
+    "mps:latitude":48.060131,
+    "mps:longitude":17.828221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:cze_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:deu_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:fra_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:ger_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:hbs_x_preferred":[
+        "Kraljov Brod"
+    ],
+    "name:hun_x_preferred":[
+        "Kir\u00e1lyr\u00e9v"
+    ],
+    "name:hun_x_variant":[
+        "Kir\u00e1ly Rev"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:msa_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:nan_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:nld_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u0451\u0432 \u0411\u0440\u043e\u0434"
+    ],
+    "name:slo_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0459\u043e\u0432 \u0411\u0440\u043e\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Kir\u00e1lyr\u00e9v"
+    ],
+    "name:war_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kr\u00e1\u013eov Brod",
+    "qs:la_lc":"*SK212503878",
+    "qs:level":"locality",
+    "qs:loc":"Kr\u00e1\u013eov Brod",
+    "qs:loc_alt":"Kralov Brod",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":180,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059303,
+        "gp:id":820389,
+        "qs:id":1271295,
+        "wd:id":"Q579457",
+        "wk:page":"Kr\u00e1\u013eov Brod"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"104838b5d086c569f083bbd99094b6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101786417,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101786417,
+    "wof:lastmodified":1527715650,
+    "wof:name":"Kr\u00e1\u013eov Brod",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82076760633521,
+    48.05134710368122,
+    17.83890171329671,
+    48.06532874814138
+],
+  "geometry": {"coordinates":[[[17.82960633015119,48.06504313013482],[17.82932978190303,48.06325509149019],[17.8306647173614,48.06315985700979],[17.83052642939811,48.06226583869653],[17.83186133719005,48.06217058997811],[17.8313081547405,48.05859451829883],[17.83264296551818,48.05849926114001],[17.83236636518973,48.05671122547079],[17.83770537792333,48.05633005061293],[17.837566994594,48.05543603958591],[17.83890171329671,48.05534070738565],[17.83876331304862,48.05444669767587],[17.83742861745566,48.05454202794272],[17.83715188175017,48.05275400280732],[17.83581722782628,48.05284931304095],[17.83567889236531,48.05195529761556],[17.83167497263941,48.05224112551946],[17.83153671268661,48.05134710368122],[17.83020208679591,48.05144234538466],[17.83061681588504,48.05412441484646],[17.82794741182153,48.05431486134182],[17.8280856209995,48.05520888712675],[17.82541615254257,48.0553992728141],[17.82583067849816,48.05808135806041],[17.82449586811538,48.05817653244367],[17.82463403268264,48.05907056155911],[17.82196435206066,48.05926086567894],[17.82210247657514,48.06015489803946],[17.82076760633521,48.060250027775],[17.82132007371996,48.06382615878726],[17.82532494825756,48.0635406979078],[17.82560135777254,48.06532874814138],[17.82960633015119,48.06504313013482]]],"type":"Polygon"}
+}

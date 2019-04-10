@@ -1,0 +1,65 @@
+{
+  "id": 1209338681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03013,48.1851,18.03013,48.1851",
+    "geom:latitude":48.1851,
+    "geom:longitude":18.03013,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vel'ka Dolina",
+    "gn:country_code":"SK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056928,
+    "gn:latitude":48.1851,
+    "gn:longitude":18.03013,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ve\u013ek\u00e1 Dolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00e1 Dolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056928,
+        "wk:page":"Ve%C4%BEk%C3%A1_Dolina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9fd33fb1dbf1494c6b2387755b7e4493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209338681
+        }
+    ],
+    "wof:id":1209338681,
+    "wof:lastmodified":1537700383,
+    "wof:name":"Vel'ka Dolina",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03013,
+    48.1851,
+    18.03013,
+    48.1851
+],
+  "geometry": {"coordinates":[18.03013,48.1851],"type":"Point"}
+}

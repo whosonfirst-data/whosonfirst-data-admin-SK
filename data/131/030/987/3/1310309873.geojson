@@ -1,0 +1,72 @@
+{
+  "id": 1310309873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81984,49.19363,20.81984,49.19363",
+    "geom:latitude":49.19363,
+    "geom:longitude":20.81984,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Krasna Luka",
+    "gn:country_code":"SK",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724410,
+    "gn:latitude":49.19363,
+    "gn:longitude":20.81984,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kr\u00e1sna L\u00faka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160enviz",
+        "Kr\u00e1sna L\u00faka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724410,
+        "wk:page":"Kr%C3%A1sna_L%C3%BAka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"42faf4c52679a9dc96edd27751530ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080595,
+            "locality_id":1310309873,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310309873,
+    "wof:lastmodified":1537700364,
+    "wof:name":"Krasna Luka",
+    "wof:parent_id":102080595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81984,
+    49.19363,
+    20.81984,
+    49.19363
+],
+  "geometry": {"coordinates":[20.81984,49.19363],"type":"Point"}
+}

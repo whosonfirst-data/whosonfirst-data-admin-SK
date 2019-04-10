@@ -1,0 +1,67 @@
+{
+  "id": 1259387313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14067,49.10157,20.14067,49.10157",
+    "geom:latitude":49.10157,
+    "geom:longitude":20.14067,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nizne Hagy",
+    "gn:country_code":"SK",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724050,
+    "gn:latitude":49.10157,
+    "gn:longitude":20.14067,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ni\u017en\u00e9 H\u00e1gy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724050
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"412a014f60f88bbd745ee059f8e9c1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1259387313,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1259387313,
+    "wof:lastmodified":1536995899,
+    "wof:name":"Nizne Hagy",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14067,
+    49.10157,
+    20.14067,
+    49.10157
+],
+  "geometry": {"coordinates":[20.14067,49.10157],"type":"Point"}
+}

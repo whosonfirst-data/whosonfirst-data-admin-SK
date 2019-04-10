@@ -1,0 +1,72 @@
+{
+  "id": 1226250159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34089,48.48843,20.34089,48.48843",
+    "geom:latitude":48.48843,
+    "geom:longitude":20.34089,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bretka",
+    "gn:country_code":"SK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725076,
+    "gn:latitude":48.48843,
+    "gn:longitude":20.34089,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bretka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beretke",
+        "Bretka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725076,
+        "wk:page":"Bretka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1d932eeb32d84ad929dca1bc3fd01a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":1226250159,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226250159,
+    "wof:lastmodified":1537700375,
+    "wof:name":"Bretka",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34089,
+    48.48843,
+    20.34089,
+    48.48843
+],
+  "geometry": {"coordinates":[20.34089,48.48843],"type":"Point"}
+}

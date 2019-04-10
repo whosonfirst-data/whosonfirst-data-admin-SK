@@ -1,0 +1,73 @@
+{
+  "id": 1293104769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8264,48.07672,18.8264,48.07672",
+    "geom:latitude":48.07672,
+    "geom:longitude":18.8264,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ivanka Majer",
+    "gn:country_code":"SK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059768,
+    "gn:latitude":48.07672,
+    "gn:longitude":18.8264,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ivanka Majer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_historical":[
+        "Hurkasz\u00e1r\u00edt\u00f3"
+    ],
+    "name:hun_x_preferred":[
+        "Hurkasz\u00e1r\u00edt\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059768
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6ed7fec6696b08ce91d08e03e17ee6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1293104769,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293104769,
+    "wof:lastmodified":1537700417,
+    "wof:name":"Ivanka Majer",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8264,
+    48.07672,
+    18.8264,
+    48.07672
+],
+  "geometry": {"coordinates":[18.8264,48.07672],"type":"Point"}
+}

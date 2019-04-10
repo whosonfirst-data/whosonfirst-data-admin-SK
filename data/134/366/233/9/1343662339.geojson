@@ -1,0 +1,67 @@
+{
+  "id": 1343662339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75421,48.00659,18.75421,48.00659",
+    "geom:latitude":48.00659,
+    "geom:longitude":18.75421,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pustatina Rozmarin",
+    "gn:country_code":"SK",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057945,
+    "gn:latitude":48.00659,
+    "gn:longitude":18.75421,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Pustatina Rozmar\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057945
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"35a12aaee492a260da6f173d530181a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1343662339,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1343662339,
+    "wof:lastmodified":1536952503,
+    "wof:name":"Pustatina Rozmarin",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75421,
+    48.00659,
+    18.75421,
+    48.00659
+],
+  "geometry": {"coordinates":[18.75421,48.00659],"type":"Point"}
+}

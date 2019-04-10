@@ -1,0 +1,67 @@
+{
+  "id": 1310305835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70204,48.8025,17.70204,48.8025",
+    "geom:latitude":48.8025,
+    "geom:longitude":17.70204,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dedinka Miskovych",
+    "gn:country_code":"SK",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060604,
+    "gn:latitude":48.8025,
+    "gn:longitude":17.70204,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dedinka Mi\u0161kov\u00fdch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060604
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"10254bad2b410a66719d16614e0ce1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1310305835,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1310305835,
+    "wof:lastmodified":1536707714,
+    "wof:name":"Dedinka Miskovych",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70204,
+    48.8025,
+    17.70204,
+    48.8025
+],
+  "geometry": {"coordinates":[17.70204,48.8025],"type":"Point"}
+}

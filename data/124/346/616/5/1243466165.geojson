@@ -1,0 +1,84 @@
+{
+  "id": 1243466165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56049,48.54834,21.56049,48.54834",
+    "geom:latitude":48.54834,
+    "geom:longitude":21.56049,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Brezina",
+    "gn:country_code":"SK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725075,
+    "gn:latitude":48.54834,
+    "gn:longitude":21.56049,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brezina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Kolb\u00e1sa"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0456\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0456\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kolba\u0161",
+        "Brezina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725075,
+        "wk:page":"Brezina_%28village%29"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9138bf46eed516e3d4ddd9dedd2be069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":1243466165,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1243466165,
+    "wof:lastmodified":1537700375,
+    "wof:name":"Brezina",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56049,
+    48.54834,
+    21.56049,
+    48.54834
+],
+  "geometry": {"coordinates":[21.56049,48.54834],"type":"Point"}
+}

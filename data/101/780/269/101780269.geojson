@@ -1,0 +1,144 @@
+{
+  "id": 101780269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":707815.978869,
+    "geom:bbox":"20.576573416,48.9560896722,20.5879899871,48.9734927339",
+    "geom:latitude":48.964045,
+    "geom:longitude":20.582923,
+    "iso:country":"SK",
+    "lbl:latitude":48.963403,
+    "lbl:longitude":20.582836,
+    "mps:latitude":48.963403,
+    "mps:longitude":20.582836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Harichovce"
+    ],
+    "name:ces_x_preferred":[
+        "Harichovce"
+    ],
+    "name:cze_x_preferred":[
+        "Harichovce"
+    ],
+    "name:deu_x_preferred":[
+        "Harichovce"
+    ],
+    "name:dut_x_preferred":[
+        "Harichovce"
+    ],
+    "name:eng_x_preferred":[
+        "Harichovce"
+    ],
+    "name:epo_x_preferred":[
+        "Harichovce"
+    ],
+    "name:fra_x_preferred":[
+        "Harichovce"
+    ],
+    "name:fre_x_preferred":[
+        "Harichovce"
+    ],
+    "name:ger_x_preferred":[
+        "Harichovce"
+    ],
+    "name:hbs_x_preferred":[
+        "Harihovce"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e1lmafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Harichovce"
+    ],
+    "name:may_x_preferred":[
+        "Harichovce"
+    ],
+    "name:msa_x_preferred":[
+        "Harichovce"
+    ],
+    "name:nld_x_preferred":[
+        "Harichovce"
+    ],
+    "name:pol_x_preferred":[
+        "Harichovce"
+    ],
+    "name:slk_x_preferred":[
+        "Harichovce"
+    ],
+    "name:slo_x_preferred":[
+        "Harichovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0438\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Harichovce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Harichovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Levo\u010da",
+    "qs:la_lc":"*SK414543292",
+    "qs:level":"locality",
+    "qs:loc":"Harichovce",
+    "qs:loc_alt":"Harichovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724740,
+        "gp:id":819564,
+        "qs:id":1083647,
+        "wd:id":"Q1073626",
+        "wk:page":"Harichovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eed6c387cc70f505e438d90b6bfd5f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":101780269,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101780269,
+    "wof:lastmodified":1527715868,
+    "wof:name":"Harichovce",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57657341597837,
+    48.95608967218379,
+    20.58798998709671,
+    48.97349273385765
+],
+  "geometry": {"coordinates":[[[20.58642457066861,48.97336375958321],[20.58604050776887,48.97158617081493],[20.58333248647011,48.97184409229362],[20.5827565996297,48.9691776872715],[20.58411054242862,48.9690487427398],[20.58353466294943,48.96638233874904],[20.58488852825957,48.96625338586762],[20.58469656217602,48.96536458565748],[20.58605039737182,48.96523561907946],[20.58566644397951,48.96345802167576],[20.58702022538154,48.96332904407598],[20.58663625948333,48.96155144891139],[20.58798998709671,48.96142246029092],[20.58683815644525,48.95608967218379],[20.58413097888399,48.95634760097533],[20.58432288153563,48.95723640628313],[20.58296925944086,48.95736534880166],[20.58335304352272,48.95914296243109],[20.5806456853536,48.95940080905621],[20.58102940956371,48.96117843026769],[20.57967567348368,48.96130733437269],[20.58005938516726,48.96308495782182],[20.57870559530056,48.96321385090204],[20.57908929445244,48.96499147658938],[20.57773545079397,48.96512035864396],[20.57792728974829,48.96600917299492],[20.57657341597837,48.96613804135126],[20.57695707263844,48.96791567306866],[20.57966490849492,48.96765790929675],[20.58024060092839,48.97032433501698],[20.58159458027728,48.97019542055546],[20.58217042218922,48.97286183126903],[20.58487850373632,48.97260393718727],[20.58507051585349,48.97349273385765],[20.58642457066861,48.97336375958321]]],"type":"Polygon"}
+}

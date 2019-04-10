@@ -1,0 +1,72 @@
+{
+  "id": 1226142001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77257,48.89865,21.77257,48.89865",
+    "geom:latitude":48.89865,
+    "geom:longitude":21.77257,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tovarnianska Polianka",
+    "gn:country_code":"SK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723360,
+    "gn:latitude":48.89865,
+    "gn:longitude":21.77257,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tovarnianska Polianka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tovarnianska Po\u013eanka",
+        "Tovarnianska Polianka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723360,
+        "wk:page":"Tovarnianska_Polianka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"afca24321d507005078937485b3532ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1226142001,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226142001,
+    "wof:lastmodified":1537700346,
+    "wof:name":"Tovarnianska Polianka",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77257,
+    48.89865,
+    21.77257,
+    48.89865
+],
+  "geometry": {"coordinates":[21.77257,48.89865],"type":"Point"}
+}

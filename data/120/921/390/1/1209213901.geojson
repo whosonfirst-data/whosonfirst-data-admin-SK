@@ -1,0 +1,65 @@
+{
+  "id": 1209213901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75046,49.22419,20.75046,49.22419",
+    "geom:latitude":49.22419,
+    "geom:longitude":20.75046,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sambron",
+    "gn:country_code":"SK",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723666,
+    "gn:latitude":49.22419,
+    "gn:longitude":20.75046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160ambron",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ambron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723666,
+        "wk:page":"%C5%A0ambron"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"629d9c8f6206cf6e6e876ff5fa9e4b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209213901
+        }
+    ],
+    "wof:id":1209213901,
+    "wof:lastmodified":1537700351,
+    "wof:name":"Sambron",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75046,
+    49.22419,
+    20.75046,
+    49.22419
+],
+  "geometry": {"coordinates":[20.75046,49.22419],"type":"Point"}
+}

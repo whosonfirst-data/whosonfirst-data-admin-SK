@@ -1,0 +1,144 @@
+{
+  "id": 101832693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1219097.871152,
+    "geom:bbox":"18.7054325705,48.7674092464,18.7426711577,48.7840656519",
+    "geom:latitude":48.77632,
+    "geom:longitude":18.724119,
+    "iso:country":"SK",
+    "lbl:latitude":48.775554,
+    "lbl:longitude":18.727221,
+    "mps:latitude":48.775554,
+    "mps:longitude":18.727221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:cze_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:deu_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:dut_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:eng_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:epo_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:fra_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:fre_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:ger_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:hbs_x_preferred":[
+        "Hrenovec-Brusno"
+    ],
+    "name:hun_x_preferred":[
+        "Torm\u00e1sboroszn\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:may_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:msa_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:nan_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:nld_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:slk_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:slo_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0435\u043d\u043e\u0432\u0435\u0446-\u0411\u0440\u0443\u0441\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Chrenovec"
+    ],
+    "name:war_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Chrenovec-Brusno"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Prievidza",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Lipn\u00edk",
+    "qs:la_lc":"*SK227557706",
+    "qs:level":"locality",
+    "qs:loc":"Chrenovec - Brusno",
+    "qs:loc_alt":"Chrenovec - Brusno",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060702,
+        "gp:id":818984,
+        "qs:id":1,
+        "wd:id":"Q370980",
+        "wk:page":"Chrenovec-Brusno"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6c40c4e78091641b5e3f43a969bf223f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101832693,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101832693,
+    "wof:lastmodified":1527642783,
+    "wof:name":"Chrenovec - Brusno",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70543257045324,
+    48.76740924638312,
+    18.74267115765957,
+    48.78406565189448
+],
+  "geometry": {"coordinates":[[[18.74267115765957,48.77327030232095],[18.74149248799461,48.7688397248628],[18.74052917049363,48.76891561274897],[18.74068684733908,48.7698078896376],[18.73933466376013,48.76991438659553],[18.73980766579336,48.77259122003153],[18.73439859306109,48.77301707036554],[18.73455617947201,48.77390935570679],[18.73049924813682,48.7742285779309],[18.73002672463736,48.77155170018318],[18.72732222026224,48.77176441982988],[18.72669247940831,48.76819522295904],[18.72534031455069,48.76830154939648],[18.72518292099471,48.76740924638312],[18.72247862309712,48.7676218456852],[18.72279332212395,48.76940645986679],[18.7241455213171,48.76930016401536],[18.72493251285641,48.773761677305],[18.7222278711057,48.7739742746005],[18.72254262245298,48.77575888424337],[18.72119024605172,48.77586516269639],[18.72134760861911,48.77675746875923],[18.71999520313733,48.77686373301566],[18.72030990205633,48.77864834762443],[18.71625251111789,48.77896705520635],[18.71609522954594,48.77807474162796],[18.70933292517719,48.77860558202127],[18.70949008764637,48.77949790658187],[18.70543257045324,48.77981622064567],[18.70558966858488,48.7807085511547],[18.70694220339669,48.780602460669],[18.70709933248065,48.78149478834666],[18.70845188585929,48.78138867926816],[18.70892338737161,48.78406565189448],[18.71027600696834,48.783959519831],[18.71011880883935,48.78306719845494],[18.71282398459851,48.78285488952537],[18.71266674595148,48.7819625719049],[18.71401930211459,48.78185639503988],[18.71386204677833,48.7809640789792],[18.7300920242136,48.77968870400701],[18.72961944352397,48.77701183115227],[18.7309718359503,48.77690544993055],[18.73081429953243,48.77601315990273],[18.73622372126823,48.77558747987337],[18.7360660967459,48.77469519801178],[18.7374184151866,48.77458873922103],[18.7372607740042,48.77369645892236],[18.74267115765957,48.77327030232095]]],"type":"Polygon"}
+}

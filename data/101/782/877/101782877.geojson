@@ -1,0 +1,144 @@
+{
+  "id": 101782877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":977114.880363,
+    "geom:bbox":"21.9416767849,48.3911843554,21.962136937,48.4044617718",
+    "geom:latitude":48.397685,
+    "geom:longitude":21.951486,
+    "iso:country":"SK",
+    "lbl:latitude":48.395726,
+    "lbl:longitude":21.949084,
+    "mps:latitude":48.395726,
+    "mps:longitude":21.949084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:ger_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Kisg\u00e9res"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:nan_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u0430\u043b\u0456 \u0413\u043e\u0440\u0435\u0448"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0425\u043e\u0440\u0435\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Mal\u00fd G\u00fdre\u0161"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Mal\u00fd Hore\u0161",
+    "qs:la_lc":"*SK42B528552",
+    "qs:level":"locality",
+    "qs:loc":"Mal\u00fd Hore\u0161",
+    "qs:loc_alt":"Maly Hores",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724194,
+        "gp:id":820904,
+        "qs:id":998281,
+        "wd:id":"Q596000",
+        "wk:page":"Mal\u00fd Hore\u0161"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3b220b1f91c1dfbcbf02c920e829ab19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101782877,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782877,
+    "wof:lastmodified":1527688321,
+    "wof:name":"Mal\u00fd Hore\u0161",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94167678491863,
+    48.39118435537546,
+    21.96213693704459,
+    48.40446177184896
+],
+  "geometry": {"coordinates":[[[21.95054209559851,48.40196334044072],[21.9496905746912,48.3984187727574],[21.95770411241938,48.39754696467605],[21.9585561785691,48.40109146143953],[21.95989183454265,48.400946091989],[21.96010489760317,48.40183221090393],[21.96144056928739,48.4016868224162],[21.96080134052147,48.39902847175676],[21.96213693704459,48.39888307605867],[21.9608586003377,48.39356636742122],[21.95151023154006,48.39458367549952],[21.95108451342048,48.39281139049365],[21.94974904957996,48.3929566499973],[21.94932341493137,48.39118435537546],[21.94798798951405,48.39132959289469],[21.94820077937248,48.3922157436221],[21.94686532424663,48.39236096801602],[21.94707810090262,48.39324712076916],[21.94574261606738,48.39339233203725],[21.94659372693434,48.39693694559207],[21.94525814424065,48.39708215259122],[21.94547092301531,48.39796830661589],[21.94279969119737,48.39825867827824],[21.94301243404419,48.39914483728148],[21.94167678491863,48.39929000194365],[21.94210225369795,48.40106232307562],[21.94343794826659,48.40091715250901],[21.94428909084206,48.40446177184896],[21.94696064077141,48.40417135884559],[21.94674779540929,48.40328521130664],[21.94941927188256,48.40299473988051],[21.94920639058847,48.40210859732275],[21.95054209559851,48.40196334044072]]],"type":"Polygon"}
+}

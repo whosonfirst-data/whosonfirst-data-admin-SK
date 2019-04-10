@@ -1,0 +1,150 @@
+{
+  "id": 101843941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":508397.23743,
+    "geom:bbox":"19.4578036606,49.2269396706,19.4710708148,49.2412258998",
+    "geom:latitude":49.233381,
+    "geom:longitude":19.463366,
+    "iso:country":"SK",
+    "lbl:latitude":49.235782,
+    "lbl:longitude":19.462361,
+    "mps:latitude":49.235782,
+    "mps:longitude":19.462361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:cat_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:ces_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:cze_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:deu_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:dut_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:eng_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:epo_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:fra_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:fre_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:ger_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:hbs_x_preferred":[
+        "Hljebnjice"
+    ],
+    "name:hun_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:ita_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:may_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:msa_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:nan_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:nld_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:slk_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:slo_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0459\u0435\u0431\u045a\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Chlebnice"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Doln\u00fd Kub\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Dlh\u00e1 nad Oravou",
+    "qs:la_lc":"*SK313509639",
+    "qs:level":"locality",
+    "qs:loc":"Chlebnice",
+    "qs:loc_alt":"Chlebnice",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060735,
+        "gp:id":818952,
+        "qs:id":1247675,
+        "qs_pg:id":1247675,
+        "wd:id":"Q860882",
+        "wk:page":"Chlebnice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ff8bf4ba09172667ffbe7dc2344f1a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":101843941,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101843941,
+    "wof:lastmodified":1527642594,
+    "wof:name":"Chlebnice",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.457803660634,
+    49.22693967058478,
+    19.47107081480658,
+    49.24122589983165
+],
+  "geometry": {"coordinates":[[[19.46360462530208,49.24111045978748],[19.46291199845109,49.23754714125533],[19.46427559417026,49.23743169434783],[19.46410243302705,49.23654086545559],[19.46682955840964,49.236309926876],[19.46665635671081,49.23541910214897],[19.46392927980889,49.23565003589238],[19.46306363256917,49.23119587801165],[19.46442705276331,49.23108043149421],[19.46425392284829,49.23018960032186],[19.47107081480658,49.22961213185926],[19.47055110913305,49.22693967058478],[19.46782451530146,49.22717069305065],[19.46799769414145,49.22806151898402],[19.46390768678395,49.22840793596373],[19.46373458063357,49.22751710277788],[19.46237125736894,49.22763253962745],[19.46254433928823,49.22852337523022],[19.46118098593945,49.22863879796631],[19.46135405154661,49.22952963531458],[19.4599906681122,49.22964504393644],[19.46033677461764,49.23142672145269],[19.45897333686167,49.23154211837618],[19.45914637775672,49.23243295854456],[19.46050983974908,49.23231755920472],[19.46102908266533,49.2349900684352],[19.45966554795814,49.23510547502451],[19.46035788578126,49.23866882094256],[19.45899424825024,49.23878422066559],[19.45916732826595,49.23967505788545],[19.457803660634,49.23979044349034],[19.45797672432502,49.24068128245665],[19.46206778239224,49.24033506878681],[19.46224092674674,49.24122589983165],[19.46360462530208,49.24111045978748]]],"type":"Polygon"}
+}

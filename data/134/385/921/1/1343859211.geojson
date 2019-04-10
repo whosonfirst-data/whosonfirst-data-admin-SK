@@ -1,0 +1,72 @@
+{
+  "id": 1343859211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82283,47.86339,17.82283,47.86339",
+    "geom:latitude":47.86339,
+    "geom:longitude":17.82283,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Brestovec",
+    "gn:country_code":"SK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060961,
+    "gn:latitude":47.86339,
+    "gn:longitude":17.82283,
+    "gn:modification_date":"2008-03-03",
+    "gn:name":"Brestovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szilvas",
+        "Szilas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060961,
+        "wk:page":"Brestovec%2C_Kom%C3%A1rno_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7d2da459f139efbd3c8d9d781600a012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1343859211,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1343859211,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Brestovec",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82283,
+    47.86339,
+    17.82283,
+    47.86339
+],
+  "geometry": {"coordinates":[17.82283,47.86339],"type":"Point"}
+}

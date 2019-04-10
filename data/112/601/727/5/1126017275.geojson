@@ -1,0 +1,123 @@
+{
+  "id": 1126017275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40368,48.62037,18.40368,48.62037",
+    "geom:latitude":48.62037,
+    "geom:longitude":18.40368,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.62037,
+    "lbl:longitude":18.40368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:cze_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:hun_x_preferred":[
+        "Kisugr\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u0423\u0445\u0435\u0440\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3058836,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mal\u00e9 Uherce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trenciansky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":307519,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":820884,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trenciansky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058836,
+        "gp:id":820884,
+        "qs_pg:id":307519,
+        "wd:id":"Q1043960"
+    },
+    "wof:country":"SK",
+    "wof:created":1497300626,
+    "wof:geomhash":"68c67e1687016b58308b1031d641c6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080503,
+            "locality_id":1126017275,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1126017275,
+    "wof:lastmodified":1514505173,
+    "wof:name":"Mal\u00e9 Uherce",
+    "wof:parent_id":102080503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40368,
+    48.62037,
+    18.40368,
+    48.62037
+],
+  "geometry": {"coordinates":[18.40368,48.62037],"type":"Point"}
+}

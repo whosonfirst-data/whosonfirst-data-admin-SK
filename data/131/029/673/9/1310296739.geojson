@@ -1,0 +1,71 @@
+{
+  "id": 1310296739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48756,48.627,17.48756,48.627",
+    "geom:latitude":48.627,
+    "geom:longitude":17.48756,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hradiste pod Vratnom",
+    "gn:country_code":"SK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059887,
+    "gn:latitude":48.627,
+    "gn:longitude":17.48756,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hradi\u0161te pod Vr\u00e1tnom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059887,
+        "wk:page":"Hradi%C5%A1te_pod_Vr%C3%A1tnom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"516b0bef4a7dcc54510246e099f4021b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1310296739,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310296739,
+    "wof:lastmodified":1537700418,
+    "wof:name":"Hradiste pod Vratnom",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48756,
+    48.627,
+    17.48756,
+    48.627
+],
+  "geometry": {"coordinates":[17.48756,48.627],"type":"Point"}
+}

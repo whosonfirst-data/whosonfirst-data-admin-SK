@@ -1,0 +1,66 @@
+{
+  "id": 1260304381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92282,48.84074,20.92282,48.84074",
+    "geom:latitude":48.84074,
+    "geom:longitude":20.92282,
+    "gn:asciiname":"Haj",
+    "gn:country_code":"SK",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732424,
+    "gn:latitude":48.84074,
+    "gn:longitude":20.92282,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"H\u00e1j",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732424
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"975f5614092400b306d3feaae2873c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080559,
+            "locality_id":1260304381,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1260304381,
+    "wof:lastmodified":1536683833,
+    "wof:name":"Haj",
+    "wof:parent_id":102080559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92282,
+    48.84074,
+    20.92282,
+    48.84074
+],
+  "geometry": {"coordinates":[20.92282,48.84074],"type":"Point"}
+}

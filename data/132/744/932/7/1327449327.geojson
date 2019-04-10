@@ -1,0 +1,72 @@
+{
+  "id": 1327449327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8934,48.70022,18.8934,48.70022",
+    "geom:latitude":48.70022,
+    "geom:longitude":18.8934,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lucky",
+    "gn:country_code":"SK",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058982,
+    "gn:latitude":48.70022,
+    "gn:longitude":18.8934,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00fa\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Honneshay",
+        "L\u00fa\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058982,
+        "wk:page":"L%C3%BA%C4%8Dky%2C_%C5%BDiar_nad_Hronom_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"93586fb4e8917d813fd8e18334dfc879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1327449327,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1327449327,
+    "wof:lastmodified":1537700407,
+    "wof:name":"Lucky",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8934,
+    48.70022,
+    18.8934,
+    48.70022
+],
+  "geometry": {"coordinates":[18.8934,48.70022],"type":"Point"}
+}

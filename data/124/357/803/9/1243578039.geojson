@@ -1,0 +1,67 @@
+{
+  "id": 1243578039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63709,48.71288,17.63709,48.71288",
+    "geom:latitude":48.71288,
+    "geom:longitude":17.63709,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jeruzalem",
+    "gn:country_code":"SK",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059640,
+    "gn:latitude":48.71288,
+    "gn:longitude":17.63709,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Jeruzal\u00e9m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059640
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fb118ad2e3ba199cf58740faf7d3b828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1243578039,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1243578039,
+    "wof:lastmodified":1536613565,
+    "wof:name":"Jeruzalem",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63709,
+    48.71288,
+    17.63709,
+    48.71288
+],
+  "geometry": {"coordinates":[17.63709,48.71288],"type":"Point"}
+}

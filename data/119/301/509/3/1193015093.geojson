@@ -1,0 +1,71 @@
+{
+  "id": 1193015093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56926,48.97157,21.56926,48.97157",
+    "geom:latitude":48.97157,
+    "geom:longitude":21.56926,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Paseky",
+    "gn:country_code":"SK",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723924,
+    "gn:latitude":48.97157,
+    "gn:longitude":21.56926,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paseky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Paseky",
+        "Paseky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723924
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cfe5f414ce29662a46b94b644fdaf7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1193015093,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1193015093,
+    "wof:lastmodified":1537700355,
+    "wof:name":"Paseky",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56926,
+    48.97157,
+    21.56926,
+    48.97157
+],
+  "geometry": {"coordinates":[21.56926,48.97157],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310417535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00366,48.6434,22.00366,48.6434",
+    "geom:latitude":48.6434,
+    "geom:longitude":22.00366,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Stretava",
+    "gn:country_code":"SK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723461,
+    "gn:latitude":48.6434,
+    "gn:longitude":22.00366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stretava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723461,
+        "wk:page":"Stretava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1afdcd7cdea88fe32fdb9c73f05a7e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1310417535,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310417535,
+    "wof:lastmodified":1537573563,
+    "wof:name":"Stretava",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00366,
+    48.6434,
+    22.00366,
+    48.6434
+],
+  "geometry": {"coordinates":[22.00366,48.6434],"type":"Point"}
+}

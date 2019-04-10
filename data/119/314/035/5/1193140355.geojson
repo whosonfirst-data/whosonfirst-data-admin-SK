@@ -1,0 +1,67 @@
+{
+  "id": 1193140355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09081,48.5736,17.09081,48.5736",
+    "geom:latitude":48.5736,
+    "geom:longitude":17.09081,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tomek",
+    "gn:country_code":"SK",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057178,
+    "gn:latitude":48.5736,
+    "gn:longitude":17.09081,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tomek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057178
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a0cc813ad78747bf17501e08998f0dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1193140355,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1193140355,
+    "wof:lastmodified":1536366425,
+    "wof:name":"Tomek",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09081,
+    48.5736,
+    17.09081,
+    48.5736
+],
+  "geometry": {"coordinates":[17.09081,48.5736],"type":"Point"}
+}

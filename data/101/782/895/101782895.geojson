@@ -1,0 +1,147 @@
+{
+  "id": 101782895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1216364.135955,
+    "geom:bbox":"20.3936216289,48.5363702813,20.4173467284,48.5545399203",
+    "geom:latitude":48.546884,
+    "geom:longitude":20.40424,
+    "iso:country":"SK",
+    "lbl:latitude":48.546896,
+    "lbl:longitude":20.403432,
+    "mps:latitude":48.546896,
+    "mps:longitude":20.403432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:ces_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:cze_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:deu_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:dut_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:eng_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:epo_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:fra_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:fre_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:ger_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05e9\u05d9\u05d1\u05e5"
+    ],
+    "name:hun_x_preferred":[
+        "Pels\u0151c"
+    ],
+    "name:ita_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:may_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:msa_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:nan_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:pol_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:slk_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:slo_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0459\u0435\u0448\u0438\u0432\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "T\u00f3tpels\u0151cz"
+    ],
+    "name:war_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ro\u017enava",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ple\u0161ivec",
+    "qs:la_lc":"*SK428526096",
+    "qs:level":"locality",
+    "qs:loc":"Ple\u0161ivec",
+    "qs:loc_alt":"Plesivec",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723879,
+        "gp:id":821619,
+        "qs:id":1012813,
+        "qs_pg:id":1012813,
+        "wd:id":"Q220500",
+        "wk:page":"Ple\u0161ivec, Slovakia"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8cc2fffa235c12f3ee1a1b21a7e79f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080553,
+            "locality_id":101782895,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782895,
+    "wof:lastmodified":1527688317,
+    "wof:name":"Ple\u0161ivec",
+    "wof:parent_id":102080553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39362162885578,
+    48.53637028131038,
+    20.41734672836282,
+    48.55453992034745
+],
+  "geometry": {"coordinates":[[[20.41734672836282,48.55403296303899],[20.41678704841229,48.55136499832633],[20.41141465226372,48.55187192447153],[20.41104176009623,48.55009325664923],[20.40969869206612,48.55021994242861],[20.40913948641526,48.54755192705073],[20.40779648188811,48.54767858881854],[20.40667843635515,48.54234252140679],[20.40802130154611,48.54221587520681],[20.40783496674771,48.54132653049908],[20.40380642231293,48.54170641264722],[20.40268900743979,48.53637028131038],[20.40134628625185,48.53649686068991],[20.4015324779038,48.53738622045762],[20.40018972733247,48.53751278620871],[20.40037590414545,48.53840214778779],[20.39903312418926,48.53852869990925],[20.39996401780849,48.54297550905824],[20.39727820719372,48.5432285905548],[20.39746436460285,48.54411795522776],[20.39477848286589,48.54437097701259],[20.39496460220147,48.54526034608875],[20.39362162885578,48.54538683523612],[20.39380773334017,48.54627620612416],[20.39515072991242,48.54614971438548],[20.39552301046012,48.54792844863903],[20.39820907800737,48.5476754061184],[20.39839527730317,48.54856476689082],[20.3997383250491,48.54843821869952],[20.40048329894978,48.55199564361664],[20.40451268391007,48.55161587056523],[20.40469901803613,48.55250521706216],[20.40872841710745,48.55212529018729],[20.40910124991154,48.55390396526917],[20.41178757799383,48.55365058916971],[20.41197405344616,48.55453992034745],[20.41734672836282,48.55403296303899]]],"type":"Polygon"}
+}

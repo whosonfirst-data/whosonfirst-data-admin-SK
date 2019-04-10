@@ -1,0 +1,67 @@
+{
+  "id": 1243387457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53196,48.77631,17.53196,48.77631",
+    "geom:latitude":48.77631,
+    "geom:longitude":17.53196,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Majtani",
+    "gn:country_code":"SK",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058911,
+    "gn:latitude":48.77631,
+    "gn:longitude":17.53196,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Majt\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058911
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f8da420900160167c519a5c4885bfaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1243387457,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1243387457,
+    "wof:lastmodified":1536890290,
+    "wof:name":"Majtani",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53196,
+    48.77631,
+    17.53196,
+    48.77631
+],
+  "geometry": {"coordinates":[17.53196,48.77631],"type":"Point"}
+}

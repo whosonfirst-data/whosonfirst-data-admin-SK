@@ -1,0 +1,138 @@
+{
+  "id": 101784127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1356007.419813,
+    "geom:bbox":"20.0540077647,48.3368724693,20.0743465928,48.3527385143",
+    "geom:latitude":48.342968,
+    "geom:longitude":20.062935,
+    "iso:country":"SK",
+    "lbl:latitude":48.342092,
+    "lbl:longitude":20.063628,
+    "mps:latitude":48.342092,
+    "mps:longitude":20.063628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:deu_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:dut_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:eng_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:epo_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:fra_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:fre_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:ger_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00e1nosi"
+    ],
+    "name:ita_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:may_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:msa_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:nld_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:pol_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:slk_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:slo_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0435 \u0408\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "J\u00e1no\u0161ovce"
+    ],
+    "name:war_x_preferred":[
+        "Rimavsk\u00e9 Janovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Rimavsk\u00e1 Sobota",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Rimavsk\u00e9 Janovce",
+    "qs:la_lc":"*SK329515469",
+    "qs:level":"locality",
+    "qs:loc":"Rimavsk\u00e9 Janovce",
+    "qs:loc_alt":"Rimavske Janovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724583,
+        "gp:id":820001,
+        "qs:id":255569,
+        "qs_pg:id":190911,
+        "wd:id":"Q1070038",
+        "wk:page":"Rimavsk\u00e9 Janovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"99f575950b255cd8bf536423273b2e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":101784127,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784127,
+    "wof:lastmodified":1527688541,
+    "wof:name":"Rimavsk\u00e9 Janovce",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05400776466081,
+    48.33687246933749,
+    20.07434659278385,
+    48.35273851433817
+],
+  "geometry": {"coordinates":[[[20.05971970992158,48.34970114803446],[20.05936157876255,48.34792092542244],[20.06070001752221,48.34779855951837],[20.06052094092223,48.34690844956424],[20.06319775459269,48.34666367423392],[20.06301863989842,48.34577356850724],[20.0670337469046,48.34540629172346],[20.06721293078124,48.34629638996466],[20.07256641627561,48.34580645123293],[20.07238714016233,48.34491636297719],[20.07372547369505,48.34479384036842],[20.07354618256181,48.34390375384697],[20.07220787208621,48.34402627395872],[20.07167011607726,48.3413560023277],[20.07434659278385,48.34111096091726],[20.07398803674459,48.3393307860029],[20.07264984745223,48.33945330979827],[20.07247060453801,48.33856321870007],[20.06979425432229,48.33880821279814],[20.06961506554399,48.33791811594517],[20.06827690462183,48.33804058624844],[20.06809774692601,48.33715048613709],[20.0667596031455,48.33727293777918],[20.06693873779096,48.33816304038555],[20.06158601139458,48.338652695267],[20.06122793454233,48.33687246933749],[20.05855162811946,48.33711718980305],[20.05873061642933,48.33800730813533],[20.05605424028994,48.33825196891979],[20.05623319051631,48.33914209147588],[20.05489497053952,48.3392644001097],[20.05561075944803,48.34282489268907],[20.0542724413412,48.34294719512422],[20.05534622704425,48.34828792611131],[20.05400776466081,48.34841022733269],[20.05418673396474,48.34930034899298],[20.05686369895824,48.34905572539321],[20.05740079342809,48.35172607084894],[20.05606224468175,48.35184839821477],[20.05624126915859,48.35273851433817],[20.05891840688275,48.35249383844666],[20.05838121912484,48.34982350275601],[20.05971970992158,48.34970114803446]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292937503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58213,49.06204,21.58213,49.06204",
+    "geom:latitude":49.06204,
+    "geom:longitude":21.58213,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Matiaska",
+    "gn:country_code":"SK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724172,
+    "gn:latitude":49.06204,
+    "gn:longitude":21.58213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matia\u0161ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u0165a\u0161ka",
+        "Matia\u0161ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724172,
+        "wk:page":"Matia%C5%A1ka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5c859d15ca170a2bcf2def6d7d09f30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":1292937503,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1292937503,
+    "wof:lastmodified":1537700360,
+    "wof:name":"Matiaska",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58213,
+    49.06204,
+    21.58213,
+    49.06204
+],
+  "geometry": {"coordinates":[21.58213,49.06204],"type":"Point"}
+}

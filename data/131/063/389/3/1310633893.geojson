@@ -1,0 +1,88 @@
+{
+  "id": 1310633893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85271,48.11055,18.85271,48.11055",
+    "geom:latitude":48.11055,
+    "geom:longitude":18.85271,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolne Semerovce",
+    "gn:country_code":"SK",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060440,
+    "gn:latitude":48.11055,
+    "gn:longitude":18.85271,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Semerovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_historical":[
+        "Als\u00f3 Szemer\u00e9d"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3szemer\u00e9d"
+    ],
+    "name:hun_x_variant":[
+        "Als\u00f3 Szemer\u00e9d"
+    ],
+    "name:slk_x_historical":[
+        "Doln\u00ed Semerovce",
+        "Dolnie Semerovce"
+    ],
+    "name:slk_x_preferred":[
+        "Doln\u00e9 Semerovce"
+    ],
+    "name:slk_x_variant":[
+        "Doln\u00ed Semerovce",
+        "Dolnie Semerovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060440,
+        "wk:page":"Doln%C3%A9_Semerovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b3a36e80a8a7b9fe76a835e2f30a425a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1310633893,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310633893,
+    "wof:lastmodified":1537700429,
+    "wof:name":"Dolne Semerovce",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85271,
+    48.11055,
+    18.85271,
+    48.11055
+],
+  "geometry": {"coordinates":[18.85271,48.11055],"type":"Point"}
+}

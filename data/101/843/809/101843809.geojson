@@ -1,0 +1,187 @@
+{
+  "id": 101843809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000329,
+    "geom:area_square_m":2691921.226649,
+    "geom:bbox":"18.8396547888,48.5820048809,18.8758706348,48.601710089",
+    "geom:latitude":48.590261,
+    "geom:longitude":18.854965,
+    "gn:population":19392,
+    "iso:country":"SK",
+    "lbl:latitude":48.589419,
+    "lbl:longitude":18.853182,
+    "mps:latitude":48.589419,
+    "mps:longitude":18.853182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0627\u0631 \u0646\u0627\u062f \u0647\u0631\u0648\u0646\u0648\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Jiar nad Hronom"
+    ],
+    "name:bel_x_preferred":[
+        "\u0416\u2019\u044f\u0440-\u043d\u0430\u0434-\u0413\u0440\u043e\u043d\u0430\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d6b\u9f8d\u6cb3\u7554\u65e5\u4e9e\u723e"
+    ],
+    "name:cze_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:dut_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:eng_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:epo_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:fre_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:ger_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d9\u05d0\u05e8 \u05e0\u05d0\u05d3 \u05d4\u05e8\u05d5\u05e0\u05d5\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:hun_x_preferred":[
+        "Garamszentkereszt"
+    ],
+    "name:ita_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a2\u30eb\u30fb\u30ca\u30c8\u30fb\u30d5\u30ed\u30ce\u30e0\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\uc544\ub974\ub098\ud2b8\ud750\ub85c\ub188"
+    ],
+    "name:lav_x_preferred":[
+        "\u017dara pie Hronas"
+    ],
+    "name:lit_x_preferred":[
+        "\u017diaras prie Hrono"
+    ],
+    "name:may_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:nan_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:nob_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:per_x_preferred":[
+        "\u0698\u06cc\u0627\u0631 \u0646\u0627\u062f \u0647\u0631\u0646\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "\u017bar nad Hronem"
+    ],
+    "name:rum_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u044c\u044f\u0440-\u043d\u0430\u0434-\u0413\u0440\u043e\u043d\u043e\u043c"
+    ],
+    "name:slo_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:spa_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0458\u0430\u0440 \u043d\u0430\u0434 \u0425\u0440\u043e\u043d\u043e\u043c"
+    ],
+    "name:tat_x_preferred":[
+        "\u0416\u044c\u044f\u0440-\u043d\u0430\u0434-\u04ba\u0440\u043e\u043d\u043e\u043c"
+    ],
+    "name:und_x_preferred":[
+        "Ziar Nad Hronom"
+    ],
+    "name:war_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u017diar nad Hronom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ladomersk\u00e1 Vieska",
+    "qs:la_lc":"*SK32D599328",
+    "qs:level":"locality",
+    "qs:loc":"\u017diar nad Hronom",
+    "qs:loc_alt":"Ziar nad Hronom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":48.583333,
+    "wd:longitude":18.866667,
+    "wd:wordcount":344,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070dea68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3056523,
+        "gp:id":29402166,
+        "qs:id":386092,
+        "wd:id":"Q393925"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"72b981cf3545405272c3a461b86b30e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":101843809,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101843809,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1534985987,
+    "wof:name":"\u017diar nad Hronom",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:population":19392,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[
+        1175613661
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.839654788801,
+    48.58200488093843,
+    18.87587063480777,
+    48.60171008895236
+],
+  "geometry": {"coordinates":[[[18.84940329432919,48.59560300528818],[18.8534451913365,48.59527962448249],[18.85360405165341,48.59617178724216],[18.85629867037443,48.59595611399453],[18.85613976290415,48.59506395567183],[18.85748704075451,48.5949560967847],[18.8573281168886,48.59406394002428],[18.86136984797315,48.5937402720952],[18.86152884256256,48.59463242219744],[18.86422335064128,48.59441655753551],[18.86406430890469,48.59352441187377],[18.86541153143094,48.59341645728273],[18.86525247330746,48.59252431318424],[18.86659966696794,48.5924163444941],[18.86644059245953,48.59152420195892],[18.87587063480777,48.59076797973756],[18.87571140250947,48.58987585209911],[18.874364293062,48.5899839305788],[18.87420509152207,48.58909180005878],[18.87151090386561,48.58930790361762],[18.87087435812788,48.58573935717527],[18.86952735061243,48.58584737559033],[18.86936825570967,48.58495523511255],[18.86802126646239,48.58506323498932],[18.86786220230675,48.58417109163207],[18.86651523132792,48.58427907297136],[18.8663561979173,48.58338692673516],[18.85558042813204,48.58425017228751],[18.85542159039369,48.58335800764087],[18.85138066017998,48.58368144884105],[18.85122190030256,48.58278927688502],[18.84987493656058,48.58289705576772],[18.8497162074159,48.58200488093843],[18.84836926195408,48.58211264128806],[18.84852796753643,48.58300481833334],[18.84718099323118,48.58311256458205],[18.84733968241903,48.58400474318648],[18.84599267926984,48.58411247533377],[18.84662741344084,48.58768119204666],[18.84528031074387,48.58778891673825],[18.84543898863836,48.58868109649092],[18.84409185709069,48.58878880707891],[18.84425051858284,48.58968098839051],[18.84155619250521,48.58989636503821],[18.8418734427018,48.59168073455362],[18.84052622459672,48.59178840282704],[18.84100208291426,48.59446495882503],[18.839654788801,48.59457261742176],[18.84092387104084,48.60171008895236],[18.84227135381121,48.60160241263418],[18.84211266985631,48.60071023320268],[18.84346012375784,48.60060254277596],[18.84330142338911,48.59971036490487],[18.84464884842339,48.59960266037029],[18.84433142203278,48.59781830709289],[18.84837352393896,48.59749510884944],[18.84821475076018,48.59660293787624],[18.84956208391299,48.59649517470064],[18.84940329432919,48.59560300528818]]],"type":"Polygon"}
+}

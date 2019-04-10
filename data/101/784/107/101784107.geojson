@@ -1,0 +1,141 @@
+{
+  "id": 101784107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1046885.297576,
+    "geom:bbox":"19.0915749501,48.4638146766,19.1115672166,48.484769085",
+    "geom:latitude":48.473989,
+    "geom:longitude":19.102266,
+    "iso:country":"SK",
+    "lbl:latitude":48.472673,
+    "lbl:longitude":19.10378,
+    "mps:latitude":48.472673,
+    "mps:longitude":19.10378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:ces_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:cze_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:deu_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:dut_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:eng_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:epo_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:fra_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:fre_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:ger_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:hun_x_preferred":[
+        "Dobronya"
+    ],
+    "name:ita_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:may_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:msa_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:nan_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:nld_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:pol_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:slo_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0430 \u040a\u0438\u0432\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Dobr\u00e1 Niva"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zvolen",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Dobr\u00e1 Niva",
+    "qs:la_lc":"*SK32B518298",
+    "qs:level":"locality",
+    "qs:loc":"Dobr\u00e1 Niva",
+    "qs:loc_alt":"Dobra Niva",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060545,
+        "gp:id":819129,
+        "qs:id":887546,
+        "qs_pg:id":887546,
+        "wd:id":"Q383852",
+        "wk:page":"Dobr\u00e1 Niva"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"36f0501596cdf1f89c3d166eb76dfe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":101784107,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784107,
+    "wof:lastmodified":1527688542,
+    "wof:name":"Dobr\u00e1 Niva",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09157495006974,
+    48.46381467663531,
+    19.11156721661365,
+    48.48476908496184
+],
+  "geometry": {"coordinates":[[[19.10378925144857,48.48443669819164],[19.10297543319456,48.47997776238441],[19.10163166343546,48.48008856288737],[19.10098083437742,48.47652139290631],[19.10635550671981,48.47607812963167],[19.10619272421178,48.47518634451802],[19.11156721661365,48.47474283008734],[19.11140434788217,48.47385105338083],[19.11006075627034,48.47396195411295],[19.10989791826165,48.47307017445235],[19.10855434463724,48.47318105664823],[19.10806594477162,48.470505706761],[19.11075294630774,48.47028393973778],[19.11059011424965,48.4693921596226],[19.1079031594806,48.46961392210227],[19.10757761089195,48.46783035073963],[19.10623417217562,48.46794120304298],[19.10607143225769,48.46704941406824],[19.10338458540036,48.46727106534638],[19.10322189957253,48.46637927114909],[19.10187849143296,48.46649007012496],[19.1013905480429,48.46381467663531],[19.10004720464849,48.46392545254088],[19.10037244615921,48.46570905342088],[19.09902905061472,48.46581981760357],[19.09935427465848,48.46760342029722],[19.10069771696521,48.46749265157592],[19.1011856781119,48.47016804369974],[19.09984216565329,48.47027881922963],[19.10033012257475,48.47295421203364],[19.09898653456094,48.47306497810871],[19.09914917813137,48.47395677661774],[19.0978055613345,48.47406752869779],[19.0979681888403,48.47495932879571],[19.09528089228542,48.47518078869894],[19.09544348033205,48.47607259265459],[19.09275611542296,48.47629399203288],[19.09291866400577,48.47718579984553],[19.09157495006974,48.47729647740402],[19.09190002241013,48.47908009552532],[19.0945875384744,48.47885871506861],[19.09442495185044,48.47796691088485],[19.09845611531233,48.4776347250064],[19.09878143626025,48.47941831907741],[19.10012519341649,48.47930755337893],[19.10077601684401,48.48287472427484],[19.09943216609418,48.48298549905496],[19.09975757498779,48.48476908496184],[19.10378925144857,48.48443669819164]]],"type":"Polygon"}
+}

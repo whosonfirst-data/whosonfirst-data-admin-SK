@@ -1,0 +1,149 @@
+{
+  "id": 101783953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1545428.418227,
+    "geom:bbox":"18.0727584411,48.3932213003,18.0937298442,48.4217144102",
+    "geom:latitude":48.408986,
+    "geom:longitude":18.082437,
+    "iso:country":"SK",
+    "lbl:latitude":48.409194,
+    "lbl:longitude":18.082278,
+    "mps:latitude":48.409194,
+    "mps:longitude":18.082278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:ger_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:hbs_x_preferred":[
+        "Vi\u010dapi-Opatovce"
+    ],
+    "name:hun_x_preferred":[
+        "Vics\u00e1pap\u00e1ti"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:may_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:msa_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:slo_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0447\u0430\u043f\u0438-\u041e\u043f\u0430\u0442\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Vicsap Apati",
+        "Vycapy-Opatovce"
+    ],
+    "name:und_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:und_x_variant":[
+        "Vics\u00e1p Ap\u00e1ti"
+    ],
+    "name:unk_x_variant":[
+        "Vics\u00e1p Ap\u00e1ti"
+    ],
+    "name:war_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nitra",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u013dudov\u00edtov\u00e1",
+    "qs:la_lc":"*SK233581097",
+    "qs:level":"locality",
+    "qs:loc":"V\u00fd\u010dapy - Opatovce",
+    "qs:loc_alt":"Vycapy - Opatovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0710bd88-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3056677,
+        "gp:id":29401164,
+        "qs:id":1290300,
+        "wd:id":"Q1070338",
+        "wk:page":"V\u00fd\u010dapy-Opatovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d14203413da0e00aa88651b38c646d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":101783953,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101783953,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527688493,
+    "wof:name":"V\u00fd\u010dapy - Opatovce",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07275844112428,
+    48.39322130031047,
+    18.09372984419707,
+    48.42171441020014
+],
+  "geometry": {"coordinates":[[[18.09052126476325,48.42132053735418],[18.09008799097484,48.41864013765496],[18.08874410646132,48.41873862424859],[18.08831096172935,48.41605821297719],[18.08696714290636,48.41615667722783],[18.08581256443443,48.40900887071831],[18.08849982148649,48.40881195820356],[18.08835548147368,48.40791848366371],[18.09372984419707,48.40752447126943],[18.09344099583654,48.40573753649005],[18.09209745929923,48.40583605998097],[18.09224185674611,48.40672952969589],[18.08821114796478,48.40702500851006],[18.08792250045514,48.40523805636224],[18.0838918894795,48.40553337650601],[18.08331495421623,48.40195944065141],[18.08197150156968,48.40205784006679],[18.08182730747404,48.40116435255379],[18.08048387352187,48.40126273367002],[18.07961898618754,48.39590178361976],[18.08096227930514,48.39580341459128],[18.08067398853467,48.39401643036064],[18.07933074235393,48.39411479536074],[18.07918663017483,48.39322130031047],[18.07784340268364,48.39331964701552],[18.07798749139545,48.3942131440794],[18.07395770986017,48.39450809254629],[18.07410173465598,48.39540159503622],[18.07275844112428,48.39549988064095],[18.07290244893795,48.39639338453048],[18.07693238561779,48.39609847283066],[18.07765287410371,48.4005659528807],[18.07899629414044,48.40046760634658],[18.07942873556908,48.40314808097372],[18.07808524510227,48.40324643355069],[18.07822938175531,48.40413992588094],[18.07419881124167,48.40443489194422],[18.07434288394745,48.40532838970285],[18.0756864357117,48.40523008195356],[18.07611876322909,48.40791056551205],[18.07746238066227,48.40781223543479],[18.07803900221188,48.41138619687592],[18.07938270880766,48.41128784245319],[18.07967110553795,48.41307481546698],[18.08101485432826,48.41297644072574],[18.08173607734307,48.41744385245909],[18.07770446423535,48.41773895804829],[18.07799285797199,48.4195259305468],[18.08471242418244,48.41903398628853],[18.08514541600795,48.42171441020014],[18.09052126476325,48.42132053735418]]],"type":"Polygon"}
+}

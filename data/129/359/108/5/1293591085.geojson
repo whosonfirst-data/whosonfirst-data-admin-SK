@@ -1,0 +1,67 @@
+{
+  "id": 1293591085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35968,48.83016,21.35968,48.83016",
+    "geom:latitude":48.83016,
+    "geom:longitude":21.35968,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ortase",
+    "gn:country_code":"SK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723964,
+    "gn:latitude":48.83016,
+    "gn:longitude":21.35968,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ort\u00e1\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723964
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c85f7764acaee8d0b3dba19d3fb7c18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1293591085,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1293591085,
+    "wof:lastmodified":1536636575,
+    "wof:name":"Ortase",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35968,
+    48.83016,
+    21.35968,
+    48.83016
+],
+  "geometry": {"coordinates":[21.35968,48.83016],"type":"Point"}
+}

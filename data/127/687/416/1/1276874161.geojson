@@ -1,0 +1,71 @@
+{
+  "id": 1276874161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01377,48.85614,21.01377,48.85614",
+    "geom:latitude":48.85614,
+    "geom:longitude":21.01377,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vel'ky Folkmar",
+    "gn:country_code":"SK",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723254,
+    "gn:latitude":48.85614,
+    "gn:longitude":21.01377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ve\u013ek\u00fd Folkmar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u013ek\u00fd Folkmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723254,
+        "wk:page":"Ve%C4%BEk%C3%BD_Folkm%C3%A1r"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"521945d6bbba01e82d4d749878eb8313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080559,
+            "locality_id":1276874161,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276874161,
+    "wof:lastmodified":1537700344,
+    "wof:name":"Vel'ky Folkmar",
+    "wof:parent_id":102080559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01377,
+    48.85614,
+    21.01377,
+    48.85614
+],
+  "geometry": {"coordinates":[21.01377,48.85614],"type":"Point"}
+}

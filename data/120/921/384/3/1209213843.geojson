@@ -1,0 +1,67 @@
+{
+  "id": 1209213843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71629,49.414,20.71629,49.414",
+    "geom:latitude":49.414,
+    "geom:longitude":20.71629,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mnisek nad Popradom",
+    "gn:country_code":"SK",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724121,
+    "gn:latitude":49.414,
+    "gn:longitude":20.71629,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mn\u00ed\u0161ek nad Popradom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mniszek",
+        "Mn\u00ed\u0161ek",
+        "Mn\u00ed\u0161ek nad Popradom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724121,
+        "wk:page":"Mn%C3%AD%C5%A1ek_nad_Popradom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"370323f8009dbd4b94e9a63b21c1dc6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209213843
+        }
+    ],
+    "wof:id":1209213843,
+    "wof:lastmodified":1537700359,
+    "wof:name":"Mnisek nad Popradom",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71629,
+    49.414,
+    20.71629,
+    49.414
+],
+  "geometry": {"coordinates":[20.71629,49.414],"type":"Point"}
+}

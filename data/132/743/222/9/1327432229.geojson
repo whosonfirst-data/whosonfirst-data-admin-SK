@@ -1,0 +1,76 @@
+{
+  "id": 1327432229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96659,47.83955,17.96659,47.83955",
+    "geom:latitude":47.83955,
+    "geom:longitude":17.96659,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Violinpuszta",
+    "gn:country_code":"SK",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056758,
+    "gn:latitude":47.83955,
+    "gn:longitude":17.96659,
+    "gn:modification_date":"2010-03-07",
+    "gn:name":"Violinpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Viol\u00e9ny"
+    ],
+    "name:hun_x_variant":[
+        "Heged\u0171spuszta"
+    ],
+    "name:slk_x_preferred":[
+        "Viol\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056758
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8c61d52fa09439ff607fcc01cb9a4d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1327432229,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1327432229,
+    "wof:lastmodified":1537700381,
+    "wof:name":"Violinpuszta",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96659,
+    47.83955,
+    17.96659,
+    47.83955
+],
+  "geometry": {"coordinates":[17.96659,47.83955],"type":"Point"}
+}

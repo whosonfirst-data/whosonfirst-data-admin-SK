@@ -1,0 +1,66 @@
+{
+  "id": 1209605815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38454,49.06088,19.38454,49.06088",
+    "geom:latitude":49.06088,
+    "geom:longitude":19.38454,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Stredny Sliac",
+    "gn:country_code":"SK",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057405,
+    "gn:latitude":49.06088,
+    "gn:longitude":19.38454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stredn\u00fd Slia\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strednie Slia\u010de",
+        "Stredn\u00e9 Slia\u010de",
+        "Stredn\u00fd Slia\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057405
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b7b35b187129d8c51cef079d77321f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209605815
+        }
+    ],
+    "wof:id":1209605815,
+    "wof:lastmodified":1537700388,
+    "wof:name":"Stredny Sliac",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38454,
+    49.06088,
+    19.38454,
+    49.06088
+],
+  "geometry": {"coordinates":[19.38454,49.06088],"type":"Point"}
+}

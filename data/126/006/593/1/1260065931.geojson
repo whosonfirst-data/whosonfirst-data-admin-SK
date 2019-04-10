@@ -1,0 +1,71 @@
+{
+  "id": 1260065931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02746,49.05196,19.02746,49.05196",
+    "geom:latitude":49.05196,
+    "geom:longitude":19.02746,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sklabinsky Podzamok",
+    "gn:country_code":"SK",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057617,
+    "gn:latitude":49.05196,
+    "gn:longitude":19.02746,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sklabinsk\u00fd Podz\u00e1mok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sklabinsk\u00fd Podz\u00e1mok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057617,
+        "wk:page":"Sklabinsk%C3%BD_Podz%C3%A1mok"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"00957f403874f9a27a65f9ebf78087e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080569,
+            "locality_id":1260065931,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1260065931,
+    "wof:lastmodified":1537700391,
+    "wof:name":"Sklabinsky Podzamok",
+    "wof:parent_id":102080569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02746,
+    49.05196,
+    19.02746,
+    49.05196
+],
+  "geometry": {"coordinates":[19.02746,49.05196],"type":"Point"}
+}

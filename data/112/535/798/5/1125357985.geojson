@@ -1,0 +1,117 @@
+{
+  "id": 1125357985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0224,48.38284,20.0224,48.38284",
+    "geom:latitude":48.38284,
+    "geom:longitude":20.0224,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":25235,
+    "gn:population":25235,
+    "iso:country":"SK",
+    "lbl:latitude":48.38284,
+    "lbl:longitude":20.0224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:deu_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:eng_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:hun_x_preferred":[
+        "Rimaszombat"
+    ],
+    "name:pol_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:ron_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:unk_x_variant":[
+        "Sobota Rimavsk\u00e1"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723736,
+    "qs_pg:gn_pop":25235,
+    "qs_pg:name":"Rimavska Sobota",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":987929,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401046,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723736,
+        "gp:id":29401046,
+        "qs_pg:id":987929
+    },
+    "wof:country":"SK",
+    "wof:created":1497046598,
+    "wof:geomhash":"e997ee95db8b703d71dbb9726090f83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "localadmin_id":1125357985,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1125357985,
+    "wof:lastmodified":1509388995,
+    "wof:name":"Rimavska Sobota",
+    "wof:parent_id":102080525,
+    "wof:placetype":"localadmin",
+    "wof:population":25235,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0224,
+    48.38284,
+    20.0224,
+    48.38284
+],
+  "geometry": {"coordinates":[20.0224,48.38284],"type":"Point"}
+}

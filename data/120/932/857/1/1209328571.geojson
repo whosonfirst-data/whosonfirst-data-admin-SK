@@ -1,0 +1,61 @@
+{
+  "id": 1209328571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01943,48.41915,20.01943,48.41915",
+    "geom:latitude":48.41915,
+    "geom:longitude":20.01943,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vysna Pokoradz",
+    "gn:country_code":"SK",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723163,
+    "gn:latitude":48.41915,
+    "gn:longitude":20.01943,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Vy\u0161n\u00e1 Pokoradz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723163
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"805eb3301ddfaa40341a02dd5578357a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209328571
+        }
+    ],
+    "wof:id":1209328571,
+    "wof:lastmodified":1536290448,
+    "wof:name":"Vysna Pokoradz",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01943,
+    48.41915,
+    20.01943,
+    48.41915
+],
+  "geometry": {"coordinates":[20.01943,48.41915],"type":"Point"}
+}

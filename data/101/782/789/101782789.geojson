@@ -1,0 +1,135 @@
+{
+  "id": 101782789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1266210.326191,
+    "geom:bbox":"19.061398878,48.5627777949,19.0807794203,48.5842833558",
+    "geom:latitude":48.571447,
+    "geom:longitude":19.071176,
+    "iso:country":"SK",
+    "lbl:latitude":48.573642,
+    "lbl:longitude":19.070221,
+    "mps:latitude":48.573642,
+    "mps:longitude":19.070221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:ces_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:cze_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:ger_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Z\u00f3lyomb\u00facs"
+    ],
+    "name:ita_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:may_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:nld_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:pol_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:slo_x_preferred":[
+        "Bud\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0447\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Bud\u010da"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zvolen",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bud\u010da",
+    "qs:la_lc":"*SK32B518204",
+    "qs:level":"locality",
+    "qs:loc":"Bud\u010da",
+    "qs:loc_alt":"Budca",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":635,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060902,
+        "gp:id":818789,
+        "qs:id":402103,
+        "wd:id":"Q1001690",
+        "wk:page":"Bud\u010da"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"71e8d40bbeff5beeece1bdde26ce34c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":101782789,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101782789,
+    "wof:lastmodified":1527688324,
+    "wof:name":"Bud\u010da",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06139887796621,
+    48.56277779494167,
+    19.08077942034464,
+    48.58428335581726
+],
+  "geometry": {"coordinates":[[[19.06873551145327,48.58417293621454],[19.06759712613871,48.57793030843965],[19.06894356421282,48.57781988842004],[19.06878094358865,48.57692808402936],[19.07282015480627,48.57659673295353],[19.07298284598039,48.57748853053346],[19.07567567344023,48.57726754375386],[19.07453666025867,48.57102497833705],[19.07722913690174,48.57080395814006],[19.07706640309539,48.56991216492656],[19.07841260979336,48.56980163264706],[19.07824985982626,48.56890984103069],[19.07959603760668,48.56879929472137],[19.07943327148041,48.56790750470208],[19.08077942034464,48.56779694436398],[19.08029109553416,48.56512157707363],[19.07625284423318,48.56545318874419],[19.07576479703425,48.56277779494167],[19.07307274345879,48.56299877426875],[19.07323537151723,48.56389057741762],[19.07054324931613,48.56411149608783],[19.0707058377115,48.56500330310166],[19.06532143444321,48.5654449539212],[19.06548393616265,48.56633676933581],[19.06683006858935,48.56622637881276],[19.06699260114829,48.56711819128554],[19.06968489679963,48.56689735680044],[19.07033528845977,48.57046458180201],[19.06495029942073,48.57090622186911],[19.0651128216445,48.57179803551111],[19.06376653736169,48.57190840704044],[19.06409155679404,48.57369203684141],[19.06139887796621,48.57391274006369],[19.06172383268324,48.57569637624448],[19.06441660557147,48.57547566394982],[19.06506679117797,48.5790429100901],[19.06641326358567,48.57893252041117],[19.06738890331803,48.58428335581726],[19.06873551145327,48.58417293621454]]],"type":"Polygon"}
+}

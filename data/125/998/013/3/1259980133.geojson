@@ -1,0 +1,72 @@
+{
+  "id": 1259980133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10856,47.78709,18.10856,47.78709",
+    "geom:latitude":47.78709,
+    "geom:longitude":18.10856,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nova Osada",
+    "gn:country_code":"SK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058489,
+    "gn:latitude":47.78709,
+    "gn:longitude":18.10856,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"Nov\u00e1 Osada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Partos",
+        "Partos\u00fajtelep",
+        "Kab\u00e1tfalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058489
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"155eaf189752bd269ccd541b6f10f9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1259980133,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1259980133,
+    "wof:lastmodified":1537700399,
+    "wof:name":"Nova Osada",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10856,
+    47.78709,
+    18.10856,
+    47.78709
+],
+  "geometry": {"coordinates":[18.10856,47.78709],"type":"Point"}
+}

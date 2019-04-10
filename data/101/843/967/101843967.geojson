@@ -1,0 +1,146 @@
+{
+  "id": 101843967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":797540.573604,
+    "geom:bbox":"22.0332150902,48.9389238942,22.0498487119,48.9499857002",
+    "geom:latitude":48.944018,
+    "geom:longitude":22.042302,
+    "iso:country":"SK",
+    "lbl:latitude":48.944343,
+    "lbl:longitude":22.04287,
+    "mps:latitude":48.944343,
+    "mps:longitude":22.04287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0430 \u043d\u0430\u0434 \u0426\u0438\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:ces_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:cze_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:deu_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:dut_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:eng_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:epo_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:fra_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:fre_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:ger_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:hun_x_preferred":[
+        "Modra"
+    ],
+    "name:ita_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:may_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:msa_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:nld_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:pol_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:slk_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:slo_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0430 \u043d\u0430 \u0426\u0438\u0440\u043e\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0430-\u043d\u0430\u0434-\u0426\u0456\u0440\u043e\u0445\u043e\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Humenn\u00e9",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Dlh\u00e9 nad Cirochou",
+    "qs:la_lc":"*SK419520161",
+    "qs:level":"locality",
+    "qs:loc":"Modra nad Cirochou",
+    "qs:loc_alt":"Modra nad Cirochou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724116,
+        "gp:id":821078,
+        "qs:id":917720,
+        "wd:id":"Q1067885"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"28b62d83d8d78f36726f191df3dda73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080603,
+            "locality_id":101843967,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101843967,
+    "wof:lastmodified":1527642596,
+    "wof:name":"Modra nad Cirochou",
+    "wof:parent_id":102080603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03321509022186,
+    48.93892389418386,
+    22.04984871187219,
+    48.94998570020226
+],
+  "geometry": {"coordinates":[[[22.03831295690742,48.9498391438002],[22.0380948838648,48.94895346845772],[22.04484493664177,48.94822045744957],[22.04506312634646,48.94910611764755],[22.04641313839318,48.94895946358957],[22.04597672218921,48.94718814833936],[22.04732668029413,48.94704148406612],[22.04689025690055,48.94527017121999],[22.04824016106835,48.94512349673232],[22.04780373048942,48.94335218628964],[22.04915358072577,48.94320550158847],[22.04849893888303,48.94054853815715],[22.04984871187219,48.94040184627312],[22.04963049433553,48.93951619299708],[22.04693098771781,48.93980955443351],[22.04671282668551,48.93892389418386],[22.04401333759404,48.93921718447439],[22.04423145198598,48.94010285078201],[22.03748248531957,48.94083580688471],[22.03726448753764,48.93995012543814],[22.03321509022186,48.94038969474497],[22.03365095569535,48.94216107488461],[22.03770049295764,48.94172148741825],[22.03879067902085,48.94614987638562],[22.03744072390231,48.9462964369518],[22.03765876736293,48.9471821150334],[22.03630878163762,48.94732866235222],[22.03652681162635,48.94821434254845],[22.0351767952933,48.94836087661901],[22.0353948118082,48.94924655892999],[22.03674485147457,48.94910002183178],[22.03696290118313,48.94998570020226],[22.03831295690742,48.9498391438002]]],"type":"Polygon"}
+}

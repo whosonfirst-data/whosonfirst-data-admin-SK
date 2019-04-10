@@ -1,0 +1,140 @@
+{
+  "id": 101786367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000236,
+    "geom:area_square_m":1944326.63836,
+    "geom:bbox":"17.4322643252,48.1862684815,17.4680059134,48.2029134898",
+    "geom:latitude":48.196632,
+    "geom:longitude":17.449025,
+    "iso:country":"SK",
+    "lbl:latitude":48.196425,
+    "lbl:longitude":17.447536,
+    "mps:latitude":48.196425,
+    "mps:longitude":17.447536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:ces_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:cze_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:deu_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:fra_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:ger_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:hun_x_preferred":[
+        "Kir\u00e1lyfa"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:msa_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:nan_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:nld_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:por_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:slo_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0459\u043e\u0432\u0430 \u043f\u0440\u0438 \u0421\u0435\u045a\u0435\u0446\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Kr\u00e1\u013eov\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Kostoln\u00e1 pri Dunaji"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Senec",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kr\u00e1\u013eov\u00e1 pri Senci",
+    "qs:la_lc":"*SK108503894",
+    "qs:level":"locality",
+    "qs:loc":"Kr\u00e1\u013eov\u00e1 pri Senci",
+    "qs:loc_alt":"Kralova pri Senci",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640415,
+        "gp:id":820392,
+        "qs:id":947807,
+        "wd:id":"Q665821"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8ae9650bea8c2d1ee710f2a160b26d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":101786367,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101786367,
+    "wof:lastmodified":1527715649,
+    "wof:name":"Kr\u00e1\u013eov\u00e1 pri Senci",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43226432523909,
+    48.18626848153372,
+    17.46800591342361,
+    48.20291348980766
+],
+  "geometry": {"coordinates":[[[17.44644724570378,48.20282288024265],[17.44618309823119,48.20103385920038],[17.46091322549313,48.20003612305209],[17.46117788635951,48.20182510342659],[17.46251700930947,48.20173429902707],[17.46264937199186,48.20262878648589],[17.46800591342361,48.20226539912676],[17.4676085631973,48.19958195721046],[17.46359137368597,48.19985450542026],[17.46345900550023,48.19896001805608],[17.46211995692062,48.19905083313881],[17.46185528504066,48.19726185295292],[17.46051627875454,48.19735264810072],[17.46038397505657,48.1964581552794],[17.45904498773291,48.19654893234309],[17.45891271330419,48.19565443708677],[17.45489579512366,48.19592666532742],[17.45476359661944,48.19503216393872],[17.4520856760023,48.1952135645671],[17.45168925606276,48.19253004580185],[17.45570592049899,48.19225793714202],[17.4553093440324,48.18957442974136],[17.45397053022077,48.18966514331578],[17.45383837325556,48.18877063782992],[17.4511607791909,48.1889520125892],[17.45076448380968,48.18626848153372],[17.44808701222831,48.18644978028681],[17.44821905811915,48.18734429491718],[17.44688029247112,48.18743492179402],[17.44754049423534,48.19190749540076],[17.43950710914004,48.19245097116578],[17.4400348173736,48.19602906381834],[17.43869581129354,48.19611959367518],[17.43882772982829,48.19701411722235],[17.43748869606071,48.19710463268927],[17.4376205971854,48.19799915749661],[17.43226432523909,48.19836106438839],[17.43252795856898,48.20015012700219],[17.43520619659375,48.19996919865309],[17.43533806881339,48.20086372539731],[17.43667720463287,48.20077323502443],[17.43680910611283,48.20166775934092],[17.43948741136222,48.20148672619689],[17.43961936544332,48.20238124623967],[17.44497601700903,48.20201897773183],[17.4451080703721,48.20291348980766],[17.44644724570378,48.20282288024265]]],"type":"Polygon"}
+}

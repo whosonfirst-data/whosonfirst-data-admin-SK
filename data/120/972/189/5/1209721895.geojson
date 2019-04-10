@@ -1,0 +1,79 @@
+{
+  "id": 1209721895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77683,48.14905,18.77683,48.14905",
+    "geom:latitude":48.14905,
+    "geom:longitude":18.77683,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Malinovec",
+    "gn:country_code":"SK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058827,
+    "gn:latitude":48.14905,
+    "gn:longitude":18.77683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malinovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "H\u00e9vmagyar\u00e1d"
+    ],
+    "name:slk_x_historical":[
+        "Ma\u010farovce"
+    ],
+    "name:slk_x_preferred":[
+        "Malinovec"
+    ],
+    "name:slk_x_variant":[
+        "Ma\u010farovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058827
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4bba67fb7cb7475618cf142e9bffc84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1209721895,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1209721895,
+    "wof:lastmodified":1537700404,
+    "wof:name":"Malinovec",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77683,
+    48.14905,
+    18.77683,
+    48.14905
+],
+  "geometry": {"coordinates":[18.77683,48.14905],"type":"Point"}
+}

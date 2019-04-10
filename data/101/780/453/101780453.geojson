@@ -1,0 +1,141 @@
+{
+  "id": 101780453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1335894.064568,
+    "geom:bbox":"21.6105654063,48.9006599786,21.6354934085,48.9118657521",
+    "geom:latitude":48.906499,
+    "geom:longitude":21.623797,
+    "iso:country":"SK",
+    "lbl:latitude":48.906325,
+    "lbl:longitude":21.624034,
+    "mps:latitude":48.906325,
+    "mps:longitude":21.624034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:ces_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:cze_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:deu_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:dut_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:eng_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:epo_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:fra_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:fre_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:ger_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00e1kly\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:may_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:msa_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:nan_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:nld_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:pol_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:slo_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u043a\u043b\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043a\u043b\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "\u010caklov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Vranov nad Toplou",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010caklov",
+    "qs:la_lc":"*SK41D544116",
+    "qs:level":"locality",
+    "qs:loc":"\u010caklov",
+    "qs:loc_alt":"Caklov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725020,
+        "gp:id":818867,
+        "qs:id":1270968,
+        "wd:id":"Q337566",
+        "wk:page":"\u010caklov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1c381e16fb868bc2d402b0849cd66b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080593,
+            "locality_id":101780453,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780453,
+    "wof:lastmodified":1527715868,
+    "wof:name":"\u010caklov",
+    "wof:parent_id":102080593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61056540625759,
+    48.90065997863348,
+    21.63549340850346,
+    48.91186575211219
+],
+  "geometry": {"coordinates":[[[21.63021738200655,48.91158256995857],[21.62958599083146,48.90892272821827],[21.63228585467061,48.90863949846431],[21.63207536321863,48.90775288865086],[21.63342526122159,48.90761125226913],[21.63321475590885,48.90672464450574],[21.63456462350791,48.90658299476365],[21.63414359468402,48.90480978246114],[21.63549340850346,48.90466812228476],[21.63528288499498,48.90378151774564],[21.63393309455165,48.90392317499675],[21.63330165126433,48.9012633473497],[21.63060218955786,48.90154659544919],[21.63039177424247,48.90065997863348],[21.62904205623244,48.90080157533299],[21.62925244817416,48.90168819507278],[21.622503635979,48.90239594892404],[21.62229336091212,48.90150931456913],[21.62094360079959,48.90165081356298],[21.62136411368829,48.90342408724302],[21.62001429980592,48.90356557579565],[21.62022454713389,48.90445221424613],[21.61482512794447,48.90501801728573],[21.61461497413666,48.9041313671504],[21.61056540625759,48.90455553966314],[21.61077548991989,48.90544219855894],[21.61212537627245,48.90530082108779],[21.61275575442141,48.90796078377559],[21.61140579791589,48.90810217000706],[21.6118260507609,48.90987547993956],[21.6145260503057,48.90959267950655],[21.61473623776016,48.91047932732158],[21.61743625602321,48.91019645589307],[21.61764649976061,48.91108309699126],[21.62439653955744,48.91037561876698],[21.62460690974166,48.91126224437738],[21.62730692329626,48.91097913322437],[21.62751734976877,48.91186575211219],[21.63021738200655,48.91158256995857]]],"type":"Polygon"}
+}

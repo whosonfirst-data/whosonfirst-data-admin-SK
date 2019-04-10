@@ -1,0 +1,71 @@
+{
+  "id": 1310000483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8,48.43333,17.8,48.43333",
+    "geom:latitude":48.43333,
+    "geom:longitude":17.8,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Svaty Peter pri Vahu",
+    "gn:country_code":"SK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057293,
+    "gn:latitude":48.43333,
+    "gn:longitude":17.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sv\u00e4t\u00fd Peter pri V\u00e1hu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sv\u00e4t\u00fd Peter",
+        "Sv\u00e4t\u00fd Peter pri V\u00e1hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057293
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5689b109f3e9c862d2bb3d5a509833a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080481,
+            "locality_id":1310000483,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1310000483,
+    "wof:lastmodified":1537700386,
+    "wof:name":"Svaty Peter pri Vahu",
+    "wof:parent_id":102080481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8,
+    48.43333,
+    17.8,
+    48.43333
+],
+  "geometry": {"coordinates":[17.8,48.43333],"type":"Point"}
+}

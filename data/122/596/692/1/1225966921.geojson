@@ -1,0 +1,73 @@
+{
+  "id": 1225966921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01314,48.99387,22.01314,48.99387",
+    "geom:latitude":48.99387,
+    "geom:longitude":22.01314,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vysny Hrusov",
+    "gn:country_code":"SK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723135,
+    "gn:latitude":48.99387,
+    "gn:longitude":22.01314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00fd Hru\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hru\u0161ov",
+        "Vy\u0161n\u00ed Hru\u0161ov",
+        "Vy\u0161n\u00fd Hru\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723135,
+        "wk:page":"Vy%C5%A1n%C3%BD_Hru%C5%A1ov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3638577e9eb1958ad6407cedc0f6d2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080603,
+            "locality_id":1225966921,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1225966921,
+    "wof:lastmodified":1537700341,
+    "wof:name":"Vysny Hrusov",
+    "wof:parent_id":102080603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01314,
+    48.99387,
+    22.01314,
+    48.99387
+],
+  "geometry": {"coordinates":[22.01314,48.99387],"type":"Point"}
+}

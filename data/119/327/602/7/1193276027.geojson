@@ -1,0 +1,67 @@
+{
+  "id": 1193276027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49668,48.69806,17.49668,48.69806",
+    "geom:latitude":48.69806,
+    "geom:longitude":17.49668,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bukovec",
+    "gn:country_code":"SK",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060886,
+    "gn:latitude":48.69806,
+    "gn:longitude":17.49668,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bukovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060886
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ba10df5144c9a2be1fa5c4bd12404953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080515,
+            "locality_id":1193276027,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1193276027,
+    "wof:lastmodified":1536365956,
+    "wof:name":"Bukovec",
+    "wof:parent_id":102080515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49668,
+    48.69806,
+    17.49668,
+    48.69806
+],
+  "geometry": {"coordinates":[17.49668,48.69806],"type":"Point"}
+}

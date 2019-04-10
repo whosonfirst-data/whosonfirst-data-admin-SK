@@ -1,0 +1,71 @@
+{
+  "id": 1276122971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84637,49.15376,21.84637,49.15376",
+    "geom:latitude":49.15376,
+    "geom:longitude":21.84637,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ol'ka",
+    "gn:country_code":"SK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724000,
+    "gn:latitude":49.15376,
+    "gn:longitude":21.84637,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"O\u013eka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u013eka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724000,
+        "wk:page":"O%C4%BEka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"052c3f18f57e9409cfee0bf61a7693ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080617,
+            "locality_id":1276122971,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276122971,
+    "wof:lastmodified":1537700356,
+    "wof:name":"Ol'ka",
+    "wof:parent_id":102080617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84637,
+    49.15376,
+    21.84637,
+    49.15376
+],
+  "geometry": {"coordinates":[21.84637,49.15376],"type":"Point"}
+}

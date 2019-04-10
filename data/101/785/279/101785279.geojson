@@ -1,0 +1,153 @@
+{
+  "id": 101785279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000181,
+    "geom:area_square_m":1485631.529523,
+    "geom:bbox":"16.9007620035,48.3193173885,16.9233403908,48.3367769576",
+    "geom:latitude":48.328269,
+    "geom:longitude":16.912865,
+    "iso:country":"SK",
+    "lbl:latitude":48.328986,
+    "lbl:longitude":16.913036,
+    "mps:latitude":48.328986,
+    "mps:longitude":16.913036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:ces_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:cze_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:deu_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:deu_x_variant":[
+        "Hochst\u00e4dten"
+    ],
+    "name:dut_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:eng_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:epo_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:fra_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:fre_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:ger_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e9\u05d5\u05e7\u05d4 \u05e4\u05e8\u05d9 \u05de\u05d5\u05e8\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nagymagasfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:may_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:msa_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:nld_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:por_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:slk_x_historical":[
+        "Hoch\u0161tetno"
+    ],
+    "name:slk_x_preferred":[
+        "Hoch\u0161tetno"
+    ],
+    "name:slk_x_variant":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:slo_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:spa_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430 \u043f\u0440\u0438 \u041c\u043e\u0440\u0430\u0432\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Malacky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Vysok\u00e1 pri Morave",
+    "qs:la_lc":"*SK106508349",
+    "qs:level":"locality",
+    "qs:loc":"Vysok\u00e1 pri Morave",
+    "qs:loc_alt":"Vysoka pri Morave",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062226,
+        "gp:id":29402294,
+        "qs:id":7,
+        "wd:id":"Q1028006",
+        "wk:page":"Vysok\u00e1 pri Morave"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7efa353f023f1d29b22a0215afbb87f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":101785279,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101785279,
+    "wof:lastmodified":1527684899,
+    "wof:name":"Vysok\u00e1 pri Morave",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90076200349097,
+    48.31931738854524,
+    16.92334039079924,
+    48.33677695762748
+],
+  "geometry": {"coordinates":[[[16.90332592259415,48.3339233025016],[16.90735613564721,48.33367106633114],[16.90760219685171,48.3354614358027],[16.91028907943087,48.33529318994135],[16.91041216549064,48.33618837041382],[16.9117556242274,48.33610422130198],[16.91163251459881,48.33520904255238],[16.91297594568391,48.33512487885787],[16.91272969593496,48.3333345231668],[16.91944655443245,48.33291347735525],[16.9193233200549,48.33201830730997],[16.92200998772654,48.33184977830444],[16.92176344138034,48.33005944347383],[16.91907686795957,48.33022796557964],[16.91883043807491,48.32843762166277],[16.91748719235756,48.3285218548121],[16.9169944934398,48.32494115352091],[16.9210239356446,48.32468842585706],[16.92090070412468,48.32379325433971],[16.92224381980219,48.32370898090721],[16.92199732631275,48.32191863968046],[16.92334039079924,48.32183435339726],[16.9232171288329,48.32093918368787],[16.92187408789755,48.32102346824621],[16.92175085503419,48.32012829626456],[16.92040783356413,48.32021256279853],[16.92028462980159,48.31931738854524],[16.91759862170954,48.31948586926637],[16.91772177837271,48.32038104696755],[16.91503570685177,48.32054946593752],[16.9151588219608,48.32144464653845],[16.90978653574598,48.32178129576766],[16.91027867478147,48.32536204026326],[16.90893549880906,48.32544616870632],[16.90905852386942,48.32634135518595],[16.90771532026031,48.32642546904862],[16.90783832730517,48.32732065670365],[16.90649509605845,48.32740475598553],[16.90661808508537,48.3282999448158],[16.90527482620047,48.32838402951603],[16.90539779720791,48.32927921952137],[16.90405451068341,48.32936328963933],[16.90430042219515,48.33115367145405],[16.9029570844661,48.33123772870982],[16.90320297101084,48.33302811178322],[16.90185958207223,48.33311215617567],[16.90210544364299,48.33490254050798],[16.90076200349097,48.33498657203603],[16.90100784008206,48.33677695762748],[16.90235132737592,48.33669292265864],[16.90222838273905,48.33579773185608],[16.90357184238462,48.33571368230156],[16.90332592259415,48.3339233025016]]],"type":"Polygon"}
+}

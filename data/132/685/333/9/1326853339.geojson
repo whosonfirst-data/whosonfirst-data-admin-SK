@@ -1,0 +1,68 @@
+{
+  "id": 1326853339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86121,49.23537,20.86121,49.23537",
+    "geom:latitude":49.23537,
+    "geom:longitude":20.86121,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vislanka",
+    "gn:country_code":"SK",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723223,
+    "gn:latitude":49.23537,
+    "gn:longitude":20.86121,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vislanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723223,
+        "wk:page":"Vislanka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a547caf80d62ee19b2647e638c4826c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":1326853339,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1326853339,
+    "wof:lastmodified":1537573560,
+    "wof:name":"Vislanka",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86121,
+    49.23537,
+    20.86121,
+    49.23537
+],
+  "geometry": {"coordinates":[20.86121,49.23537],"type":"Point"}
+}

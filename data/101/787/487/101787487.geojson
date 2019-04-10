@@ -1,0 +1,141 @@
+{
+  "id": 101787487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":1435930.827177,
+    "geom:bbox":"18.2595498968,47.8604769132,18.28422288,47.8747832156",
+    "geom:latitude":47.867867,
+    "geom:longitude":18.272808,
+    "iso:country":"SK",
+    "lbl:latitude":47.868356,
+    "lbl:longitude":18.272995,
+    "mps:latitude":47.868356,
+    "mps:longitude":18.272995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Dulovce"
+    ],
+    "name:deu_x_preferred":[
+        "Dulovce"
+    ],
+    "name:dut_x_preferred":[
+        "Dulovce"
+    ],
+    "name:eng_x_preferred":[
+        "Dulovce"
+    ],
+    "name:epo_x_preferred":[
+        "Dulovce"
+    ],
+    "name:fra_x_preferred":[
+        "Dulovce"
+    ],
+    "name:fre_x_preferred":[
+        "Dulovce"
+    ],
+    "name:ger_x_preferred":[
+        "Dulovce"
+    ],
+    "name:hbs_x_preferred":[
+        "Dulovce"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajgyalla"
+    ],
+    "name:ita_x_preferred":[
+        "Dulovce"
+    ],
+    "name:may_x_preferred":[
+        "Dulovce"
+    ],
+    "name:msa_x_preferred":[
+        "Dulovce"
+    ],
+    "name:nld_x_preferred":[
+        "Dulovce"
+    ],
+    "name:pol_x_preferred":[
+        "Dulovce"
+    ],
+    "name:slk_x_preferred":[
+        "Dulovce"
+    ],
+    "name:slo_x_preferred":[
+        "Dulovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nov\u00e1 \u010fala"
+    ],
+    "name:war_x_preferred":[
+        "Dulovce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Dulovce"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Kom\u00e1rno",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Sv\u00e4t\u00fd Peter",
+    "qs:la_lc":"*SK231501115",
+    "qs:level":"locality",
+    "qs:loc":"Dulovce",
+    "qs:loc_alt":"Dulovce",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060313,
+        "gp:id":819359,
+        "qs:id":402243,
+        "wd:id":"Q1184507",
+        "wk:page":"Dulovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8112140d52329a7c50021a672708148a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":101787487,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101787487,
+    "wof:lastmodified":1527715850,
+    "wof:name":"Dulovce",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25954989680542,
+    47.86047691315031,
+    18.28422287997114,
+    47.87478321558564
+],
+  "geometry": {"coordinates":[[[18.27874005590382,47.87199091922332],[18.27801343724366,47.86752378131291],[18.28067172296198,47.86732252755684],[18.28052637298777,47.86642910206842],[18.28185548589443,47.86632845309765],[18.28171011956675,47.8654350289832],[18.28303920489691,47.86533436596113],[18.28289382221681,47.86444094322087],[18.28422287997114,47.86434026614779],[18.2836413226911,47.8607665767538],[18.2809833850078,47.86096789858715],[18.28112871897684,47.86186132597646],[18.27979972019045,47.8619619648033],[18.27994503780815,47.86285539356612],[18.27595794449252,47.86315721965468],[18.27552221644476,47.86047691315031],[18.27286426743507,47.86067803798102],[18.27315465504523,47.86246491774659],[18.2718256277783,47.8625654600965],[18.27197080845679,47.86345890102433],[18.27064175362153,47.86355942932079],[18.27078691793929,47.86445287162047],[18.26679965649612,47.86475436610567],[18.26694475879646,47.86564781382896],[18.26561563933643,47.86574828185434],[18.26576072526956,47.86664173094931],[18.26443157823888,47.86674218491851],[18.26457664780327,47.86763563538483],[18.26324747320126,47.86773607529744],[18.26339252639451,47.86862952713489],[18.26206332421987,47.86872995299012],[18.26220836104011,47.86962340619874],[18.25954989680542,47.86982421371016],[18.25969489441667,47.87071767031415],[18.2650118952584,47.8703159828616],[18.26573743691807,47.87478321558564],[18.27371348094562,47.87418014112575],[18.27356822266609,47.87328670804834],[18.27622682035792,47.87308555861188],[18.27608152287809,47.87219212893621],[18.27874005590382,47.87199091922332]]],"type":"Polygon"}
+}

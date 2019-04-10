@@ -1,0 +1,79 @@
+{
+  "id": 1243196285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22718,47.85671,18.22718,47.85671",
+    "geom:latitude":47.85671,
+    "geom:longitude":18.22718,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Balazstag",
+    "gn:country_code":"SK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061202,
+    "gn:latitude":47.85671,
+    "gn:longitude":18.22718,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"Bal\u00e1zstag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Bal\u00e1zspuszta"
+    ],
+    "name:hun_x_variant":[
+        "Bal\u00e1zsmajor"
+    ],
+    "name:slk_x_preferred":[
+        "Bal\u00e1\u017eov majer"
+    ],
+    "name:slk_x_variant":[
+        "Bal\u00e1\u017eov dielik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061202
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f959563e8821c7165602c7fb38dc0aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":1243196285,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1243196285,
+    "wof:lastmodified":1537700438,
+    "wof:name":"Balazstag",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22718,
+    47.85671,
+    18.22718,
+    47.85671
+],
+  "geometry": {"coordinates":[18.22718,47.85671],"type":"Point"}
+}

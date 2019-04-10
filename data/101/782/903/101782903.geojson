@@ -1,0 +1,142 @@
+{
+  "id": 101782903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":279154.491728,
+    "geom:bbox":"21.3261249497,48.7049610036,21.3380282573,48.7120000371",
+    "geom:latitude":48.70816,
+    "geom:longitude":21.33165,
+    "iso:country":"SK",
+    "lbl:latitude":48.70896,
+    "lbl:longitude":21.330072,
+    "mps:latitude":48.70896,
+    "mps:longitude":21.330072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:ces_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:cze_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:deu_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:dut_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:eng_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:epo_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:fra_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:fre_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:ger_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:hun_x_preferred":[
+        "Izdobabeszter"
+    ],
+    "name:ita_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:may_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:msa_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:nan_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:nld_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:pol_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:slk_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:slo_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0434\u0438 \u043d\u0430 \u0422\u043e\u0440\u0438\u0441\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sady nad Torysou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ko\u0161ice - okolie",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ko\u0161ice - Kr\u00e1sna",
+    "qs:la_lc":"*SK425599794",
+    "qs:level":"locality",
+    "qs:loc":"Sady nad Torysou",
+    "qs:loc_alt":"Sady nad Torysou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":823336,
+        "qs:id":4,
+        "wd:id":"Q251432"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"02692463706f15a73d06bd37597d4c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":101782903,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101782903,
+    "wof:lastmodified":1527688320,
+    "wof:name":"Sady nad Torysou",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32612494970272,
+    48.70496100355876,
+    21.33802825727736,
+    48.71200003712386
+],
+  "geometry": {"coordinates":[[[21.33232138652204,48.71172423626973],[21.33150601458692,48.70817480393129],[21.336886971154,48.70762305278799],[21.33668305827808,48.70673570390102],[21.33802825727736,48.70659772837365],[21.33782433037749,48.70571038146534],[21.33647915458982,48.70584835415804],[21.33627526008888,48.70496100355876],[21.33223976173281,48.70537481575559],[21.33244358659891,48.70626217485642],[21.32975317408943,48.70653797417157],[21.32995696171247,48.70742533808351],[21.32726647570109,48.70770107814218],[21.32747022607589,48.70858844686433],[21.32612494970272,48.70872629537968],[21.32653243156221,48.71050103592393],[21.32922307041099,48.71022531133127],[21.32963068187576,48.71200003712386],[21.33232138652204,48.71172423626973]]],"type":"Polygon"}
+}

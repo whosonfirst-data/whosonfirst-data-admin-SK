@@ -1,0 +1,73 @@
+{
+  "id": 1276970155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73607,48.92094,18.73607,48.92094",
+    "geom:latitude":48.92094,
+    "geom:longitude":18.73607,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Briestie",
+    "gn:country_code":"SK",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060933,
+    "gn:latitude":48.92094,
+    "gn:longitude":18.73607,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brie\u0161tie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brie\u0161s\u0165a",
+        "Brie\u0161tia",
+        "Brie\u0161tie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060933,
+        "wk:page":"Brie%C5%A1tie"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"53c96ce1b4432e9bba6c6cdc36224415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080539,
+            "locality_id":1276970155,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1276970155,
+    "wof:lastmodified":1537700435,
+    "wof:name":"Briestie",
+    "wof:parent_id":102080539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73607,
+    48.92094,
+    18.73607,
+    48.92094
+],
+  "geometry": {"coordinates":[18.73607,48.92094],"type":"Point"}
+}

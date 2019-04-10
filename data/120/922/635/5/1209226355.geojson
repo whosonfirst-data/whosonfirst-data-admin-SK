@@ -1,0 +1,65 @@
+{
+  "id": 1209226355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4273,48.64278,21.4273,48.64278",
+    "geom:latitude":48.64278,
+    "geom:longitude":21.4273,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rakos",
+    "gn:country_code":"SK",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723781,
+    "gn:latitude":48.64278,
+    "gn:longitude":21.4273,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"R\u00e1ko\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e1ko\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723781,
+        "wk:page":"R%C3%A1ko%C5%A1%2C_Ko%C5%A1ice-okolie_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"aecb60c360053fc5af8b47deaf36201b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209226355
+        }
+    ],
+    "wof:id":1209226355,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Rakos",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4273,
+    48.64278,
+    21.4273,
+    48.64278
+],
+  "geometry": {"coordinates":[21.4273,48.64278],"type":"Point"}
+}

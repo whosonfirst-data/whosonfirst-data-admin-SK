@@ -1,0 +1,73 @@
+{
+  "id": 1309743579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50248,49.3438,21.50248,49.3438",
+    "geom:latitude":49.3438,
+    "geom:longitude":21.50248,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vysny Orlik",
+    "gn:country_code":"SK",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723128,
+    "gn:latitude":49.3438,
+    "gn:longitude":21.50248,
+    "gn:modification_date":"2010-09-10",
+    "gn:name":"Vy\u0161n\u00fd Orl\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161n\u00ed Orl\u00edk",
+        "Vy\u0161nyj Orlich",
+        "Vy\u0161n\u00fd Orl\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723128,
+        "wk:page":"Vy%C5%A1n%C3%BD_Orl%C3%ADk"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"141fc9b1b55cc7052bcfd9d3af31db6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1309743579,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1309743579,
+    "wof:lastmodified":1537700341,
+    "wof:name":"Vysny Orlik",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50248,
+    49.3438,
+    21.50248,
+    49.3438
+],
+  "geometry": {"coordinates":[21.50248,49.3438],"type":"Point"}
+}

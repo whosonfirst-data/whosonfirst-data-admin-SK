@@ -1,0 +1,65 @@
+{
+  "id": 1209415665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59527,48.26577,18.59527,48.26577",
+    "geom:latitude":48.26577,
+    "geom:longitude":18.59527,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hronske Kosihy",
+    "gn:country_code":"SK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059852,
+    "gn:latitude":48.26577,
+    "gn:longitude":18.59527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hronsk\u00e9 Kosihy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hronsk\u00e9 Kosihy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059852,
+        "wk:page":"Hronsk%C3%A9_Kosihy"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8e9585da346f39daf874d9765a566554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209415665
+        }
+    ],
+    "wof:id":1209415665,
+    "wof:lastmodified":1537700418,
+    "wof:name":"Hronske Kosihy",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59527000000001,
+    48.26577,
+    18.59527000000001,
+    48.26577
+],
+  "geometry": {"coordinates":[18.59527000000001,48.26577],"type":"Point"}
+}

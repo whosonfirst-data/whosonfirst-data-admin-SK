@@ -1,0 +1,67 @@
+{
+  "id": 1293775663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65,47.9,17.65,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":17.65,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bendopuszta",
+    "gn:country_code":"SK",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061123,
+    "gn:latitude":47.9,
+    "gn:longitude":17.65,
+    "gn:modification_date":"2007-11-12",
+    "gn:name":"Bend\u0151puszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061123
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"390e6822688991c87200d9f56c1a4816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1293775663,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1293775663,
+    "wof:lastmodified":1536867512,
+    "wof:name":"Bendopuszta",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65,
+    47.9,
+    17.65,
+    47.9
+],
+  "geometry": {"coordinates":[17.65,47.9],"type":"Point"}
+}

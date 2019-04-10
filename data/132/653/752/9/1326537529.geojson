@@ -1,0 +1,72 @@
+{
+  "id": 1326537529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80783,48.58888,20.80783,48.58888",
+    "geom:latitude":48.58888,
+    "geom:longitude":20.80783,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vcelare",
+    "gn:country_code":"SK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723294,
+    "gn:latitude":48.58888,
+    "gn:longitude":20.80783,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u010del\u00e1re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9h\u00e9sz",
+        "Mihyska",
+        "V\u010del\u00e1re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723294
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d6a9566642a9c176af64c5d8b7002102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1326537529,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1326537529,
+    "wof:lastmodified":1537700345,
+    "wof:name":"Vcelare",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80783,
+    48.58888,
+    20.80783,
+    48.58888
+],
+  "geometry": {"coordinates":[20.80783,48.58888],"type":"Point"}
+}

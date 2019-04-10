@@ -1,0 +1,67 @@
+{
+  "id": 1259993887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9556,48.58342,18.9556,48.58342",
+    "geom:latitude":48.58342,
+    "geom:longitude":18.9556,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jalna",
+    "gn:country_code":"SK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059738,
+    "gn:latitude":48.58342,
+    "gn:longitude":18.9556,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Jaln\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059738
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"698ab5abb0046cf386e9c1bd44248e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080519,
+            "locality_id":1259993887,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1259993887,
+    "wof:lastmodified":1536617883,
+    "wof:name":"Jalna",
+    "wof:parent_id":102080519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9556,
+    48.58342,
+    18.9556,
+    48.58342
+],
+  "geometry": {"coordinates":[18.9556,48.58342],"type":"Point"}
+}

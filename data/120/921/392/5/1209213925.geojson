@@ -1,0 +1,66 @@
+{
+  "id": 1209213925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32533,49.05785,20.32533,49.05785",
+    "geom:latitude":49.05785,
+    "geom:longitude":20.32533,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Straze pod Tatrami",
+    "gn:country_code":"SK",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723473,
+    "gn:latitude":49.05785,
+    "gn:longitude":20.32533,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Str\u00e1\u017ee pod Tatrami",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michelsdorf",
+        "Str\u00e1\u017ea",
+        "Str\u00e1\u017ee pod Tatrami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723473
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cb2b4357babea3b7986852fa7e3c8314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209213925
+        }
+    ],
+    "wof:id":1209213925,
+    "wof:lastmodified":1537700348,
+    "wof:name":"Straze pod Tatrami",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32533,
+    49.05785,
+    20.32533,
+    49.05785
+],
+  "geometry": {"coordinates":[20.32533,49.05785],"type":"Point"}
+}

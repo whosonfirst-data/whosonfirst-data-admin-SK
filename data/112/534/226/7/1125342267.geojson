@@ -1,0 +1,82 @@
+{
+  "id": 1125342267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25554,48.7209695,21.25554,48.7209695",
+    "geom:latitude":48.72097,
+    "geom:longitude":21.25554,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.72097,
+    "lbl:longitude":21.25554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kosice I",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos":192,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1316315,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402287,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402287,
+        "qs_pg:id":1316315
+    },
+    "wof:country":"SK",
+    "wof:created":1497045730,
+    "wof:geomhash":"b3bd9889103660d0f87535519963b619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080549,
+            "localadmin_id":1125342267,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125342267,
+    "wof:lastmodified":1509388690,
+    "wof:name":"Kosice I",
+    "wof:parent_id":102080549,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25554,
+    48.7209695,
+    21.25554,
+    48.7209695
+],
+  "geometry": {"coordinates":[21.25554,48.7209695],"type":"Point"}
+}

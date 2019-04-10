@@ -1,0 +1,167 @@
+{
+  "id": 101913499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000177,
+    "geom:area_square_m":1455034.699545,
+    "geom:bbox":"16.8327464592,48.3756845813,16.8627846569,48.3863438301",
+    "geom:latitude":48.380773,
+    "geom:longitude":16.849036,
+    "iso:country":"SK",
+    "lbl:latitude":48.379365,
+    "lbl:longitude":16.855066,
+    "mps:latitude":48.379365,
+    "mps:longitude":16.855066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0536\u0561\u0563\u0578\u0580\u057d\u056f\u0561 \u054e\u0565\u057d"
+    ],
+    "name:cat_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:deu_x_variant":[
+        "Ungeraiden"
+    ],
+    "name:dut_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:hun_x_historical":[
+        "Magyarfalva"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarfalu"
+    ],
+    "name:hun_x_variant":[
+        "Magyarfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:por_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:slk_x_historical":[
+        "Uhorsk\u00e1 Ves"
+    ],
+    "name:slk_x_preferred":[
+        "Uhorsk\u00e1 Ves"
+    ],
+    "name:slk_x_variant":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:spa_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0445\u043e\u0440\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0441\u044c\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:war_x_preferred":[
+        "Z\u00e1horsk\u00e1 Ves"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Malacky",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Suchohrad",
+    "qs:la_lc":"*SK106508241",
+    "qs:level":"locality",
+    "qs:loc":"Z\u00e1horsk\u00e1 Ves",
+    "qs:loc_alt":"Zahorska Ves",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":48.38,
+    "wd:longitude":16.8444,
+    "wd:wordcount":136,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062010,
+        "gp:id":823429,
+        "qs:id":940160,
+        "wd:id":"Q246760",
+        "wk:page":"Z\u00e1horsk\u00e1 Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5e3b2bd943dc6b25bff79bbdbe05df35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080487,
+            "locality_id":101913499,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101913499,
+    "wof:lastmodified":1527688561,
+    "wof:name":"Z\u00e1horsk\u00e1 Ves",
+    "wof:parent_id":102080487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83274645919494,
+    48.37568458125224,
+    16.86278465689406,
+    48.38634383008571
+],
+  "geometry": {"coordinates":[[[16.83475738456832,48.37767071801414],[16.8330241123997,48.3794039901826],[16.83274645919494,48.38051460300142],[16.83506023590064,48.3834762371846],[16.8360763192116,48.38415362605866],[16.84102320041654,48.38384732687678],[16.84090117081803,48.38295207638612],[16.84896988491988,48.38245193513166],[16.84945860361665,48.38603289283645],[16.85214833161859,48.38586603479774],[16.85178164251391,48.38318032759213],[16.85581599135685,48.38292993348898],[16.85593828644465,48.38382516462997],[16.85728308490479,48.38374166556645],[16.85752773890425,48.38553212280368],[16.85887258057181,48.3854486039898],[16.85899493948699,48.38634383008571],[16.8616846579028,48.38617674005394],[16.86143985105298,48.38438629417419],[16.86278465689406,48.38430272809586],[16.86266223811992,48.38340750605892],[16.86131745591149,48.38349107042359],[16.86082793056397,48.37991017001667],[16.86217261825033,48.37982661250481],[16.86192784144703,48.37803616248334],[16.86058320101569,48.3781197165693],[16.8604608445213,48.37722448903469],[16.85911622365387,48.3773080250848],[16.85899389630401,48.37641279529686],[16.85630468963581,48.37657981500462],[16.85618241505335,48.37568458125224],[16.85349323939698,48.37585153224626],[16.85361546672959,48.37674676942095],[16.85227084918836,48.3768302221448],[16.85239305840889,48.37772546049013],[16.85104841318389,48.3778088986013],[16.85117060428945,48.37870413811669],[16.84713657339239,48.37895435963895],[16.84677022925729,48.37626862408376],[16.84273637451975,48.37651868331028],[16.84298045666873,48.37830918447344],[16.83491235427419,48.37880888268455],[16.83475738456832,48.37767071801414]]],"type":"Polygon"}
+}

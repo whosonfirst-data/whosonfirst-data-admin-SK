@@ -1,0 +1,72 @@
+{
+  "id": 1243163855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47682,48.04101,17.47682,48.04101",
+    "geom:latitude":48.04101,
+    "geom:longitude":17.47682,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Masnikovo",
+    "gn:country_code":"SK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058767,
+    "gn:latitude":48.04101,
+    "gn:longitude":17.47682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masn\u00edkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El\u0151 Patony",
+        "Predn\u00e1 Pot\u00f4\u0148",
+        "Masn\u00edkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058767
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"498bd69a39bcb2b3f8973da7e699f610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1243163855,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1243163855,
+    "wof:lastmodified":1537700403,
+    "wof:name":"Masnikovo",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47682,
+    48.04101,
+    17.47682,
+    48.04101
+],
+  "geometry": {"coordinates":[17.47682,48.04101],"type":"Point"}
+}

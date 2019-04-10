@@ -1,0 +1,67 @@
+{
+  "id": 1293798025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86609,48.43054,19.86609,48.43054",
+    "geom:latitude":48.43054,
+    "geom:longitude":19.86609,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vel'ka Sucha",
+    "gn:country_code":"SK",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056901,
+    "gn:latitude":48.43054,
+    "gn:longitude":19.86609,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ve\u013ek\u00e1 Such\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056901
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3d28572718ec478ef76172255eb3823d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080513,
+            "locality_id":1293798025,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1293798025,
+    "wof:lastmodified":1536835341,
+    "wof:name":"Vel'ka Sucha",
+    "wof:parent_id":102080513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86609,
+    48.43054,
+    19.86609,
+    48.43054
+],
+  "geometry": {"coordinates":[19.86609,48.43054],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225968257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56397,48.17634,18.56397,48.17634",
+    "geom:latitude":48.17634,
+    "geom:longitude":18.56397,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolna Sec",
+    "gn:country_code":"SK",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060491,
+    "gn:latitude":48.17634,
+    "gn:longitude":18.56397,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e1 Se\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Als\u00f3-Szecse",
+        "Dolnia Se\u010d",
+        "Doln\u00ed Se\u010d",
+        "Doln\u00e1 Se\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060491,
+        "wk:page":"Doln%C3%A1_Se%C4%8D"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"818c88f6f03fa534dab5ad5a3a2449d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":1225968257,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1225968257,
+    "wof:lastmodified":1537700430,
+    "wof:name":"Dolna Sec",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56397,
+    48.17634,
+    18.56397,
+    48.17634
+],
+  "geometry": {"coordinates":[18.56397,48.17634],"type":"Point"}
+}

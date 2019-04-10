@@ -1,0 +1,71 @@
+{
+  "id": 1259791153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35406,48.67595,21.35406,48.67595",
+    "geom:latitude":48.67595,
+    "geom:longitude":21.35406,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vysna Hutka",
+    "gn:country_code":"SK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723172,
+    "gn:latitude":48.67595,
+    "gn:longitude":21.35406,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00e1 Hutka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u0161n\u00e1 Hutka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723172,
+        "wk:page":"Vy%C5%A1n%C3%A1_Hutka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7022007c26c2bdf38ee853ce8ea4aeef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1259791153,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1259791153,
+    "wof:lastmodified":1537700343,
+    "wof:name":"Vysna Hutka",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35406,
+    48.67595,
+    21.35406,
+    48.67595
+],
+  "geometry": {"coordinates":[21.35406,48.67595],"type":"Point"}
+}

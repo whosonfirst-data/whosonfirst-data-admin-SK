@@ -1,0 +1,83 @@
+{
+  "id": 101913493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14308.146891,
+    "geom:bbox":"17.0723318001,48.1745024104,17.074876442,48.176017623",
+    "geom:latitude":48.175458,
+    "geom:longitude":17.073965,
+    "gn:population":685,
+    "iso:country":"SK",
+    "lbl:latitude":48.175416,
+    "lbl:longitude":17.074196,
+    "mps:latitude":48.175416,
+    "mps:longitude":17.074196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Bratislavsk\u00fd kraj",
+    "qs:a1r":"5",
+    "qs:a2":"Bratislava II",
+    "qs:adm0":"Slovensko",
+    "qs:id":0,
+    "qs:la":"Bratislava - Z\u00e1horsk\u00e1 Bystrica",
+    "qs:la_lc":"*SK104529427",
+    "qs:level":"locality",
+    "qs:loc":"Berg",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":542,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781897,
+        "gp:id":54120,
+        "wd:id":"Q4321631"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a52c10b8fd60d505fe7295ad1acc5b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":101913493,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":101913493,
+    "wof:lastmodified":1527688566,
+    "wof:name":"Berg",
+    "wof:parent_id":102080459,
+    "wof:placetype":"locality",
+    "wof:population":685,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[
+        1108800123
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07233180005727,
+    48.1745024103605,
+    17.07487644195538,
+    48.17601762303923
+],
+  "geometry": {"coordinates":[[[17.07487644195538,48.17585404868714],[17.07468708271773,48.1745024103605],[17.07233180005727,48.17601762303923],[17.07487644195538,48.17585404868714]]],"type":"Polygon"}
+}

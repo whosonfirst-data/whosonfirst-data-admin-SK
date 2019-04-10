@@ -1,0 +1,67 @@
+{
+  "id": 1310125809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64815,49.40584,18.64815,49.40584",
+    "geom:latitude":49.40584,
+    "geom:longitude":18.64815,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hrosi",
+    "gn:country_code":"SK",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059851,
+    "gn:latitude":49.40584,
+    "gn:longitude":18.64815,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Hro\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059851
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"89d6cc5e53436aca0c784d7c74616f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080607,
+            "locality_id":1310125809,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1310125809,
+    "wof:lastmodified":1536966989,
+    "wof:name":"Hrosi",
+    "wof:parent_id":102080607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64815,
+    49.40584000000001,
+    18.64815,
+    49.40584000000001
+],
+  "geometry": {"coordinates":[18.64815,49.40584000000001],"type":"Point"}
+}

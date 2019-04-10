@@ -1,0 +1,65 @@
+{
+  "id": 1209027733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44375,47.95202,17.44375,47.95202",
+    "geom:latitude":47.95202,
+    "geom:longitude":17.44375,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sul'any",
+    "gn:country_code":"SK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057350,
+    "gn:latitude":47.95202,
+    "gn:longitude":17.44375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160u\u013eany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00fcly",
+        "\u0160u\u013eany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057350
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e69387d3e29b3df6094cdfaaf8bf6695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209027733
+        }
+    ],
+    "wof:id":1209027733,
+    "wof:lastmodified":1537700388,
+    "wof:name":"Sul'any",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44375,
+    47.95202000000001,
+    17.44375,
+    47.95202000000001
+],
+  "geometry": {"coordinates":[17.44375,47.95202000000001],"type":"Point"}
+}

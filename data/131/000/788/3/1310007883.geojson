@@ -1,0 +1,71 @@
+{
+  "id": 1310007883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.34461,48.73203,21.34461,48.73203",
+    "geom:latitude":48.73203,
+    "geom:longitude":21.34461,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kosicke Olsany",
+    "gn:country_code":"SK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724436,
+    "gn:latitude":48.73203,
+    "gn:longitude":21.34461,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ko\u0161ick\u00e9 Ol\u0161any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u0161ick\u00e9 Ol\u0161any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724436,
+        "wk:page":"Ko%C5%A1ick%C3%A9_O%C4%BE%C5%A1any"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"50b358d7d2332f7089f1fd7c04ae78f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1310007883,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310007883,
+    "wof:lastmodified":1537700364,
+    "wof:name":"Kosicke Olsany",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.34461,
+    48.73203,
+    21.34461,
+    48.73203
+],
+  "geometry": {"coordinates":[21.34461,48.73203],"type":"Point"}
+}

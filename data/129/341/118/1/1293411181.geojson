@@ -1,0 +1,71 @@
+{
+  "id": 1293411181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3081,48.01098,17.3081,48.01098",
+    "geom:latitude":48.01098,
+    "geom:longitude":17.3081,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cilistov",
+    "gn:country_code":"SK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060648,
+    "gn:latitude":48.01098,
+    "gn:longitude":17.3081,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cilistov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csol\u00f6szt\u0151",
+        "\u010cilistov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060648
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2b465fbad4041efe2bf8fa42b8af6900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":1293411181,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1293411181,
+    "wof:lastmodified":1537700432,
+    "wof:name":"Cilistov",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3081,
+    48.01098,
+    17.3081,
+    48.01098
+],
+  "geometry": {"coordinates":[17.3081,48.01098],"type":"Point"}
+}

@@ -1,0 +1,224 @@
+{
+  "id": 101860171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.217156,49.137477,20.217156,49.137477",
+    "geom:latitude":49.137477,
+    "geom:longitude":20.217156,
+    "gn:population":4700,
+    "iso:country":"SK",
+    "lbl:latitude":49.137477,
+    "lbl:longitude":20.217156,
+    "mps:latitude":49.137477,
+    "mps:longitude":20.217156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u057d\u0578\u056f\u0565 \u054f\u0561\u057f\u0580\u056b"
+    ],
+    "name:cat_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:ces_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0a\u5854\u7279\u62c9\u5c71\u93ae"
+    ],
+    "name:cze_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:dan_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:deu_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:dut_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:eng_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:epo_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:est_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0633\u06a9\u0647 \u062a\u0627\u062a\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:fra_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:fre_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:ger_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:hrv_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:hun_x_preferred":[
+        "Magast\u00e1tra"
+    ],
+    "name:ind_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:ita_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30bd\u30b1\u30fc\u30fb\u30bf\u30c8\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc18c\ucf00\ud0c0\ud2b8\ub9ac"
+    ],
+    "name:lav_x_preferred":[
+        "Visoke Tatri"
+    ],
+    "name:lit_x_preferred":[
+        "Visoke Tatrai"
+    ],
+    "name:ltz_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:may_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:nan_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:nob_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0633\u06a9\u0647 \u062a\u0627\u062a\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Wysokie Tatry"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u044b \u0422\u0430\u0442\u0440\u044b"
+    ],
+    "name:rum_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0438\u0435 \u0422\u0430\u0442\u0440\u044b"
+    ],
+    "name:sco_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:slo_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:slv_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:spa_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0435 \u0422\u0430\u0442\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0435-\u0422\u0430\u0442\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0456 \u0422\u0430\u0442\u0440\u0438"
+    ],
+    "name:und_x_preferred":[
+        "Vysoke Tatry"
+    ],
+    "name:unk_x_variant":[
+        "Smokovec"
+    ],
+    "name:war_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Poprad",
+    "qs:adm0":"Slovensko",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vysok\u00e9 Tatry",
+    "qs:loc_alt":"Vysoke Tatry",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":49.133333,
+    "wd:longitude":20.216667,
+    "wd:wordcount":762,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070bad84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":723119,
+        "gp:id":823239,
+        "qs:id":980256,
+        "qs_pg:id":980256,
+        "wd:id":"Q612516",
+        "wk:page":"Vysok\u00e9 Tatry"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d4edba1c9e3003b0155442b8440828d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":101860171,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101860171,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815553,
+    "wof:name":"Vysok\u00e9 Tatry",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:population":4700,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.217156,
+    49.137477,
+    20.217156,
+    49.137477
+],
+  "geometry": {"coordinates":[20.217156,49.137477],"type":"Point"}
+}

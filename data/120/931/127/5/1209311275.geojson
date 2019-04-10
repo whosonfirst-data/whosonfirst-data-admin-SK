@@ -1,0 +1,61 @@
+{
+  "id": 1209311275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05778,49.28054,19.05778,49.28054",
+    "geom:latitude":49.28054,
+    "geom:longitude":19.05778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hajasovia",
+    "gn:country_code":"SK",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060167,
+    "gn:latitude":49.28054,
+    "gn:longitude":19.05778,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Haja\u0161ovia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060167
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"63044048df3f5fc35e1301f400ff5780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209311275
+        }
+    ],
+    "wof:id":1209311275,
+    "wof:lastmodified":1536291020,
+    "wof:name":"Hajasovia",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05778,
+    49.28054,
+    19.05778,
+    49.28054
+],
+  "geometry": {"coordinates":[19.05778,49.28054],"type":"Point"}
+}

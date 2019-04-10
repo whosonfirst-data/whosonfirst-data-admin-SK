@@ -1,0 +1,67 @@
+{
+  "id": 1243355125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37267,48.68528,17.37267,48.68528",
+    "geom:latitude":48.68528,
+    "geom:longitude":17.37267,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sotina",
+    "gn:country_code":"SK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057509,
+    "gn:latitude":48.68528,
+    "gn:longitude":17.37267,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sotina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057509
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6de785b20a4495562069e3514f829c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1243355125,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1243355125,
+    "wof:lastmodified":1536938025,
+    "wof:name":"Sotina",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37267,
+    48.68528,
+    17.37267,
+    48.68528
+],
+  "geometry": {"coordinates":[17.37267,48.68528],"type":"Point"}
+}

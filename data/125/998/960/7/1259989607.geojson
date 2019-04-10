@@ -1,0 +1,68 @@
+{
+  "id": 1259989607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92587,48.85314,17.92587,48.85314",
+    "geom:latitude":48.85314,
+    "geom:longitude":17.92587,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adamovske Kochanovce",
+    "gn:country_code":"SK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059465,
+    "gn:latitude":48.85314,
+    "gn:longitude":17.92587,
+    "gn:modification_date":"2007-06-30",
+    "gn:name":"Adamovsk\u00e9 Kochanovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059465,
+        "wk:page":"Adamovsk%C3%A9_Kochanovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"27812aa5bb1bd489c47f14ed7708b06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1259989607,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259989607,
+    "wof:lastmodified":1537573602,
+    "wof:name":"Adamovske Kochanovce",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.92587,
+    48.85314,
+    17.92587,
+    48.85314
+],
+  "geometry": {"coordinates":[17.92587,48.85314],"type":"Point"}
+}

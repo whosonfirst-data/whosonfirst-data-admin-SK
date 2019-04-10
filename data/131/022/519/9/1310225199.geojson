@@ -1,0 +1,67 @@
+{
+  "id": 1310225199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64092,49.15749,18.64092,49.15749",
+    "geom:latitude":49.15749,
+    "geom:longitude":18.64092,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Babkov",
+    "gn:country_code":"SK",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061229,
+    "gn:latitude":49.15749,
+    "gn:longitude":18.64092,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Babkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061229
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"852ecb7d16829ac75410b3f9e26dfb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "locality_id":1310225199,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1310225199,
+    "wof:lastmodified":1536823001,
+    "wof:name":"Babkov",
+    "wof:parent_id":102080585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64092,
+    49.15749,
+    18.64092,
+    49.15749
+],
+  "geometry": {"coordinates":[18.64092,49.15749],"type":"Point"}
+}

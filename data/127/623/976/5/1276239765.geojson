@@ -1,0 +1,67 @@
+{
+  "id": 1276239765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67249,48.91801,20.67249,48.91801",
+    "geom:latitude":48.91801,
+    "geom:longitude":20.67249,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Matejovce",
+    "gn:country_code":"SK",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724174,
+    "gn:latitude":48.91801,
+    "gn:longitude":20.67249,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Matejovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724174
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6ea3d28c46d5a08e68d0f6a801c9caa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080561,
+            "locality_id":1276239765,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1276239765,
+    "wof:lastmodified":1536904124,
+    "wof:name":"Matejovce",
+    "wof:parent_id":102080561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67249,
+    48.91801,
+    20.67249,
+    48.91801
+],
+  "geometry": {"coordinates":[20.67249,48.91801],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101787457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1126820.487025,
+    "geom:bbox":"17.9746349735,47.8113060854,17.9942827796,47.8256087121",
+    "geom:latitude":47.817898,
+    "geom:longitude":17.98392,
+    "iso:country":"SK",
+    "lbl:latitude":47.817517,
+    "lbl:longitude":17.98392,
+    "mps:latitude":47.817517,
+    "mps:longitude":17.98392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:deu_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:dut_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:eng_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:epo_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:fra_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:fre_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:ger_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:hbs_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:hun_x_preferred":[
+        "Megyercs"
+    ],
+    "name:ita_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:may_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:msa_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:nld_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:pol_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:slo_x_preferred":[
+        "\u010calovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Megyercs"
+    ],
+    "name:war_x_preferred":[
+        "\u010calovec"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Kom\u00e1rno",
+    "qs:adm0":"Slovensko",
+    "qs:la":"\u010calovec",
+    "qs:la_lc":"*SK231501085",
+    "qs:level":"locality",
+    "qs:loc":"\u010calovec",
+    "qs:loc_alt":"Calovec",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060822,
+        "gp:id":818870,
+        "qs:id":402121,
+        "wd:id":"Q1070635",
+        "wk:page":"\u010calovec"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ef47feafb902df903337b7d10ab4cbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080447,
+            "locality_id":101787457,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101787457,
+    "wof:lastmodified":1527715851,
+    "wof:name":"\u010calovec",
+    "wof:parent_id":102080447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9746349734844,
+    47.81130608536665,
+    17.99428277955525,
+    47.82560871209654
+],
+  "geometry": {"coordinates":[[[17.984423141626,47.82244199043441],[17.98840847446809,47.82215080255401],[17.98868857541709,47.82393859197327],[17.990017056196,47.82384149328061],[17.99015713884472,47.82473538507696],[17.99148563787213,47.82463826835038],[17.99162574958103,47.82553215755235],[17.99428277955525,47.82533787195189],[17.9940024710794,47.82355010073655],[17.99267400402783,47.82364724766211],[17.99239376614662,47.82185946997942],[17.98973690960224,47.82205370777274],[17.98959684565671,47.82115981406133],[17.98826843334376,47.82125690688702],[17.98784834736477,47.81857521605599],[17.98917669122159,47.81847812909672],[17.98889661942792,47.81669033592812],[17.99022491307881,47.81659323680418],[17.9900848637152,47.81569934121728],[17.99141312997858,47.81560222797418],[17.99113300432225,47.81381443879576],[17.98980478368458,47.81391154812758],[17.98966475301717,47.81301765062449],[17.98833655061878,47.81311474192734],[17.98819654899285,47.81222084183048],[17.98554017610513,47.81241497230479],[17.98568013210894,47.81330887631094],[17.98169547007143,47.81359995733067],[17.98141570116081,47.81181213695731],[17.97610293699944,47.81220000432097],[17.97596315312535,47.81130608536665],[17.9746349734844,47.81140301007099],[17.97547363315908,47.81676652593904],[17.97945856904079,47.81647566846425],[17.98015796548168,47.82094521819187],[17.98148638240264,47.82084822378221],[17.9819061634492,47.82352994010375],[17.97924918810048,47.82372392456745],[17.97938908192287,47.82461783264],[17.97806056456915,47.82471480270823],[17.97820044179201,47.82560871209654],[17.98351457509114,47.82522072753846],[17.98323464426824,47.82343292375504],[17.98456312051599,47.82333589132833],[17.984423141626,47.82244199043441]]],"type":"Polygon"}
+}

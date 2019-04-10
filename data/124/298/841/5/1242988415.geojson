@@ -1,0 +1,67 @@
+{
+  "id": 1242988415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71667,48.23333,19.71667,48.23333",
+    "geom:latitude":48.23333,
+    "geom:longitude":19.71667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mala Romhan",
+    "gn:country_code":"SK",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058880,
+    "gn:latitude":48.23333,
+    "gn:longitude":19.71667,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Mal\u00e1 Romh\u00e1\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058880
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"e305a07f04e3ca25aa14c2eb6a0fbf4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1242988415,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1242988415,
+    "wof:lastmodified":1536968637,
+    "wof:name":"Mala Romhan",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71667,
+    48.23333,
+    19.71667,
+    48.23333
+],
+  "geometry": {"coordinates":[19.71667,48.23333],"type":"Point"}
+}

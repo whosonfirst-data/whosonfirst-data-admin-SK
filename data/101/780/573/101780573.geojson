@@ -1,0 +1,144 @@
+{
+  "id": 101780573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":538307.262819,
+    "geom:bbox":"20.4793036727,49.1832830936,20.4919282042,49.1929390599",
+    "geom:latitude":49.18886,
+    "geom:longitude":20.48523,
+    "iso:country":"SK",
+    "lbl:latitude":49.189027,
+    "lbl:longitude":20.48566,
+    "mps:latitude":49.189027,
+    "mps:longitude":20.48566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:ces_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "Keresztfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:msa_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Krzy\u017cowa Wie\u015b"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0456\u0436\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:slo_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0436\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0436\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:war_x_preferred":[
+        "Kr\u00ed\u017eov\u00e1 Ves"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Ke\u017emarok",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Spi\u0161sk\u00e1 Bel\u00e1",
+    "qs:la_lc":"*SK413523828",
+    "qs:level":"locality",
+    "qs:loc":"Kr\u00ed\u017eov\u00e1 Ves",
+    "qs:loc_alt":"Krizova Ves",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":171,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724381,
+        "gp:id":820449,
+        "qs:id":261882,
+        "wd:id":"Q302369",
+        "wk:page":"Kr\u00ed\u017eov\u00e1 Ves"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fcb04c57ae80f29b88c0ee78ca6cdb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080609,
+            "locality_id":101780573,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":101780573,
+    "wof:lastmodified":1527715871,
+    "wof:name":"Kr\u00ed\u017eov\u00e1 Ves",
+    "wof:parent_id":102080609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47930367273335,
+    49.18328309356434,
+    20.49192820417528,
+    49.19293905993163
+],
+  "geometry": {"coordinates":[[[20.49192820417528,49.19001061925923],[20.49154500486725,49.18823283692228],[20.49018488267603,49.18836074334973],[20.48980176627322,49.18658295263901],[20.48708159840663,49.18683870543896],[20.48631566220968,49.18328309356434],[20.48359566028023,49.18353875918331],[20.48378708329062,49.18442766862535],[20.48242704867857,49.18455547941539],[20.48319273216498,49.18811112027322],[20.48047245180953,49.18836671381581],[20.48066384656448,49.18925562747086],[20.47930367273335,49.18938340221916],[20.48006924316917,49.19293905993163],[20.48687052733879,49.19229996822673],[20.48667900173723,49.1914110682759],[20.49075962282836,49.19102742372706],[20.49056803403698,49.19013853102649],[20.49192820417528,49.19001061925923]]],"type":"Polygon"}
+}

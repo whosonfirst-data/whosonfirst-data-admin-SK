@@ -1,0 +1,141 @@
+{
+  "id": 101834133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1514314.01035,
+    "geom:bbox":"18.6430706822,47.9638523767,18.6630805008,47.9877188548",
+    "geom:latitude":47.974096,
+    "geom:longitude":18.653423,
+    "iso:country":"SK",
+    "lbl:latitude":47.972847,
+    "lbl:longitude":18.653271,
+    "mps:latitude":47.972847,
+    "mps:longitude":18.653271,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:cze_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:deu_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:dut_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:eng_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:epo_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:fra_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:fre_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:ger_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:hun_x_preferred":[
+        "Oroszka"
+    ],
+    "name:ita_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:may_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:msa_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:nan_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:nld_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:pol_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:slk_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:slo_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0445\u0440\u043e\u043d\u0441\u043a\u0438 \u0420\u0443\u0441\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Oroska"
+    ],
+    "name:war_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Levice",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Hronovce",
+    "qs:la_lc":"*SK232502324",
+    "qs:level":"locality",
+    "qs:loc":"Pohronsk\u00fd Ruskov",
+    "qs:loc_alt":"Pohronsky Ruskov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058106,
+        "gp:id":821692,
+        "qs:id":255560,
+        "wd:id":"Q547130",
+        "wk:page":"Pohronsk\u00fd Ruskov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3d17cffab8a29dba39edaf9a854842fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":101834133,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101834133,
+    "wof:lastmodified":1527642930,
+    "wof:name":"Pohronsk\u00fd Ruskov",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64307068223536,
+    47.96385237666783,
+    18.66308050082642,
+    47.98771885475003
+],
+  "geometry": {"coordinates":[[[18.65512414373626,47.96385237666783],[18.65122449911627,47.96471607792375],[18.65132311468193,47.96529420729428],[18.64866099023055,47.96550450630252],[18.64911776004971,47.96818287371377],[18.64645547836642,47.96839312106522],[18.64660770278579,47.96928591310211],[18.64394535539327,47.96949610029458],[18.64440193206843,47.97217448510452],[18.64307068223536,47.97227956091797],[18.64322286514749,47.97317235663036],[18.64455413786942,47.97306727869346],[18.64470635045899,47.97396007160876],[18.64870020737777,47.97364473480479],[18.64930940033128,47.97721587423308],[18.65197212979933,47.9770055521771],[18.65258161461111,47.98057666381715],[18.65391306343679,47.98047147012761],[18.65437031711099,47.98314979040128],[18.65303879959197,47.98325499047058],[18.65380091054107,47.98771885475003],[18.65513254256848,47.98761364404589],[18.65498008387482,47.98672087466463],[18.65631168800331,47.9866156499798],[18.65570182963575,47.98304457422523],[18.65703333716647,47.98293934194299],[18.65688086667939,47.98204657344667],[18.65821234631738,47.98194132718572],[18.65790737995451,47.98015579242536],[18.66190165151903,47.97983996977553],[18.66174910985774,47.97894720776776],[18.66308050082642,47.97884190346946],[18.66262284799063,47.97616361978362],[18.65996019840662,47.97637419950581],[18.65980770684837,47.9754814326713],[18.65847639745374,47.97558669624925],[18.65740930716117,47.9693372946241],[18.65607815297784,47.96944252721028],[18.65512414373626,47.96385237666783]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310111817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03608,48.46894,18.03608,48.46894",
+    "geom:latitude":48.46894,
+    "geom:longitude":18.03608,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cermany",
+    "gn:country_code":"SK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060779,
+    "gn:latitude":48.46894,
+    "gn:longitude":18.03608,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010cermany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cermany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060779,
+        "wk:page":"%C4%8Cermany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c5156c4e4a88da8d5bbc313fc258d32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1310111817,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1310111817,
+    "wof:lastmodified":1537700433,
+    "wof:name":"Cermany",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03608,
+    48.46894,
+    18.03608,
+    48.46894
+],
+  "geometry": {"coordinates":[18.03608,48.46894],"type":"Point"}
+}

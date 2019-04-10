@@ -1,0 +1,71 @@
+{
+  "id": 1310524167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56945,49.38411,21.56945,49.38411",
+    "geom:latitude":49.38411,
+    "geom:longitude":21.56945,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Svidnicka",
+    "gn:country_code":"SK",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723418,
+    "gn:latitude":49.38411,
+    "gn:longitude":21.56945,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Svidni\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svidni\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723418,
+        "wk:page":"Svidni%C4%8Dka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cea163c0a0866c5892d0437cdc66af50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1310524167,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310524167,
+    "wof:lastmodified":1537700347,
+    "wof:name":"Svidnicka",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56945,
+    49.38411,
+    21.56945,
+    49.38411
+],
+  "geometry": {"coordinates":[21.56945,49.38411],"type":"Point"}
+}

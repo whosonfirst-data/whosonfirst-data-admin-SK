@@ -1,0 +1,82 @@
+{
+  "id": 1125395101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.058961,49.24106,19.058961,49.24106",
+    "geom:latitude":49.24106,
+    "geom:longitude":19.058961,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.24106,
+    "lbl:longitude":19.058961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Terchova",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Zilinsky",
+    "qs_pg:photos":194,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":807,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225150,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29399653,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Zilinsky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29399653,
+        "qs_pg:id":225150
+    },
+    "wof:country":"SK",
+    "wof:created":1497048959,
+    "wof:geomhash":"64db6681a1c5b1789a7ce1f05c1187a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080585,
+            "localadmin_id":1125395101,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1125395101,
+    "wof:lastmodified":1509389928,
+    "wof:name":"Terchova",
+    "wof:parent_id":102080585,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.058961,
+    49.24106,
+    19.058961,
+    49.24106
+],
+  "geometry": {"coordinates":[19.058961,49.24106],"type":"Point"}
+}

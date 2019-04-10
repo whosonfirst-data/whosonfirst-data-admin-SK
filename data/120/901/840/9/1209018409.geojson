@@ -1,0 +1,65 @@
+{
+  "id": 1209018409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83282,48.366,18.83282,48.366",
+    "geom:latitude":48.366,
+    "geom:longitude":18.83282,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pocuvadlo",
+    "gn:country_code":"SK",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058160,
+    "gn:latitude":48.366,
+    "gn:longitude":18.83282,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Po\u010d\u00favadlo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po\u010d\u00favadlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058160,
+        "wk:page":"Po%C4%8D%C3%BAvadlo"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"35ba8c9c5f64b523453e407dcdf8b16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209018409
+        }
+    ],
+    "wof:id":1209018409,
+    "wof:lastmodified":1537700396,
+    "wof:name":"Pocuvadlo",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83282,
+    48.36600000000001,
+    18.83282,
+    48.36600000000001
+],
+  "geometry": {"coordinates":[18.83282,48.36600000000001],"type":"Point"}
+}

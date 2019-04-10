@@ -1,0 +1,71 @@
+{
+  "id": 1243375033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52362,48.61417,21.52362,48.61417",
+    "geom:latitude":48.61417,
+    "geom:longitude":21.52362,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kalsa",
+    "gn:country_code":"SK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724540,
+    "gn:latitude":48.61417,
+    "gn:longitude":21.52362,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kal\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724540,
+        "wk:page":"Kal%C5%A1a"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6a9d2f1d65957030896c03240d51b672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1243375033,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1243375033,
+    "wof:lastmodified":1537700366,
+    "wof:name":"Kalsa",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52362,
+    48.61417,
+    21.52362,
+    48.61417
+],
+  "geometry": {"coordinates":[21.52362,48.61417],"type":"Point"}
+}

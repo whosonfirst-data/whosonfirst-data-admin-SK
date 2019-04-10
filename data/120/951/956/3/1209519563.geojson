@@ -1,0 +1,61 @@
+{
+  "id": 1209519563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29417,48.49159,19.29417,48.49159",
+    "geom:latitude":48.49159,
+    "geom:longitude":19.29417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kalinka",
+    "gn:country_code":"SK",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059606,
+    "gn:latitude":48.49159,
+    "gn:longitude":19.29417,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kalinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059606
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"09b7e9d19609e9b3e9c776d2042f63bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209519563
+        }
+    ],
+    "wof:id":1209519563,
+    "wof:lastmodified":1536284623,
+    "wof:name":"Kalinka",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29417,
+    48.49159,
+    19.29417,
+    48.49159
+],
+  "geometry": {"coordinates":[19.29417,48.49159],"type":"Point"}
+}

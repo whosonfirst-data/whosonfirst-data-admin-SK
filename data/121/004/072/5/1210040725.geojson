@@ -1,0 +1,73 @@
+{
+  "id": 1210040725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82057,48.80216,17.82057,48.80216",
+    "geom:latitude":48.80216,
+    "geom:longitude":17.82057,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolne Srnie",
+    "gn:country_code":"SK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060437,
+    "gn:latitude":48.80216,
+    "gn:longitude":17.82057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Srnie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00ed Srnie",
+        "Dolnie Srnie",
+        "Doln\u00e9 Srnie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060437,
+        "wk:page":"Doln%C3%A9_Srnie"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0557aa19ec7e5f4f8fc33490d56ab937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1210040725,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1210040725,
+    "wof:lastmodified":1537700429,
+    "wof:name":"Dolne Srnie",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82057,
+    48.80216,
+    17.82057,
+    48.80216
+],
+  "geometry": {"coordinates":[17.82057,48.80216],"type":"Point"}
+}

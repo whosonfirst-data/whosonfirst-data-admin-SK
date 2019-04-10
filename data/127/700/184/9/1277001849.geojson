@@ -1,0 +1,73 @@
+{
+  "id": 1277001849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31702,49.18436,19.31702,49.18436",
+    "geom:latitude":49.18436,
+    "geom:longitude":19.31702,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vysny Kubin",
+    "gn:country_code":"SK",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056655,
+    "gn:latitude":49.18436,
+    "gn:longitude":19.31702,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vy\u0161n\u00fd Kub\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Kub\u00edn",
+        "Vy\u0161n\u00ed Kub\u00edn",
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056655,
+        "wk:page":"Vy%C5%A1n%C3%BD_Kub%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2f9eeb656e176ae4d5c7bab1bc5b48ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":1277001849,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1277001849,
+    "wof:lastmodified":1537700379,
+    "wof:name":"Vysny Kubin",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31702,
+    49.18436,
+    19.31702,
+    49.18436
+],
+  "geometry": {"coordinates":[19.31702,49.18436],"type":"Point"}
+}

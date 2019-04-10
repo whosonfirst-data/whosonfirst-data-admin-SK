@@ -1,0 +1,67 @@
+{
+  "id": 1226543917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1938,48.60326,19.1938,48.60326",
+    "geom:latitude":48.60326,
+    "geom:longitude":19.1938,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lukove",
+    "gn:country_code":"SK",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058968,
+    "gn:latitude":48.60326,
+    "gn:longitude":19.1938,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Lukov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058968
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9bb0b4fbdbc85b00c3642f234be20221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080509,
+            "locality_id":1226543917,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226543917,
+    "wof:lastmodified":1536999892,
+    "wof:name":"Lukove",
+    "wof:parent_id":102080509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1938,
+    48.60326,
+    19.1938,
+    48.60326
+],
+  "geometry": {"coordinates":[19.1938,48.60326],"type":"Point"}
+}

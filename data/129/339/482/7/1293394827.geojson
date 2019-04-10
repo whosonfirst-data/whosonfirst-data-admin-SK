@@ -1,0 +1,71 @@
+{
+  "id": 1293394827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80466,48.99646,20.80466,48.99646",
+    "geom:latitude":48.99646,
+    "geom:longitude":20.80466,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Granc-Petrovce",
+    "gn:country_code":"SK",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724773,
+    "gn:latitude":48.99646,
+    "gn:longitude":20.80466,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gran\u010d-Petrovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gran\u010d-Petrovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724773,
+        "wk:page":"Gran%C4%8D-Petrovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b5ee83c235d983d2516cd6aa3ce5f491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1293394827,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1293394827,
+    "wof:lastmodified":1537700370,
+    "wof:name":"Granc-Petrovce",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80466,
+    48.99646,
+    20.80466,
+    48.99646
+],
+  "geometry": {"coordinates":[20.80466,48.99646],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193051011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97011,48.87837,17.97011,48.87837",
+    "geom:latitude":48.87837,
+    "geom:longitude":17.97011,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolne Zariecie",
+    "gn:country_code":"SK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060427,
+    "gn:latitude":48.87837,
+    "gn:longitude":17.97011,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Z\u00e1rie\u010die",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e1rie\u010d",
+        "Doln\u00e9 Z\u00e1rie\u010die"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060427
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"05387b73e9e61bd2764e51e6bc21dea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":1193051011,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1193051011,
+    "wof:lastmodified":1537700428,
+    "wof:name":"Dolne Zariecie",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97011000000001,
+    48.87837,
+    17.97011000000001,
+    48.87837
+],
+  "geometry": {"coordinates":[17.97011000000001,48.87837],"type":"Point"}
+}

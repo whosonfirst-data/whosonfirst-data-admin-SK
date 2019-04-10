@@ -1,0 +1,71 @@
+{
+  "id": 1242774671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17769,48.9206,19.17769,48.9206",
+    "geom:latitude":48.9206,
+    "geom:longitude":19.17769,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Stredna Revuca",
+    "gn:country_code":"SK",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057411,
+    "gn:latitude":48.9206,
+    "gn:longitude":19.17769,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stredn\u00e1 Rev\u00faca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strednia Rev\u00faca",
+        "Stredn\u00e1 Rev\u00faca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057411
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ada0a246d868e5bb6c3b89e63ed8d8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080567,
+            "locality_id":1242774671,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1242774671,
+    "wof:lastmodified":1537700389,
+    "wof:name":"Stredna Revuca",
+    "wof:parent_id":102080567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17769,
+    48.9206,
+    19.17769,
+    48.9206
+],
+  "geometry": {"coordinates":[19.17769,48.9206],"type":"Point"}
+}

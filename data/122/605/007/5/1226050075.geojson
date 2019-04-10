@@ -1,0 +1,71 @@
+{
+  "id": 1226050075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83522,48.65964,21.83522,48.65964",
+    "geom:latitude":48.65964,
+    "geom:longitude":21.83522,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lozin",
+    "gn:country_code":"SK",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724267,
+    "gn:latitude":48.65964,
+    "gn:longitude":21.83522,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lo\u017e\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo\u017e\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724267,
+        "wk:page":"Lo%C5%BE%C3%ADn"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"be525075a5615130de1375d3e91d7bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1226050075,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1226050075,
+    "wof:lastmodified":1537700361,
+    "wof:name":"Lozin",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83522,
+    48.65964,
+    21.83522,
+    48.65964
+],
+  "geometry": {"coordinates":[21.83522,48.65964],"type":"Point"}
+}

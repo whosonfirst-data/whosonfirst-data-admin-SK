@@ -1,0 +1,144 @@
+{
+  "id": 101781565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1246282.628536,
+    "geom:bbox":"19.8285545138,48.5618552332,19.8505368936,48.5816996758",
+    "geom:latitude":48.571272,
+    "geom:longitude":19.841354,
+    "iso:country":"SK",
+    "lbl:latitude":48.572971,
+    "lbl:longitude":19.840271,
+    "mps:latitude":48.572971,
+    "mps:longitude":19.840271,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:deu_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:dut_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:eng_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:epo_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:fra_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:fre_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:ger_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:hbs_x_preferred":[
+        "Kokava na Rimavici"
+    ],
+    "name:hun_x_preferred":[
+        "Rimakokova"
+    ],
+    "name:ita_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:may_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:msa_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:nld_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:oci_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:pol_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u0432\u0430-\u043d\u0430\u0434-\u0420\u0438\u043c\u0430\u0432\u0438\u0446\u043e\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:slo_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u0432\u0430 \u043d\u0430 \u0420\u0438\u043c\u0430\u0432\u0438\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kokava na Rimavica"
+    ],
+    "name:war_x_preferred":[
+        "Kokava nad Rimavicou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Polt\u00e1r",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kokava nad Rimavicou",
+    "qs:la_lc":"*SK327511498",
+    "qs:level":"locality",
+    "qs:loc":"Kokava nad Rimavicou",
+    "qs:loc_alt":"Kokava nad Rimavicou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059454,
+        "gp:id":820244,
+        "qs:id":940016,
+        "wd:id":"Q123519",
+        "wk:page":"Kokava nad Rimavicou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5baeae5b7b013d87f1ae4251bc9361d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080513,
+            "locality_id":101781565,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101781565,
+    "wof:lastmodified":1527715629,
+    "wof:name":"Kokava nad Rimavicou",
+    "wof:parent_id":102080513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82855451380794,
+    48.56185523318652,
+    19.85053689355254,
+    48.58169967581097
+],
+  "geometry": {"coordinates":[[[19.84416547903658,48.57670109628003],[19.84345966615518,48.57313944019404],[19.84480449851156,48.57301960953788],[19.84445159305614,48.57123878201458],[19.84848591477214,48.57087920722205],[19.84919203790224,48.57444082981448],[19.85053689355254,48.57432092918071],[19.84806569237531,48.56185523318652],[19.84403208902376,48.56221478297999],[19.84420848162597,48.56310520198485],[19.84286391210907,48.56322502185407],[19.84304028930353,48.56411544258373],[19.8416956905748,48.56423524865068],[19.84222479977518,48.56690651381388],[19.84088012511359,48.56702631099404],[19.84123285760143,48.56880715568622],[19.8398881303599,48.5689269415206],[19.84006448516334,48.56981736522499],[19.83603019821919,48.57017663252304],[19.83585391351022,48.56928620144538],[19.83450916285432,48.56940592222725],[19.83433290945527,48.56851548795998],[19.83298817631299,48.56863519002172],[19.83369314410987,48.57219693252216],[19.82965862917331,48.57255597060157],[19.82983482087332,48.57344641176491],[19.83521425589731,48.57296765196986],[19.83539054902229,48.57385808257413],[19.83673541651649,48.57373834950607],[19.83744076197689,48.57730005476691],[19.8360958009938,48.57741979766644],[19.83627213385711,48.57831022460823],[19.83358214757504,48.5785496665232],[19.83375844163493,48.57944009764816],[19.82972334817413,48.57979914588975],[19.82989958004663,48.58068958365362],[19.82855451380794,48.58080923632224],[19.8287307302453,48.58169967581097],[19.83276598154146,48.58134066163115],[19.83258969496484,48.58045022951285],[19.83662482343243,48.5800910762951],[19.83644847467002,48.57920065081794],[19.83913848428028,48.57896113891979],[19.8389620967165,48.57807071762704],[19.8403070693609,48.5779509397367],[19.84013066637425,48.57706052016999],[19.84416547903658,48.57670109628003]]],"type":"Polygon"}
+}

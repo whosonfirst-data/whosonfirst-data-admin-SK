@@ -1,0 +1,71 @@
+{
+  "id": 1193010001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23811,48.58568,17.23811,48.58568",
+    "geom:latitude":48.58568,
+    "geom:longitude":17.23811,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bilkove Humence",
+    "gn:country_code":"SK",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061073,
+    "gn:latitude":48.58568,
+    "gn:longitude":17.23811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00edlkove Humence",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00edlkove Humence"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061073,
+        "wk:page":"B%C3%ADlkove_Humence"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"039639053ebd8858ed9dfaaa26e3980b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1193010001,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1193010001,
+    "wof:lastmodified":1537700436,
+    "wof:name":"Bilkove Humence",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23811,
+    48.58568,
+    17.23811,
+    48.58568
+],
+  "geometry": {"coordinates":[17.23811,48.58568],"type":"Point"}
+}

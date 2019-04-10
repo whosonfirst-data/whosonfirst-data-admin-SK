@@ -1,0 +1,71 @@
+{
+  "id": 1226342739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78624,48.69212,17.78624,48.69212",
+    "geom:latitude":48.69212,
+    "geom:longitude":17.78624,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Castkovce",
+    "gn:country_code":"SK",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060810,
+    "gn:latitude":48.69212,
+    "gn:longitude":17.78624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u010castkovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010castkovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060810,
+        "wk:page":"%C4%8Castkovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c6c5c54121e07a52c1f6739e5c44e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1226342739,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1226342739,
+    "wof:lastmodified":1537700434,
+    "wof:name":"Castkovce",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78624,
+    48.69212,
+    17.78624,
+    48.69212
+],
+  "geometry": {"coordinates":[17.78624,48.69212],"type":"Point"}
+}

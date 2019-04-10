@@ -1,0 +1,67 @@
+{
+  "id": 1343772199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16389,49.20802,18.16389,49.20802",
+    "geom:latitude":49.20802,
+    "geom:longitude":18.16389,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Desna",
+    "gn:country_code":"SK",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060590,
+    "gn:latitude":49.20802,
+    "gn:longitude":18.16389,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"De\u0161n\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060590
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"4694fc4207a800dee385b4519646c0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080573,
+            "locality_id":1343772199,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1343772199,
+    "wof:lastmodified":1536794172,
+    "wof:name":"Desna",
+    "wof:parent_id":102080573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16389,
+    49.20802,
+    18.16389,
+    49.20802
+],
+  "geometry": {"coordinates":[18.16389,49.20802],"type":"Point"}
+}

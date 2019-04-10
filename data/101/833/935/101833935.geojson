@@ -1,0 +1,144 @@
+{
+  "id": 101833935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1341249.559757,
+    "geom:bbox":"17.8314548129,48.5912438649,17.8703895933,48.6369759823",
+    "geom:latitude":48.603301,
+    "geom:longitude":17.858883,
+    "iso:country":"SK",
+    "lbl:latitude":48.601011,
+    "lbl:longitude":17.861293,
+    "mps:latitude":48.601011,
+    "mps:longitude":17.861293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:ces_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:cze_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:deu_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:dut_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:eng_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:epo_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:fra_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:fre_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:ger_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:hbs_x_preferred":[
+        "Moravani na Vahu"
+    ],
+    "name:hun_x_preferred":[
+        "Morav\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30f4\u30a1\u30cb\u30fb\u30ca\u30c9\u30fb\u30f4\u30a1\u30fc\u30db\u30e0"
+    ],
+    "name:may_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:msa_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:nan_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:nld_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:slo_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0430\u043d\u0438 \u043d\u0430 \u0412\u0430\u0445\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Moravany nad V\u00e1hom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Pie\u0161tany",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Pie\u0161\u0165any",
+    "qs:la_lc":"*SK214507440",
+    "qs:level":"locality",
+    "qs:loc":"Moravany nad V\u00e1hom",
+    "qs:loc_alt":"Moravany nad Vahom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058644,
+        "gp:id":821101,
+        "qs:id":27385,
+        "qs_pg:id":27385,
+        "wd:id":"Q949738",
+        "wk:page":"Moravany nad V\u00e1hom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c898d30416ab15c56cae819621c21ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080495,
+            "locality_id":101833935,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101833935,
+    "wof:lastmodified":1535390435,
+    "wof:name":"Moravany nad V\u00e1hom",
+    "wof:parent_id":102080495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8314548128981,
+    48.5912438648664,
+    17.8703895933499,
+    48.6369759822767
+],
+  "geometry": {"coordinates":[[[[17.864647796119,48.5930907044404],[17.8643655073631,48.5913032361606],[17.8616677965993,48.591494809975],[17.861628181929,48.5912438648664],[17.8579721151641,48.5940057834331],[17.8584674259259,48.597144504929],[17.8557693832517,48.5973359387673],[17.8560514162586,48.5991234276008],[17.8547023403781,48.5992191239144],[17.8552663879961,48.6027941024091],[17.8539172124202,48.6028897902426],[17.8540582165312,48.6037835353678],[17.8527090125011,48.6038792088046],[17.8528499992427,48.6047729553136],[17.851500766758,48.6048686143532],[17.8516417361277,48.605762362246],[17.852990992366,48.6056667012348],[17.8531319918721,48.606560446568],[17.8558305377484,48.6063690714935],[17.8556894907341,48.6054753301045],[17.8597372030027,48.6051881506397],[17.8598783212778,48.6060818861101],[17.8625768200976,48.605890347341],[17.8631415471264,48.6094652675484],[17.8644908844936,48.6093694657124],[17.8643496693932,48.6084757385175],[17.8656989782939,48.6083799222862],[17.8655577458306,48.6074861964781],[17.8669070262659,48.6073903658519],[17.8663420653332,48.6038154646325],[17.8703895933499,48.6035278982444],[17.8702482978528,48.6026341773938],[17.8675499980502,48.6028259007361],[17.8674087564435,48.6019321753456],[17.8660596232244,48.6020280104902],[17.8654948157041,48.5984530951388],[17.8668438539414,48.598357267893],[17.8664202441735,48.595676081118],[17.8677692064777,48.5955802434302],[17.8673455830041,48.5928990572755],[17.864647796119,48.5930907044404]],[[17.864647796119,48.5930907044404],[17.8650712771616,48.5957719024408],[17.861024347886,48.5960592682171],[17.8606010804972,48.5933780524557],[17.864647796119,48.5930907044404]]],[[[17.8421252305724,48.6059770650301],[17.840318214326,48.6073421472461],[17.8402757817784,48.6074712197031],[17.8423376203081,48.6073252920682],[17.8421252305724,48.6059770650301]]],[[[17.8333818425943,48.6284413881045],[17.8314548128981,48.6343030785208],[17.8315735334077,48.6342946885137],[17.8319957700668,48.6369759822767],[17.8333458954767,48.6368805510147],[17.8329235874378,48.6341992631574],[17.8356236814017,48.6340083633021],[17.8354828772266,48.6331146034508],[17.8341328563848,48.6332100595999],[17.8333818425943,48.6284413881045]]]],"type":"MultiPolygon"}
+}

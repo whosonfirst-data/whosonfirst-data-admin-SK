@@ -1,0 +1,144 @@
+{
+  "id": 101784131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1106754.235162,
+    "geom:bbox":"20.2248134419,48.3007716377,20.2477227614,48.3096329376",
+    "geom:latitude":48.305139,
+    "geom:longitude":20.236624,
+    "iso:country":"SK",
+    "lbl:latitude":48.305014,
+    "lbl:longitude":20.234551,
+    "mps:latitude":48.305014,
+    "mps:longitude":20.234551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:ces_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:cze_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:dut_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:epo_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:ger_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05de\u05d1\u05e1\u05e7\u05d4 \u05e1\u05e5'"
+    ],
+    "name:hun_x_preferred":[
+        "Rimasz\u00e9cs"
+    ],
+    "name:ita_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:may_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:msa_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:nan_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:nld_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:pol_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:slo_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u0435\u0447"
+    ],
+    "name:war_x_preferred":[
+        "Rimavsk\u00e1 Se\u010d"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Banskobystrick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Rimavsk\u00e1 Sobota",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Rimavsk\u00e1 Se\u010d",
+    "qs:la_lc":"*SK329515442",
+    "qs:level":"locality",
+    "qs:loc":"Rimavsk\u00e1 Se\u010d",
+    "qs:loc_alt":"Rimavska Sec",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723737,
+        "gp:id":821968,
+        "qs:id":1014417,
+        "qs_pg:id":1014417,
+        "wd:id":"Q339301",
+        "wk:page":"Rimavsk\u00e1 Se\u010d"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6c6824f548faf1d3d7253cf199c2c92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080525,
+            "locality_id":101784131,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":101784131,
+    "wof:lastmodified":1527688541,
+    "wof:name":"Rimavsk\u00e1 Se\u010d",
+    "wof:parent_id":102080525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22481344193091,
+    48.30077163770943,
+    20.24772276144188,
+    48.30963293763807
+],
+  "geometry": {"coordinates":[[[20.23258939647712,48.30836988053329],[20.24061159911548,48.30762294036316],[20.24079365058594,48.30851272256643],[20.24480473990207,48.30813902689948],[20.24498686847403,48.30902880071892],[20.24632390923,48.30890420066794],[20.24614175767647,48.30801442938446],[20.24747876945025,48.30788981572334],[20.24638589353538,48.30255118688586],[20.24772276144188,48.30242657229525],[20.24754062102642,48.30153680063211],[20.24620377609403,48.301661412687],[20.24602166680728,48.30077163770943],[20.2446848388505,48.30089623108518],[20.24486692516348,48.30178600859819],[20.23684569366208,48.30253324503786],[20.23666374519973,48.30164345231998],[20.23265311746457,48.30201684499036],[20.2324712460769,48.30112704389671],[20.22846063335942,48.30150028366967],[20.22882424641233,48.30327990027024],[20.22481344193091,48.30365300992577],[20.22535871574013,48.30632245177611],[20.22669572550012,48.30619809044401],[20.22687752269979,48.30708790030928],[20.22821454945455,48.30696352029935],[20.2287600588607,48.30963293763807],[20.23277131004579,48.30925967793883],[20.23258939647712,48.30836988053329]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310711433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24117,48.24851,19.24117,48.24851",
+    "geom:latitude":48.24851,
+    "geom:longitude":19.24117,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Plachtinske Lazy",
+    "gn:country_code":"SK",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058188,
+    "gn:latitude":48.24851,
+    "gn:longitude":19.24117,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Plachtinsk\u00e9 Lazy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058188
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"257207e109c858796c6385db8e84754a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1310711433,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1310711433,
+    "wof:lastmodified":1536617523,
+    "wof:name":"Plachtinske Lazy",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24117,
+    48.24851,
+    19.24117,
+    48.24851
+],
+  "geometry": {"coordinates":[19.24117,48.24851],"type":"Point"}
+}

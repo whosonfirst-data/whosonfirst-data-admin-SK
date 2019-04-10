@@ -1,0 +1,71 @@
+{
+  "id": 1226645193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50693,49.17588,21.50693,49.17588",
+    "geom:latitude":49.17588,
+    "geom:longitude":21.50693,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Stefurov",
+    "gn:country_code":"SK",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723490,
+    "gn:latitude":49.17588,
+    "gn:longitude":21.50693,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160tefurov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160tefurov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723490,
+        "wk:page":"%C5%A0tefurov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8d3a550d3a156c96f08170c922408f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080623,
+            "locality_id":1226645193,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1226645193,
+    "wof:lastmodified":1537700348,
+    "wof:name":"Stefurov",
+    "wof:parent_id":102080623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50693,
+    49.17588,
+    21.50693,
+    49.17588
+],
+  "geometry": {"coordinates":[21.50693,49.17588],"type":"Point"}
+}

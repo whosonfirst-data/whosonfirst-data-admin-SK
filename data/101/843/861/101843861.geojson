@@ -1,0 +1,144 @@
+{
+  "id": 101843861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":957130.644201,
+    "geom:bbox":"21.6277051364,48.5751562099,21.6426676887,48.5890612717",
+    "geom:latitude":48.581299,
+    "geom:longitude":21.635896,
+    "iso:country":"SK",
+    "lbl:latitude":48.581631,
+    "lbl:longitude":21.636406,
+    "mps:latitude":48.581631,
+    "mps:longitude":21.636406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:ces_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:cze_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:deu_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:dut_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:eng_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:epo_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:fra_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:fre_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:ger_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarizs\u00e9p"
+    ],
+    "name:ita_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:may_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:msa_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:nld_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:pol_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0457\u0436\u043d\u0456 \u0416\u0456\u043f\u043e\u0432"
+    ],
+    "name:slo_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0436\u043d\u0438 \u0416\u0438\u043f\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Uhorsk\u00fd \u017dipov"
+    ],
+    "name:war_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Ko\u0161ick\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trebi\u0161ov",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Ni\u017en\u00fd \u017dipov",
+    "qs:la_lc":"*SK42B528609",
+    "qs:level":"locality",
+    "qs:loc":"Ni\u017en\u00fd \u017dipov",
+    "qs:loc_alt":"Nizny Zipov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724029,
+        "gp:id":821274,
+        "qs:id":190986,
+        "qs_pg:id":190986,
+        "wd:id":"Q1072905",
+        "wk:page":"Ni\u017en\u00fd \u017dipov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"55e395eb48c68d9b5bf863b66ed44387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080551,
+            "locality_id":101843861,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":101843861,
+    "wof:lastmodified":1527642592,
+    "wof:name":"Ni\u017en\u00fd \u017dipov",
+    "wof:parent_id":102080551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62770513636656,
+    48.57515620990847,
+    21.64266768874251,
+    48.58906127168285
+],
+  "geometry": {"coordinates":[[[21.64174361405838,48.58686301947932],[21.64132643183558,48.58508953695014],[21.64266768874251,48.58494792512596],[21.64183334469749,48.58140096097941],[21.6404921797905,48.58154256121514],[21.63986658908948,48.5788823200711],[21.64120768500595,48.57874072852519],[21.64058210959064,48.57608048806151],[21.6392410826553,48.57622207091862],[21.63903259923364,48.57533531942147],[21.63232747610886,48.57604297677022],[21.6321191170091,48.57515620990847],[21.62943706550374,48.57543915391113],[21.62964537861558,48.5763259265604],[21.62830431953404,48.57646737720853],[21.62872092782732,48.57824092562726],[21.63006203290104,48.5780994691919],[21.63027037407613,48.5789862391743],[21.63161149525644,48.57884476367968],[21.63265345647687,48.58327858578542],[21.63131222029699,48.58342007575254],[21.63152061761434,48.58430684040127],[21.63017935153727,48.58444831709545],[21.63038773520975,48.58533508375041],[21.62770513636656,48.58561799442435],[21.62791348338567,48.58650476597921],[21.63059612824054,48.58622184951651],[21.630804530631,48.58710861439403],[21.63348719392127,48.58682562746856],[21.63327874551891,48.58593886838128],[21.63864389732191,48.58537271209707],[21.63926954668341,48.58803295193866],[21.63792820006387,48.5881745239509],[21.63813674557713,48.58906127168285],[21.64081947792988,48.58877810569584],[21.64040230424439,48.5870046209306],[21.64174361405838,48.58686301947932]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343457769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44933,49.17047,21.44933,49.17047",
+    "geom:latitude":49.17047,
+    "geom:longitude":21.44933,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marhan",
+    "gn:country_code":"SK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724181,
+    "gn:latitude":49.17047,
+    "gn:longitude":21.44933,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marha\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marha\u0148"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724181,
+        "wk:page":"Marha%C5%88"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"96dc96d89ab67a351f8af4ae33527d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1343457769,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1343457769,
+    "wof:lastmodified":1537700360,
+    "wof:name":"Marhan",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44933,
+    49.17047,
+    21.44933,
+    49.17047
+],
+  "geometry": {"coordinates":[21.44933,49.17047],"type":"Point"}
+}

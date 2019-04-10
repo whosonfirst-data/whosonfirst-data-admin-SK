@@ -1,0 +1,135 @@
+{
+  "id": 101785187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1136699.932657,
+    "geom:bbox":"17.8349870495,48.1612116832,17.8546347168,48.1750982497",
+    "geom:latitude":48.167883,
+    "geom:longitude":17.843775,
+    "iso:country":"SK",
+    "lbl:latitude":48.167988,
+    "lbl:longitude":17.843775,
+    "mps:latitude":48.167988,
+    "mps:longitude":17.843775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:deu_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:fra_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:ger_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:hbs_x_preferred":[
+        "Kraljova na Vahu"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1gkir\u00e1lyfa"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:msa_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:nld_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:slk_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:slo_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0459\u043e\u0432\u0430 \u043d\u0430 \u0412\u0430\u0445\u0443"
+    ],
+    "name:unk_x_variant":[
+        "V\u00e1g-Kir\u00e1lyfa"
+    ],
+    "name:war_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"\u0160ala",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Kr\u00e1\u013eov\u00e1 nad V\u00e1hom",
+    "qs:la_lc":"*SK235503886",
+    "qs:level":"locality",
+    "qs:loc":"Kr\u00e1\u013eov\u00e1 nad V\u00e1hom",
+    "qs:loc_alt":"Kralova nad Vahom",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059305,
+        "gp:id":820395,
+        "qs:id":966350,
+        "wd:id":"Q1070667",
+        "wk:page":"Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b8599a8672f670fdd92e497c5e964e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080467,
+            "locality_id":101785187,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101785187,
+    "wof:lastmodified":1527677696,
+    "wof:name":"Kr\u00e1\u013eov\u00e1 nad V\u00e1hom",
+    "wof:parent_id":102080467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83498704951779,
+    48.1612116832049,
+    17.85463471678548,
+    48.17509824973212
+],
+  "geometry": {"coordinates":[[[17.84799957159277,48.17490731256902],[17.8477214487894,48.17311942857737],[17.84905923113826,48.17302393956692],[17.84892015584728,48.17212999859839],[17.84758239674272,48.17222548566554],[17.84716527801845,48.16954365326632],[17.84850296739637,48.16944817202864],[17.84822487294275,48.16766028459466],[17.85090014498826,48.1674692812677],[17.85076106063906,48.16657534052086],[17.8534362678692,48.16638427625122],[17.85329714328481,48.16549033878084],[17.85463471678548,48.16539478427967],[17.85449557520491,48.16450084814244],[17.85315802493898,48.16459640069928],[17.8530189128312,48.16370246200626],[17.85168138121384,48.16379799641311],[17.85154229857636,48.1629040551648],[17.85020478560733,48.16299957142189],[17.84992668550456,48.1612116832049],[17.84858921441565,48.16130717937],[17.84886726805462,48.16309507147298],[17.84619221920127,48.16328602295658],[17.84633120890385,48.1641799719763],[17.84231853156109,48.16446628347933],[17.84204069779321,48.1626783731781],[17.84070317598895,48.16277377404981],[17.84056429168169,48.16187981604213],[17.83788928080685,48.16207056528538],[17.8384446695207,48.16564640917744],[17.83710706427564,48.16574176725038],[17.83724590378193,48.16663572863757],[17.83590827072129,48.16673107244316],[17.83632475687779,48.16941295876398],[17.83498704951779,48.16950829218126],[17.83540352198071,48.17219017883212],[17.8407546028775,48.17180872462222],[17.84103246828744,48.17359663047955],[17.8450458703378,48.17331035796843],[17.84532390015613,48.17509824973212],[17.84799957159277,48.17490731256902]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259388897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44346,48.7032,18.44346,48.7032",
+    "geom:latitude":48.7032,
+    "geom:longitude":18.44346,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dvorniky nad Nitricou",
+    "gn:country_code":"SK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060277,
+    "gn:latitude":48.7032,
+    "gn:longitude":18.44346,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dvorn\u00edky nad Nitricou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060277
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6c99c58fe22f5958c3579c03f2c9aed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":1259388897,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259388897,
+    "wof:lastmodified":1536993566,
+    "wof:name":"Dvorniky nad Nitricou",
+    "wof:parent_id":102080537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44346,
+    48.7032,
+    18.44346,
+    48.7032
+],
+  "geometry": {"coordinates":[18.44346,48.7032],"type":"Point"}
+}

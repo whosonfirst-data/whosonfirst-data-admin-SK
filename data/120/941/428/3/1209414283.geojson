@@ -1,0 +1,65 @@
+{
+  "id": 1209414283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07776,48.98837,21.07776,48.98837",
+    "geom:latitude":48.98837,
+    "geom:longitude":21.07776,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ondrasovce",
+    "gn:country_code":"SK",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723980,
+    "gn:latitude":48.98837,
+    "gn:longitude":21.07776,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ondra\u0161ovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ondra\u0161ovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723980,
+        "wk:page":"Ondra%C5%A1ovce"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"44c2742dc745f93595e8299e43dd6e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633769,
+            "locality_id":1209414283
+        }
+    ],
+    "wof:id":1209414283,
+    "wof:lastmodified":1537700356,
+    "wof:name":"Ondrasovce",
+    "wof:parent_id":85633769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07776,
+    48.98837,
+    21.07776,
+    48.98837
+],
+  "geometry": {"coordinates":[21.07776,48.98837],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226147203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59163,48.54927,19.59163,48.54927",
+    "geom:latitude":48.54927,
+    "geom:longitude":19.59163,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cechanky",
+    "gn:country_code":"SK",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060805,
+    "gn:latitude":48.54927,
+    "gn:longitude":19.59163,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u010cechanky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060805
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"cce40479c83d2ba02137527c29fbae69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080507,
+            "locality_id":1226147203,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226147203,
+    "wof:lastmodified":1537072479,
+    "wof:name":"Cechanky",
+    "wof:parent_id":102080507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59163,
+    48.54927,
+    19.59163,
+    48.54927
+],
+  "geometry": {"coordinates":[19.59163,48.54927],"type":"Point"}
+}

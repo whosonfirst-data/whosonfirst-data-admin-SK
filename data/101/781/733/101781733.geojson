@@ -1,0 +1,141 @@
+{
+  "id": 101781733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":677925.346149,
+    "geom:bbox":"18.0569455691,48.8262710823,18.0679325948,48.8422439823",
+    "geom:latitude":48.834202,
+    "geom:longitude":18.061851,
+    "iso:country":"SK",
+    "lbl:latitude":48.83425,
+    "lbl:longitude":18.061935,
+    "mps:latitude":48.83425,
+    "mps:longitude":18.061935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:ces_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:cze_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:deu_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:dut_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:eng_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:epo_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:fra_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:fre_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:ger_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:hbs_x_preferred":[
+        "Mnjihova Ljehota"
+    ],
+    "name:hun_x_preferred":[
+        "Bar\u00e1tszabadi"
+    ],
+    "name:ita_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:may_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:msa_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:nan_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:nld_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:slo_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u045a\u0438\u0445\u043e\u0432\u0430 \u0409\u0435\u0445\u043e\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mnichova Lehota"
+    ],
+    "name:war_x_preferred":[
+        "Mn\u00edchova Lehota"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trenc\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Mn\u00edchova Lehota",
+    "qs:la_lc":"*SK229506231",
+    "qs:level":"locality",
+    "qs:loc":"Mn\u00edchova Lehota",
+    "qs:loc_alt":"Mnichova Lehota",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058678,
+        "gp:id":821060,
+        "qs:id":915241,
+        "wd:id":"Q791130",
+        "wk:page":"Mn\u00edchova Lehota"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3137daa08e860dfa2d8a8961ddbadf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":101781733,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781733,
+    "wof:lastmodified":1527715628,
+    "wof:name":"Mn\u00edchova Lehota",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05694556905047,
+    48.82627108231242,
+    18.06793259475694,
+    48.84224398234244
+],
+  "geometry": {"coordinates":[[[18.06793259475694,48.83699101477413],[18.06764085420735,48.83520436526192],[18.06628575131009,48.8353027028167],[18.06599408528723,48.83351604686641],[18.06463902549058,48.83361436389595],[18.06391009644187,48.82914770350487],[18.06526503627475,48.82904939667037],[18.06511924636237,48.82815606486167],[18.06647415731572,48.82805774362163],[18.06618254940247,48.82627108231242],[18.06076306815839,48.82666425230002],[18.06134592667809,48.83023760517477],[18.05999094818799,48.83033586471339],[18.06013665539052,48.83122920349592],[18.05878164802004,48.83132744862706],[18.0592187374013,48.83400746755171],[18.05786365315697,48.83410570234963],[18.0583007301787,48.83678572208447],[18.05694556905047,48.83688394654803],[18.05781975799817,48.84224398234244],[18.06053036341103,48.84204749251199],[18.06023884456408,48.8402608244217],[18.06159409192395,48.84016255890953],[18.06115679136462,48.83748255847217],[18.06793259475694,48.83699101477413]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276979277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9439,49.03963,20.9439,49.03963",
+    "geom:latitude":49.03963,
+    "geom:longitude":20.9439,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sindliar",
+    "gn:country_code":"SK",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723615,
+    "gn:latitude":49.03963,
+    "gn:longitude":20.9439,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0160indliar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160inglar",
+        "\u0160indliar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723615,
+        "wk:page":"%C5%A0indliar"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d131d1f2b003d05271b33485faa1d69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080591,
+            "locality_id":1276979277,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1276979277,
+    "wof:lastmodified":1537700350,
+    "wof:name":"Sindliar",
+    "wof:parent_id":102080591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9439,
+    49.03963,
+    20.9439,
+    49.03963
+],
+  "geometry": {"coordinates":[20.9439,49.03963],"type":"Point"}
+}

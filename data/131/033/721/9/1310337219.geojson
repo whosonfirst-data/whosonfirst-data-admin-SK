@@ -1,0 +1,71 @@
+{
+  "id": 1310337219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68502,49.00316,20.68502,49.00316",
+    "geom:latitude":49.00316,
+    "geom:longitude":20.68502,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nemesany",
+    "gn:country_code":"SK",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724074,
+    "gn:latitude":49.00316,
+    "gn:longitude":20.68502,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Neme\u0161any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neme\u0161any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724074,
+        "wk:page":"Neme%C5%A1any"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"d242e6f8382cbacaa9485ffa24a89d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080579,
+            "locality_id":1310337219,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1310337219,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Nemesany",
+    "wof:parent_id":102080579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68502,
+    49.00316,
+    20.68502,
+    49.00316
+],
+  "geometry": {"coordinates":[20.68502,49.00316],"type":"Point"}
+}

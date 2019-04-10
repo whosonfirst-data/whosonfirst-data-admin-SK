@@ -1,0 +1,72 @@
+{
+  "id": 1292927071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56378,48.51927,17.56378,48.51927",
+    "geom:latitude":48.51927,
+    "geom:longitude":17.56378,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Horne Dubove",
+    "gn:country_code":"SK",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060003,
+    "gn:latitude":48.51927,
+    "gn:longitude":17.56378,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horn\u00e9 Dubov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hornie Dubov\u00e9",
+        "Horn\u00e9 Dubov\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060003,
+        "wk:page":"Horn%C3%A9_Dubov%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"34c0611a5f42520f953910945dff717c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":1292927071,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1292927071,
+    "wof:lastmodified":1537700422,
+    "wof:name":"Horne Dubove",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56378,
+    48.51927,
+    17.56378,
+    48.51927
+],
+  "geometry": {"coordinates":[17.56378,48.51927],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327351225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38609,48.7996,19.38609,48.7996",
+    "geom:latitude":48.7996,
+    "geom:longitude":19.38609,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"601.0",
+    "gn:asciiname":"Svaty Ondrej nad Hronom",
+    "gn:country_code":"SK",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057295,
+    "gn:latitude":48.7996,
+    "gn:longitude":19.38609,
+    "gn:modification_date":"2016-09-15",
+    "gn:name":"Sv\u00e4t\u00fd Ondrej nad Hronom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sv\u00e4t\u00fd Ondrej",
+        "Sv\u00e4t\u00fd Ondrej nad Hronom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057295
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"459854080fd589c5cf52265d84906b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":1327351225,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1327351225,
+    "wof:lastmodified":1537700386,
+    "wof:name":"Svaty Ondrej nad Hronom",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38609,
+    48.7996,
+    19.38609,
+    48.7996
+],
+  "geometry": {"coordinates":[19.38609,48.7996],"type":"Point"}
+}

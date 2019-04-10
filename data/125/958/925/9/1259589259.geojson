@@ -1,0 +1,68 @@
+{
+  "id": 1259589259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88124,48.65007,17.88124,48.65007",
+    "geom:latitude":48.65007,
+    "geom:longitude":17.88124,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Modrovka",
+    "gn:country_code":"SK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058658,
+    "gn:latitude":48.65007,
+    "gn:longitude":17.88124,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Modrovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058658,
+        "wk:page":"Modrovka"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"139e4afd07188969a8019bbac762b0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":1259589259,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":1259589259,
+    "wof:lastmodified":1537573597,
+    "wof:name":"Modrovka",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88124,
+    48.65007,
+    17.88124,
+    48.65007
+],
+  "geometry": {"coordinates":[17.88124,48.65007],"type":"Point"}
+}

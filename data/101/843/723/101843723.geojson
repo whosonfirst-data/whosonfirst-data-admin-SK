@@ -1,0 +1,139 @@
+{
+  "id": 101843723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":827607.252019,
+    "geom:bbox":"17.4141338422,48.1131070136,17.4284470887,48.12599235",
+    "geom:latitude":48.11943,
+    "geom:longitude":17.420812,
+    "iso:country":"SK",
+    "lbl:latitude":48.120045,
+    "lbl:longitude":17.41951,
+    "mps:latitude":48.120045,
+    "mps:longitude":17.41951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:deu_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:dut_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:eng_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:epo_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:fra_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:fre_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:ger_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:hbs_x_preferred":[
+        "Zlatje Klasi"
+    ],
+    "name:hun_x_preferred":[
+        "Nagymagyar"
+    ],
+    "name:ita_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30e9\u30c6\u30fc\u30fb\u30af\u30e9\u30b7"
+    ],
+    "name:may_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:msa_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:nan_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:nld_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:por_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:slo_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0458\u0435 \u041a\u043b\u0430\u0441\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:war_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Dunajsk\u00e1 Streda",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Zlat\u00e9 Klasy",
+    "qs:la_lc":"*SK211502022",
+    "qs:level":"locality",
+    "qs:loc":"Zlat\u00e9 Klasy",
+    "qs:loc_alt":"Zlate Klasy",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":823396,
+        "qs:id":910027,
+        "wd:id":"Q207221"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"8fd305efb67631d936089ee08b4e940a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":101843723,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101843723,
+    "wof:lastmodified":1527642595,
+    "wof:name":"Zlat\u00e9 Klasy",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41413384219493,
+    48.11310701360463,
+    17.42844708872479,
+    48.12599235004518
+],
+  "geometry": {"coordinates":[[[17.42160703753677,48.12590206291145],[17.42147570790945,48.12500748331621],[17.42281287235795,48.12491718180945],[17.42268152536707,48.12402260346329],[17.42535579477686,48.12384195549578],[17.42522440717545,48.12294738023604],[17.42656151213731,48.12285703377648],[17.42643010717768,48.12196245976645],[17.42776718456213,48.12187209893614],[17.42763576224627,48.12097752617592],[17.42362458684715,48.12124855453249],[17.42309923542985,48.11767023557383],[17.42844708872479,48.11730886140771],[17.42831567262067,48.11641428754632],[17.42697873903109,48.11650465356001],[17.42684735205796,48.11561007727352],[17.4255104373803,48.1157004252446],[17.42524772758009,48.11391126723476],[17.42391085505415,48.11400159532747],[17.42377953222314,48.11310701360463],[17.42110582067107,48.11328761750326],[17.42123709702514,48.11418220289761],[17.41856332169743,48.11436274564693],[17.41869455745569,48.11525733412401],[17.41735764006643,48.11534758302531],[17.41748885846562,48.11624217274976],[17.41615191351173,48.11633240727963],[17.41628311455042,48.11722699825145],[17.4149461420314,48.11731721840937],[17.41547091201994,48.1208955837634],[17.41413384219493,48.12098579505113],[17.41426502614752,48.12188038675652],[17.41560211922075,48.12179017363457],[17.41586455126946,48.12357935161651],[17.41720168651909,48.12348911861659],[17.41733293461914,48.12438370489258],[17.41867008879535,48.12429345384879],[17.41880136603169,48.12518803770257],[17.42013853913409,48.12509776861401],[17.42026984550876,48.12599235004518],[17.42160703753677,48.12590206291145]]],"type":"Polygon"}
+}

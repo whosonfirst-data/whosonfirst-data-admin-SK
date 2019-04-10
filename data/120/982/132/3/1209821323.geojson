@@ -1,0 +1,67 @@
+{
+  "id": 1209821323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30494,48.32167,18.30494,48.32167",
+    "geom:latitude":48.32167,
+    "geom:longitude":18.30494,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Male Chrast'any",
+    "gn:country_code":"SK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058863,
+    "gn:latitude":48.32167,
+    "gn:longitude":18.30494,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mal\u00e9 Chra\u0161\u0165any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058863
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"16b4c640f6646c5acef4646b8bc9f953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":1209821323,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1209821323,
+    "wof:lastmodified":1536378405,
+    "wof:name":"Male Chrast'any",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30494,
+    48.32167000000001,
+    18.30494,
+    48.32167000000001
+],
+  "geometry": {"coordinates":[18.30494,48.32167000000001],"type":"Point"}
+}

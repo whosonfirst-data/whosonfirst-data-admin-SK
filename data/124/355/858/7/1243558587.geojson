@@ -1,0 +1,71 @@
+{
+  "id": 1243558587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6554,48.64929,19.6554,48.64929",
+    "geom:latitude":48.64929,
+    "geom:longitude":19.6554,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drabsko",
+    "gn:country_code":"SK",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060375,
+    "gn:latitude":48.64929,
+    "gn:longitude":19.6554,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dr\u00e1bsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr\u00e1bsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060375,
+        "wk:page":"Dr%C3%A1bsko"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0653c542e0b8585f6711016cbcae5715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080545,
+            "locality_id":1243558587,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1243558587,
+    "wof:lastmodified":1537700427,
+    "wof:name":"Drabsko",
+    "wof:parent_id":102080545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6554,
+    48.64929,
+    19.6554,
+    48.64929
+],
+  "geometry": {"coordinates":[19.6554,48.64929],"type":"Point"}
+}

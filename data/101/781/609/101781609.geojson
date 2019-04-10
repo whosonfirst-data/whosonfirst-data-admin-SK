@@ -1,0 +1,150 @@
+{
+  "id": 101781609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":488511.063815,
+    "geom:bbox":"17.7301548007,48.7780282427,17.7427200389,48.7904968619",
+    "geom:latitude":48.784143,
+    "geom:longitude":17.736943,
+    "iso:country":"SK",
+    "lbl:latitude":48.783536,
+    "lbl:longitude":17.737038,
+    "mps:latitude":48.783536,
+    "mps:longitude":17.737038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lubina"
+    ],
+    "name:ces_x_preferred":[
+        "Lubina"
+    ],
+    "name:cze_x_preferred":[
+        "Lubina"
+    ],
+    "name:deu_x_preferred":[
+        "Lubina"
+    ],
+    "name:dut_x_preferred":[
+        "Lubina"
+    ],
+    "name:eng_x_preferred":[
+        "Lubina"
+    ],
+    "name:epo_x_preferred":[
+        "Lubina"
+    ],
+    "name:fra_x_preferred":[
+        "Lubina"
+    ],
+    "name:fre_x_preferred":[
+        "Lubina"
+    ],
+    "name:ger_x_preferred":[
+        "Lubina"
+    ],
+    "name:hbs_x_preferred":[
+        "Lubina"
+    ],
+    "name:hun_x_preferred":[
+        "Lobonya"
+    ],
+    "name:ita_x_preferred":[
+        "Lubina"
+    ],
+    "name:may_x_preferred":[
+        "Lubina"
+    ],
+    "name:msa_x_preferred":[
+        "Lubina"
+    ],
+    "name:nan_x_preferred":[
+        "Lubina"
+    ],
+    "name:nld_x_preferred":[
+        "Lubina"
+    ],
+    "name:pol_x_preferred":[
+        "Lubina"
+    ],
+    "name:slk_x_preferred":[
+        "Lubina"
+    ],
+    "name:slo_x_preferred":[
+        "Lubina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0431\u0438\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Lubina"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Lubina"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trenciansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Nov\u00e9 Mesto nad V\u00e1hom",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Bzince pod Javorinou",
+    "qs:la_lc":"*SK224505897",
+    "qs:level":"locality",
+    "qs:loc":"Lubina",
+    "qs:loc_alt":"Lubina",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688339,
+        102080521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058999,
+        "gp:id":24929112,
+        "qs:id":356694,
+        "qs_pg:id":356694,
+        "wd:id":"Q368230",
+        "wk:page":"Lubina"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"6826e829c6faa13785a85a0ccb65e088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080521,
+            "locality_id":101781609,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":101781609,
+    "wof:lastmodified":1553815497,
+    "wof:name":"Lubina",
+    "wof:parent_id":102080521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73015480069773,
+    48.77802824271606,
+    17.74272003894157,
+    48.79049686190297
+],
+  "geometry": {"coordinates":[[[17.74272003894157,48.78240306620262],[17.7424404990204,48.78061539391649],[17.7410863531739,48.78070976129601],[17.74066716287263,48.77802824271606],[17.737959001018,48.77821691642828],[17.73809867680808,48.7791107604354],[17.73674456487845,48.77920507458691],[17.73702388753787,48.78099276479543],[17.7356697229622,48.78108706641507],[17.73580936982904,48.78198091261675],[17.73445517658865,48.78207519974973],[17.73473444139125,48.78386289434741],[17.73338019549823,48.7839571689467],[17.73393870530907,48.78753255910772],[17.73258435877653,48.78762682507892],[17.73272397810382,48.78852067314648],[17.7313696028977,48.78861492462812],[17.73150920457761,48.7895087740784],[17.73015480069773,48.78960301106997],[17.73029438472827,48.79049686190297],[17.73571206814393,48.79011980746213],[17.73543271447289,48.7883321208538],[17.73678707563442,48.78823782004309],[17.73664738433024,48.78734397783728],[17.73800171681762,48.78724966253844],[17.7377223052768,48.78546198032359],[17.73907658510109,48.78536765249163],[17.73893686486764,48.78447381248247],[17.74029111602027,48.78437947016386],[17.74015137815047,48.78348563153867],[17.74150560063271,48.78339127473402],[17.74136584512866,48.78249743749262],[17.74272003894157,48.78240306620262]]],"type":"Polygon"}
+}

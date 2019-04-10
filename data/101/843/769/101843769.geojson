@@ -1,0 +1,144 @@
+{
+  "id": 101843769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1645155.367697,
+    "geom:bbox":"18.2744218226,48.3339839792,18.3078103043,48.348795346",
+    "geom:latitude":48.34155,
+    "geom:longitude":18.291214,
+    "iso:country":"SK",
+    "lbl:latitude":48.343838,
+    "lbl:longitude":18.289692,
+    "mps:latitude":48.343838,
+    "mps:longitude":18.289692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Beladice"
+    ],
+    "name:ces_x_preferred":[
+        "Beladice"
+    ],
+    "name:cze_x_preferred":[
+        "Beladice"
+    ],
+    "name:deu_x_preferred":[
+        "Beladice"
+    ],
+    "name:dut_x_preferred":[
+        "Beladice"
+    ],
+    "name:eng_x_preferred":[
+        "Beladice"
+    ],
+    "name:epo_x_preferred":[
+        "Beladice"
+    ],
+    "name:fra_x_preferred":[
+        "Beladice"
+    ],
+    "name:fre_x_preferred":[
+        "Beladice"
+    ],
+    "name:ger_x_preferred":[
+        "Beladice"
+    ],
+    "name:hbs_x_preferred":[
+        "Beladice"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9l\u00e1d"
+    ],
+    "name:ita_x_preferred":[
+        "Beladice"
+    ],
+    "name:may_x_preferred":[
+        "Beladice"
+    ],
+    "name:msa_x_preferred":[
+        "Beladice"
+    ],
+    "name:nan_x_preferred":[
+        "Beladice"
+    ],
+    "name:nld_x_preferred":[
+        "Beladice"
+    ],
+    "name:slk_x_preferred":[
+        "Beladice"
+    ],
+    "name:slo_x_preferred":[
+        "Beladice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0434\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Beladice"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Beladice"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Nitriansky kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Zlat\u00e9 Moravce",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Beladice",
+    "qs:la_lc":"*SK237500062",
+    "qs:level":"locality",
+    "qs:loc":"Beladice",
+    "qs:loc_alt":"Beladice",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061144,
+        "gp:id":818555,
+        "qs:id":939885,
+        "wd:id":"Q782570",
+        "wk:page":"Beladice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"dd40434e12f5b72c976805c1a3cbf309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "locality_id":101843769,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":101843769,
+    "wof:lastmodified":1527642596,
+    "wof:name":"Beladice",
+    "wof:parent_id":102080485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27442182257738,
+    48.33398397922815,
+    18.30781030431535,
+    48.34879534603425
+],
+  "geometry": {"coordinates":[[[18.28931288635016,48.34869446160207],[18.28916524309415,48.34780127214776],[18.29050691962152,48.34770037352268],[18.29035925962796,48.34680718550084],[18.29170090788944,48.34670627268332],[18.29155323116026,48.3458130860941],[18.29289485115618,48.34571215908494],[18.29274715769355,48.34481897392817],[18.29408874942533,48.34471803272811],[18.29394103923119,48.34382484900414],[18.30064880767054,48.34331990951677],[18.30020536637375,48.34064038552117],[18.30691266195311,48.34013507068886],[18.30646892997999,48.33745557199256],[18.30781030431535,48.33735446646949],[18.3073665621182,48.33467496828473],[18.30468394873202,48.33487715068514],[18.30453609469191,48.33398397922815],[18.30051220800851,48.33428712475978],[18.30080778256354,48.33607347943109],[18.29678371169149,48.3363764910975],[18.29663599118294,48.33548330788568],[18.29395329955605,48.33568523028322],[18.29454403452314,48.33925797585016],[18.29320258791245,48.3393589209245],[18.29335026489099,48.34025210780186],[18.29200879002326,48.34035303868683],[18.29215645027318,48.3412462269963],[18.28544888579512,48.34175064794186],[18.2851538056488,48.33996425007365],[18.28247083916074,48.34016589643704],[18.28232335578303,48.33927269243668],[18.2796404165141,48.33947426966876],[18.27978785314838,48.34036747778919],[18.27442182257738,48.34077044545677],[18.2751586377185,48.34523651779665],[18.27650026955848,48.34513578996558],[18.2767950887789,48.34692221037807],[18.27813676249872,48.34682146217347],[18.27828420543693,48.34771466937605],[18.28633428552337,48.34710982642343],[18.28648187537908,48.34800302063201],[18.28782356167983,48.34790215451761],[18.2879711815558,48.34879534603425],[18.28931288635016,48.34869446160207]],[[18.28201424793065,48.34562591837562],[18.28157176841029,48.34294630964177],[18.28559643582258,48.34264384593064],[18.28603912572885,48.3453234361163],[18.28201424793065,48.34562591837562]]],"type":"Polygon"}
+}

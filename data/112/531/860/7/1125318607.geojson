@@ -1,0 +1,82 @@
+{
+  "id": 1125318607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.400661,48.3898805,18.400661,48.3898805",
+    "geom:latitude":48.38988,
+    "geom:longitude":18.400661,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":48.38988,
+    "lbl:longitude":18.400661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zlate Moravce",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Nitriansky",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":200,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":210268,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401189,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Nitriansky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29401189,
+        "qs_pg:id":210268
+    },
+    "wof:country":"SK",
+    "wof:created":1497044399,
+    "wof:geomhash":"ecbda1a9de797bd74f95af1c112ebd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080485,
+            "localadmin_id":1125318607,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1125318607,
+    "wof:lastmodified":1509388066,
+    "wof:name":"Zlate Moravce",
+    "wof:parent_id":102080485,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.400661,
+    48.3898805,
+    18.400661,
+    48.3898805
+],
+  "geometry": {"coordinates":[18.400661,48.3898805],"type":"Point"}
+}

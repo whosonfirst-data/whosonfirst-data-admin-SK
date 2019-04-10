@@ -1,0 +1,68 @@
+{
+  "id": 1193151047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44692,48.1366,19.44692,48.1366",
+    "geom:latitude":48.1366,
+    "geom:longitude":19.44692,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zombor",
+    "gn:country_code":"SK",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056476,
+    "gn:latitude":48.1366,
+    "gn:longitude":19.44692,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Zombor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056476,
+        "wk:page":"Zombor%2C_Ve%C4%BEk%C3%BD_Krt%C3%AD%C5%A1_District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"865ee043a70f96dd0d56f4b34cf47db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":1193151047,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1193151047,
+    "wof:lastmodified":1537573586,
+    "wof:name":"Zombor",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44692,
+    48.1366,
+    19.44692,
+    48.1366
+],
+  "geometry": {"coordinates":[19.44692,48.1366],"type":"Point"}
+}

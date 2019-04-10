@@ -1,0 +1,157 @@
+{
+  "id": 101782739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1435725.716356,
+    "geom:bbox":"17.5350731364,48.4754862409,17.5687289652,48.4895027178",
+    "geom:latitude":48.482372,
+    "geom:longitude":17.550289,
+    "iso:country":"SK",
+    "lbl:latitude":48.482159,
+    "lbl:longitude":17.550289,
+    "mps:latitude":48.482159,
+    "mps:longitude":17.550289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3korompa"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30ca\u30fc\u30fb\u30af\u30eb\u30d1\u30fc"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:rum_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Dolna Krupa"
+    ],
+    "name:unk_x_variant":[
+        "Doln\u00ed Krup\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Doln\u00e1 Krup\u00e1"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Trnava",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Doln\u00e1 Krup\u00e1",
+    "qs:la_lc":"*SK217506923",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00e1 Krup\u00e1",
+    "qs:loc_alt":"Dolna Krupa",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070d0bb6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3060506,
+        "gp:id":819164,
+        "qs:id":1013283,
+        "qs_pg:id":1013283,
+        "wd:id":"Q664969",
+        "wk:page":"Doln\u00e1 Krup\u00e1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"eda49f330af42804ba173adeae727732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080489,
+            "locality_id":101782739,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101782739,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527688315,
+    "wof:name":"Doln\u00e1 Krup\u00e1",
+    "wof:parent_id":102080489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53507313638659,
+    48.47548624093525,
+    17.5687289651583,
+    48.48950271779762
+],
+  "geometry": {"coordinates":[[[17.55782929909918,48.48525747956802],[17.55715332517684,48.4807863301337],[17.55984605899835,48.48060221991898],[17.55971083523372,48.47970799208656],[17.56240350376896,48.4795238203161],[17.56226823881684,48.47862959569073],[17.56496084206424,48.47844536236789],[17.56482553592889,48.47755114095065],[17.56751807388696,48.4773668460785],[17.56738272657424,48.47647262787001],[17.5687289651583,48.47638045782742],[17.56859360031507,48.47548624093525],[17.56590116593156,48.47567056090179],[17.56603648348926,48.47656478157995],[17.56334398382069,48.47674904000053],[17.56347926020027,48.47764326388659],[17.55944040602583,48.47791953469334],[17.55917000124384,48.47613107499478],[17.55513124847664,48.4764071874539],[17.55526637687876,48.47730142326287],[17.54449598266888,48.47803701958821],[17.54530574603365,48.48340251302125],[17.53991987354436,48.48376996445091],[17.53978499236325,48.48287570943421],[17.53843853667871,48.4829675295635],[17.53870825782087,48.48475604279537],[17.53736175033794,48.48484785036067],[17.53776630676521,48.48753062155856],[17.53507313638659,48.48771419899288],[17.53534277648316,48.48950271779762],[17.5366894112401,48.48941093347753],[17.53655456448359,48.48851667624837],[17.54732729168774,48.48778182859331],[17.54719226173859,48.48688758588924],[17.55527147655857,48.48633577529114],[17.55513631076496,48.48544154334968],[17.55782929909918,48.48525747956802]]],"type":"Polygon"}
+}

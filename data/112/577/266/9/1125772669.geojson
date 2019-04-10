@@ -1,0 +1,82 @@
+{
+  "id": 1125772669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.229434,49.175194,20.229434,49.175194",
+    "geom:latitude":49.175194,
+    "geom:longitude":20.229434,
+    "gn:gn_country":null,
+    "iso:country":"SK",
+    "lbl:latitude":49.175194,
+    "lbl:longitude":20.229434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tatranska Lesna",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":190246,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29402929,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29402929,
+        "qs_pg:id":190246
+    },
+    "wof:country":"SK",
+    "wof:created":1497290124,
+    "wof:geomhash":"c616a58cc1c6bab9ff76aeaeb24064d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125772669,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125772669,
+    "wof:lastmodified":1509391083,
+    "wof:name":"Tatranska Lesna",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.229434,
+    49.175194,
+    20.229434,
+    49.175194
+],
+  "geometry": {"coordinates":[20.229434,49.175194],"type":"Point"}
+}

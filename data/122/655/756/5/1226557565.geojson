@@ -1,0 +1,68 @@
+{
+  "id": 1226557565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65615,48.25962,19.65615,48.25962",
+    "geom:latitude":48.25962,
+    "geom:longitude":19.65615,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kalonda",
+    "gn:country_code":"SK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3059597,
+    "gn:latitude":48.25962,
+    "gn:longitude":19.65615,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalonda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059597,
+        "wk:page":"Kalonda"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b7d50a5fcb467d7db8577866e57134fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080497,
+            "locality_id":1226557565,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1226557565,
+    "wof:lastmodified":1537573603,
+    "wof:name":"Kalonda",
+    "wof:parent_id":102080497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65615,
+    48.25962,
+    19.65615,
+    48.25962
+],
+  "geometry": {"coordinates":[19.65615,48.25962],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310113419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8166,48.84221,21.8166,48.84221",
+    "geom:latitude":48.84221,
+    "geom:longitude":21.8166,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Puste Cemerne",
+    "gn:country_code":"SK",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723797,
+    "gn:latitude":48.84221,
+    "gn:longitude":21.8166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pust\u00e9 \u010cemern\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pust\u00e9 \u010cemern\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723797,
+        "wk:page":"Pust%C3%A9_%C4%8Cemern%C3%A9"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0160d158d135ea9d6910bf710d99bc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1310113419,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1310113419,
+    "wof:lastmodified":1537700353,
+    "wof:name":"Puste Cemerne",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8166,
+    48.84221,
+    21.8166,
+    48.84221
+],
+  "geometry": {"coordinates":[21.8166,48.84221],"type":"Point"}
+}

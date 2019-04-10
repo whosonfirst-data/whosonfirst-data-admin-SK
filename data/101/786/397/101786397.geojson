@@ -1,0 +1,144 @@
+{
+  "id": 101786397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":2014223.283406,
+    "geom:bbox":"17.7914710614,48.0060926965,17.8165375247,48.0230401361",
+    "geom:latitude":48.015576,
+    "geom:longitude":17.804429,
+    "iso:country":"SK",
+    "lbl:latitude":48.015039,
+    "lbl:longitude":17.805284,
+    "mps:latitude":48.015039,
+    "mps:longitude":17.805284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Trstice"
+    ],
+    "name:cze_x_preferred":[
+        "Trstice"
+    ],
+    "name:deu_x_preferred":[
+        "Trstice"
+    ],
+    "name:dut_x_preferred":[
+        "Trstice"
+    ],
+    "name:eng_x_preferred":[
+        "Trstice"
+    ],
+    "name:epo_x_preferred":[
+        "Trstice"
+    ],
+    "name:fra_x_preferred":[
+        "Trstice"
+    ],
+    "name:fre_x_preferred":[
+        "Trstice"
+    ],
+    "name:ger_x_preferred":[
+        "Trstice"
+    ],
+    "name:hbs_x_preferred":[
+        "Trstice"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1dszeg"
+    ],
+    "name:ita_x_preferred":[
+        "Trstice"
+    ],
+    "name:may_x_preferred":[
+        "Trstice"
+    ],
+    "name:msa_x_preferred":[
+        "Trstice"
+    ],
+    "name:nan_x_preferred":[
+        "Trstice"
+    ],
+    "name:nld_x_preferred":[
+        "Trstice"
+    ],
+    "name:slk_x_preferred":[
+        "Trstice"
+    ],
+    "name:slo_x_preferred":[
+        "Trstice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e1dszeg"
+    ],
+    "name:war_x_preferred":[
+        "Trstice"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Trstice"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Trhov\u00e1 Hradsk\u00e1",
+    "qs:la_lc":"*SK211555576",
+    "qs:level":"locality",
+    "qs:loc":"Trstice",
+    "qs:loc_alt":"Trstice",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":188,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057105,
+        "gp:id":822743,
+        "qs:id":940112,
+        "wd:id":"Q371415",
+        "wk:page":"Trstice"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a6f40b2d887665d962ac488504852782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101786397,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101786397,
+    "wof:lastmodified":1527715643,
+    "wof:name":"Trstice",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79147106140243,
+    48.00609269645679,
+    17.81653752472704,
+    48.02304013610166
+],
+  "geometry": {"coordinates":[[[17.80416364150085,48.02256579053528],[17.80402599005436,48.02167171436895],[17.81069539583439,48.02119697450144],[17.8105576351652,48.0203029073391],[17.8132253196639,48.02011290214904],[17.8128119361736,48.01743070851239],[17.81414570241986,48.01733568746005],[17.81400789717321,48.01644162360617],[17.81534163582444,48.01634658832484],[17.81520381366931,48.01545252577961],[17.81653752472704,48.0153574762698],[17.81626185276548,48.01356935317949],[17.81492818784142,48.01366439883799],[17.81465258665332,48.01187626942811],[17.8133189633345,48.01197129508336],[17.81304343290935,48.01018315935499],[17.81037626495515,48.01037315450935],[17.81023855510307,48.00947908187084],[17.80890498740609,48.00957405329621],[17.808491963959,48.00689182590725],[17.80715846092374,48.00698677541027],[17.80702082180619,48.00609269645679],[17.80435384829872,48.00628254316439],[17.80449144129813,48.00717662596333],[17.80182440360363,48.00736641191133],[17.80209951580701,48.00915458334748],[17.80076594406262,48.00924945593783],[17.80090348632393,48.01014354265305],[17.7995698870007,48.0102384010126],[17.79970741234541,48.01113248903312],[17.795706518092,48.01141697295952],[17.79584398038583,48.01231106612681],[17.79717763938419,48.01221625238367],[17.79759013234127,48.01489852242742],[17.79625640413752,48.01499334193329],[17.79653138403467,48.01678152272495],[17.795197605174,48.01687632991838],[17.79533508126957,48.01777042131147],[17.79400127482114,48.01786521427016],[17.79413873398875,48.01875930696855],[17.79147106140243,48.01894884825964],[17.79174590587053,48.02073703949139],[17.79307979057296,48.0206422730833],[17.79335470577433,48.02243045801305],[17.79735647126006,48.02214605032327],[17.79749400731708,48.02304013610166],[17.80416364150085,48.02256579053528]]],"type":"Polygon"}
+}

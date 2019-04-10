@@ -1,0 +1,71 @@
+{
+  "id": 1327356221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.369,49.13956,21.369,49.13956",
+    "geom:latitude":49.13956,
+    "geom:longitude":21.369,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lopuchov",
+    "gn:country_code":"SK",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724269,
+    "gn:latitude":49.13956,
+    "gn:longitude":21.369,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lop\u00fachov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lop\u00fachov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724269,
+        "wk:page":"Lop%C3%BAchov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"26079b65ce8796ac3843c6330a2c200f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":1327356221,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1327356221,
+    "wof:lastmodified":1537700361,
+    "wof:name":"Lopuchov",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.369,
+    49.13956,
+    21.369,
+    49.13956
+],
+  "geometry": {"coordinates":[21.369,49.13956],"type":"Point"}
+}

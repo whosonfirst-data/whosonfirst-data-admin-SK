@@ -1,0 +1,135 @@
+{
+  "id": 101785191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":797673.965088,
+    "geom:bbox":"17.5621462086,48.225442238,17.5815703432,48.2367271396",
+    "geom:latitude":48.231612,
+    "geom:longitude":17.572564,
+    "iso:country":"SK",
+    "lbl:latitude":48.232627,
+    "lbl:longitude":17.572416,
+    "mps:latitude":48.232627,
+    "mps:longitude":17.572416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:deu_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:dut_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:eng_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:epo_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:fra_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:fre_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:ger_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:hbs_x_preferred":[
+        "Pustje Uljani"
+    ],
+    "name:hun_x_preferred":[
+        "Pusztaf\u00f6d\u00e9mes"
+    ],
+    "name:ita_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:may_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:msa_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:nld_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:slk_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:slo_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0441\u0442\u0458\u0435 \u0423\u0459\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Pust\u00fd Fed\u00fdme\u0161"
+    ],
+    "name:war_x_preferred":[
+        "Pust\u00e9 \u00da\u013eany"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Galanta",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Pust\u00e9 \u00da\u013eany",
+    "qs:la_lc":"*SK212503975",
+    "qs:level":"locality",
+    "qs:loc":"Pust\u00e9 \u00da\u013eany",
+    "qs:loc_alt":"Puste Ulany",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057937,
+        "gp:id":821864,
+        "qs:id":1187632,
+        "wd:id":"Q1043571",
+        "wk:page":"Pust\u00e9 \u00da\u013eany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"ef29d6718f4390c072af3ed7dd5923ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080469,
+            "locality_id":101785191,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101785191,
+    "wof:lastmodified":1527677698,
+    "wof:name":"Pust\u00e9 \u00da\u013eany",
+    "wof:parent_id":102080469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5621462086483,
+    48.2254422380035,
+    17.58157034317242,
+    48.23672713961827
+],
+  "geometry": {"coordinates":[[[17.57326814551044,48.23663498084039],[17.57313368607237,48.23574066591198],[17.57447353489096,48.23564849277017],[17.57433905813554,48.23475417913153],[17.57567887915286,48.23466199162607],[17.57554438508237,48.23376767927732],[17.57688417829957,48.23367547740946],[17.57674966691565,48.23278116635066],[17.57808943233374,48.23268895012063],[17.57782038098719,48.23090032999255],[17.57916009525383,48.23080810128198],[17.5790255552937,48.22991379221287],[17.58036524176407,48.22982154914155],[17.58023068449739,48.22892724136261],[17.58157034317242,48.22883498393145],[17.58130120007456,48.22704637036321],[17.57996158809658,48.22713862403174],[17.5798270489621,48.22624431447986],[17.5784874558874,48.22633655002721],[17.57835294614222,48.2254422380035],[17.57701337197113,48.22553445543042],[17.57714785836936,48.22642876933463],[17.57580825640895,48.22652097240166],[17.57594272550062,48.22741528759514],[17.57460309575021,48.22750747630175],[17.57473754753346,48.22840179278427],[17.57205822800984,48.22858612523402],[17.572192639131,48.2294804448851],[17.56683385340261,48.22984892240379],[17.56696817715118,48.23074324897925],[17.56562844627013,48.23083532963204],[17.56589706516132,48.23262398476822],[17.5645572831329,48.23271605293434],[17.56482587944629,48.23450470946653],[17.5621462086483,48.23468880457887],[17.56228046913691,48.23558313571561],[17.56362033011391,48.23549109440381],[17.56375461999551,48.23638542307344],[17.56643437535786,48.23620128796216],[17.56630003875608,48.23530696304852],[17.57031956842911,48.23503064418628],[17.57045397510905,48.2359249634643],[17.57179383281152,48.23583282280993],[17.5719282688903,48.23672713961827],[17.57326814551044,48.23663498084039]]],"type":"Polygon"}
+}

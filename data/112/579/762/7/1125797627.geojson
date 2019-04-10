@@ -1,0 +1,126 @@
+{
+  "id": 1125797627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15698,48.85995,21.15698,48.85995",
+    "geom:latitude":48.85995,
+    "geom:longitude":21.15698,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.85995,
+    "lbl:longitude":21.15698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:dut_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyladna"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:may_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0430 \u041b\u043e\u0434\u0438\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:war_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":723275,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vel\u0315k\u00e1 Lodina",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Kosicky",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":337873,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822920,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Kosicky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723275,
+        "gp:id":822920,
+        "qs_pg:id":337873,
+        "wd:id":"Q1050248"
+    },
+    "wof:country":"SK",
+    "wof:created":1497291121,
+    "wof:geomhash":"c49b5b6b886ea6adb09181e677bb392d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080557,
+            "locality_id":1125797627,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1125797627,
+    "wof:lastmodified":1514505335,
+    "wof:name":"Vel\u0315k\u00e1 Lodina",
+    "wof:parent_id":102080557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15698,
+    48.85995,
+    21.15698,
+    48.85995
+],
+  "geometry": {"coordinates":[21.15698,48.85995],"type":"Point"}
+}

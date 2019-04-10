@@ -1,0 +1,130 @@
+{
+  "id": 1125823321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26762,48.65426,17.26762,48.65426",
+    "geom:latitude":48.65426,
+    "geom:longitude":17.26762,
+    "gn:gn_country":"SK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SK",
+    "lbl:latitude":48.65426,
+    "lbl:longitude":17.26762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:hun_x_preferred":[
+        "Sajdikhumenec"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:may_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:por_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0458\u0452\u0438\u043a\u043e\u0432\u0435 \u0425\u0443\u043c\u0435\u043d\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "name:war_x_preferred":[
+        "\u0160ajd\u00edkove Humence"
+    ],
+    "qs_pg:aaroncc":"SK",
+    "qs_pg:gn_country":"SK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3057770,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5 Ajd\u00edkov Humence",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Trnavsky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191032,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822079,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Trnavsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057770,
+        "gp:id":822079,
+        "qs_pg:id":191032,
+        "wd:id":"Q1077114"
+    },
+    "wof:country":"SK",
+    "wof:created":1497292167,
+    "wof:geomhash":"9a368fd33ba19f0f83f3b383aa256237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080505,
+            "locality_id":1125823321,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1125823321,
+    "wof:lastmodified":1514505371,
+    "wof:name":"\u00c5 Ajd\u00edkov Humence",
+    "wof:parent_id":102080505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26762,
+    48.65426,
+    17.26762,
+    48.65426
+],
+  "geometry": {"coordinates":[17.26762,48.65426],"type":"Point"}
+}

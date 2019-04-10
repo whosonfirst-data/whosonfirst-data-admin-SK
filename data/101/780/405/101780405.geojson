@@ -1,0 +1,144 @@
+{
+  "id": 101780405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":348901.409505,
+    "geom:bbox":"19.4375746943,49.2640212684,19.4534480866,49.2690208507",
+    "geom:latitude":49.266329,
+    "geom:longitude":19.445152,
+    "iso:country":"SK",
+    "lbl:latitude":49.266315,
+    "lbl:longitude":19.445032,
+    "mps:latitude":49.266315,
+    "mps:longitude":19.445032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:cat_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:ces_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:cze_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:deu_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:dut_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:eng_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:epo_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:fra_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:fre_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:ger_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:hun_x_preferred":[
+        "Dluha"
+    ],
+    "name:ita_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:may_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:msa_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:nan_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:nld_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:pol_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:slo_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043b\u0445\u0430 \u043d\u0430 \u041e\u0440\u0430\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dlh\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*\u017dilinsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Doln\u00fd Kub\u00edn",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Dlh\u00e1 nad Oravou",
+    "qs:la_lc":"*SK313509639",
+    "qs:level":"locality",
+    "qs:loc":"Dlh\u00e1 nad Oravou",
+    "qs:loc_alt":"Dlha nad Oravou",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060558,
+        "gp:id":819106,
+        "qs:id":966320,
+        "wd:id":"Q741528",
+        "wk:page":"Dlh\u00e1 nad Oravou"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9ec33b0d45caecca5a13858a6b8afc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080587,
+            "locality_id":101780405,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":101780405,
+    "wof:lastmodified":1527715875,
+    "wof:name":"Dlh\u00e1 nad Oravou",
+    "wof:parent_id":102080587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43757469427987,
+    49.26402126839082,
+    19.45344808656438,
+    49.26902085066416
+],
+  "geometry": {"coordinates":[[[19.44679882610893,49.26879037625463],[19.44662581592831,49.26789952836765],[19.45344808656438,49.26732306486508],[19.45327496289894,49.26643222839311],[19.45191054477147,49.26654755176816],[19.45173745331385,49.2656567122105],[19.44900864804163,49.26588730449049],[19.44866258602173,49.26410561370358],[19.43911192301266,49.26491213169055],[19.43893907384211,49.26402126839082],[19.43757469427987,49.2641364166517],[19.43792035197453,49.26591814741107],[19.43928478009917,49.26580299432294],[19.43945764510255,49.26669385628793],[19.44082209165737,49.26657868423985],[19.44116789398424,49.26836040133855],[19.44389686666761,49.26812999794601],[19.4440698282794,49.26902085066416],[19.44679882610893,49.26879037625463]]],"type":"Polygon"}
+}

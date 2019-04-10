@@ -1,0 +1,67 @@
+{
+  "id": 1210022619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0147,48.50051,18.0147,48.50051",
+    "geom:latitude":48.50051,
+    "geom:longitude":18.0147,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Obsolovce",
+    "gn:country_code":"SK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3058425,
+    "gn:latitude":48.50051,
+    "gn:longitude":18.0147,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Obsolovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3058425
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"5345652fd35656c1be0e439c341da0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080501,
+            "locality_id":1210022619,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1210022619,
+    "wof:lastmodified":1536392166,
+    "wof:name":"Obsolovce",
+    "wof:parent_id":102080501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0147,
+    48.50051,
+    18.0147,
+    48.50051
+],
+  "geometry": {"coordinates":[18.0147,48.50051],"type":"Point"}
+}

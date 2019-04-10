@@ -1,0 +1,71 @@
+{
+  "id": 1293496415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17963,48.1448,17.17963,48.1448",
+    "geom:latitude":48.1448,
+    "geom:longitude":17.17963,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Prievoz",
+    "gn:country_code":"SK",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057998,
+    "gn:latitude":48.1448,
+    "gn:longitude":17.17963,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prievoz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oberufer",
+        "Prievoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688373,
+        102080455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057998
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"342c13240eb992f57add375f4ee4eeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080455,
+            "locality_id":1293496415,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1293496415,
+    "wof:lastmodified":1537700395,
+    "wof:name":"Prievoz",
+    "wof:parent_id":102080455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17963,
+    48.1448,
+    17.17963,
+    48.1448
+],
+  "geometry": {"coordinates":[17.17963,48.1448],"type":"Point"}
+}

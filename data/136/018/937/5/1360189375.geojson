@@ -1,0 +1,71 @@
+{
+  "id": 1360189375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89704,49.23958,21.89704,49.23958",
+    "geom:latitude":49.23958,
+    "geom:longitude":21.89704,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Krasny Brod",
+    "gn:country_code":"SK",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724405,
+    "gn:latitude":49.23958,
+    "gn:longitude":21.89704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kr\u00e1sny Brod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u00e1sny Brod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724405,
+        "wk:page":"Kr%C3%A1sny_Brod"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b7ae8add4bd4ecd4214aae0288526675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080617,
+            "locality_id":1360189375,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1360189375,
+    "wof:lastmodified":1537700364,
+    "wof:name":"Krasny Brod",
+    "wof:parent_id":102080617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89704,
+    49.23958,
+    21.89704,
+    49.23958
+],
+  "geometry": {"coordinates":[21.89704,49.23958],"type":"Point"}
+}

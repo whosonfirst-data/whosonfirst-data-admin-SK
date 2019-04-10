@@ -1,0 +1,137 @@
+{
+  "id": 101782811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":977041.392179,
+    "geom:bbox":"17.2003181129,48.7217984709,17.2255898744,48.7314635057",
+    "geom:latitude":48.725289,
+    "geom:longitude":17.213642,
+    "iso:country":"SK",
+    "lbl:latitude":48.725711,
+    "lbl:longitude":17.212589,
+    "mps:latitude":48.725711,
+    "mps:longitude":17.212589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:cze_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:epo_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:hbs_x_preferred":[
+        "Unjin"
+    ],
+    "name:hun_x_preferred":[
+        "Nagy\u00fany"
+    ],
+    "name:ita_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:nan_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:slo_x_preferred":[
+        "Un\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u045a\u0438\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Un\u00edn"
+    ],
+    "qs:a0":"Slovensko",
+    "qs:a1":"*Trnavsk\u00fd kraj",
+    "qs:a1r":"0",
+    "qs:a2":"Skalica",
+    "qs:adm0":"Slovensko",
+    "qs:la":"Un\u00edn",
+    "qs:la_lc":"*SK216504939",
+    "qs:level":"locality",
+    "qs:loc":"Un\u00edn",
+    "qs:loc_alt":"Unin",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057023,
+        "gp:id":822836,
+        "qs:id":1271820,
+        "wd:id":"Q601372",
+        "wk:page":"Un\u00edn, Skalica District"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"45b67da757d2e1333dbf49f2104641b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080517,
+            "locality_id":101782811,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":101782811,
+    "wof:lastmodified":1553815498,
+    "wof:name":"Un\u00edn",
+    "wof:parent_id":102080517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20031811293842,
+    48.72179847094054,
+    17.22558987437765,
+    48.73146350571415
+],
+  "geometry": {"coordinates":[[[17.21502203826782,48.72941051414858],[17.21476193324105,48.72762129792113],[17.22288291525149,48.72709334269831],[17.22301310878817,48.72798794015347],[17.2243666145273,48.72789988825224],[17.22423639699525,48.72700529261982],[17.22558987437765,48.72691722610108],[17.22506896743323,48.72333884543838],[17.22371558601992,48.72342690466547],[17.2235853980626,48.7225323063206],[17.21546516198867,48.72306030553614],[17.21533512388248,48.72216569572004],[17.20721487496871,48.72269309221485],[17.20708498671138,48.72179847094054],[17.20031811293842,48.72223750685521],[17.2007074355156,48.72492139631697],[17.20612123114961,48.72457017865406],[17.20638100098125,48.7263594210483],[17.20773448700669,48.72627157189561],[17.20799432843688,48.7280608084867],[17.21070138342026,48.72788505358341],[17.21122132911739,48.73146350571415],[17.21392855868186,48.73128767048649],[17.2136684780196,48.72949845278453],[17.21502203826782,48.72941051414858]]],"type":"Polygon"}
+}

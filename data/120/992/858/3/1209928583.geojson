@@ -1,0 +1,71 @@
+{
+  "id": 1209928583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14254,48.73762,20.14254,48.73762",
+    "geom:latitude":48.73762,
+    "geom:longitude":20.14254,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muranska Zdychava",
+    "gn:country_code":"SK",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724090,
+    "gn:latitude":48.73762,
+    "gn:longitude":20.14254,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mur\u00e1nska Zdychava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mur\u00e1nska Zdychava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688355,
+        102080527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724090,
+        "wk:page":"Mur%C3%A1nska_Zdychava"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"252185221131bde6a58588935ff6aa9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080527,
+            "locality_id":1209928583,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":1209928583,
+    "wof:lastmodified":1537700358,
+    "wof:name":"Muranska Zdychava",
+    "wof:parent_id":102080527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14254,
+    48.73762,
+    20.14254,
+    48.73762
+],
+  "geometry": {"coordinates":[20.14254,48.73762],"type":"Point"}
+}

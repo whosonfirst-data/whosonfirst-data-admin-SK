@@ -1,0 +1,71 @@
+{
+  "id": 1242789275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,48.63333,21.81667,48.63333",
+    "geom:latitude":48.63333,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dargovik",
+    "gn:country_code":"SK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724913,
+    "gn:latitude":48.63333,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dargov\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor Dargov\u00edk",
+        "Dargov\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724913
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"78cfb81b59c24456795a277a40b08ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1242789275,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1242789275,
+    "wof:lastmodified":1537700372,
+    "wof:name":"Dargovik",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    48.63333,
+    21.81667,
+    48.63333
+],
+  "geometry": {"coordinates":[21.81667,48.63333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327119897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71762,49.31496,18.71762,49.31496",
+    "geom:latitude":49.31496,
+    "geom:longitude":18.71762,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rudinska",
+    "gn:country_code":"SK",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057805,
+    "gn:latitude":49.31496,
+    "gn:longitude":18.71762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rudinsk\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudinsk\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688349,
+        102080589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057805,
+        "wk:page":"Rudinsk%C3%A1"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"1d323cf9b2d54b4f5fd01e2787e3c202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080589,
+            "locality_id":1327119897,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":1327119897,
+    "wof:lastmodified":1537700393,
+    "wof:name":"Rudinska",
+    "wof:parent_id":102080589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71762,
+    49.31496,
+    18.71762,
+    49.31496
+],
+  "geometry": {"coordinates":[18.71762,49.31496],"type":"Point"}
+}

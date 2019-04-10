@@ -1,0 +1,72 @@
+{
+  "id": 1293687283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08907,48.27246,18.08907,48.27246",
+    "geom:latitude":48.27246,
+    "geom:longitude":18.08907,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dolne Krskany",
+    "gn:country_code":"SK",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3060463,
+    "gn:latitude":48.27246,
+    "gn:longitude":18.08907,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doln\u00e9 Kr\u0161kany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolnie Kr\u0161kany",
+        "Doln\u00ed Kr\u0161kany",
+        "Doln\u00e9 Kr\u0161kany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688365,
+        102080473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3060463
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"27b187d515e144c2123c48f3188d3071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":1293687283,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":1293687283,
+    "wof:lastmodified":1537700429,
+    "wof:name":"Dolne Krskany",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08907,
+    48.27246,
+    18.08907,
+    48.27246
+],
+  "geometry": {"coordinates":[18.08907,48.27246],"type":"Point"}
+}

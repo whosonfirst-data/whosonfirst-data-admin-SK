@@ -1,0 +1,71 @@
+{
+  "id": 1242976819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90594,48.49306,17.90594,48.49306",
+    "geom:latitude":48.49306,
+    "geom:longitude":17.90594,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tekold'any",
+    "gn:country_code":"SK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3057238,
+    "gn:latitude":48.49306,
+    "gn:longitude":17.90594,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tekol\u010fany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tekol\u010fany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688369,
+        102080481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3057238,
+        "wk:page":"Tekol%C4%8Fany"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"26558724da279ab7599b3c2949ca413c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080481,
+            "locality_id":1242976819,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":1242976819,
+    "wof:lastmodified":1537700386,
+    "wof:name":"Tekold'any",
+    "wof:parent_id":102080481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90594,
+    48.49306,
+    17.90594,
+    48.49306
+],
+  "geometry": {"coordinates":[17.90594,48.49306],"type":"Point"}
+}

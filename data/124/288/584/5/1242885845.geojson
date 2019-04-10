@@ -1,0 +1,71 @@
+{
+  "id": 1242885845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84433,48.61222,21.84433,48.61222",
+    "geom:latitude":48.61222,
+    "geom:longitude":21.84433,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kacanov",
+    "gn:country_code":"SK",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":724547,
+    "gn:latitude":48.61222,
+    "gn:longitude":21.84433,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ka\u010danov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
+    "iso:country":"SK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u010danov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688359,
+        102080563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724547,
+        "wk:page":"Ka%C4%8Danov"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"9acfaf9e8329a3dcc7deedca29027841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":1242885845,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":1242885845,
+    "wof:lastmodified":1537700366,
+    "wof:name":"Kacanov",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84433,
+    48.61222,
+    21.84433,
+    48.61222
+],
+  "geometry": {"coordinates":[21.84433,48.61222],"type":"Point"}
+}
