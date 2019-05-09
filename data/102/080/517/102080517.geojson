@@ -10,6 +10,12 @@
     "geom:latitude":48.77261,
     "geom:longitude":17.190626,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Skalica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.791641,
     "lbl:longitude":17.211266,
     "mps:latitude":48.791641,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080517,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717227,
     "wof:name":"Skalica",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

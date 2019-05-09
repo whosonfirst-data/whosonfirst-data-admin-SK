@@ -10,6 +10,12 @@
     "geom:latitude":48.617499,
     "geom:longitude":20.175813,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Rev\u00faca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.613775,
     "lbl:longitude":20.204582,
     "mps:latitude":48.613775,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080527,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717228,
     "wof:name":"Rev\u00faca",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

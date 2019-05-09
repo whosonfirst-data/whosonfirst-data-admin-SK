@@ -10,6 +10,12 @@
     "geom:latitude":48.937259,
     "geom:longitude":21.626508,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Vranov nad Toplou District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.919328,
     "lbl:longitude":21.622642,
     "mps:latitude":48.919328,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102080593,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717232,
     "wof:name":"Vranov nad Toplou",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

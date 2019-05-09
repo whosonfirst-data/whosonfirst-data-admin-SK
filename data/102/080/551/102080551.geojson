@@ -10,6 +10,12 @@
     "geom:latitude":48.533685,
     "geom:longitude":21.767125,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Trebi\u0161ov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.536174,
     "lbl:longitude":21.708607,
     "mps:latitude":48.536174,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080551,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717228,
     "wof:name":"Trebi\u0161ov",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

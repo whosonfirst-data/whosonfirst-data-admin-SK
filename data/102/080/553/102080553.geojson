@@ -10,6 +10,12 @@
     "geom:latitude":48.675491,
     "geom:longitude":20.458093,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ro\u017enava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.658795,
     "lbl:longitude":20.462998,
     "mps:latitude":48.658795,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080553,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717229,
     "wof:name":"Ro\u017enava",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

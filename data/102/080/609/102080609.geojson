@@ -10,6 +10,12 @@
     "geom:latitude":49.207159,
     "geom:longitude":20.425671,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ke\u017emarok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.162639,
     "lbl:longitude":20.479759,
     "mps:latitude":49.162639,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102080609,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Ke\u017emarok",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":48.493902,
     "geom:longitude":19.754219,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Polt\u00e1r District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.482999,
     "lbl:longitude":19.742424,
     "mps:latitude":48.482999,
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":102080513,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717227,
     "wof:name":"Polt\u00e1r",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

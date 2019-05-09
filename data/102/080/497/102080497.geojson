@@ -10,6 +10,12 @@
     "geom:latitude":48.339941,
     "geom:longitude":19.646532,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Lucenec District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.38456,
     "lbl:longitude":19.546378,
     "mps:latitude":48.38456,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102080497,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Lucenec",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

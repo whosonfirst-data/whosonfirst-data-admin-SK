@@ -10,6 +10,12 @@
     "geom:latitude":48.765507,
     "geom:longitude":21.206432,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ko\u0161ice I District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.76351,
     "lbl:longitude":21.192777,
     "mps:latitude":48.76351,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102080549,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717228,
     "wof:name":"Ko\u0161ice I",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

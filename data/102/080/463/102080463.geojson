@@ -10,6 +10,12 @@
     "geom:latitude":47.988013,
     "geom:longitude":18.361035,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Nov\u00e9 Z\u00e1mky District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.065882,
     "lbl:longitude":18.279547,
     "mps:latitude":48.065882,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":102080463,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Nov\u00e9 Z\u00e1mky",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

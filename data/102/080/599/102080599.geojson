@@ -10,6 +10,12 @@
     "geom:latitude":49.022429,
     "geom:longitude":22.290709,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Snina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.015021,
     "lbl:longitude":22.309791,
     "mps:latitude":49.015021,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080599,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Snina",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

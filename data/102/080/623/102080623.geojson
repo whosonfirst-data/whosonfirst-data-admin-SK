@@ -10,6 +10,12 @@
     "geom:latitude":49.291247,
     "geom:longitude":21.558739,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Svidn\u00edk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.329566,
     "lbl:longitude":21.555656,
     "mps:latitude":49.329566,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":102080623,
-    "wof:lastmodified":1536614453,
+    "wof:lastmodified":1553717232,
     "wof:name":"Svidn\u00edk",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

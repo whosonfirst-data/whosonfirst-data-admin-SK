@@ -10,6 +10,12 @@
     "geom:latitude":48.289945,
     "geom:longitude":19.021142,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Krupina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.316088,
     "lbl:longitude":19.042753,
     "mps:latitude":48.316088,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102080483,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Krupina",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

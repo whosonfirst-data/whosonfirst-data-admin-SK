@@ -10,6 +10,12 @@
     "geom:latitude":48.885345,
     "geom:longitude":18.049201,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Trenc\u00edn District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.890175,
     "lbl:longitude":18.028211,
     "mps:latitude":48.890175,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080541,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717231,
     "wof:name":"Trenc\u00edn",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.295813,
     "geom:longitude":20.693151,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Star\u00e1 Lubovna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.290812,
     "lbl:longitude":20.688466,
     "mps:latitude":49.290812,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":102080611,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717232,
     "wof:name":"Star\u00e1 Lubovna",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

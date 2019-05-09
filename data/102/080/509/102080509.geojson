@@ -10,6 +10,12 @@
     "geom:latitude":48.513827,
     "geom:longitude":19.185959,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Zvolen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.528305,
     "lbl:longitude":19.138868,
     "mps:latitude":48.528305,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080509,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717230,
     "wof:name":"Zvolen",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

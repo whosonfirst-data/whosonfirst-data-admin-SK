@@ -10,6 +10,12 @@
     "geom:latitude":48.689176,
     "geom:longitude":21.178802,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ko\u0161ice - okolie District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.648944,
     "lbl:longitude":21.003778,
     "mps:latitude":48.648944,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102080557,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717229,
     "wof:name":"Ko\u0161ice - okolie",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

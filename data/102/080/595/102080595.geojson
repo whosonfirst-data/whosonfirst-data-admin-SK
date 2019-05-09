@@ -10,6 +10,12 @@
     "geom:latitude":49.142659,
     "geom:longitude":20.966083,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Sabinov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.128649,
     "lbl:longitude":21.081278,
     "mps:latitude":49.128649,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102080595,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Sabinov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

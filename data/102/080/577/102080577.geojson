@@ -10,6 +10,12 @@
     "geom:latitude":49.055053,
     "geom:longitude":19.706875,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Liptovsk\u00fd Mikul\u00e1\u0161 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.058792,
     "lbl:longitude":19.706966,
     "mps:latitude":49.058792,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":102080577,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717230,
     "wof:name":"Liptovsk\u00fd Mikul\u00e1\u0161",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

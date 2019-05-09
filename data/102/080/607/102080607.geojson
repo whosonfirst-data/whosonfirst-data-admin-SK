@@ -10,6 +10,12 @@
     "geom:latitude":49.409532,
     "geom:longitude":18.784941,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Cadca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.436927,
     "lbl:longitude":18.848285,
     "mps:latitude":49.436927,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102080607,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Cadca",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

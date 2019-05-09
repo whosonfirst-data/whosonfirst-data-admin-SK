@@ -10,6 +10,12 @@
     "geom:latitude":48.851539,
     "geom:longitude":18.85861,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Turcianske Teplice District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.852651,
     "lbl:longitude":18.858688,
     "mps:latitude":48.852651,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080539,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717231,
     "wof:name":"Turcianske Teplice",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

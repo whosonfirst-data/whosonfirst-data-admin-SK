@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090452,
-    "geom:area_square_m":733286351.464037,
+    "geom:area_square_m":733286351.463995,
     "geom:bbox":"18.6333605,48.8766595,19.143692,49.2180925",
     "geom:latitude":49.032939,
     "geom:longitude":18.946496,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Martin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.04542,
     "lbl:longitude":18.950398,
     "mps:latitude":49.04542,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":102080569,
-    "wof:lastmodified":1553815972,
+    "wof:lastmodified":1555037709,
     "wof:name":"Martin",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

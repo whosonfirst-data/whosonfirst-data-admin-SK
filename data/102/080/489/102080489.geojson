@@ -10,6 +10,12 @@
     "geom:latitude":48.432342,
     "geom:longitude":17.543351,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Trnava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.446411,
     "lbl:longitude":17.546535,
     "mps:latitude":48.446411,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102080489,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717228,
     "wof:name":"Trnava",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

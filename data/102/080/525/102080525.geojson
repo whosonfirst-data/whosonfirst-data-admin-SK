@@ -10,6 +10,12 @@
     "geom:latitude":48.430516,
     "geom:longitude":20.040921,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Rimavsk\u00e1 Sobota District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.384827,
     "lbl:longitude":20.064566,
     "mps:latitude":48.384827,
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":102080525,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717228,
     "wof:name":"Rimavsk\u00e1 Sobota",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

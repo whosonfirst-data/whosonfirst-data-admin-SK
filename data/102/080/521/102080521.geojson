@@ -10,6 +10,12 @@
     "geom:latitude":48.756956,
     "geom:longitude":17.822331,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Nov\u00e9 Mesto nad V\u00e1hom District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.744407,
     "lbl:longitude":17.80541,
     "mps:latitude":48.744407,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080521,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717232,
     "wof:name":"Nov\u00e9 Mesto nad V\u00e1hom",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.233209,
     "geom:longitude":19.29349,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Doln\u00fd Kub\u00edn District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.22748,
     "lbl:longitude":19.312964,
     "mps:latitude":49.22748,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080587,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Doln\u00fd Kub\u00edn",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

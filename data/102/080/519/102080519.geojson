@@ -10,6 +10,12 @@
     "geom:latitude":48.623005,
     "geom:longitude":18.85167,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "\u017diar nad Hronom District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.621429,
     "lbl:longitude":18.854565,
     "mps:latitude":48.621429,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":102080519,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717231,
     "wof:name":"\u017diar nad Hronom",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.086605,
     "geom:longitude":20.176072,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Poprad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.05439,
     "lbl:longitude":20.17171,
     "mps:latitude":49.05439,
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":102080597,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717232,
     "wof:name":"Poprad",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

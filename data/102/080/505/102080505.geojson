@@ -10,6 +10,12 @@
     "geom:latitude":48.641817,
     "geom:longitude":17.248697,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Senica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.637843,
     "lbl:longitude":17.219252,
     "mps:latitude":48.637843,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":102080505,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717230,
     "wof:name":"Senica",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

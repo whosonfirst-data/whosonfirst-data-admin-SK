@@ -10,6 +10,12 @@
     "geom:latitude":49.042959,
     "geom:longitude":20.686896,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Levoca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.05041,
     "lbl:longitude":20.66395,
     "mps:latitude":49.05041,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102080579,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717230,
     "wof:name":"Levoca",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

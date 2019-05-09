@@ -10,6 +10,12 @@
     "geom:latitude":49.025707,
     "geom:longitude":19.259504,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ru\u017eomberok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.016632,
     "lbl:longitude":19.244126,
     "mps:latitude":49.016632,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080567,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717230,
     "wof:name":"Ru\u017eomberok",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

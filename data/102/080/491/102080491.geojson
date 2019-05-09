@@ -10,6 +10,12 @@
     "geom:latitude":48.432097,
     "geom:longitude":18.902406,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Bansk\u00e1 \u0160tiavnica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.462091,
     "lbl:longitude":18.937365,
     "mps:latitude":48.462091,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080491,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Bansk\u00e1 \u0160tiavnica",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

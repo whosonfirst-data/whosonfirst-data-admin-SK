@@ -10,6 +10,12 @@
     "geom:latitude":48.304185,
     "geom:longitude":18.10905,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Nitra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.305146,
     "lbl:longitude":18.113707,
     "mps:latitude":48.305146,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":102080473,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717228,
     "wof:name":"Nitra",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

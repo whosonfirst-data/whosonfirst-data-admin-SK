@@ -10,6 +10,12 @@
     "geom:latitude":49.312802,
     "geom:longitude":18.801616,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.311527,
     "lbl:longitude":18.811997,
     "mps:latitude":49.311527,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":102080589,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Kysuck\u00e9 Nov\u00e9 Mesto",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

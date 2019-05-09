@@ -10,6 +10,12 @@
     "geom:latitude":49.257145,
     "geom:longitude":18.523157,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Bytca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.262581,
     "lbl:longitude":18.521172,
     "mps:latitude":49.262581,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080581,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717230,
     "wof:name":"Bytca",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":48.74135,
     "geom:longitude":17.557615,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Myjava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.725054,
     "lbl:longitude":17.57015,
     "mps:latitude":48.725054,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080515,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717227,
     "wof:name":"Myjava",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":48.914144,
     "geom:longitude":20.6119,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Spi\u0161sk\u00e1 Nov\u00e1 Ves District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.896211,
     "lbl:longitude":20.507828,
     "mps:latitude":48.896211,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102080561,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717230,
     "wof:name":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

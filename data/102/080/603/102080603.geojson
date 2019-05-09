@@ -10,6 +10,12 @@
     "geom:latitude":49.005992,
     "geom:longitude":21.95233,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Humenn\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.995025,
     "lbl:longitude":21.918238,
     "mps:latitude":48.995025,
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":102080603,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717231,
     "wof:name":"Humenn\u00e9",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

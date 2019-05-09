@@ -10,6 +10,12 @@
     "geom:latitude":48.179443,
     "geom:longitude":17.35238,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Senec District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.180093,
     "lbl:longitude":17.321327,
     "mps:latitude":48.180093,
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":102080465,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Senec",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

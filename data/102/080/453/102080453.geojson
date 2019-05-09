@@ -10,6 +10,12 @@
     "geom:latitude":47.972553,
     "geom:longitude":17.584325,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Dunajsk\u00e1 Streda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":47.966104,
     "lbl:longitude":17.606321,
     "mps:latitude":47.966104,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102080453,
-    "wof:lastmodified":1536614448,
+    "wof:lastmodified":1553717228,
     "wof:name":"Dunajsk\u00e1 Streda",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

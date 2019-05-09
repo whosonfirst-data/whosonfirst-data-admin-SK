@@ -10,6 +10,12 @@
     "geom:latitude":48.756818,
     "geom:longitude":22.220639,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Sobrance District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.755145,
     "lbl:longitude":22.234455,
     "mps:latitude":48.755145,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080571,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717230,
     "wof:name":"Sobrance",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

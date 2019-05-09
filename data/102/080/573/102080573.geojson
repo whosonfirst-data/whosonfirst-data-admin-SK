@@ -10,6 +10,12 @@
     "geom:latitude":49.140948,
     "geom:longitude":18.26783,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "P\u00fachov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.136811,
     "lbl:longitude":18.265357,
     "mps:latitude":49.136811,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102080573,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717228,
     "wof:name":"P\u00fachov",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

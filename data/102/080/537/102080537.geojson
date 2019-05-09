@@ -10,6 +10,12 @@
     "geom:latitude":48.773953,
     "geom:longitude":18.578155,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Prievidza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.77427,
     "lbl:longitude":18.578078,
     "mps:latitude":48.77427,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080537,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717231,
     "wof:name":"Prievidza",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

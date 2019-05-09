@@ -10,6 +10,12 @@
     "geom:latitude":48.98925,
     "geom:longitude":21.213164,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Pre\u0161ov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.985674,
     "lbl:longitude":21.268709,
     "mps:latitude":48.985674,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080591,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717232,
     "wof:name":"Pre\u0161ov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

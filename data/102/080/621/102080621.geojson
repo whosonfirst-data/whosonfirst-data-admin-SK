@@ -10,6 +10,12 @@
     "geom:latitude":49.285227,
     "geom:longitude":21.262972,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Bardejov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.284728,
     "lbl:longitude":21.268255,
     "mps:latitude":49.284728,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080621,
-    "wof:lastmodified":1536614453,
+    "wof:lastmodified":1553717231,
     "wof:name":"Bardejov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

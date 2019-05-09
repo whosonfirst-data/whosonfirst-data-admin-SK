@@ -10,6 +10,12 @@
     "geom:latitude":48.757157,
     "geom:longitude":18.255791,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "B\u00e1novce nad Bebravou District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.792743,
     "lbl:longitude":18.307875,
     "mps:latitude":48.792743,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080523,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717227,
     "wof:name":"B\u00e1novce nad Bebravou",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

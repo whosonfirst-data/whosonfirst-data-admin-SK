@@ -10,6 +10,12 @@
     "geom:latitude":48.428927,
     "geom:longitude":17.814279,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Hlohovec District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.427124,
     "lbl:longitude":17.814168,
     "mps:latitude":48.427124,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080481,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Hlohovec",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

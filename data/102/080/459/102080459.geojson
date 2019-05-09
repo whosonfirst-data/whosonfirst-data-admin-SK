@@ -10,6 +10,12 @@
     "geom:latitude":48.201348,
     "geom:longitude":17.137249,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Bratislava III District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.201229,
     "lbl:longitude":17.137256,
     "mps:latitude":48.201229,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102080459,
-    "wof:lastmodified":1536614448,
+    "wof:lastmodified":1553717228,
     "wof:name":"Bratislava III",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

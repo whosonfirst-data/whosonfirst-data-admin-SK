@@ -10,6 +10,12 @@
     "geom:latitude":48.405216,
     "geom:longitude":18.397131,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Zlat\u00e9 Moravce District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.397199,
     "lbl:longitude":18.400025,
     "mps:latitude":48.397199,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080485,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717230,
     "wof:name":"Zlat\u00e9 Moravce",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

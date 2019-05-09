@@ -10,6 +10,12 @@
     "geom:latitude":48.553104,
     "geom:longitude":19.458959,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Detva District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.577976,
     "lbl:longitude":19.482592,
     "mps:latitude":48.577976,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080507,
-    "wof:lastmodified":1536614450,
+    "wof:lastmodified":1553717230,
     "wof:name":"Detva",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

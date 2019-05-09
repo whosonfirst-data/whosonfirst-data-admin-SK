@@ -10,6 +10,12 @@
     "geom:latitude":48.815856,
     "geom:longitude":20.803822,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Gelnica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.783598,
     "lbl:longitude":20.781198,
     "mps:latitude":48.783598,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080559,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717230,
     "wof:name":"Gelnica",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

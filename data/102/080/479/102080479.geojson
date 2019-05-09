@@ -10,6 +10,12 @@
     "geom:latitude":48.195271,
     "geom:longitude":19.304461,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Velk\u00fd Krt\u00ed\u0161 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.18771,
     "lbl:longitude":19.304371,
     "mps:latitude":48.18771,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":102080479,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Velk\u00fd Krt\u00ed\u0161",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

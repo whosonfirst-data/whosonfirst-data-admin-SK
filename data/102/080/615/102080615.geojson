@@ -10,6 +10,12 @@
     "geom:latitude":49.435233,
     "geom:longitude":19.368969,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "N\u00e1mestovo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.419218,
     "lbl:longitude":19.352455,
     "mps:latitude":49.419218,
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":102080615,
-    "wof:lastmodified":1536614452,
+    "wof:lastmodified":1553717232,
     "wof:name":"N\u00e1mestovo",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

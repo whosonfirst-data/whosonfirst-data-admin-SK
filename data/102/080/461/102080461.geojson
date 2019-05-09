@@ -10,6 +10,12 @@
     "geom:latitude":48.206217,
     "geom:longitude":17.024534,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Bratislava IV District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.205863,
     "lbl:longitude":17.023097,
     "mps:latitude":48.205863,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102080461,
-    "wof:lastmodified":1536614448,
+    "wof:lastmodified":1553717228,
     "wof:name":"Bratislava IV",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":48.552112,
     "geom:longitude":18.085781,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Topolcany District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.558101,
     "lbl:longitude":18.101766,
     "mps:latitude":48.558101,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102080501,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717230,
     "wof:name":"Topolcany",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

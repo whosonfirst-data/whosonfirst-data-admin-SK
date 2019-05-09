@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15494,
-    "geom:area_square_m":1261619900.335232,
+    "geom:area_square_m":1261619900.335193,
     "geom:bbox":"19.350431,48.619161,20.2674505,48.947247",
     "geom:latitude":48.813319,
     "geom:longitude":19.736198,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Brezno District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.790651,
     "lbl:longitude":19.628357,
     "mps:latitude":48.790651,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":102080545,
-    "wof:lastmodified":1553815972,
+    "wof:lastmodified":1555037710,
     "wof:name":"Brezno",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

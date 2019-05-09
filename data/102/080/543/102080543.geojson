@@ -10,6 +10,12 @@
     "geom:latitude":48.740712,
     "geom:longitude":21.298492,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ko\u0161ice III District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.742178,
     "lbl:longitude":21.292676,
     "mps:latitude":48.742178,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102080543,
-    "wof:lastmodified":1553815971,
+    "wof:lastmodified":1555037711,
     "wof:name":"Ko\u0161ice III",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

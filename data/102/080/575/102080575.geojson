@@ -10,6 +10,12 @@
     "geom:latitude":49.136954,
     "geom:longitude":18.438158,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Pova\u017esk\u00e1 Bystrica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":49.104991,
     "lbl:longitude":18.470456,
     "mps:latitude":49.104991,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":102080575,
-    "wof:lastmodified":1536614451,
+    "wof:lastmodified":1553717232,
     "wof:name":"Pova\u017esk\u00e1 Bystrica",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

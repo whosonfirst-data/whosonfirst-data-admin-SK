@@ -10,6 +10,12 @@
     "geom:latitude":47.839883,
     "geom:longitude":18.112758,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Kom\u00e1rno District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":47.845183,
     "lbl:longitude":18.187652,
     "mps:latitude":47.845183,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102080447,
-    "wof:lastmodified":1536614448,
+    "wof:lastmodified":1553717228,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

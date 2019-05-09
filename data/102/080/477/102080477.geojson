@@ -10,6 +10,12 @@
     "geom:latitude":48.152911,
     "geom:longitude":18.670923,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Levice District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.134118,
     "lbl:longitude":18.634948,
     "mps:latitude":48.134118,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":102080477,
-    "wof:lastmodified":1536614449,
+    "wof:lastmodified":1553717229,
     "wof:name":"Levice",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

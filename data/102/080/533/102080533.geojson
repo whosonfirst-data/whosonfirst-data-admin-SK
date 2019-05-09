@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009826,
-    "geom:area_square_m":80270524.529628,
+    "geom:area_square_m":80270524.529613,
     "geom:bbox":"21.12079,48.570036,21.2487775,48.7332725",
     "geom:latitude":48.647834,
     "geom:longitude":21.1943,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ko\u0161ice II District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.635903,
     "lbl:longitude":21.188007,
     "mps:latitude":48.635903,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102080533,
-    "wof:lastmodified":1553815971,
+    "wof:lastmodified":1555037712,
     "wof:name":"Ko\u0161ice II",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

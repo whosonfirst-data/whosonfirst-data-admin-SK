@@ -10,6 +10,12 @@
     "geom:latitude":48.068605,
     "geom:longitude":17.131189,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Bratislava V District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.064196,
     "lbl:longitude":17.122076,
     "mps:latitude":48.064196,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102080449,
-    "wof:lastmodified":1536614448,
+    "wof:lastmodified":1553717228,
     "wof:name":"Bratislava V",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

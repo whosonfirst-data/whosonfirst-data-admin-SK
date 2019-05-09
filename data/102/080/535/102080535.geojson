@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007446,
-    "geom:area_square_m":60789110.870978,
+    "geom:area_square_m":60789110.870979,
     "geom:bbox":"21.211491,48.641717,21.358201,48.7266415",
     "geom:latitude":48.679912,
     "geom:longitude":21.285073,
     "iso:country":"SK",
+    "label:eng_x_preferred_longname":[
+        "Ko\u0161ice IV District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.682633,
     "lbl:longitude":21.271767,
     "mps:latitude":48.682633,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102080535,
-    "wof:lastmodified":1553815971,
+    "wof:lastmodified":1555037711,
     "wof:name":"Ko\u0161ice IV",
     "wof:parent_id":85688359,
     "wof:placetype":"county",
