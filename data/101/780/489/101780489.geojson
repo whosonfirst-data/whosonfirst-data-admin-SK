@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1166357.622067,
+    "geom:area_square_m":1166357.622066,
     "geom:bbox":"21.0340118923,49.1190444357,21.0551216733,49.1371236247",
     "geom:latitude":49.125211,
     "geom:longitude":21.043526,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:cze_x_preferred":[
-        "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
-    ],
     "name:deu_x_preferred":[
-        "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
-    ],
-    "name:dut_x_preferred":[
         "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:fre_x_preferred":[
-        "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
-    ],
-    "name:ger_x_preferred":[
-        "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
-    ],
     "name:hun_x_preferred":[
         "P\u00e9cs\u00fajfalu"
     ],
     "name:ita_x_preferred":[
-        "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
-    ],
-    "name:may_x_preferred":[
         "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pe\u010dovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101780489,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Pe\u010dovsk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

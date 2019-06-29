@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":2183569.615503,
+    "geom:area_square_m":2183569.615504,
     "geom:bbox":"19.0509825441,48.3357106988,19.0752714015,48.365585056",
     "geom:latitude":48.351365,
     "geom:longitude":19.065123,
@@ -20,25 +20,19 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u0628\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0580\u0578\u0582\u057a\u056b\u0576\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0456\u043d\u0430"
     ],
     "name:cat_x_preferred":[
         "Krupina"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u9b6f\u76ae\u7d0d"
+    "name:ces_x_preferred":[
+        "Krupina"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0438\u043d\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Krupina"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Krupina"
     ],
     "name:eng_x_preferred":[
@@ -50,10 +44,7 @@
     "name:fas_x_preferred":[
         "\u06a9\u0631\u0648\u067e\u06cc\u0646\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Krupina"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Krupina"
     ],
     "name:hrv_x_preferred":[
@@ -61,6 +52,9 @@
     ],
     "name:hun_x_preferred":[
         "Korpona"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0578\u0582\u057a\u056b\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "Krupina"
@@ -74,14 +68,14 @@
     "name:lav_x_preferred":[
         "Krupina"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Krupina"
     ],
     "name:nan_x_preferred":[
         "Krupina"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0648\u067e\u06cc\u0646\u0627"
+    "name:nld_x_preferred":[
+        "Krupina"
     ],
     "name:pol_x_preferred":[
         "Krupina"
@@ -89,13 +83,13 @@
     "name:por_x_preferred":[
         "Krupina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krupina"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0438\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Krupina"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688318,
+    "wof:lastmodified":1561841700,
     "wof:name":"Krupina",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

@@ -28,9 +28,6 @@
     "name:ces_x_preferred":[
         "\u017dehra"
     ],
-    "name:cze_x_preferred":[
-        "\u017dehra"
-    ],
     "name:deu_x_historical":[
         "Schigra"
     ],
@@ -40,9 +37,6 @@
     "name:deu_x_variant":[
         "Schigra"
     ],
-    "name:dut_x_preferred":[
-        "\u017dehra"
-    ],
     "name:eng_x_preferred":[
         "\u017dehra"
     ],
@@ -50,12 +44,6 @@
         "\u017dehra"
     ],
     "name:fra_x_preferred":[
-        "\u017dehra"
-    ],
-    "name:fre_x_preferred":[
-        "\u017dehra"
-    ],
-    "name:ger_x_preferred":[
         "\u017dehra"
     ],
     "name:hbs_x_preferred":[
@@ -79,9 +67,6 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30a7\u30d5\u30e9"
     ],
-    "name:may_x_preferred":[
-        "\u017dehra"
-    ],
     "name:msa_x_preferred":[
         "\u017dehra"
     ],
@@ -98,9 +83,6 @@
         "\u0416\u0435\u0433\u0440\u0430"
     ],
     "name:slk_x_preferred":[
-        "\u017dehra"
-    ],
-    "name:slo_x_preferred":[
         "\u017dehra"
     ],
     "name:slv_x_preferred":[
@@ -170,7 +152,7 @@
         }
     ],
     "wof:id":101858955,
-    "wof:lastmodified":1544744667,
+    "wof:lastmodified":1561841695,
     "wof:name":"\u017dehra",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

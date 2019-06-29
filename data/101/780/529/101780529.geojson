@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":1963921.706858,
+    "geom:area_square_m":1963921.706857,
     "geom:bbox":"22.2101275444,48.9920356462,22.2476718983,49.0094255423",
     "geom:latitude":49.000771,
     "geom:longitude":22.230406,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Stak\u010d\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "Stak\u010d\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "Stak\u010d\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Stak\u010d\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Stak\u010d\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Stak\u010d\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Stak\u010d\u00edn"
-    ],
     "name:hun_x_preferred":[
         "Takcs\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Stak\u010d\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Stak\u010d\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:rue_x_preferred":[
         "\u0421\u0442\u0430\u0449\u0456\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Stak\u010d\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780529,
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"Stak\u010d\u00edn",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

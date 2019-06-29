@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000189,
-    "geom:area_square_m":1545379.273246,
+    "geom:area_square_m":1545379.273245,
     "geom:bbox":"17.9286675289,48.5375827485,17.9502290568,48.5552390191",
     "geom:latitude":48.546601,
     "geom:longitude":17.94046,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Rado\u0161ina"
     ],
-    "name:cze_x_preferred":[
-        "Rado\u0161ina"
-    ],
     "name:deu_x_preferred":[
-        "Rado\u0161ina"
-    ],
-    "name:dut_x_preferred":[
         "Rado\u0161ina"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Rado\u0161ina"
     ],
-    "name:fre_x_preferred":[
-        "Rado\u0161ina"
-    ],
-    "name:ger_x_preferred":[
-        "Rado\u0161ina"
-    ],
     "name:hun_x_preferred":[
         "Radosna"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30c9\u30b7\u30ca"
-    ],
-    "name:may_x_preferred":[
-        "Rado\u0161ina"
     ],
     "name:msa_x_preferred":[
         "Rado\u0161ina"
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0448\u0438\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rado\u0161ina"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780215,
-    "wof:lastmodified":1527715873,
+    "wof:lastmodified":1561841717,
     "wof:name":"Rado\u0161ina",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

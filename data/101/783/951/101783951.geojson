@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":398819.675177,
+    "geom:area_square_m":398819.675176,
     "geom:bbox":"18.1140920165,48.4198452435,18.130364684,48.4268936377",
     "geom:latitude":48.423764,
     "geom:longitude":18.123114,
@@ -22,12 +22,6 @@
     "name:ces_x_preferred":[
         "Doln\u00e9 Lefantovce"
     ],
-    "name:cze_x_preferred":[
-        "Doln\u00e9 Lefantovce"
-    ],
-    "name:dut_x_preferred":[
-        "Doln\u00e9 Lefantovce"
-    ],
     "name:eng_x_preferred":[
         "Doln\u00e9 Lefantovce"
     ],
@@ -37,9 +31,6 @@
     "name:fra_x_preferred":[
         "Doln\u00e9 Lefantovce"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e9 Lefantovce"
-    ],
     "name:hbs_x_preferred":[
         "Dolnje Ljefantovce"
     ],
@@ -47,9 +38,6 @@
         "Als\u00f3elef\u00e1nt"
     ],
     "name:ita_x_preferred":[
-        "Doln\u00e9 Lefantovce"
-    ],
-    "name:may_x_preferred":[
         "Doln\u00e9 Lefantovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Doln\u00e9 Lefantovce"
     ],
     "name:slk_x_preferred":[
-        "Doln\u00e9 Lefantovce"
-    ],
-    "name:slo_x_preferred":[
         "Doln\u00e9 Lefantovce"
     ],
     "name:srp_x_preferred":[
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101783951,
-    "wof:lastmodified":1514505154,
+    "wof:lastmodified":1561841703,
     "wof:name":"Lefantovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

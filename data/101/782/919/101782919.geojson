@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u010ce\u010dejovce"
     ],
-    "name:dut_x_preferred":[
-        "\u010ce\u010dejovce"
-    ],
     "name:eng_x_preferred":[
         "\u010ce\u010dejovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "\u010ce\u010dejovce"
     ],
-    "name:fre_x_preferred":[
-        "\u010ce\u010dejovce"
-    ],
-    "name:ger_x_preferred":[
-        "\u010ce\u010dejovce"
-    ],
     "name:hun_x_preferred":[
         "Cs\u00e9cs"
     ],
     "name:ita_x_preferred":[
-        "\u010ce\u010dejovce"
-    ],
-    "name:may_x_preferred":[
         "\u010ce\u010dejovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "\u010ce\u010dejovce"
     ],
     "name:slk_x_preferred":[
-        "\u010ce\u010dejovce"
-    ],
-    "name:slo_x_preferred":[
         "\u010ce\u010dejovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782919,
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"\u010ce\u010dejovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

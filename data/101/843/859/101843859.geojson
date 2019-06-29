@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":1764638.145224,
+    "geom:area_square_m":1764638.145223,
     "geom:bbox":"21.6950040855,48.7430460214,21.7226273769,48.7575151789",
     "geom:latitude":48.750302,
     "geom:longitude":21.711219,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Parchovany"
     ],
-    "name:cze_x_preferred":[
-        "Parchovany"
-    ],
     "name:deu_x_preferred":[
-        "Parchovany"
-    ],
-    "name:dut_x_preferred":[
         "Parchovany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Parchovany"
     ],
-    "name:fre_x_preferred":[
-        "Parchovany"
-    ],
-    "name:ger_x_preferred":[
-        "Parchovany"
-    ],
     "name:hun_x_preferred":[
         "Parn\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Parchovany"
-    ],
-    "name:may_x_preferred":[
         "Parchovany"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u041f\u0430\u0440\u0445\u043e\u0432\u0430\u043d\u0456"
     ],
     "name:slk_x_preferred":[
-        "Parchovany"
-    ],
-    "name:slo_x_preferred":[
         "Parchovany"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101843859,
-    "wof:lastmodified":1527642592,
+    "wof:lastmodified":1561841690,
     "wof:name":"Parchovany",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

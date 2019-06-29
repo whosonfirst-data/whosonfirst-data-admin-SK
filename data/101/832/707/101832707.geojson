@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000341,
-    "geom:area_square_m":2787896.337782,
+    "geom:area_square_m":2787896.337781,
     "geom:bbox":"21.698130164,48.6561977362,21.7272672763,48.6845983475",
     "geom:latitude":48.672935,
     "geom:longitude":21.715234,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Voj\u010dice"
     ],
-    "name:cze_x_preferred":[
-        "Voj\u010dice"
-    ],
     "name:deu_x_preferred":[
-        "Voj\u010dice"
-    ],
-    "name:dut_x_preferred":[
         "Voj\u010dice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Voj\u010dice"
     ],
-    "name:fre_x_preferred":[
-        "Voj\u010dice"
-    ],
-    "name:ger_x_preferred":[
-        "Voj\u010dice"
-    ],
     "name:hun_x_preferred":[
         "V\u00e9cse"
     ],
     "name:ita_x_preferred":[
-        "Voj\u010dice"
-    ],
-    "name:may_x_preferred":[
         "Voj\u010dice"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Voj\u010dice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Voj\u010dice"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101832707,
-    "wof:lastmodified":1527642781,
+    "wof:lastmodified":1561841693,
     "wof:name":"Voj\u010dice",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

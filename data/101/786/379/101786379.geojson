@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2123879.328509,
+    "geom:area_square_m":2123879.328508,
     "geom:bbox":"17.2499148702,48.0717525491,17.2824229377,48.0913503203",
     "geom:latitude":48.081291,
     "geom:longitude":17.264794,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Dunajsk\u00e1 Lu\u017en\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Dunajsk\u00e1 Lu\u017en\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +35,10 @@
     "name:fra_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Dunajsk\u00e1 Lu\u017en\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Dunajsk\u00e1 Lu\u017en\u00e1"
-    ],
     "name:hun_x_preferred":[
         "D\u00e9nesdtorcsmis\u00e9rd"
     ],
     "name:ita_x_preferred":[
-        "Dunajsk\u00e1 Lu\u017en\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -71,7 +56,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u041b\u0443\u0436\u043d\u044f"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101786379,
-    "wof:lastmodified":1527715646,
+    "wof:lastmodified":1561841709,
     "wof:name":"Dunajsk\u00e1 Lu\u017en\u00e1",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

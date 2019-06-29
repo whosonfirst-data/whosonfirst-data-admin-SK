@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1126651.283564,
+    "geom:area_square_m":1126651.283563,
     "geom:bbox":"17.2212880766,48.4561592411,17.2416680116,48.474127184",
     "geom:latitude":48.465357,
     "geom:longitude":17.231432,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Solo\u0161nica"
     ],
-    "name:cze_x_preferred":[
-        "Solo\u0161nica"
-    ],
     "name:deu_x_preferred":[
-        "Solo\u0161nica"
-    ],
-    "name:dut_x_preferred":[
         "Solo\u0161nica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Solo\u0161nica"
     ],
-    "name:fre_x_preferred":[
-        "Solo\u0161nica"
-    ],
-    "name:ger_x_preferred":[
-        "Solo\u0161nica"
-    ],
     "name:hun_x_preferred":[
         "Sz\u00e9lesk\u00fat"
     ],
     "name:ita_x_preferred":[
-        "Solo\u0161nica"
-    ],
-    "name:may_x_preferred":[
         "Solo\u0161nica"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Solo\u0161nica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Solo\u0161nica"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782735,
-    "wof:lastmodified":1527688320,
+    "wof:lastmodified":1561841701,
     "wof:name":"Solo\u0161nica",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

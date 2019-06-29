@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1186634.124269,
+    "geom:area_square_m":1186634.12427,
     "geom:bbox":"18.6343797619,47.8794786768,18.6524534879,47.8944469466",
     "geom:latitude":47.887836,
     "geom:longitude":18.643111,
@@ -19,9 +19,6 @@
     "name:cat_x_preferred":[
         "Kamen\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Kamen\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Kamen\u00edn"
     ],
@@ -29,9 +26,6 @@
         "Kamen\u00edn"
     ],
     "name:fra_x_preferred":[
-        "Kamen\u00edn"
-    ],
-    "name:fre_x_preferred":[
         "Kamen\u00edn"
     ],
     "name:hbs_x_preferred":[
@@ -43,9 +37,6 @@
     "name:ita_x_preferred":[
         "Kamen\u00edn"
     ],
-    "name:may_x_preferred":[
-        "Kamen\u00edn"
-    ],
     "name:msa_x_preferred":[
         "Kamen\u00edn"
     ],
@@ -53,9 +44,6 @@
         "Kamen\u00edn"
     ],
     "name:slk_x_preferred":[
-        "Kamen\u00edn"
-    ],
-    "name:slo_x_preferred":[
         "Kamen\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +98,7 @@
         }
     ],
     "wof:id":101780209,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Kamen\u00edn",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1026787.488631,
+    "geom:area_square_m":1026787.48863,
     "geom:bbox":"18.736065956,49.1435841176,18.7668386235,49.1532528961",
     "geom:latitude":49.148809,
     "geom:longitude":18.753453,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Turie"
     ],
-    "name:cze_x_preferred":[
-        "Turie"
-    ],
     "name:deu_x_preferred":[
-        "Turie"
-    ],
-    "name:dut_x_preferred":[
         "Turie"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Turie"
     ],
-    "name:fre_x_preferred":[
-        "Turie"
-    ],
-    "name:ger_x_preferred":[
-        "Turie"
-    ],
     "name:hbs_x_preferred":[
         "Turje"
     ],
@@ -53,9 +41,6 @@
         "H\u00e1romudvar"
     ],
     "name:ita_x_preferred":[
-        "Turie"
-    ],
-    "name:may_x_preferred":[
         "Turie"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Turie"
     ],
     "name:slk_x_preferred":[
-        "Turie"
-    ],
-    "name:slo_x_preferred":[
         "Turie"
     ],
     "name:srp_x_preferred":[
@@ -138,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715877,
+    "wof:lastmodified":1561841719,
     "wof:name":"Turie",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

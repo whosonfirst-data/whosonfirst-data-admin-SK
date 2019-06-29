@@ -21,16 +21,13 @@
     "name:cat_x_preferred":[
         "Lipov\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Lipov\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:epo_x_preferred":[
         "Lipov\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:heb_x_preferred":[
@@ -45,7 +42,10 @@
     "name:ita_x_preferred":[
         "Lipov\u00e9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Lipov\u00e9"
+    ],
+    "name:nld_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:pol_x_preferred":[
@@ -54,7 +54,7 @@
     "name:slk_x_preferred":[
         "Hod\u017eovo"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Lipov\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125824259,
-    "wof:lastmodified":1514505160,
+    "wof:lastmodified":1561841728,
     "wof:name":"Lipove",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

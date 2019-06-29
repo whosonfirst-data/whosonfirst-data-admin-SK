@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
-    "name:cze_x_preferred":[
-        "Tekovsk\u00e1 Breznica"
-    ],
     "name:deu_x_preferred":[
-        "Tekovsk\u00e1 Breznica"
-    ],
-    "name:dut_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
-    "name:fre_x_preferred":[
-        "Tekovsk\u00e1 Breznica"
-    ],
-    "name:ger_x_preferred":[
-        "Tekovsk\u00e1 Breznica"
-    ],
     "name:hun_x_preferred":[
         "Barsberzence"
     ],
     "name:ita_x_preferred":[
-        "Tekovsk\u00e1 Breznica"
-    ],
-    "name:may_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101784053,
-    "wof:lastmodified":1527688538,
+    "wof:lastmodified":1561841704,
     "wof:name":"Tekovsk\u00e1 Breznica",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

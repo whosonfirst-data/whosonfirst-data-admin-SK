@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cierne K\u013ea\u010dany"
     ],
-    "name:cze_x_preferred":[
-        "\u010cierne K\u013ea\u010dany"
-    ],
     "name:deu_x_preferred":[
-        "\u010cierne K\u013ea\u010dany"
-    ],
-    "name:dut_x_preferred":[
         "\u010cierne K\u013ea\u010dany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u010cierne K\u013ea\u010dany"
     ],
-    "name:fre_x_preferred":[
-        "\u010cierne K\u013ea\u010dany"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cierne K\u013ea\u010dany"
-    ],
     "name:hbs_x_preferred":[
         "\u010cjernje Klja\u010dani"
     ],
@@ -53,9 +41,6 @@
         "Feketekelecs\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "\u010cierne K\u013ea\u010dany"
-    ],
-    "name:may_x_preferred":[
         "\u010cierne K\u013ea\u010dany"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "\u010cierne K\u013ea\u010dany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cierne K\u013ea\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101785271,
-    "wof:lastmodified":1527684900,
+    "wof:lastmodified":1561841698,
     "wof:name":"\u010cierne K\u013ea\u010dany",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

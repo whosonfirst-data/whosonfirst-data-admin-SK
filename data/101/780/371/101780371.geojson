@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000468,
-    "geom:area_square_m":3798218.049695,
+    "geom:area_square_m":3798218.049696,
     "geom:bbox":"20.5701060531,49.0098317302,20.6062817321,49.0381440088",
     "geom:latitude":49.023154,
     "geom:longitude":20.588311,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0648\u062a\u0634\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0587\u0578\u0579\u0561"
     ],
     "name:aze_x_preferred":[
         "Levo\u00e7a"
@@ -41,19 +38,10 @@
     "name:ces_x_preferred":[
         "Levo\u010da"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u6c83\u6070"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0435\u0432\u043e\u0447\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Levo\u010da"
-    ],
     "name:deu_x_preferred":[
-        "Levo\u010da"
-    ],
-    "name:dut_x_preferred":[
         "Levo\u010da"
     ],
     "name:eng_x_preferred":[
@@ -71,13 +59,7 @@
     "name:fin_x_preferred":[
         "Levo\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Levo\u010da"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10d5\u10dd\u10e9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Levo\u010da"
     ],
     "name:heb_x_preferred":[
@@ -88,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "L\u0151cse"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0587\u0578\u0579\u0561"
     ],
     "name:ita_x_preferred":[
         "Levo\u010da"
@@ -110,17 +95,17 @@
     "name:ltz_x_preferred":[
         "Levo\u010da"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Levo\u010da"
     ],
     "name:nan_x_preferred":[
         "Levo\u010da"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Levo\u010da"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0686\u0627"
+    "name:nob_x_preferred":[
+        "Levo\u010da"
     ],
     "name:pol_x_preferred":[
         "Lewocza"
@@ -131,16 +116,10 @@
     "name:ron_x_preferred":[
         "Levo\u010da"
     ],
-    "name:rum_x_preferred":[
-        "Levo\u010da"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u043e\u0447\u0430"
     ],
     "name:slk_x_preferred":[
-        "Levo\u010da"
-    ],
-    "name:slo_x_preferred":[
         "Levo\u010da"
     ],
     "name:slv_x_preferred":[
@@ -234,7 +213,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"Levo\u010da",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

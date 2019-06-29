@@ -22,25 +22,19 @@
     "mps:longitude":17.037822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056c\u0561\u0581\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u0451\u043d \u041c\u0430\u043b\u0430\u0446\u043a\u0456"
     ],
     "name:cat_x_preferred":[
         "Districte de Malacky"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u8328\u57fa\u5340"
+    "name:ces_x_preferred":[
+        "Okres Malacky"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Malacky"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Malacky"
     ],
     "name:eng_x_preferred":[
@@ -49,14 +43,8 @@
     "name:epo_x_preferred":[
         "Distrikto Malacky"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Malacky"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d0\u10ea\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Malacky"
     ],
     "name:hrv_x_preferred":[
         "Okrug Malacky"
@@ -64,8 +52,14 @@
     "name:hun_x_preferred":[
         "Malackai j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0561\u0581\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Malacky"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d0\u10ea\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:lat_x_preferred":[
         "Malacky"
@@ -73,11 +67,14 @@
     "name:lav_x_preferred":[
         "Malacku apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Malacky"
     ],
     "name:nan_x_preferred":[
         "Malacky Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Malacky"
     ],
     "name:pol_x_preferred":[
         "Powiat Malacky"
@@ -85,16 +82,16 @@
     "name:por_x_preferred":[
         "Malacky"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Malacky"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041c\u0430\u043b\u0430\u0446\u043a\u044b"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Malacky"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Malacky"
     ],
     "name:spa_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:war_x_preferred":[
         "Malacky"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u8328\u57fa\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":102080487,
-    "wof:lastmodified":1553717228,
+    "wof:lastmodified":1561841677,
     "wof:name":"Malacky",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

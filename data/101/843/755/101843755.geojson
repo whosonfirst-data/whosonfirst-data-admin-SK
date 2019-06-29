@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Hronsk\u00fd Be\u0148adik"
     ],
-    "name:cze_x_preferred":[
-        "Hronsk\u00fd Be\u0148adik"
-    ],
     "name:deu_x_preferred":[
-        "Hronsk\u00fd Be\u0148adik"
-    ],
-    "name:dut_x_preferred":[
         "Hronsk\u00fd Be\u0148adik"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Hronsk\u00fd Be\u0148adik"
     ],
-    "name:fre_x_preferred":[
-        "Hronsk\u00fd Be\u0148adik"
-    ],
-    "name:ger_x_preferred":[
-        "Hronsk\u00fd Be\u0148adik"
-    ],
     "name:hun_x_preferred":[
         "Garamszentbenedek"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30ed\u30f3\u30b9\u30ad\u30fc\u30fb\u30d9\u30cb\u30e3\u30c7\u30a3\u30af"
-    ],
-    "name:may_x_preferred":[
-        "Hronsk\u00fd Be\u0148adik"
     ],
     "name:msa_x_preferred":[
         "Hronsk\u00fd Be\u0148adik"
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Hronsk\u00fd Be\u0148adik"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hronsk\u00fd Be\u0148adik"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101843755,
-    "wof:lastmodified":1527642588,
+    "wof:lastmodified":1561841689,
     "wof:name":"Hronsk\u00fd Be\u0148adik",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

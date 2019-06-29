@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
-    "geom:area_square_m":2083315.694749,
+    "geom:area_square_m":2083315.694745,
     "geom:bbox":"19.4538646339,49.4642607441,19.5020177606,49.5134246649",
     "geom:latitude":49.489899,
     "geom:longitude":19.471682,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Rab\u010da"
     ],
-    "name:cze_x_preferred":[
-        "Rab\u010da"
-    ],
     "name:deu_x_preferred":[
-        "Rab\u010da"
-    ],
-    "name:dut_x_preferred":[
         "Rab\u010da"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Rab\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Rab\u010da"
-    ],
-    "name:ger_x_preferred":[
-        "Rab\u010da"
-    ],
     "name:hun_x_preferred":[
         "Rabcsa"
     ],
     "name:ita_x_preferred":[
-        "Rab\u010da"
-    ],
-    "name:may_x_preferred":[
         "Rab\u010da"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Rabcza"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rab\u010da"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101847811,
-    "wof:lastmodified":1527714968,
+    "wof:lastmodified":1561841706,
     "wof:name":"Rab\u010da",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

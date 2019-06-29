@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
-    "name:fre_x_preferred":[
-        "\u0160ari\u0161sk\u00e9 Dravce"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:nan_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
+    "name:nld_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
     "name:pol_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1126021445,
-    "wof:lastmodified":1514505267,
+    "wof:lastmodified":1561841720,
     "wof:name":"Sarisske Dravce",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
-    "geom:area_square_m":647979.782495,
+    "geom:area_square_m":647979.782494,
     "geom:bbox":"20.9050202531,49.1671928493,20.9221209099,49.174739284",
     "geom:latitude":49.170542,
     "geom:longitude":20.912853,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Krivany"
     ],
-    "name:cze_x_preferred":[
-        "Krivany"
-    ],
     "name:deu_x_preferred":[
-        "Krivany"
-    ],
-    "name:dut_x_preferred":[
         "Krivany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Krivany"
     ],
-    "name:fre_x_preferred":[
-        "Krivany"
-    ],
-    "name:ger_x_preferred":[
-        "Krivany"
-    ],
     "name:hbs_x_preferred":[
         "Krivani"
     ],
@@ -53,9 +41,6 @@
         "Kriv\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Krivany"
-    ],
-    "name:may_x_preferred":[
         "Krivany"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Krivany"
     ],
     "name:slk_x_preferred":[
-        "Krivany"
-    ],
-    "name:slo_x_preferred":[
         "Krivany"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780477,
-    "wof:lastmodified":1527715866,
+    "wof:lastmodified":1561841713,
     "wof:name":"Krivany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

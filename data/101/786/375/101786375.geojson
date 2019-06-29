@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
-    "name:cze_x_preferred":[
-        "Nov\u00e1 Dedinka"
-    ],
     "name:deu_x_preferred":[
-        "Nov\u00e1 Dedinka"
-    ],
-    "name:dut_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00e1 Dedinka"
-    ],
-    "name:ger_x_preferred":[
-        "Nov\u00e1 Dedinka"
-    ],
     "name:hun_x_preferred":[
         "Duna\u00fajfalu"
     ],
@@ -53,9 +41,6 @@
         "Fajk\u00fcrt"
     ],
     "name:ita_x_preferred":[
-        "Nov\u00e1 Dedinka"
-    ],
-    "name:may_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:por_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101786375,
-    "wof:lastmodified":1527715654,
+    "wof:lastmodified":1561841711,
     "wof:name":"Nov\u00e1 Dedinka",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1514314.01035,
+    "geom:area_square_m":1514314.010349,
     "geom:bbox":"18.6430706822,47.9638523767,18.6630805008,47.9877188548",
     "geom:latitude":47.974096,
     "geom:longitude":18.653423,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
     "name:deu_x_preferred":[
-        "Pohronsk\u00fd Ruskov"
-    ],
-    "name:dut_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
-    "name:fre_x_preferred":[
-        "Pohronsk\u00fd Ruskov"
-    ],
-    "name:ger_x_preferred":[
-        "Pohronsk\u00fd Ruskov"
-    ],
     "name:hun_x_preferred":[
         "Oroszka"
     ],
     "name:ita_x_preferred":[
-        "Pohronsk\u00fd Ruskov"
-    ],
-    "name:may_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Pohronsk\u00fd Ruskov"
     ],
     "name:slk_x_preferred":[
-        "Pohronsk\u00fd Ruskov"
-    ],
-    "name:slo_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101834133,
-    "wof:lastmodified":1527642930,
+    "wof:lastmodified":1561841696,
     "wof:name":"Pohronsk\u00fd Ruskov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

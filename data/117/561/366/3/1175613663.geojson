@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":488454.899234,
+    "geom:area_square_m":1176284.685614,
     "geom:bbox":"19.0219245708,49.2500282702,19.052831906,49.2824640845",
     "geom:latitude":49.263075,
     "geom:longitude":19.035568,
@@ -24,13 +24,7 @@
     "name:ces_x_preferred":[
         "Terchov\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Terchov\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Terchov\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Terchov\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
         "Terchov\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Terchov\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Terchov\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Terchov\u00e1"
     ],
     "name:hrv_x_preferred":[
@@ -63,19 +51,19 @@
     "name:kor_x_preferred":[
         "\ud14c\ub974\ucd08\ubc14"
     ],
-    "name:may_x_preferred":[
-        "Terchov\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Terchov\u00e1"
     ],
     "name:nan_x_preferred":[
         "Terchov\u00e1"
     ],
+    "name:nld_x_preferred":[
+        "Terchov\u00e1"
+    ],
     "name:pol_x_preferred":[
         "Tierchowa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Terchov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -140,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534985987,
+    "wof:lastmodified":1561841685,
     "wof:name":"Terchov\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

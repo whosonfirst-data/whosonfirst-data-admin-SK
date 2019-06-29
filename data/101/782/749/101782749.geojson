@@ -24,13 +24,7 @@
     "name:ces_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
-    "name:cze_x_preferred":[
-        "Sv\u00e4t\u00fd Anton"
-    ],
     "name:deu_x_preferred":[
-        "Sv\u00e4t\u00fd Anton"
-    ],
-    "name:dut_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
     "name:fra_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
-    "name:fre_x_preferred":[
-        "Sv\u00e4t\u00fd Anton"
-    ],
-    "name:ger_x_preferred":[
-        "Sv\u00e4t\u00fd Anton"
-    ],
     "name:hun_x_preferred":[
         "Szentantal"
     ],
@@ -56,9 +44,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30f4\u30a1\u30c6\u30a3\u30fb\u30a2\u30f3\u30c8\u30f3"
-    ],
-    "name:may_x_preferred":[
-        "Sv\u00e4t\u00fd Anton"
     ],
     "name:msa_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
@@ -72,7 +57,7 @@
     "name:pol_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101782749,
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561841700,
     "wof:name":"Sv\u00e4t\u00fd Anton",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

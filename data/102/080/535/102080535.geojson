@@ -34,13 +34,7 @@
     "name:ces_x_preferred":[
         "Okres Ko\u0161ice IV"
     ],
-    "name:cze_x_preferred":[
-        "Okres Ko\u0161ice IV"
-    ],
     "name:deu_x_preferred":[
-        "Okres Ko\u0161ice IV"
-    ],
-    "name:dut_x_preferred":[
         "Okres Ko\u0161ice IV"
     ],
     "name:eng_x_preferred":[
@@ -51,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "District de Ko\u0161ice IV"
-    ],
-    "name:fre_x_preferred":[
-        "District de Ko\u0161ice IV"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e8\u10d8\u10ea\u10d4 IV-\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Ko\u0161ice IV"
     ],
     "name:hrv_x_preferred":[
         "Okrug Ko\u0161ice IV"
@@ -73,17 +58,23 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30b7\u30c4\u30a74\u533a"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e8\u10d8\u10ea\u10d4 IV-\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Cassovia IV"
     ],
     "name:lav_x_preferred":[
         "Ko\u0161ice IV"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ko\u0161ice IV"
     ],
     "name:nan_x_preferred":[
         "Ko\u0161ice IV"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Ko\u0161ice IV"
     ],
     "name:nob_x_preferred":[
         "Ko\u0161ice IV"
@@ -94,16 +85,16 @@
     "name:por_x_preferred":[
         "Ko\u0161ice IV"
     ],
+    "name:ron_x_preferred":[
+        "Ko\u0161ice IV"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041a\u043e\u0448\u0456\u0446\u0457 IV"
-    ],
-    "name:rum_x_preferred":[
-        "Ko\u0161ice IV"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448\u0438\u0446\u0435 IV"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ko\u0161ice IV"
     ],
     "name:spa_x_preferred":[
@@ -167,7 +158,7 @@
         }
     ],
     "wof:id":102080535,
-    "wof:lastmodified":1555037711,
+    "wof:lastmodified":1561841674,
     "wof:name":"Ko\u0161ice IV",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

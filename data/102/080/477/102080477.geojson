@@ -25,10 +25,10 @@
     "name:cat_x_preferred":[
         "Districte de Levice"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Levice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Levice"
     ],
     "name:eng_x_preferred":[
@@ -37,14 +37,8 @@
     "name:epo_x_preferred":[
         "Distrikto Levice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Levice"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10d5\u10d8\u10ea\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Levice"
     ],
     "name:hrv_x_preferred":[
         "Okrug Levice"
@@ -55,17 +49,23 @@
     "name:ita_x_preferred":[
         "Distretto di Levice"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10d5\u10d8\u10ea\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Leua"
     ],
     "name:lav_x_preferred":[
         "Levices apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Levice"
     ],
     "name:nan_x_preferred":[
         "Levice Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Levice"
     ],
     "name:pol_x_preferred":[
         "Powiat Levice"
@@ -73,16 +73,16 @@
     "name:por_x_preferred":[
         "Levice"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Levice"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041b\u0435\u0432\u0456\u0446\u0435"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Levice"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u0438\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Levice"
     ],
     "name:spa_x_preferred":[
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":102080477,
-    "wof:lastmodified":1553717229,
+    "wof:lastmodified":1561841675,
     "wof:name":"Levice",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

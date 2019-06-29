@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":977007.140397,
+    "geom:area_square_m":977007.140396,
     "geom:bbox":"21.4070263988,48.8200324455,21.4259943772,48.8323133532",
     "geom:latitude":48.82552,
     "geom:longitude":21.415659,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Kecerovce"
     ],
-    "name:dut_x_preferred":[
-        "Kecerovce"
-    ],
     "name:eng_x_preferred":[
         "Kecerovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Kecerovce"
     ],
-    "name:fre_x_preferred":[
-        "Kecerovce"
-    ],
-    "name:ger_x_preferred":[
-        "Kecerovce"
-    ],
     "name:hun_x_preferred":[
         "Kecer"
     ],
     "name:ita_x_preferred":[
-        "Kecerovce"
-    ],
-    "name:may_x_preferred":[
         "Kecerovce"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Kecerovce"
     ],
     "name:slk_x_preferred":[
-        "Kecerovce"
-    ],
-    "name:slo_x_preferred":[
         "Kecerovce"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +96,7 @@
         }
     ],
     "wof:id":101780241,
-    "wof:lastmodified":1527715873,
+    "wof:lastmodified":1561841717,
     "wof:name":"Kecerovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

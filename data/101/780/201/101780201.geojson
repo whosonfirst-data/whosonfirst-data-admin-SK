@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Nesvady"
     ],
-    "name:dut_x_preferred":[
-        "Nesvady"
-    ],
     "name:eng_x_preferred":[
         "Nesvady"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Nesvady"
     ],
-    "name:fre_x_preferred":[
-        "Nesvady"
-    ],
-    "name:ger_x_preferred":[
-        "Nesvady"
-    ],
     "name:hbs_x_preferred":[
         "Njesvadi"
     ],
@@ -47,9 +38,6 @@
         "Naszvad"
     ],
     "name:ita_x_preferred":[
-        "Nesvady"
-    ],
-    "name:may_x_preferred":[
         "Nesvady"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Nesvady"
     ],
     "name:slk_x_preferred":[
-        "Nesvady"
-    ],
-    "name:slo_x_preferred":[
         "Nesvady"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780201,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Nesvady",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

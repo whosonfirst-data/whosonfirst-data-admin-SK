@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
-    "name:cze_x_preferred":[
-        "Topo\u013e\u010dianky"
-    ],
     "name:deu_x_preferred":[
-        "Topo\u013e\u010dianky"
-    ],
-    "name:dut_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +37,6 @@
     "name:fra_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
-    "name:fre_x_preferred":[
-        "Topo\u013e\u010dianky"
-    ],
-    "name:ger_x_preferred":[
-        "Topo\u013e\u010dianky"
-    ],
     "name:hun_x_preferred":[
         "Kistapolcs\u00e1ny"
     ],
@@ -57,9 +45,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30dd\u30a4\u30b7\u30a2\u30f3\u30ad\u30fc"
-    ],
-    "name:may_x_preferred":[
-        "Topo\u013e\u010dianky"
     ],
     "name:msa_x_preferred":[
         "Topo\u013e\u010dianky"
@@ -70,7 +55,7 @@
     "name:nld_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101784003,
-    "wof:lastmodified":1527688544,
+    "wof:lastmodified":1561841705,
     "wof:name":"Topo\u013e\u010dianky",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

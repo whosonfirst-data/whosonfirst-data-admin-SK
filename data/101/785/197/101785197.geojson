@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":2652251.713457,
+    "geom:area_square_m":2652251.713458,
     "geom:bbox":"17.8010711643,48.2360056795,17.8323501721,48.2659056322",
     "geom:latitude":48.251186,
     "geom:longitude":17.818284,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u0160opor\u0148a"
     ],
-    "name:dut_x_preferred":[
-        "\u0160opor\u0148a"
-    ],
     "name:eng_x_preferred":[
         "\u0160opor\u0148a"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "\u0160opor\u0148a"
     ],
-    "name:fre_x_preferred":[
-        "\u0160opor\u0148a"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160opor\u0148a"
-    ],
     "name:hbs_x_preferred":[
         "\u0160opornja"
     ],
@@ -47,9 +38,6 @@
         "Sopornya"
     ],
     "name:ita_x_preferred":[
-        "\u0160opor\u0148a"
-    ],
-    "name:may_x_preferred":[
         "\u0160opor\u0148a"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "\u0160opor\u0148a"
     ],
     "name:slk_x_preferred":[
-        "\u0160opor\u0148a"
-    ],
-    "name:slo_x_preferred":[
         "\u0160opor\u0148a"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101785197,
-    "wof:lastmodified":1527684898,
+    "wof:lastmodified":1561841698,
     "wof:name":"\u0160opor\u0148a",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

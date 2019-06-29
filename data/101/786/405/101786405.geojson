@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u010cierna Voda"
     ],
-    "name:dut_x_preferred":[
-        "\u010cierna Voda"
-    ],
     "name:eng_x_preferred":[
         "\u010cierna Voda"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "\u010cierna Voda"
     ],
-    "name:fre_x_preferred":[
-        "\u010cierna Voda"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cierna Voda"
-    ],
     "name:hbs_x_preferred":[
         "\u010cjerna Voda"
     ],
@@ -47,9 +38,6 @@
         "Feketeny\u00e9k"
     ],
     "name:ita_x_preferred":[
-        "\u010cierna Voda"
-    ],
-    "name:may_x_preferred":[
         "\u010cierna Voda"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "\u010cierna Voda"
     ],
     "name:slk_x_preferred":[
-        "\u010cierna Voda"
-    ],
-    "name:slo_x_preferred":[
         "\u010cierna Voda"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786405,
-    "wof:lastmodified":1553815501,
+    "wof:lastmodified":1561841710,
     "wof:name":"\u010cierna Voda",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

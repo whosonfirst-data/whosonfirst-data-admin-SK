@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kysak"
     ],
-    "name:cze_x_preferred":[
-        "Kysak"
-    ],
     "name:deu_x_preferred":[
-        "Kysak"
-    ],
-    "name:dut_x_preferred":[
         "Kysak"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kysak"
     ],
-    "name:fre_x_preferred":[
-        "Kysak"
-    ],
-    "name:ger_x_preferred":[
-        "Kysak"
-    ],
     "name:hun_x_preferred":[
         "S\u00e1rosk\u0151szeg"
     ],
     "name:ita_x_preferred":[
-        "Kysak"
-    ],
-    "name:may_x_preferred":[
         "Kysak"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +50,6 @@
         "Kysak"
     ],
     "name:slk_x_preferred":[
-        "Kysak"
-    ],
-    "name:slo_x_preferred":[
         "Kysak"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101843877,
-    "wof:lastmodified":1527642597,
+    "wof:lastmodified":1561841692,
     "wof:name":"Kysak",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

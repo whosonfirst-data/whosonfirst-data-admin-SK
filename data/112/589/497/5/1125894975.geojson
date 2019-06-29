@@ -22,10 +22,10 @@
     "name:cat_x_preferred":[
         "Kru\u0161etnica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kru\u0161etnica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:epo_x_preferred":[
         "Kru\u0161etnica"
     ],
-    "name:fre_x_preferred":[
-        "Kru\u0161etnica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:hun_x_preferred":[
@@ -46,7 +43,10 @@
     "name:ita_x_preferred":[
         "Kru\u0161etnica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kru\u0161etnica"
+    ],
+    "name:nld_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:pol_x_preferred":[
@@ -55,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0442\u043d\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125894975,
-    "wof:lastmodified":1514505148,
+    "wof:lastmodified":1561841723,
     "wof:name":"Kru\u0161etnica",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

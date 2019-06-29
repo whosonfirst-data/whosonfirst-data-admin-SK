@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":1804919.287304,
+    "geom:area_square_m":1804919.287305,
     "geom:bbox":"18.2135680651,47.7969593054,18.2425168982,47.8140497779",
     "geom:latitude":47.80516,
     "geom:longitude":18.228741,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Chot\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Chot\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Chot\u00edn"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Chot\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Chot\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Chot\u00edn"
-    ],
     "name:hbs_x_preferred":[
         "Hotin"
     ],
@@ -47,9 +38,6 @@
         "Het\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Chot\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Chot\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "Chot\u00edn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chot\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101787475,
-    "wof:lastmodified":1553815502,
+    "wof:lastmodified":1561841712,
     "wof:name":"Chot\u00edn",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

@@ -31,10 +31,10 @@
     "name:cat_x_preferred":[
         "Peder"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Ko\u0161ice-okol\u00ed"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Ko\u0161ice-okolie"
     ],
     "name:eng_x_preferred":[
@@ -46,14 +46,8 @@
     "name:fra_x_preferred":[
         "Peder"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Ko\u0161ice-okolie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e8\u10d8\u10ea\u10d4-\u10de\u10d4\u10e0\u10d8\u10e4\u10d4\u10e0\u10d8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Ko\u0161ice-okolie"
     ],
     "name:hrv_x_preferred":[
         "Okrug Ko\u0161ice - okolie"
@@ -67,23 +61,29 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30b7\u30c4\u30a7\u8fd1\u90ca\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e8\u10d8\u10ea\u10d4-\u10de\u10d4\u10e0\u10d8\u10e4\u10d4\u10e0\u10d8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Cassovia-okolie"
     ],
     "name:lav_x_preferred":[
         "Ko\u0161ices apk\u0101rtnes apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
-        "Daerah Ko\u0161ice-okolie"
-    ],
     "name:msa_x_preferred":[
         "Peder"
+    ],
+    "name:msa_x_variant":[
+        "Daerah Ko\u0161ice-okolie"
     ],
     "name:nan_x_preferred":[
         "Ko\u0161ice-okolie Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Peder"
+    ],
+    "name:nld_x_variant":[
+        "Okres Ko\u0161ice-okolie"
     ],
     "name:nob_x_preferred":[
         "Ko\u0161ice-okolie"
@@ -94,11 +94,11 @@
     "name:por_x_preferred":[
         "Ko\u0161ice\u2013okolie"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Ko\u0161ice-okolie"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041a\u043e\u0448\u0456\u0446\u0457-\u043e\u043a\u043e\u043b\u0456\u0446\u044f"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Ko\u0161ice-okolie"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448\u0438\u0446\u0435-\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f"
@@ -106,7 +106,7 @@
     "name:slk_x_preferred":[
         "Peder"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Ko\u0161ice-okolie"
     ],
     "name:spa_x_preferred":[
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":102080557,
-    "wof:lastmodified":1553717229,
+    "wof:lastmodified":1561841674,
     "wof:name":"Ko\u0161ice - okolie",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

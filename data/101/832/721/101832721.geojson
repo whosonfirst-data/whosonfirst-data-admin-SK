@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001019,
-    "geom:area_square_m":8253399.380231,
+    "geom:area_square_m":8253399.380232,
     "geom:bbox":"19.2522345862,49.0537190259,19.3455950681,49.0961157124",
     "geom:latitude":49.07817,
     "geom:longitude":19.30076,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062c\u0648\u0645\u0628\u064a\u0631\u0648\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0582\u056a\u0578\u0574\u0562\u0565\u0580\u0578\u056f"
     ],
     "name:aze_x_preferred":[
         "Rujomberok"
@@ -41,12 +38,6 @@
     "name:ces_x_preferred":[
         "Ru\u017eomberok"
     ],
-    "name:chi_x_preferred":[
-        "\u9c81\u5bb9\u8d1d\u7f57\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Ru\u017eomberok"
-    ],
     "name:dan_x_preferred":[
         "Ru\u017eomberok"
     ],
@@ -55,9 +46,6 @@
     ],
     "name:deu_x_variant":[
         "Rosenberg"
-    ],
-    "name:dut_x_preferred":[
-        "Ru\u017eomberok"
     ],
     "name:eng_x_preferred":[
         "Ruzomberok"
@@ -80,13 +68,7 @@
     "name:fra_x_preferred":[
         "Ru\u017eomberok"
     ],
-    "name:fre_x_preferred":[
-        "Ru\u017eomberok"
-    ],
     "name:frr_x_preferred":[
-        "Ru\u017eomberok"
-    ],
-    "name:ger_x_preferred":[
         "Ru\u017eomberok"
     ],
     "name:heb_x_preferred":[
@@ -97,6 +79,9 @@
     ],
     "name:hun_x_preferred":[
         "R\u00f3zsahegy"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u056a\u0578\u0574\u0562\u0565\u0580\u0578\u056f"
     ],
     "name:ind_x_preferred":[
         "Ru\u017eomberok"
@@ -119,10 +104,13 @@
     "name:lit_x_preferred":[
         "Ru\u017eomberokas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ru\u017eomberok"
     ],
     "name:nan_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:nld_x_preferred":[
         "Ru\u017eomberok"
     ],
     "name:nob_x_preferred":[
@@ -130,9 +118,6 @@
     ],
     "name:oci_x_preferred":[
         "Ru\u017eomberok"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0698\u0645\u0628\u0631\u06a9"
     ],
     "name:pol_x_preferred":[
         "Ru\u017comberk"
@@ -143,9 +128,6 @@
     "name:ron_x_preferred":[
         "Ru\u017eomberok"
     ],
-    "name:rum_x_preferred":[
-        "Ru\u017eomberok"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
     ],
@@ -153,9 +135,6 @@
         "Ru\u017eomberok"
     ],
     "name:slk_x_preferred":[
-        "Ru\u017eomberok"
-    ],
-    "name:slo_x_preferred":[
         "Ru\u017eomberok"
     ],
     "name:spa_x_preferred":[
@@ -247,7 +226,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642789,
+    "wof:lastmodified":1561841694,
     "wof:name":"Ru\u017eomberok",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

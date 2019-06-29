@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "\u0160trba"
     ],
-    "name:cze_x_preferred":[
-        "\u0160trba"
-    ],
     "name:deu_x_preferred":[
-        "\u0160trba"
-    ],
-    "name:dut_x_preferred":[
         "\u0160trba"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "\u0160trba"
     ],
-    "name:fre_x_preferred":[
-        "\u0160trba"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160trba"
-    ],
     "name:hun_x_preferred":[
         "Csorba"
     ],
@@ -55,9 +43,6 @@
     ],
     "name:kor_x_preferred":[
         "\uc288\ud2b8\ub974\ubc14"
-    ],
-    "name:may_x_preferred":[
-        "\u0160trba"
     ],
     "name:msa_x_preferred":[
         "\u0160trba"
@@ -71,16 +56,16 @@
     "name:pol_x_preferred":[
         "Szczyrba"
     ],
+    "name:ron_x_preferred":[
+        "\u0160trba"
+    ],
     "name:rue_x_preferred":[
         "\u0428\u0442\u0440\u0431\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "\u0160trba"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0442\u0440\u0431\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160trba"
     ],
     "name:srp_x_preferred":[
@@ -143,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"\u0160trba",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "mps:longitude":17.748962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u056c\u0576\u0561 \u054d\u057f\u0580\u0565\u0564\u0561"
-    ],
     "name:cat_x_preferred":[
         "Doln\u00e1 Streda"
     ],
     "name:deu_x_preferred":[
-        "Doln\u00e1 Streda"
-    ],
-    "name:dut_x_preferred":[
         "Doln\u00e1 Streda"
     ],
     "name:eng_x_preferred":[
@@ -37,22 +31,16 @@
     "name:fra_x_preferred":[
         "Doln\u00e1 Streda"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e1 Streda"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00e1 Streda"
-    ],
     "name:hbs_x_preferred":[
         "Dolna Streda"
     ],
     "name:hun_x_preferred":[
         "Als\u00f3szerdahely"
     ],
-    "name:ita_x_preferred":[
-        "Doln\u00e1 Streda"
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u056c\u0576\u0561 \u054d\u057f\u0580\u0565\u0564\u0561"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Doln\u00e1 Streda"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Doln\u00e1 Streda"
     ],
     "name:slk_x_preferred":[
-        "Doln\u00e1 Streda"
-    ],
-    "name:slo_x_preferred":[
         "Doln\u00e1 Streda"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101834123,
-    "wof:lastmodified":1527642937,
+    "wof:lastmodified":1561841696,
     "wof:name":"Doln\u00e1 Streda",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

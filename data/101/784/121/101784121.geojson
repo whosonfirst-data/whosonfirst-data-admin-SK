@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ve\u013ek\u00fd Blh"
     ],
-    "name:cze_x_preferred":[
-        "Ve\u013ek\u00fd Blh"
-    ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00fd Blh"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00fd Blh"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Blh"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd Blh"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00fd Blh"
-    ],
     "name:hun_x_preferred":[
         "V\u00e1mosbalog"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a7\u30eb\u30ad\u30fc\u30fb\u30d6\u30eb"
-    ],
-    "name:may_x_preferred":[
-        "Ve\u013ek\u00fd Blh"
     ],
     "name:msa_x_preferred":[
         "Ve\u013ek\u00fd Blh"
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Ve\u013ek\u00fd Blh"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00fd Blh"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101784121,
-    "wof:lastmodified":1527688541,
+    "wof:lastmodified":1561841705,
     "wof:name":"Ve\u013ek\u00fd Blh",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

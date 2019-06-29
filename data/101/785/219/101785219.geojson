@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1196502.581551,
+    "geom:area_square_m":1196502.58155,
     "geom:bbox":"17.2620412285,48.2506183317,17.2904569265,48.2605401042",
     "geom:latitude":48.255511,
     "geom:longitude":17.27768,
@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
-    "name:cze_x_preferred":[
-        "Slovensk\u00fd Grob"
-    ],
     "name:deu_x_preferred":[
-        "Slovensk\u00fd Grob"
-    ],
-    "name:dut_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
-    "name:fre_x_preferred":[
-        "Slovensk\u00fd Grob"
-    ],
-    "name:ger_x_preferred":[
-        "Slovensk\u00fd Grob"
-    ],
     "name:hun_x_preferred":[
         "T\u00f3tgurab"
     ],
     "name:ita_x_preferred":[
-        "Slovensk\u00fd Grob"
-    ],
-    "name:may_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:por_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101785219,
-    "wof:lastmodified":1527677693,
+    "wof:lastmodified":1561841697,
     "wof:name":"Slovensk\u00fd Grob",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
-    "name:cze_x_preferred":[
-        "Liptovsk\u00e1 Osada"
-    ],
     "name:deu_x_preferred":[
-        "Liptovsk\u00e1 Osada"
-    ],
-    "name:dut_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00e1 Osada"
-    ],
-    "name:ger_x_preferred":[
-        "Liptovsk\u00e1 Osada"
-    ],
     "name:hun_x_preferred":[
         "Oszada"
     ],
     "name:ita_x_preferred":[
-        "Liptovsk\u00e1 Osada"
-    ],
-    "name:may_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101780313,
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"Liptovsk\u00e1 Osada",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

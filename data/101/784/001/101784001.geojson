@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Obyce"
     ],
-    "name:cze_x_preferred":[
-        "Obyce"
-    ],
     "name:deu_x_preferred":[
-        "Obyce"
-    ],
-    "name:dut_x_preferred":[
         "Obyce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Obyce"
     ],
-    "name:fre_x_preferred":[
-        "Obyce"
-    ],
-    "name:ger_x_preferred":[
-        "Obyce"
-    ],
     "name:hbs_x_preferred":[
         "Obice"
     ],
@@ -53,9 +41,6 @@
         "Ebedec"
     ],
     "name:ita_x_preferred":[
-        "Obyce"
-    ],
-    "name:may_x_preferred":[
         "Obyce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Obyce"
     ],
     "name:slk_x_preferred":[
-        "Obyce"
-    ],
-    "name:slo_x_preferred":[
         "Obyce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101784001,
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561841704,
     "wof:name":"Obyce",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

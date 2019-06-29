@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Soblahov"
     ],
-    "name:cze_x_preferred":[
-        "Soblahov"
-    ],
     "name:deu_x_preferred":[
-        "Soblahov"
-    ],
-    "name:dut_x_preferred":[
         "Soblahov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Soblahov"
     ],
-    "name:fre_x_preferred":[
-        "Soblahov"
-    ],
-    "name:ger_x_preferred":[
-        "Soblahov"
-    ],
     "name:hbs_x_preferred":[
         "Soblahov"
     ],
@@ -53,9 +41,6 @@
         "Cobolyfalu"
     ],
     "name:ita_x_preferred":[
-        "Soblahov"
-    ],
-    "name:may_x_preferred":[
         "Soblahov"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Soblahov"
     ],
     "name:slk_x_preferred":[
-        "Soblahov"
-    ],
-    "name:slo_x_preferred":[
         "Soblahov"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101781731,
-    "wof:lastmodified":1527715624,
+    "wof:lastmodified":1561841707,
     "wof:name":"Soblahov",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

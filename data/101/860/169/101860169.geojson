@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Horn\u00fd Vadi\u010dov"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00fd Vadi\u010dov"
-    ],
     "name:deu_x_preferred":[
-        "Horn\u00fd Vadi\u010dov"
-    ],
-    "name:dut_x_preferred":[
         "Horn\u00fd Vadi\u010dov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Horn\u00fd Vadi\u010dov"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00fd Vadi\u010dov"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00fd Vadi\u010dov"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151vadas"
     ],
     "name:ita_x_preferred":[
-        "Horn\u00fd Vadi\u010dov"
-    ],
-    "name:may_x_preferred":[
         "Horn\u00fd Vadi\u010dov"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Horn\u00fd Vadi\u010dov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00fd Vadi\u010dov"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101860169,
-    "wof:lastmodified":1544745298,
+    "wof:lastmodified":1561841694,
     "wof:name":"Horn\u00fd Vadi\u010dov",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

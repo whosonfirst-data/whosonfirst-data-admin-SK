@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":2861876.919226,
+    "geom:area_square_m":2861876.919224,
     "geom:bbox":"17.7954215486,47.8797229959,17.8194546842,47.9083905812",
     "geom:latitude":47.894938,
     "geom:longitude":17.808037,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Oko\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Oko\u010d"
-    ],
     "name:eng_x_preferred":[
         "Oko\u010d"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Oko\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Oko\u010d"
-    ],
-    "name:ger_x_preferred":[
-        "Oko\u010d"
-    ],
     "name:hbs_x_preferred":[
         "Oko\u010d"
     ],
@@ -47,9 +38,6 @@
         "Ekecs"
     ],
     "name:ita_x_preferred":[
-        "Oko\u010d"
-    ],
-    "name:may_x_preferred":[
         "Oko\u010d"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:por_x_preferred":[
         "Oko\u010d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Oko\u010d"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":101787501,
-    "wof:lastmodified":1527715848,
+    "wof:lastmodified":1561841711,
     "wof:name":"Oko\u010d",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

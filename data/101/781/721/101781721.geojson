@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1116568.419695,
+    "geom:area_square_m":1116568.419694,
     "geom:bbox":"18.150600385,48.900230611,18.181219538,48.916707585",
     "geom:latitude":48.909799,
     "geom:longitude":18.165384,
@@ -26,19 +26,10 @@
     "name:ces_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u502b\u6b3d\u6eab\u6cc9\u93ae"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0447\u044c\u044f\u043d\u0441\u043a\u0435 \u0422\u0435\u043f\u043b\u0438\u0446\u0435"
     ],
-    "name:cze_x_preferred":[
-        "Tren\u010dianske Teplice"
-    ],
     "name:deu_x_preferred":[
-        "Tren\u010dianske Teplice"
-    ],
-    "name:dut_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u062a\u0631\u0646\u0686\u06cc\u0627\u0646\u0633\u06a9\u0647 \u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
-        "Tren\u010dianske Teplice"
-    ],
-    "name:fre_x_preferred":[
-        "Tren\u010dianske Teplice"
-    ],
-    "name:ger_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
     "name:hbs_x_preferred":[
@@ -74,25 +59,25 @@
     "name:lav_x_preferred":[
         "Tren\u010danske Teplice"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
     "name:nan_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0646\u0686\u06cc\u0627\u0646\u0633\u06a9\u0647 \u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
+    "name:nld_x_preferred":[
+        "Tren\u010dianske Teplice"
     ],
     "name:pol_x_preferred":[
         "Trenczy\u0144skie Cieplice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0447\u044c\u044f\u043d\u0441\u043a\u0435-\u0422\u0435\u043f\u043b\u0438\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tren\u010dianske Teplice"
     ],
     "name:srp_x_preferred":[
@@ -159,7 +144,7 @@
         }
     ],
     "wof:id":101781721,
-    "wof:lastmodified":1527715632,
+    "wof:lastmodified":1561841709,
     "wof:name":"Tren\u010dianske Teplice",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

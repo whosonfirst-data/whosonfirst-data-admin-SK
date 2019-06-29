@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2432978.879828,
+    "geom:area_square_m":2432978.879829,
     "geom:bbox":"17.8343606546,48.0954137868,17.8630565828,48.1152379559",
     "geom:latitude":48.104217,
     "geom:longitude":17.849384,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tesedikovo"
     ],
     "name:deu_x_preferred":[
-        "Te\u0161ed\u00edkovo"
-    ],
-    "name:dut_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
-    "name:fre_x_preferred":[
-        "Te\u0161ed\u00edkovo"
-    ],
-    "name:ger_x_preferred":[
-        "Te\u0161ed\u00edkovo"
-    ],
     "name:hbs_x_preferred":[
         "Tje\u0161edikovo"
     ],
@@ -50,9 +41,6 @@
         "Pered"
     ],
     "name:ita_x_preferred":[
-        "Te\u0161ed\u00edkovo"
-    ],
-    "name:may_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u0448\u0435\u0434\u0438\u043a\u043e\u0432\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101786383,
-    "wof:lastmodified":1527715646,
+    "wof:lastmodified":1561841710,
     "wof:name":"Te\u0161ed\u00edkovo",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":1824611.58256,
+    "geom:area_square_m":1824611.582561,
     "geom:bbox":"19.6980275615,48.382213705,19.7256548972,48.4016280581",
     "geom:latitude":48.392904,
     "geom:longitude":19.709369,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Kalinovo"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kalinovo"
     ],
     "name:deu_x_preferred":[
-        "Kalinovo"
-    ],
-    "name:dut_x_preferred":[
         "Kalinovo"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Kalinovo"
     ],
-    "name:fre_x_preferred":[
-        "Kalinovo"
-    ],
-    "name:ger_x_preferred":[
-        "Kalinovo"
-    ],
     "name:hbs_x_preferred":[
         "Kalinovo"
     ],
@@ -50,9 +41,6 @@
         "K\u00e1ln\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Kalinovo"
-    ],
-    "name:may_x_preferred":[
         "Kalinovo"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +56,6 @@
         "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:slk_x_preferred":[
-        "Kalinovo"
-    ],
-    "name:slo_x_preferred":[
         "Kalinovo"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101782799,
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561841699,
     "wof:name":"Kalinovo",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

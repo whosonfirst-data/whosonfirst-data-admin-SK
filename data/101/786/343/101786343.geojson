@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":2782094.685173,
+    "geom:area_square_m":2782094.685174,
     "geom:bbox":"18.4853972049,47.896870821,18.5195283904,47.9212933457",
     "geom:latitude":47.910229,
     "geom:longitude":18.500146,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Svod\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Svod\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Svod\u00edn"
     ],
@@ -33,12 +30,6 @@
         "Svod\u00edn"
     ],
     "name:fra_x_preferred":[
-        "Svod\u00edn"
-    ],
-    "name:fre_x_preferred":[
-        "Svod\u00edn"
-    ],
-    "name:ger_x_preferred":[
         "Svod\u00edn"
     ],
     "name:hbs_x_preferred":[
@@ -53,9 +44,6 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30f4\u30a9\u30c7\u30a3\u30fc\u30f3"
     ],
-    "name:may_x_preferred":[
-        "Svod\u00edn"
-    ],
     "name:msa_x_preferred":[
         "Svod\u00edn"
     ],
@@ -63,9 +51,6 @@
         "Svod\u00edn"
     ],
     "name:slk_x_preferred":[
-        "Svod\u00edn"
-    ],
-    "name:slo_x_preferred":[
         "Svod\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101786343,
-    "wof:lastmodified":1527715654,
+    "wof:lastmodified":1561841711,
     "wof:name":"Svod\u00edn",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

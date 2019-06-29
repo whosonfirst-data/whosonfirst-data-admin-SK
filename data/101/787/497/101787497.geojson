@@ -24,13 +24,7 @@
     "name:ces_x_preferred":[
         "Gab\u010d\u00edkovo"
     ],
-    "name:cze_x_preferred":[
-        "Gab\u010d\u00edkovo"
-    ],
     "name:deu_x_preferred":[
-        "Gab\u010d\u00edkovo"
-    ],
-    "name:dut_x_preferred":[
         "Gab\u010d\u00edkovo"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
         "Gab\u010d\u00edkovo"
     ],
     "name:fra_x_preferred":[
-        "Gab\u010d\u00edkovo"
-    ],
-    "name:fre_x_preferred":[
-        "Gab\u010d\u00edkovo"
-    ],
-    "name:ger_x_preferred":[
         "Gab\u010d\u00edkovo"
     ],
     "name:hun_x_preferred":[
@@ -59,9 +47,6 @@
     ],
     "name:lav_x_preferred":[
         "Gab\u010d\u012bkovo"
-    ],
-    "name:may_x_preferred":[
-        "Gab\u010d\u00edkovo"
     ],
     "name:msa_x_preferred":[
         "Gab\u010d\u00edkovo"
@@ -78,7 +63,7 @@
     "name:por_x_preferred":[
         "Gab\u010d\u00edkovo"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gab\u010d\u00edkovo"
     ],
     "name:srp_x_preferred":[
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":101787497,
-    "wof:lastmodified":1553815502,
+    "wof:lastmodified":1561841711,
     "wof:name":"Gab\u010d\u00edkovo",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1625322.824724,
+    "geom:area_square_m":1625322.824723,
     "geom:bbox":"17.438875835,48.0484850345,17.4723922386,48.0623680794",
     "geom:latitude":48.055719,
     "geom:longitude":17.455863,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lehnice"
     ],
-    "name:cze_x_preferred":[
-        "Lehnice"
-    ],
     "name:deu_x_preferred":[
-        "Lehnice"
-    ],
-    "name:dut_x_preferred":[
         "Lehnice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lehnice"
     ],
-    "name:fre_x_preferred":[
-        "Lehnice"
-    ],
-    "name:ger_x_preferred":[
-        "Lehnice"
-    ],
     "name:hbs_x_preferred":[
         "Ljehnjice"
     ],
@@ -53,9 +41,6 @@
         "L\u00e9g"
     ],
     "name:ita_x_preferred":[
-        "Lehnice"
-    ],
-    "name:may_x_preferred":[
         "Lehnice"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Lehnice"
     ],
     "name:slk_x_preferred":[
-        "Lehnice"
-    ],
-    "name:slo_x_preferred":[
         "Lehnice"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101786321,
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561841711,
     "wof:name":"Lehnice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

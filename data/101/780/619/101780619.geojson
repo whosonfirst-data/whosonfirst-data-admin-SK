@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
-    "name:cze_x_preferred":[
-        "Kra\u010d\u00fanovce"
-    ],
     "name:deu_x_preferred":[
-        "Kra\u010d\u00fanovce"
-    ],
-    "name:dut_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
-    "name:fre_x_preferred":[
-        "Kra\u010d\u00fanovce"
-    ],
-    "name:ger_x_preferred":[
-        "Kra\u010d\u00fanovce"
-    ],
     "name:hun_x_preferred":[
         "Kar\u00e1csonmez\u0151"
     ],
     "name:ita_x_preferred":[
-        "Kra\u010d\u00fanovce"
-    ],
-    "name:may_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101780619,
-    "wof:lastmodified":1527715865,
+    "wof:lastmodified":1561841713,
     "wof:name":"Kra\u010d\u00fanovce",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

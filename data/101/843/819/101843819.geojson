@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Brusno"
     ],
-    "name:cze_x_preferred":[
-        "Brusno"
-    ],
     "name:deu_x_preferred":[
-        "Brusno"
-    ],
-    "name:dut_x_preferred":[
         "Brusno"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Brusno"
     ],
-    "name:fre_x_preferred":[
-        "Brusno"
-    ],
-    "name:ger_x_preferred":[
-        "Brusno"
-    ],
     "name:hbs_x_preferred":[
         "Brusno"
     ],
@@ -53,9 +41,6 @@
         "Boroszn\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Brusno"
-    ],
-    "name:may_x_preferred":[
         "Brusno"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "\u0411\u0440\u0443\u0441\u043d\u043e"
     ],
     "name:slk_x_preferred":[
-        "Brusno"
-    ],
-    "name:slo_x_preferred":[
         "Brusno"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642591,
+    "wof:lastmodified":1561841690,
     "wof:name":"Brusno",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

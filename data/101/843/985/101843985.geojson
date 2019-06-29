@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":628017.424019,
+    "geom:area_square_m":628017.424018,
     "geom:bbox":"20.869752039,49.2554947331,20.8843286866,49.267835379",
     "geom:latitude":49.262171,
     "geom:longitude":20.877179,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u013dubot\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "\u013dubot\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "\u013dubot\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "\u013dubot\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "\u013dubot\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "\u013dubot\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "\u013dubot\u00edn"
-    ],
     "name:hun_x_preferred":[
         "Lubot\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "\u013dubot\u00edn"
-    ],
-    "name:may_x_preferred":[
         "\u013dubot\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u013dubot\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101843985,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841691,
     "wof:name":"\u013dubot\u00edn",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

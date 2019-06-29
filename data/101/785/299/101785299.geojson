@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zavar"
     ],
-    "name:cze_x_preferred":[
-        "Zavar"
-    ],
     "name:deu_x_preferred":[
-        "Zavar"
-    ],
-    "name:dut_x_preferred":[
         "Zavar"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Zavar"
     ],
-    "name:fre_x_preferred":[
-        "Zavar"
-    ],
-    "name:ger_x_preferred":[
-        "Zavar"
-    ],
     "name:hbs_x_preferred":[
         "Zavar"
     ],
@@ -53,9 +41,6 @@
         "Zavar"
     ],
     "name:ita_x_preferred":[
-        "Zavar"
-    ],
-    "name:may_x_preferred":[
         "Zavar"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Zavar"
     ],
     "name:slk_x_preferred":[
-        "Zavar"
-    ],
-    "name:slo_x_preferred":[
         "Zavar"
     ],
     "name:slv_x_preferred":[
@@ -141,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527684903,
+    "wof:lastmodified":1561841699,
     "wof:name":"Zavar",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

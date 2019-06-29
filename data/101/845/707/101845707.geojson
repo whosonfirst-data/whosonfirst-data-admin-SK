@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":2522838.346948,
+    "geom:area_square_m":2522838.346947,
     "geom:bbox":"18.3030518399,47.8909111841,18.3302212161,47.9123676938",
     "geom:latitude":47.900938,
     "geom:longitude":18.315275,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Pribeta"
     ],
-    "name:dut_x_preferred":[
-        "Pribeta"
-    ],
     "name:eng_x_preferred":[
         "Pribeta"
     ],
@@ -32,12 +29,6 @@
         "Pribeta"
     ],
     "name:fra_x_preferred":[
-        "Pribeta"
-    ],
-    "name:fre_x_preferred":[
-        "Pribeta"
-    ],
-    "name:ger_x_preferred":[
         "Pribeta"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Pribeta"
     ],
-    "name:may_x_preferred":[
-        "Pribeta"
-    ],
     "name:msa_x_preferred":[
         "Pribeta"
     ],
@@ -59,9 +47,6 @@
         "Pribeta"
     ],
     "name:slk_x_preferred":[
-        "Pribeta"
-    ],
-    "name:slo_x_preferred":[
         "Pribeta"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101845707,
-    "wof:lastmodified":1527642310,
+    "wof:lastmodified":1561841687,
     "wof:name":"Pribeta",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

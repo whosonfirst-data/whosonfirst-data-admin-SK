@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lubina"
     ],
-    "name:cze_x_preferred":[
-        "Lubina"
-    ],
     "name:deu_x_preferred":[
-        "Lubina"
-    ],
-    "name:dut_x_preferred":[
         "Lubina"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lubina"
     ],
-    "name:fre_x_preferred":[
-        "Lubina"
-    ],
-    "name:ger_x_preferred":[
-        "Lubina"
-    ],
     "name:hbs_x_preferred":[
         "Lubina"
     ],
@@ -53,9 +41,6 @@
         "Lobonya"
     ],
     "name:ita_x_preferred":[
-        "Lubina"
-    ],
-    "name:may_x_preferred":[
         "Lubina"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Lubina"
     ],
     "name:slk_x_preferred":[
-        "Lubina"
-    ],
-    "name:slo_x_preferred":[
         "Lubina"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101781609,
-    "wof:lastmodified":1553815497,
+    "wof:lastmodified":1561841709,
     "wof:name":"Lubina",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

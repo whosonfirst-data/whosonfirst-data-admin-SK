@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Smrd\u00e1ky"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Smrd\u00e1ky"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Smrd\u00e1ky"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Smrd\u00e1ky"
     ],
-    "name:fre_x_preferred":[
-        "Smrd\u00e1ky"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Smrd\u00e1ky"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "Smrd\u00e1ky"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Smrd\u00e1ky"
     ],
     "name:nan_x_preferred":[
         "Smrd\u00e1ky"
     ],
+    "name:nld_x_preferred":[
+        "Smrd\u00e1ky"
+    ],
     "name:por_x_preferred":[
         "Smrd\u00e1ky"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Smrd\u00e1ky"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125805535,
-    "wof:lastmodified":1514505279,
+    "wof:lastmodified":1561841724,
     "wof:name":"Smrd\u00e1ky",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

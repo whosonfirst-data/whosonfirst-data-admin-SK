@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1255978.409577,
+    "geom:area_square_m":1255978.409576,
     "geom:bbox":"18.8745943741,49.429512321,18.9189772629,49.4469374971",
     "geom:latitude":49.440018,
     "geom:longitude":18.894364,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "O\u0161\u010dadnica"
     ],
-    "name:cze_x_preferred":[
-        "O\u0161\u010dadnica"
-    ],
     "name:deu_x_preferred":[
-        "O\u0161\u010dadnica"
-    ],
-    "name:dut_x_preferred":[
         "O\u0161\u010dadnica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "O\u0161\u010dadnica"
     ],
-    "name:fre_x_preferred":[
-        "O\u0161\u010dadnica"
-    ],
-    "name:ger_x_preferred":[
-        "O\u0161\u010dadnica"
-    ],
     "name:hun_x_preferred":[
         "\u00d3csad"
     ],
     "name:ita_x_preferred":[
-        "O\u0161\u010dadnica"
-    ],
-    "name:may_x_preferred":[
         "O\u0161\u010dadnica"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Oszczadnica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "O\u0161\u010dadnica"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101847801,
-    "wof:lastmodified":1553815542,
+    "wof:lastmodified":1561841707,
     "wof:name":"O\u0161\u010dadnica",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

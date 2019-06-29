@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Pre\u010d\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "Pre\u010d\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "Pre\u010d\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Pre\u010d\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Pre\u010d\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Pre\u010d\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Pre\u010d\u00edn"
-    ],
     "name:hbs_x_preferred":[
         "Pre\u010din"
     ],
@@ -53,9 +41,6 @@
         "Solt\u00e9szperecs\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Pre\u010d\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Pre\u010d\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Pre\u010d\u00edn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pre\u010d\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101780339,
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841713,
     "wof:name":"Pre\u010d\u00edn",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

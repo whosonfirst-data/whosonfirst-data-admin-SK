@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
     "name:deu_x_preferred":[
-        "Liptovsk\u00e1 Kokava"
-    ],
-    "name:dut_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00e1 Kokava"
-    ],
-    "name:ger_x_preferred":[
-        "Liptovsk\u00e1 Kokava"
-    ],
     "name:hbs_x_preferred":[
         "Liptovska Kokava"
     ],
@@ -50,9 +41,6 @@
         "Kokava"
     ],
     "name:ita_x_preferred":[
-        "Liptovsk\u00e1 Kokava"
-    ],
-    "name:may_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "Kokawa Liptowska"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101843913,
-    "wof:lastmodified":1527642595,
+    "wof:lastmodified":1561841691,
     "wof:name":"Liptovsk\u00e1 Kokava",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

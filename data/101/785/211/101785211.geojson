@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1056889.709405,
+    "geom:area_square_m":1056889.709406,
     "geom:bbox":"17.3821507234,48.3294380077,17.4102164425,48.3402683866",
     "geom:latitude":48.334911,
     "geom:longitude":17.394759,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Vi\u0161tuk"
     ],
-    "name:cze_x_preferred":[
-        "Vi\u0161tuk"
-    ],
     "name:deu_x_preferred":[
-        "Vi\u0161tuk"
-    ],
-    "name:dut_x_preferred":[
         "Vi\u0161tuk"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Vi\u0161tuk"
     ],
     "name:fra_x_preferred":[
-        "Vi\u0161tuk"
-    ],
-    "name:fre_x_preferred":[
-        "Vi\u0161tuk"
-    ],
-    "name:ger_x_preferred":[
         "Vi\u0161tuk"
     ],
     "name:hun_x_historical":[
@@ -56,9 +44,6 @@
         "Vistuk"
     ],
     "name:ita_x_preferred":[
-        "Vi\u0161tuk"
-    ],
-    "name:may_x_preferred":[
         "Vi\u0161tuk"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "Vi\u0161tuk"
     ],
     "name:slk_x_preferred":[
-        "Vi\u0161tuk"
-    ],
-    "name:slo_x_preferred":[
         "Vi\u0161tuk"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101785211,
-    "wof:lastmodified":1527677693,
+    "wof:lastmodified":1561841697,
     "wof:name":"Vi\u0161tuk",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

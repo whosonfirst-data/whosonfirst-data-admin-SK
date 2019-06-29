@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Diviaky nad Nitricou"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Diviaky nad Nitricou"
     ],
     "name:deu_x_preferred":[
-        "Diviaky nad Nitricou"
-    ],
-    "name:dut_x_preferred":[
         "Diviaky nad Nitricou"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Diviaky nad Nitricou"
     ],
-    "name:fre_x_preferred":[
-        "Diviaky nad Nitricou"
-    ],
-    "name:ger_x_preferred":[
-        "Diviaky nad Nitricou"
-    ],
     "name:hbs_x_preferred":[
         "Divjaki na Njitrici"
     ],
@@ -50,9 +41,6 @@
         "Nyitradiv\u00e9k"
     ],
     "name:ita_x_preferred":[
-        "Diviaky nad Nitricou"
-    ],
-    "name:may_x_preferred":[
         "Diviaky nad Nitricou"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Diviaky nad Nitricou"
     ],
     "name:slk_x_preferred":[
-        "Diviaky nad Nitricou"
-    ],
-    "name:slo_x_preferred":[
         "Diviaky nad Nitricou"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101781687,
-    "wof:lastmodified":1527715625,
+    "wof:lastmodified":1561841707,
     "wof:name":"Diviaky nad Nitricou",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

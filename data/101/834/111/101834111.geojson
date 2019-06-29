@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u010cern\u00edk"
     ],
-    "name:dut_x_preferred":[
-        "\u010cern\u00edk"
-    ],
     "name:eng_x_preferred":[
         "\u010cern\u00edk"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "\u010cern\u00edk"
     ],
-    "name:fre_x_preferred":[
-        "\u010cern\u00edk"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cern\u00edk"
-    ],
     "name:hbs_x_preferred":[
         "\u010cernjik"
     ],
@@ -47,9 +38,6 @@
         "Csornok"
     ],
     "name:ita_x_preferred":[
-        "\u010cern\u00edk"
-    ],
-    "name:may_x_preferred":[
         "\u010cern\u00edk"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "\u010cern\u00edk"
     ],
     "name:slk_x_preferred":[
-        "\u010cern\u00edk"
-    ],
-    "name:slo_x_preferred":[
         "\u010cern\u00edk"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101834111,
-    "wof:lastmodified":1527642933,
+    "wof:lastmodified":1561841696,
     "wof:name":"\u010cern\u00edk",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

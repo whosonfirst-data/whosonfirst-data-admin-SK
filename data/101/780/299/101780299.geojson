@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1136561.637552,
+    "geom:area_square_m":1136561.637553,
     "geom:bbox":"21.9109946032,48.6977540038,21.9313633163,48.712205585",
     "geom:latitude":48.704244,
     "geom:longitude":21.922524,
@@ -22,12 +22,6 @@
     "name:ces_x_preferred":[
         "Lastom\u00edr"
     ],
-    "name:cze_x_preferred":[
-        "Lastom\u00edr"
-    ],
-    "name:dut_x_preferred":[
-        "Lastom\u00edr"
-    ],
     "name:eng_x_preferred":[
         "Lastom\u00edr"
     ],
@@ -35,9 +29,6 @@
         "Lastom\u00edr"
     ],
     "name:fra_x_preferred":[
-        "Lastom\u00edr"
-    ],
-    "name:fre_x_preferred":[
         "Lastom\u00edr"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Lastom\u00edr"
     ],
-    "name:may_x_preferred":[
-        "Lastom\u00edr"
-    ],
     "name:msa_x_preferred":[
         "Lastom\u00edr"
     ],
@@ -61,7 +49,7 @@
     "name:pol_x_preferred":[
         "Lastom\u00edr"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lastom\u00edr"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":101780299,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561841718,
     "wof:name":"Lastom\u00edr",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

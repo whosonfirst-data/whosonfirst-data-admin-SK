@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Star\u00fd Tekov"
     ],
-    "name:dut_x_preferred":[
-        "Star\u00fd Tekov"
-    ],
     "name:eng_x_preferred":[
         "Star\u00fd Tekov"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Star\u00fd Tekov"
     ],
-    "name:fre_x_preferred":[
-        "Star\u00fd Tekov"
-    ],
-    "name:ger_x_preferred":[
-        "Star\u00fd Tekov"
-    ],
     "name:hun_x_preferred":[
         "\u00d3bars"
     ],
     "name:ita_x_preferred":[
-        "Star\u00fd Tekov"
-    ],
-    "name:may_x_preferred":[
         "Star\u00fd Tekov"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Star\u00fd Tekov"
     ],
     "name:slk_x_preferred":[
-        "Star\u00fd Tekov"
-    ],
-    "name:slo_x_preferred":[
         "Star\u00fd Tekov"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101783977,
-    "wof:lastmodified":1527688497,
+    "wof:lastmodified":1561841703,
     "wof:name":"Star\u00fd Tekov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Drienovec"
     ],
-    "name:dut_x_preferred":[
-        "Drienovec"
-    ],
     "name:eng_x_preferred":[
         "Drienovec"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Drienovec"
     ],
-    "name:fre_x_preferred":[
-        "Drienovec"
-    ],
-    "name:ger_x_preferred":[
-        "Drienovec"
-    ],
     "name:hun_x_preferred":[
         "Somodi"
     ],
     "name:ita_x_preferred":[
-        "Drienovec"
-    ],
-    "name:may_x_preferred":[
         "Drienovec"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Drienovec"
     ],
     "name:slk_x_preferred":[
-        "Drienovec"
-    ],
-    "name:slo_x_preferred":[
         "Drienovec"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782915,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Drienovec",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

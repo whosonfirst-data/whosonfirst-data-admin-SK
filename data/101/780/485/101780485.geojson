@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":498445.561787,
+    "geom:area_square_m":498445.561785,
     "geom:bbox":"20.9500137461,49.1257649411,20.9590386112,49.1436578253",
     "geom:latitude":49.136334,
     "geom:longitude":20.954317,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Dubovica"
     ],
-    "name:cze_x_preferred":[
-        "Dubovica"
-    ],
     "name:deu_x_preferred":[
-        "Dubovica"
-    ],
-    "name:dut_x_preferred":[
         "Dubovica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Dubovica"
     ],
-    "name:fre_x_preferred":[
-        "Dubovica"
-    ],
-    "name:ger_x_preferred":[
-        "Dubovica"
-    ],
     "name:hbs_x_preferred":[
         "Dubovica"
     ],
@@ -53,9 +41,6 @@
         "Tarcadob\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Dubovica"
-    ],
-    "name:may_x_preferred":[
         "Dubovica"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "Dubovica"
     ],
     "name:slk_x_preferred":[
-        "Dubovica"
-    ],
-    "name:slo_x_preferred":[
         "Dubovica"
     ],
     "name:spa_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101780485,
-    "wof:lastmodified":1527715865,
+    "wof:lastmodified":1561841713,
     "wof:name":"Dubovica",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

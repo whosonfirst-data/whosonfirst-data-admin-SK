@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Oslany"
     ],
-    "name:cze_x_preferred":[
-        "Oslany"
-    ],
     "name:deu_x_preferred":[
-        "Oslany"
-    ],
-    "name:dut_x_preferred":[
         "Oslany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Oslany"
     ],
-    "name:fre_x_preferred":[
-        "Oslany"
-    ],
-    "name:ger_x_preferred":[
-        "Oslany"
-    ],
     "name:hbs_x_preferred":[
         "Oslani"
     ],
@@ -53,9 +41,6 @@
         "Oszl\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Oslany"
-    ],
-    "name:may_x_preferred":[
         "Oslany"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Oslany"
     ],
     "name:slk_x_preferred":[
-        "Oslany"
-    ],
-    "name:slo_x_preferred":[
         "Oslany"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +109,7 @@
         }
     ],
     "wof:id":101784143,
-    "wof:lastmodified":1527688541,
+    "wof:lastmodified":1561841705,
     "wof:name":"Oslany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":917153.85991,
+    "geom:area_square_m":917153.859911,
     "geom:bbox":"19.8186663994,49.0405918842,19.8394603579,49.0514460305",
     "geom:latitude":49.045327,
     "geom:longitude":19.83041,
@@ -27,13 +27,7 @@
     "name:ces_x_preferred":[
         "Hybe"
     ],
-    "name:cze_x_preferred":[
-        "Hybe"
-    ],
     "name:deu_x_preferred":[
-        "Hybe"
-    ],
-    "name:dut_x_preferred":[
         "Hybe"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +39,6 @@
     "name:fra_x_preferred":[
         "Hybe"
     ],
-    "name:fre_x_preferred":[
-        "Hybe"
-    ],
-    "name:ger_x_preferred":[
-        "Hybe"
-    ],
     "name:hbs_x_preferred":[
         "Hibe"
     ],
@@ -58,9 +46,6 @@
         "Hibbe"
     ],
     "name:ita_x_preferred":[
-        "Hybe"
-    ],
-    "name:may_x_preferred":[
         "Hybe"
     ],
     "name:msa_x_preferred":[
@@ -73,9 +58,6 @@
         "Hybie"
     ],
     "name:slk_x_preferred":[
-        "Hybe"
-    ],
-    "name:slo_x_preferred":[
         "Hybe"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780365,
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841712,
     "wof:name":"Hybe",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

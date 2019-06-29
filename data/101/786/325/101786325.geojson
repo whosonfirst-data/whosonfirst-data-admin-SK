@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Zemn\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Zemn\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Zemn\u00e9"
     ],
@@ -32,12 +29,6 @@
         "Zemn\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Zemn\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Zemn\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Zemn\u00e9"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +41,6 @@
         "Szim\u0151"
     ],
     "name:ita_x_preferred":[
-        "Zemn\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Zemn\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +56,6 @@
         "\u0417\u0435\u043c\u043d\u043e"
     ],
     "name:slk_x_preferred":[
-        "Zemn\u00e9"
-    ],
-    "name:slo_x_preferred":[
         "Zemn\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786325,
-    "wof:lastmodified":1527715648,
+    "wof:lastmodified":1561841710,
     "wof:name":"Zemn\u00e9",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

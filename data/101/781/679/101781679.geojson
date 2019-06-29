@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1146515.144014,
+    "geom:area_square_m":1146515.144013,
     "geom:bbox":"18.4861049309,48.7413619691,18.5074585596,48.7538594397",
     "geom:latitude":48.747639,
     "geom:longitude":18.497645,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Diviacka Nov\u00e1 Ves"
     ],
-    "name:cze_x_preferred":[
-        "Diviacka Nov\u00e1 Ves"
-    ],
     "name:deu_x_preferred":[
-        "Diviacka Nov\u00e1 Ves"
-    ],
-    "name:dut_x_preferred":[
         "Diviacka Nov\u00e1 Ves"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Diviacka Nov\u00e1 Ves"
     ],
-    "name:fre_x_preferred":[
-        "Diviacka Nov\u00e1 Ves"
-    ],
-    "name:ger_x_preferred":[
-        "Diviacka Nov\u00e1 Ves"
-    ],
     "name:hun_x_preferred":[
         "Div\u00e9k\u00fajfalu"
     ],
     "name:ita_x_preferred":[
-        "Diviacka Nov\u00e1 Ves"
-    ],
-    "name:may_x_preferred":[
         "Diviacka Nov\u00e1 Ves"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Diviacka Nov\u00e1 Ves"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Diviacka Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101781679,
-    "wof:lastmodified":1553815497,
+    "wof:lastmodified":1561841708,
     "wof:name":"Diviacka Nov\u00e1 Ves",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

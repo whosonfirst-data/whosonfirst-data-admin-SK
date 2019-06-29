@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":2831785.063474,
+    "geom:area_square_m":2831785.063475,
     "geom:bbox":"17.5594539228,48.1514617384,17.5887520061,48.1740968707",
     "geom:latitude":48.164065,
     "geom:longitude":17.574248,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
-    "name:dut_x_preferred":[
-        "Ve\u013ek\u00e9 \u00da\u013eany"
-    ],
     "name:eng_x_preferred":[
         "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e9 \u00da\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00e9 \u00da\u013eany"
-    ],
     "name:hbs_x_preferred":[
         "Veljke Uljani"
     ],
@@ -47,9 +38,6 @@
         "Nagyf\u00f6d\u00e9mes"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00e9 \u00da\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
     "name:slk_x_preferred":[
-        "Ve\u013ek\u00e9 \u00da\u013eany"
-    ],
-    "name:slo_x_preferred":[
         "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101786401,
-    "wof:lastmodified":1527715645,
+    "wof:lastmodified":1561841709,
     "wof:name":"Ve\u013ek\u00e9 \u00da\u013eany",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

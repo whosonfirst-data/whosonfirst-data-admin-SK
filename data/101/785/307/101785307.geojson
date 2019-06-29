@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
-    "name:cze_x_preferred":[
-        "Hrn\u010diarovce nad Parnou"
-    ],
     "name:deu_x_preferred":[
-        "Hrn\u010diarovce nad Parnou"
-    ],
-    "name:dut_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
-    "name:fre_x_preferred":[
-        "Hrn\u010diarovce nad Parnou"
-    ],
-    "name:ger_x_preferred":[
-        "Hrn\u010diarovce nad Parnou"
-    ],
     "name:hun_x_preferred":[
         "Gerencs\u00e9r"
     ],
     "name:ita_x_preferred":[
-        "Hrn\u010diarovce nad Parnou"
-    ],
-    "name:may_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677691,
+    "wof:lastmodified":1561841697,
     "wof:name":"Hrn\u010diarovce nad Parnou",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

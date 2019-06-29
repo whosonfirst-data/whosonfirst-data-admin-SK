@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1617608.289577,
+    "geom:area_square_m":1617608.289576,
     "geom:bbox":"16.9826749628,48.5800100864,17.0147008952,48.5942863641",
     "geom:latitude":48.588753,
     "geom:longitude":16.998214,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
-    "name:cze_x_preferred":[
-        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
-    ],
     "name:deu_x_preferred":[
-        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
-    ],
-    "name:dut_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
-    ],
-    "name:ger_x_preferred":[
-        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
-    ],
     "name:hun_x_preferred":[
         "Morvaszentj\u00e1nos"
     ],
     "name:ita_x_preferred":[
-        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
-    ],
-    "name:may_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101833945,
-    "wof:lastmodified":1527642929,
+    "wof:lastmodified":1561841696,
     "wof:name":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Demandice"
     ],
-    "name:cze_x_preferred":[
-        "Demandice"
-    ],
     "name:deu_x_preferred":[
-        "Demandice"
-    ],
-    "name:dut_x_preferred":[
         "Demandice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Demandice"
     ],
-    "name:fre_x_preferred":[
-        "Demandice"
-    ],
-    "name:ger_x_preferred":[
-        "Demandice"
-    ],
     "name:hun_x_preferred":[
         "Dem\u00e9nd"
     ],
     "name:ita_x_preferred":[
-        "Demandice"
-    ],
-    "name:may_x_preferred":[
         "Demandice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Demandice"
     ],
     "name:slk_x_preferred":[
-        "Demandice"
-    ],
-    "name:slo_x_preferred":[
         "Demandice"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101783987,
-    "wof:lastmodified":1527688504,
+    "wof:lastmodified":1561841703,
     "wof:name":"Demandice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

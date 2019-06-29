@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
     "name:deu_x_preferred":[
-        "Orechov\u00e1 Pot\u00f4\u0148"
-    ],
-    "name:dut_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
-    "name:fre_x_preferred":[
-        "Orechov\u00e1 Pot\u00f4\u0148"
-    ],
-    "name:ger_x_preferred":[
-        "Orechov\u00e1 Pot\u00f4\u0148"
-    ],
     "name:hbs_x_preferred":[
         "Orehova Potonj"
     ],
@@ -50,9 +41,6 @@
         "Di\u00f3sf\u00f6rgepatony"
     ],
     "name:ita_x_preferred":[
-        "Orechov\u00e1 Pot\u00f4\u0148"
-    ],
-    "name:may_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +55,7 @@
     "name:por_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Orechov\u00e1 Pot\u00f4\u0148"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":101786313,
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561841710,
     "wof:name":"Orechov\u00e1 Pot\u00f4\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

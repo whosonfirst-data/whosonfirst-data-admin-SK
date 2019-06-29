@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
-    "geom:area_square_m":2273440.413943,
+    "geom:area_square_m":2273440.413945,
     "geom:bbox":"18.5237144986,48.0895090872,18.5502389831,48.1152785022",
     "geom:latitude":48.101002,
     "geom:longitude":18.537463,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
     "name:deu_x_preferred":[
-        "Tekovsk\u00e9 Lu\u017eany"
-    ],
-    "name:dut_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
-    "name:fre_x_preferred":[
-        "Tekovsk\u00e9 Lu\u017eany"
-    ],
-    "name:ger_x_preferred":[
-        "Tekovsk\u00e9 Lu\u017eany"
-    ],
     "name:hun_x_preferred":[
         "Nagysall\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Tekovsk\u00e9 Lu\u017eany"
-    ],
-    "name:may_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Tekovsk\u00e9 Lu\u017eany"
     ],
     "name:slk_x_preferred":[
-        "Tekovsk\u00e9 Lu\u017eany"
-    ],
-    "name:slo_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786419,
-    "wof:lastmodified":1527715650,
+    "wof:lastmodified":1561841710,
     "wof:name":"Tekovsk\u00e9 Lu\u017eany",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

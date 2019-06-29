@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Trst\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "Trst\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "Trst\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Trst\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Trst\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Trst\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Trst\u00edn"
-    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d0\u05d3\u05d0\u05e9"
     ],
@@ -53,9 +41,6 @@
         "Pozsonyn\u00e1das"
     ],
     "name:ita_x_preferred":[
-        "Trst\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Trst\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:por_x_preferred":[
         "Trst\u00edn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Trst\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688537,
+    "wof:lastmodified":1561841704,
     "wof:name":"Trst\u00edn",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":4397531.728429,
+    "geom:area_square_m":4397531.72843,
     "geom:bbox":"18.1766974262,47.858044836,18.226403115,47.8940829659",
     "geom:latitude":47.877331,
     "geom:longitude":18.19662,
@@ -29,20 +29,11 @@
     "name:ces_x_preferred":[
         "Hurbanovo"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u723e\u5df4\u8afe\u6c83"
-    ],
-    "name:cze_x_preferred":[
-        "Hurbanovo"
-    ],
     "name:deu_x_preferred":[
         "Hurbanovo"
     ],
     "name:deu_x_variant":[
         "Altdala"
-    ],
-    "name:dut_x_preferred":[
-        "Hurbanovo"
     ],
     "name:eng_x_preferred":[
         "Hurbanovo"
@@ -54,12 +45,6 @@
         "\u0647\u0648\u0631\u0628\u0627\u0646\u0648\u0648"
     ],
     "name:fra_x_preferred":[
-        "Hurbanovo"
-    ],
-    "name:fre_x_preferred":[
-        "Hurbanovo"
-    ],
-    "name:ger_x_preferred":[
         "Hurbanovo"
     ],
     "name:hbs_x_preferred":[
@@ -77,17 +62,11 @@
     "name:lav_x_preferred":[
         "Hurbanovo"
     ],
-    "name:may_x_preferred":[
-        "Hurbanovo"
-    ],
     "name:msa_x_preferred":[
         "Hurbanovo"
     ],
     "name:nld_x_preferred":[
         "Hurbanovo"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0631\u0628\u0627\u0646\u0648\u0648"
     ],
     "name:pol_x_preferred":[
         "Hurbanovo"
@@ -95,16 +74,10 @@
     "name:ron_x_preferred":[
         "Hurbanovo"
     ],
-    "name:rum_x_preferred":[
-        "Hurbanovo"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u0440\u0431\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:slk_x_preferred":[
-        "Hurbanovo"
-    ],
-    "name:slo_x_preferred":[
         "Hurbanovo"
     ],
     "name:spa_x_preferred":[
@@ -181,7 +154,7 @@
         }
     ],
     "wof:id":101787485,
-    "wof:lastmodified":1527715843,
+    "wof:lastmodified":1561841711,
     "wof:name":"Hurbanovo",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

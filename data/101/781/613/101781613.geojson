@@ -32,16 +32,7 @@
     "name:ces_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u820a\u5716\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Star\u00e1 Tur\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Star\u00e1 Tur\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0633\u062a\u0627\u0631\u0627 \u062a\u0648\u0631\u0627"
     ],
     "name:fra_x_preferred":[
-        "Star\u00e1 Tur\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Star\u00e1 Tur\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
     "name:hrv_x_preferred":[
@@ -77,25 +62,25 @@
     "name:lit_x_preferred":[
         "Stara Tura"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
     "name:nan_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u0627\u0631\u0627 \u062a\u0648\u0631\u0627"
+    "name:nld_x_preferred":[
+        "Star\u00e1 Tur\u00e1"
     ],
     "name:pol_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430-\u0422\u0443\u0440\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Star\u00e1 Tur\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -109,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Star\u00e1 Tur\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u5716\u62c9"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -159,7 +147,7 @@
         }
     ],
     "wof:id":101781613,
-    "wof:lastmodified":1527715629,
+    "wof:lastmodified":1561841708,
     "wof:name":"Star\u00e1 Tur\u00e1",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

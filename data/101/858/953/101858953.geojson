@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Hronec"
     ],
-    "name:cze_x_preferred":[
-        "Hronec"
-    ],
     "name:deu_x_preferred":[
-        "Hronec"
-    ],
-    "name:dut_x_preferred":[
         "Hronec"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Hronec"
     ],
-    "name:fre_x_preferred":[
-        "Hronec"
-    ],
-    "name:ger_x_preferred":[
-        "Hronec"
-    ],
     "name:hbs_x_preferred":[
         "Hronjec"
     ],
@@ -53,9 +41,6 @@
         "Kisgaram"
     ],
     "name:ita_x_preferred":[
-        "Hronec"
-    ],
-    "name:may_x_preferred":[
         "Hronec"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u0413\u0440\u043e\u043d\u0435\u0446"
     ],
     "name:slk_x_preferred":[
-        "Hronec"
-    ],
-    "name:slo_x_preferred":[
         "Hronec"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +111,7 @@
         }
     ],
     "wof:id":101858953,
-    "wof:lastmodified":1544744666,
+    "wof:lastmodified":1561841695,
     "wof:name":"Hronec",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

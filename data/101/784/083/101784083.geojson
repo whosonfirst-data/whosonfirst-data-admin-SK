@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
     "name:deu_x_preferred":[
-        "Kl\u00e1tova Nov\u00e1 Ves"
-    ],
-    "name:dut_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
-    "name:fre_x_preferred":[
-        "Kl\u00e1tova Nov\u00e1 Ves"
-    ],
-    "name:ger_x_preferred":[
-        "Kl\u00e1tova Nov\u00e1 Ves"
-    ],
     "name:hbs_x_preferred":[
         "Klatova Nova Ves"
     ],
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
-    "name:may_x_preferred":[
-        "Kl\u00e1tova Nov\u00e1 Ves"
-    ],
     "name:msa_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
@@ -62,9 +50,6 @@
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
     "name:slk_x_preferred":[
-        "Kl\u00e1tova Nov\u00e1 Ves"
-    ],
-    "name:slo_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101784083,
-    "wof:lastmodified":1527688537,
+    "wof:lastmodified":1561841704,
     "wof:name":"Kl\u00e1tova Nov\u00e1 Ves",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

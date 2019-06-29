@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":1704938.663421,
+    "geom:area_square_m":1704938.663423,
     "geom:bbox":"17.4856704553,48.44733101,17.5107117545,48.4726648118",
     "geom:latitude":48.461762,
     "geom:longitude":17.497755,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Boler\u00e1z"
     ],
-    "name:cze_x_preferred":[
-        "Boler\u00e1z"
-    ],
     "name:deu_x_preferred":[
-        "Boler\u00e1z"
-    ],
-    "name:dut_x_preferred":[
         "Boler\u00e1z"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Boler\u00e1z"
     ],
-    "name:fre_x_preferred":[
-        "Boler\u00e1z"
-    ],
-    "name:ger_x_preferred":[
-        "Boler\u00e1z"
-    ],
     "name:hun_x_preferred":[
         "B\u00e9lah\u00e1z"
     ],
     "name:ita_x_preferred":[
-        "Boler\u00e1z"
-    ],
-    "name:may_x_preferred":[
         "Boler\u00e1z"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0435\u0440\u0430\u0437"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Boler\u00e1z"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Boler\u00e1z",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

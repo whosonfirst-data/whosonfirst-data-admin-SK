@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000937,
-    "geom:area_square_m":7613739.388355,
+    "geom:area_square_m":7613739.388353,
     "geom:bbox":"20.5393654494,48.919566144,20.6017517851,48.9560203683",
     "geom:latitude":48.940475,
     "geom:longitude":20.565479,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u0634\u0633\u0643\u0627 \u0646\u0648\u0641\u0627 \u0641\u064a\u0633"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056c\u056b\u0577\u057d\u056f\u0561 \u0546\u0578\u057e\u0561 \u054e\u0565\u057d"
     ],
     "name:aze_x_preferred":[
         "Spi\u015fska Nova Ves"
@@ -42,14 +39,8 @@
     "name:ces_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u76ae\u4ec0\u65b0\u6751"
-    ],
     "name:ckb_x_preferred":[
         "\u0627\u0628\u0644\u0627\u0647\u062a"
-    ],
-    "name:cze_x_preferred":[
-        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:dan_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
@@ -60,22 +51,19 @@
     "name:deu_x_variant":[
         "Neudorf"
     ],
-    "name:dut_x_preferred":[
-        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
-    ],
     "name:eng_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:epo_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0627 \u0646\u0648\u0627 \u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:fre_x_preferred":[
-        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:hrv_x_preferred":[
@@ -83,6 +71,9 @@
     ],
     "name:hun_x_preferred":[
         "Igl\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056c\u056b\u0577\u057d\u056f\u0561 \u0546\u0578\u057e\u0561 \u054e\u0565\u057d"
     ],
     "name:ind_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
@@ -99,17 +90,17 @@
     "name:lit_x_preferred":[
         "Spi\u0161ska Nova Ves\u0117"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:nan_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0627 \u0646\u0648\u0627 \u0648\u0633"
+    "name:nob_x_preferred":[
+        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:pol_x_preferred":[
         "Spiska Nowa Wie\u015b"
@@ -117,16 +108,10 @@
     "name:ron_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:rum_x_preferred":[
-        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0438\u0448\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:slk_x_preferred":[
-        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
-    ],
-    "name:slo_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:slv_x_preferred":[
@@ -152,6 +137,9 @@
     ],
     "name:war_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u76ae\u4ec0\u65b0\u6751"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -206,7 +194,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642785,
+    "wof:lastmodified":1561841694,
     "wof:name":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

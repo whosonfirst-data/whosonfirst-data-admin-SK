@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Bu\u0161ince"
     ],
-    "name:dut_x_preferred":[
-        "Bu\u0161ince"
-    ],
     "name:eng_x_preferred":[
         "Bu\u0161ince"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Bu\u0161ince"
     ],
-    "name:fre_x_preferred":[
-        "Bu\u0161ince"
-    ],
-    "name:ger_x_preferred":[
-        "Bu\u0161ince"
-    ],
     "name:hun_x_preferred":[
         "Bussa"
     ],
     "name:ita_x_preferred":[
-        "Bu\u0161ince"
-    ],
-    "name:may_x_preferred":[
         "Bu\u0161ince"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Bu\u0161ince"
     ],
     "name:slk_x_preferred":[
-        "Bu\u0161ince"
-    ],
-    "name:slo_x_preferred":[
         "Bu\u0161ince"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101785255,
-    "wof:lastmodified":1527684902,
+    "wof:lastmodified":1561841699,
     "wof:name":"Bu\u0161ince",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

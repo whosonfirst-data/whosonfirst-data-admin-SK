@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
-    "name:cze_x_preferred":[
-        "Z\u00e1kop\u010die"
-    ],
     "name:deu_x_preferred":[
-        "Z\u00e1kop\u010die"
-    ],
-    "name:dut_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
-    "name:fre_x_preferred":[
-        "Z\u00e1kop\u010die"
-    ],
-    "name:ger_x_preferred":[
-        "Z\u00e1kop\u010die"
-    ],
     "name:hun_x_preferred":[
         "Dombelve"
     ],
     "name:ita_x_preferred":[
-        "Z\u00e1kop\u010die"
-    ],
-    "name:may_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101860175,
-    "wof:lastmodified":1544745301,
+    "wof:lastmodified":1561841695,
     "wof:name":"Z\u00e1kop\u010die",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

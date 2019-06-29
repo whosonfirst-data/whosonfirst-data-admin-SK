@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Nov\u00e1ky"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u74e6\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Nov\u00e1ky"
-    ],
     "name:deu_x_preferred":[
-        "Nov\u00e1ky"
-    ],
-    "name:dut_x_preferred":[
         "Nov\u00e1ky"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u0646\u0648\u0627\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Nov\u00e1ky"
-    ],
-    "name:fre_x_preferred":[
-        "Nov\u00e1ky"
-    ],
-    "name:ger_x_preferred":[
         "Nov\u00e1ky"
     ],
     "name:heb_x_preferred":[
@@ -71,25 +56,25 @@
     "name:lav_x_preferred":[
         "Nov\u0101ki"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nov\u00e1ky"
     ],
     "name:nan_x_preferred":[
         "Nov\u00e1ky"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0627\u06a9\u06cc"
+    "name:nld_x_preferred":[
+        "Nov\u00e1ky"
     ],
     "name:pol_x_preferred":[
         "Nov\u00e1ky"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nov\u00e1ky"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u043a\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00e1ky"
     ],
     "name:spa_x_preferred":[
@@ -112,6 +97,9 @@
     ],
     "name:war_x_preferred":[
         "Nov\u00e1ky"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u74e6\u57fa"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -163,7 +151,7 @@
         }
     ],
     "wof:id":101875825,
-    "wof:lastmodified":1544751959,
+    "wof:lastmodified":1561841688,
     "wof:name":"Nov\u00e1ky",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
-    "name:cze_x_preferred":[
-        "Nitrianske Hrn\u010diarovce"
-    ],
     "name:deu_x_preferred":[
-        "Nitrianske Hrn\u010diarovce"
-    ],
-    "name:dut_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
-    "name:fre_x_preferred":[
-        "Nitrianske Hrn\u010diarovce"
-    ],
-    "name:ger_x_preferred":[
-        "Nitrianske Hrn\u010diarovce"
-    ],
     "name:hbs_x_preferred":[
         "Njitranske Hrn\u010djarovce"
     ],
@@ -55,16 +43,13 @@
     "name:ita_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
-    "name:may_x_preferred":[
-        "Nitrianske Hrn\u010diarovce"
-    ],
     "name:msa_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
     "name:nld_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641851,
+    "wof:lastmodified":1561841687,
     "wof:name":"Nitrianske Hrn\u010diarovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

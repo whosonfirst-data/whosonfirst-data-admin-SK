@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ko\u0161\u00faty"
     ],
-    "name:dut_x_preferred":[
-        "Ko\u0161\u00faty"
-    ],
     "name:eng_x_preferred":[
         "Ko\u0161\u00faty"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Ko\u0161\u00faty"
     ],
-    "name:fre_x_preferred":[
-        "Ko\u0161\u00faty"
-    ],
-    "name:ger_x_preferred":[
-        "Ko\u0161\u00faty"
-    ],
     "name:hbs_x_preferred":[
         "Ko\u0161uti"
     ],
@@ -47,9 +38,6 @@
         "Nemeskos\u00fat"
     ],
     "name:ita_x_preferred":[
-        "Ko\u0161\u00faty"
-    ],
-    "name:may_x_preferred":[
         "Ko\u0161\u00faty"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Ko\u0161\u00faty"
     ],
     "name:slk_x_preferred":[
-        "Ko\u0161\u00faty"
-    ],
-    "name:slo_x_preferred":[
         "Ko\u0161\u00faty"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101786399,
-    "wof:lastmodified":1553815501,
+    "wof:lastmodified":1561841709,
     "wof:name":"Ko\u0161\u00faty",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

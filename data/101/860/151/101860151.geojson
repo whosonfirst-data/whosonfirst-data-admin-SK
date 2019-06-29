@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Valaliky"
     ],
-    "name:cze_x_preferred":[
-        "Valaliky"
-    ],
     "name:deu_x_preferred":[
-        "Valaliky"
-    ],
-    "name:dut_x_preferred":[
         "Valaliky"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Valaliky"
     ],
-    "name:fre_x_preferred":[
-        "Valaliky"
-    ],
-    "name:ger_x_preferred":[
-        "Valaliky"
-    ],
     "name:hun_x_preferred":[
         "Kassamindszent"
     ],
     "name:ita_x_preferred":[
-        "Valaliky"
-    ],
-    "name:may_x_preferred":[
         "Valaliky"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +50,6 @@
         "Valaliky"
     ],
     "name:slk_x_preferred":[
-        "Valaliky"
-    ],
-    "name:slo_x_preferred":[
         "Valaliky"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +108,7 @@
         }
     ],
     "wof:id":101860151,
-    "wof:lastmodified":1544745289,
+    "wof:lastmodified":1561841694,
     "wof:name":"Valaliky",
     "wof:parent_id":102080535,
     "wof:placetype":"locality",

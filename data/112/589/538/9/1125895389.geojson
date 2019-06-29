@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Patince"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Patince"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Patince"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Patince"
     ],
-    "name:fre_x_preferred":[
-        "Patince"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Patince"
     ],
     "name:hun_x_preferred":[
@@ -51,13 +48,16 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30c6\u30a3\u30f3\u30b9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Patince"
     ],
     "name:nan_x_preferred":[
         "Patince"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Patince"
+    ],
+    "name:slk_x_preferred":[
         "Patince"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1125895389,
-    "wof:lastmodified":1514505220,
+    "wof:lastmodified":1561841723,
     "wof:name":"Patince",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1126581.343721,
+    "geom:area_square_m":1126581.34372,
     "geom:bbox":"21.7760140927,48.73209341,21.7917300423,48.7487647654",
     "geom:latitude":48.740322,
     "geom:longitude":21.783874,
@@ -19,10 +19,10 @@
     "name:cat_x_preferred":[
         "Moravany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Moravany"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Moravany"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:epo_x_preferred":[
         "Moravany"
     ],
-    "name:fre_x_preferred":[
-        "Moravany"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Moravany"
     ],
     "name:hun_x_preferred":[
@@ -43,13 +40,16 @@
     "name:ita_x_preferred":[
         "Moravany"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Moravany"
+    ],
+    "name:nld_x_preferred":[
         "Moravany"
     ],
     "name:pol_x_preferred":[
         "Moravany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Moravany"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101843897,
-    "wof:lastmodified":1514505184,
+    "wof:lastmodified":1561841692,
     "wof:name":"Moravany",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

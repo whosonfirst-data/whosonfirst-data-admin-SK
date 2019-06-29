@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":1844533.97023,
+    "geom:area_square_m":1844533.970231,
     "geom:bbox":"19.7852455254,48.4199219582,19.8095571677,48.4420738294",
     "geom:latitude":48.429294,
     "geom:longitude":19.794811,
@@ -20,26 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u062a\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u056c\u057f\u0561\u0580"
-    ],
     "name:cat_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:ces_x_preferred":[
         "Polt\u00e1r"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u723e\u5854\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Polt\u00e1r"
-    ],
     "name:deu_x_preferred":[
         "Polt\u00e1r"
     ],
-    "name:dut_x_preferred":[
-        "Polt\u00e1r"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03c4\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Polt\u00e1r"
@@ -53,15 +44,6 @@
     "name:fra_x_preferred":[
         "Polt\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Polt\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Polt\u00e1r"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03c4\u03ac\u03c1"
-    ],
     "name:hbs_x_preferred":[
         "Poltar"
     ],
@@ -71,16 +53,22 @@
     "name:hun_x_preferred":[
         "Polt\u00e1r"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056c\u057f\u0561\u0580"
+    ],
     "name:ita_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:lav_x_preferred":[
         "Polt\u0101ra"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:nan_x_preferred":[
+        "Polt\u00e1r"
+    ],
+    "name:nld_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:nno_x_preferred":[
@@ -89,19 +77,16 @@
     "name:nob_x_preferred":[
         "Polt\u00e1r"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u062a\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Polt\u00e1r"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:spa_x_preferred":[
@@ -181,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688314,
+    "wof:lastmodified":1561841699,
     "wof:name":"Polt\u00e1r",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

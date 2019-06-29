@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Devi\u010dany"
     ],
-    "name:cze_x_preferred":[
-        "Devi\u010dany"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Devi\u010dany"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Devi\u010dany"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Devi\u010dany"
     ],
     "name:hun_x_preferred":[
@@ -42,16 +39,19 @@
     "name:ita_x_preferred":[
         "Devi\u010dany"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Devi\u010dany"
     ],
     "name:nan_x_preferred":[
         "Devi\u010dany"
     ],
+    "name:nld_x_preferred":[
+        "Devi\u010dany"
+    ],
     "name:pol_x_preferred":[
         "Devi\u010dany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Devi\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125880697,
-    "wof:lastmodified":1514505077,
+    "wof:lastmodified":1561841723,
     "wof:name":"Devi\u010dany",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

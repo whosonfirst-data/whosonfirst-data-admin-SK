@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Selice"
     ],
-    "name:cze_x_preferred":[
-        "Selice"
-    ],
     "name:deu_x_preferred":[
-        "Selice"
-    ],
-    "name:dut_x_preferred":[
         "Selice"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Selice"
     ],
     "name:fra_x_preferred":[
-        "Selice"
-    ],
-    "name:fre_x_preferred":[
-        "Selice"
-    ],
-    "name:ger_x_preferred":[
         "Selice"
     ],
     "name:hbs_x_preferred":[
@@ -58,9 +46,6 @@
     "name:ita_x_preferred":[
         "Selice"
     ],
-    "name:may_x_preferred":[
-        "Selice"
-    ],
     "name:msa_x_preferred":[
         "Selice"
     ],
@@ -71,9 +56,6 @@
         "Selice"
     ],
     "name:slk_x_preferred":[
-        "Selice"
-    ],
-    "name:slo_x_preferred":[
         "Selice"
     ],
     "name:srp_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101786385,
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561841710,
     "wof:name":"Selice",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

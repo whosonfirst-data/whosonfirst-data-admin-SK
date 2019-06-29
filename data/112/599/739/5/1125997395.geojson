@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Ilija"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ilija"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ilija"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Ilija"
     ],
-    "name:fre_x_preferred":[
-        "Ilija"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ilija"
     ],
     "name:hrv_x_preferred":[
@@ -48,13 +45,16 @@
     "name:ita_x_preferred":[
         "Ilija"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ilija"
+    ],
+    "name:nld_x_preferred":[
         "Ilija"
     ],
     "name:pol_x_preferred":[
         "Ilija"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ilija"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125997395,
-    "wof:lastmodified":1514505116,
+    "wof:lastmodified":1561841724,
     "wof:name":"Ilija",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":548263.068603,
+    "geom:area_square_m":548263.068604,
     "geom:bbox":"19.47951974,49.3046700398,19.4918092686,49.3120275787",
     "geom:latitude":49.308254,
     "geom:longitude":19.485602,
@@ -16,22 +16,13 @@
     "mps:longitude":19.485602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0564\u0562\u056b\u0565\u056c"
-    ],
     "name:cat_x_preferred":[
         "Podbiel"
     ],
     "name:ces_x_preferred":[
         "Podbiel"
     ],
-    "name:cze_x_preferred":[
-        "Podbiel"
-    ],
     "name:deu_x_preferred":[
-        "Podbiel"
-    ],
-    "name:dut_x_preferred":[
         "Podbiel"
     ],
     "name:eng_x_preferred":[
@@ -43,22 +34,16 @@
     "name:fra_x_preferred":[
         "Podbiel"
     ],
-    "name:fre_x_preferred":[
-        "Podbiel"
-    ],
-    "name:ger_x_preferred":[
-        "Podbiel"
-    ],
     "name:hbs_x_preferred":[
         "Podbjel"
     ],
     "name:hun_x_preferred":[
         "Podbjel"
     ],
-    "name:ita_x_preferred":[
-        "Podbiel"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0564\u0562\u056b\u0565\u056c"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Podbiel"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
         "\u041f\u043e\u0434\u0431\u044c\u0435\u043b"
     ],
     "name:slk_x_preferred":[
-        "Podbiel"
-    ],
-    "name:slo_x_preferred":[
         "Podbiel"
     ],
     "name:srp_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101780553,
-    "wof:lastmodified":1527715872,
+    "wof:lastmodified":1561841716,
     "wof:name":"Podbiel",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

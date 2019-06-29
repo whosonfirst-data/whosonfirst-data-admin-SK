@@ -27,14 +27,8 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0631\u0627\u062a\u064a\u0633\u0644\u0627\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u0561\u057f\u056b\u057d\u056c\u0561\u057e\u0561\u0575\u056b \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
-    ],
     "name:aze_x_preferred":[
         "Bratislava b\u00f6lg\u0259si"
-    ],
-    "name:baq_x_preferred":[
-        "Bratislava eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u0430\u0446\u0456\u0441\u043b\u0430\u045e\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
@@ -54,20 +48,20 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Bratislava"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u8fea\u65af\u62c9\u767c\u5dde"
+    "name:ces_x_preferred":[
+        "Bratislavsk\u00fd kraj"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 \u0435\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Bratislavsk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Bratislava"
     ],
-    "name:dut_x_preferred":[
-        "Bratislava"
+    "name:deu_x_preferred":[
+        "Bratislavsk\u00fd kraj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b1\u03c4\u03b9\u03c3\u03bb\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bratislava"
@@ -78,6 +72,12 @@
     "name:est_x_preferred":[
         "Bratislava maakond"
     ],
+    "name:eus_x_preferred":[
+        "Bratislava eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0628\u0631\u0627\u062a\u06cc\u0633\u0644\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bratislavan alue"
     ],
@@ -86,18 +86,6 @@
     ],
     "name:fra_x_variant":[
         "Bratislava"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Bratislava"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10e2\u10d8\u10e1\u10da\u10d0\u10d5\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bratislavsk\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b1\u03c4\u03b9\u03c3\u03bb\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ac7\u0a9f\u0abf\u0ab8\u0acd\u0ab2\u0abe\u0ab5\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -111,6 +99,9 @@
     "name:hun_x_preferred":[
         "Pozsonyi k\u00f6rzet"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0561\u057f\u056b\u057d\u056c\u0561\u057e\u0561\u0575\u056b \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
     "name:ind_x_preferred":[
         "Region Bratislava"
     ],
@@ -122,6 +113,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cbe\u0c9f\u0cbf\u0cb8\u0ccd\u0cb2\u0cbe\u0cb5\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10e2\u10d8\u10e1\u10da\u10d0\u10d5\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\ud2f0\uc2ac\ub77c\ubc14 \uc8fc"
@@ -135,29 +129,29 @@
     "name:lit_x_preferred":[
         "Bratislavos kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0945\u091f\u093f\u0938\u094d\u0932\u093e\u0935\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Daerah Bratislava"
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Daerah Bratislava"
+    ],
     "name:nan_x_preferred":[
         "Bratislava Khu"
+    ],
+    "name:nld_x_preferred":[
+        "Bratislava"
     ],
     "name:nob_x_preferred":[
         "Bratislava"
     ],
     "name:oci_x_preferred":[
         "Bratislava"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0628\u0631\u0627\u062a\u06cc\u0633\u0644\u0627\u0648\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u0627\u062a\u06cc\u0633\u0644\u0627\u0648\u0627 \u06a9\u0631\u0627\u0626\u06cc"
@@ -168,11 +162,11 @@
     "name:por_x_preferred":[
         "Bratislava"
     ],
+    "name:ron_x_preferred":[
+        "Regiunea Bratislava"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0457\u0441\u043b\u0430\u0432\u0441\u043a\u044b\u0439 \u043a\u0440\u0430\u0439"
-    ],
-    "name:rum_x_preferred":[
-        "Regiunea Bratislava"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -183,7 +177,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u200d\u0dbb\u0da7\u0dd2\u0dc3\u0dca\u0dbd\u0dc0\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bratislavsk\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -224,6 +218,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05d0\u05d8\u05d9\u05e1\u05dc\u05d0\u05d5\u05d5\u05d0 \u05e8\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u8fea\u65af\u62c9\u767c\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SVK",
@@ -341,7 +338,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1553550958,
+    "wof:lastmodified":1561841680,
     "wof:name":"Bratislavsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

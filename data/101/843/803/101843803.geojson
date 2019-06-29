@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1036885.400178,
+    "geom:area_square_m":1036885.400177,
     "geom:bbox":"18.7788469033,48.6126776179,18.8000130631,48.623527767",
     "geom:latitude":48.617874,
     "geom:longitude":18.789711,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "Lov\u010dica-Trub\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "Lov\u010dica-Trub\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Lov\u010dica-Trub\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Lov\u010dica-Trub\u00edn"
-    ],
     "name:hun_x_preferred":[
         "L\u00f3csak\u00fcrt\u00f6s"
     ],
     "name:ita_x_preferred":[
-        "Lov\u010dica-Trub\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101843803,
-    "wof:lastmodified":1527642592,
+    "wof:lastmodified":1561841690,
     "wof:name":"Lov\u010dica - Trub\u00edn",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

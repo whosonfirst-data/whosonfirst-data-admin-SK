@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1555599.554246,
+    "geom:area_square_m":1555599.554245,
     "geom:bbox":"17.8185957445,47.8448906167,17.8371657918,47.8676241268",
     "geom:latitude":47.855959,
     "geom:longitude":17.826879,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Sokolce"
     ],
-    "name:dut_x_preferred":[
-        "Sokolce"
-    ],
     "name:eng_x_preferred":[
         "Sokolce"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Sokolce"
     ],
-    "name:fre_x_preferred":[
-        "Sokolce"
-    ],
-    "name:ger_x_preferred":[
-        "Sokolce"
-    ],
     "name:hbs_x_preferred":[
         "Sokolce"
     ],
@@ -47,9 +38,6 @@
         "Lakszak\u00e1llas"
     ],
     "name:ita_x_preferred":[
-        "Sokolce"
-    ],
-    "name:may_x_preferred":[
         "Sokolce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Sokolce"
     ],
     "name:slk_x_preferred":[
-        "Sokolce"
-    ],
-    "name:slo_x_preferred":[
         "Sokolce"
     ],
     "name:slv_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101845705,
-    "wof:lastmodified":1527642315,
+    "wof:lastmodified":1561841687,
     "wof:name":"Sokolce",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

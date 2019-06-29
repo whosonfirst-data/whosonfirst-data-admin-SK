@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Malcov"
     ],
-    "name:cze_x_preferred":[
-        "Malcov"
-    ],
     "name:deu_x_preferred":[
-        "Malcov"
-    ],
-    "name:dut_x_preferred":[
         "Malcov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Malcov"
     ],
-    "name:fre_x_preferred":[
-        "Malcov"
-    ],
-    "name:ger_x_preferred":[
-        "Malcov"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05e7\u05d5\u05d1"
     ],
@@ -53,9 +41,6 @@
         "Malc\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Malcov"
-    ],
-    "name:may_x_preferred":[
         "Malcov"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "\u041c\u0430\u043b\u044c\u0446\u043e\u0432"
     ],
     "name:slk_x_preferred":[
-        "Malcov"
-    ],
-    "name:slo_x_preferred":[
         "Malcov"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +117,7 @@
         }
     ],
     "wof:id":101780603,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841714,
     "wof:name":"Malcov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

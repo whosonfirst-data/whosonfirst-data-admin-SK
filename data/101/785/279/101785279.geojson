@@ -22,17 +22,11 @@
     "name:ces_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
-    "name:cze_x_preferred":[
-        "Vysok\u00e1 pri Morave"
-    ],
     "name:deu_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
     "name:deu_x_variant":[
         "Hochst\u00e4dten"
-    ],
-    "name:dut_x_preferred":[
-        "Vysok\u00e1 pri Morave"
     ],
     "name:eng_x_preferred":[
         "Vysok\u00e1 pri Morave"
@@ -43,12 +37,6 @@
     "name:fra_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
-    "name:fre_x_preferred":[
-        "Vysok\u00e1 pri Morave"
-    ],
-    "name:ger_x_preferred":[
-        "Vysok\u00e1 pri Morave"
-    ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e9\u05d5\u05e7\u05d4 \u05e4\u05e8\u05d9 \u05de\u05d5\u05e8\u05d1\u05d4"
     ],
@@ -56,9 +44,6 @@
         "Nagymagasfalu"
     ],
     "name:ita_x_preferred":[
-        "Vysok\u00e1 pri Morave"
-    ],
-    "name:may_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
         "Hoch\u0161tetno"
     ],
     "name:slk_x_variant":[
-        "Vysok\u00e1 pri Morave"
-    ],
-    "name:slo_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
     "name:spa_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101785279,
-    "wof:lastmodified":1527684899,
+    "wof:lastmodified":1561841698,
     "wof:name":"Vysok\u00e1 pri Morave",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

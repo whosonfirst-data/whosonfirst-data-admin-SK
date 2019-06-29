@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Vikartovce"
     ],
-    "name:cze_x_preferred":[
-        "Vikartovce"
-    ],
     "name:deu_x_preferred":[
-        "Vikartovce"
-    ],
-    "name:dut_x_preferred":[
         "Vikartovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Vikartovce"
     ],
-    "name:fre_x_preferred":[
-        "Vikartovce"
-    ],
-    "name:ger_x_preferred":[
-        "Vikartovce"
-    ],
     "name:hbs_x_preferred":[
         "Vikartovce"
     ],
@@ -53,9 +41,6 @@
         "Hern\u00e1df\u0151"
     ],
     "name:ita_x_preferred":[
-        "Vikartovce"
-    ],
-    "name:may_x_preferred":[
         "Vikartovce"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "\u0412\u0456\u043a\u0430\u0440\u0442\u043e\u0432\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Vikartovce"
-    ],
-    "name:slo_x_preferred":[
         "Vikartovce"
     ],
     "name:srp_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101780517,
-    "wof:lastmodified":1527715869,
+    "wof:lastmodified":1561841715,
     "wof:name":"Vikartovce",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

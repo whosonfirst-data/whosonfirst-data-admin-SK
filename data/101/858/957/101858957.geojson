@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
-    "name:cze_x_preferred":[
-        "Partiz\u00e1nska \u013dup\u010da"
-    ],
     "name:deu_x_preferred":[
-        "Partiz\u00e1nska \u013dup\u010da"
-    ],
-    "name:dut_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Partiz\u00e1nska \u013dup\u010da"
-    ],
-    "name:ger_x_preferred":[
-        "Partiz\u00e1nska \u013dup\u010da"
-    ],
     "name:hun_x_preferred":[
         "N\u00e9metlipcse"
     ],
     "name:ita_x_preferred":[
-        "Partiz\u00e1nska \u013dup\u010da"
-    ],
-    "name:may_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101858957,
-    "wof:lastmodified":1544744668,
+    "wof:lastmodified":1561841695,
     "wof:name":"Partiz\u00e1nska \u013dup\u010da",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

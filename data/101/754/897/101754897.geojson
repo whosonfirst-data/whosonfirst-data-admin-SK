@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zbehy"
     ],
-    "name:cze_x_preferred":[
-        "Zbehy"
-    ],
     "name:deu_x_preferred":[
-        "Zbehy"
-    ],
-    "name:dut_x_preferred":[
         "Zbehy"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Zbehy"
     ],
-    "name:fre_x_preferred":[
-        "Zbehy"
-    ],
-    "name:ger_x_preferred":[
-        "Zbehy"
-    ],
     "name:hbs_x_preferred":[
         "Zbehi"
     ],
@@ -53,9 +41,6 @@
         "\u00dczb\u00e9g"
     ],
     "name:ita_x_preferred":[
-        "Zbehy"
-    ],
-    "name:may_x_preferred":[
         "Zbehy"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Zbehy"
     ],
     "name:slk_x_preferred":[
-        "Zbehy"
-    ],
-    "name:slo_x_preferred":[
         "Zbehy"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101754897,
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561841687,
     "wof:name":"Zbehy",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

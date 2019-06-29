@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Beladice"
     ],
-    "name:cze_x_preferred":[
-        "Beladice"
-    ],
     "name:deu_x_preferred":[
-        "Beladice"
-    ],
-    "name:dut_x_preferred":[
         "Beladice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Beladice"
     ],
-    "name:fre_x_preferred":[
-        "Beladice"
-    ],
-    "name:ger_x_preferred":[
-        "Beladice"
-    ],
     "name:hbs_x_preferred":[
         "Beladice"
     ],
@@ -53,9 +41,6 @@
         "B\u00e9l\u00e1d"
     ],
     "name:ita_x_preferred":[
-        "Beladice"
-    ],
-    "name:may_x_preferred":[
         "Beladice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Beladice"
     ],
     "name:slk_x_preferred":[
-        "Beladice"
-    ],
-    "name:slo_x_preferred":[
         "Beladice"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101843769,
-    "wof:lastmodified":1527642596,
+    "wof:lastmodified":1561841691,
     "wof:name":"Beladice",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

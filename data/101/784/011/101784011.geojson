@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kuchy\u0148a"
     ],
-    "name:cze_x_preferred":[
-        "Kuchy\u0148a"
-    ],
     "name:deu_x_preferred":[
-        "Kuchy\u0148a"
-    ],
-    "name:dut_x_preferred":[
         "Kuchy\u0148a"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Kuchy\u0148a"
     ],
-    "name:fre_x_preferred":[
-        "Kuchy\u0148a"
-    ],
-    "name:ger_x_preferred":[
-        "Kuchy\u0148a"
-    ],
     "name:hun_x_preferred":[
         "Konyha"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30d2\u30cb\u30e3"
-    ],
-    "name:may_x_preferred":[
-        "Kuchy\u0148a"
     ],
     "name:msa_x_preferred":[
         "Kuchy\u0148a"
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Kuchy\u0148a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kuchy\u0148a"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101784011,
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1561841705,
     "wof:name":"Kuchy\u0148a",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

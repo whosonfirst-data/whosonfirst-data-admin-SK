@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00e9 Srnie"
-    ],
     "name:deu_x_preferred":[
-        "Horn\u00e9 Srnie"
-    ],
-    "name:dut_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e9 Srnie"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00e9 Srnie"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151szernye"
     ],
     "name:ita_x_preferred":[
-        "Horn\u00e9 Srnie"
-    ],
-    "name:may_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101843841,
-    "wof:lastmodified":1527642597,
+    "wof:lastmodified":1561841691,
     "wof:name":"Horn\u00e9 Srnie",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

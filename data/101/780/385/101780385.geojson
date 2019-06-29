@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Lietava"
     ],
-    "name:cze_x_preferred":[
-        "Lietava"
-    ],
     "name:deu_x_preferred":[
-        "Lietava"
-    ],
-    "name:dut_x_preferred":[
         "Lietava"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
         "Lietava"
     ],
     "name:fra_x_preferred":[
-        "Lietava"
-    ],
-    "name:fre_x_preferred":[
-        "Lietava"
-    ],
-    "name:ger_x_preferred":[
         "Lietava"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +47,6 @@
         "Lietava"
     ],
     "name:lit_x_preferred":[
-        "Lietava"
-    ],
-    "name:may_x_preferred":[
         "Lietava"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
         "Lietava"
     ],
     "name:slk_x_preferred":[
-        "Lietava"
-    ],
-    "name:slo_x_preferred":[
         "Lietava"
     ],
     "name:srp_x_preferred":[
@@ -141,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"Lietava",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

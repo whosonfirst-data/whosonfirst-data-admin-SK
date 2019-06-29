@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1186569.039352,
+    "geom:area_square_m":1186569.039353,
     "geom:bbox":"17.4575776267,48.108950544,17.4744154138,48.1299787709",
     "geom:latitude":48.11936,
     "geom:longitude":17.465917,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
-    "name:dut_x_preferred":[
-        "Nov\u00fd \u017divot"
-    ],
     "name:eng_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00fd \u017divot"
-    ],
-    "name:ger_x_preferred":[
-        "Nov\u00fd \u017divot"
-    ],
     "name:hbs_x_preferred":[
         "Novi \u017divot"
     ],
@@ -47,9 +38,6 @@
         "Ill\u00e9sh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Nov\u00fd \u017divot"
-    ],
-    "name:may_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:por_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":101786307,
-    "wof:lastmodified":1527715642,
+    "wof:lastmodified":1561841709,
     "wof:name":"Nov\u00fd \u017divot",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

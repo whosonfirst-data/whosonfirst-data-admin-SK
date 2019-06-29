@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1854686.176852,
+    "geom:area_square_m":1854686.176851,
     "geom:bbox":"18.6435298771,47.988662225,18.6656071713,48.0197528933",
     "geom:latitude":48.004013,
     "geom:longitude":18.657346,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Hronovce"
     ],
-    "name:dut_x_preferred":[
-        "Hronovce"
-    ],
     "name:eng_x_preferred":[
         "Hronovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Hronovce"
     ],
-    "name:fre_x_preferred":[
-        "Hronovce"
-    ],
-    "name:ger_x_preferred":[
-        "Hronovce"
-    ],
     "name:hun_x_preferred":[
         "Lek\u00e9r"
     ],
     "name:ita_x_preferred":[
-        "Hronovce"
-    ],
-    "name:may_x_preferred":[
         "Hronovce"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Hronovce"
     ],
     "name:slk_x_preferred":[
-        "Hronovce"
-    ],
-    "name:slo_x_preferred":[
         "Hronovce"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +96,7 @@
         }
     ],
     "wof:id":101786429,
-    "wof:lastmodified":1527715650,
+    "wof:lastmodified":1561841710,
     "wof:name":"Hronovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

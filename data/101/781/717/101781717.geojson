@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1894167.025156,
+    "geom:area_square_m":1894167.025155,
     "geom:bbox":"18.1051554464,48.9224643375,18.1372942757,48.9460826222",
     "geom:latitude":48.935384,
     "geom:longitude":18.121652,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Tren\u010dianska Tepl\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Tren\u010dianska Tepl\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Tren\u010dianska Tepl\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Tren\u010dianska Tepl\u00e1"
-    ],
     "name:hbs_x_preferred":[
         "Tren\u010dinska Tjepla"
     ],
@@ -53,9 +41,6 @@
         "H\u0151lak"
     ],
     "name:ita_x_preferred":[
-        "Tren\u010dianska Tepl\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101781717,
-    "wof:lastmodified":1527715632,
+    "wof:lastmodified":1561841709,
     "wof:name":"Tren\u010dianska Tepl\u00e1",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

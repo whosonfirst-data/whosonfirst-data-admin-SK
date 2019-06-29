@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":1963741.231384,
+    "geom:area_square_m":1963741.231385,
     "geom:bbox":"19.6589975639,49.3555616853,19.7014174238,49.3663006871",
     "geom:latitude":49.361467,
     "geom:longitude":19.679965,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Liesek"
     ],
-    "name:cze_x_preferred":[
-        "Liesek"
-    ],
     "name:deu_x_preferred":[
-        "Liesek"
-    ],
-    "name:dut_x_preferred":[
         "Liesek"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Liesek"
     ],
-    "name:fre_x_preferred":[
-        "Liesek"
-    ],
-    "name:ger_x_preferred":[
-        "Liesek"
-    ],
     "name:hbs_x_preferred":[
         "Ljesek"
     ],
@@ -53,9 +41,6 @@
         "Ljeszek"
     ],
     "name:ita_x_preferred":[
-        "Liesek"
-    ],
-    "name:may_x_preferred":[
         "Liesek"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Liesek"
     ],
     "name:slk_x_preferred":[
-        "Liesek"
-    ],
-    "name:slo_x_preferred":[
         "Liesek"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101780557,
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841712,
     "wof:name":"Liesek",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

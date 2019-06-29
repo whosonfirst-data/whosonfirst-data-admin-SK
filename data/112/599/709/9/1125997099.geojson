@@ -21,7 +21,7 @@
     "name:cat_x_preferred":[
         "P\u00f4tor"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "P\u00f4tor"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:epo_x_preferred":[
         "P\u00f4tor"
     ],
-    "name:fre_x_preferred":[
-        "P\u00f4tor"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "P\u00f4tor"
     ],
     "name:hun_x_preferred":[
@@ -42,16 +39,19 @@
     "name:ita_x_preferred":[
         "P\u00f4tor"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "P\u00f4tor"
     ],
     "name:nan_x_preferred":[
         "P\u00f4tor"
     ],
+    "name:nld_x_preferred":[
+        "P\u00f4tor"
+    ],
     "name:pol_x_preferred":[
         "P\u00f4tor"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u00f4tor"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125997099,
-    "wof:lastmodified":1514505252,
+    "wof:lastmodified":1561841725,
     "wof:name":"P\u00f4tor",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

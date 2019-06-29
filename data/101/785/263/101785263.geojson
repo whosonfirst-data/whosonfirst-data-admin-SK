@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Nenince"
     ],
-    "name:dut_x_preferred":[
-        "Nenince"
-    ],
     "name:eng_x_preferred":[
         "Nenince"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Nenince"
     ],
-    "name:fre_x_preferred":[
-        "Nenince"
-    ],
-    "name:ger_x_preferred":[
-        "Nenince"
-    ],
     "name:hun_x_preferred":[
         "Lukan\u00e9nye"
     ],
     "name:ita_x_preferred":[
-        "Nenince"
-    ],
-    "name:may_x_preferred":[
         "Nenince"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Nenince"
     ],
     "name:slk_x_preferred":[
-        "Nenince"
-    ],
-    "name:slo_x_preferred":[
         "Nenince"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101785263,
-    "wof:lastmodified":1527684902,
+    "wof:lastmodified":1561841699,
     "wof:name":"Nenince",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

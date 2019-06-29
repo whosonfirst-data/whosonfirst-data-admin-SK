@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Nov\u00e1 Dedina"
     ],
-    "name:dut_x_preferred":[
-        "Nov\u00e1 Dedina"
-    ],
     "name:eng_x_preferred":[
         "Nov\u00e1 Dedina"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Nov\u00e1 Dedina"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00e1 Dedina"
-    ],
-    "name:ger_x_preferred":[
-        "Nov\u00e1 Dedina"
-    ],
     "name:hun_x_preferred":[
         "Garam\u00fajfalu"
     ],
     "name:ita_x_preferred":[
-        "Nov\u00e1 Dedina"
-    ],
-    "name:may_x_preferred":[
         "Nov\u00e1 Dedina"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Nov\u00e1 Dedina"
     ],
     "name:slk_x_preferred":[
-        "Nov\u00e1 Dedina"
-    ],
-    "name:slo_x_preferred":[
         "Nov\u00e1 Dedina"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +99,7 @@
         }
     ],
     "wof:id":101783973,
-    "wof:lastmodified":1527688504,
+    "wof:lastmodified":1561841703,
     "wof:name":"Nov\u00e1 Dedina",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

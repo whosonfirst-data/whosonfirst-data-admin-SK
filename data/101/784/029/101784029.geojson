@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":2253348.20051,
+    "geom:area_square_m":2253348.200508,
     "geom:bbox":"17.6687284731,48.3609684527,17.7018458486,48.3947566333",
     "geom:latitude":48.379076,
     "geom:longitude":17.68471,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Brestovany"
     ],
-    "name:cze_x_preferred":[
-        "Brestovany"
-    ],
     "name:deu_x_preferred":[
-        "Brestovany"
-    ],
-    "name:dut_x_preferred":[
         "Brestovany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Brestovany"
     ],
-    "name:fre_x_preferred":[
-        "Brestovany"
-    ],
-    "name:ger_x_preferred":[
-        "Brestovany"
-    ],
     "name:hbs_x_preferred":[
         "Brestovani"
     ],
@@ -53,9 +41,6 @@
         "Bresztov\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Brestovany"
-    ],
-    "name:may_x_preferred":[
         "Brestovany"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Brestovany"
     ],
     "name:slk_x_preferred":[
-        "Brestovany"
-    ],
-    "name:slo_x_preferred":[
         "Brestovany"
     ],
     "name:srp_x_preferred":[
@@ -138,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1561841705,
     "wof:name":"Brestovany",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

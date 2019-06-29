@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
-    "name:dut_x_preferred":[
-        "\u0160vedl\u00e1r"
-    ],
     "name:eng_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "\u0160vedl\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160vedl\u00e1r"
-    ],
     "name:hbs_x_preferred":[
         "\u0160vedlar"
     ],
@@ -47,9 +38,6 @@
         "Svedl\u00e9r"
     ],
     "name:ita_x_preferred":[
-        "\u0160vedl\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101843891,
-    "wof:lastmodified":1527642599,
+    "wof:lastmodified":1561841692,
     "wof:name":"\u0160vedl\u00e1r",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

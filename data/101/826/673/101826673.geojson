@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":628003.473572,
+    "geom:area_square_m":628003.473571,
     "geom:bbox":"19.3691485906,49.383710073,19.3896784213,49.394744596",
     "geom:latitude":49.387607,
     "geom:longitude":19.381514,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Breza"
     ],
-    "name:cze_x_preferred":[
-        "Breza"
-    ],
     "name:deu_x_preferred":[
-        "Breza"
-    ],
-    "name:dut_x_preferred":[
         "Breza"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Breza"
     ],
-    "name:fre_x_preferred":[
-        "Breza"
-    ],
-    "name:ger_x_preferred":[
-        "Breza"
-    ],
     "name:hbs_x_preferred":[
         "Breza"
     ],
@@ -53,9 +41,6 @@
         "Breza"
     ],
     "name:ita_x_preferred":[
-        "Breza"
-    ],
-    "name:may_x_preferred":[
         "Breza"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Brzeza"
     ],
     "name:slk_x_preferred":[
-        "Breza"
-    ],
-    "name:slo_x_preferred":[
         "Breza"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101826673,
-    "wof:lastmodified":1553815528,
+    "wof:lastmodified":1561841688,
     "wof:name":"Breza",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

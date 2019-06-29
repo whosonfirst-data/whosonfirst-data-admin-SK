@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
-    "name:cze_x_preferred":[
-        "Tom\u00e1\u0161ov"
-    ],
     "name:deu_x_preferred":[
-        "Tom\u00e1\u0161ov"
-    ],
-    "name:dut_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
-    "name:fre_x_preferred":[
-        "Tom\u00e1\u0161ov"
-    ],
-    "name:ger_x_preferred":[
-        "Tom\u00e1\u0161ov"
-    ],
     "name:hun_x_preferred":[
         "F\u00e9l"
     ],
     "name:ita_x_preferred":[
-        "Tom\u00e1\u0161ov"
-    ],
-    "name:may_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101786371,
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561841710,
     "wof:name":"Tom\u00e1\u0161ov",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

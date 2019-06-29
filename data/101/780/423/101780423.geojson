@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Demjata"
     ],
-    "name:cze_x_preferred":[
-        "Demjata"
-    ],
     "name:deu_x_preferred":[
-        "Demjata"
-    ],
-    "name:dut_x_preferred":[
         "Demjata"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Demjata"
     ],
-    "name:fre_x_preferred":[
-        "Demjata"
-    ],
-    "name:ger_x_preferred":[
-        "Demjata"
-    ],
     "name:heb_x_preferred":[
         "\u05d3\u05de\u05d9\u05d0\u05d8\u05d4"
     ],
@@ -53,9 +41,6 @@
         "Dem\u00e9te"
     ],
     "name:ita_x_preferred":[
-        "Demjata"
-    ],
-    "name:may_x_preferred":[
         "Demjata"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "\u0414\u0435\u043c\u044f\u0442\u0430"
     ],
     "name:slk_x_preferred":[
-        "Demjata"
-    ],
-    "name:slo_x_preferred":[
         "Demjata"
     ],
     "name:srp_x_preferred":[
@@ -138,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715866,
+    "wof:lastmodified":1561841714,
     "wof:name":"Demjata",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

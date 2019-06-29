@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
-    "name:cze_x_preferred":[
-        "Lehota pod Vt\u00e1\u010dnikom"
-    ],
     "name:deu_x_preferred":[
-        "Lehota pod Vt\u00e1\u010dnikom"
-    ],
-    "name:dut_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
-    "name:fre_x_preferred":[
-        "Lehota pod Vt\u00e1\u010dnikom"
-    ],
-    "name:ger_x_preferred":[
-        "Lehota pod Vt\u00e1\u010dnikom"
-    ],
     "name:hbs_x_preferred":[
         "Ljehota pod Vta\u010dnjikom"
     ],
@@ -53,9 +41,6 @@
         "Papszabadi"
     ],
     "name:ita_x_preferred":[
-        "Lehota pod Vt\u00e1\u010dnikom"
-    ],
-    "name:may_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101781669,
-    "wof:lastmodified":1527715626,
+    "wof:lastmodified":1561841707,
     "wof:name":"Lehota pod Vt\u00e1\u010dnikom",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

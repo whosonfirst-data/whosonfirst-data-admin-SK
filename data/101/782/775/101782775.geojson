@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":3110613.303623,
+    "geom:area_square_m":3110613.303622,
     "geom:bbox":"17.0091636134,48.6493031215,17.0518732695,48.6706851499",
     "geom:latitude":48.660567,
     "geom:longitude":17.029346,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "K\u00faty"
     ],
-    "name:cze_x_preferred":[
-        "K\u00faty"
-    ],
     "name:deu_x_preferred":[
-        "K\u00faty"
-    ],
-    "name:dut_x_preferred":[
         "K\u00faty"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "K\u00faty"
     ],
-    "name:fre_x_preferred":[
-        "K\u00faty"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00faty"
-    ],
     "name:hrv_x_preferred":[
         "K\u00faty"
     ],
@@ -53,9 +41,6 @@
         "J\u00f3k\u00fat"
     ],
     "name:ita_x_preferred":[
-        "K\u00faty"
-    ],
-    "name:may_x_preferred":[
         "K\u00faty"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "K\u00faty"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782775,
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561841702,
     "wof:name":"K\u00faty",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

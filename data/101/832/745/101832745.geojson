@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001004,
-    "geom:area_square_m":8157218.516389,
+    "geom:area_square_m":8157218.516387,
     "geom:bbox":"21.8725611535,48.92294256,21.9365482167,48.9537824145",
     "geom:latitude":48.934712,
     "geom:longitude":21.903067,
@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Humenn\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u95e8\u5185"
-    ],
-    "name:cze_x_preferred":[
-        "Humenn\u00e9"
-    ],
     "name:dan_x_preferred":[
         "Humenn\u00e9"
     ],
     "name:deu_x_preferred":[
-        "Humenn\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Humenn\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -59,10 +50,7 @@
     "name:fas_x_preferred":[
         "\u0647\u0648\u0645\u0646\u0646\u0647"
     ],
-    "name:fre_x_preferred":[
-        "Humenn\u00e9"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Humenn\u00e9"
     ],
     "name:heb_x_preferred":[
@@ -92,11 +80,11 @@
     "name:lit_x_preferred":[
         "Humen\u0117"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Humenn\u00e9"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0645\u0646\u0646\u0647"
+    "name:nld_x_preferred":[
+        "Humenn\u00e9"
     ],
     "name:pol_x_preferred":[
         "Humenn\u00e9"
@@ -107,16 +95,10 @@
     "name:rue_x_preferred":[
         "\u0413\u0443\u043c\u0435\u043d\u043d\u0435"
     ],
-    "name:rum_x_preferred":[
-        "Humenn\u00e9"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u043c\u0435\u043d\u043d\u0435"
     ],
     "name:slk_x_preferred":[
-        "Humenn\u00e9"
-    ],
-    "name:slo_x_preferred":[
         "Humenn\u00e9"
     ],
     "name:spa_x_preferred":[
@@ -142,6 +124,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d4\u05d5\u05de\u05e0\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u95e8\u5185"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -193,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514505112,
+    "wof:lastmodified":1561841694,
     "wof:name":"Humenn\u00e9",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

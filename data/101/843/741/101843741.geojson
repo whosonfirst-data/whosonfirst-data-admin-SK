@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ve\u013ek\u00fd Cet\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Ve\u013ek\u00fd Cet\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Ve\u013ek\u00fd Cet\u00edn"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Cet\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd Cet\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00fd Cet\u00edn"
-    ],
     "name:hbs_x_preferred":[
         "Veljki Cetin"
     ],
@@ -47,9 +38,6 @@
         "Nagyc\u00e9t\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00fd Cet\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00fd Cet\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Ve\u013ek\u00fd Cet\u00edn"
     ],
     "name:slk_x_preferred":[
-        "Ve\u013ek\u00fd Cet\u00edn"
-    ],
-    "name:slo_x_preferred":[
         "Ve\u013ek\u00fd Cet\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642595,
+    "wof:lastmodified":1561841691,
     "wof:name":"Ve\u013ek\u00fd Cet\u00edn",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

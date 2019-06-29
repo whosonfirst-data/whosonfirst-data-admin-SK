@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
-    "name:dut_x_preferred":[
-        "Kostoln\u00e9 Kra\u010dany"
-    ],
     "name:eng_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
@@ -33,12 +30,6 @@
         "Kostoln\u00e9 Kra\u010dany"
     ],
     "name:fra_x_preferred":[
-        "Kostoln\u00e9 Kra\u010dany"
-    ],
-    "name:fre_x_preferred":[
-        "Kostoln\u00e9 Kra\u010dany"
-    ],
-    "name:ger_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
-    "name:may_x_preferred":[
-        "Kostoln\u00e9 Kra\u010dany"
-    ],
     "name:msa_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
@@ -62,7 +50,7 @@
     "name:por_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kostoln\u00e9 Kra\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":101858939,
-    "wof:lastmodified":1544744659,
+    "wof:lastmodified":1561841695,
     "wof:name":"Kostoln\u00e9 Kra\u010dany",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

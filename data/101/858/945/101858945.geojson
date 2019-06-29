@@ -19,10 +19,10 @@
     "name:cat_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:epo_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
-    "name:fre_x_preferred":[
-        "Hodru\u0161a-H\u00e1mre"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
     "name:hun_x_preferred":[
@@ -43,13 +40,16 @@
     "name:ita_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:nld_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
     "name:pol_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
     "name:srp_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101858945,
-    "wof:lastmodified":1544744663,
+    "wof:lastmodified":1561841695,
     "wof:name":"Hodru\u0161a - H\u00e1mre",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

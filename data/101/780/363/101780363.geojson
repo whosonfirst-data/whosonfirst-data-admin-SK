@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Va\u017eec"
     ],
-    "name:cze_x_preferred":[
-        "Va\u017eec"
-    ],
     "name:deu_x_preferred":[
-        "Va\u017eec"
-    ],
-    "name:dut_x_preferred":[
         "Va\u017eec"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Va\u017eec"
     ],
-    "name:fre_x_preferred":[
-        "Va\u017eec"
-    ],
-    "name:ger_x_preferred":[
-        "Va\u017eec"
-    ],
     "name:hun_x_preferred":[
         "V\u00e1zsec"
     ],
     "name:ita_x_preferred":[
-        "Va\u017eec"
-    ],
-    "name:may_x_preferred":[
         "Va\u017eec"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Wa\u017cec"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Va\u017eec"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101780363,
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841713,
     "wof:name":"Va\u017eec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

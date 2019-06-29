@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
-    "name:cze_x_preferred":[
-        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
-    ],
     "name:deu_x_preferred":[
-        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
-    ],
-    "name:dut_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
-    "name:fre_x_preferred":[
-        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
-    ],
-    "name:ger_x_preferred":[
-        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
-    ],
     "name:hrv_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
@@ -53,9 +41,6 @@
         "B\u00farszentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
-    ],
-    "name:may_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:por_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
     "name:spa_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782779,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841701,
     "wof:name":"Borsk\u00fd Sv\u00e4t\u00fd Jur",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

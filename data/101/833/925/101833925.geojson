@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Neded"
     ],
-    "name:dut_x_preferred":[
-        "Neded"
-    ],
     "name:eng_x_preferred":[
         "Neded"
     ],
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Neded"
     ],
-    "name:fre_x_preferred":[
-        "Neded"
-    ],
-    "name:ger_x_preferred":[
-        "Neded"
-    ],
     "name:hbs_x_preferred":[
         "Njedjed"
     ],
@@ -50,9 +41,6 @@
         "Negyed"
     ],
     "name:ita_x_preferred":[
-        "Neded"
-    ],
-    "name:may_x_preferred":[
         "Neded"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Neded"
     ],
     "name:slk_x_preferred":[
-        "Neded"
-    ],
-    "name:slo_x_preferred":[
         "Neded"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101833925,
-    "wof:lastmodified":1527642924,
+    "wof:lastmodified":1561841695,
     "wof:name":"Neded",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

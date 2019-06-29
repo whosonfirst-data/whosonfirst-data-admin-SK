@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Smi\u017eany"
     ],
-    "name:cze_x_preferred":[
-        "Smi\u017eany"
-    ],
     "name:deu_x_preferred":[
-        "Smi\u017eany"
-    ],
-    "name:dut_x_preferred":[
         "Smi\u017eany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Smi\u017eany"
     ],
-    "name:fre_x_preferred":[
-        "Smi\u017eany"
-    ],
-    "name:ger_x_preferred":[
-        "Smi\u017eany"
-    ],
     "name:hun_x_preferred":[
         "Szepess\u00fcmeg"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30df\u30b8\u30e3\u30cb\u6751"
-    ],
-    "name:may_x_preferred":[
-        "Smi\u017eany"
     ],
     "name:msa_x_preferred":[
         "Smi\u017eany"
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Smi\u017eany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Smi\u017eany"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101832717,
-    "wof:lastmodified":1527642789,
+    "wof:lastmodified":1561841694,
     "wof:name":"Smi\u017eany",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

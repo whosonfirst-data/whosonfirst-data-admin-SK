@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1006995.865704,
+    "geom:area_square_m":1006995.865705,
     "geom:bbox":"21.6121994919,48.5063072977,21.6297276873,48.5206377408",
     "geom:latitude":48.513552,
     "geom:longitude":21.621656,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Micha\u013eany"
     ],
-    "name:cze_x_preferred":[
-        "Micha\u013eany"
-    ],
     "name:deu_x_preferred":[
-        "Micha\u013eany"
-    ],
-    "name:dut_x_preferred":[
         "Micha\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Micha\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Micha\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Micha\u013eany"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3mih\u00e1lyi"
     ],
     "name:ita_x_preferred":[
-        "Micha\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Micha\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u043b\u044f\u043d\u044b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Micha\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782861,
-    "wof:lastmodified":1527688317,
+    "wof:lastmodified":1561841700,
     "wof:name":"Micha\u013eany",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

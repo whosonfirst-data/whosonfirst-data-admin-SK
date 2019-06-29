@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Lastovce"
     ],
-    "name:cze_x_preferred":[
-        "Lastovce"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Lastovce"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Lastovce"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lastovce"
     ],
     "name:hun_x_preferred":[
@@ -42,10 +39,13 @@
     "name:ita_x_preferred":[
         "Lastovce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lastovce"
     ],
     "name:nan_x_preferred":[
+        "Lastovce"
+    ],
+    "name:nld_x_preferred":[
         "Lastovce"
     ],
     "name:pol_x_preferred":[
@@ -54,7 +54,7 @@
     "name:rue_x_preferred":[
         "\u041b\u0430\u0441\u0442\u043e\u0432\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lastovce"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1126052949,
-    "wof:lastmodified":1514505153,
+    "wof:lastmodified":1561841721,
     "wof:name":"Lastovce",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

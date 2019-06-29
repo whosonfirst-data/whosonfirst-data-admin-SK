@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
-    "name:cze_x_preferred":[
-        "Luk\u00e1\u010dovce"
-    ],
     "name:deu_x_preferred":[
-        "Luk\u00e1\u010dovce"
-    ],
-    "name:dut_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
-    "name:fre_x_preferred":[
-        "Luk\u00e1\u010dovce"
-    ],
-    "name:ger_x_preferred":[
-        "Luk\u00e1\u010dovce"
-    ],
     "name:hbs_x_preferred":[
         "Luka\u010dovce"
     ],
@@ -55,16 +43,13 @@
     "name:ita_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
-    "name:may_x_preferred":[
-        "Luk\u00e1\u010dovce"
-    ],
     "name:msa_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
     "name:nld_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Luk\u00e1\u010dovce"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688499,
+    "wof:lastmodified":1561841703,
     "wof:name":"Luk\u00e1\u010dovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

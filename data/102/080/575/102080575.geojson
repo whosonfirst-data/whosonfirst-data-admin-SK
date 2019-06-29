@@ -40,11 +40,11 @@
     "name:ces_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
+    "name:ces_x_variant":[
+        "Okres Pova\u017esk\u00e1 Bystrica"
+    ],
     "name:chv_x_preferred":[
         "\u041f\u043e\u0432\u0430\u0436\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
-    ],
-    "name:cze_x_preferred":[
-        "Okres Pova\u017esk\u00e1 Bystrica"
     ],
     "name:dan_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
@@ -52,7 +52,7 @@
     "name:deu_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Okres Pova\u017esk\u00e1 Bystrica"
     ],
     "name:eng_x_preferred":[
@@ -64,14 +64,8 @@
     "name:est_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Pova\u017esk\u00e1 Bystrica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10d5\u10d0\u10df\u10e1\u10d9\u10d0-\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Pova\u017esk\u00e1 Bystrica"
     ],
     "name:hrv_x_preferred":[
         "Okrug Pova\u017esk\u00e1 Bystrica"
@@ -82,17 +76,23 @@
     "name:ita_x_preferred":[
         "Distretto di Pova\u017esk\u00e1 Bystrica"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10d5\u10d0\u10df\u10e1\u10d9\u10d0-\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:lav_x_preferred":[
         "Pova\u017eska Bistricas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Pova\u017esk\u00e1 Bystrica"
     ],
     "name:nan_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Pova\u017esk\u00e1 Bystrica"
     ],
     "name:pol_x_preferred":[
         "Powiat Powaska Bystrzyca"
@@ -100,16 +100,16 @@
     "name:por_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
+    "name:ron_x_preferred":[
+        "Pova\u017esk\u00e1 Bystrica"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041f\u043e\u0432\u0430\u0436\u0441\u043a\u0430 \u0411\u0456\u0441\u0442\u0440\u0456\u0446\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0432\u0430\u0436\u0441\u043a\u0430-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:spa_x_preferred":[
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":102080575,
-    "wof:lastmodified":1553717232,
+    "wof:lastmodified":1561841676,
     "wof:name":"Pova\u017esk\u00e1 Bystrica",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

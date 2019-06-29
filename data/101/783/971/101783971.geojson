@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "B\u00e1tovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u00e1tovce"
     ],
     "name:deu_x_preferred":[
-        "B\u00e1tovce"
-    ],
-    "name:dut_x_preferred":[
         "B\u00e1tovce"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "B\u00e1tovce"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e1tovce"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00e1tovce"
-    ],
     "name:hun_x_preferred":[
         "B\u00e1t"
     ],
     "name:ita_x_preferred":[
-        "B\u00e1tovce"
-    ],
-    "name:may_x_preferred":[
         "B\u00e1tovce"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "B\u00e1tovce"
     ],
     "name:slk_x_preferred":[
-        "B\u00e1tovce"
-    ],
-    "name:slo_x_preferred":[
         "B\u00e1tovce"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101783971,
-    "wof:lastmodified":1527688498,
+    "wof:lastmodified":1561841703,
     "wof:name":"B\u00e1tovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

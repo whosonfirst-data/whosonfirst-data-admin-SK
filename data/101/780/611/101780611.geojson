@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000883,
-    "geom:area_square_m":7117478.681855,
+    "geom:area_square_m":7117478.681853,
     "geom:bbox":"21.2495862707,49.2671334975,21.3279762129,49.3204164462",
     "geom:latitude":49.296267,
     "geom:longitude":21.281206,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0628\u0631\u062f\u064a\u0648\u0641"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0580\u0564\u0565\u0575\u0578\u057e"
     ],
     "name:aze_x_preferred":[
         "Bardeyov"
@@ -38,12 +35,6 @@
     "name:ces_x_preferred":[
         "Bardejov"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u723e\u4ee3\u7d04\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Bardejov"
-    ],
     "name:dan_x_preferred":[
         "Bardejov"
     ],
@@ -53,8 +44,8 @@
     "name:deu_x_variant":[
         "Bardejov"
     ],
-    "name:dut_x_preferred":[
-        "Bardejov"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03bd\u03c4\u03ad\u03b3\u03b9\u03bf\u03b2"
     ],
     "name:eng_x_preferred":[
         "Bardejov"
@@ -71,20 +62,11 @@
     "name:fin_x_preferred":[
         "Bardejov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bardejov"
     ],
     "name:frr_x_preferred":[
         "Bardejov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d3\u10d4\u10d8\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bardejov"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03bd\u03c4\u03ad\u03b3\u03b9\u03bf\u03b2"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d3\u05d9\u05d5\u05d1"
@@ -122,10 +104,13 @@
     "name:lit_x_preferred":[
         "Bardejovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bardejov"
     ],
     "name:nan_x_preferred":[
+        "Bardejov"
+    ],
+    "name:nld_x_preferred":[
         "Bardejov"
     ],
     "name:nob_x_preferred":[
@@ -133,9 +118,6 @@
     ],
     "name:oci_x_preferred":[
         "Bardejov"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0631\u062f\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Bardi\u00f3w"
@@ -149,16 +131,10 @@
     "name:rue_x_preferred":[
         "\u0411\u0430\u0440\u0434\u0435\u0451\u0432"
     ],
-    "name:rum_x_preferred":[
-        "Bardejov"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0434\u0435\u0451\u0432"
     ],
     "name:slk_x_preferred":[
-        "Bardejov"
-    ],
-    "name:slo_x_preferred":[
         "Bardejov"
     ],
     "name:slv_x_preferred":[
@@ -252,7 +228,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715866,
+    "wof:lastmodified":1561841714,
     "wof:name":"Bardejov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

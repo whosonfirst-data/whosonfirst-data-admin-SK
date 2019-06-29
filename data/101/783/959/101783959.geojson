@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ri\u0161\u0148ovce"
     ],
-    "name:dut_x_preferred":[
-        "Ri\u0161\u0148ovce"
-    ],
     "name:eng_x_preferred":[
         "Ri\u0161\u0148ovce"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Ri\u0161\u0148ovce"
     ],
-    "name:fre_x_preferred":[
-        "Ri\u0161\u0148ovce"
-    ],
-    "name:ger_x_preferred":[
-        "Ri\u0161\u0148ovce"
-    ],
     "name:hbs_x_preferred":[
         "Ri\u0161njovce"
     ],
@@ -47,9 +38,6 @@
         "R\u00e9cs\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Ri\u0161\u0148ovce"
-    ],
-    "name:may_x_preferred":[
         "Ri\u0161\u0148ovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Ri\u0161\u0148ovce"
     ],
     "name:slk_x_preferred":[
-        "Ri\u0161\u0148ovce"
-    ],
-    "name:slo_x_preferred":[
         "Ri\u0161\u0148ovce"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688499,
+    "wof:lastmodified":1561841703,
     "wof:name":"Ri\u0161\u0148ovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

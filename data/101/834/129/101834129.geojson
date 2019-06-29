@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1620235.175094,
+    "geom:area_square_m":1620235.175093,
     "geom:bbox":"18.0448891938,48.2090621257,18.0663122092,48.2340713616",
     "geom:latitude":48.224161,
     "geom:longitude":18.05502,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Sv\u00e4toplukovo"
     ],
-    "name:dut_x_preferred":[
-        "Sv\u00e4toplukovo"
-    ],
     "name:eng_x_preferred":[
         "Sv\u00e4toplukovo"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Sv\u00e4toplukovo"
     ],
-    "name:fre_x_preferred":[
-        "Sv\u00e4toplukovo"
-    ],
-    "name:ger_x_preferred":[
-        "Sv\u00e4toplukovo"
-    ],
     "name:hbs_x_preferred":[
         "Svetoplukovo"
     ],
@@ -47,9 +38,6 @@
         "Salg\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Sv\u00e4toplukovo"
-    ],
-    "name:may_x_preferred":[
         "Sv\u00e4toplukovo"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Sv\u00e4toplukovo"
     ],
     "name:slk_x_preferred":[
-        "Sv\u00e4toplukovo"
-    ],
-    "name:slo_x_preferred":[
         "Sv\u00e4toplukovo"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642933,
+    "wof:lastmodified":1561841696,
     "wof:name":"Sv\u00e4toplukovo",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

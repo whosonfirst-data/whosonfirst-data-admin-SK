@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1116470.909431,
+    "geom:area_square_m":1116470.90943,
     "geom:bbox":"18.6186464801,49.2922875957,18.6369508022,49.3187945797",
     "geom:latitude":49.305501,
     "geom:longitude":18.62982,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
-    "name:cze_x_preferred":[
-        "Dlh\u00e9 Pole"
-    ],
     "name:deu_x_preferred":[
-        "Dlh\u00e9 Pole"
-    ],
-    "name:dut_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
-    "name:fre_x_preferred":[
-        "Dlh\u00e9 Pole"
-    ],
-    "name:ger_x_preferred":[
-        "Dlh\u00e9 Pole"
-    ],
     "name:hun_x_preferred":[
         "Trencs\u00e9nhossz\u00famez\u0151"
     ],
     "name:ita_x_preferred":[
-        "Dlh\u00e9 Pole"
-    ],
-    "name:may_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715878,
+    "wof:lastmodified":1561841719,
     "wof:name":"Dlh\u00e9 Pole",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

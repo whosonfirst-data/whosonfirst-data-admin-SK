@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Trstice"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Trstice"
     ],
     "name:deu_x_preferred":[
-        "Trstice"
-    ],
-    "name:dut_x_preferred":[
         "Trstice"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Trstice"
     ],
-    "name:fre_x_preferred":[
-        "Trstice"
-    ],
-    "name:ger_x_preferred":[
-        "Trstice"
-    ],
     "name:hbs_x_preferred":[
         "Trstice"
     ],
@@ -50,9 +41,6 @@
         "N\u00e1dszeg"
     ],
     "name:ita_x_preferred":[
-        "Trstice"
-    ],
-    "name:may_x_preferred":[
         "Trstice"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Trstice"
     ],
     "name:slk_x_preferred":[
-        "Trstice"
-    ],
-    "name:slo_x_preferred":[
         "Trstice"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101786397,
-    "wof:lastmodified":1527715643,
+    "wof:lastmodified":1561841709,
     "wof:name":"Trstice",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

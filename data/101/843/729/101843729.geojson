@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Blatn\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Blatn\u00e9"
-    ],
     "name:deu_x_preferred":[
-        "Blatn\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Blatn\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Blatn\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Blatn\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Blatn\u00e9"
-    ],
     "name:hun_x_preferred":[
         "Pozsonys\u00e1rf\u0151"
     ],
     "name:ita_x_preferred":[
-        "Blatn\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Blatn\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Blatn\u00e9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Blatn\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101843729,
-    "wof:lastmodified":1527642602,
+    "wof:lastmodified":1561841693,
     "wof:name":"Blatn\u00e9",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

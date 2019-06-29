@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1385972.066228,
+    "geom:area_square_m":1385972.066227,
     "geom:bbox":"18.1971545868,48.1748438598,18.2180015183,48.1968842662",
     "geom:latitude":48.185581,
     "geom:longitude":18.207133,
@@ -22,19 +22,13 @@
     "name:deu_x_preferred":[
         "Vinodol"
     ],
-    "name:dut_x_preferred":[
-        "Vinodol"
-    ],
     "name:eng_x_preferred":[
         "Vinodol"
     ],
     "name:epo_x_preferred":[
         "Vinodol"
     ],
-    "name:fre_x_preferred":[
-        "Vinodol"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vinodol"
     ],
     "name:hbs_x_preferred":[
@@ -49,10 +43,13 @@
     "name:ita_x_preferred":[
         "Vinodol"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vinodol"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Vinodol"
+    ],
+    "name:slk_x_preferred":[
         "Vinodol"
     ],
     "name:slv_x_preferred":[
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":101843745,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841693,
     "wof:name":"Vinodol",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

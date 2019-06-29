@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e9 Lefantovce"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
     "name:nan_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Horn\u00e9 Lefantovce"
+    ],
+    "name:slk_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1126045907,
-    "wof:lastmodified":1514505106,
+    "wof:lastmodified":1561841721,
     "wof:name":"Horn\u00e9 Lefantovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

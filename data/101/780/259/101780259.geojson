@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1166417.285997,
+    "geom:area_square_m":1166417.285995,
     "geom:bbox":"20.6572324507,48.8742391957,20.6917878687,48.893442805",
     "geom:latitude":48.881048,
     "geom:longitude":20.675979,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Rud\u0148any"
     ],
-    "name:cze_x_preferred":[
-        "Rud\u0148any"
-    ],
     "name:deu_x_preferred":[
-        "Rud\u0148any"
-    ],
-    "name:dut_x_preferred":[
         "Rud\u0148any"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Rud\u0148any"
     ],
-    "name:fre_x_preferred":[
-        "Rud\u0148any"
-    ],
-    "name:ger_x_preferred":[
-        "Rud\u0148any"
-    ],
     "name:hun_x_preferred":[
         "\u00d6t\u00f6sb\u00e1nya"
     ],
     "name:ita_x_preferred":[
-        "Rud\u0148any"
-    ],
-    "name:may_x_preferred":[
         "Rud\u0148any"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Rud\u0148any"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rud\u0148any"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780259,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Rud\u0148any",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000405,
-    "geom:area_square_m":3279766.420377,
+    "geom:area_square_m":3279766.420379,
     "geom:bbox":"18.9769638565,49.090412709,19.0125081926,49.1132674703",
     "geom:latitude":49.101817,
     "geom:longitude":18.995519,
@@ -16,23 +16,17 @@
     "mps:longitude":18.995789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u0579\u0561\u0576\u056b"
-    ],
     "name:cat_x_preferred":[
         "Su\u010dany"
     ],
     "name:ces_x_preferred":[
         "Su\u010dany"
     ],
-    "name:cze_x_preferred":[
-        "Su\u010dany"
-    ],
     "name:deu_x_preferred":[
         "Su\u010dany"
     ],
-    "name:dut_x_preferred":[
-        "Su\u010dany"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03c4\u03c3\u03b1\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Su\u010dany"
@@ -43,22 +37,13 @@
     "name:fra_x_preferred":[
         "Su\u010dany"
     ],
-    "name:fre_x_preferred":[
-        "Su\u010dany"
-    ],
-    "name:ger_x_preferred":[
-        "Su\u010dany"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03c4\u03c3\u03b1\u03bd\u03b9"
-    ],
     "name:hun_x_preferred":[
         "Szucs\u00e1ny"
     ],
-    "name:ita_x_preferred":[
-        "Su\u010dany"
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0579\u0561\u0576\u056b"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Su\u010dany"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u0447\u0430\u043d\u044b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Su\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101780323,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841715,
     "wof:name":"Su\u010dany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

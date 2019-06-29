@@ -16,22 +16,13 @@
     "mps:longitude":19.647838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u057e\u0561\u056a\u0576\u0561 \u054a\u0578\u0580\u0578\u0582\u0562\u0561"
-    ],
     "name:cat_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "name:ces_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
-    "name:cze_x_preferred":[
-        "Z\u00e1va\u017en\u00e1 Poruba"
-    ],
     "name:deu_x_preferred":[
-        "Z\u00e1va\u017en\u00e1 Poruba"
-    ],
-    "name:dut_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +34,13 @@
     "name:fra_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
-    "name:fre_x_preferred":[
-        "Z\u00e1va\u017en\u00e1 Poruba"
-    ],
-    "name:ger_x_preferred":[
-        "Z\u00e1va\u017en\u00e1 Poruba"
-    ],
     "name:hun_x_preferred":[
         "N\u00e9metporuba"
     ],
-    "name:ita_x_preferred":[
-        "Z\u00e1va\u017en\u00e1 Poruba"
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u057e\u0561\u056a\u0576\u0561 \u054a\u0578\u0580\u0578\u0582\u0562\u0561"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101780357,
-    "wof:lastmodified":1527715871,
+    "wof:lastmodified":1561841716,
     "wof:name":"Z\u00e1va\u017en\u00e1 Poruba",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
-    "geom:area_square_m":1276125.250938,
+    "geom:area_square_m":1276125.250937,
     "geom:bbox":"21.3355063327,48.7431748085,21.3535367027,48.7603303801",
     "geom:latitude":48.751256,
     "geom:longitude":21.343943,
@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Rozhanovce"
     ],
-    "name:cze_x_preferred":[
-        "Rozhanovce"
-    ],
     "name:deu_x_preferred":[
-        "Rozhanovce"
-    ],
-    "name:dut_x_preferred":[
         "Rozhanovce"
     ],
     "name:eng_x_preferred":[
@@ -46,19 +40,10 @@
     "name:fra_x_preferred":[
         "Rozhanovce"
     ],
-    "name:fre_x_preferred":[
-        "Rozhanovce"
-    ],
-    "name:ger_x_preferred":[
-        "Rozhanovce"
-    ],
     "name:hun_x_preferred":[
         "Rozgony"
     ],
     "name:ita_x_preferred":[
-        "Rozhanovce"
-    ],
-    "name:may_x_preferred":[
         "Rozhanovce"
     ],
     "name:msa_x_preferred":[
@@ -76,13 +61,7 @@
     "name:ron_x_preferred":[
         "Rozhanovce"
     ],
-    "name:rum_x_preferred":[
-        "Rozhanovce"
-    ],
     "name:slk_x_preferred":[
-        "Rozhanovce"
-    ],
-    "name:slo_x_preferred":[
         "Rozhanovce"
     ],
     "name:srp_x_preferred":[
@@ -143,7 +122,7 @@
         }
     ],
     "wof:id":101780245,
-    "wof:lastmodified":1527715865,
+    "wof:lastmodified":1561841713,
     "wof:name":"Rozhanovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

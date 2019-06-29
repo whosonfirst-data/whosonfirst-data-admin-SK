@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Nov\u00e1 Lesn\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Nov\u00e1 Lesn\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +35,10 @@
     "name:fra_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00e1 Lesn\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Nov\u00e1 Lesn\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3erd\u0151falva"
     ],
     "name:ita_x_preferred":[
-        "Nov\u00e1 Lesn\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -74,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430-\u041b\u0435\u0441\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -143,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841713,
     "wof:name":"Nov\u00e1 Lesn\u00e1",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

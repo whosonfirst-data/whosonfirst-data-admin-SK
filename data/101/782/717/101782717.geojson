@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Madunice"
     ],
-    "name:cze_x_preferred":[
-        "Madunice"
-    ],
     "name:deu_x_preferred":[
-        "Madunice"
-    ],
-    "name:dut_x_preferred":[
         "Madunice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Madunice"
     ],
-    "name:fre_x_preferred":[
-        "Madunice"
-    ],
-    "name:ger_x_preferred":[
-        "Madunice"
-    ],
     "name:hbs_x_preferred":[
         "Madunjice"
     ],
@@ -53,9 +41,6 @@
         "V\u00e1gmedence"
     ],
     "name:ita_x_preferred":[
-        "Madunice"
-    ],
-    "name:may_x_preferred":[
         "Madunice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Madunice"
     ],
     "name:slk_x_preferred":[
-        "Madunice"
-    ],
-    "name:slo_x_preferred":[
         "Madunice"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101782717,
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Madunice",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

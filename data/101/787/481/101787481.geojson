@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1854805.485023,
+    "geom:area_square_m":1854805.485024,
     "geom:bbox":"18.3991285407,47.751338977,18.42152627,47.7704042542",
     "geom:latitude":47.759113,
     "geom:longitude":18.409884,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Mo\u010da"
     ],
-    "name:dut_x_preferred":[
-        "Mo\u010da"
-    ],
     "name:eng_x_preferred":[
         "Mo\u010da"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Mo\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Mo\u010da"
-    ],
-    "name:ger_x_preferred":[
-        "Mo\u010da"
-    ],
     "name:hbs_x_preferred":[
         "Mo\u010da"
     ],
@@ -47,9 +38,6 @@
         "Dunamocs"
     ],
     "name:ita_x_preferred":[
-        "Mo\u010da"
-    ],
-    "name:may_x_preferred":[
         "Mo\u010da"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "Mo\u010da"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mo\u010da"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":101787481,
-    "wof:lastmodified":1527715849,
+    "wof:lastmodified":1561841712,
     "wof:name":"Mo\u010da",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

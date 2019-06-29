@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Jahodn\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Jahodn\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Jahodn\u00e1"
     ],
@@ -32,12 +29,6 @@
         "Jahodn\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Jahodn\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Jahodn\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Jahodn\u00e1"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Jahodn\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Jahodn\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Jahodn\u00e1"
     ],
@@ -61,7 +49,7 @@
     "name:por_x_preferred":[
         "Jahodn\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jahodn\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101786309,
-    "wof:lastmodified":1553815501,
+    "wof:lastmodified":1561841709,
     "wof:name":"Jahodn\u00e1",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

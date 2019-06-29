@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sebechleby"
     ],
-    "name:cze_x_preferred":[
-        "Sebechleby"
-    ],
     "name:deu_x_preferred":[
-        "Sebechleby"
-    ],
-    "name:dut_x_preferred":[
         "Sebechleby"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Sebechleby"
     ],
-    "name:fre_x_preferred":[
-        "Sebechleby"
-    ],
-    "name:ger_x_preferred":[
-        "Sebechleby"
-    ],
     "name:hun_x_preferred":[
         "Szebell\u00e9b"
     ],
     "name:ita_x_preferred":[
-        "Sebechleby"
-    ],
-    "name:may_x_preferred":[
         "Sebechleby"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Sebechleby"
     ],
     "name:slk_x_preferred":[
-        "Sebechleby"
-    ],
-    "name:slo_x_preferred":[
         "Sebechleby"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101783993,
-    "wof:lastmodified":1527688500,
+    "wof:lastmodified":1561841703,
     "wof:name":"Sebechleby",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

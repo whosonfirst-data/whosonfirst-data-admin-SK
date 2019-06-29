@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000325,
-    "geom:area_square_m":2692298.463067,
+    "geom:area_square_m":2692298.463066,
     "geom:bbox":"18.2539152958,47.9738741622,18.2782883849,48.0087166007",
     "geom:latitude":47.989622,
     "geom:longitude":18.266233,
@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Dvory nad \u017ditavou"
     ],
-    "name:dut_x_preferred":[
-        "Dvory nad \u017ditavou"
-    ],
     "name:eng_x_preferred":[
         "Dvory nad \u017ditavou"
     ],
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Dvory nad \u017ditavou"
     ],
-    "name:fre_x_preferred":[
-        "Dvory nad \u017ditavou"
-    ],
-    "name:ger_x_preferred":[
-        "Dvory nad \u017ditavou"
-    ],
     "name:hun_x_preferred":[
         "Udvard"
     ],
     "name:ita_x_preferred":[
-        "Dvory nad \u017ditavou"
-    ],
-    "name:may_x_preferred":[
         "Dvory nad \u017ditavou"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Dvory nad \u017ditavou"
     ],
     "name:slk_x_preferred":[
-        "Dvory nad \u017ditavou"
-    ],
-    "name:slo_x_preferred":[
         "Dvory nad \u017ditavou"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101786331,
-    "wof:lastmodified":1527715642,
+    "wof:lastmodified":1561841709,
     "wof:name":"Dvory nad \u017ditavou",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

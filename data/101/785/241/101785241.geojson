@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":807630.805022,
+    "geom:area_square_m":807630.805024,
     "geom:bbox":"18.2016439532,48.3074666591,18.2195132837,48.3167996281",
     "geom:latitude":48.311476,
     "geom:longitude":18.209731,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Doln\u00e9 Obdokovce"
     ],
-    "name:dut_x_preferred":[
-        "Doln\u00e9 Obdokovce"
-    ],
     "name:eng_x_preferred":[
         "Doln\u00e9 Obdokovce"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Doln\u00e9 Obdokovce"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e9 Obdokovce"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00e9 Obdokovce"
-    ],
     "name:hbs_x_preferred":[
         "Dolnje Obdokovce"
     ],
@@ -47,9 +38,6 @@
         "Als\u00f3bodok"
     ],
     "name:ita_x_preferred":[
-        "Doln\u00e9 Obdokovce"
-    ],
-    "name:may_x_preferred":[
         "Doln\u00e9 Obdokovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Doln\u00e9 Obdokovce"
     ],
     "name:slk_x_preferred":[
-        "Doln\u00e9 Obdokovce"
-    ],
-    "name:slo_x_preferred":[
         "Doln\u00e9 Obdokovce"
     ],
     "name:srp_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527684899,
+    "wof:lastmodified":1561841698,
     "wof:name":"Doln\u00e9 Obdokovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

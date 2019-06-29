@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":558277.414088,
+    "geom:area_square_m":558277.414087,
     "geom:bbox":"20.465420393,48.9561979628,20.4787448615,48.9696609765",
     "geom:latitude":48.961661,
     "geom:longitude":20.473014,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     ],
-    "name:cze_x_preferred":[
-        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
-    ],
     "name:deu_x_preferred":[
-        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
-    ],
-    "name:dut_x_preferred":[
         "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     ],
-    "name:fre_x_preferred":[
-        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
-    ],
-    "name:ger_x_preferred":[
-        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
-    ],
     "name:hun_x_preferred":[
         "Szepestam\u00e1sfalva"
     ],
     "name:ita_x_preferred":[
-        "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
-    ],
-    "name:may_x_preferred":[
         "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101780267,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841714,
     "wof:name":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

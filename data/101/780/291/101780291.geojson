@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
-    "geom:area_square_m":1316002.016128,
+    "geom:area_square_m":1316002.016129,
     "geom:bbox":"21.7723869362,48.7595442485,21.7914437341,48.7804776578",
     "geom:latitude":48.771012,
     "geom:longitude":21.783066,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Rakovec nad Ondavou"
     ],
-    "name:dut_x_preferred":[
-        "Rakovec nad Ondavou"
-    ],
     "name:eng_x_preferred":[
         "Rakovec nad Ondavou"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Rakovec nad Ondavou"
     ],
-    "name:fre_x_preferred":[
-        "Rakovec nad Ondavou"
-    ],
-    "name:ger_x_preferred":[
-        "Rakovec nad Ondavou"
-    ],
     "name:hbs_x_preferred":[
         "Rakovec na Ondavi"
     ],
@@ -47,9 +38,6 @@
         "R\u00e1k\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Rakovec nad Ondavou"
-    ],
-    "name:may_x_preferred":[
         "Rakovec nad Ondavou"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Rakovec nad Ondavou"
     ],
     "name:slk_x_preferred":[
-        "Rakovec nad Ondavou"
-    ],
-    "name:slo_x_preferred":[
         "Rakovec nad Ondavou"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780291,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Rakovec nad Ondavou",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

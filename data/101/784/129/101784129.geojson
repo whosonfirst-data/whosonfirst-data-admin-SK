@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":458654.301916,
+    "geom:area_square_m":458654.301915,
     "geom:bbox":"19.9850743527,48.2964347683,20.0032542981,48.3062670784",
     "geom:latitude":48.301351,
     "geom:longitude":19.993495,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Hodejov"
     ],
-    "name:cze_x_preferred":[
-        "Hodejov"
-    ],
     "name:deu_x_preferred":[
-        "Hodejov"
-    ],
-    "name:dut_x_preferred":[
         "Hodejov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Hodejov"
     ],
-    "name:fre_x_preferred":[
-        "Hodejov"
-    ],
-    "name:ger_x_preferred":[
-        "Hodejov"
-    ],
     "name:hun_x_preferred":[
         "V\u00e1rgede"
     ],
     "name:ita_x_preferred":[
-        "Hodejov"
-    ],
-    "name:may_x_preferred":[
         "Hodejov"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +50,6 @@
         "Hodejov"
     ],
     "name:slk_x_preferred":[
-        "Hodejov"
-    ],
-    "name:slo_x_preferred":[
         "Hodejov"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101784129,
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561841704,
     "wof:name":"Hodejov",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

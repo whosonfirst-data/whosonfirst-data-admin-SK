@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lazany"
     ],
-    "name:cze_x_preferred":[
-        "Lazany"
-    ],
     "name:deu_x_preferred":[
-        "Lazany"
-    ],
-    "name:dut_x_preferred":[
         "Lazany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lazany"
     ],
-    "name:fre_x_preferred":[
-        "Lazany"
-    ],
-    "name:ger_x_preferred":[
-        "Lazany"
-    ],
     "name:hbs_x_preferred":[
         "Lazani"
     ],
@@ -53,9 +41,6 @@
         "Bajm\u00f3claz\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Lazany"
-    ],
-    "name:may_x_preferred":[
         "Lazany"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Lazany"
     ],
     "name:slk_x_preferred":[
-        "Lazany"
-    ],
-    "name:slo_x_preferred":[
         "Lazany"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101781647,
-    "wof:lastmodified":1553815497,
+    "wof:lastmodified":1561841708,
     "wof:name":"Lazany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

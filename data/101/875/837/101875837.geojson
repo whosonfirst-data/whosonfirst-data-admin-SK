@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ochodnica"
     ],
-    "name:cze_x_preferred":[
-        "Ochodnica"
-    ],
     "name:deu_x_preferred":[
-        "Ochodnica"
-    ],
-    "name:dut_x_preferred":[
         "Ochodnica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ochodnica"
     ],
-    "name:fre_x_preferred":[
-        "Ochodnica"
-    ],
-    "name:ger_x_preferred":[
-        "Ochodnica"
-    ],
     "name:hbs_x_preferred":[
         "Ohodnjica"
     ],
@@ -53,9 +41,6 @@
         "\u00d6sv\u00e9nyes"
     ],
     "name:ita_x_preferred":[
-        "Ochodnica"
-    ],
-    "name:may_x_preferred":[
         "Ochodnica"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Ochodnica"
     ],
     "name:slk_x_preferred":[
-        "Ochodnica"
-    ],
-    "name:slo_x_preferred":[
         "Ochodnica"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +114,7 @@
         }
     ],
     "wof:id":101875837,
-    "wof:lastmodified":1544751964,
+    "wof:lastmodified":1561841689,
     "wof:name":"Ochodnica",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

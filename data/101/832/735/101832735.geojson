@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1290159.632697,
+    "geom:area_square_m":1290159.632698,
     "geom:bbox":"21.2536574246,48.9077159808,21.2684681588,48.9289493422",
     "geom:latitude":48.919431,
     "geom:longitude":21.260165,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Petrovany"
     ],
-    "name:cze_x_preferred":[
-        "Petrovany"
-    ],
     "name:deu_x_preferred":[
-        "Petrovany"
-    ],
-    "name:dut_x_preferred":[
         "Petrovany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Petrovany"
     ],
-    "name:fre_x_preferred":[
-        "Petrovany"
-    ],
-    "name:ger_x_preferred":[
-        "Petrovany"
-    ],
     "name:hun_x_preferred":[
         "Tarcaszentp\u00e9ter"
     ],
     "name:ita_x_preferred":[
-        "Petrovany"
-    ],
-    "name:may_x_preferred":[
         "Petrovany"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u043d\u0456"
     ],
     "name:slk_x_preferred":[
-        "Petrovany"
-    ],
-    "name:slo_x_preferred":[
         "Petrovany"
     ],
     "name:srp_x_preferred":[
@@ -138,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642786,
+    "wof:lastmodified":1561841694,
     "wof:name":"Petrovany",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

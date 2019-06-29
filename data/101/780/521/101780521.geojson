@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":857344.927961,
+    "geom:area_square_m":857344.927962,
     "geom:bbox":"20.2963251788,48.9732826076,20.3130524694,48.9932355862",
     "geom:latitude":48.984965,
     "geom:longitude":20.306094,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Hranovnica"
     ],
-    "name:cze_x_preferred":[
-        "Hranovnica"
-    ],
     "name:deu_x_preferred":[
-        "Hranovnica"
-    ],
-    "name:dut_x_preferred":[
         "Hranovnica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Hranovnica"
     ],
-    "name:fre_x_preferred":[
-        "Hranovnica"
-    ],
-    "name:ger_x_preferred":[
-        "Hranovnica"
-    ],
     "name:hbs_x_preferred":[
         "Hranovnjica"
     ],
@@ -53,9 +41,6 @@
         "Szepesv\u00e9ghely"
     ],
     "name:ita_x_preferred":[
-        "Hranovnica"
-    ],
-    "name:may_x_preferred":[
         "Hranovnica"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u0413\u0440\u0430\u043d\u043e\u0432\u043d\u0457\u0446\u0430"
     ],
     "name:slk_x_preferred":[
-        "Hranovnica"
-    ],
-    "name:slo_x_preferred":[
         "Hranovnica"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780521,
-    "wof:lastmodified":1527715869,
+    "wof:lastmodified":1561841715,
     "wof:name":"Hranovnica",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

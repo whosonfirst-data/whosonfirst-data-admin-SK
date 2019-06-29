@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":588176.288931,
+    "geom:area_square_m":588176.288932,
     "geom:bbox":"18.4624010532,49.0114448262,18.4836628929,49.0281692155",
     "geom:latitude":49.018683,
     "geom:longitude":18.472985,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Pru\u017eina"
     ],
-    "name:cze_x_preferred":[
-        "Pru\u017eina"
-    ],
     "name:deu_x_preferred":[
-        "Pru\u017eina"
-    ],
-    "name:dut_x_preferred":[
         "Pru\u017eina"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Pru\u017eina"
     ],
-    "name:fre_x_preferred":[
-        "Pru\u017eina"
-    ],
-    "name:ger_x_preferred":[
-        "Pru\u017eina"
-    ],
     "name:hbs_x_preferred":[
         "Pru\u017eina"
     ],
@@ -53,9 +41,6 @@
         "Barossh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Pru\u017eina"
-    ],
-    "name:may_x_preferred":[
         "Pru\u017eina"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Pru\u017eina"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pru\u017eina"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101780347,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841715,
     "wof:name":"Pru\u017eina",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

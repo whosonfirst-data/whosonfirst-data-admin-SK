@@ -21,13 +21,13 @@
     "name:cat_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:deu_x_preferred":[
         "Ober-Stuben"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +36,7 @@
     "name:epo_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e1 \u0160tub\u0148a"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:hun_x_preferred":[
@@ -48,13 +45,16 @@
     "name:ita_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:nld_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:pol_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1126013565,
-    "wof:lastmodified":1514505104,
+    "wof:lastmodified":1561841727,
     "wof:name":"Horna Stubna",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

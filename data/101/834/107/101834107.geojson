@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Mojzesovo"
     ],
-    "name:cze_x_preferred":[
-        "Mojzesovo"
-    ],
     "name:deu_x_preferred":[
-        "Mojzesovo"
-    ],
-    "name:dut_x_preferred":[
         "Mojzesovo"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Mojzesovo"
     ],
-    "name:fre_x_preferred":[
-        "Mojzesovo"
-    ],
-    "name:ger_x_preferred":[
-        "Mojzesovo"
-    ],
     "name:hbs_x_preferred":[
         "Mojzesovo"
     ],
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Mojzesovo"
     ],
-    "name:may_x_preferred":[
-        "Mojzesovo"
-    ],
     "name:msa_x_preferred":[
         "Mojzesovo"
     ],
@@ -65,9 +50,6 @@
         "Mojzesovo"
     ],
     "name:slk_x_preferred":[
-        "Mojzesovo"
-    ],
-    "name:slo_x_preferred":[
         "Mojzesovo"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +108,7 @@
         }
     ],
     "wof:id":101834107,
-    "wof:lastmodified":1527642934,
+    "wof:lastmodified":1561841696,
     "wof:name":"Mojzesovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

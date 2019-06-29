@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Lehota"
     ],
-    "name:dut_x_preferred":[
-        "Lehota"
-    ],
     "name:eng_x_preferred":[
         "Lehota"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Lehota"
     ],
-    "name:fre_x_preferred":[
-        "Lehota"
-    ],
-    "name:ger_x_preferred":[
-        "Lehota"
-    ],
     "name:hbs_x_preferred":[
         "Ljehota"
     ],
@@ -47,9 +38,6 @@
         "Abasz\u00e1ll\u00e1s"
     ],
     "name:ita_x_preferred":[
-        "Lehota"
-    ],
-    "name:may_x_preferred":[
         "Lehota"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "\u041b\u0435\u0433\u043e\u0442\u0430"
     ],
     "name:slk_x_preferred":[
-        "Lehota"
-    ],
-    "name:slo_x_preferred":[
         "Lehota"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815499,
+    "wof:lastmodified":1561841703,
     "wof:name":"Lehota",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

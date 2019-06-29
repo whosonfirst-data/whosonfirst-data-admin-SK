@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1704825.809381,
+    "geom:area_square_m":1704825.809383,
     "geom:bbox":"18.6151003932,48.72283755,18.6439463978,48.7413694005",
     "geom:latitude":48.731918,
     "geom:longitude":18.62916,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Sebedra\u017eie"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sebedra\u017eie"
     ],
     "name:deu_x_preferred":[
-        "Sebedra\u017eie"
-    ],
-    "name:dut_x_preferred":[
         "Sebedra\u017eie"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Sebedra\u017eie"
     ],
-    "name:fre_x_preferred":[
-        "Sebedra\u017eie"
-    ],
-    "name:ger_x_preferred":[
-        "Sebedra\u017eie"
-    ],
     "name:hbs_x_preferred":[
         "Sebedra\u017eje"
     ],
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Sebedra\u017eie"
     ],
-    "name:may_x_preferred":[
-        "Sebedra\u017eie"
-    ],
     "name:msa_x_preferred":[
         "Sebedra\u017eie"
     ],
@@ -62,9 +50,6 @@
         "Sebedra\u017eie"
     ],
     "name:slk_x_preferred":[
-        "Sebedra\u017eie"
-    ],
-    "name:slo_x_preferred":[
         "Sebedra\u017eie"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843833,
-    "wof:lastmodified":1527642593,
+    "wof:lastmodified":1561841690,
     "wof:name":"Sebedra\u017eie",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

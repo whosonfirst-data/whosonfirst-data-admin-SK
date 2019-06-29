@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Hrabovka"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabovka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hrabovka"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Hrabovka"
     ],
-    "name:fre_x_preferred":[
-        "Hrabovka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hrabovka"
     ],
     "name:hun_x_preferred":[
@@ -45,10 +42,13 @@
     "name:ita_x_preferred":[
         "Hrabovka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hrabovka"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Hrabovka"
+    ],
+    "name:slk_x_preferred":[
         "Hrabovka"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1125891199,
-    "wof:lastmodified":1553816606,
+    "wof:lastmodified":1561841723,
     "wof:name":"Hrabovka",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

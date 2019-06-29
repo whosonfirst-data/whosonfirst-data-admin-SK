@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nacina Ves"
     ],
-    "name:cze_x_preferred":[
-        "Nacina Ves"
-    ],
     "name:deu_x_preferred":[
-        "Nacina Ves"
-    ],
-    "name:dut_x_preferred":[
         "Nacina Ves"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nacina Ves"
     ],
-    "name:fre_x_preferred":[
-        "Nacina Ves"
-    ],
-    "name:ger_x_preferred":[
-        "Nacina Ves"
-    ],
     "name:hbs_x_preferred":[
         "Nacina Ves"
     ],
@@ -53,9 +41,6 @@
         "N\u00e1tafalva"
     ],
     "name:ita_x_preferred":[
-        "Nacina Ves"
-    ],
-    "name:may_x_preferred":[
         "Nacina Ves"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Nacina Ves"
     ],
     "name:slk_x_preferred":[
-        "Nacina Ves"
-    ],
-    "name:slo_x_preferred":[
         "Nacina Ves"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780287,
-    "wof:lastmodified":1527715865,
+    "wof:lastmodified":1561841713,
     "wof:name":"Nacina Ves",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

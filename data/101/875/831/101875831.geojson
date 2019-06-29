@@ -16,22 +16,16 @@
     "mps:longitude":19.359086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u057d\u056f\u0578\u057e\u0561"
-    ],
     "name:cat_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:ces_x_preferred":[
         "Liskov\u00e1"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:deu_x_preferred":[
-        "Liskov\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +37,13 @@
     "name:fra_x_preferred":[
         "Liskov\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Liskov\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Liskov\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Liszk\u00f3falu"
     ],
-    "name:ita_x_preferred":[
-        "Liskov\u00e1"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u056f\u0578\u057e\u0561"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -70,16 +58,13 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u0441\u043a\u043e\u0432\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0441\u043a\u043e\u0432\u0430"
     ],
     "name:war_x_preferred":[
-        "Liskov\u00e1"
-    ],
-    "name:wel_x_preferred":[
         "Liskov\u00e1"
     ],
     "qs:a0":"Slovensko",
@@ -129,7 +114,7 @@
         }
     ],
     "wof:id":101875831,
-    "wof:lastmodified":1544751962,
+    "wof:lastmodified":1561841689,
     "wof:name":"Liskov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

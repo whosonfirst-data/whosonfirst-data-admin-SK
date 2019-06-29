@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
-    "name:fre_x_preferred":[
-        "Tren\u010dianske Bohuslavice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
     "name:nan_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
+    "name:nld_x_preferred":[
+        "Tren\u010dianske Bohuslavice"
+    ],
     "name:pol_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125929281,
-    "wof:lastmodified":1514505316,
+    "wof:lastmodified":1561841720,
     "wof:name":"Tren\u010dianske Bohuslavice",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Jakubany"
     ],
-    "name:cze_x_preferred":[
-        "Jakubany"
-    ],
     "name:deu_x_preferred":[
-        "Jakubany"
-    ],
-    "name:dut_x_preferred":[
         "Jakubany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Jakubany"
     ],
-    "name:fre_x_preferred":[
-        "Jakubany"
-    ],
-    "name:ger_x_preferred":[
-        "Jakubany"
-    ],
     "name:hbs_x_preferred":[
         "Jakubani"
     ],
@@ -53,9 +41,6 @@
         "Szepesjakabfalva"
     ],
     "name:ita_x_preferred":[
-        "Jakubany"
-    ],
-    "name:may_x_preferred":[
         "Jakubany"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u042f\u043a\u0443\u0431\u044f\u043d\u044b"
     ],
     "name:slk_x_preferred":[
-        "Jakubany"
-    ],
-    "name:slo_x_preferred":[
         "Jakubany"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780589,
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"Jakubany",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

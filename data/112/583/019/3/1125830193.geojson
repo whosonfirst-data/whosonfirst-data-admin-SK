@@ -24,13 +24,10 @@
     "name:cat_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u666e\u62c9\u6cb3\u7554\u54c8\u52aa\u7d39\u592b\u91c7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:eng_x_preferred":[
@@ -39,10 +36,10 @@
     "name:epo_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
-    "name:fre_x_preferred":[
-        "Hanu\u0161ovce nad Top\u013eou"
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0647 \u0646\u0627\u062f \u062a\u067e\u0644\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:hrv_x_preferred":[
@@ -57,25 +54,25 @@
     "name:lav_x_preferred":[
         "Hanu\u0161ovce pie Top\u013cas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:nan_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0647 \u0646\u0627\u062f \u062a\u067e\u0644\u0648"
+    "name:nld_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:pol_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u0451\u0443"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:spa_x_preferred":[
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u666e\u62c9\u6cb3\u7554\u54c8\u52aa\u7d39\u592b\u91c7"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1125830193,
-    "wof:lastmodified":1514505098,
+    "wof:lastmodified":1561841732,
     "wof:name":"Hanu\u0161ovce nad Topl\u0315ou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

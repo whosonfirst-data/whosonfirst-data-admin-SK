@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
-    "name:dut_x_preferred":[
-        "Sv\u00e4t\u00fd Peter"
-    ],
     "name:eng_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
@@ -32,12 +29,6 @@
         "Sv\u00e4t\u00fd Peter"
     ],
     "name:fra_x_preferred":[
-        "Sv\u00e4t\u00fd Peter"
-    ],
-    "name:fre_x_preferred":[
-        "Sv\u00e4t\u00fd Peter"
-    ],
-    "name:ger_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
-    "name:may_x_preferred":[
-        "Sv\u00e4t\u00fd Peter"
-    ],
     "name:msa_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
@@ -65,9 +53,6 @@
         "Sv\u00e4t\u00fd Peter"
     ],
     "name:slk_x_preferred":[
-        "Sv\u00e4t\u00fd Peter"
-    ],
-    "name:slo_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101787467,
-    "wof:lastmodified":1553815502,
+    "wof:lastmodified":1561841712,
     "wof:name":"Sv\u00e4t\u00fd Peter",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

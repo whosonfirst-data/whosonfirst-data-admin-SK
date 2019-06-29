@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1146566.528796,
+    "geom:area_square_m":1146566.528795,
     "geom:bbox":"21.7259415639,48.5735372714,21.7463444617,48.5893221758",
     "geom:latitude":48.581924,
     "geom:longitude":21.737494,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
-    "name:cze_x_preferred":[
-        "Zempl\u00ednske Hradi\u0161te"
-    ],
     "name:deu_x_preferred":[
-        "Zempl\u00ednske Hradi\u0161te"
-    ],
-    "name:dut_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
-    "name:fre_x_preferred":[
-        "Zempl\u00ednske Hradi\u0161te"
-    ],
-    "name:ger_x_preferred":[
-        "Zempl\u00ednske Hradi\u0161te"
-    ],
     "name:hun_x_preferred":[
         "Hardicsa"
     ],
     "name:ita_x_preferred":[
-        "Zempl\u00ednske Hradi\u0161te"
-    ],
-    "name:may_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0435 \u0413\u0440\u0430\u0434\u0457\u0448\u0442\u0454"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780233,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841715,
     "wof:name":"Zempl\u00ednske Hradi\u0161te",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

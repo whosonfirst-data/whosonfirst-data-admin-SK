@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000556,
-    "geom:area_square_m":4526154.948967,
+    "geom:area_square_m":4526154.948964,
     "geom:bbox":"19.5140659332,48.7896367011,19.5970718085,48.8190433355",
     "geom:latitude":48.80689,
     "geom:longitude":19.562558,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Podbrezov\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Podbrezov\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Podbrezov\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Podbrezov\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Podbrezov\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Podbrezov\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Podbrezov\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Podbrezov\u00e1"
     ],
     "name:hun_x_preferred":[
@@ -61,9 +49,6 @@
     "name:lit_x_preferred":[
         "Podbrezova"
     ],
-    "name:may_x_preferred":[
-        "Podbrezov\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Podbrezov\u00e1"
     ],
@@ -76,7 +61,7 @@
     "name:pol_x_preferred":[
         "Podbrezov\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Podbrezov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101781751,
-    "wof:lastmodified":1527715629,
+    "wof:lastmodified":1561841708,
     "wof:name":"Podbrezov\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

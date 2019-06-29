@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1246405.652683,
+    "geom:area_square_m":1246405.652684,
     "geom:bbox":"17.6794241156,48.0699206147,17.6999555758,48.090996217",
     "geom:latitude":48.081529,
     "geom:longitude":17.692302,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
-    "name:dut_x_preferred":[
-        "Tom\u00e1\u0161ikovo"
-    ],
     "name:eng_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
-    "name:fre_x_preferred":[
-        "Tom\u00e1\u0161ikovo"
-    ],
-    "name:ger_x_preferred":[
-        "Tom\u00e1\u0161ikovo"
-    ],
     "name:hbs_x_preferred":[
         "Toma\u0161ikovo"
     ],
@@ -47,9 +38,6 @@
         "Tall\u00f3s"
     ],
     "name:ita_x_preferred":[
-        "Tom\u00e1\u0161ikovo"
-    ],
-    "name:may_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Tom\u00e1\u0161ikovo"
     ],
     "name:slk_x_preferred":[
-        "Tom\u00e1\u0161ikovo"
-    ],
-    "name:slo_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786395,
-    "wof:lastmodified":1527715648,
+    "wof:lastmodified":1561841710,
     "wof:name":"Tom\u00e1\u0161ikovo",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

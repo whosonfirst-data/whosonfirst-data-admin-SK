@@ -26,16 +26,13 @@
     "name:cat_x_preferred":[
         "Senica"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5c3c\u5bdf"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Senica"
     ],
     "name:dan_x_preferred":[
         "Senica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Senica"
     ],
     "name:eng_x_preferred":[
@@ -47,10 +44,7 @@
     "name:fas_x_preferred":[
         "\u0633\u0646\u06cc\u062a\u0633\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Senica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Senica"
     ],
     "name:hbs_x_preferred":[
@@ -80,14 +74,14 @@
     "name:lit_x_preferred":[
         "Senica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Senica"
     ],
     "name:nan_x_preferred":[
         "Senica"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u06cc\u062a\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Senica"
     ],
     "name:pol_x_preferred":[
         "Senica"
@@ -95,13 +89,13 @@
     "name:por_x_preferred":[
         "Senica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Senica"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Senica"
     ],
     "name:srp_x_preferred":[
@@ -172,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688542,
+    "wof:lastmodified":1561841705,
     "wof:name":"Senica",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

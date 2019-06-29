@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":947075.289044,
+    "geom:area_square_m":947075.289043,
     "geom:bbox":"20.0761732712,48.9598884561,20.0967890626,48.976794171",
     "geom:latitude":48.967804,
     "geom:longitude":20.089483,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
-    "name:cze_x_preferred":[
-        "Liptovsk\u00e1 Tepli\u010dka"
-    ],
     "name:deu_x_preferred":[
-        "Liptovsk\u00e1 Tepli\u010dka"
-    ],
-    "name:dut_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00e1 Tepli\u010dka"
-    ],
-    "name:ger_x_preferred":[
-        "Liptovsk\u00e1 Tepli\u010dka"
-    ],
     "name:hun_x_preferred":[
         "Teplicska"
     ],
     "name:ita_x_preferred":[
-        "Liptovsk\u00e1 Tepli\u010dka"
-    ],
-    "name:may_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u041b\u0456\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u0422\u0454\u043f\u043b\u0456\u0447\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780525,
-    "wof:lastmodified":1527715877,
+    "wof:lastmodified":1561841719,
     "wof:name":"Liptovsk\u00e1 Tepli\u010dka",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

@@ -34,16 +34,16 @@
     "name:ces_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
+    "name:ces_x_variant":[
+        "Okres Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
-    ],
-    "name:cze_x_preferred":[
-        "Okres Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:deu_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Okres Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:eng_x_preferred":[
@@ -61,14 +61,8 @@
     "name:fra_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Kysuck\u00e9 Nov\u00e9 Mesto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e1\u10e3\u10ea\u10d9\u10d4-\u10dc\u10dd\u10d5\u10d4-\u10db\u10d4\u10e1\u10e2\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:hrv_x_preferred":[
         "Okrug Kysuck\u00e9 Nov\u00e9 Mesto"
@@ -79,17 +73,23 @@
     "name:ita_x_preferred":[
         "Distretto di Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e1\u10e3\u10ea\u10d9\u10d4-\u10dc\u10dd\u10d5\u10d4-\u10db\u10d4\u10e1\u10e2\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:lav_x_preferred":[
         "Kisucke Nove Mesto apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:nan_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:pol_x_preferred":[
         "Powiat Kysuck\u00e9 Nov\u00e9 Mesto"
@@ -97,16 +97,16 @@
     "name:por_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041a\u0456\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0446\u043a\u0435-\u041d\u043e\u0432\u0435-\u041c\u0435\u0441\u0442\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:spa_x_preferred":[
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":102080589,
-    "wof:lastmodified":1553717231,
+    "wof:lastmodified":1561841676,
     "wof:name":"Kysuck\u00e9 Nov\u00e9 Mesto",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

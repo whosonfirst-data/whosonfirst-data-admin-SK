@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Pravenec"
     ],
-    "name:cze_x_preferred":[
-        "Pravenec"
-    ],
     "name:deu_x_preferred":[
-        "Pravenec"
-    ],
-    "name:dut_x_preferred":[
         "Pravenec"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Pravenec"
     ],
-    "name:fre_x_preferred":[
-        "Pravenec"
-    ],
-    "name:ger_x_preferred":[
-        "Pravenec"
-    ],
     "name:hbs_x_preferred":[
         "Pravenjec"
     ],
@@ -53,9 +41,6 @@
         "Kispr\u00f3na"
     ],
     "name:ita_x_preferred":[
-        "Pravenec"
-    ],
-    "name:may_x_preferred":[
         "Pravenec"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Pravenec"
     ],
     "name:slk_x_preferred":[
-        "Pravenec"
-    ],
-    "name:slo_x_preferred":[
         "Pravenec"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101843827,
-    "wof:lastmodified":1527642589,
+    "wof:lastmodified":1561841689,
     "wof:name":"Pravenec",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":764434.301607,
+    "geom:area_square_m":764434.301608,
     "geom:bbox":"18.2625666245,48.0970700688,18.2817378834,48.110268827",
     "geom:latitude":48.103736,
     "geom:longitude":18.271038,
@@ -22,16 +22,13 @@
     "name:cat_x_preferred":[
         "Hul"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hul"
     ],
     "name:dan_x_preferred":[
         "Hul"
     ],
     "name:deu_x_preferred":[
-        "Hul"
-    ],
-    "name:dut_x_preferred":[
         "Hul"
     ],
     "name:eng_x_preferred":[
@@ -46,12 +43,6 @@
     "name:fra_x_preferred":[
         "Hul"
     ],
-    "name:fre_x_preferred":[
-        "Hul"
-    ],
-    "name:ger_x_preferred":[
-        "Hul"
-    ],
     "name:hbs_x_preferred":[
         "Hul"
     ],
@@ -59,9 +50,6 @@
         "Hull"
     ],
     "name:ita_x_preferred":[
-        "Hul"
-    ],
-    "name:may_x_preferred":[
         "Hul"
     ],
     "name:msa_x_preferred":[
@@ -86,9 +74,6 @@
         "Hul"
     ],
     "name:slk_x_preferred":[
-        "Hul"
-    ],
-    "name:slo_x_preferred":[
         "Hul"
     ],
     "name:spa_x_preferred":[
@@ -148,7 +133,7 @@
         }
     ],
     "wof:id":101834113,
-    "wof:lastmodified":1514505111,
+    "wof:lastmodified":1561841696,
     "wof:name":"Hul",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

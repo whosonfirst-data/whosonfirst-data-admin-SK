@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
-    "name:cze_x_preferred":[
-        "Mal\u00e9 Uherce"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
     "name:hun_x_preferred":[
@@ -42,10 +39,13 @@
     "name:ita_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Uherce"
+    ],
+    "name:slk_x_preferred":[
         "Mal\u00e9 Uherce"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1126017275,
-    "wof:lastmodified":1514505173,
+    "wof:lastmodified":1561841727,
     "wof:name":"Mal\u00e9 Uherce",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

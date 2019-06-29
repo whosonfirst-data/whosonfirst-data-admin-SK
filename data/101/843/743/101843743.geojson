@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":947206.243323,
+    "geom:area_square_m":947206.243322,
     "geom:bbox":"18.0230763738,48.3671791863,18.0463336036,48.3773998158",
     "geom:latitude":48.372116,
     "geom:longitude":18.035853,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cakajovce"
     ],
-    "name:cze_x_preferred":[
-        "\u010cakajovce"
-    ],
     "name:deu_x_preferred":[
-        "\u010cakajovce"
-    ],
-    "name:dut_x_preferred":[
         "\u010cakajovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u010cakajovce"
     ],
-    "name:fre_x_preferred":[
-        "\u010cakajovce"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cakajovce"
-    ],
     "name:hbs_x_preferred":[
         "\u010cakajovce"
     ],
@@ -53,9 +41,6 @@
         "Csekej"
     ],
     "name:ita_x_preferred":[
-        "\u010cakajovce"
-    ],
-    "name:may_x_preferred":[
         "\u010cakajovce"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "\u010cakajovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cakajovce"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1561841692,
     "wof:name":"\u010cakajovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

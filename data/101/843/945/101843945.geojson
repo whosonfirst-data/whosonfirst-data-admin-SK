@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":946997.557822,
+    "geom:area_square_m":946997.557823,
     "geom:bbox":"18.7386669689,49.2994393756,18.750893152,49.3306228756",
     "geom:latitude":49.312925,
     "geom:longitude":18.743997,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Neslu\u0161a"
     ],
-    "name:cze_x_preferred":[
-        "Neslu\u0161a"
-    ],
     "name:deu_x_preferred":[
-        "Neslu\u0161a"
-    ],
-    "name:dut_x_preferred":[
         "Neslu\u0161a"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Neslu\u0161a"
     ],
-    "name:fre_x_preferred":[
-        "Neslu\u0161a"
-    ],
-    "name:ger_x_preferred":[
-        "Neslu\u0161a"
-    ],
     "name:hun_x_preferred":[
         "Neszl\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Neslu\u0161a"
-    ],
-    "name:may_x_preferred":[
         "Neslu\u0161a"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Neslu\u0161a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Neslu\u0161a"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843945,
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561841693,
     "wof:name":"Neslu\u0161a",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "N\u00e1lepkovo"
     ],
-    "name:dut_x_preferred":[
-        "N\u00e1lepkovo"
-    ],
     "name:eng_x_preferred":[
         "N\u00e1lepkovo"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "N\u00e1lepkovo"
     ],
-    "name:fre_x_preferred":[
-        "N\u00e1lepkovo"
-    ],
-    "name:ger_x_preferred":[
-        "N\u00e1lepkovo"
-    ],
     "name:hun_x_preferred":[
         "Mer\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "N\u00e1lepkovo"
-    ],
-    "name:may_x_preferred":[
         "N\u00e1lepkovo"
     ],
     "name:msa_x_preferred":[
@@ -64,10 +52,7 @@
     "name:ron_x_preferred":[
         "N\u00e1lepkovo"
     ],
-    "name:rum_x_preferred":[
-        "N\u00e1lepkovo"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "N\u00e1lepkovo"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101780247,
-    "wof:lastmodified":1527715873,
+    "wof:lastmodified":1561841717,
     "wof:name":"N\u00e1lepkovo",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

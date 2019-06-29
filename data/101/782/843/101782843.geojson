@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Doln\u00e9 Vestenice"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Doln\u00e9 Vestenice"
     ],
     "name:deu_x_preferred":[
-        "Doln\u00e9 Vestenice"
-    ],
-    "name:dut_x_preferred":[
         "Doln\u00e9 Vestenice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +37,6 @@
     "name:fra_x_preferred":[
         "Doln\u00e9 Vestenice"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e9 Vestenice"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00e9 Vestenice"
-    ],
     "name:hbs_x_preferred":[
         "Dolnje Vestjenjice"
     ],
@@ -53,9 +44,6 @@
         "Als\u00f3veszt\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Doln\u00e9 Vestenice"
-    ],
-    "name:may_x_preferred":[
         "Doln\u00e9 Vestenice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +56,6 @@
         "Doln\u00e9 Vestenice"
     ],
     "name:slk_x_preferred":[
-        "Doln\u00e9 Vestenice"
-    ],
-    "name:slo_x_preferred":[
         "Doln\u00e9 Vestenice"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782843,
-    "wof:lastmodified":1527688317,
+    "wof:lastmodified":1561841700,
     "wof:name":"Doln\u00e9 Vestenice",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

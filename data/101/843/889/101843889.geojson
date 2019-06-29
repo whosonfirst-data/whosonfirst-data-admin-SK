@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":667957.163124,
+    "geom:area_square_m":667957.163125,
     "geom:bbox":"20.8607035689,48.8249046634,20.8800142423,48.8341463879",
     "geom:latitude":48.830065,
     "geom:longitude":20.869328,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Helcmanovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Helcmanovce"
     ],
     "name:deu_x_preferred":[
-        "Helcmanovce"
-    ],
-    "name:dut_x_preferred":[
         "Helcmanovce"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Helcmanovce"
     ],
-    "name:fre_x_preferred":[
-        "Helcmanovce"
-    ],
-    "name:ger_x_preferred":[
-        "Helcmanovce"
-    ],
     "name:hbs_x_preferred":[
         "Helcmanovce"
     ],
@@ -50,9 +41,6 @@
         "Nagykuncfalva"
     ],
     "name:ita_x_preferred":[
-        "Helcmanovce"
-    ],
-    "name:may_x_preferred":[
         "Helcmanovce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +56,6 @@
         "\u0413\u0435\u043b\u0446\u043c\u0430\u043d\u0456\u0432\u0446\u0457"
     ],
     "name:slk_x_preferred":[
-        "Helcmanovce"
-    ],
-    "name:slo_x_preferred":[
         "Helcmanovce"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101843889,
-    "wof:lastmodified":1527642590,
+    "wof:lastmodified":1561841689,
     "wof:name":"Helcmanovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

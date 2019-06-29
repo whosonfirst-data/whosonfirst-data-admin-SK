@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "V\u00e1hovce"
     ],
-    "name:cze_x_preferred":[
-        "V\u00e1hovce"
-    ],
     "name:deu_x_preferred":[
-        "V\u00e1hovce"
-    ],
-    "name:dut_x_preferred":[
         "V\u00e1hovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "V\u00e1hovce"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e1hovce"
-    ],
-    "name:ger_x_preferred":[
-        "V\u00e1hovce"
-    ],
     "name:hbs_x_preferred":[
         "Vahovce"
     ],
@@ -53,9 +41,6 @@
         "V\u00e1ga"
     ],
     "name:ita_x_preferred":[
-        "V\u00e1hovce"
-    ],
-    "name:may_x_preferred":[
         "V\u00e1hovce"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "V\u00e1hovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "V\u00e1hovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101785199,
-    "wof:lastmodified":1527684898,
+    "wof:lastmodified":1561841698,
     "wof:name":"V\u00e1hovce",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

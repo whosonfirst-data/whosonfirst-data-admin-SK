@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001028,
-    "geom:area_square_m":8505668.304562,
+    "geom:area_square_m":8505668.304563,
     "geom:bbox":"17.5869237277,47.9686455675,17.6658284908,48.0137062753",
     "geom:latitude":47.991694,
     "geom:longitude":17.616171,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u064a\u0633\u0643\u0627 \u0633\u062a\u0631\u064a\u062f\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0576\u0561\u0575\u057d\u056f\u0561 \u054d\u057f\u0580\u0565\u0564\u0561"
     ],
     "name:aze_x_preferred":[
         "Dunayska Streda"
@@ -38,16 +35,7 @@
     "name:ces_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u65af\u7279\u96f7\u9054"
-    ],
-    "name:cze_x_preferred":[
-        "Dunajsk\u00e1 Streda"
-    ],
     "name:deu_x_preferred":[
-        "Dunajsk\u00e1 Streda"
-    ],
-    "name:dut_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
     "name:eng_x_preferred":[
@@ -68,10 +56,7 @@
     "name:fin_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
-    "name:fre_x_preferred":[
-        "Dunajsk\u00e1 Streda"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
     "name:heb_x_preferred":[
@@ -85,6 +70,9 @@
     ],
     "name:hun_x_variant":[
         "Dunaszerdahely"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0576\u0561\u0575\u057d\u056f\u0561 \u054d\u057f\u0580\u0565\u0564\u0561"
     ],
     "name:ita_x_preferred":[
         "Dunajsk\u00e1 Streda"
@@ -101,17 +89,17 @@
     "name:lit_x_preferred":[
         "Dunaiska Streda"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
     "name:nan_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u0627\u06cc\u0633\u06a9\u0627 \u0633\u062a\u0631\u062f\u0627"
+    "name:nob_x_preferred":[
+        "Dunajsk\u00e1 Streda"
     ],
     "name:pol_x_preferred":[
         "Dunajsk\u00e1 Streda"
@@ -122,16 +110,10 @@
     "name:ron_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
-    "name:rum_x_preferred":[
-        "Dunajsk\u00e1 Streda"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430-\u0421\u0442\u0440\u0435\u0434\u0430"
     ],
     "name:slk_x_preferred":[
-        "Dunajsk\u00e1 Streda"
-    ],
-    "name:slo_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
     "name:spa_x_preferred":[
@@ -214,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561841710,
     "wof:name":"Dunajsk\u00e1 Streda",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

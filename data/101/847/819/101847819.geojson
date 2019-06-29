@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bobrov"
     ],
-    "name:cze_x_preferred":[
-        "Bobrov"
-    ],
     "name:deu_x_preferred":[
-        "Bobrov"
-    ],
-    "name:dut_x_preferred":[
         "Bobrov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Bobrov"
     ],
-    "name:fre_x_preferred":[
-        "Bobrov"
-    ],
-    "name:ger_x_preferred":[
-        "Bobrov"
-    ],
     "name:hbs_x_preferred":[
         "Bobrov"
     ],
@@ -53,9 +41,6 @@
         "Bobr\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Bobrov"
-    ],
-    "name:may_x_preferred":[
         "Bobrov"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Bobr\u00f3w"
     ],
     "name:slk_x_preferred":[
-        "Bobrov"
-    ],
-    "name:slo_x_preferred":[
         "Bobrov"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101847819,
-    "wof:lastmodified":1527714969,
+    "wof:lastmodified":1561841706,
     "wof:name":"Bobrov",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

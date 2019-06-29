@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":2713878.710657,
+    "geom:area_square_m":2713878.710656,
     "geom:bbox":"18.5904129857,49.3803119979,18.6346217866,49.4188366692",
     "geom:latitude":49.401244,
     "geom:longitude":18.616366,
@@ -29,16 +29,7 @@
     "name:ces_x_preferred":[
         "Turzovka"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u723e\u4f50\u592b\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "Turzovka"
-    ],
     "name:deu_x_preferred":[
-        "Turzovka"
-    ],
-    "name:dut_x_preferred":[
         "Turzovka"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u062a\u0648\u0631\u0632\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
-        "Turzovka"
-    ],
-    "name:fre_x_preferred":[
-        "Turzovka"
-    ],
-    "name:ger_x_preferred":[
         "Turzovka"
     ],
     "name:hbs_x_preferred":[
@@ -74,9 +59,6 @@
     "name:lav_x_preferred":[
         "Turzovka"
     ],
-    "name:may_x_preferred":[
-        "Turzovka"
-    ],
     "name:msa_x_preferred":[
         "Turzovka"
     ],
@@ -86,25 +68,16 @@
     "name:nld_x_preferred":[
         "Turzovka"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u0632\u0648\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Turz\u00f3wka"
     ],
     "name:ron_x_preferred":[
         "Turzovka"
     ],
-    "name:rum_x_preferred":[
-        "Turzovka"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u0437\u043e\u0432\u043a\u0430"
     ],
     "name:slk_x_preferred":[
-        "Turzovka"
-    ],
-    "name:slo_x_preferred":[
         "Turzovka"
     ],
     "name:srp_x_preferred":[
@@ -171,7 +144,7 @@
         }
     ],
     "wof:id":101842013,
-    "wof:lastmodified":1527642322,
+    "wof:lastmodified":1561841687,
     "wof:name":"Turzovka",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Doj\u010d"
     ],
-    "name:cze_x_preferred":[
-        "Doj\u010d"
-    ],
     "name:deu_x_preferred":[
-        "Doj\u010d"
-    ],
-    "name:dut_x_preferred":[
         "Doj\u010d"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Doj\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Doj\u010d"
-    ],
-    "name:ger_x_preferred":[
-        "Doj\u010d"
-    ],
     "name:hrv_x_preferred":[
         "Doj\u010d"
     ],
@@ -53,9 +41,6 @@
         "D\u00f3cs"
     ],
     "name:ita_x_preferred":[
-        "Doj\u010d"
-    ],
-    "name:may_x_preferred":[
         "Doj\u010d"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Doj\u010d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doj\u010d"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101843791,
-    "wof:lastmodified":1527642589,
+    "wof:lastmodified":1561841689,
     "wof:name":"Doj\u010d",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

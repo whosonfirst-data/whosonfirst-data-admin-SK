@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
-    "name:cze_x_preferred":[
-        "Kr\u00e1\u013eov\u00e1 pri Senci"
-    ],
     "name:deu_x_preferred":[
-        "Kr\u00e1\u013eov\u00e1 pri Senci"
-    ],
-    "name:dut_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
-    "name:fre_x_preferred":[
-        "Kr\u00e1\u013eov\u00e1 pri Senci"
-    ],
-    "name:ger_x_preferred":[
-        "Kr\u00e1\u013eov\u00e1 pri Senci"
-    ],
     "name:hun_x_preferred":[
         "Kir\u00e1lyfa"
     ],
     "name:ita_x_preferred":[
-        "Kr\u00e1\u013eov\u00e1 pri Senci"
-    ],
-    "name:may_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101786367,
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561841710,
     "wof:name":"Kr\u00e1\u013eov\u00e1 pri Senci",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

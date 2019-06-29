@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cili\u017esk\u00e1 Radva\u0148"
     ],
-    "name:cze_x_preferred":[
-        "\u010cili\u017esk\u00e1 Radva\u0148"
-    ],
     "name:deu_x_preferred":[
-        "\u010cili\u017esk\u00e1 Radva\u0148"
-    ],
-    "name:dut_x_preferred":[
         "\u010cili\u017esk\u00e1 Radva\u0148"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "\u010cili\u017esk\u00e1 Radva\u0148"
     ],
-    "name:fre_x_preferred":[
-        "\u010cili\u017esk\u00e1 Radva\u0148"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cili\u017esk\u00e1 Radva\u0148"
-    ],
     "name:hun_x_preferred":[
         "Csilizradv\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "\u010cili\u017esk\u00e1 Radva\u0148"
-    ],
-    "name:may_x_preferred":[
         "\u010cili\u017esk\u00e1 Radva\u0148"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "\u010cili\u017esk\u00e1 Radva\u0148"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cili\u017esk\u00e1 Radva\u0148"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101787499,
-    "wof:lastmodified":1527715845,
+    "wof:lastmodified":1561841711,
     "wof:name":"\u010cili\u017esk\u00e1 Radva\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

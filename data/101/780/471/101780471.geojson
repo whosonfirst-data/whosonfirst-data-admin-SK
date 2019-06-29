@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":1844376.182789,
+    "geom:area_square_m":1844376.182788,
     "geom:bbox":"21.6666563893,48.7735187167,21.6937522696,48.7947293505",
     "geom:latitude":48.785009,
     "geom:longitude":21.682728,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Se\u010dovsk\u00e1 Polianka"
     ],
-    "name:cze_x_preferred":[
-        "Se\u010dovsk\u00e1 Polianka"
-    ],
     "name:deu_x_preferred":[
-        "Se\u010dovsk\u00e1 Polianka"
-    ],
-    "name:dut_x_preferred":[
         "Se\u010dovsk\u00e1 Polianka"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Se\u010dovsk\u00e1 Polianka"
     ],
-    "name:fre_x_preferred":[
-        "Se\u010dovsk\u00e1 Polianka"
-    ],
-    "name:ger_x_preferred":[
-        "Se\u010dovsk\u00e1 Polianka"
-    ],
     "name:hun_x_preferred":[
         "Sz\u00e9csmez\u0151"
     ],
     "name:ita_x_preferred":[
-        "Se\u010dovsk\u00e1 Polianka"
-    ],
-    "name:may_x_preferred":[
         "Se\u010dovsk\u00e1 Polianka"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Se\u010dovsk\u00e1 Polianka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Se\u010dovsk\u00e1 Polianka"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780471,
-    "wof:lastmodified":1527715865,
+    "wof:lastmodified":1561841713,
     "wof:name":"Se\u010dovsk\u00e1 Polianka",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

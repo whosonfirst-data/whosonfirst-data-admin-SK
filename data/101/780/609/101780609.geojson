@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1535192.062965,
+    "geom:area_square_m":1535192.062966,
     "geom:bbox":"21.3029533467,49.1418857908,21.3342875435,49.1569868117",
     "geom:latitude":49.149524,
     "geom:longitude":21.319468,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Raslavice"
     ],
-    "name:cze_x_preferred":[
-        "Raslavice"
-    ],
     "name:deu_x_preferred":[
-        "Raslavice"
-    ],
-    "name:dut_x_preferred":[
         "Raslavice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Raslavice"
     ],
-    "name:fre_x_preferred":[
-        "Raslavice"
-    ],
-    "name:ger_x_preferred":[
-        "Raslavice"
-    ],
     "name:hun_x_preferred":[
         "Raszlavica"
     ],
     "name:ita_x_preferred":[
-        "Raslavice"
-    ],
-    "name:may_x_preferred":[
         "Raslavice"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u0420\u0430\u0441\u043b\u0430\u0432\u0456\u0446\u0457"
     ],
     "name:slk_x_preferred":[
-        "Raslavice"
-    ],
-    "name:slo_x_preferred":[
         "Raslavice"
     ],
     "name:srp_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101780609,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561841718,
     "wof:name":"Raslavice",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

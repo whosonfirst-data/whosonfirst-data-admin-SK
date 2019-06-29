@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "Banska Bistritsa diyar\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Bansk\u00e1 Bystrica eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u0430\u0431\u0456\u0441\u0442\u0440\u044b\u0446\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -57,20 +54,17 @@
     "name:ces_x_preferred":[
         "Banskobystrick\u00fd kraj"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u65af\u5361\u00b7\u6bd4\u65af\u7279\u7406\u5bdf\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u043e\u0431\u0438\u0441\u0442\u0440\u0438\u0446\u0430 \u0435\u043d\u0115"
-    ],
-    "name:cze_x_preferred":[
-        "Banskobystrick\u00fd kraj"
     ],
     "name:dan_x_preferred":[
         "Bansk\u00e1 Bystrica"
     ],
-    "name:dut_x_preferred":[
-        "Bansk\u00e1 Bystrica"
+    "name:deu_x_preferred":[
+        "Banskobystrick\u00fd kraj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c3\u03ba\u03ac \u039c\u03c0\u03b9\u03c3\u03c4\u03c1\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Banska Bystrica"
@@ -81,6 +75,12 @@
     "name:est_x_preferred":[
         "Bansk\u00e1 Bystrica maakond"
     ],
+    "name:eus_x_preferred":[
+        "Bansk\u00e1 Bystrica eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0628\u0627\u0646\u0633\u06a9\u0627 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bansk\u00e1 Bystrican alue"
     ],
@@ -89,18 +89,6 @@
     ],
     "name:fra_x_variant":[
         "Bansk\u00e1 Bystrica"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Bansk\u00e1 Bystrica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10e1\u10d9\u10d0-\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Banskobystrick\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03c3\u03ba\u03ac \u039c\u03c0\u03b9\u03c3\u03c4\u03c1\u03af\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0ab8\u0acd\u0a95\u0abe \u0aac\u0abe\u0aaf\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -129,6 +117,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ca8\u0ccd\u0cb8\u0ccd\u0c95\u0cbe \u0cac\u0cc8\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0c95\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10e1\u10d9\u10d0-\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ubc18\uc2a4\uce74\ube44\uc2a4\ud2b8\ub9ac\ucc28 \uc8fc"
     ],
@@ -144,20 +135,20 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0902\u0938\u094d\u0915\u093e \u092c\u093e\u092f\u093e\u091f\u094d\u0930\u093f\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Bansk\u00e1 Bystrica"
     ],
     "name:nan_x_preferred":[
         "Bansk\u00e1 Bystrica Khu"
+    ],
+    "name:nld_x_preferred":[
+        "Bansk\u00e1 Bystrica"
     ],
     "name:nob_x_preferred":[
         "Bansk\u00e1 Bystrica"
     ],
     "name:oci_x_preferred":[
         "Bansk\u00e1 Bystrica"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0628\u0627\u0646\u0633\u06a9\u0627 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0646\u0633\u06a9\u0627 \u0628\u0633\u062a\u0631\u06cc\u06a9\u0627"
@@ -168,11 +159,11 @@
     "name:por_x_preferred":[
         "Bansk\u00e1 Bystrica"
     ],
+    "name:ron_x_preferred":[
+        "Bansk\u00e1 Bystrica"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u043e\u0431\u0456\u0441\u0442\u0440\u0456\u0446\u044c\u043a\u044b\u0439 \u043a\u0440\u0430\u0439"
-    ],
-    "name:rum_x_preferred":[
-        "Bansk\u00e1 Bystrica"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u043e\u0431\u0438\u0441\u0442\u0440\u0438\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -183,7 +174,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dcf \u0db6\u0dd2\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Banskobystrick\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -221,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Bansk\u00e1 Bystrica"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u65af\u5361\u00b7\u6bd4\u65af\u7279\u7406\u5bdf\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SVK",
@@ -338,7 +332,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1553550957,
+    "wof:lastmodified":1561841681,
     "wof:name":"Banskobystrick\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

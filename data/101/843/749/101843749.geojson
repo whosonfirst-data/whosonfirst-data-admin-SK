@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1366056.047137,
+    "geom:area_square_m":1366056.047136,
     "geom:bbox":"18.6222313751,48.0945896101,18.6427849024,48.1171706933",
     "geom:latitude":48.10633,
     "geom:longitude":18.633339,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u0160arovce"
     ],
-    "name:dut_x_preferred":[
-        "\u0160arovce"
-    ],
     "name:eng_x_preferred":[
         "\u0160arovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "\u0160arovce"
     ],
-    "name:fre_x_preferred":[
-        "\u0160arovce"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160arovce"
-    ],
     "name:hun_x_preferred":[
         "S\u00e1r\u00f3"
     ],
     "name:ita_x_preferred":[
-        "\u0160arovce"
-    ],
-    "name:may_x_preferred":[
         "\u0160arovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "\u0160arovce"
     ],
     "name:slk_x_preferred":[
-        "\u0160arovce"
-    ],
-    "name:slo_x_preferred":[
         "\u0160arovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843749,
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561841690,
     "wof:name":"\u0160arovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

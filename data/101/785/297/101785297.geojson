@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Biely Kostol"
     ],
-    "name:cze_x_preferred":[
-        "Biely Kostol"
-    ],
     "name:deu_x_preferred":[
-        "Biely Kostol"
-    ],
-    "name:dut_x_preferred":[
         "Biely Kostol"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Biely Kostol"
     ],
-    "name:fre_x_preferred":[
-        "Biely Kostol"
-    ],
-    "name:ger_x_preferred":[
-        "Biely Kostol"
-    ],
     "name:hbs_x_preferred":[
         "Bjeli Kostol"
     ],
@@ -53,9 +41,6 @@
         "Pozsonyfeh\u00e9regyh\u00e1z"
     ],
     "name:ita_x_preferred":[
-        "Biely Kostol"
-    ],
-    "name:may_x_preferred":[
         "Biely Kostol"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Biely Kostol"
     ],
     "name:slk_x_preferred":[
-        "Biely Kostol"
-    ],
-    "name:slo_x_preferred":[
         "Biely Kostol"
     ],
     "name:srp_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527684902,
+    "wof:lastmodified":1561841699,
     "wof:name":"Biely Kostol",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

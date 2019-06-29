@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":1934105.320794,
+    "geom:area_square_m":1934105.320795,
     "geom:bbox":"20.8815084965,48.8084520022,20.9194827923,48.8222951789",
     "geom:latitude":48.814503,
     "geom:longitude":20.900961,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Prakovce"
     ],
-    "name:dut_x_preferred":[
-        "Prakovce"
-    ],
     "name:eng_x_preferred":[
         "Prakovce"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Prakovce"
     ],
-    "name:fre_x_preferred":[
-        "Prakovce"
-    ],
-    "name:ger_x_preferred":[
-        "Prakovce"
-    ],
     "name:hbs_x_preferred":[
         "Prakovce"
     ],
@@ -47,9 +38,6 @@
         "Prakfalva"
     ],
     "name:ita_x_preferred":[
-        "Prakovce"
-    ],
-    "name:may_x_preferred":[
         "Prakovce"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Prakovce"
     ],
     "name:slk_x_preferred":[
-        "Prakovce"
-    ],
-    "name:slo_x_preferred":[
         "Prakovce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780249,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Prakovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

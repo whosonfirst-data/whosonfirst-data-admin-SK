@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Be\u017eovce"
     ],
-    "name:cze_x_preferred":[
-        "Be\u017eovce"
-    ],
     "name:deu_x_preferred":[
-        "Be\u017eovce"
-    ],
-    "name:dut_x_preferred":[
         "Be\u017eovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Be\u017eovce"
     ],
-    "name:fre_x_preferred":[
-        "Be\u017eovce"
-    ],
-    "name:ger_x_preferred":[
-        "Be\u017eovce"
-    ],
     "name:hun_x_preferred":[
         "Bez\u0151"
     ],
     "name:ita_x_preferred":[
-        "Be\u017eovce"
-    ],
-    "name:may_x_preferred":[
         "Be\u017eovce"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0411\u0435\u0436\u0456\u0432\u0446\u0457"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Be\u017eovce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101781799,
-    "wof:lastmodified":1527715623,
+    "wof:lastmodified":1561841707,
     "wof:name":"Be\u017eovce",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

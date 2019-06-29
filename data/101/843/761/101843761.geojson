@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":4815710.645876,
+    "geom:area_square_m":4815710.645874,
     "geom:bbox":"17.7401798355,48.4205865115,17.7826319905,48.4652922857",
     "geom:latitude":48.442778,
     "geom:longitude":17.765393,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cerven\u00edk"
     ],
-    "name:cze_x_preferred":[
-        "\u010cerven\u00edk"
-    ],
     "name:deu_x_preferred":[
-        "\u010cerven\u00edk"
-    ],
-    "name:dut_x_preferred":[
         "\u010cerven\u00edk"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u010cerven\u00edk"
     ],
-    "name:fre_x_preferred":[
-        "\u010cerven\u00edk"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cerven\u00edk"
-    ],
     "name:hbs_x_preferred":[
         "\u010cervenjik"
     ],
@@ -53,9 +41,6 @@
         "V\u00e1gv\u00f6r\u00f6sv\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "\u010cerven\u00edk"
-    ],
-    "name:may_x_preferred":[
         "\u010cerven\u00edk"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "\u010cerven\u00edk"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cerven\u00edk"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101843761,
-    "wof:lastmodified":1527642597,
+    "wof:lastmodified":1561841691,
     "wof:name":"\u010cerven\u00edk",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

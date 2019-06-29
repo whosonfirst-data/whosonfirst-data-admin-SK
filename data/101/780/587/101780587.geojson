@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":1674710.104708,
+    "geom:area_square_m":1674710.104709,
     "geom:bbox":"20.5203421731,49.2491620943,20.5520169694,49.2689503193",
     "geom:latitude":49.258505,
     "geom:longitude":20.535443,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Podol\u00ednec"
     ],
-    "name:baq_x_preferred":[
-        "Podol\u00ednec"
-    ],
     "name:bre_x_preferred":[
         "Podol\u00ednec"
     ],
@@ -36,12 +33,6 @@
         "Podol\u00ednec"
     ],
     "name:ces_x_preferred":[
-        "Podol\u00ednec"
-    ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u591a\u5229\u5167\u8328"
-    ],
-    "name:cze_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:dan_x_preferred":[
@@ -53,9 +44,6 @@
     "name:dsb_x_preferred":[
         "Podol\u00ednec"
     ],
-    "name:dut_x_preferred":[
-        "Podol\u00ednec"
-    ],
     "name:eng_x_preferred":[
         "Podol\u00ednec"
     ],
@@ -65,6 +53,9 @@
     "name:est_x_preferred":[
         "Podol\u00ednec"
     ],
+    "name:eus_x_preferred":[
+        "Podol\u00ednec"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u062f\u0644\u06cc\u0646\u062a\u0633"
     ],
@@ -72,12 +63,6 @@
         "Podol\u00ednec"
     ],
     "name:fra_x_preferred":[
-        "Podol\u00ednec"
-    ],
-    "name:fre_x_preferred":[
-        "Podol\u00ednec"
-    ],
-    "name:ger_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:gle_x_preferred":[
@@ -98,10 +83,10 @@
     "name:hun_x_preferred":[
         "Podolin"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Podol\u00ednec"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:ita_x_preferred":[
@@ -119,13 +104,16 @@
     "name:ltz_x_preferred":[
         "Podol\u00ednec"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:nan_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:nds_x_preferred":[
+        "Podol\u00ednec"
+    ],
+    "name:nld_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:nno_x_preferred":[
@@ -137,20 +125,17 @@
     "name:pdc_x_preferred":[
         "Podol\u00ednec"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062f\u0644\u06cc\u0646\u062a\u0633"
-    ],
     "name:pol_x_preferred":[
         "Podoliniec"
     ],
     "name:por_x_preferred":[
         "Podol\u00ednec"
     ],
+    "name:ron_x_preferred":[
+        "Podol\u00ednec"
+    ],
     "name:rue_x_preferred":[
         "\u041f\u043e\u0434\u043e\u043b\u0438\u043d\u0435\u0446\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Podol\u00ednec"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0434\u043e\u043b\u0438\u043d\u0435\u0446"
@@ -158,7 +143,7 @@
     "name:sco_x_preferred":[
         "Podol\u00ednec"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Podol\u00ednec"
     ],
     "name:spa_x_preferred":[
@@ -246,7 +231,7 @@
         }
     ],
     "wof:id":101780587,
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841716,
     "wof:name":"Podol\u00ednec",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

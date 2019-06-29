@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Gemersk\u00e1 H\u00f4rka"
     ],
-    "name:cze_x_preferred":[
-        "Gemersk\u00e1 H\u00f4rka"
-    ],
     "name:deu_x_preferred":[
-        "Gemersk\u00e1 H\u00f4rka"
-    ],
-    "name:dut_x_preferred":[
         "Gemersk\u00e1 H\u00f4rka"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Gemersk\u00e1 H\u00f4rka"
     ],
-    "name:fre_x_preferred":[
-        "Gemersk\u00e1 H\u00f4rka"
-    ],
-    "name:ger_x_preferred":[
-        "Gemersk\u00e1 H\u00f4rka"
-    ],
     "name:hun_x_preferred":[
         "\u00d6z\u00f6r\u00e9ny"
     ],
@@ -53,9 +41,6 @@
         "G\u00f6m\u00f6r-Horka"
     ],
     "name:ita_x_preferred":[
-        "Gemersk\u00e1 H\u00f4rka"
-    ],
-    "name:may_x_preferred":[
         "Gemersk\u00e1 H\u00f4rka"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Gemersk\u00e1 H\u00f4rka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gemersk\u00e1 H\u00f4rka"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101782897,
-    "wof:lastmodified":1527688323,
+    "wof:lastmodified":1561841702,
     "wof:name":"Gemersk\u00e1 H\u00f4rka",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

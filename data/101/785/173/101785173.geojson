@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":2841751.537876,
+    "geom:area_square_m":2841751.537877,
     "geom:bbox":"18.1559742402,48.1428876038,18.1923938763,48.1660186767",
     "geom:latitude":48.154087,
     "geom:longitude":18.171498,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Komjatice"
     ],
-    "name:dut_x_preferred":[
-        "Komjatice"
-    ],
     "name:eng_x_preferred":[
         "Komjatice"
     ],
@@ -32,12 +29,6 @@
         "Komjatice"
     ],
     "name:fra_x_preferred":[
-        "Komjatice"
-    ],
-    "name:fre_x_preferred":[
-        "Komjatice"
-    ],
-    "name:ger_x_preferred":[
         "Komjatice"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Komjatice"
     ],
-    "name:may_x_preferred":[
-        "Komjatice"
-    ],
     "name:msa_x_preferred":[
         "Komjatice"
     ],
@@ -65,9 +53,6 @@
         "Komjatice"
     ],
     "name:slk_x_preferred":[
-        "Komjatice"
-    ],
-    "name:slo_x_preferred":[
         "Komjatice"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101785173,
-    "wof:lastmodified":1527677696,
+    "wof:lastmodified":1561841697,
     "wof:name":"Komjatice",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

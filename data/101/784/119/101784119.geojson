@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Pobedim"
     ],
-    "name:cze_x_preferred":[
-        "Pobedim"
-    ],
     "name:deu_x_preferred":[
-        "Pobedim"
-    ],
-    "name:dut_x_preferred":[
         "Pobedim"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Pobedim"
     ],
     "name:fra_x_preferred":[
-        "Pobedim"
-    ],
-    "name:fre_x_preferred":[
-        "Pobedim"
-    ],
-    "name:ger_x_preferred":[
         "Pobedim"
     ],
     "name:glg_x_preferred":[
@@ -56,9 +44,6 @@
         "Pobed\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Pobedim"
-    ],
-    "name:may_x_preferred":[
         "Pobedim"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "Pobedim"
     ],
     "name:slk_x_preferred":[
-        "Pobedim"
-    ],
-    "name:slo_x_preferred":[
         "Pobedim"
     ],
     "name:spa_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101784119,
-    "wof:lastmodified":1527688541,
+    "wof:lastmodified":1561841705,
     "wof:name":"Pobedim",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

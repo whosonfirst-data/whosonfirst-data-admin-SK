@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Andovce"
     ],
-    "name:cze_x_preferred":[
-        "Andovce"
-    ],
     "name:deu_x_preferred":[
-        "Andovce"
-    ],
-    "name:dut_x_preferred":[
         "Andovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Andovce"
     ],
-    "name:fre_x_preferred":[
-        "Andovce"
-    ],
-    "name:ger_x_preferred":[
-        "Andovce"
-    ],
     "name:hun_x_preferred":[
         "And\u00f3d"
     ],
     "name:ita_x_preferred":[
-        "Andovce"
-    ],
-    "name:may_x_preferred":[
         "Andovce"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +50,6 @@
         "Andovce"
     ],
     "name:slk_x_preferred":[
-        "Andovce"
-    ],
-    "name:slo_x_preferred":[
         "Andovce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101786329,
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561841711,
     "wof:name":"Andovce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1315937.235919,
+    "geom:area_square_m":1315937.23592,
     "geom:bbox":"22.4099664579,48.9538700482,22.4358295777,48.9678979117",
     "geom:latitude":48.961914,
     "geom:longitude":22.424781,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Uli\u010d"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Uli\u010d"
     ],
     "name:deu_x_preferred":[
-        "Uli\u010d"
-    ],
-    "name:dut_x_preferred":[
         "Uli\u010d"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Uli\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Uli\u010d"
-    ],
-    "name:ger_x_preferred":[
-        "Uli\u010d"
-    ],
     "name:hun_x_preferred":[
         "Utc\u00e1s"
     ],
     "name:ita_x_preferred":[
-        "Uli\u010d"
-    ],
-    "name:may_x_preferred":[
         "Uli\u010d"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0423\u043b\u0456\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Uli\u010d"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":101780535,
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841713,
     "wof:name":"Uli\u010d",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

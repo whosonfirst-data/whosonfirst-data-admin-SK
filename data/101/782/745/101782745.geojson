@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Mal\u017eenice"
     ],
-    "name:cze_x_preferred":[
-        "Mal\u017eenice"
-    ],
     "name:deu_x_preferred":[
-        "Mal\u017eenice"
-    ],
-    "name:dut_x_preferred":[
         "Mal\u017eenice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Mal\u017eenice"
     ],
-    "name:fre_x_preferred":[
-        "Mal\u017eenice"
-    ],
-    "name:ger_x_preferred":[
-        "Mal\u017eenice"
-    ],
     "name:hun_x_preferred":[
         "Maniga"
     ],
     "name:ita_x_preferred":[
-        "Mal\u017eenice"
-    ],
-    "name:may_x_preferred":[
         "Mal\u017eenice"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Mal\u017eenice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mal\u017eenice"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Mal\u017eenice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

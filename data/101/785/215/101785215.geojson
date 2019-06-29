@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1196517.711775,
+    "geom:area_square_m":1196517.711774,
     "geom:bbox":"17.2949531109,48.2652126448,17.3125171997,48.2796108299",
     "geom:latitude":48.271256,
     "geom:longitude":17.302524,
@@ -22,17 +22,11 @@
     "name:ces_x_preferred":[
         "Vini\u010dn\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Vini\u010dn\u00e9"
-    ],
     "name:deu_x_preferred":[
         "Vini\u010dn\u00e9"
     ],
     "name:deu_x_variant":[
         "Schweinsbach"
-    ],
-    "name:dut_x_preferred":[
-        "Vini\u010dn\u00e9"
     ],
     "name:eng_x_preferred":[
         "Vini\u010dn\u00e9"
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Vini\u010dn\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Vini\u010dn\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Vini\u010dn\u00e9"
-    ],
     "name:hun_x_preferred":[
         "Hatty\u00fapatak"
     ],
     "name:ita_x_preferred":[
-        "Vini\u010dn\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Vini\u010dn\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:slk_x_preferred":[
         "\u0160vajnsbach"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Vini\u010dn\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101785215,
-    "wof:lastmodified":1527684899,
+    "wof:lastmodified":1561841698,
     "wof:name":"Vini\u010dn\u00e9",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

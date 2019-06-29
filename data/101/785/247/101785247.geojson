@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":867461.480952,
+    "geom:area_square_m":867461.480951,
     "geom:bbox":"18.2514779911,48.268015576,18.270088224,48.2807338873",
     "geom:latitude":48.274757,
     "geom:longitude":18.261204,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Klasov"
     ],
-    "name:dut_x_preferred":[
-        "Klasov"
-    ],
     "name:eng_x_preferred":[
         "Klasov"
     ],
@@ -32,12 +29,6 @@
         "Klasov"
     ],
     "name:fra_x_preferred":[
-        "Klasov"
-    ],
-    "name:fre_x_preferred":[
-        "Klasov"
-    ],
-    "name:ger_x_preferred":[
         "Klasov"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Klasov"
     ],
-    "name:may_x_preferred":[
-        "Klasov"
-    ],
     "name:msa_x_preferred":[
         "Klasov"
     ],
@@ -59,9 +47,6 @@
         "Klasov"
     ],
     "name:slk_x_preferred":[
-        "Klasov"
-    ],
-    "name:slo_x_preferred":[
         "Klasov"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527684900,
+    "wof:lastmodified":1561841698,
     "wof:name":"Klasov",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

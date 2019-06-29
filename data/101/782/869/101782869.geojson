@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bo\u0165any"
     ],
-    "name:cze_x_preferred":[
-        "Bo\u0165any"
-    ],
     "name:deu_x_preferred":[
-        "Bo\u0165any"
-    ],
-    "name:dut_x_preferred":[
         "Bo\u0165any"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Bo\u0165any"
     ],
-    "name:fre_x_preferred":[
-        "Bo\u0165any"
-    ],
-    "name:ger_x_preferred":[
-        "Bo\u0165any"
-    ],
     "name:hun_x_preferred":[
         "Batty\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Bo\u0165any"
-    ],
-    "name:may_x_preferred":[
         "Bo\u0165any"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0411\u043e\u0442\u044f\u043d\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bo\u0165any"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782869,
-    "wof:lastmodified":1527688318,
+    "wof:lastmodified":1561841700,
     "wof:name":"Bo\u0165any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

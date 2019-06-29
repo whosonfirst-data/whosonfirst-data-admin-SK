@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Pust\u00e9 \u00da\u013eany"
     ],
-    "name:dut_x_preferred":[
-        "Pust\u00e9 \u00da\u013eany"
-    ],
     "name:eng_x_preferred":[
         "Pust\u00e9 \u00da\u013eany"
     ],
@@ -32,12 +29,6 @@
         "Pust\u00e9 \u00da\u013eany"
     ],
     "name:fra_x_preferred":[
-        "Pust\u00e9 \u00da\u013eany"
-    ],
-    "name:fre_x_preferred":[
-        "Pust\u00e9 \u00da\u013eany"
-    ],
-    "name:ger_x_preferred":[
         "Pust\u00e9 \u00da\u013eany"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Pust\u00e9 \u00da\u013eany"
     ],
-    "name:may_x_preferred":[
-        "Pust\u00e9 \u00da\u013eany"
-    ],
     "name:msa_x_preferred":[
         "Pust\u00e9 \u00da\u013eany"
     ],
@@ -59,9 +47,6 @@
         "Pust\u00e9 \u00da\u013eany"
     ],
     "name:slk_x_preferred":[
-        "Pust\u00e9 \u00da\u013eany"
-    ],
-    "name:slo_x_preferred":[
         "Pust\u00e9 \u00da\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101785191,
-    "wof:lastmodified":1527677698,
+    "wof:lastmodified":1561841698,
     "wof:name":"Pust\u00e9 \u00da\u013eany",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

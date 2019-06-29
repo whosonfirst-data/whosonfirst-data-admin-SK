@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1545498.798043,
+    "geom:area_square_m":1545498.798044,
     "geom:bbox":"18.1327140139,48.2017569345,18.1551397118,48.2251838506",
     "geom:latitude":48.214322,
     "geom:longitude":18.145253,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Bran\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Bran\u010d"
-    ],
     "name:eng_x_preferred":[
         "Bran\u010d"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Bran\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Bran\u010d"
-    ],
-    "name:ger_x_preferred":[
-        "Bran\u010d"
-    ],
     "name:hbs_x_preferred":[
         "Bran\u010d"
     ],
@@ -47,9 +38,6 @@
         "Berencs"
     ],
     "name:ita_x_preferred":[
-        "Bran\u010d"
-    ],
-    "name:may_x_preferred":[
         "Bran\u010d"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Bran\u010d"
     ],
     "name:slk_x_preferred":[
-        "Bran\u010d"
-    ],
-    "name:slo_x_preferred":[
         "Bran\u010d"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815500,
+    "wof:lastmodified":1561841697,
     "wof:name":"Bran\u010d",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

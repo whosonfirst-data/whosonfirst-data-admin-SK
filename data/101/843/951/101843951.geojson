@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":807491.985851,
+    "geom:area_square_m":807491.98585,
     "geom:bbox":"21.0091783841,49.0384399306,21.0242842437,49.0533170938",
     "geom:latitude":49.046103,
     "geom:longitude":21.016437,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Hermanovce"
     ],
-    "name:cze_x_preferred":[
-        "Hermanovce"
-    ],
     "name:deu_x_preferred":[
-        "Hermanovce"
-    ],
-    "name:dut_x_preferred":[
         "Hermanovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Hermanovce"
     ],
-    "name:fre_x_preferred":[
-        "Hermanovce"
-    ],
-    "name:ger_x_preferred":[
-        "Hermanovce"
-    ],
     "name:hun_x_preferred":[
         "Sztankaherm\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Hermanovce"
-    ],
-    "name:may_x_preferred":[
         "Hermanovce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "\u0413\u0435\u0440\u043c\u0430\u043d\u043e\u0432\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Hermanovce"
-    ],
-    "name:slo_x_preferred":[
         "Hermanovce"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642596,
+    "wof:lastmodified":1561841691,
     "wof:name":"Hermanovce",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

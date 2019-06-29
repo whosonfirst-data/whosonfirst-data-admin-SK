@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
-    "name:dut_x_preferred":[
-        "Doln\u00fd Ohaj"
-    ],
     "name:eng_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
@@ -32,12 +29,6 @@
         "Doln\u00fd Ohaj"
     ],
     "name:fra_x_preferred":[
-        "Doln\u00fd Ohaj"
-    ],
-    "name:fre_x_preferred":[
-        "Doln\u00fd Ohaj"
-    ],
-    "name:ger_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
-    "name:may_x_preferred":[
-        "Doln\u00fd Ohaj"
-    ],
     "name:msa_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
@@ -59,9 +47,6 @@
         "Doln\u00fd Ohaj"
     ],
     "name:slk_x_preferred":[
-        "Doln\u00fd Ohaj"
-    ],
-    "name:slo_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101834115,
-    "wof:lastmodified":1527642937,
+    "wof:lastmodified":1561841696,
     "wof:name":"Doln\u00fd Ohaj",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":817562.683761,
+    "geom:area_square_m":817562.68376,
     "geom:bbox":"18.4152909034,48.4967377898,18.4317286703,48.5108492213",
     "geom:latitude":48.503331,
     "geom:longitude":18.422402,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sk\u00fdcov"
     ],
-    "name:cze_x_preferred":[
-        "Sk\u00fdcov"
-    ],
     "name:deu_x_preferred":[
-        "Sk\u00fdcov"
-    ],
-    "name:dut_x_preferred":[
         "Sk\u00fdcov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Sk\u00fdcov"
     ],
-    "name:fre_x_preferred":[
-        "Sk\u00fdcov"
-    ],
-    "name:ger_x_preferred":[
-        "Sk\u00fdcov"
-    ],
     "name:hbs_x_preferred":[
         "Skicov"
     ],
@@ -53,9 +41,6 @@
         "Kic\u0151"
     ],
     "name:ita_x_preferred":[
-        "Sk\u00fdcov"
-    ],
-    "name:may_x_preferred":[
         "Sk\u00fdcov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Sk\u00fdcov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sk\u00fdcov"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843767,
-    "wof:lastmodified":1527642596,
+    "wof:lastmodified":1561841691,
     "wof:name":"Sk\u00fdcov",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

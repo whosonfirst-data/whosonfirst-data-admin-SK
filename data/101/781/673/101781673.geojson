@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":6590055.499136,
+    "geom:area_square_m":6590055.499139,
     "geom:bbox":"18.5169645957,48.6753463743,18.5648274632,48.7260182382",
     "geom:latitude":48.704534,
     "geom:longitude":18.535902,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
-    "name:cze_x_preferred":[
-        "Zemianske Kosto\u013eany"
-    ],
     "name:deu_x_preferred":[
-        "Zemianske Kosto\u013eany"
-    ],
-    "name:dut_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Zemianske Kosto\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Zemianske Kosto\u013eany"
-    ],
     "name:hbs_x_preferred":[
         "Zemjanske Kostoljani"
     ],
@@ -53,9 +41,6 @@
         "Nemeskosztol\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Zemianske Kosto\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101781673,
-    "wof:lastmodified":1527715625,
+    "wof:lastmodified":1561841707,
     "wof:name":"Zemianske Kosto\u013eany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

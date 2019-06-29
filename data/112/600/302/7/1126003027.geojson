@@ -21,7 +21,7 @@
     "name:cat_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:epo_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Ru\u017ein\u00e1"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
     "name:hun_x_preferred":[
@@ -42,13 +39,16 @@
     "name:ita_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ru\u017ein\u00e1"
+    ],
+    "name:nld_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
     "name:pol_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1126003027,
-    "wof:lastmodified":1514505264,
+    "wof:lastmodified":1561841728,
     "wof:name":"Ru\u017ein\u00e1",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

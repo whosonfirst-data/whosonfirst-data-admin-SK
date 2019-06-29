@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Malinovo"
     ],
-    "name:cze_x_preferred":[
-        "Malinovo"
-    ],
     "name:deu_x_preferred":[
-        "Malinovo"
-    ],
-    "name:dut_x_preferred":[
         "Malinovo"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Malinovo"
     ],
-    "name:fre_x_preferred":[
-        "Malinovo"
-    ],
-    "name:ger_x_preferred":[
-        "Malinovo"
-    ],
     "name:hbs_x_preferred":[
         "Malinovo"
     ],
@@ -53,9 +41,6 @@
         "\u00c9berh\u00e1rd"
     ],
     "name:ita_x_preferred":[
-        "Malinovo"
-    ],
-    "name:may_x_preferred":[
         "Malinovo"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
         "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:slk_x_preferred":[
-        "Malinovo"
-    ],
-    "name:slo_x_preferred":[
         "Malinovo"
     ],
     "name:srp_x_preferred":[
@@ -140,7 +122,7 @@
         }
     ],
     "wof:id":101786369,
-    "wof:lastmodified":1553815501,
+    "wof:lastmodified":1561841710,
     "wof:name":"Malinovo",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

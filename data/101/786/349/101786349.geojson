@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u00da\u013eany nad \u017ditavou"
     ],
-    "name:dut_x_preferred":[
-        "\u00da\u013eany nad \u017ditavou"
-    ],
     "name:eng_x_preferred":[
         "\u00da\u013eany nad \u017ditavou"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "\u00da\u013eany nad \u017ditavou"
     ],
-    "name:fre_x_preferred":[
-        "\u00da\u013eany nad \u017ditavou"
-    ],
-    "name:ger_x_preferred":[
-        "\u00da\u013eany nad \u017ditavou"
-    ],
     "name:hbs_x_preferred":[
         "Uljani na \u017ditavi"
     ],
@@ -47,9 +38,6 @@
         "Zsitvaf\u00f6d\u00e9mes"
     ],
     "name:ita_x_preferred":[
-        "\u00da\u013eany nad \u017ditavou"
-    ],
-    "name:may_x_preferred":[
         "\u00da\u013eany nad \u017ditavou"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "\u00da\u013eany nad \u017ditavou"
     ],
     "name:slk_x_preferred":[
-        "\u00da\u013eany nad \u017ditavou"
-    ],
-    "name:slo_x_preferred":[
         "\u00da\u013eany nad \u017ditavou"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101786349,
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561841710,
     "wof:name":"\u00da\u013eany nad \u017ditavou",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

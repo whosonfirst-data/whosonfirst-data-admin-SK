@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1505271.140566,
+    "geom:area_square_m":1505271.140565,
     "geom:bbox":"20.4423858198,49.1792314858,20.4729066258,49.1962557024",
     "geom:latitude":49.187964,
     "geom:longitude":20.455615,
@@ -20,25 +20,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u0634\u0633\u0643\u0627 \u0628\u064a\u0644\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057a\u056b\u0577\u057d\u056f\u0561 \u0532\u0565\u056c\u0561"
-    ],
     "name:cat_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
     "name:ces_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u76ae\u4ec0\u65af\u5361\u8c9d\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Spi\u0161sk\u00e1 Bel\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Spi\u0161sk\u00e1 Bel\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -53,12 +41,6 @@
     "name:fra_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Spi\u0161sk\u00e1 Bel\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Spi\u0161sk\u00e1 Bel\u00e1"
-    ],
     "name:hbs_x_preferred":[
         "Spi\u0161ka Bela"
     ],
@@ -67,6 +49,9 @@
     ],
     "name:hun_x_preferred":[
         "Szepesb\u00e9la"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u056b\u0577\u057d\u056f\u0561 \u0532\u0565\u056c\u0561"
     ],
     "name:ita_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
@@ -77,28 +62,28 @@
     "name:lav_x_preferred":[
         "Spi\u0161ska Bela"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
     "name:nan_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0627 \u0628\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
     "name:pol_x_preferred":[
         "Bia\u0142a Spiska"
     ],
+    "name:ron_x_preferred":[
+        "Spi\u0161sk\u00e1 Bel\u00e1"
+    ],
     "name:rue_x_preferred":[
         "\u0421\u043f\u0456\u0441\u044c\u043a\u0430 \u0411\u0435\u043b\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0438\u0448\u0441\u043a\u0430-\u0411\u0435\u043b\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Spi\u0161sk\u00e1 Bel\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -167,7 +152,7 @@
         }
     ],
     "wof:id":101780571,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561841718,
     "wof:name":"Spi\u0161sk\u00e1 Bel\u00e1",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

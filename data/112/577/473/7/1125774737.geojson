@@ -21,16 +21,13 @@
     "name:cat_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Vi\u0161\u0148ov\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
     "name:epo_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -39,13 +36,16 @@
     "name:ita_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Vi\u0161\u0148ov\u00e9"
+    ],
+    "name:nld_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
     "name:pol_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1125774737,
-    "wof:lastmodified":1553816526,
+    "wof:lastmodified":1561841731,
     "wof:name":"Vi\u0161\u0148ov\u00e9",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

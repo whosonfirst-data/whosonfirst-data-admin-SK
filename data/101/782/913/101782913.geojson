@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1266182.902532,
+    "geom:area_square_m":1266182.902531,
     "geom:bbox":"20.9604071907,48.6752695804,20.9861307682,48.6905484989",
     "geom:latitude":48.682394,
     "geom:longitude":20.973902,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Jasov"
     ],
-    "name:cze_x_preferred":[
-        "Jasov"
-    ],
     "name:deu_x_preferred":[
-        "Jasov"
-    ],
-    "name:dut_x_preferred":[
         "Jasov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Jasov"
     ],
-    "name:fre_x_preferred":[
-        "Jasov"
-    ],
-    "name:ger_x_preferred":[
-        "Jasov"
-    ],
     "name:hun_x_preferred":[
         "J\u00e1sz\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Jasov"
-    ],
-    "name:may_x_preferred":[
         "Jasov"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +50,6 @@
         "Jasov"
     ],
     "name:slk_x_preferred":[
-        "Jasov"
-    ],
-    "name:slo_x_preferred":[
         "Jasov"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101782913,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841701,
     "wof:name":"Jasov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

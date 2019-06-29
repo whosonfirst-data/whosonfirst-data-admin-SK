@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2013834.025406,
+    "geom:area_square_m":2013834.025405,
     "geom:bbox":"19.8430976246,48.8446110075,19.872134544,48.8630167397",
     "geom:latitude":48.852303,
     "geom:longitude":19.855814,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Polomka"
     ],
-    "name:cze_x_preferred":[
-        "Polomka"
-    ],
     "name:deu_x_preferred":[
-        "Polomka"
-    ],
-    "name:dut_x_preferred":[
         "Polomka"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Polomka"
     ],
-    "name:fre_x_preferred":[
-        "Polomka"
-    ],
-    "name:ger_x_preferred":[
-        "Polomka"
-    ],
     "name:hbs_x_preferred":[
         "Polomka"
     ],
@@ -53,9 +41,6 @@
         "Garamsz\u00e9cs"
     ],
     "name:ita_x_preferred":[
-        "Polomka"
-    ],
-    "name:may_x_preferred":[
         "Polomka"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Polomka"
     ],
     "name:slk_x_preferred":[
-        "Polomka"
-    ],
-    "name:slo_x_preferred":[
         "Polomka"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +114,7 @@
         }
     ],
     "wof:id":101781741,
-    "wof:lastmodified":1527715628,
+    "wof:lastmodified":1561841708,
     "wof:name":"Polomka",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

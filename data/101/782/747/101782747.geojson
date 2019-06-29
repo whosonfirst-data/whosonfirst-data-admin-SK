@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Bansk\u00e1 Bel\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Bansk\u00e1 Bel\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Bansk\u00e1 Bel\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Bansk\u00e1 Bel\u00e1"
-    ],
     "name:hun_x_preferred":[
         "B\u00e9lab\u00e1nya"
     ],
     "name:ita_x_preferred":[
-        "Bansk\u00e1 Bel\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782747,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Bansk\u00e1 Bel\u00e1",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

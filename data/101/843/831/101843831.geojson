@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Lie\u0161\u0165any"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lie\u0161\u0165any"
     ],
     "name:deu_x_preferred":[
-        "Lie\u0161\u0165any"
-    ],
-    "name:dut_x_preferred":[
         "Lie\u0161\u0165any"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lie\u0161\u0165any"
     ],
-    "name:fre_x_preferred":[
-        "Lie\u0161\u0165any"
-    ],
-    "name:ger_x_preferred":[
-        "Lie\u0161\u0165any"
-    ],
     "name:hbs_x_preferred":[
         "Lje\u0161tjani"
     ],
@@ -50,9 +41,6 @@
         "Lesty\u00e9n"
     ],
     "name:ita_x_preferred":[
-        "Lie\u0161\u0165any"
-    ],
-    "name:may_x_preferred":[
         "Lie\u0161\u0165any"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Lie\u0161\u0165any"
     ],
     "name:slk_x_preferred":[
-        "Lie\u0161\u0165any"
-    ],
-    "name:slo_x_preferred":[
         "Lie\u0161\u0165any"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843831,
-    "wof:lastmodified":1527642599,
+    "wof:lastmodified":1561841692,
     "wof:name":"Lie\u0161\u0165any",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

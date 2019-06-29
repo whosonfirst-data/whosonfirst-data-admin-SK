@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
-    "name:cze_x_preferred":[
-        "Blatn\u00e1 Polianka"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
     "name:hun_x_preferred":[
@@ -42,10 +39,13 @@
     "name:ita_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
     "name:nan_x_preferred":[
+        "Blatn\u00e1 Polianka"
+    ],
+    "name:nld_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
     "name:pol_x_preferred":[
@@ -54,7 +54,7 @@
     "name:rue_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Blatn\u00e1 Polianka"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1125866947,
-    "wof:lastmodified":1514505050,
+    "wof:lastmodified":1561841722,
     "wof:name":"Blatn\u00e1 Polianka",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

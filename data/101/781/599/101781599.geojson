@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Moravsk\u00e9 Lieskov\u00e9"
-    ],
     "name:deu_x_preferred":[
-        "Moravsk\u00e9 Lieskov\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Moravsk\u00e9 Lieskov\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Moravsk\u00e9 Lieskov\u00e9"
-    ],
     "name:hun_x_preferred":[
         "Morvamogyor\u00f3d"
     ],
     "name:ita_x_preferred":[
-        "Moravsk\u00e9 Lieskov\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101781599,
-    "wof:lastmodified":1527715628,
+    "wof:lastmodified":1561841708,
     "wof:name":"Moravsk\u00e9 Lieskov\u00e9",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

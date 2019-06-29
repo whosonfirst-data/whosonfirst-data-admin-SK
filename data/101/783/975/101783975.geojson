@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1366007.446108,
+    "geom:area_square_m":1366007.446107,
     "geom:bbox":"18.7287241123,48.2531235685,18.74942346,48.2720787424",
     "geom:latitude":48.261597,
     "geom:longitude":18.739629,
@@ -20,13 +20,10 @@
     "name:cat_x_preferred":[
         "\u017demberovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017demberovce"
     ],
     "name:deu_x_preferred":[
-        "\u017demberovce"
-    ],
-    "name:dut_x_preferred":[
         "\u017demberovce"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +35,10 @@
     "name:fra_x_preferred":[
         "\u017demberovce"
     ],
-    "name:fre_x_preferred":[
-        "\u017demberovce"
-    ],
-    "name:ger_x_preferred":[
-        "\u017demberovce"
-    ],
     "name:hun_x_preferred":[
         "Zsember"
     ],
     "name:ita_x_preferred":[
-        "\u017demberovce"
-    ],
-    "name:may_x_preferred":[
         "\u017demberovce"
     ],
     "name:msa_x_preferred":[
@@ -63,9 +51,6 @@
         "\u017demberovce"
     ],
     "name:slk_x_preferred":[
-        "\u017demberovce"
-    ],
-    "name:slo_x_preferred":[
         "\u017demberovce"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101783975,
-    "wof:lastmodified":1527688505,
+    "wof:lastmodified":1561841703,
     "wof:name":"\u017demberovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

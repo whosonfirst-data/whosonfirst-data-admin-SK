@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u017delovce"
     ],
-    "name:dut_x_preferred":[
-        "\u017delovce"
-    ],
     "name:eng_x_preferred":[
         "\u017delovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "\u017delovce"
     ],
-    "name:fre_x_preferred":[
-        "\u017delovce"
-    ],
-    "name:ger_x_preferred":[
-        "\u017delovce"
-    ],
     "name:hun_x_preferred":[
         "Zs\u00e9ly"
     ],
     "name:ita_x_preferred":[
-        "\u017delovce"
-    ],
-    "name:may_x_preferred":[
         "\u017delovce"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "\u017delovce"
     ],
     "name:slk_x_preferred":[
-        "\u017delovce"
-    ],
-    "name:slo_x_preferred":[
         "\u017delovce"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101785267,
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1561841697,
     "wof:name":"\u017delovce",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

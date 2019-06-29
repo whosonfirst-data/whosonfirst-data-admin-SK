@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Mostov\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Mostov\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Mostov\u00e1"
     ],
@@ -35,12 +32,6 @@
         "Mostov\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Mostov\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Mostov\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Mostov\u00e1"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Mostov\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Mostov\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Mostov\u00e1"
     ],
@@ -64,7 +52,7 @@
     "name:nld_x_preferred":[
         "Mostov\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mostov\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":101833931,
-    "wof:lastmodified":1553815532,
+    "wof:lastmodified":1561841695,
     "wof:name":"Mostov\u00e1",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":1854471.864535,
+    "geom:area_square_m":1854471.864533,
     "geom:bbox":"17.7912695359,48.5067655639,17.814258768,48.5272857533",
     "geom:latitude":48.516704,
     "geom:longitude":17.802416,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Drahovce"
     ],
-    "name:cze_x_preferred":[
-        "Drahovce"
-    ],
     "name:deu_x_preferred":[
-        "Drahovce"
-    ],
-    "name:dut_x_preferred":[
         "Drahovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Drahovce"
     ],
-    "name:fre_x_preferred":[
-        "Drahovce"
-    ],
-    "name:ger_x_preferred":[
-        "Drahovce"
-    ],
     "name:hbs_x_preferred":[
         "Drahovce"
     ],
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Drahovce"
     ],
-    "name:may_x_preferred":[
-        "Drahovce"
-    ],
     "name:msa_x_preferred":[
         "Drahovce"
     ],
@@ -65,9 +50,6 @@
         "Drahovce"
     ],
     "name:slk_x_preferred":[
-        "Drahovce"
-    ],
-    "name:slo_x_preferred":[
         "Drahovce"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +108,7 @@
         }
     ],
     "wof:id":101784043,
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1561841705,
     "wof:name":"Drahovce",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000529,
-    "geom:area_square_m":4276550.300446,
+    "geom:area_square_m":4276550.300444,
     "geom:bbox":"21.6301749469,49.1891699163,21.6699772338,49.2264374161",
     "geom:latitude":49.205494,
     "geom:longitude":21.651523,
@@ -26,16 +26,10 @@
     "name:cat_x_preferred":[
         "Stropkov"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u7f85\u666e\u79d1\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stropkov"
     ],
     "name:deu_x_preferred":[
-        "Stropkov"
-    ],
-    "name:dut_x_preferred":[
         "Stropkov"
     ],
     "name:eng_x_preferred":[
@@ -47,10 +41,7 @@
     "name:fas_x_preferred":[
         "\u0633\u062a\u0631\u0648\u067e\u06a9\u0648"
     ],
-    "name:fre_x_preferred":[
-        "Stropkov"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stropkov"
     ],
     "name:heb_x_preferred":[
@@ -74,14 +65,14 @@
     "name:lit_x_preferred":[
         "Stropkovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Stropkov"
     ],
     "name:nan_x_preferred":[
         "Stropkov"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u0631\u0648\u067e\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Stropkov"
     ],
     "name:pol_x_preferred":[
         "Stropkov"
@@ -92,16 +83,10 @@
     "name:rue_x_preferred":[
         "\u0421\u0442\u0440\u043e\u043f\u043a\u043e\u0432"
     ],
-    "name:rum_x_preferred":[
-        "Stropkov"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u043e\u043f\u043a\u043e\u0432"
     ],
     "name:slk_x_preferred":[
-        "Stropkov"
-    ],
-    "name:slo_x_preferred":[
         "Stropkov"
     ],
     "name:spa_x_preferred":[
@@ -181,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715863,
+    "wof:lastmodified":1561841712,
     "wof:name":"Stropkov",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

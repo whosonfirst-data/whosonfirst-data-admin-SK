@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Rovinka"
     ],
-    "name:cze_x_preferred":[
-        "Rovinka"
-    ],
     "name:deu_x_preferred":[
-        "Rovinka"
-    ],
-    "name:dut_x_preferred":[
         "Rovinka"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Rovinka"
     ],
-    "name:fre_x_preferred":[
-        "Rovinka"
-    ],
-    "name:ger_x_preferred":[
-        "Rovinka"
-    ],
     "name:hbs_x_preferred":[
         "Rovinka"
     ],
@@ -53,9 +41,6 @@
         "Cs\u00f6lle"
     ],
     "name:ita_x_preferred":[
-        "Rovinka"
-    ],
-    "name:may_x_preferred":[
         "Rovinka"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Rovinka"
     ],
     "name:slk_x_preferred":[
-        "Rovinka"
-    ],
-    "name:slo_x_preferred":[
         "Rovinka"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101786377,
-    "wof:lastmodified":1527715646,
+    "wof:lastmodified":1561841710,
     "wof:name":"Rovinka",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

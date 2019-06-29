@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Trnava"
     ],
+    "name:deu_x_variant":[
+        "Tyrnau"
+    ],
     "name:eng_x_preferred":[
         "Trnava"
     ],
@@ -47,9 +50,6 @@
     ],
     "name:fra_x_preferred":[
         "Trnava"
-    ],
-    "name:ger_x_preferred":[
-        "Tyrnau"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05e0\u05d1\u05d4"
@@ -250,7 +250,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641662,
+    "wof:lastmodified":1561841687,
     "wof:name":"Trnava",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

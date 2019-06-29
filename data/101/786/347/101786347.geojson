@@ -25,7 +25,7 @@
     "name:deu_x_preferred":[
         "Lipova"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Lipov\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +35,6 @@
         "Lipov\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Lipov\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Lipov\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Lipov\u00e1"
     ],
     "name:hbs_x_preferred":[
@@ -55,11 +49,11 @@
     "name:ita_x_preferred":[
         "Lipov\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Lipov\u00e1"
-    ],
     "name:min_x_preferred":[
         "Lipova"
+    ],
+    "name:msa_x_preferred":[
+        "Lipov\u00e1"
     ],
     "name:nan_x_preferred":[
         "Lipov\u00e1"
@@ -74,9 +68,6 @@
         "Lipova"
     ],
     "name:slk_x_preferred":[
-        "Lipov\u00e1"
-    ],
-    "name:slo_x_preferred":[
         "Lipov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -136,7 +127,7 @@
         }
     ],
     "wof:id":101786347,
-    "wof:lastmodified":1553815501,
+    "wof:lastmodified":1561841710,
     "wof:name":"Lipov\u00e1",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

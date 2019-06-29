@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
-    "name:cze_x_preferred":[
-        "Tepli\u010dka nad V\u00e1hom"
-    ],
     "name:deu_x_preferred":[
-        "Tepli\u010dka nad V\u00e1hom"
-    ],
-    "name:dut_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
-    "name:fre_x_preferred":[
-        "Tepli\u010dka nad V\u00e1hom"
-    ],
-    "name:ger_x_preferred":[
-        "Tepli\u010dka nad V\u00e1hom"
-    ],
     "name:hun_x_preferred":[
         "V\u00e1gtapolca"
     ],
     "name:ita_x_preferred":[
-        "Tepli\u010dka nad V\u00e1hom"
-    ],
-    "name:may_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642784,
+    "wof:lastmodified":1561841693,
     "wof:name":"Tepli\u010dka nad V\u00e1hom",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

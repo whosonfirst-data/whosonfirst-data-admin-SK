@@ -24,13 +24,7 @@
     "name:ces_x_preferred":[
         "Kras\u0148any"
     ],
-    "name:cze_x_preferred":[
-        "Kras\u0148any"
-    ],
     "name:deu_x_preferred":[
-        "Kras\u0148any"
-    ],
-    "name:dut_x_preferred":[
         "Kras\u0148any"
     ],
     "name:eng_x_preferred":[
@@ -42,19 +36,10 @@
     "name:fra_x_preferred":[
         "Kras\u0148any"
     ],
-    "name:fre_x_preferred":[
-        "Kras\u0148any"
-    ],
-    "name:ger_x_preferred":[
-        "Kras\u0148any"
-    ],
     "name:hun_x_preferred":[
         "Karaszny\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Kras\u0148any"
-    ],
-    "name:may_x_preferred":[
         "Kras\u0148any"
     ],
     "name:msa_x_preferred":[
@@ -66,7 +51,7 @@
     "name:pol_x_preferred":[
         "Kras\u0148any"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kras\u0148any"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841716,
     "wof:name":"Kras\u0148any",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

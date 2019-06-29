@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1665099.672894,
+    "geom:area_square_m":1665099.672893,
     "geom:bbox":"17.7066254594,48.3217348743,17.7379420686,48.3413098105",
     "geom:latitude":48.331379,
     "geom:longitude":17.72284,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u0160\u00farovce"
     ],
-    "name:cze_x_preferred":[
-        "\u0160\u00farovce"
-    ],
     "name:deu_x_preferred":[
-        "\u0160\u00farovce"
-    ],
-    "name:dut_x_preferred":[
         "\u0160\u00farovce"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "\u0160\u00farovce"
     ],
     "name:fra_x_preferred":[
-        "\u0160\u00farovce"
-    ],
-    "name:fre_x_preferred":[
-        "\u0160\u00farovce"
-    ],
-    "name:ger_x_preferred":[
         "\u0160\u00farovce"
     ],
     "name:heb_x_preferred":[
@@ -58,9 +46,6 @@
     "name:ita_x_preferred":[
         "\u0160\u00farovce"
     ],
-    "name:may_x_preferred":[
-        "\u0160\u00farovce"
-    ],
     "name:msa_x_preferred":[
         "\u0160\u00farovce"
     ],
@@ -73,7 +58,7 @@
     "name:por_x_preferred":[
         "\u0160\u00farovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160\u00farovce"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677692,
+    "wof:lastmodified":1561841697,
     "wof:name":"\u0160\u00farovce",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

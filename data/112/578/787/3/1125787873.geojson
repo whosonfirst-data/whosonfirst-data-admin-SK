@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
-    "name:fre_x_preferred":[
-        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:nld_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:pol_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125787873,
-    "wof:lastmodified":1514505149,
+    "wof:lastmodified":1561841729,
     "wof:name":"Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

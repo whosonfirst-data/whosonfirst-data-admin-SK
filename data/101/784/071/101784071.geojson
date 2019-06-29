@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1146575.137056,
+    "geom:area_square_m":1146575.137055,
     "geom:bbox":"18.188818398,48.5304178889,18.2124248747,48.5436111082",
     "geom:latitude":48.537295,
     "geom:longitude":18.200012,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Sol\u010dany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sol\u010dany"
     ],
     "name:deu_x_preferred":[
-        "Sol\u010dany"
-    ],
-    "name:dut_x_preferred":[
         "Sol\u010dany"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Sol\u010dany"
     ],
-    "name:fre_x_preferred":[
-        "Sol\u010dany"
-    ],
-    "name:ger_x_preferred":[
-        "Sol\u010dany"
-    ],
     "name:hbs_x_preferred":[
         "Sol\u010dani"
     ],
@@ -50,9 +41,6 @@
         "Szolcs\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Sol\u010dany"
-    ],
-    "name:may_x_preferred":[
         "Sol\u010dany"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Sol\u010dany"
     ],
     "name:slk_x_preferred":[
-        "Sol\u010dany"
-    ],
-    "name:slo_x_preferred":[
         "Sol\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101784071,
-    "wof:lastmodified":1527688538,
+    "wof:lastmodified":1561841704,
     "wof:name":"Sol\u010dany",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

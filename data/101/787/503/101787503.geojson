@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
-    "geom:area_square_m":4208094.049646,
+    "geom:area_square_m":4208094.049644,
     "geom:bbox":"17.753538055,47.8438828457,17.7916886463,47.868404064",
     "geom:latitude":47.855649,
     "geom:longitude":17.771165,
@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u6885\u5091\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Ve\u013ek\u00fd Meder"
-    ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00fd Meder"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u0648\u0644\u06a9\u06cc \u0645\u062f\u0631"
     ],
     "name:fra_x_preferred":[
-        "Ve\u013ek\u00fd Meder"
-    ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd Meder"
-    ],
-    "name:ger_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
     "name:hbs_x_preferred":[
@@ -74,14 +59,14 @@
     "name:lav_x_preferred":[
         "Ve\u013cki Medera"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
     "name:nan_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06a9\u06cc \u0645\u062f\u0631"
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00fd Meder"
     ],
     "name:pol_x_preferred":[
         "Ve\u013ek\u00fd Meder"
@@ -89,13 +74,13 @@
     "name:por_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0438-\u041c\u0435\u0434\u0435\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00fd Meder"
     ],
     "name:srp_x_preferred":[
@@ -163,7 +148,7 @@
         }
     ],
     "wof:id":101787503,
-    "wof:lastmodified":1527715843,
+    "wof:lastmodified":1561841711,
     "wof:name":"Ve\u013ek\u00fd Meder",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",
