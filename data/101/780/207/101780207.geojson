@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1695187.168678,
+    "geom:area_square_m":1695187.168677,
     "geom:bbox":"18.4052896807,47.8927014399,18.4287822203,47.910006424",
     "geom:latitude":47.901515,
     "geom:longitude":18.41685,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Strekov"
     ],
-    "name:dut_x_preferred":[
-        "Strekov"
-    ],
     "name:eng_x_preferred":[
         "Strekov"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Strekov"
     ],
-    "name:fre_x_preferred":[
-        "Strekov"
-    ],
-    "name:ger_x_preferred":[
-        "Strekov"
-    ],
     "name:hbs_x_preferred":[
         "Strekov"
     ],
@@ -47,9 +38,6 @@
         "K\u00fcrt"
     ],
     "name:ita_x_preferred":[
-        "Strekov"
-    ],
-    "name:may_x_preferred":[
         "Strekov"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Strekov"
     ],
     "name:slk_x_preferred":[
-        "Strekov"
-    ],
-    "name:slo_x_preferred":[
         "Strekov"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780207,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841717,
     "wof:name":"Strekov",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

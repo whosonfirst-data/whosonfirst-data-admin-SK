@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "\u010cechynce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cechynce"
     ],
     "name:deu_x_preferred":[
-        "\u010cechynce"
-    ],
-    "name:dut_x_preferred":[
         "\u010cechynce"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u010cechynce"
     ],
-    "name:fre_x_preferred":[
-        "\u010cechynce"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cechynce"
-    ],
     "name:hbs_x_preferred":[
         "\u010cehince"
     ],
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "\u010cechynce"
     ],
-    "name:may_x_preferred":[
-        "\u010cechynce"
-    ],
     "name:msa_x_preferred":[
         "\u010cechynce"
     ],
@@ -62,9 +50,6 @@
         "\u010cechynce"
     ],
     "name:slk_x_preferred":[
-        "\u010cechynce"
-    ],
-    "name:slo_x_preferred":[
         "\u010cechynce"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677692,
+    "wof:lastmodified":1561841697,
     "wof:name":"\u010cechynce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Alek\u0161ince"
     ],
-    "name:cze_x_preferred":[
-        "Alek\u0161ince"
-    ],
     "name:deu_x_preferred":[
-        "Alek\u0161ince"
-    ],
-    "name:dut_x_preferred":[
         "Alek\u0161ince"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Alek\u0161ince"
     ],
-    "name:fre_x_preferred":[
-        "Alek\u0161ince"
-    ],
-    "name:ger_x_preferred":[
-        "Alek\u0161ince"
-    ],
     "name:hbs_x_preferred":[
         "Aljek\u0161ince"
     ],
@@ -53,9 +41,6 @@
         "Elecske"
     ],
     "name:ita_x_preferred":[
-        "Alek\u0161ince"
-    ],
-    "name:may_x_preferred":[
         "Alek\u0161ince"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Alek\u0161ince"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Alek\u0161ince"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744661,
+    "wof:lastmodified":1561841695,
     "wof:name":"Alek\u0161ince",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

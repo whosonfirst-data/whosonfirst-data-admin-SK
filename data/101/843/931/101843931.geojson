@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":608116.674781,
+    "geom:area_square_m":608116.674779,
     "geom:bbox":"18.6187709363,49.0389140776,18.646855465,49.0475772124",
     "geom:latitude":49.0439,
     "geom:longitude":18.634087,
@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Rajeck\u00e1 Lesn\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Rajeck\u00e1 Lesn\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Rajeck\u00e1 Lesn\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Rajeck\u00e1 Lesn\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Frivaldn\u00e1das"
     ],
     "name:ita_x_preferred":[
-        "Rajeck\u00e1 Lesn\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -139,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642588,
+    "wof:lastmodified":1561841689,
     "wof:name":"Rajeck\u00e1 Lesn\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "M\u00e1linec"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "M\u00e1linec"
     ],
     "name:deu_x_preferred":[
-        "M\u00e1linec"
-    ],
-    "name:dut_x_preferred":[
         "M\u00e1linec"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "M\u00e1linec"
     ],
-    "name:fre_x_preferred":[
-        "M\u00e1linec"
-    ],
-    "name:ger_x_preferred":[
-        "M\u00e1linec"
-    ],
     "name:hbs_x_preferred":[
         "Malinjec"
     ],
@@ -50,9 +41,6 @@
         "M\u00e1lnapatak"
     ],
     "name:ita_x_preferred":[
-        "M\u00e1linec"
-    ],
-    "name:may_x_preferred":[
         "M\u00e1linec"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +55,7 @@
     "name:pol_x_preferred":[
         "M\u00e1linec"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "M\u00e1linec"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":101782793,
-    "wof:lastmodified":1527688320,
+    "wof:lastmodified":1561841701,
     "wof:name":"M\u00e1linec",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

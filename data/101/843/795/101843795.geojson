@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":697903.956639,
+    "geom:area_square_m":697903.956638,
     "geom:bbox":"17.2590900856,48.6444839541,17.2724744638,48.6603115293",
     "geom:latitude":48.654252,
     "geom:longitude":17.267733,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
-    "name:cze_x_preferred":[
-        "\u0160ajd\u00edkove Humence"
-    ],
     "name:deu_x_preferred":[
-        "\u0160ajd\u00edkove Humence"
-    ],
-    "name:dut_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
-    "name:fre_x_preferred":[
-        "\u0160ajd\u00edkove Humence"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160ajd\u00edkove Humence"
-    ],
     "name:hun_x_preferred":[
         "Sajdikhumenec"
     ],
     "name:ita_x_preferred":[
-        "\u0160ajd\u00edkove Humence"
-    ],
-    "name:may_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101843795,
-    "wof:lastmodified":1527642597,
+    "wof:lastmodified":1561841691,
     "wof:name":"\u0160ajd\u00edkove Humence",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sielnica"
     ],
-    "name:cze_x_preferred":[
-        "Sielnica"
-    ],
     "name:deu_x_preferred":[
-        "Sielnica"
-    ],
-    "name:dut_x_preferred":[
         "Sielnica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Sielnica"
     ],
-    "name:fre_x_preferred":[
-        "Sielnica"
-    ],
-    "name:ger_x_preferred":[
-        "Sielnica"
-    ],
     "name:hbs_x_preferred":[
         "Sjelnjica"
     ],
@@ -53,9 +41,6 @@
         "Sz\u00e9lnye"
     ],
     "name:ita_x_preferred":[
-        "Sielnica"
-    ],
-    "name:may_x_preferred":[
         "Sielnica"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Sielnica"
     ],
     "name:slk_x_preferred":[
-        "Sielnica"
-    ],
-    "name:slo_x_preferred":[
         "Sielnica"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101782783,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Sielnica",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

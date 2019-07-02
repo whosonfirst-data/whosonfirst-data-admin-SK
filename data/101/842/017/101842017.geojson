@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":1719880.072561,
+    "geom:area_square_m":1719880.072562,
     "geom:bbox":"18.503784572,49.374920623,18.590932638,49.3839772692",
     "geom:latitude":49.380039,
     "geom:longitude":18.547767,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
-    "name:cze_x_preferred":[
-        "Vysok\u00e1 nad Kysucou"
-    ],
     "name:deu_x_preferred":[
-        "Vysok\u00e1 nad Kysucou"
-    ],
-    "name:dut_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
-    "name:fre_x_preferred":[
-        "Vysok\u00e1 nad Kysucou"
-    ],
-    "name:ger_x_preferred":[
-        "Vysok\u00e1 nad Kysucou"
-    ],
     "name:hun_x_preferred":[
         "Hegyeshely"
     ],
     "name:ita_x_preferred":[
-        "Vysok\u00e1 nad Kysucou"
-    ],
-    "name:may_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101842017,
-    "wof:lastmodified":1527642328,
+    "wof:lastmodified":1561841688,
     "wof:name":"Vysok\u00e1 nad Kysucou",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

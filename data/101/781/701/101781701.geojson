@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000543,
-    "geom:area_square_m":4416459.870279,
+    "geom:area_square_m":4416459.870278,
     "geom:bbox":"18.8442284924,48.8431974014,18.8700626996,48.8924186513",
     "geom:latitude":48.869977,
     "geom:longitude":18.857979,
@@ -28,16 +28,7 @@
     "name:ces_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u723e\u9322\u65af\u51f1\u7279\u666e\u5229\u91c7"
-    ],
-    "name:cze_x_preferred":[
-        "Tur\u010dianske Teplice"
-    ],
     "name:deu_x_preferred":[
-        "Tur\u010dianske Teplice"
-    ],
-    "name:dut_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
         "\u062a\u0648\u0631\u0686\u06cc\u0627\u0646\u0633\u06a9\u0647 \u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
-        "Tur\u010dianske Teplice"
-    ],
-    "name:fre_x_preferred":[
-        "Tur\u010dianske Teplice"
-    ],
-    "name:ger_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
     "name:hbs_x_preferred":[
@@ -79,14 +64,14 @@
     "name:lav_x_preferred":[
         "Tur\u010danske Teplice"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
     "name:nan_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u0686\u06cc\u0627\u0646\u0633\u06a9\u0647 \u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
+    "name:nld_x_preferred":[
+        "Tur\u010dianske Teplice"
     ],
     "name:pol_x_preferred":[
         "Tur\u010dianske Teplice"
@@ -94,16 +79,10 @@
     "name:ron_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
-    "name:rum_x_preferred":[
-        "Tur\u010dianske Teplice"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u0447\u044c\u044f\u043d\u0441\u043a\u0435-\u0422\u0435\u043f\u043b\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Tur\u010dianske Teplice"
-    ],
-    "name:slo_x_preferred":[
         "Tur\u010dianske Teplice"
     ],
     "name:spa_x_preferred":[
@@ -179,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715623,
+    "wof:lastmodified":1561841707,
     "wof:name":"Tur\u010dianske Teplice",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

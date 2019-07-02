@@ -24,17 +24,11 @@
     "name:ces_x_preferred":[
         "\u013dubica"
     ],
-    "name:cze_x_preferred":[
-        "\u013dubica"
-    ],
     "name:deu_x_preferred":[
         "\u013dubica"
     ],
     "name:deu_x_variant":[
         "Leibitz"
-    ],
-    "name:dut_x_preferred":[
-        "\u013dubica"
     ],
     "name:eng_x_preferred":[
         "\u013dubica"
@@ -43,12 +37,6 @@
         "\u013dubica"
     ],
     "name:fra_x_preferred":[
-        "\u013dubica"
-    ],
-    "name:fre_x_preferred":[
-        "\u013dubica"
-    ],
-    "name:ger_x_preferred":[
         "\u013dubica"
     ],
     "name:hrv_x_preferred":[
@@ -62,9 +50,6 @@
     ],
     "name:lat_x_preferred":[
         "Laibicium"
-    ],
-    "name:may_x_preferred":[
-        "\u013dubica"
     ],
     "name:msa_x_preferred":[
         "\u013dubica"
@@ -81,7 +66,7 @@
     "name:rue_x_preferred":[
         "\u041b\u044e\u0431\u0456\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u013dubica"
     ],
     "name:srp_x_preferred":[
@@ -136,7 +121,7 @@
         }
     ],
     "wof:id":101832751,
-    "wof:lastmodified":1553815531,
+    "wof:lastmodified":1561841694,
     "wof:name":"\u013dubica",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

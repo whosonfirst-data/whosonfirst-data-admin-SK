@@ -26,13 +26,10 @@
     "name:cat_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u76ae\u4ec0\u65af\u51f1\u5f17\u62c9\u5e0c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +41,7 @@
     "name:fas_x_preferred":[
         "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0647 \u0648\u0644\u0627\u062e\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Spi\u0161sk\u00e9 Vlachy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
     "name:hbs_x_preferred":[
@@ -65,25 +59,25 @@
     "name:lav_x_preferred":[
         "Spi\u0161ske Vlahi"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
     "name:nan_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u067e\u06cc\u0634\u0633\u06a9\u0647 \u0648\u0644\u0627\u062e\u06cc"
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00e9 Vlachy"
     ],
     "name:pol_x_preferred":[
         "Spiskie W\u0142ochy"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0438\u0448\u0441\u043a\u0435-\u0412\u043b\u0430\u0445\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Spi\u0161sk\u00e9 Vlachy"
     ],
     "name:srp_x_preferred":[
@@ -148,7 +142,7 @@
         }
     ],
     "wof:id":1126016837,
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1561841727,
     "wof:name":"Spi\u0161sk\u00e9 Vlachy",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

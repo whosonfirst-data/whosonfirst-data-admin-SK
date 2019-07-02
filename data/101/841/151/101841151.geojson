@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":498635.283715,
+    "geom:area_square_m":498635.283716,
     "geom:bbox":"19.5062397464,49.4445871882,19.5182471485,49.4567493226",
     "geom:latitude":49.450485,
     "geom:longitude":19.512309,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zubrohlava"
     ],
-    "name:cze_x_preferred":[
-        "Zubrohlava"
-    ],
     "name:deu_x_preferred":[
-        "Zubrohlava"
-    ],
-    "name:dut_x_preferred":[
         "Zubrohlava"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Zubrohlava"
     ],
-    "name:fre_x_preferred":[
-        "Zubrohlava"
-    ],
-    "name:ger_x_preferred":[
-        "Zubrohlava"
-    ],
     "name:hbs_x_preferred":[
         "Zubrohlava"
     ],
@@ -53,9 +41,6 @@
         "Zubrohlava"
     ],
     "name:ita_x_preferred":[
-        "Zubrohlava"
-    ],
-    "name:may_x_preferred":[
         "Zubrohlava"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u017bubroh\u0142awa"
     ],
     "name:slk_x_preferred":[
-        "Zubrohlava"
-    ],
-    "name:slo_x_preferred":[
         "Zubrohlava"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101841151,
-    "wof:lastmodified":1527714688,
+    "wof:lastmodified":1561841706,
     "wof:name":"Zubrohlava",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

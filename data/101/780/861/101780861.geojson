@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":697908.215296,
+    "geom:area_square_m":697908.215297,
     "geom:bbox":"17.3682079098,48.5807242413,17.3877617494,48.593961107",
     "geom:latitude":48.586234,
     "geom:longitude":17.378952,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Cerov\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Cerov\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Cerov\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Cerov\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Cerov\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Cerov\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Cerov\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Korl\u00e1tk\u0151"
     ],
     "name:ita_x_preferred":[
-        "Cerov\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Cerov\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "Cerov\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cerov\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101780861,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841714,
     "wof:name":"Cerov\u00e1",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

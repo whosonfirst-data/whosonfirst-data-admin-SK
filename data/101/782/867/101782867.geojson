@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1834542.071658,
+    "geom:area_square_m":1834542.071659,
     "geom:bbox":"22.0126981293,48.456103735,22.0389609659,48.4710097988",
     "geom:latitude":48.464353,
     "geom:longitude":22.02681,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Leles"
     ],
-    "name:cze_x_preferred":[
-        "Leles"
-    ],
     "name:deu_x_preferred":[
-        "Leles"
-    ],
-    "name:dut_x_preferred":[
         "Leles"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Leles"
     ],
-    "name:fre_x_preferred":[
-        "Leles"
-    ],
-    "name:ger_x_preferred":[
-        "Leles"
-    ],
     "name:hun_x_preferred":[
         "Lelesz"
     ],
     "name:ita_x_preferred":[
-        "Leles"
-    ],
-    "name:may_x_preferred":[
         "Leles"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u041b\u0435\u043b\u0435\u0441"
     ],
     "name:slk_x_preferred":[
-        "Leles"
-    ],
-    "name:slo_x_preferred":[
         "Leles"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +117,7 @@
         }
     ],
     "wof:id":101782867,
-    "wof:lastmodified":1527688318,
+    "wof:lastmodified":1561841700,
     "wof:name":"Leles",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

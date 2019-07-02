@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2014619.30298,
+    "geom:area_square_m":2014619.302981,
     "geom:bbox":"19.3049228863,49.0810739569,19.363231816,49.1031877567",
     "geom:latitude":49.089789,
     "geom:longitude":19.335532,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Likavka"
     ],
-    "name:cze_x_preferred":[
-        "Likavka"
-    ],
     "name:deu_x_preferred":[
-        "Likavka"
-    ],
-    "name:dut_x_preferred":[
         "Likavka"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Likavka"
     ],
     "name:fra_x_preferred":[
-        "Likavka"
-    ],
-    "name:fre_x_preferred":[
-        "Likavka"
-    ],
-    "name:ger_x_preferred":[
         "Likavka"
     ],
     "name:hbs_x_preferred":[
@@ -56,9 +44,6 @@
         "Likavka"
     ],
     "name:lim_x_preferred":[
-        "Likavka"
-    ],
-    "name:may_x_preferred":[
         "Likavka"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "Likavka"
     ],
     "name:slk_x_preferred":[
-        "Likavka"
-    ],
-    "name:slo_x_preferred":[
         "Likavka"
     ],
     "name:srp_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101832719,
-    "wof:lastmodified":1527642789,
+    "wof:lastmodified":1561841694,
     "wof:name":"Likavka",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Kol\u00ed\u0148any"
     ],
-    "name:dut_x_preferred":[
-        "Kol\u00ed\u0148any"
-    ],
     "name:eng_x_preferred":[
         "Kol\u00ed\u0148any"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Kol\u00ed\u0148any"
     ],
-    "name:fre_x_preferred":[
-        "Kol\u00ed\u0148any"
-    ],
-    "name:ger_x_preferred":[
-        "Kol\u00ed\u0148any"
-    ],
     "name:hbs_x_preferred":[
         "Kolinjani"
     ],
@@ -47,9 +38,6 @@
         "Kolon"
     ],
     "name:ita_x_preferred":[
-        "Kol\u00ed\u0148any"
-    ],
-    "name:may_x_preferred":[
         "Kol\u00ed\u0148any"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Kol\u00ed\u0148any"
     ],
     "name:slk_x_preferred":[
-        "Kol\u00ed\u0148any"
-    ],
-    "name:slo_x_preferred":[
         "Kol\u00ed\u0148any"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561841690,
     "wof:name":"Kol\u00ed\u0148any",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

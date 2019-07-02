@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "H\u00f4rka"
     ],
-    "name:cze_x_preferred":[
-        "H\u00f4rka"
-    ],
     "name:deu_x_preferred":[
-        "H\u00f4rka"
-    ],
-    "name:dut_x_preferred":[
         "H\u00f4rka"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "H\u00f4rka"
     ],
-    "name:fre_x_preferred":[
-        "H\u00f4rka"
-    ],
-    "name:ger_x_preferred":[
-        "H\u00f4rka"
-    ],
     "name:hun_x_preferred":[
         "L\u00e1ndzs\u00e1s\u00f6tfalu"
     ],
     "name:ita_x_preferred":[
-        "H\u00f4rka"
-    ],
-    "name:may_x_preferred":[
         "H\u00f4rka"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:rue_x_preferred":[
         "\u0413\u0432\u043e\u0440\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "H\u00f4rka"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101843965,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841689,
     "wof:name":"H\u00f4rka",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

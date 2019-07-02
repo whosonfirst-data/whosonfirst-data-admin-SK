@@ -21,7 +21,7 @@
     "name:cat_x_preferred":[
         "Martovce"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Martovce"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:epo_x_preferred":[
         "Martovce"
     ],
-    "name:fre_x_preferred":[
-        "Martovce"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Martovce"
     ],
     "name:hun_x_preferred":[
@@ -42,16 +39,19 @@
     "name:ita_x_preferred":[
         "Martovce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Martovce"
     ],
     "name:nan_x_preferred":[
         "Martovce"
     ],
+    "name:nld_x_preferred":[
+        "Martovce"
+    ],
     "name:pol_x_preferred":[
         "Martovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Martovce"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125860753,
-    "wof:lastmodified":1514505177,
+    "wof:lastmodified":1561841722,
     "wof:name":"Martovce",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

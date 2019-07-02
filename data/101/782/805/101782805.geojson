@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Petrova Ves"
     ],
-    "name:cze_x_preferred":[
-        "Petrova Ves"
-    ],
     "name:deu_x_preferred":[
-        "Petrova Ves"
-    ],
-    "name:dut_x_preferred":[
         "Petrova Ves"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Petrova Ves"
     ],
-    "name:fre_x_preferred":[
-        "Petrova Ves"
-    ],
-    "name:ger_x_preferred":[
-        "Petrova Ves"
-    ],
     "name:hbs_x_preferred":[
         "Petrova Ves"
     ],
@@ -53,9 +41,6 @@
         "P\u00e9terlak"
     ],
     "name:ita_x_preferred":[
-        "Petrova Ves"
-    ],
-    "name:may_x_preferred":[
         "Petrova Ves"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Petrova Ves"
     ],
     "name:slk_x_preferred":[
-        "Petrova Ves"
-    ],
-    "name:slo_x_preferred":[
         "Petrova Ves"
     ],
     "name:spa_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101782805,
-    "wof:lastmodified":1527688318,
+    "wof:lastmodified":1561841700,
     "wof:name":"Petrova Ves",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

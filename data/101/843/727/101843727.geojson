@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Bernol\u00e1kovo"
     ],
-    "name:cze_x_preferred":[
-        "Bernol\u00e1kovo"
-    ],
     "name:deu_x_preferred":[
-        "Bernol\u00e1kovo"
-    ],
-    "name:dut_x_preferred":[
         "Bernol\u00e1kovo"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Bernol\u00e1kovo"
     ],
-    "name:fre_x_preferred":[
-        "Bernol\u00e1kovo"
-    ],
-    "name:ger_x_preferred":[
-        "Bernol\u00e1kovo"
-    ],
     "name:hun_x_preferred":[
         "Csekl\u00e9sz"
     ],
     "name:ita_x_preferred":[
-        "Bernol\u00e1kovo"
-    ],
-    "name:may_x_preferred":[
         "Bernol\u00e1kovo"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:por_x_preferred":[
         "Bernol\u00e1kovo"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bernol\u00e1kovo"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101843727,
-    "wof:lastmodified":1527642602,
+    "wof:lastmodified":1561841693,
     "wof:name":"Bernol\u00e1kovo",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

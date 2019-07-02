@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001682,
-    "geom:area_square_m":13758772.979008,
+    "geom:area_square_m":13758772.979007,
     "geom:bbox":"19.0902805053,48.5571212428,19.1964736242,48.5995861543",
     "geom:latitude":48.575204,
     "geom:longitude":19.139071,
@@ -36,14 +36,8 @@
     "name:ces_x_preferred":[
         "Zvolen"
     ],
-    "name:chi_x_preferred":[
-        "\u5179\u6c83\u4f26"
-    ],
     "name:chv_x_preferred":[
         "\u0417\u0432\u043e\u043b\u0435\u043d"
-    ],
-    "name:cze_x_preferred":[
-        "Zvolen"
     ],
     "name:dan_x_preferred":[
         "Zvolen"
@@ -52,9 +46,6 @@
         "Altsohl"
     ],
     "name:deu_x_variant":[
-        "Zvolen"
-    ],
-    "name:dut_x_preferred":[
         "Zvolen"
     ],
     "name:eng_x_preferred":[
@@ -66,13 +57,13 @@
     "name:est_x_preferred":[
         "Zvolen"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0644\u0646"
+    ],
     "name:fin_x_preferred":[
         "Zvolen"
     ],
-    "name:fre_x_preferred":[
-        "Zvolen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zvolen"
     ],
     "name:heb_x_preferred":[
@@ -105,10 +96,13 @@
     "name:lit_x_preferred":[
         "Zvolenas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zvolen"
     ],
     "name:nan_x_preferred":[
+        "Zvolen"
+    ],
+    "name:nld_x_preferred":[
         "Zvolen"
     ],
     "name:nob_x_preferred":[
@@ -116,9 +110,6 @@
     ],
     "name:oci_x_preferred":[
         "Zvolen"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0644\u0646"
     ],
     "name:pol_x_preferred":[
         "Zwole\u0144"
@@ -132,9 +123,6 @@
     "name:ron_x_preferred":[
         "Zvolen"
     ],
-    "name:rum_x_preferred":[
-        "Zvolen"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u0432\u043e\u043b\u0435\u043d"
     ],
@@ -142,9 +130,6 @@
         "Zvolen"
     ],
     "name:slk_x_preferred":[
-        "Zvolen"
-    ],
-    "name:slo_x_preferred":[
         "Zvolen"
     ],
     "name:slv_x_preferred":[
@@ -176,6 +161,9 @@
     ],
     "name:war_x_preferred":[
         "Zvolen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5179\u6c83\u4f26"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Slovakia",
@@ -321,7 +309,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Zvolen",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

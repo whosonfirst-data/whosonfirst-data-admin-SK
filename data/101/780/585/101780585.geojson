@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":907130.775966,
+    "geom:area_square_m":907130.775965,
     "geom:bbox":"20.7705121915,49.2631256242,20.7927552743,49.2849383423",
     "geom:latitude":49.276196,
     "geom:longitude":20.782275,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Plavnica"
     ],
-    "name:cze_x_preferred":[
-        "Plavnica"
-    ],
     "name:deu_x_preferred":[
-        "Plavnica"
-    ],
-    "name:dut_x_preferred":[
         "Plavnica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Plavnica"
     ],
-    "name:fre_x_preferred":[
-        "Plavnica"
-    ],
-    "name:ger_x_preferred":[
-        "Plavnica"
-    ],
     "name:hbs_x_preferred":[
         "Plavnjica"
     ],
@@ -53,9 +41,6 @@
         "Palonca"
     ],
     "name:ita_x_preferred":[
-        "Plavnica"
-    ],
-    "name:may_x_preferred":[
         "Plavnica"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u041f\u043b\u0430\u0432\u043d\u0456\u0446\u044f"
     ],
     "name:slk_x_preferred":[
-        "Plavnica"
-    ],
-    "name:slo_x_preferred":[
         "Plavnica"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780585,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561841718,
     "wof:name":"Plavnica",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

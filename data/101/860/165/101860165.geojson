@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Stre\u010dno"
     ],
-    "name:cze_x_preferred":[
-        "Stre\u010dno"
-    ],
     "name:deu_x_preferred":[
-        "Stre\u010dno"
-    ],
-    "name:dut_x_preferred":[
         "Stre\u010dno"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Stre\u010dno"
     ],
-    "name:fre_x_preferred":[
-        "Stre\u010dno"
-    ],
-    "name:ger_x_preferred":[
-        "Stre\u010dno"
-    ],
     "name:hun_x_preferred":[
         "Sztrecs\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Stre\u010dno"
-    ],
-    "name:may_x_preferred":[
         "Stre\u010dno"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Stre\u010dno"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Stre\u010dno"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815553,
+    "wof:lastmodified":1561841695,
     "wof:name":"Stre\u010dno",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -25,13 +25,13 @@
     "name:cat_x_preferred":[
         "Districte de Polt\u00e1r"
     ],
+    "name:ces_x_preferred":[
+        "Okres Polt\u00e1r"
+    ],
     "name:chv_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Polt\u00e1r"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Polt\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -40,14 +40,8 @@
     "name:epo_x_preferred":[
         "Distrikto Polt\u00e1r"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Polt\u00e1r"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10da\u10e2\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Polt\u00e1r"
     ],
     "name:hrv_x_preferred":[
         "Okrug Polt\u00e1r"
@@ -58,17 +52,23 @@
     "name:ita_x_preferred":[
         "Distretto di Polt\u00e1r"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10e2\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Polta"
     ],
     "name:lav_x_preferred":[
         "Polt\u0101ras apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Polt\u00e1r"
     ],
     "name:nan_x_preferred":[
         "Polt\u00e1r Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Polt\u00e1r"
     ],
     "name:pol_x_preferred":[
         "Powiat Polt\u00e1r"
@@ -76,16 +76,16 @@
     "name:por_x_preferred":[
         "Polt\u00e1r"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Polt\u00e1r"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041f\u043e\u043b\u0442\u0430\u0440"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Polt\u00e1r"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:spa_x_preferred":[
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":102080513,
-    "wof:lastmodified":1553717227,
+    "wof:lastmodified":1561841678,
     "wof:name":"Polt\u00e1r",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":707757.233201,
+    "geom:area_square_m":707757.2332,
     "geom:bbox":"21.4080700968,49.2903205252,21.431419916,49.3070168135",
     "geom:latitude":49.299776,
     "geom:longitude":21.421319,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ha\u017el\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "Ha\u017el\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "Ha\u017el\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Ha\u017el\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ha\u017el\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Ha\u017el\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Ha\u017el\u00edn"
-    ],
     "name:hun_x_preferred":[
         "Hazslin"
     ],
     "name:ita_x_preferred":[
-        "Ha\u017el\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Ha\u017el\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0413\u0430\u0436\u043b\u0456\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ha\u017el\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101780605,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Ha\u017el\u00edn",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

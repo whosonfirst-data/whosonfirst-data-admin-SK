@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
-    "name:cze_x_preferred":[
-        "Plaveck\u00fd \u0160tvrtok"
-    ],
     "name:deu_x_preferred":[
-        "Plaveck\u00fd \u0160tvrtok"
-    ],
-    "name:dut_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
-    "name:fre_x_preferred":[
-        "Plaveck\u00fd \u0160tvrtok"
-    ],
-    "name:ger_x_preferred":[
-        "Plaveck\u00fd \u0160tvrtok"
-    ],
     "name:hun_x_preferred":[
         "Detrek\u0151cs\u00fct\u00f6rt\u00f6k"
     ],
     "name:ita_x_preferred":[
-        "Plaveck\u00fd \u0160tvrtok"
-    ],
-    "name:may_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101785285,
-    "wof:lastmodified":1527684900,
+    "wof:lastmodified":1561841698,
     "wof:name":"Plaveck\u00fd \u0160tvrtok",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

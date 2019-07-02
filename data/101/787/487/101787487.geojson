@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1435930.827177,
+    "geom:area_square_m":1435930.827178,
     "geom:bbox":"18.2595498968,47.8604769132,18.28422288,47.8747832156",
     "geom:latitude":47.867867,
     "geom:longitude":18.272808,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Dulovce"
     ],
-    "name:dut_x_preferred":[
-        "Dulovce"
-    ],
     "name:eng_x_preferred":[
         "Dulovce"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Dulovce"
     ],
-    "name:fre_x_preferred":[
-        "Dulovce"
-    ],
-    "name:ger_x_preferred":[
-        "Dulovce"
-    ],
     "name:hbs_x_preferred":[
         "Dulovce"
     ],
@@ -47,9 +38,6 @@
         "\u00dajgyalla"
     ],
     "name:ita_x_preferred":[
-        "Dulovce"
-    ],
-    "name:may_x_preferred":[
         "Dulovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Dulovce"
     ],
     "name:slk_x_preferred":[
-        "Dulovce"
-    ],
-    "name:slo_x_preferred":[
         "Dulovce"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101787487,
-    "wof:lastmodified":1527715850,
+    "wof:lastmodified":1561841712,
     "wof:name":"Dulovce",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

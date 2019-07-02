@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
-    "name:cze_x_preferred":[
-        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
-    ],
     "name:deu_x_preferred":[
-        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
-    ],
-    "name:dut_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
-    "name:fre_x_preferred":[
-        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
-    ],
-    "name:ger_x_preferred":[
-        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
-    ],
     "name:hrv_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
@@ -53,9 +41,6 @@
         "Laks\u00e1r\u00fajfalu"
     ],
     "name:ita_x_preferred":[
-        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
-    ],
-    "name:may_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:por_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101784097,
-    "wof:lastmodified":1527688539,
+    "wof:lastmodified":1561841704,
     "wof:name":"Lak\u0161\u00e1rska Nov\u00e1 Ves",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

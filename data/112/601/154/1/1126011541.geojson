@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e9 Kosto\u013eany"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:nan_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Kosto\u013eany"
+    ],
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1126011541,
-    "wof:lastmodified":1514505337,
+    "wof:lastmodified":1561841727,
     "wof:name":"Vel\u0315k\u00e9 Kostol\u0315any",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

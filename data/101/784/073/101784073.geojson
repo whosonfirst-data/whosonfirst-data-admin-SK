@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":917261.134921,
+    "geom:area_square_m":917261.134922,
     "geom:bbox":"18.042155943,48.4861163461,18.0578742685,48.4996057678",
     "geom:latitude":48.493803,
     "geom:longitude":18.050126,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00e9 Obdokovce"
-    ],
     "name:deu_x_preferred":[
-        "Horn\u00e9 Obdokovce"
-    ],
-    "name:dut_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e9 Obdokovce"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00e9 Obdokovce"
-    ],
     "name:hbs_x_preferred":[
         "Hornje Obdokovce"
     ],
@@ -55,16 +43,13 @@
     "name:ita_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
-    "name:may_x_preferred":[
-        "Horn\u00e9 Obdokovce"
-    ],
     "name:msa_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
     "name:nld_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +99,7 @@
         }
     ],
     "wof:id":101784073,
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1561841705,
     "wof:name":"Horn\u00e9 Obdokovce",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

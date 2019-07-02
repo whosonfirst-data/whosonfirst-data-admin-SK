@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Rak\u00fasy"
     ],
-    "name:cze_x_preferred":[
-        "Rak\u00fasy"
-    ],
     "name:deu_x_preferred":[
-        "Rak\u00fasy"
-    ],
-    "name:dut_x_preferred":[
         "Rak\u00fasy"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Rak\u00fasy"
     ],
-    "name:fre_x_preferred":[
-        "Rak\u00fasy"
-    ],
-    "name:ger_x_preferred":[
-        "Rak\u00fasy"
-    ],
     "name:hun_x_preferred":[
         "R\u00f3kus"
     ],
     "name:ita_x_preferred":[
-        "Rak\u00fasy"
-    ],
-    "name:may_x_preferred":[
         "Rak\u00fasy"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0420\u0430\u043a\u0443\u0441\u0456"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rak\u00fasy"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780569,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841712,
     "wof:name":"Rak\u00fasy",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

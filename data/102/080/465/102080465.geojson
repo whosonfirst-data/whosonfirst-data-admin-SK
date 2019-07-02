@@ -31,16 +31,13 @@
     "name:ces_x_preferred":[
         "Senec"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5167\u5947\u5340"
+    "name:ces_x_variant":[
+        "Okres Senec"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0446 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Senec"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Senec"
     ],
     "name:eng_x_preferred":[
@@ -49,14 +46,8 @@
     "name:epo_x_preferred":[
         "Distrikto Senec"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Senec"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10dc\u10d4\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Senec"
     ],
     "name:hrv_x_preferred":[
         "Okrug Senec"
@@ -67,13 +58,16 @@
     "name:ita_x_preferred":[
         "Distretto di Senec"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10d4\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Senec"
     ],
     "name:lav_x_preferred":[
         "Senecas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Senec"
     ],
     "name:nan_x_preferred":[
@@ -82,22 +76,25 @@
     "name:nld_x_preferred":[
         "Senec"
     ],
+    "name:nld_x_variant":[
+        "Okres Senec"
+    ],
     "name:pol_x_preferred":[
         "Powiat Senec"
     ],
     "name:por_x_preferred":[
         "Senec"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Senec"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0421\u0435\u043d\u0454\u0446"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Senec"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Senec"
     ],
     "name:spa_x_preferred":[
@@ -108,6 +105,9 @@
     ],
     "name:war_x_preferred":[
         "Senec"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5167\u5947\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -158,7 +158,7 @@
         }
     ],
     "wof:id":102080465,
-    "wof:lastmodified":1553717229,
+    "wof:lastmodified":1561841676,
     "wof:name":"Senec",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":2791448.172329,
+    "geom:area_square_m":2791448.172326,
     "geom:bbox":"20.9127509179,48.846334542,20.9718001064,48.8719998813",
     "geom:latitude":48.858346,
     "geom:longitude":20.944222,
@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Gelnica"
     ],
-    "name:chi_x_preferred":[
-        "\u84cb\u723e\u5c3c\u5bdf"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gelnica"
     ],
     "name:deu_x_preferred":[
-        "Gelnica"
-    ],
-    "name:dut_x_preferred":[
         "Gelnica"
     ],
     "name:eng_x_preferred":[
@@ -47,10 +41,7 @@
     "name:fas_x_preferred":[
         "\u06af\u0644\u06cc\u0646\u062a\u0633\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Gelnica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gelnica"
     ],
     "name:hbs_x_preferred":[
@@ -71,14 +62,14 @@
     "name:lav_x_preferred":[
         "Gelnica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gelnica"
     ],
     "name:nan_x_preferred":[
         "Gelnica"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0644\u06cc\u0646\u062a\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Gelnica"
     ],
     "name:pol_x_preferred":[
         "Gelnica"
@@ -86,16 +77,10 @@
     "name:ron_x_preferred":[
         "Gelnica"
     ],
-    "name:rum_x_preferred":[
-        "Gelnica"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043b\u043d\u0438\u0446\u0430"
     ],
     "name:slk_x_preferred":[
-        "Gelnica"
-    ],
-    "name:slo_x_preferred":[
         "Gelnica"
     ],
     "name:spa_x_preferred":[
@@ -172,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642590,
+    "wof:lastmodified":1561841689,
     "wof:name":"Gelnica",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

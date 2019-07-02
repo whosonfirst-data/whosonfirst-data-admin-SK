@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":4107984.537462,
+    "geom:area_square_m":4107984.537463,
     "geom:bbox":"17.010856848,48.2544715985,17.0582236517,48.2878451713",
     "geom:latitude":48.272699,
     "geom:longitude":17.029458,
@@ -23,16 +23,13 @@
     "name:cat_x_preferred":[
         "Stupava"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5716\u5e15\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stupava"
     ],
     "name:deu_x_preferred":[
         "Stampfen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Stupava"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +41,7 @@
     "name:fas_x_preferred":[
         "\u0633\u062a\u0648\u067e\u0627\u0648\u0627\u060c \u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u0644\u0627\u062a\u0633\u06a9\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Stupava"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stupava"
     ],
     "name:heb_x_preferred":[
@@ -65,20 +59,17 @@
     "name:lav_x_preferred":[
         "Stupava"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0442\u0443\u043f\u0430\u0432\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Stupava"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0443\u043f\u0430\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Stupava"
     ],
     "name:nan_x_preferred":[
         "Stupava"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u0648\u067e\u0627\u0648\u0627\u060c \u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u0644\u0627\u062a\u0633\u06a9\u06cc"
+    "name:nld_x_preferred":[
+        "Stupava"
     ],
     "name:pol_x_preferred":[
         "Stupava"
@@ -86,13 +77,13 @@
     "name:por_x_preferred":[
         "Stupava"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stupava"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0443\u043f\u0430\u0432\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Stupava"
     ],
     "name:spa_x_preferred":[
@@ -159,7 +150,7 @@
         }
     ],
     "wof:id":101785289,
-    "wof:lastmodified":1514505297,
+    "wof:lastmodified":1561841697,
     "wof:name":"Stupava",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

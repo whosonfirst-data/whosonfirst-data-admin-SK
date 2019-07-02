@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:fre_x_preferred":[
-        "Drienovsk\u00e1 Nov\u00e1 Ves"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:hun_x_preferred":[
@@ -45,10 +42,13 @@
     "name:ita_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:nan_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:pol_x_preferred":[
@@ -57,7 +57,7 @@
     "name:rue_x_preferred":[
         "\u0414\u0440\u044a\u0454\u043d\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1125854015,
-    "wof:lastmodified":1514505085,
+    "wof:lastmodified":1561841729,
     "wof:name":"Drienovsk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

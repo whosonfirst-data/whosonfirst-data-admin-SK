@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":707815.978869,
+    "geom:area_square_m":707815.97887,
     "geom:bbox":"20.576573416,48.9560896722,20.5879899871,48.9734927339",
     "geom:latitude":48.964045,
     "geom:longitude":20.582923,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Harichovce"
     ],
-    "name:cze_x_preferred":[
-        "Harichovce"
-    ],
     "name:deu_x_preferred":[
-        "Harichovce"
-    ],
-    "name:dut_x_preferred":[
         "Harichovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Harichovce"
     ],
-    "name:fre_x_preferred":[
-        "Harichovce"
-    ],
-    "name:ger_x_preferred":[
-        "Harichovce"
-    ],
     "name:hbs_x_preferred":[
         "Harihovce"
     ],
@@ -53,9 +41,6 @@
         "P\u00e1lmafalva"
     ],
     "name:ita_x_preferred":[
-        "Harichovce"
-    ],
-    "name:may_x_preferred":[
         "Harichovce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Harichovce"
     ],
     "name:slk_x_preferred":[
-        "Harichovce"
-    ],
-    "name:slo_x_preferred":[
         "Harichovce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101780269,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841714,
     "wof:name":"Harichovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

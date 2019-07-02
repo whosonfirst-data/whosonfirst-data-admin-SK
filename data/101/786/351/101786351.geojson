@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
-    "name:cze_x_preferred":[
-        "Tvrdo\u0161ovce"
-    ],
     "name:deu_x_preferred":[
-        "Tvrdo\u0161ovce"
-    ],
-    "name:dut_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
-    "name:fre_x_preferred":[
-        "Tvrdo\u0161ovce"
-    ],
-    "name:ger_x_preferred":[
-        "Tvrdo\u0161ovce"
-    ],
     "name:hbs_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
@@ -53,9 +41,6 @@
         "Tardoskedd"
     ],
     "name:ita_x_preferred":[
-        "Tvrdo\u0161ovce"
-    ],
-    "name:may_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tvrdo\u0161ovce"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101786351,
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561841710,
     "wof:name":"Tvrdo\u0161ovce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

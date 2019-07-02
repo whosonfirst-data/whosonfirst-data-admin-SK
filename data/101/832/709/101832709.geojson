@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000954,
-    "geom:area_square_m":7800206.611913,
+    "geom:area_square_m":7800206.61191,
     "geom:bbox":"21.6904006494,48.6061361815,21.7399301751,48.6582210507",
     "geom:latitude":48.629253,
     "geom:longitude":21.718855,
@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Trebi\u0161ov"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u96f7\u6bd4\u7d39\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Trebi\u0161ov"
-    ],
     "name:dan_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:deu_x_preferred":[
-        "Trebi\u0161ov"
-    ],
-    "name:dut_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:eng_x_preferred":[
@@ -62,10 +53,7 @@
     "name:fas_x_preferred":[
         "\u062a\u0631\u0628\u06cc\u0634\u0648"
     ],
-    "name:fre_x_preferred":[
-        "Trebi\u0161ov"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:glg_x_preferred":[
@@ -98,7 +86,7 @@
     "name:lit_x_preferred":[
         "Trebi\u0161ovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:nan_x_preferred":[
@@ -110,25 +98,16 @@
     "name:nob_x_preferred":[
         "Trebi\u0161ov"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0628\u06cc\u0634\u0648"
-    ],
     "name:pol_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:ron_x_preferred":[
         "Trebi\u0161ov"
     ],
-    "name:rum_x_preferred":[
-        "Trebi\u0161ov"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u0448\u043e\u0432"
     ],
     "name:slk_x_preferred":[
-        "Trebi\u0161ov"
-    ],
-    "name:slo_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:spa_x_preferred":[
@@ -205,7 +184,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642781,
+    "wof:lastmodified":1561841693,
     "wof:name":"Trebi\u0161ov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

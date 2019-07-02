@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1615127.918431,
+    "geom:area_square_m":1615127.918432,
     "geom:bbox":"21.3008842458,48.6424309693,21.3302471899,48.6626578604",
     "geom:latitude":48.653286,
     "geom:longitude":21.317684,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Kok\u0161ov-Bak\u0161a"
     ],
-    "name:dut_x_preferred":[
-        "Kok\u0161ov-Bak\u0161a"
-    ],
     "name:eng_x_preferred":[
         "Kok\u0161ov-Bak\u0161a"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Kok\u0161ov-Bak\u0161a"
     ],
-    "name:fre_x_preferred":[
-        "Kok\u0161ov-Bak\u0161a"
-    ],
-    "name:ger_x_preferred":[
-        "Kok\u0161ov-Bak\u0161a"
-    ],
     "name:hun_x_preferred":[
         "Koks\u00f3baksa"
     ],
     "name:ita_x_preferred":[
-        "Kok\u0161ov-Bak\u0161a"
-    ],
-    "name:may_x_preferred":[
         "Kok\u0161ov-Bak\u0161a"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Kok\u0161ov-Bak\u0161a"
     ],
     "name:slk_x_preferred":[
-        "Kok\u0161ov-Bak\u0161a"
-    ],
-    "name:slo_x_preferred":[
         "Kok\u0161ov-Bak\u0161a"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101782841,
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561841701,
     "wof:name":"Kok\u0161ov - Bak\u0161a",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

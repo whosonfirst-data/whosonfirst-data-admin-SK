@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1644830.577009,
+    "geom:area_square_m":1644830.577008,
     "geom:bbox":"18.5246614147,49.192483155,18.5706605997,49.2125001491",
     "geom:latitude":49.202039,
     "geom:longitude":18.545399,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Predmier"
     ],
-    "name:cze_x_preferred":[
-        "Predmier"
-    ],
     "name:deu_x_preferred":[
-        "Predmier"
-    ],
-    "name:dut_x_preferred":[
         "Predmier"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Predmier"
     ],
-    "name:fre_x_preferred":[
-        "Predmier"
-    ],
-    "name:ger_x_preferred":[
-        "Predmier"
-    ],
     "name:hbs_x_preferred":[
         "Predmjer"
     ],
@@ -53,9 +41,6 @@
         "Peredm\u00e9r"
     ],
     "name:ita_x_preferred":[
-        "Predmier"
-    ],
-    "name:may_x_preferred":[
         "Predmier"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Predmier"
     ],
     "name:slk_x_preferred":[
-        "Predmier"
-    ],
-    "name:slo_x_preferred":[
         "Predmier"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101843923,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841690,
     "wof:name":"Predmier",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

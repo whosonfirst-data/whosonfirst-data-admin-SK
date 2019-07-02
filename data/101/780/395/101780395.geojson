@@ -25,16 +25,10 @@
     "name:ces_x_preferred":[
         "Rosina"
     ],
-    "name:cze_x_preferred":[
-        "Rosina"
-    ],
     "name:dan_x_preferred":[
         "Rosina"
     ],
     "name:deu_x_preferred":[
-        "Rosina"
-    ],
-    "name:dut_x_preferred":[
         "Rosina"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +43,6 @@
     "name:fra_x_preferred":[
         "Rosina"
     ],
-    "name:fre_x_preferred":[
-        "Rosina"
-    ],
-    "name:ger_x_preferred":[
-        "Rosina"
-    ],
     "name:hbs_x_preferred":[
         "Rosina"
     ],
@@ -62,9 +50,6 @@
         "Harmatos"
     ],
     "name:ita_x_preferred":[
-        "Rosina"
-    ],
-    "name:may_x_preferred":[
         "Rosina"
     ],
     "name:msa_x_preferred":[
@@ -89,9 +74,6 @@
         "Rosina"
     ],
     "name:slk_x_preferred":[
-        "Rosina"
-    ],
-    "name:slo_x_preferred":[
         "Rosina"
     ],
     "name:spa_x_preferred":[
@@ -162,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715871,
+    "wof:lastmodified":1561841716,
     "wof:name":"Rosina",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

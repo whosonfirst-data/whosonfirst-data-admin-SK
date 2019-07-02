@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Lysica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lysica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lysica"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Lysica"
     ],
-    "name:fre_x_preferred":[
-        "Lysica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lysica"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "Lysica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lysica"
     ],
     "name:nan_x_preferred":[
         "Lysica"
     ],
+    "name:nld_x_preferred":[
+        "Lysica"
+    ],
     "name:pol_x_preferred":[
         "Lysica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lysica"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125990593,
-    "wof:lastmodified":1553816682,
+    "wof:lastmodified":1561841725,
     "wof:name":"Lysa",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1405920.40987,
+    "geom:area_square_m":1405920.409869,
     "geom:bbox":"17.7228465754,48.161318093,17.7438408153,48.1760942885",
     "geom:latitude":48.167667,
     "geom:longitude":17.732196,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
-    "name:dut_x_preferred":[
-        "Mat\u00fa\u0161kovo"
-    ],
     "name:eng_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
-    "name:fre_x_preferred":[
-        "Mat\u00fa\u0161kovo"
-    ],
-    "name:ger_x_preferred":[
-        "Mat\u00fa\u0161kovo"
-    ],
     "name:hbs_x_preferred":[
         "Matu\u0161kovo"
     ],
@@ -47,9 +38,6 @@
         "Taksonyfalva"
     ],
     "name:ita_x_preferred":[
-        "Mat\u00fa\u0161kovo"
-    ],
-    "name:may_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Mat\u00fa\u0161kovo"
     ],
     "name:slk_x_preferred":[
-        "Mat\u00fa\u0161kovo"
-    ],
-    "name:slo_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101786403,
-    "wof:lastmodified":1527715652,
+    "wof:lastmodified":1561841710,
     "wof:name":"Mat\u00fa\u0161kovo",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

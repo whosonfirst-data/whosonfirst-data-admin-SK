@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Dubn\u00edk"
     ],
-    "name:dut_x_preferred":[
-        "Dubn\u00edk"
-    ],
     "name:eng_x_preferred":[
         "Dubn\u00edk"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Dubn\u00edk"
     ],
-    "name:fre_x_preferred":[
-        "Dubn\u00edk"
-    ],
-    "name:ger_x_preferred":[
-        "Dubn\u00edk"
-    ],
     "name:hbs_x_preferred":[
         "Dubnjik"
     ],
@@ -47,9 +38,6 @@
         "Cs\u00faz"
     ],
     "name:ita_x_preferred":[
-        "Dubn\u00edk"
-    ],
-    "name:may_x_preferred":[
         "Dubn\u00edk"
     ],
     "name:msa_x_preferred":[
@@ -66,9 +54,6 @@
     ],
     "name:slk_x_variant":[
         "\u010c\u00faz"
-    ],
-    "name:slo_x_preferred":[
-        "Dubn\u00edk"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u0431\u045a\u0438\u043a"
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786335,
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561841710,
     "wof:name":"Dubn\u00edk",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

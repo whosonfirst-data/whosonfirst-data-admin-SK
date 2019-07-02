@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Krakovany"
     ],
-    "name:cze_x_preferred":[
-        "Krakovany"
-    ],
     "name:deu_x_preferred":[
-        "Krakovany"
-    ],
-    "name:dut_x_preferred":[
         "Krakovany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Krakovany"
     ],
-    "name:fre_x_preferred":[
-        "Krakovany"
-    ],
-    "name:ger_x_preferred":[
-        "Krakovany"
-    ],
     "name:hun_x_preferred":[
         "Krakov\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Krakovany"
-    ],
-    "name:may_x_preferred":[
         "Krakovany"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Krakovany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Krakovany"
     ],
     "name:srp_x_preferred":[
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101784035,
-    "wof:lastmodified":1553815499,
+    "wof:lastmodified":1561841705,
     "wof:name":"Krakovany",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

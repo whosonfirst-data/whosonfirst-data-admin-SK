@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Vyhne"
     ],
-    "name:cze_x_preferred":[
-        "Vyhne"
-    ],
     "name:deu_x_preferred":[
-        "Vyhne"
-    ],
-    "name:dut_x_preferred":[
         "Vyhne"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Vyhne"
     ],
     "name:fra_x_preferred":[
-        "Vyhne"
-    ],
-    "name:fre_x_preferred":[
-        "Vyhne"
-    ],
-    "name:ger_x_preferred":[
         "Vyhne"
     ],
     "name:hbs_x_preferred":[
@@ -58,9 +46,6 @@
     "name:ita_x_preferred":[
         "Vyhne"
     ],
-    "name:may_x_preferred":[
-        "Vyhne"
-    ],
     "name:msa_x_preferred":[
         "Vyhne"
     ],
@@ -71,9 +56,6 @@
         "Vyhne"
     ],
     "name:slk_x_preferred":[
-        "Vyhne"
-    ],
-    "name:slo_x_preferred":[
         "Vyhne"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +114,7 @@
         }
     ],
     "wof:id":101858951,
-    "wof:lastmodified":1544744665,
+    "wof:lastmodified":1561841695,
     "wof:name":"Vyhne",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

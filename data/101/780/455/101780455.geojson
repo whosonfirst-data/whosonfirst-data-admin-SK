@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Z\u00e1mutov"
     ],
-    "name:cze_x_preferred":[
-        "Z\u00e1mutov"
-    ],
     "name:deu_x_preferred":[
-        "Z\u00e1mutov"
-    ],
-    "name:dut_x_preferred":[
         "Z\u00e1mutov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Z\u00e1mutov"
     ],
-    "name:fre_x_preferred":[
-        "Z\u00e1mutov"
-    ],
-    "name:ger_x_preferred":[
-        "Z\u00e1mutov"
-    ],
     "name:hun_x_preferred":[
         "Op\u00e1lhegy"
     ],
     "name:ita_x_preferred":[
-        "Z\u00e1mutov"
-    ],
-    "name:may_x_preferred":[
         "Z\u00e1mutov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Z\u00e1mutov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1mutov"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780455,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841714,
     "wof:name":"Z\u00e1mutov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

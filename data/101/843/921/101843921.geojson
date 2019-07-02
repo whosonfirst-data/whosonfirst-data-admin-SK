@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":797492.444624,
+    "geom:area_square_m":797492.444625,
     "geom:bbox":"18.5180237715,49.2529603228,18.5407364393,49.2682203987",
     "geom:latitude":49.258534,
     "geom:longitude":18.529151,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Petrovice"
     ],
-    "name:cze_x_preferred":[
-        "Petrovice"
-    ],
     "name:deu_x_preferred":[
-        "Petrovice"
-    ],
-    "name:dut_x_preferred":[
         "Petrovice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Petrovice"
     ],
-    "name:fre_x_preferred":[
-        "Petrovice"
-    ],
-    "name:ger_x_preferred":[
-        "Petrovice"
-    ],
     "name:hun_x_preferred":[
         "Trencs\u00e9np\u00e9teri"
     ],
     "name:ita_x_preferred":[
-        "Petrovice"
-    ],
-    "name:may_x_preferred":[
         "Petrovice"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Petrovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Petrovice"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101843921,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841693,
     "wof:name":"Petrovice",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

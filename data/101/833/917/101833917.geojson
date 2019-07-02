@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1611168.488334,
+    "geom:area_square_m":1611168.488333,
     "geom:bbox":"17.5681216635,48.0014275669,17.5865216972,48.0195793618",
     "geom:latitude":48.011538,
     "geom:longitude":17.577848,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00e9 Blahovo"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e9 Blahovo"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00e9 Blahovo"
-    ],
     "name:hbs_x_preferred":[
         "Veljke Blahovo"
     ],
@@ -50,9 +41,6 @@
         "Nagyabony"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00e9 Blahovo"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:por_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00e9 Blahovo"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101833917,
-    "wof:lastmodified":1527642929,
+    "wof:lastmodified":1561841696,
     "wof:name":"Ve\u013ek\u00e9 Blahovo",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

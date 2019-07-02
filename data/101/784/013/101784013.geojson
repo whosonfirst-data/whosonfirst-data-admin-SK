@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1116680.885412,
+    "geom:area_square_m":1116680.885413,
     "geom:bbox":"17.4269688982,48.455910457,17.4474451441,48.4751456654",
     "geom:latitude":48.465462,
     "geom:longitude":17.437014,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00e9 Ore\u0161any"
-    ],
     "name:deu_x_preferred":[
-        "Horn\u00e9 Ore\u0161any"
-    ],
-    "name:dut_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e9 Ore\u0161any"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00e9 Ore\u0161any"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151di\u00f3s"
     ],
     "name:ita_x_preferred":[
-        "Horn\u00e9 Ore\u0161any"
-    ],
-    "name:may_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688537,
+    "wof:lastmodified":1561841704,
     "wof:name":"Horn\u00e9 Ore\u0161any",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

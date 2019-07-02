@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":917230.323236,
+    "geom:area_square_m":917230.323237,
     "geom:bbox":"18.2514011282,48.659603978,18.2675904409,48.6728999164",
     "geom:latitude":48.666391,
     "geom:longitude":18.25875,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Rybany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Rybany"
     ],
     "name:deu_x_preferred":[
-        "Rybany"
-    ],
-    "name:dut_x_preferred":[
         "Rybany"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Rybany"
     ],
-    "name:fre_x_preferred":[
-        "Rybany"
-    ],
-    "name:ger_x_preferred":[
-        "Rybany"
-    ],
     "name:hbs_x_preferred":[
         "Ribani"
     ],
@@ -50,9 +41,6 @@
         "Rib\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Rybany"
-    ],
-    "name:may_x_preferred":[
         "Rybany"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Rybany"
     ],
     "name:slk_x_preferred":[
-        "Rybany"
-    ],
-    "name:slo_x_preferred":[
         "Rybany"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101781629,
-    "wof:lastmodified":1527715625,
+    "wof:lastmodified":1561841707,
     "wof:name":"Rybany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
-    "name:cze_x_preferred":[
-        "Doln\u00fd Hri\u010dov"
-    ],
     "name:deu_x_preferred":[
-        "Doln\u00fd Hri\u010dov"
-    ],
-    "name:dut_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00fd Hri\u010dov"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00fd Hri\u010dov"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3rics\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Doln\u00fd Hri\u010dov"
-    ],
-    "name:may_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
     "name:srp_x_preferred":[
@@ -141,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715869,
+    "wof:lastmodified":1561841715,
     "wof:name":"Doln\u00fd Hri\u010dov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

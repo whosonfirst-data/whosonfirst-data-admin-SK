@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Radzovce"
     ],
-    "name:cze_x_preferred":[
-        "Radzovce"
-    ],
     "name:deu_x_preferred":[
-        "Radzovce"
-    ],
-    "name:dut_x_preferred":[
         "Radzovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Radzovce"
     ],
-    "name:fre_x_preferred":[
-        "Radzovce"
-    ],
-    "name:ger_x_preferred":[
-        "Radzovce"
-    ],
     "name:hbs_x_preferred":[
         "Radzovce"
     ],
@@ -53,9 +41,6 @@
         "Ragyolc"
     ],
     "name:ita_x_preferred":[
-        "Radzovce"
-    ],
-    "name:may_x_preferred":[
         "Radzovce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Radzovce"
     ],
     "name:slk_x_preferred":[
-        "Radzovce"
-    ],
-    "name:slo_x_preferred":[
         "Radzovce"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +111,7 @@
         }
     ],
     "wof:id":101784045,
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1561841705,
     "wof:name":"Radzovce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

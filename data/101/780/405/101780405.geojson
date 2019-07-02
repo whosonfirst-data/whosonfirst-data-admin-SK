@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
-    "name:cze_x_preferred":[
-        "Dlh\u00e1 nad Oravou"
-    ],
     "name:deu_x_preferred":[
-        "Dlh\u00e1 nad Oravou"
-    ],
-    "name:dut_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
-    "name:fre_x_preferred":[
-        "Dlh\u00e1 nad Oravou"
-    ],
-    "name:ger_x_preferred":[
-        "Dlh\u00e1 nad Oravou"
-    ],
     "name:hun_x_preferred":[
         "Dluha"
     ],
     "name:ita_x_preferred":[
-        "Dlh\u00e1 nad Oravou"
-    ],
-    "name:may_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780405,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Dlh\u00e1 nad Oravou",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2119257.70686,
+    "geom:area_square_m":2119257.706859,
     "geom:bbox":"17.6378466719,48.2980458608,17.6654736007,48.3223669352",
     "geom:latitude":48.308071,
     "geom:longitude":17.650934,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Vl\u010dkovce"
     ],
-    "name:cze_x_preferred":[
-        "Vl\u010dkovce"
-    ],
     "name:deu_x_preferred":[
-        "Vl\u010dkovce"
-    ],
-    "name:dut_x_preferred":[
         "Vl\u010dkovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Vl\u010dkovce"
     ],
-    "name:fre_x_preferred":[
-        "Vl\u010dkovce"
-    ],
-    "name:ger_x_preferred":[
-        "Vl\u010dkovce"
-    ],
     "name:hun_x_preferred":[
         "Farkashida"
     ],
     "name:ita_x_preferred":[
-        "Vl\u010dkovce"
-    ],
-    "name:may_x_preferred":[
         "Vl\u010dkovce"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "Vl\u010dkovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vl\u010dkovce"
     ],
     "name:srp_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642935,
+    "wof:lastmodified":1561841696,
     "wof:name":"Vl\u010dkovce",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

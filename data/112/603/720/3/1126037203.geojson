@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
-    "name:fre_x_preferred":[
-        "\u0160ari\u0161sk\u00e9 Jastrabie"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
     "name:hun_x_preferred":[
@@ -45,7 +42,10 @@
     "name:ita_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Jastrabie"
+    ],
+    "name:nld_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
     "name:pol_x_preferred":[
@@ -54,7 +54,7 @@
     "name:rue_x_preferred":[
         "\u0428\u0430\u0440\u0456\u0441\u044c\u043a\u0435 \u042f\u0441\u0442\u0440\u0430\u0431\u0454"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1126037203,
-    "wof:lastmodified":1514505267,
+    "wof:lastmodified":1561841721,
     "wof:name":"Sarisske Jastrabie",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

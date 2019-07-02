@@ -31,13 +31,13 @@
     "name:cat_x_preferred":[
         "Districte de Dunajsk\u00e1 Streda"
     ],
+    "name:ces_x_preferred":[
+        "Okres Dunajsk\u00e1 Streda"
+    ],
     "name:chv_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430 \u0421\u0442\u0440\u0435\u0434\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Dunajsk\u00e1 Streda"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Dunajsk\u00e1 Streda"
     ],
     "name:eng_x_preferred":[
@@ -46,14 +46,8 @@
     "name:epo_x_preferred":[
         "Distrikto Dunajsk\u00e1 Streda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Dunajsk\u00e1 Streda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10dc\u10d0\u10d8\u10e1\u10d9\u10d0-\u10e1\u10e2\u10e0\u10d4\u10d3\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Dunajsk\u00e1 Streda"
     ],
     "name:hrv_x_preferred":[
         "Okrug Dunajsk\u00e1 Streda"
@@ -64,17 +58,23 @@
     "name:ita_x_preferred":[
         "Distretto di Dunajsk\u00e1 Streda"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10dc\u10d0\u10d8\u10e1\u10d9\u10d0-\u10e1\u10e2\u10e0\u10d4\u10d3\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
     "name:lav_x_preferred":[
         "Dunajska Stredas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Dunajsk\u00e1 Streda"
     ],
     "name:nan_x_preferred":[
         "Dunajsk\u00e1 Streda Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Dunajsk\u00e1 Streda"
     ],
     "name:pol_x_preferred":[
         "Powiat Dunajsk\u00e1 Streda"
@@ -82,16 +82,16 @@
     "name:por_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Dunajsk\u00e1 Streda"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430 \u0421\u0442\u0440\u0435\u0434\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Dunajsk\u00e1 Streda"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430-\u0421\u0442\u0440\u0435\u0434\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dunajsk\u00e1 Streda"
     ],
     "name:spa_x_preferred":[
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":102080453,
-    "wof:lastmodified":1553717228,
+    "wof:lastmodified":1561841675,
     "wof:name":"Dunajsk\u00e1 Streda",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

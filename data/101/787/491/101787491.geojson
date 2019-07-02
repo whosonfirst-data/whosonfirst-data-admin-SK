@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "B\u00e1torove Kosihy"
     ],
-    "name:dut_x_preferred":[
-        "B\u00e1torove Kosihy"
-    ],
     "name:eng_x_preferred":[
         "B\u00e1torove Kosihy"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "B\u00e1torove Kosihy"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e1torove Kosihy"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00e1torove Kosihy"
-    ],
     "name:hbs_x_preferred":[
         "Batorove Kosihi"
     ],
@@ -47,9 +38,6 @@
         "B\u00e1torkeszi"
     ],
     "name:ita_x_preferred":[
-        "B\u00e1torove Kosihy"
-    ],
-    "name:may_x_preferred":[
         "B\u00e1torove Kosihy"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "B\u00e1torove Kosihy"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u00e1torove Kosihy"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101787491,
-    "wof:lastmodified":1527715846,
+    "wof:lastmodified":1561841711,
     "wof:name":"B\u00e1torove Kosihy",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

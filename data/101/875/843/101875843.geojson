@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
-    "name:cze_x_preferred":[
-        "Nov\u00e1 \u013dubov\u0148a"
-    ],
     "name:deu_x_preferred":[
-        "Nov\u00e1 \u013dubov\u0148a"
-    ],
-    "name:dut_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00e1 \u013dubov\u0148a"
-    ],
-    "name:ger_x_preferred":[
-        "Nov\u00e1 \u013dubov\u0148a"
-    ],
     "name:hun_x_preferred":[
         "\u00dajlubl\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Nov\u00e1 \u013dubov\u0148a"
-    ],
-    "name:may_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +115,7 @@
         }
     ],
     "wof:id":101875843,
-    "wof:lastmodified":1544751967,
+    "wof:lastmodified":1561841688,
     "wof:name":"Nov\u00e1 \u013dubov\u0148a",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

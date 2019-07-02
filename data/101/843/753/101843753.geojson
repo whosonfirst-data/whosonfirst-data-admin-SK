@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":927317.877743,
+    "geom:area_square_m":927317.877744,
     "geom:bbox":"18.9661257964,48.1543551093,18.9933129882,48.1625848078",
     "geom:latitude":48.158382,
     "geom:longitude":18.980781,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Pl\u00e1\u0161\u0165ovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pl\u00e1\u0161\u0165ovce"
     ],
     "name:deu_x_preferred":[
-        "Pl\u00e1\u0161\u0165ovce"
-    ],
-    "name:dut_x_preferred":[
         "Pl\u00e1\u0161\u0165ovce"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Pl\u00e1\u0161\u0165ovce"
     ],
-    "name:fre_x_preferred":[
-        "Pl\u00e1\u0161\u0165ovce"
-    ],
-    "name:ger_x_preferred":[
-        "Pl\u00e1\u0161\u0165ovce"
-    ],
     "name:hun_x_preferred":[
         "Pal\u00e1st"
     ],
     "name:ita_x_preferred":[
-        "Pl\u00e1\u0161\u0165ovce"
-    ],
-    "name:may_x_preferred":[
         "Pl\u00e1\u0161\u0165ovce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Pl\u00e1\u0161\u0165ovce"
     ],
     "name:slk_x_preferred":[
-        "Pl\u00e1\u0161\u0165ovce"
-    ],
-    "name:slo_x_preferred":[
         "Pl\u00e1\u0161\u0165ovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843753,
-    "wof:lastmodified":1527642589,
+    "wof:lastmodified":1561841689,
     "wof:name":"Pl\u00e1\u0161\u0165ovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

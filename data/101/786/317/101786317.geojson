@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "\u0160tvrtok na Ostrove"
     ],
-    "name:dut_x_preferred":[
-        "\u0160tvrtok na Ostrove"
-    ],
     "name:eng_x_preferred":[
         "\u0160tvrtok na Ostrove"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "\u0160tvrtok na Ostrove"
     ],
-    "name:fre_x_preferred":[
-        "\u0160tvrtok na Ostrove"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160tvrtok na Ostrove"
-    ],
     "name:hbs_x_preferred":[
         "\u0160tvrtok na Ostrvu"
     ],
@@ -47,9 +38,6 @@
         "Cs\u00fct\u00f6rt\u00f6k"
     ],
     "name:ita_x_preferred":[
-        "\u0160tvrtok na Ostrove"
-    ],
-    "name:may_x_preferred":[
         "\u0160tvrtok na Ostrove"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:por_x_preferred":[
         "\u0160tvrtok na Ostrove"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160tvrtok na Ostrove"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101786317,
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561841711,
     "wof:name":"\u0160tvrtok na Ostrove",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

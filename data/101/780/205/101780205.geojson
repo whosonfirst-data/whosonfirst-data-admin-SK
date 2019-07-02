@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000142,
-    "geom:area_square_m":1176636.836933,
+    "geom:area_square_m":1176636.836934,
     "geom:bbox":"17.7361130421,47.9826291958,17.7586705573,47.9960418941",
     "geom:latitude":47.988371,
     "geom:longitude":17.747594,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Trhov\u00e1 Hradsk\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
@@ -32,12 +29,6 @@
         "Trhov\u00e1 Hradsk\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Trhov\u00e1 Hradsk\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Trhov\u00e1 Hradsk\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Trhov\u00e1 Hradsk\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
@@ -61,7 +49,7 @@
     "name:por_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Trhov\u00e1 Hradsk\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101780205,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841715,
     "wof:name":"Trhov\u00e1 Hradsk\u00e1",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

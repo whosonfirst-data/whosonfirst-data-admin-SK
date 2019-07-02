@@ -21,16 +21,13 @@
     "name:cat_x_preferred":[
         "Pavlov\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Pavlov\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Pavlov\u00e1"
     ],
     "name:epo_x_preferred":[
         "Pavlov\u00e1"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pavlov\u00e1"
     ],
     "name:glg_x_preferred":[
@@ -42,10 +39,13 @@
     "name:ita_x_preferred":[
         "Pavlov\u00e1"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pavlov\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Pavlov\u00e1"
+    ],
+    "name:slk_x_preferred":[
         "Pavlov\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125897215,
-    "wof:lastmodified":1514505220,
+    "wof:lastmodified":1561841724,
     "wof:name":"Pavlov\u00e1",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

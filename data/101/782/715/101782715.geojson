@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1186503.544534,
+    "geom:area_square_m":1186503.544532,
     "geom:bbox":"18.7149155567,48.3440309809,18.7318437339,48.3626668833",
     "geom:latitude":48.352381,
     "geom:longitude":18.722629,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Pukanec"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pukanec"
     ],
     "name:deu_x_preferred":[
-        "Pukanec"
-    ],
-    "name:dut_x_preferred":[
         "Pukanec"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Pukanec"
     ],
-    "name:fre_x_preferred":[
-        "Pukanec"
-    ],
-    "name:ger_x_preferred":[
-        "Pukanec"
-    ],
     "name:hun_x_preferred":[
         "Bakab\u00e1nya"
     ],
     "name:ita_x_preferred":[
-        "Pukanec"
-    ],
-    "name:may_x_preferred":[
         "Pukanec"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Pukanec"
     ],
     "name:slk_x_preferred":[
-        "Pukanec"
-    ],
-    "name:slo_x_preferred":[
         "Pukanec"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101782715,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Pukanec",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

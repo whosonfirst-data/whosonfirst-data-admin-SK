@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Biskupice"
     ],
-    "name:cze_x_preferred":[
-        "Biskupice"
-    ],
     "name:deu_x_preferred":[
-        "Biskupice"
-    ],
-    "name:dut_x_preferred":[
         "Biskupice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Biskupice"
     ],
-    "name:fre_x_preferred":[
-        "Biskupice"
-    ],
-    "name:ger_x_preferred":[
-        "Biskupice"
-    ],
     "name:hbs_x_preferred":[
         "Biskupice"
     ],
@@ -55,7 +43,7 @@
     "name:ita_x_preferred":[
         "Biskupice"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Biskupice"
     ],
     "name:nld_x_preferred":[
@@ -68,9 +56,6 @@
         "\u0411\u0438\u0441\u043a\u0443\u043f\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Biskupice"
-    ],
-    "name:slo_x_preferred":[
         "Biskupice"
     ],
     "name:spa_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101782757,
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561841701,
     "wof:name":"Biskupice",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

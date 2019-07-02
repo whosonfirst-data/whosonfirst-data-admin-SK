@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Horn\u00e1 Pot\u00f4\u0148"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00e1 Pot\u00f4\u0148"
-    ],
     "name:deu_x_preferred":[
-        "Horn\u00e1 Pot\u00f4\u0148"
-    ],
-    "name:dut_x_preferred":[
         "Horn\u00e1 Pot\u00f4\u0148"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Horn\u00e1 Pot\u00f4\u0148"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e1 Pot\u00f4\u0148"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00e1 Pot\u00f4\u0148"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151patony"
     ],
     "name:ita_x_preferred":[
-        "Horn\u00e1 Pot\u00f4\u0148"
-    ],
-    "name:may_x_preferred":[
         "Horn\u00e1 Pot\u00f4\u0148"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Horn\u00e1 Pot\u00f4\u0148"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00e1 Pot\u00f4\u0148"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101843717,
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561841692,
     "wof:name":"Horn\u00e1 Pot\u00f4\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

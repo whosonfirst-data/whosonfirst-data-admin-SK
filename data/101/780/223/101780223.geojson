@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":1505381.838359,
+    "geom:area_square_m":1505381.838361,
     "geom:bbox":"18.6252289761,48.8584388575,18.6496736634,48.8827443549",
     "geom:latitude":48.87074,
     "geom:longitude":18.635907,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Nitrianske Pravno"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nitriansk\u00e9 Pravno"
     ],
     "name:deu_x_preferred":[
-        "Nitrianske Pravno"
-    ],
-    "name:dut_x_preferred":[
         "Nitrianske Pravno"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nitrianske Pravno"
     ],
-    "name:fre_x_preferred":[
-        "Nitrianske Pravno"
-    ],
-    "name:ger_x_preferred":[
-        "Nitrianske Pravno"
-    ],
     "name:hbs_x_preferred":[
         "Njitranske Pravno"
     ],
@@ -50,9 +41,6 @@
         "N\u00e9metpr\u00f3na"
     ],
     "name:ita_x_preferred":[
-        "Nitrianske Pravno"
-    ],
-    "name:may_x_preferred":[
         "Nitrianske Pravno"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Nitrianske Pravno"
     ],
     "name:slk_x_preferred":[
-        "Nitrianske Pravno"
-    ],
-    "name:slo_x_preferred":[
         "Nitrianske Pravno"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780223,
-    "wof:lastmodified":1527715873,
+    "wof:lastmodified":1561841717,
     "wof:name":"Nitrianske Pravno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

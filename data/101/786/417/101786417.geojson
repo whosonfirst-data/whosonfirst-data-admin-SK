@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":907388.826856,
+    "geom:area_square_m":907388.826855,
     "geom:bbox":"17.8207676063,48.0513471037,17.8389017133,48.0653287481",
     "geom:latitude":48.058458,
     "geom:longitude":17.829114,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
     "name:deu_x_preferred":[
-        "Kr\u00e1\u013eov Brod"
-    ],
-    "name:dut_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
         "Kr\u00e1\u013eov Brod"
     ],
     "name:fra_x_preferred":[
-        "Kr\u00e1\u013eov Brod"
-    ],
-    "name:fre_x_preferred":[
-        "Kr\u00e1\u013eov Brod"
-    ],
-    "name:ger_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
     "name:hbs_x_preferred":[
@@ -55,9 +46,6 @@
     "name:ita_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
-    "name:may_x_preferred":[
-        "Kr\u00e1\u013eov Brod"
-    ],
     "name:msa_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
@@ -70,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0451\u0432 \u0411\u0440\u043e\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":101786417,
-    "wof:lastmodified":1527715650,
+    "wof:lastmodified":1561841710,
     "wof:name":"Kr\u00e1\u013eov Brod",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

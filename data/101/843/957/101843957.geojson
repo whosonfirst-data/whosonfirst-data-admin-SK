@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
-    "name:cze_x_preferred":[
-        "Vy\u0161n\u00fd \u017dipov"
-    ],
     "name:deu_x_preferred":[
-        "Vy\u0161n\u00fd \u017dipov"
-    ],
-    "name:dut_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
-    "name:fre_x_preferred":[
-        "Vy\u0161n\u00fd \u017dipov"
-    ],
-    "name:ger_x_preferred":[
-        "Vy\u0161n\u00fd \u017dipov"
-    ],
     "name:hun_x_preferred":[
         "Tapolyizs\u00e9p"
     ],
     "name:ita_x_preferred":[
-        "Vy\u0161n\u00fd \u017dipov"
-    ],
-    "name:may_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101843957,
-    "wof:lastmodified":1527642595,
+    "wof:lastmodified":1561841691,
     "wof:name":"Vy\u0161n\u00fd \u017dipov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

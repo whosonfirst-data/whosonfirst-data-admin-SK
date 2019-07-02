@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":777787.891821,
+    "geom:area_square_m":777787.89182,
     "geom:bbox":"18.1986305838,47.9195960907,18.2144552366,47.9300233779",
     "geom:latitude":47.924805,
     "geom:longitude":18.206543,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Baj\u010d"
     ],
-    "name:cze_x_preferred":[
-        "Baj\u010d"
-    ],
     "name:deu_x_preferred":[
-        "Baj\u010d"
-    ],
-    "name:dut_x_preferred":[
         "Baj\u010d"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Baj\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Baj\u010d"
-    ],
-    "name:ger_x_preferred":[
-        "Baj\u010d"
-    ],
     "name:hun_x_preferred":[
         "Bajcs"
     ],
     "name:ita_x_preferred":[
-        "Baj\u010d"
-    ],
-    "name:may_x_preferred":[
         "Baj\u010d"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Baj\u010d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Baj\u010d"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101786305,
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561841710,
     "wof:name":"Baj\u010d",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

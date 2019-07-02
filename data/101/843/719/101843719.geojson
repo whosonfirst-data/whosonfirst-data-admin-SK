@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Horn\u00fd Bar"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00fd Bar"
-    ],
     "name:deu_x_preferred":[
-        "Horn\u00fd Bar"
-    ],
-    "name:dut_x_preferred":[
         "Horn\u00fd Bar"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Horn\u00fd Bar"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00fd Bar"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00fd Bar"
-    ],
     "name:hun_x_preferred":[
         "Felb\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Horn\u00fd Bar"
-    ],
-    "name:may_x_preferred":[
         "Horn\u00fd Bar"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Horn\u00fd Bar"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00fd Bar"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101843719,
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561841692,
     "wof:name":"Horn\u00fd Bar",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

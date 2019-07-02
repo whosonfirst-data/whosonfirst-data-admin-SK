@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ro\u017ekovany"
     ],
-    "name:cze_x_preferred":[
-        "Ro\u017ekovany"
-    ],
     "name:deu_x_preferred":[
-        "Ro\u017ekovany"
-    ],
-    "name:dut_x_preferred":[
         "Ro\u017ekovany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ro\u017ekovany"
     ],
-    "name:fre_x_preferred":[
-        "Ro\u017ekovany"
-    ],
-    "name:ger_x_preferred":[
-        "Ro\u017ekovany"
-    ],
     "name:hun_x_preferred":[
         "Roskov\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Ro\u017ekovany"
-    ],
-    "name:may_x_preferred":[
         "Ro\u017ekovany"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Ro\u017ekovany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ro\u017ekovany"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101843961,
-    "wof:lastmodified":1527642595,
+    "wof:lastmodified":1561841691,
     "wof:name":"Ro\u017ekovany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

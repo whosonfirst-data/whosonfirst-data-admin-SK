@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1076736.009501,
+    "geom:area_square_m":1076736.009502,
     "geom:bbox":"21.8439645838,48.7170688729,21.8652645975,48.7325669874",
     "geom:latitude":48.725094,
     "geom:longitude":21.85376,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Pozdi\u0161ovce"
     ],
-    "name:dut_x_preferred":[
-        "Pozdi\u0161ovce"
-    ],
     "name:eng_x_preferred":[
         "Pozdi\u0161ovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Pozdi\u0161ovce"
     ],
-    "name:fre_x_preferred":[
-        "Pozdi\u0161ovce"
-    ],
-    "name:ger_x_preferred":[
-        "Pozdi\u0161ovce"
-    ],
     "name:hun_x_preferred":[
         "Pazdics"
     ],
     "name:ita_x_preferred":[
-        "Pozdi\u0161ovce"
-    ],
-    "name:may_x_preferred":[
         "Pozdi\u0161ovce"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0437\u0434\u0438\u0448\u043e\u0432\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pozdi\u0161ovce"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":101780295,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Pozdi\u0161ovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

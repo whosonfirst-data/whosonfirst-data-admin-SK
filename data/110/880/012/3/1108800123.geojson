@@ -89,9 +89,6 @@
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u63d0\u65af\u62c9\u74e6"
-    ],
     "name:chi_x_variant":[
         "\u5e03\u62c9\u8fea\u65af\u62c9\u53d1"
     ],
@@ -185,9 +182,6 @@
     ],
     "name:gag_x_preferred":[
         "Bratislava"
-    ],
-    "name:ger_x_preferred":[
-        "Pressburg"
     ],
     "name:gla_x_preferred":[
         "Bratislava"
@@ -559,6 +553,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u8fea\u65af\u62c9\u53d1"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u62c9\u63d0\u65af\u62c9\u74e6"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5e03\u62c9\u8fea\u65af\u62c9\u767c"
     ],
@@ -615,7 +612,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536953835,
+    "wof:lastmodified":1561841685,
     "wof:megacity":0,
     "wof:name":"Bratislava",
     "wof:parent_id":102080459,

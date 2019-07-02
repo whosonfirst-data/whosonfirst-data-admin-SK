@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lokca"
     ],
-    "name:cze_x_preferred":[
-        "Lokca"
-    ],
     "name:deu_x_preferred":[
-        "Lokca"
-    ],
-    "name:dut_x_preferred":[
         "Lokca"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lokca"
     ],
-    "name:fre_x_preferred":[
-        "Lokca"
-    ],
-    "name:ger_x_preferred":[
-        "Lokca"
-    ],
     "name:hbs_x_preferred":[
         "Lokca"
     ],
@@ -53,9 +41,6 @@
         "Lokca"
     ],
     "name:ita_x_preferred":[
-        "Lokca"
-    ],
-    "name:may_x_preferred":[
         "Lokca"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u0141okcza"
     ],
     "name:slk_x_preferred":[
-        "Lokca"
-    ],
-    "name:slo_x_preferred":[
         "Lokca"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +112,7 @@
         }
     ],
     "wof:id":101860181,
-    "wof:lastmodified":1544745304,
+    "wof:lastmodified":1561841695,
     "wof:name":"Lokca",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

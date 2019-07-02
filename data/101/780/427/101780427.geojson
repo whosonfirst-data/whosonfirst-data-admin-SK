@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":847367.949654,
+    "geom:area_square_m":847367.949655,
     "geom:bbox":"21.2750432806,49.0450557421,21.2957723196,49.0583028828",
     "geom:latitude":49.051335,
     "geom:longitude":21.284701,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Fintice"
     ],
-    "name:cze_x_preferred":[
-        "Fintice"
-    ],
     "name:deu_x_preferred":[
-        "Fintice"
-    ],
-    "name:dut_x_preferred":[
         "Fintice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Fintice"
     ],
-    "name:fre_x_preferred":[
-        "Fintice"
-    ],
-    "name:ger_x_preferred":[
-        "Fintice"
-    ],
     "name:hun_x_preferred":[
         "Finta"
     ],
     "name:ita_x_preferred":[
-        "Fintice"
-    ],
-    "name:may_x_preferred":[
         "Fintice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "\u0424\u0456\u043d\u0442\u0457\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Fintice"
-    ],
-    "name:slo_x_preferred":[
         "Fintice"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Fintice",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

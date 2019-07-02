@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Kanianka"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kanianka"
     ],
     "name:deu_x_preferred":[
-        "Kanianka"
-    ],
-    "name:dut_x_preferred":[
         "Kanianka"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Kanianka"
     ],
-    "name:fre_x_preferred":[
-        "Kanianka"
-    ],
-    "name:ger_x_preferred":[
-        "Kanianka"
-    ],
     "name:hbs_x_preferred":[
         "Kanjanka"
     ],
@@ -50,9 +41,6 @@
         "K\u00e1nyahegy"
     ],
     "name:ita_x_preferred":[
-        "Kanianka"
-    ],
-    "name:may_x_preferred":[
         "Kanianka"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +56,6 @@
         "Kanianka"
     ],
     "name:slk_x_preferred":[
-        "Kanianka"
-    ],
-    "name:slo_x_preferred":[
         "Kanianka"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101781651,
-    "wof:lastmodified":1527715626,
+    "wof:lastmodified":1561841707,
     "wof:name":"Kanianka",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000969,
-    "geom:area_square_m":7986749.960824,
+    "geom:area_square_m":7986749.960821,
     "geom:bbox":"18.5770584111,48.1906328994,18.6340399734,48.2297537493",
     "geom:latitude":48.21215,
     "geom:longitude":18.602898,
@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Levice"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u7dad\u91c7"
-    ],
-    "name:cze_x_preferred":[
-        "Levice"
-    ],
     "name:dan_x_preferred":[
         "Levice"
     ],
     "name:deu_x_preferred":[
-        "Levice"
-    ],
-    "name:dut_x_preferred":[
         "Levice"
     ],
     "name:eng_x_preferred":[
@@ -59,10 +50,10 @@
     "name:est_x_preferred":[
         "Levice"
     ],
-    "name:fre_x_preferred":[
-        "Levice"
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06cc\u062a\u0633\u0647"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Levice"
     ],
     "name:heb_x_preferred":[
@@ -95,17 +86,17 @@
     "name:lit_x_preferred":[
         "Levic\u0117"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Levice"
     ],
     "name:nan_x_preferred":[
         "Levice"
     ],
+    "name:nld_x_preferred":[
+        "Levice"
+    ],
     "name:ota_x_preferred":[
         "\u0644\u0648\u0647"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Levice"
@@ -113,16 +104,10 @@
     "name:ron_x_preferred":[
         "Levice"
     ],
-    "name:rum_x_preferred":[
-        "Levice"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Levice"
-    ],
-    "name:slo_x_preferred":[
         "Levice"
     ],
     "name:spa_x_preferred":[
@@ -205,7 +190,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642596,
+    "wof:lastmodified":1561841691,
     "wof:name":"Levice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

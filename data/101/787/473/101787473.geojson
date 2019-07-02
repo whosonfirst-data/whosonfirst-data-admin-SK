@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Modrany"
     ],
-    "name:dut_x_preferred":[
-        "Modrany"
-    ],
     "name:eng_x_preferred":[
         "Modrany"
     ],
@@ -32,12 +29,6 @@
         "Modrany"
     ],
     "name:fra_x_preferred":[
-        "Modrany"
-    ],
-    "name:fre_x_preferred":[
-        "Modrany"
-    ],
-    "name:ger_x_preferred":[
         "Modrany"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Modrany"
     ],
-    "name:may_x_preferred":[
-        "Modrany"
-    ],
     "name:msa_x_preferred":[
         "Modrany"
     ],
@@ -59,9 +47,6 @@
         "Modrany"
     ],
     "name:slk_x_preferred":[
-        "Modrany"
-    ],
-    "name:slo_x_preferred":[
         "Modrany"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101787473,
-    "wof:lastmodified":1527715850,
+    "wof:lastmodified":1561841712,
     "wof:name":"Modrany",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

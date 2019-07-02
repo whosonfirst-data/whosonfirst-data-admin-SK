@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1156359.636558,
+    "geom:area_square_m":1156359.636557,
     "geom:bbox":"20.5465054634,49.2972479782,20.5694793139,49.3117378309",
     "geom:latitude":49.305937,
     "geom:longitude":20.560924,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Vy\u0161n\u00e9 Ru\u017ebachy"
     ],
-    "name:dut_x_preferred":[
-        "Vy\u0161n\u00e9 Ru\u017ebachy"
-    ],
     "name:eng_x_preferred":[
         "Vysne Ruzbachy"
     ],
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Vy\u0161n\u00e9 Ru\u017ebachy"
     ],
-    "name:fre_x_preferred":[
-        "Vy\u0161n\u00e9 Ru\u017ebachy"
-    ],
-    "name:ger_x_preferred":[
-        "Vy\u0161n\u00e9 Ru\u017ebachy"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151z\u00fag\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Vy\u0161n\u00e9 Ru\u017ebachy"
-    ],
-    "name:may_x_preferred":[
         "Vy\u0161n\u00e9 Ru\u017ebachy"
     ],
     "name:msa_x_preferred":[
@@ -68,7 +56,7 @@
     "name:rus_x_preferred":[
         "\u0412\u044b\u0448\u043d\u0435 \u0420\u0443\u0436\u0431\u0430\u0445\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vy\u0161n\u00e9 Ru\u017ebachy"
     ],
     "name:srp_x_preferred":[
@@ -147,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642602,
+    "wof:lastmodified":1561841693,
     "wof:name":"Vy\u0161n\u00e9 Ru\u017ebachy",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

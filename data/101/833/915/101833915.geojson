@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Vydrany"
     ],
-    "name:dut_x_preferred":[
-        "Vydrany"
-    ],
     "name:eng_x_preferred":[
         "Vydrany"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Vydrany"
     ],
-    "name:fre_x_preferred":[
-        "Vydrany"
-    ],
-    "name:ger_x_preferred":[
-        "Vydrany"
-    ],
     "name:hbs_x_preferred":[
         "Vidrani"
     ],
@@ -47,9 +38,6 @@
         "Nemesh\u00f3dos"
     ],
     "name:ita_x_preferred":[
-        "Vydrany"
-    ],
-    "name:may_x_preferred":[
         "Vydrany"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Vydrany"
     ],
     "name:slk_x_preferred":[
-        "Vydrany"
-    ],
-    "name:slo_x_preferred":[
         "Vydrany"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101833915,
-    "wof:lastmodified":1527642923,
+    "wof:lastmodified":1561841695,
     "wof:name":"Vydrany",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

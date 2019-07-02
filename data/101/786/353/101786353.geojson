@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Podh\u00e1jska"
     ],
-    "name:dut_x_preferred":[
-        "Podh\u00e1jska"
-    ],
     "name:eng_x_preferred":[
         "Podh\u00e1jska"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Podh\u00e1jska"
     ],
-    "name:fre_x_preferred":[
-        "Podh\u00e1jska"
-    ],
-    "name:ger_x_preferred":[
-        "Podh\u00e1jska"
-    ],
     "name:hbs_x_preferred":[
         "Podhajska"
     ],
@@ -47,9 +38,6 @@
         "Bellegszencse"
     ],
     "name:ita_x_preferred":[
-        "Podh\u00e1jska"
-    ],
-    "name:may_x_preferred":[
         "Podh\u00e1jska"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Podh\u00e1jska"
     ],
     "name:slk_x_preferred":[
-        "Podh\u00e1jska"
-    ],
-    "name:slo_x_preferred":[
         "Podh\u00e1jska"
     ],
     "name:spa_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786353,
-    "wof:lastmodified":1527715642,
+    "wof:lastmodified":1561841709,
     "wof:name":"Podh\u00e1jska",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

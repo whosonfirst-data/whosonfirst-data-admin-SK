@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Hriadky"
     ],
-    "name:cze_x_preferred":[
-        "Hriadky"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Hriadky"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Hriadky"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hriadky"
     ],
     "name:hun_x_preferred":[
@@ -42,7 +39,10 @@
     "name:ita_x_preferred":[
         "Hriadky"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Hriadky"
+    ],
+    "name:nld_x_preferred":[
         "Hriadky"
     ],
     "name:pol_x_preferred":[
@@ -51,7 +51,7 @@
     "name:rue_x_preferred":[
         "\u0413\u0440\u044f\u0434\u043a\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hriadky"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125894959,
-    "wof:lastmodified":1553816608,
+    "wof:lastmodified":1561841724,
     "wof:name":"Hriadky",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

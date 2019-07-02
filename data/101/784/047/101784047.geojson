@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":907307.675341,
+    "geom:area_square_m":907307.67534,
     "geom:bbox":"18.5565563489,48.4463901846,18.5683810967,48.4670266363",
     "geom:latitude":48.457372,
     "geom:longitude":18.561415,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00e1 Lehota"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e1 Lehota"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00e1 Lehota"
-    ],
     "name:hbs_x_preferred":[
         "Veljka Ljehota"
     ],
@@ -50,9 +41,6 @@
         "Nagy\u00fcl\u00e9s"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00e1 Lehota"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00e1 Lehota"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":101784047,
-    "wof:lastmodified":1527688538,
+    "wof:lastmodified":1561841704,
     "wof:name":"Ve\u013ek\u00e1 Lehota",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

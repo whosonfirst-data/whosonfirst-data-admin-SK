@@ -28,13 +28,13 @@
     "name:cat_x_preferred":[
         "Districte de Hlohovec"
     ],
+    "name:ces_x_preferred":[
+        "Okres Hlohovec"
+    ],
     "name:chv_x_preferred":[
         "\u0413\u043b\u043e\u0433\u043e\u0432\u0435\u0446 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Hlohovec"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Hlohovec"
     ],
     "name:eng_x_preferred":[
@@ -43,14 +43,8 @@
     "name:epo_x_preferred":[
         "Distrikto Hlohovec"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Hlohovec"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10da\u10dd\u10f0\u10dd\u10d5\u10d4\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Hlohovec"
     ],
     "name:hrv_x_preferred":[
         "Okrug Hlohovec"
@@ -61,17 +55,23 @@
     "name:ita_x_preferred":[
         "Distretto di Hlohovec"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10da\u10dd\u10f0\u10dd\u10d5\u10d4\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Hlohovec"
     ],
     "name:lav_x_preferred":[
         "Hlohovecas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Hlohovec"
     ],
     "name:nan_x_preferred":[
         "Hlohovec Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Hlohovec"
     ],
     "name:pol_x_preferred":[
         "Powiat Hlohovec"
@@ -79,16 +79,16 @@
     "name:por_x_preferred":[
         "Hlohovec"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Hlohovec"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0413\u043b\u043e\u0433\u043e\u0432\u0435\u0446\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Hlohovec"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u043e\u0433\u043e\u0432\u0435\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hlohovec"
     ],
     "name:spa_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102080481,
-    "wof:lastmodified":1553717229,
+    "wof:lastmodified":1561841677,
     "wof:name":"Hlohovec",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

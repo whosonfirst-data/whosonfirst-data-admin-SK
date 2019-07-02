@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1036890.831398,
+    "geom:area_square_m":1036890.831397,
     "geom:bbox":"18.2880468546,48.6172685763,18.3118736365,48.6281874244",
     "geom:latitude":48.622069,
     "geom:longitude":18.299597,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
     "name:deu_x_preferred":[
-        "\u017dabokreky nad Nitrou"
-    ],
-    "name:dut_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
-    "name:fre_x_preferred":[
-        "\u017dabokreky nad Nitrou"
-    ],
-    "name:ger_x_preferred":[
-        "\u017dabokreky nad Nitrou"
-    ],
     "name:hbs_x_preferred":[
         "\u017dabokreki na Njitri"
     ],
@@ -50,9 +41,6 @@
         "Nyitrazs\u00e1mbokr\u00e9t"
     ],
     "name:ita_x_preferred":[
-        "\u017dabokreky nad Nitrou"
-    ],
-    "name:may_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "\u017dabokreky nad Nitrou"
     ],
     "name:slk_x_preferred":[
-        "\u017dabokreky nad Nitrou"
-    ],
-    "name:slo_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101784079,
-    "wof:lastmodified":1527688537,
+    "wof:lastmodified":1561841704,
     "wof:name":"\u017dabokreky nad Nitrou",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

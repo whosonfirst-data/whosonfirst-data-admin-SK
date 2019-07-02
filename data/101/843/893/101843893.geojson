@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
-    "name:cze_x_preferred":[
-        "Spi\u0161sk\u00fd Hru\u0161ov"
-    ],
     "name:deu_x_preferred":[
-        "Spi\u0161sk\u00fd Hru\u0161ov"
-    ],
-    "name:dut_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
-    "name:fre_x_preferred":[
-        "Spi\u0161sk\u00fd Hru\u0161ov"
-    ],
-    "name:ger_x_preferred":[
-        "Spi\u0161sk\u00fd Hru\u0161ov"
-    ],
     "name:hun_x_preferred":[
         "Szepesk\u00f6rtv\u00e9lyes"
     ],
     "name:ita_x_preferred":[
-        "Spi\u0161sk\u00fd Hru\u0161ov"
-    ],
-    "name:may_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101843893,
-    "wof:lastmodified":1527642593,
+    "wof:lastmodified":1561841690,
     "wof:name":"Spi\u0161sk\u00fd Hru\u0161ov",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

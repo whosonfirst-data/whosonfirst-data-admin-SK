@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":5713074.500734,
+    "geom:area_square_m":5713074.500735,
     "geom:bbox":"17.7812910107,48.4162371835,17.8296514573,48.4456970937",
     "geom:latitude":48.430085,
     "geom:longitude":17.806833,
@@ -29,19 +29,10 @@
     "name:ces_x_preferred":[
         "Hlohovec"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u6d1b\u970d\u97cb\u8328"
-    ],
-    "name:cze_x_preferred":[
-        "Hlohovec"
-    ],
     "name:dan_x_preferred":[
         "Hlohovec"
     ],
     "name:deu_x_preferred":[
-        "Hlohovec"
-    ],
-    "name:dut_x_preferred":[
         "Hlohovec"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +41,10 @@
     "name:epo_x_preferred":[
         "Hlohovec"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0647\u0648\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
-        "Hlohovec"
-    ],
-    "name:fre_x_preferred":[
-        "Hlohovec"
-    ],
-    "name:ger_x_preferred":[
         "Hlohovec"
     ],
     "name:hrv_x_preferred":[
@@ -86,14 +74,14 @@
     "name:lit_x_preferred":[
         "Hlohovecas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hlohovec"
     ],
     "name:nan_x_preferred":[
         "Hlohovec"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0644\u0647\u0648\u062a\u0633"
+    "name:nld_x_preferred":[
+        "Hlohovec"
     ],
     "name:pol_x_preferred":[
         "Hlohovec"
@@ -101,16 +89,10 @@
     "name:ron_x_preferred":[
         "Hlohovec"
     ],
-    "name:rum_x_preferred":[
-        "Hlohovec"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u043e\u0433\u043e\u0432\u0435\u0446"
     ],
     "name:slk_x_preferred":[
-        "Hlohovec"
-    ],
-    "name:slo_x_preferred":[
         "Hlohovec"
     ],
     "name:spa_x_preferred":[
@@ -133,6 +115,9 @@
     ],
     "name:war_x_preferred":[
         "Hlohovec"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u6d1b\u970d\u97cb\u8328"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -187,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Hlohovec",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

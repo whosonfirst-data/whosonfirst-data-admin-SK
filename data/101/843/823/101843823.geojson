@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Medzibrod"
     ],
-    "name:cze_x_preferred":[
-        "Medzibrod"
-    ],
     "name:deu_x_preferred":[
-        "Medzibrod"
-    ],
-    "name:dut_x_preferred":[
         "Medzibrod"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Medzibrod"
     ],
-    "name:fre_x_preferred":[
-        "Medzibrod"
-    ],
-    "name:ger_x_preferred":[
-        "Medzibrod"
-    ],
     "name:hbs_x_preferred":[
         "Medzibrod"
     ],
@@ -53,9 +41,6 @@
         "Mez\u0151k\u00f6z"
     ],
     "name:ita_x_preferred":[
-        "Medzibrod"
-    ],
-    "name:may_x_preferred":[
         "Medzibrod"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Medzibrod"
     ],
     "name:slk_x_preferred":[
-        "Medzibrod"
-    ],
-    "name:slo_x_preferred":[
         "Medzibrod"
     ],
     "name:srp_x_preferred":[
@@ -144,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642597,
+    "wof:lastmodified":1561841692,
     "wof:name":"Medzibrod",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

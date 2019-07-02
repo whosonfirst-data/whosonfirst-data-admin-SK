@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":638123.187422,
+    "geom:area_square_m":638123.187423,
     "geom:bbox":"18.4489406516,48.3342729782,18.4659380399,48.3429963868",
     "geom:latitude":48.33868,
     "geom:longitude":18.456661,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Volkovce"
     ],
-    "name:cze_x_preferred":[
-        "Volkovce"
-    ],
     "name:deu_x_preferred":[
-        "Volkovce"
-    ],
-    "name:dut_x_preferred":[
         "Volkovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Volkovce"
     ],
-    "name:fre_x_preferred":[
-        "Volkovce"
-    ],
-    "name:ger_x_preferred":[
-        "Volkovce"
-    ],
     "name:hbs_x_preferred":[
         "Volkovce"
     ],
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Volkovce"
     ],
-    "name:may_x_preferred":[
-        "Volkovce"
-    ],
     "name:msa_x_preferred":[
         "Volkovce"
     ],
@@ -65,9 +50,6 @@
         "Volkovce"
     ],
     "name:slk_x_preferred":[
-        "Volkovce"
-    ],
-    "name:slo_x_preferred":[
         "Volkovce"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +104,7 @@
         }
     ],
     "wof:id":101785273,
-    "wof:lastmodified":1527677693,
+    "wof:lastmodified":1561841697,
     "wof:name":"Volkovce",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

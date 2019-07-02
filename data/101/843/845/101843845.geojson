@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1166416.672595,
+    "geom:area_square_m":1166416.672596,
     "geom:bbox":"17.9481481489,48.8858089846,17.9686451374,48.9032500224",
     "geom:latitude":48.893171,
     "geom:longitude":17.957928,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Drietoma"
     ],
-    "name:cze_x_preferred":[
-        "Drietoma"
-    ],
     "name:deu_x_preferred":[
-        "Drietoma"
-    ],
-    "name:dut_x_preferred":[
         "Drietoma"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Drietoma"
     ],
-    "name:fre_x_preferred":[
-        "Drietoma"
-    ],
-    "name:ger_x_preferred":[
-        "Drietoma"
-    ],
     "name:hbs_x_preferred":[
         "Drjetoma"
     ],
@@ -53,9 +41,6 @@
         "Dr\u00e9toma"
     ],
     "name:ita_x_preferred":[
-        "Drietoma"
-    ],
-    "name:may_x_preferred":[
         "Drietoma"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Drietoma"
     ],
     "name:slk_x_preferred":[
-        "Drietoma"
-    ],
-    "name:slo_x_preferred":[
         "Drietoma"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101843845,
-    "wof:lastmodified":1527642590,
+    "wof:lastmodified":1561841689,
     "wof:name":"Drietoma",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

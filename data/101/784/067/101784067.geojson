@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Krn\u010da"
     ],
-    "name:cze_x_preferred":[
-        "Krn\u010da"
-    ],
     "name:deu_x_preferred":[
-        "Krn\u010da"
-    ],
-    "name:dut_x_preferred":[
         "Krn\u010da"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Krn\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Krn\u010da"
-    ],
-    "name:ger_x_preferred":[
-        "Krn\u010da"
-    ],
     "name:hbs_x_preferred":[
         "Krn\u010da"
     ],
@@ -55,16 +43,13 @@
     "name:ita_x_preferred":[
         "Krn\u010da"
     ],
-    "name:may_x_preferred":[
-        "Krn\u010da"
-    ],
     "name:msa_x_preferred":[
         "Krn\u010da"
     ],
     "name:nld_x_preferred":[
         "Krn\u010da"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Krn\u010da"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101784067,
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561841706,
     "wof:name":"Krn\u010da",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Dechtice"
     ],
-    "name:cze_x_preferred":[
-        "Dechtice"
-    ],
     "name:deu_x_preferred":[
-        "Dechtice"
-    ],
-    "name:dut_x_preferred":[
         "Dechtice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Dechtice"
     ],
-    "name:fre_x_preferred":[
-        "Dechtice"
-    ],
-    "name:ger_x_preferred":[
-        "Dechtice"
-    ],
     "name:hbs_x_preferred":[
         "Djehtice"
     ],
@@ -53,9 +41,6 @@
         "Dejte"
     ],
     "name:ita_x_preferred":[
-        "Dechtice"
-    ],
-    "name:may_x_preferred":[
         "Dechtice"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Dechtice"
     ],
     "name:slk_x_preferred":[
-        "Dechtice"
-    ],
-    "name:slo_x_preferred":[
         "Dechtice"
     ],
     "name:srp_x_preferred":[
@@ -138,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688544,
+    "wof:lastmodified":1561841705,
     "wof:name":"Dechtice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

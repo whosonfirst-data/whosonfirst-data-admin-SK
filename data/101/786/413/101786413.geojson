@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Jelka"
     ],
-    "name:dut_x_preferred":[
-        "Jelka"
-    ],
     "name:eng_x_preferred":[
         "Jelka"
     ],
@@ -35,12 +32,6 @@
         "Jelka"
     ],
     "name:fra_x_preferred":[
-        "Jelka"
-    ],
-    "name:fre_x_preferred":[
-        "Jelka"
-    ],
-    "name:ger_x_preferred":[
         "Jelka"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Jelka"
     ],
-    "name:may_x_preferred":[
-        "Jelka"
-    ],
     "name:msa_x_preferred":[
         "Jelka"
     ],
@@ -62,9 +50,6 @@
         "Jelka"
     ],
     "name:slk_x_preferred":[
-        "Jelka"
-    ],
-    "name:slo_x_preferred":[
         "Jelka"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786413,
-    "wof:lastmodified":1527715644,
+    "wof:lastmodified":1561841709,
     "wof:name":"Jelka",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

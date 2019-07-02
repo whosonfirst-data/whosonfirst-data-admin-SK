@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
-    "name:cze_x_preferred":[
-        "Nedo\u017eery-Brezany"
-    ],
     "name:deu_x_preferred":[
-        "Nedo\u017eery-Brezany"
-    ],
-    "name:dut_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
-    "name:fre_x_preferred":[
-        "Nedo\u017eery-Brezany"
-    ],
-    "name:ger_x_preferred":[
-        "Nedo\u017eery-Brezany"
-    ],
     "name:hbs_x_preferred":[
         "Njedo\u017eeri-Brezani"
     ],
@@ -53,9 +41,6 @@
         "N\u00e1das\u00e9rberzseny"
     ],
     "name:ita_x_preferred":[
-        "Nedo\u017eery-Brezany"
-    ],
-    "name:may_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:slk_x_preferred":[
         "Nedo\u017eery - Brezany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Nedo\u017eery-Brezany"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101781655,
-    "wof:lastmodified":1527715630,
+    "wof:lastmodified":1561841708,
     "wof:name":"Nedo\u017eery - Brezany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

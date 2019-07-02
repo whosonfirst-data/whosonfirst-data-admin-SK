@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "K\u00e1lnica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "K\u00e1lnica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "K\u00e1lnica"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "K\u00e1lnica"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e1lnica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "K\u00e1lnica"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "K\u00e1lnica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "K\u00e1lnica"
+    ],
+    "name:nld_x_preferred":[
         "K\u00e1lnica"
     ],
     "name:pol_x_preferred":[
         "K\u00e1lnica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "K\u00e1lnica"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1126042265,
-    "wof:lastmodified":1514505152,
+    "wof:lastmodified":1561841721,
     "wof:name":"K\u00e1lnica",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0006,
-    "geom:area_square_m":4945610.006359,
+    "geom:area_square_m":4945610.00636,
     "geom:bbox":"17.7034053396,48.1786825773,17.7478218896,48.2093607037",
     "geom:latitude":48.192235,
     "geom:longitude":17.726289,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0644\u0646\u062a\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0533\u0561\u056c\u0561\u0576\u057f\u0561"
     ],
     "name:aze_x_preferred":[
         "Q\u0430l\u0430nt\u0430"
@@ -38,16 +35,7 @@
     "name:ces_x_preferred":[
         "Galanta"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u862d\u5854"
-    ],
-    "name:cze_x_preferred":[
-        "Galanta"
-    ],
     "name:deu_x_preferred":[
-        "Galanta"
-    ],
-    "name:dut_x_preferred":[
         "Galanta"
     ],
     "name:eng_x_preferred":[
@@ -59,13 +47,13 @@
     "name:est_x_preferred":[
         "Galanta"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0644\u0627\u0646\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Gal\u00e1nta"
     ],
-    "name:fre_x_preferred":[
-        "Galanta"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Galanta"
     ],
     "name:heb_x_preferred":[
@@ -76,6 +64,9 @@
     ],
     "name:hun_x_preferred":[
         "Gal\u00e1nta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u056c\u0561\u0576\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Galanta"
@@ -95,14 +86,14 @@
     "name:lit_x_preferred":[
         "Galanta"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Galanta"
     ],
     "name:nan_x_preferred":[
         "Galanta"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u0644\u0627\u0646\u062a\u0627"
+    "name:nld_x_preferred":[
+        "Galanta"
     ],
     "name:pol_x_preferred":[
         "Galanta"
@@ -113,16 +104,10 @@
     "name:ron_x_preferred":[
         "Galanta"
     ],
-    "name:rum_x_preferred":[
-        "Galanta"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043d\u0442\u0430"
     ],
     "name:slk_x_preferred":[
-        "Galanta"
-    ],
-    "name:slo_x_preferred":[
         "Galanta"
     ],
     "name:spa_x_preferred":[
@@ -145,6 +130,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d2\u05d0\u05dc\u05d0\u05e0\u05d8\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u862d\u5854"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -195,7 +183,7 @@
         }
     ],
     "wof:id":101783947,
-    "wof:lastmodified":1527688498,
+    "wof:lastmodified":1561841703,
     "wof:name":"Galanta",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

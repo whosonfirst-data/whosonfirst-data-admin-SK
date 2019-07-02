@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kri\u017eovany nad Dudv\u00e1hom"
     ],
-    "name:cze_x_preferred":[
-        "Kri\u017eovany nad Dudv\u00e1hom"
-    ],
     "name:deu_x_preferred":[
-        "Kri\u017eovany nad Dudv\u00e1hom"
-    ],
-    "name:dut_x_preferred":[
         "Kri\u017eovany nad Dudv\u00e1hom"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kri\u017eovany nad Dudv\u00e1hom"
     ],
-    "name:fre_x_preferred":[
-        "Kri\u017eovany nad Dudv\u00e1hom"
-    ],
-    "name:ger_x_preferred":[
-        "Kri\u017eovany nad Dudv\u00e1hom"
-    ],
     "name:hun_x_preferred":[
         "V\u00e1gkereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "Kri\u017eovany nad Dudv\u00e1hom"
-    ],
-    "name:may_x_preferred":[
         "Kri\u017eovany nad Dudv\u00e1hom"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "Kri\u017eovany nad Dudv\u00e1hom"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kri\u017eovany nad Dudv\u00e1hom"
     ],
     "name:srp_x_preferred":[
@@ -136,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642925,
+    "wof:lastmodified":1561841695,
     "wof:name":"Kri\u017eovany nad Dudv\u00e1hom",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

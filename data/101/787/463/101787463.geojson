@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2044247.691255,
+    "geom:area_square_m":2044247.691256,
     "geom:bbox":"17.8491681263,47.8031402143,17.8866885715,47.817157936",
     "geom:latitude":47.809388,
     "geom:longitude":17.8686,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zemianska Ol\u010da"
     ],
-    "name:cze_x_preferred":[
-        "Zemianska Ol\u010da"
-    ],
     "name:deu_x_preferred":[
-        "Zemianska Ol\u010da"
-    ],
-    "name:dut_x_preferred":[
         "Zemianska Ol\u010da"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Zemianska Ol\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Zemianska Ol\u010da"
-    ],
-    "name:ger_x_preferred":[
-        "Zemianska Ol\u010da"
-    ],
     "name:hbs_x_preferred":[
         "Zemjanska Ol\u010da"
     ],
@@ -53,9 +41,6 @@
         "Nemes\u00f3csa"
     ],
     "name:ita_x_preferred":[
-        "Zemianska Ol\u010da"
-    ],
-    "name:may_x_preferred":[
         "Zemianska Ol\u010da"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Zemianska Ol\u010da"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zemianska Ol\u010da"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101787463,
-    "wof:lastmodified":1527715845,
+    "wof:lastmodified":1561841711,
     "wof:name":"Zemianska Ol\u010da",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

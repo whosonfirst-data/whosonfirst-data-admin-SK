@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd Biel"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:nan_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
     "name:por_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1126007807,
-    "wof:lastmodified":1514505340,
+    "wof:lastmodified":1561841728,
     "wof:name":"Vel\u0315k\u00fd Biel",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

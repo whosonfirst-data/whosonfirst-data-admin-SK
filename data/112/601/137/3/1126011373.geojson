@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Doma\u0148ovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Doma\u0148ovce"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Doma\u0148ovce"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Doma\u0148ovce"
     ],
-    "name:fre_x_preferred":[
-        "Doma\u0148ovce"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Doma\u0148ovce"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "Doma\u0148ovce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Doma\u0148ovce"
     ],
     "name:nan_x_preferred":[
         "Doma\u0148ovce"
     ],
+    "name:nld_x_preferred":[
+        "Doma\u0148ovce"
+    ],
     "name:pol_x_preferred":[
         "Doma\u0148ovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doma\u0148ovce"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1126011373,
-    "wof:lastmodified":1514505084,
+    "wof:lastmodified":1561841727,
     "wof:name":"Domanovce",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

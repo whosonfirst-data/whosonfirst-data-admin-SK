@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bor\u0161a"
     ],
-    "name:cze_x_preferred":[
-        "Bor\u0161a"
-    ],
     "name:deu_x_preferred":[
-        "Bor\u0161a"
-    ],
-    "name:dut_x_preferred":[
         "Bor\u0161a"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Bor\u0161a"
     ],
-    "name:fre_x_preferred":[
-        "Bor\u0161a"
-    ],
-    "name:ger_x_preferred":[
-        "Bor\u0161a"
-    ],
     "name:hun_x_preferred":[
         "Borsi"
     ],
     "name:ita_x_preferred":[
-        "Bor\u0161a"
-    ],
-    "name:may_x_preferred":[
         "Bor\u0161a"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0448\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bor\u0161a"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782875,
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561841700,
     "wof:name":"Bor\u0161a",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

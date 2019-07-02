@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":647940.922152,
+    "geom:area_square_m":647940.922154,
     "geom:bbox":"19.4326022578,49.3831092511,19.4459331248,49.4018472055",
     "geom:latitude":49.389389,
     "geom:longitude":19.438049,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
-    "name:cze_x_preferred":[
-        "Oravsk\u00e1 Jasenica"
-    ],
     "name:deu_x_preferred":[
-        "Oravsk\u00e1 Jasenica"
-    ],
-    "name:dut_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
-    "name:fre_x_preferred":[
-        "Oravsk\u00e1 Jasenica"
-    ],
-    "name:ger_x_preferred":[
-        "Oravsk\u00e1 Jasenica"
-    ],
     "name:hun_x_preferred":[
         "Jaszenica"
     ],
     "name:ita_x_preferred":[
-        "Oravsk\u00e1 Jasenica"
-    ],
-    "name:may_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Jasienica Orawska"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101847823,
-    "wof:lastmodified":1527714976,
+    "wof:lastmodified":1561841706,
     "wof:name":"Oravsk\u00e1 Jasenica",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1963816.173025,
+    "geom:area_square_m":1963816.173027,
     "geom:bbox":"18.3957284513,49.2050813813,18.4328134621,49.2430769756",
     "geom:latitude":49.227116,
     "geom:longitude":18.413841,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Papradno"
     ],
-    "name:cze_x_preferred":[
-        "Papradno"
-    ],
     "name:deu_x_preferred":[
-        "Papradno"
-    ],
-    "name:dut_x_preferred":[
         "Papradno"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Papradno"
     ],
-    "name:fre_x_preferred":[
-        "Papradno"
-    ],
-    "name:ger_x_preferred":[
-        "Papradno"
-    ],
     "name:hbs_x_preferred":[
         "Papradno"
     ],
@@ -53,9 +41,6 @@
         "Kos\u00e1rfalva"
     ],
     "name:ita_x_preferred":[
-        "Papradno"
-    ],
-    "name:may_x_preferred":[
         "Papradno"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Papradno"
     ],
     "name:slk_x_preferred":[
-        "Papradno"
-    ],
-    "name:slo_x_preferred":[
         "Papradno"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780867,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841715,
     "wof:name":"Papradno",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

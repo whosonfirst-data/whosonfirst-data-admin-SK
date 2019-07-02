@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Jasov\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Jasov\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Jasov\u00e1"
     ],
@@ -32,12 +29,6 @@
         "Jasov\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Jasov\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Jasov\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Jasov\u00e1"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Jasov\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Jasov\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Jasov\u00e1"
     ],
@@ -59,9 +47,6 @@
         "Jasov\u00e1"
     ],
     "name:slk_x_preferred":[
-        "Jasov\u00e1"
-    ],
-    "name:slo_x_preferred":[
         "Jasov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101786333,
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561841710,
     "wof:name":"Jasov\u00e1",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

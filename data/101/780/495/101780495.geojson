@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ostrovany"
     ],
-    "name:cze_x_preferred":[
-        "Ostrovany"
-    ],
     "name:deu_x_preferred":[
-        "Ostrovany"
-    ],
-    "name:dut_x_preferred":[
         "Ostrovany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ostrovany"
     ],
-    "name:fre_x_preferred":[
-        "Ostrovany"
-    ],
-    "name:ger_x_preferred":[
-        "Ostrovany"
-    ],
     "name:hbs_x_preferred":[
         "Ostrovani"
     ],
@@ -53,9 +41,6 @@
         "Osztr\u00f3patak"
     ],
     "name:ita_x_preferred":[
-        "Ostrovany"
-    ],
-    "name:may_x_preferred":[
         "Ostrovany"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Ostrovany"
     ],
     "name:slk_x_preferred":[
-        "Ostrovany"
-    ],
-    "name:slo_x_preferred":[
         "Ostrovany"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +114,7 @@
         }
     ],
     "wof:id":101780495,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Ostrovany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

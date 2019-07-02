@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1605269.766499,
+    "geom:area_square_m":1605269.7665,
     "geom:bbox":"17.3921304069,48.3461630673,17.4172827896,48.3690730193",
     "geom:latitude":48.357817,
     "geom:longitude":17.406083,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Budmerice"
     ],
-    "name:cze_x_preferred":[
-        "Budmerice"
-    ],
     "name:deu_x_preferred":[
-        "Budmerice"
-    ],
-    "name:dut_x_preferred":[
         "Budmerice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Budmerice"
     ],
-    "name:fre_x_preferred":[
-        "Budmerice"
-    ],
-    "name:ger_x_preferred":[
-        "Budmerice"
-    ],
     "name:hbs_x_preferred":[
         "Budmerice"
     ],
@@ -53,9 +41,6 @@
         "Gidrafa"
     ],
     "name:ita_x_preferred":[
-        "Budmerice"
-    ],
-    "name:may_x_preferred":[
         "Budmerice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Budmerice"
     ],
     "name:slk_x_preferred":[
-        "Budmerice"
-    ],
-    "name:slo_x_preferred":[
         "Budmerice"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101785207,
-    "wof:lastmodified":1527684901,
+    "wof:lastmodified":1561841698,
     "wof:name":"Budmerice",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

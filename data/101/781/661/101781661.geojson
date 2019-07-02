@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1136534.457195,
+    "geom:area_square_m":1136534.457196,
     "geom:bbox":"18.4703222081,48.7875865174,18.4817374025,48.81378462",
     "geom:latitude":48.798848,
     "geom:longitude":18.476712,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Nitrianske Rudno"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nitrianske Rudno"
     ],
     "name:deu_x_preferred":[
-        "Nitrianske Rudno"
-    ],
-    "name:dut_x_preferred":[
         "Nitrianske Rudno"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nitrianske Rudno"
     ],
-    "name:fre_x_preferred":[
-        "Nitrianske Rudno"
-    ],
-    "name:ger_x_preferred":[
-        "Nitrianske Rudno"
-    ],
     "name:hbs_x_preferred":[
         "Njitranske Rudno"
     ],
@@ -50,9 +41,6 @@
         "Div\u00e9krudn\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Nitrianske Rudno"
-    ],
-    "name:may_x_preferred":[
         "Nitrianske Rudno"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Nitrianske Rudno"
     ],
     "name:slk_x_preferred":[
-        "Nitrianske Rudno"
-    ],
-    "name:slo_x_preferred":[
         "Nitrianske Rudno"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101781661,
-    "wof:lastmodified":1553815497,
+    "wof:lastmodified":1561841707,
     "wof:name":"Nitrianske Rudno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

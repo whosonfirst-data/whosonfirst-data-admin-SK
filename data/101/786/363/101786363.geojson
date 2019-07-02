@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kolta"
     ],
-    "name:cze_x_preferred":[
-        "Kolta"
-    ],
     "name:deu_x_preferred":[
-        "Kolta"
-    ],
-    "name:dut_x_preferred":[
         "Kolta"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Kolta"
     ],
     "name:fra_x_preferred":[
-        "Kolta"
-    ],
-    "name:fre_x_preferred":[
-        "Kolta"
-    ],
-    "name:ger_x_preferred":[
         "Kolta"
     ],
     "name:hbs_x_preferred":[
@@ -58,9 +46,6 @@
     "name:ita_x_preferred":[
         "Kolta"
     ],
-    "name:may_x_preferred":[
-        "Kolta"
-    ],
     "name:msa_x_preferred":[
         "Kolta"
     ],
@@ -71,9 +56,6 @@
         "Kolta"
     ],
     "name:slk_x_preferred":[
-        "Kolta"
-    ],
-    "name:slo_x_preferred":[
         "Kolta"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101786363,
-    "wof:lastmodified":1527715643,
+    "wof:lastmodified":1561841709,
     "wof:name":"Kolta",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

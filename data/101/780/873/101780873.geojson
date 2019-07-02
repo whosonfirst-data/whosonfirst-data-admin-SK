@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":1425470.434647,
+    "geom:area_square_m":1425470.434646,
     "geom:bbox":"18.9266103281,49.3255689804,18.9737124087,49.352118693",
     "geom:latitude":49.342771,
     "geom:longitude":18.944304,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Star\u00e1 Bystrica"
     ],
-    "name:cze_x_preferred":[
-        "Star\u00e1 Bystrica"
-    ],
     "name:deu_x_preferred":[
-        "Star\u00e1 Bystrica"
-    ],
-    "name:dut_x_preferred":[
         "Star\u00e1 Bystrica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Star\u00e1 Bystrica"
     ],
-    "name:fre_x_preferred":[
-        "Star\u00e1 Bystrica"
-    ],
-    "name:ger_x_preferred":[
-        "Star\u00e1 Bystrica"
-    ],
     "name:hun_x_preferred":[
         "\u00d3beszterce"
     ],
     "name:ita_x_preferred":[
-        "Star\u00e1 Bystrica"
-    ],
-    "name:may_x_preferred":[
         "Star\u00e1 Bystrica"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Star\u00e1 Bystrica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Star\u00e1 Bystrica"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101780873,
-    "wof:lastmodified":1527715866,
+    "wof:lastmodified":1561841713,
     "wof:name":"Star\u00e1 Bystrica",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

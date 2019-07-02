@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Slovinky"
     ],
-    "name:cze_x_preferred":[
-        "Slovinky"
-    ],
     "name:deu_x_preferred":[
-        "Slovinky"
-    ],
-    "name:dut_x_preferred":[
         "Slovinky"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Slovinky"
     ],
-    "name:fre_x_preferred":[
-        "Slovinky"
-    ],
-    "name:ger_x_preferred":[
-        "Slovinky"
-    ],
     "name:hbs_x_preferred":[
         "Slovinki"
     ],
@@ -53,9 +41,6 @@
         "Szal\u00e1nk"
     ],
     "name:ita_x_preferred":[
-        "Slovinky"
-    ],
-    "name:may_x_preferred":[
         "Slovinky"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "\u0421\u043b\u043e\u0432\u0456\u043d\u043a\u044b"
     ],
     "name:slk_x_preferred":[
-        "Slovinky"
-    ],
-    "name:slo_x_preferred":[
         "Slovinky"
     ],
     "name:srp_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101780261,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Slovinky",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

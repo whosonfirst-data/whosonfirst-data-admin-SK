@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "K\u00e1tlovce"
     ],
-    "name:cze_x_preferred":[
-        "K\u00e1tlovce"
-    ],
     "name:deu_x_preferred":[
-        "K\u00e1tlovce"
-    ],
-    "name:dut_x_preferred":[
         "K\u00e1tlovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "K\u00e1tlovce"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e1tlovce"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00e1tlovce"
-    ],
     "name:hun_x_preferred":[
         "K\u00e1tl\u00f3"
     ],
     "name:ita_x_preferred":[
-        "K\u00e1tlovce"
-    ],
-    "name:may_x_preferred":[
         "K\u00e1tlovce"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "K\u00e1tlovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "K\u00e1tlovce"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688544,
+    "wof:lastmodified":1561841705,
     "wof:name":"K\u00e1tlovce",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

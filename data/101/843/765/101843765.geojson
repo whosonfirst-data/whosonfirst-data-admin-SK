@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1186559.423565,
+    "geom:area_square_m":1186559.423564,
     "geom:bbox":"18.8741190105,48.1618332802,18.9021720074,48.1734052226",
     "geom:latitude":48.168052,
     "geom:longitude":18.885707,
@@ -33,16 +33,7 @@
     "name:ces_x_preferred":[
         "Dudince"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u4e01\u897f"
-    ],
-    "name:cze_x_preferred":[
-        "Dudince"
-    ],
     "name:deu_x_preferred":[
-        "Dudince"
-    ],
-    "name:dut_x_preferred":[
         "Dudince"
     ],
     "name:eng_x_preferred":[
@@ -55,12 +46,6 @@
         "\u062f\u0648\u062f\u06cc\u0646\u062a\u0633"
     ],
     "name:fra_x_preferred":[
-        "Dudince"
-    ],
-    "name:fre_x_preferred":[
-        "Dudince"
-    ],
-    "name:ger_x_preferred":[
         "Dudince"
     ],
     "name:hbs_x_preferred":[
@@ -84,9 +69,6 @@
     "name:lav_x_preferred":[
         "Dudince"
     ],
-    "name:may_x_preferred":[
-        "Dudince"
-    ],
     "name:msa_x_preferred":[
         "Dudince"
     ],
@@ -95,9 +77,6 @@
     ],
     "name:nld_x_preferred":[
         "Dudince"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u062f\u06cc\u0646\u062a\u0633"
     ],
     "name:pol_x_preferred":[
         "Dudince"
@@ -108,16 +87,10 @@
     "name:ron_x_preferred":[
         "Dudince"
     ],
-    "name:rum_x_preferred":[
-        "Dudince"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0434\u0438\u043d\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Dudince"
-    ],
-    "name:slo_x_preferred":[
         "Dudince"
     ],
     "name:spa_x_preferred":[
@@ -194,7 +167,7 @@
         }
     ],
     "wof:id":101843765,
-    "wof:lastmodified":1527642589,
+    "wof:lastmodified":1561841689,
     "wof:name":"Dudince",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

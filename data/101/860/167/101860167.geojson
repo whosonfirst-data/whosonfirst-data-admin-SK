@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Povina"
     ],
-    "name:cze_x_preferred":[
-        "Povina"
-    ],
     "name:deu_x_preferred":[
-        "Povina"
-    ],
-    "name:dut_x_preferred":[
         "Povina"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Povina"
     ],
-    "name:fre_x_preferred":[
-        "Povina"
-    ],
-    "name:ger_x_preferred":[
-        "Povina"
-    ],
     "name:hbs_x_preferred":[
         "Povina"
     ],
@@ -53,9 +41,6 @@
         "Gerebes"
     ],
     "name:ita_x_preferred":[
-        "Povina"
-    ],
-    "name:may_x_preferred":[
         "Povina"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Povina"
     ],
     "name:slk_x_preferred":[
-        "Povina"
-    ],
-    "name:slo_x_preferred":[
         "Povina"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +109,7 @@
         }
     ],
     "wof:id":101860167,
-    "wof:lastmodified":1544745297,
+    "wof:lastmodified":1561841694,
     "wof:name":"Povina",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

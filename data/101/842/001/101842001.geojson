@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Skalit\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Skalit\u00e9"
-    ],
     "name:deu_x_preferred":[
-        "Skalit\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Skalit\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Skalit\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Skalit\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Skalit\u00e9"
-    ],
     "name:hbs_x_preferred":[
         "Skalitje"
     ],
@@ -53,9 +41,6 @@
         "Sziklaszoros"
     ],
     "name:ita_x_preferred":[
-        "Skalit\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Skalit\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:pol_x_preferred":[
         "Skalit\u00e9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Skalit\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101842001,
-    "wof:lastmodified":1527642324,
+    "wof:lastmodified":1561841688,
     "wof:name":"Skalit\u00e9",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

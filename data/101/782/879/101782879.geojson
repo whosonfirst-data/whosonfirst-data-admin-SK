@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":2632215.624893,
+    "geom:area_square_m":2632215.624895,
     "geom:bbox":"22.081362869,48.3833765073,22.1157778653,48.4098035494",
     "geom:latitude":48.395428,
     "geom:longitude":22.099136,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ve\u013ek\u00e9 Trakany"
     ],
-    "name:cze_x_preferred":[
-        "Ve\u013ek\u00e9 Trakany"
-    ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00e9 Trakany"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00e9 Trakany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Trakany"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e9 Trakany"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00e9 Trakany"
-    ],
     "name:hun_x_preferred":[
         "Nagyt\u00e1rk\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00e9 Trakany"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00e9 Trakany"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Ve\u013ek\u00e9 Trakany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00e9 Trakany"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782879,
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561841701,
     "wof:name":"Ve\u013ek\u00e9 Trakany",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

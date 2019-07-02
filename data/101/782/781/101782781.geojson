@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Koryt\u00e1rky"
     ],
-    "name:cze_x_preferred":[
-        "Koryt\u00e1rky"
-    ],
     "name:deu_x_preferred":[
-        "Koryt\u00e1rky"
-    ],
-    "name:dut_x_preferred":[
         "Koryt\u00e1rky"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Koryt\u00e1rky"
     ],
-    "name:fre_x_preferred":[
-        "Koryt\u00e1rky"
-    ],
-    "name:ger_x_preferred":[
-        "Koryt\u00e1rky"
-    ],
     "name:hun_x_preferred":[
         "Tekn\u0151s"
     ],
     "name:ita_x_preferred":[
-        "Koryt\u00e1rky"
-    ],
-    "name:may_x_preferred":[
         "Koryt\u00e1rky"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Koryt\u00e1rky"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Koryt\u00e1rky"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +99,7 @@
         }
     ],
     "wof:id":101782781,
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Koryt\u00e1rky",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

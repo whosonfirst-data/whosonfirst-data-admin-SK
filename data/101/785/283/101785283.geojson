@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1116720.390195,
+    "geom:area_square_m":1116720.390194,
     "geom:bbox":"16.971315673,48.3125690169,16.99344977,48.3294055191",
     "geom:latitude":48.320637,
     "geom:longitude":16.983908,
@@ -16,22 +16,13 @@
     "mps:longitude":16.986507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0536\u0578\u0570\u0578\u0580"
-    ],
     "name:cat_x_preferred":[
         "Zohor"
     ],
     "name:ces_x_preferred":[
         "Zohor"
     ],
-    "name:cze_x_preferred":[
-        "Zohor"
-    ],
     "name:deu_x_preferred":[
-        "Zohor"
-    ],
-    "name:dut_x_preferred":[
         "Zohor"
     ],
     "name:eng_x_preferred":[
@@ -43,22 +34,16 @@
     "name:fra_x_preferred":[
         "Zohor"
     ],
-    "name:fre_x_preferred":[
-        "Zohor"
-    ],
-    "name:ger_x_preferred":[
-        "Zohor"
-    ],
     "name:hbs_x_preferred":[
         "Zohor"
     ],
     "name:hun_x_preferred":[
         "Zohor"
     ],
-    "name:ita_x_preferred":[
-        "Zohor"
+    "name:hye_x_preferred":[
+        "\u0536\u0578\u0570\u0578\u0580"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Zohor"
     ],
     "name:msa_x_preferred":[
@@ -80,9 +65,6 @@
         "\u0417\u043e\u0445\u043e\u0440"
     ],
     "name:slk_x_preferred":[
-        "Zohor"
-    ],
-    "name:slo_x_preferred":[
         "Zohor"
     ],
     "name:spa_x_preferred":[
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":101785283,
-    "wof:lastmodified":1527684899,
+    "wof:lastmodified":1561841698,
     "wof:name":"Zohor",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ohrady"
     ],
-    "name:dut_x_preferred":[
-        "Ohrady"
-    ],
     "name:eng_x_preferred":[
         "Ohrady"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Ohrady"
     ],
-    "name:fre_x_preferred":[
-        "Ohrady"
-    ],
-    "name:ger_x_preferred":[
-        "Ohrady"
-    ],
     "name:hbs_x_preferred":[
         "Ohradi"
     ],
@@ -47,9 +38,6 @@
         "Csall\u00f3k\u00f6zk\u00fcrt"
     ],
     "name:ita_x_preferred":[
-        "Ohrady"
-    ],
-    "name:may_x_preferred":[
         "Ohrady"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Ohrady"
     ],
     "name:slk_x_preferred":[
-        "Ohrady"
-    ],
-    "name:slo_x_preferred":[
         "Ohrady"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101780203,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Ohrady",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

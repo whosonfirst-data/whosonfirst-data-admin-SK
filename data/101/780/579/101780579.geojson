@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":717765.190381,
+    "geom:area_square_m":717765.19038,
     "geom:bbox":"20.4203208288,49.0808083817,20.4350635375,49.0919855109",
     "geom:latitude":49.086808,
     "geom:longitude":20.426105,
@@ -24,17 +24,11 @@
     "name:ces_x_preferred":[
         "Vrbov"
     ],
-    "name:cze_x_preferred":[
-        "Vrbov"
-    ],
     "name:deu_x_preferred":[
         "Vrbov"
     ],
     "name:deu_x_variant":[
         "Menhardsdorf"
-    ],
-    "name:dut_x_preferred":[
-        "Vrbov"
     ],
     "name:eng_x_preferred":[
         "Vrbov"
@@ -45,12 +39,6 @@
     "name:fra_x_preferred":[
         "Vrbov"
     ],
-    "name:fre_x_preferred":[
-        "Vrbov"
-    ],
-    "name:ger_x_preferred":[
-        "Vrbov"
-    ],
     "name:hbs_x_preferred":[
         "Vrbov"
     ],
@@ -58,9 +46,6 @@
         "M\u00e9nh\u00e1rd"
     ],
     "name:ita_x_preferred":[
-        "Vrbov"
-    ],
-    "name:may_x_preferred":[
         "Vrbov"
     ],
     "name:msa_x_preferred":[
@@ -82,9 +67,6 @@
         "\u0412\u0440\u0431\u043e\u0432"
     ],
     "name:slk_x_preferred":[
-        "Vrbov"
-    ],
-    "name:slo_x_preferred":[
         "Vrbov"
     ],
     "name:srp_x_preferred":[
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":101780579,
-    "wof:lastmodified":1527715877,
+    "wof:lastmodified":1561841719,
     "wof:name":"Vrbov",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

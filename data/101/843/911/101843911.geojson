@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "\u013dube\u013ea"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:deu_x_preferred":[
-        "\u013dube\u013ea"
-    ],
-    "name:dut_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u013dube\u013ea"
     ],
-    "name:fre_x_preferred":[
-        "\u013dube\u013ea"
-    ],
-    "name:ger_x_preferred":[
-        "\u013dube\u013ea"
-    ],
     "name:hbs_x_preferred":[
         "Ljubelja"
     ],
@@ -50,9 +41,6 @@
         "Lubella"
     ],
     "name:ita_x_preferred":[
-        "\u013dube\u013ea"
-    ],
-    "name:may_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "\u013dube\u013ea"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101843911,
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1561841692,
     "wof:name":"\u013dube\u013ea",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

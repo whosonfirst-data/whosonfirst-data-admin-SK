@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000357,
-    "geom:area_square_m":2911215.266368,
+    "geom:area_square_m":2911215.266369,
     "geom:bbox":"20.0969988031,48.6699949752,20.1360317621,48.6936932079",
     "geom:latitude":48.681939,
     "geom:longitude":20.118739,
@@ -26,19 +26,10 @@
     "name:ces_x_preferred":[
         "Rev\u00faca"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u6b66\u5bdf"
-    ],
     "name:chv_x_preferred":[
         "\u0420\u0435\u0432\u0443\u0446\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Rev\u00faca"
-    ],
     "name:deu_x_preferred":[
-        "Rev\u00faca"
-    ],
-    "name:dut_x_preferred":[
         "Rev\u00faca"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0631\u0648\u0648\u062a\u0633\u0627"
     ],
     "name:fra_x_preferred":[
-        "Rev\u00faca"
-    ],
-    "name:fre_x_preferred":[
-        "Rev\u00faca"
-    ],
-    "name:ger_x_preferred":[
         "Rev\u00faca"
     ],
     "name:hbs_x_preferred":[
@@ -80,14 +65,14 @@
     "name:lit_x_preferred":[
         "Rev\u016bca"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rev\u00faca"
     ],
     "name:nan_x_preferred":[
         "Rev\u00faca"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0648\u062a\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Rev\u00faca"
     ],
     "name:pol_x_preferred":[
         "Rev\u00faca"
@@ -95,16 +80,10 @@
     "name:ron_x_preferred":[
         "Rev\u00faca"
     ],
-    "name:rum_x_preferred":[
-        "Rev\u00faca"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0432\u0443\u0446\u0430"
     ],
     "name:slk_x_preferred":[
-        "Rev\u00faca"
-    ],
-    "name:slo_x_preferred":[
         "Rev\u00faca"
     ],
     "name:srp_x_preferred":[
@@ -172,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688318,
+    "wof:lastmodified":1561841700,
     "wof:name":"Rev\u00faca",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

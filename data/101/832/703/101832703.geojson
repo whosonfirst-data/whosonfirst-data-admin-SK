@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Pohronsk\u00e1 Polhora"
     ],
-    "name:cze_x_preferred":[
-        "Pohronsk\u00e1 Polhora"
-    ],
     "name:deu_x_preferred":[
-        "Pohronsk\u00e1 Polhora"
-    ],
-    "name:dut_x_preferred":[
         "Pohronsk\u00e1 Polhora"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Pohronsk\u00e1 Polhora"
     ],
-    "name:fre_x_preferred":[
-        "Pohronsk\u00e1 Polhora"
-    ],
-    "name:ger_x_preferred":[
-        "Pohronsk\u00e1 Polhora"
-    ],
     "name:hun_x_preferred":[
         "Erd\u0151k\u00f6z"
     ],
     "name:ita_x_preferred":[
-        "Pohronsk\u00e1 Polhora"
-    ],
-    "name:may_x_preferred":[
         "Pohronsk\u00e1 Polhora"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Pohronsk\u00e1 Polhora"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pohronsk\u00e1 Polhora"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101832703,
-    "wof:lastmodified":1527642786,
+    "wof:lastmodified":1561841694,
     "wof:name":"Pohronsk\u00e1 Polhora",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

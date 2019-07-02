@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
-    "name:cze_x_preferred":[
-        "Gemersk\u00e1 Poloma"
-    ],
     "name:deu_x_preferred":[
-        "Gemersk\u00e1 Poloma"
-    ],
-    "name:dut_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
-    "name:fre_x_preferred":[
-        "Gemersk\u00e1 Poloma"
-    ],
-    "name:ger_x_preferred":[
-        "Gemersk\u00e1 Poloma"
-    ],
     "name:hun_x_preferred":[
         "Veszver\u00e9s"
     ],
     "name:ita_x_preferred":[
-        "Gemersk\u00e1 Poloma"
-    ],
-    "name:may_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101782887,
-    "wof:lastmodified":1527688316,
+    "wof:lastmodified":1561841699,
     "wof:name":"Gemersk\u00e1 Poloma",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

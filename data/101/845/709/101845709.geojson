@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Rohovce"
     ],
-    "name:dut_x_preferred":[
-        "Rohovce"
-    ],
     "name:eng_x_preferred":[
         "Rohovce"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Rohovce"
     ],
-    "name:fre_x_preferred":[
-        "Rohovce"
-    ],
-    "name:ger_x_preferred":[
-        "Rohovce"
-    ],
     "name:hbs_x_preferred":[
         "Rohovce"
     ],
@@ -47,9 +38,6 @@
         "Nagyszarva"
     ],
     "name:ita_x_preferred":[
-        "Rohovce"
-    ],
-    "name:may_x_preferred":[
         "Rohovce"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Rohovce"
     ],
     "name:slk_x_preferred":[
-        "Rohovce"
-    ],
-    "name:slo_x_preferred":[
         "Rohovce"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101845709,
-    "wof:lastmodified":1527642310,
+    "wof:lastmodified":1561841687,
     "wof:name":"Rohovce",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

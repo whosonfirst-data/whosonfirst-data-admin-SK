@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1146605.054706,
+    "geom:area_square_m":1146605.054707,
     "geom:bbox":"21.8005671172,48.3884736626,21.8174309257,48.4147552329",
     "geom:latitude":48.402654,
     "geom:longitude":21.80816,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Somotor"
     ],
-    "name:cze_x_preferred":[
-        "Somotor"
-    ],
     "name:deu_x_preferred":[
-        "Somotor"
-    ],
-    "name:dut_x_preferred":[
         "Somotor"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Somotor"
     ],
-    "name:fre_x_preferred":[
-        "Somotor"
-    ],
-    "name:ger_x_preferred":[
-        "Somotor"
-    ],
     "name:hun_x_preferred":[
         "Szomotor"
     ],
     "name:ita_x_preferred":[
-        "Somotor"
-    ],
-    "name:may_x_preferred":[
         "Somotor"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Somotor"
     ],
     "name:slk_x_preferred":[
-        "Somotor"
-    ],
-    "name:slo_x_preferred":[
         "Somotor"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101782871,
-    "wof:lastmodified":1527688322,
+    "wof:lastmodified":1561841701,
     "wof:name":"Somotor",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

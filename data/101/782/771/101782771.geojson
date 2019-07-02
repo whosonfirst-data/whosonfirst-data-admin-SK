@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1306038.494987,
+    "geom:area_square_m":1306038.494986,
     "geom:bbox":"17.3902391052,48.7260608341,17.4114741011,48.7477055417",
     "geom:latitude":48.734532,
     "geom:longitude":17.403926,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Soboti\u0161te"
     ],
-    "name:cze_x_preferred":[
-        "Soboti\u0161te"
-    ],
     "name:deu_x_preferred":[
-        "Soboti\u0161te"
-    ],
-    "name:dut_x_preferred":[
         "Soboti\u0161te"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Soboti\u0161te"
     ],
-    "name:fre_x_preferred":[
-        "Soboti\u0161te"
-    ],
-    "name:ger_x_preferred":[
-        "Soboti\u0161te"
-    ],
     "name:hrv_x_preferred":[
         "Soboti\u0161te"
     ],
@@ -53,9 +41,6 @@
         "\u00d3szombat"
     ],
     "name:ita_x_preferred":[
-        "Soboti\u0161te"
-    ],
-    "name:may_x_preferred":[
         "Soboti\u0161te"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0431\u043e\u0442\u0438\u0448\u0442\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Soboti\u0161te"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101782771,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Soboti\u0161te",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

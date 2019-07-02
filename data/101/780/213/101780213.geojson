@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Chtelnica"
     ],
-    "name:cze_x_preferred":[
-        "Chtelnica"
-    ],
     "name:deu_x_preferred":[
-        "Chtelnica"
-    ],
-    "name:dut_x_preferred":[
         "Chtelnica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Chtelnica"
     ],
-    "name:fre_x_preferred":[
-        "Chtelnica"
-    ],
-    "name:ger_x_preferred":[
-        "Chtelnica"
-    ],
     "name:hbs_x_preferred":[
         "Htjelnjica"
     ],
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Chtelnica"
     ],
-    "name:may_x_preferred":[
-        "Chtelnica"
-    ],
     "name:msa_x_preferred":[
         "Chtelnica"
     ],
@@ -65,9 +50,6 @@
         "Chtelnica"
     ],
     "name:slk_x_preferred":[
-        "Chtelnica"
-    ],
-    "name:slo_x_preferred":[
         "Chtelnica"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101780213,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Chtelnica",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

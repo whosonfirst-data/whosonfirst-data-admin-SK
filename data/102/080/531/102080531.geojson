@@ -25,14 +25,17 @@
     "name:cat_x_preferred":[
         "Districte de Bansk\u00e1 Bystrica"
     ],
+    "name:ces_x_preferred":[
+        "Okres Bansk\u00e1 Bystrica"
+    ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Bansk\u00e1 Bystrica"
     ],
-    "name:dut_x_preferred":[
-        "Okres Bansk\u00e1 Bystrica"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03ac\u03bd\u03c3\u03ba\u03b1 \u039c\u03c0\u03af\u03c3\u03c4\u03c1\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bansk\u00e1 Bystrica"
@@ -40,17 +43,8 @@
     "name:epo_x_preferred":[
         "Distrikto Bansk\u00e1 Bystrica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Bansk\u00e1 Bystrica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10e1\u10d9\u10d0-\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Bansk\u00e1 Bystrica"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03ac\u03bd\u03c3\u03ba\u03b1 \u039c\u03c0\u03af\u03c3\u03c4\u03c1\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Okrug Bansk\u00e1 Bystrica"
@@ -61,17 +55,23 @@
     "name:ita_x_preferred":[
         "Distretto di Bansk\u00e1 Bystrica"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10e1\u10d9\u10d0-\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Neosolium"
     ],
     "name:lav_x_preferred":[
         "Banska Bistricas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Bansk\u00e1 Bystrica"
     ],
     "name:nan_x_preferred":[
         "Bansk\u00e1 Bystrica Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Bansk\u00e1 Bystrica"
     ],
     "name:pol_x_preferred":[
         "Powiat Ba\u0144ska Bystrzyca"
@@ -79,16 +79,16 @@
     "name:por_x_preferred":[
         "Bansk\u00e1 Bystrica"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Bansk\u00e1 Bystrica"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0411\u0430\u043d\u0441\u043a\u0430 \u0411\u0456\u0441\u0442\u0440\u0456\u0446\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Bansk\u00e1 Bystrica"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u0430-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bansk\u00e1 Bystrica"
     ],
     "name:spa_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102080531,
-    "wof:lastmodified":1553717231,
+    "wof:lastmodified":1561841677,
     "wof:name":"Bansk\u00e1 Bystrica",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

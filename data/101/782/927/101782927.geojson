@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
-    "name:dut_x_preferred":[
-        "Ni\u017en\u00e1 My\u0161\u013ea"
-    ],
     "name:eng_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
-    "name:fre_x_preferred":[
-        "Ni\u017en\u00e1 My\u0161\u013ea"
-    ],
-    "name:ger_x_preferred":[
-        "Ni\u017en\u00e1 My\u0161\u013ea"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3mislye"
     ],
     "name:ita_x_preferred":[
-        "Ni\u017en\u00e1 My\u0161\u013ea"
-    ],
-    "name:may_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
     "name:slk_x_preferred":[
-        "Ni\u017en\u00e1 My\u0161\u013ea"
-    ],
-    "name:slo_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782927,
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Ni\u017en\u00e1 My\u0161\u013ea",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

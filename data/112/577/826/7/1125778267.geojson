@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Prievaly"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Prievaly"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Prievaly"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Prievaly"
     ],
-    "name:fre_x_preferred":[
-        "Prievaly"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Prievaly"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "Prievaly"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Prievaly"
+    ],
+    "name:nld_x_preferred":[
         "Prievaly"
     ],
     "name:por_x_preferred":[
         "Prievaly"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Prievaly"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125778267,
-    "wof:lastmodified":1514505249,
+    "wof:lastmodified":1561841730,
     "wof:name":"Prievaly",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -22,10 +22,10 @@
     "name:cat_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00fd Trnovec"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
     "name:hun_x_preferred":[
@@ -46,16 +43,16 @@
     "name:ita_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:nld_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
     "name:pol_x_preferred":[
         "Liptowski Tarnowiec"
     ],
     "name:slk_x_preferred":[
-        "Liptovsk\u00fd Trnovec"
-    ],
-    "name:slo_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +114,7 @@
         }
     ],
     "wof:id":1125800263,
-    "wof:lastmodified":1514505165,
+    "wof:lastmodified":1561841724,
     "wof:name":"Liptovsk\u00fd Trnovec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

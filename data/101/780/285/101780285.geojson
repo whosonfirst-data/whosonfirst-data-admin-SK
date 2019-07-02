@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000651,
-    "geom:area_square_m":5293783.579878,
+    "geom:area_square_m":5293783.579877,
     "geom:bbox":"21.8033792892,48.8581116426,21.8496588609,48.8962934381",
     "geom:latitude":48.876229,
     "geom:longitude":21.822968,
@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Str\u00e1\u017eske"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u62c9\u65e5\u65af\u51f1"
-    ],
-    "name:cze_x_preferred":[
-        "Str\u00e1\u017eske"
-    ],
     "name:deu_x_preferred":[
-        "Str\u00e1\u017eske"
-    ],
-    "name:dut_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u0633\u062a\u0631\u0627\u0698\u0633\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
-        "Str\u00e1\u017eske"
-    ],
-    "name:fre_x_preferred":[
-        "Str\u00e1\u017eske"
-    ],
-    "name:ger_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:hbs_x_preferred":[
@@ -71,25 +56,25 @@
     "name:lav_x_preferred":[
         "Str\u0101\u017eske"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:nan_x_preferred":[
         "Str\u00e1\u017eske"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u0631\u0627\u0698\u0633\u06a9\u0647"
+    "name:nld_x_preferred":[
+        "Str\u00e1\u017eske"
     ],
     "name:pol_x_preferred":[
         "Str\u00e1\u017eske"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u0441\u043a\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:srp_x_preferred":[
@@ -156,7 +141,7 @@
         }
     ],
     "wof:id":101780285,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Str\u00e1\u017eske",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

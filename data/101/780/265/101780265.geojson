@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":767626.556813,
+    "geom:area_square_m":767626.556814,
     "geom:bbox":"20.4595209787,48.971315304,20.4717114741,48.9838893084",
     "geom:latitude":48.977817,
     "geom:longitude":20.465703,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Letanovce"
     ],
-    "name:cze_x_preferred":[
-        "Letanovce"
-    ],
     "name:deu_x_preferred":[
-        "Letanovce"
-    ],
-    "name:dut_x_preferred":[
         "Letanovce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Letanovce"
     ],
-    "name:fre_x_preferred":[
-        "Letanovce"
-    ],
-    "name:ger_x_preferred":[
-        "Letanovce"
-    ],
     "name:hbs_x_preferred":[
         "Ljetanovce"
     ],
@@ -53,9 +41,6 @@
         "L\u00e9t\u00e1nfalva"
     ],
     "name:ita_x_preferred":[
-        "Letanovce"
-    ],
-    "name:may_x_preferred":[
         "Letanovce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Letanovce"
     ],
     "name:slk_x_preferred":[
-        "Letanovce"
-    ],
-    "name:slo_x_preferred":[
         "Letanovce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101780265,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Letanovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

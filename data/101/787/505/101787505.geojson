@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Gbelce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gbelce"
     ],
     "name:deu_x_preferred":[
-        "Gbelce"
-    ],
-    "name:dut_x_preferred":[
         "Gbelce"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +34,10 @@
     "name:fra_x_preferred":[
         "Gbelce"
     ],
-    "name:fre_x_preferred":[
-        "Gbelce"
-    ],
-    "name:ger_x_preferred":[
-        "Gbelce"
-    ],
     "name:hun_x_preferred":[
         "K\u00f6b\u00f6lk\u00fat"
     ],
     "name:ita_x_preferred":[
-        "Gbelce"
-    ],
-    "name:may_x_preferred":[
         "Gbelce"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Gbelce"
     ],
     "name:slk_x_preferred":[
-        "Gbelce"
-    ],
-    "name:slo_x_preferred":[
         "Gbelce"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101787505,
-    "wof:lastmodified":1527715842,
+    "wof:lastmodified":1561841711,
     "wof:name":"Gbelce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

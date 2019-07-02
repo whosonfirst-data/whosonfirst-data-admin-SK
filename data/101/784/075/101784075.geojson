@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ludanice"
     ],
-    "name:cze_x_preferred":[
-        "Ludanice"
-    ],
     "name:deu_x_preferred":[
-        "Ludanice"
-    ],
-    "name:dut_x_preferred":[
         "Ludanice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ludanice"
     ],
-    "name:fre_x_preferred":[
-        "Ludanice"
-    ],
-    "name:ger_x_preferred":[
-        "Ludanice"
-    ],
     "name:hbs_x_preferred":[
         "Ludanjice"
     ],
@@ -53,9 +41,6 @@
         "Nyitralud\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Ludanice"
-    ],
-    "name:may_x_preferred":[
         "Ludanice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Ludanice"
     ],
     "name:slk_x_preferred":[
-        "Ludanice"
-    ],
-    "name:slo_x_preferred":[
         "Ludanice"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101784075,
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1561841705,
     "wof:name":"Ludanice",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

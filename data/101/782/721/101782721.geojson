@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Trakovice"
     ],
-    "name:cze_x_preferred":[
-        "Trakovice"
-    ],
     "name:deu_x_preferred":[
-        "Trakovice"
-    ],
-    "name:dut_x_preferred":[
         "Trakovice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Trakovice"
     ],
-    "name:fre_x_preferred":[
-        "Trakovice"
-    ],
-    "name:ger_x_preferred":[
-        "Trakovice"
-    ],
     "name:hbs_x_preferred":[
         "Trakovice"
     ],
@@ -53,9 +41,6 @@
         "Kark\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Trakovice"
-    ],
-    "name:may_x_preferred":[
         "Trakovice"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "\u0422\u0440\u0430\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Trakovice"
-    ],
-    "name:slo_x_preferred":[
         "Trakovice"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101782721,
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Trakovice",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

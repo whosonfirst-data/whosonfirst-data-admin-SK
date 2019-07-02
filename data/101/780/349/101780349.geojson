@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001139,
-    "geom:area_square_m":9221154.344328,
+    "geom:area_square_m":9221154.344331,
     "geom:bbox":"18.4113846579,49.0839896673,18.4796874277,49.1450697275",
     "geom:latitude":49.113965,
     "geom:longitude":18.443366,
@@ -32,12 +32,6 @@
     "name:ces_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u8d6b\u6cb3\u7554\u6bd4\u65af\u7279\u91cc\u5bdf"
-    ],
-    "name:cze_x_preferred":[
-        "Pova\u017esk\u00e1 Bystrica"
-    ],
     "name:dan_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
@@ -45,9 +39,6 @@
         "Waagbistritz"
     ],
     "name:deu_x_variant":[
-        "Pova\u017esk\u00e1 Bystrica"
-    ],
-    "name:dut_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:eng_x_preferred":[
@@ -70,10 +61,7 @@
     "name:fin_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
-    "name:fre_x_preferred":[
-        "Pova\u017esk\u00e1 Bystrica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:hbs_x_preferred":[
@@ -106,14 +94,14 @@
     "name:lit_x_preferred":[
         "Pova\u017eska Bistrica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:nan_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0627\u0698\u0633\u06a9\u0627 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:pol_x_preferred":[
         "Powaska Bystrzyca"
@@ -121,16 +109,10 @@
     "name:ron_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
-    "name:rum_x_preferred":[
-        "Pova\u017esk\u00e1 Bystrica"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0432\u0430\u0436\u0441\u043a\u0430-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
     "name:slk_x_preferred":[
-        "Pova\u017esk\u00e1 Bystrica"
-    ],
-    "name:slo_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:spa_x_preferred":[
@@ -218,7 +200,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561841715,
     "wof:name":"Pova\u017esk\u00e1 Bystrica",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

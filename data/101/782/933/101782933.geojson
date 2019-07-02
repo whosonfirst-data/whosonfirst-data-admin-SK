@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
-    "name:dut_x_preferred":[
-        "Trsten\u00e9 pri Horn\u00e1de"
-    ],
     "name:eng_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
-    "name:fre_x_preferred":[
-        "Trsten\u00e9 pri Horn\u00e1de"
-    ],
-    "name:ger_x_preferred":[
-        "Trsten\u00e9 pri Horn\u00e1de"
-    ],
     "name:hun_x_preferred":[
         "Aba\u00fajn\u00e1dasd"
     ],
     "name:ita_x_preferred":[
-        "Trsten\u00e9 pri Horn\u00e1de"
-    ],
-    "name:may_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
     "name:slk_x_preferred":[
-        "Trsten\u00e9 pri Horn\u00e1de"
-    ],
-    "name:slo_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101782933,
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561841701,
     "wof:name":"Trsten\u00e9 pri Horn\u00e1de",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

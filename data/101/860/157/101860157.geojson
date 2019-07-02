@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Krpe\u013eany"
     ],
-    "name:cze_x_preferred":[
-        "Krpe\u013eany"
-    ],
     "name:deu_x_preferred":[
-        "Krpe\u013eany"
-    ],
-    "name:dut_x_preferred":[
         "Krpe\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Krpe\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Krpe\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Krpe\u013eany"
-    ],
     "name:hun_x_preferred":[
         "Kerpel\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Krpe\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Krpe\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Krpe\u013eany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Krpe\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101860157,
-    "wof:lastmodified":1544745291,
+    "wof:lastmodified":1561841694,
     "wof:name":"Krpe\u013eany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

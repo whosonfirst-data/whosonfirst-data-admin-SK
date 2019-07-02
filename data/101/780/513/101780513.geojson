@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Svit"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7dad\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Svit"
-    ],
     "name:deu_x_preferred":[
-        "Svit"
-    ],
-    "name:dut_x_preferred":[
         "Svit"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u0633\u0648\u06cc\u062a"
     ],
     "name:fra_x_preferred":[
-        "Svit"
-    ],
-    "name:fre_x_preferred":[
-        "Svit"
-    ],
-    "name:ger_x_preferred":[
         "Svit"
     ],
     "name:hbs_x_preferred":[
@@ -71,9 +56,6 @@
     "name:lav_x_preferred":[
         "Svita"
     ],
-    "name:may_x_preferred":[
-        "Svit"
-    ],
     "name:msa_x_preferred":[
         "Svit"
     ],
@@ -82,9 +64,6 @@
     ],
     "name:nld_x_preferred":[
         "Svit"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06cc\u062a"
     ],
     "name:pol_x_preferred":[
         "\u015awit"
@@ -98,16 +77,10 @@
     "name:rue_x_preferred":[
         "\u0421\u0432\u0456\u0442"
     ],
-    "name:rum_x_preferred":[
-        "Svit"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0438\u0442"
     ],
     "name:slk_x_preferred":[
-        "Svit"
-    ],
-    "name:slo_x_preferred":[
         "Svit"
     ],
     "name:spa_x_preferred":[
@@ -177,7 +150,7 @@
         }
     ],
     "wof:id":101780513,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841719,
     "wof:name":"Svit",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

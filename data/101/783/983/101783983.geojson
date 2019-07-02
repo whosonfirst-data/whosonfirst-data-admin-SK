@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1425851.521848,
+    "geom:area_square_m":1425851.521847,
     "geom:bbox":"18.5047607678,48.1918767891,18.5279935206,48.212684992",
     "geom:latitude":48.201204,
     "geom:longitude":18.518975,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Kaln\u00e1 nad Hronom"
     ],
-    "name:dut_x_preferred":[
-        "Kaln\u00e1 nad Hronom"
-    ],
     "name:eng_x_preferred":[
         "Kaln\u00e1 nad Hronom"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Kaln\u00e1 nad Hronom"
     ],
-    "name:fre_x_preferred":[
-        "Kaln\u00e1 nad Hronom"
-    ],
-    "name:ger_x_preferred":[
-        "Kaln\u00e1 nad Hronom"
-    ],
     "name:hun_x_preferred":[
         "K\u00e1lna"
     ],
     "name:ita_x_preferred":[
-        "Kaln\u00e1 nad Hronom"
-    ],
-    "name:may_x_preferred":[
         "Kaln\u00e1 nad Hronom"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Kaln\u00e1 nad Hronom"
     ],
     "name:slk_x_preferred":[
-        "Kaln\u00e1 nad Hronom"
-    ],
-    "name:slo_x_preferred":[
         "Kaln\u00e1 nad Hronom"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +96,7 @@
         }
     ],
     "wof:id":101783983,
-    "wof:lastmodified":1527688497,
+    "wof:lastmodified":1561841703,
     "wof:name":"Kaln\u00e1 nad Hronom",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

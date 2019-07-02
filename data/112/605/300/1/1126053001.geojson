@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Slivn\u00edk"
     ],
-    "name:cze_x_preferred":[
-        "Slivn\u00edk"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Slivn\u00edk"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Slivn\u00edk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Slivn\u00edk"
     ],
     "name:hun_x_preferred":[
@@ -42,7 +39,10 @@
     "name:ita_x_preferred":[
         "Slivn\u00edk"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Slivn\u00edk"
+    ],
+    "name:nld_x_preferred":[
         "Slivn\u00edk"
     ],
     "name:pol_x_preferred":[
@@ -51,7 +51,7 @@
     "name:rue_x_preferred":[
         "\u0421\u043b\u0456\u0432\u043d\u0457\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Slivn\u00edk"
     ],
     "name:slv_x_preferred":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1126053001,
-    "wof:lastmodified":1514505276,
+    "wof:lastmodified":1561841720,
     "wof:name":"Slivn\u00edk",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

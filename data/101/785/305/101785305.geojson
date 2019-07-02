@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":987111.209977,
+    "geom:area_square_m":987111.209976,
     "geom:bbox":"17.550896164,48.271171649,17.5720819678,48.2840862661",
     "geom:latitude":48.276745,
     "geom:longitude":17.560221,
@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Voderady"
     ],
-    "name:cze_x_preferred":[
-        "Voderady"
-    ],
     "name:deu_x_preferred":[
-        "Voderady"
-    ],
-    "name:dut_x_preferred":[
         "Voderady"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +37,6 @@
     "name:fra_x_preferred":[
         "Voderady"
     ],
-    "name:fre_x_preferred":[
-        "Voderady"
-    ],
-    "name:ger_x_preferred":[
-        "Voderady"
-    ],
     "name:hbs_x_preferred":[
         "Vodjeradi"
     ],
@@ -56,9 +44,6 @@
         "Vedr\u0151d"
     ],
     "name:ita_x_preferred":[
-        "Voderady"
-    ],
-    "name:may_x_preferred":[
         "Voderady"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
         "Voderady"
     ],
     "name:slk_x_preferred":[
-        "Voderady"
-    ],
-    "name:slo_x_preferred":[
         "Voderady"
     ],
     "name:srp_x_preferred":[
@@ -146,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527684899,
+    "wof:lastmodified":1561841698,
     "wof:name":"Voderady",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":827342.141945,
+    "geom:area_square_m":827342.141946,
     "geom:bbox":"19.3974654784,49.4964171924,19.4426750918,49.5190348302",
     "geom:latitude":49.508129,
     "geom:longitude":19.415194,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Siheln\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Siheln\u00e9"
-    ],
     "name:deu_x_preferred":[
-        "Siheln\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Siheln\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Siheln\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Siheln\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Siheln\u00e9"
-    ],
     "name:hun_x_preferred":[
         "Szihelne"
     ],
     "name:ita_x_preferred":[
-        "Siheln\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Siheln\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Sihelne"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Siheln\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101847809,
-    "wof:lastmodified":1527714978,
+    "wof:lastmodified":1561841706,
     "wof:name":"Siheln\u00e9",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

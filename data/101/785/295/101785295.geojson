@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":747794.087926,
+    "geom:area_square_m":747794.087925,
     "geom:bbox":"17.4842760787,48.3671865426,17.5026858613,48.3782105432",
     "geom:latitude":48.37237,
     "geom:longitude":17.493622,
@@ -22,17 +22,11 @@
     "name:ces_x_preferred":[
         "Ru\u017eindol"
     ],
-    "name:cze_x_preferred":[
-        "Ru\u017eindol"
-    ],
     "name:deu_x_preferred":[
         "Ru\u017eindol"
     ],
     "name:deu_x_variant":[
         "Rosenthal"
-    ],
-    "name:dut_x_preferred":[
-        "Ru\u017eindol"
     ],
     "name:eng_x_preferred":[
         "Ru\u017eindol"
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Ru\u017eindol"
     ],
-    "name:fre_x_preferred":[
-        "Ru\u017eindol"
-    ],
-    "name:ger_x_preferred":[
-        "Ru\u017eindol"
-    ],
     "name:hun_x_preferred":[
         "R\u00f3zsav\u00f6lgy"
     ],
     "name:ita_x_preferred":[
-        "Ru\u017eindol"
-    ],
-    "name:may_x_preferred":[
         "Ru\u017eindol"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:por_x_preferred":[
         "Ru\u017eindol"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ru\u017eindol"
     ],
     "name:srp_x_preferred":[
@@ -142,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1561841697,
     "wof:name":"Ru\u017eindol",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

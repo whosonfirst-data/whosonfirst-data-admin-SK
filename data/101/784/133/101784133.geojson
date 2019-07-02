@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":6869711.552828,
+    "geom:area_square_m":6869711.552827,
     "geom:bbox":"19.9861577697,48.3685824428,20.0409893306,48.3966274003",
     "geom:latitude":48.383796,
     "geom:longitude":20.014218,
@@ -32,10 +32,7 @@
     "name:ces_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u99ac\u592b\u65af\u5361\u7d22\u535a\u5854"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:dan_x_preferred":[
@@ -44,19 +41,16 @@
     "name:deu_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
-    "name:dut_x_preferred":[
-        "Rimavsk\u00e1 Sobota"
-    ],
     "name:eng_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:epo_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
-    "name:fre_x_preferred":[
-        "Rimavsk\u00e1 Sobota"
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0645\u0627\u0648\u0633\u06a9\u0627 \u0633\u0628\u062a\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:heb_x_preferred":[
@@ -80,14 +74,14 @@
     "name:lit_x_preferred":[
         "Rimavska Sobota"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:nan_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0645\u0627\u0648\u0633\u06a9\u0627 \u0633\u0628\u062a\u0627"
+    "name:nld_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
     ],
     "name:pol_x_preferred":[
         "Rimavsk\u00e1 Sobota"
@@ -95,16 +89,10 @@
     "name:ron_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
-    "name:rum_x_preferred":[
-        "Rimavsk\u00e1 Sobota"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
     ],
     "name:slk_x_preferred":[
-        "Rimavsk\u00e1 Sobota"
-    ],
-    "name:slo_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:srp_x_preferred":[
@@ -128,8 +116,8 @@
     "name:war_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
-    "name:wel_x_preferred":[
-        "Rimavsk\u00e1 Sobota"
+    "name:zho_x_preferred":[
+        "\u91cc\u99ac\u592b\u65af\u5361\u7d22\u535a\u5854"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Banskobystrick\u00fd kraj",
@@ -177,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514505261,
+    "wof:lastmodified":1561841704,
     "wof:name":"Rimavsk\u00e1 Sobota",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

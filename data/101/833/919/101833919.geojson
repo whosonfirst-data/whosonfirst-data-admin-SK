@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1265049.902073,
+    "geom:area_square_m":1265049.902074,
     "geom:bbox":"17.3510588973,48.2067998994,17.3722014352,48.2273762049",
     "geom:latitude":48.217271,
     "geom:longitude":17.362153,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:cze_x_preferred":[
-        "Ve\u013ek\u00fd Biel"
-    ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00fd Biel"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd Biel"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00fd Biel"
-    ],
     "name:hun_x_preferred":[
         "Magyarb\u00e9l"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00fd Biel"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101833919,
-    "wof:lastmodified":1527642929,
+    "wof:lastmodified":1561841696,
     "wof:name":"Ve\u013ek\u00fd Biel",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

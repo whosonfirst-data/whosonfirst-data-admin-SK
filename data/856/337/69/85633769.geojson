@@ -163,9 +163,6 @@
     "name:cym_x_preferred":[
         "Slofacia"
     ],
-    "name:cze_x_preferred":[
-        "Slovensko"
-    ],
     "name:dan_x_preferred":[
         "Slovakiet"
     ],
@@ -659,9 +656,6 @@
     "name:rue_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u044c\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Slovacia"
-    ],
     "name:run_x_preferred":[
         "Silovakiya"
     ],
@@ -891,7 +885,6 @@
         "\u65af\u6d1b\u4f10\u514b"
     ],
     "name:zho_x_variant":[
-        "\u65af\u6d1b\u4f10\u514b",
         "\u65af\u6d1b\u4f10\u514b\u5171\u548c\u56fd"
     ],
     "name:zho_yue_x_preferred":[
@@ -1049,7 +1042,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1544059228,
+    "wof:lastmodified":1561841680,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

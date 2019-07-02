@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Trebatice"
     ],
-    "name:cze_x_preferred":[
-        "Trebatice"
-    ],
     "name:deu_x_preferred":[
-        "Trebatice"
-    ],
-    "name:dut_x_preferred":[
         "Trebatice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Trebatice"
     ],
-    "name:fre_x_preferred":[
-        "Trebatice"
-    ],
-    "name:ger_x_preferred":[
-        "Trebatice"
-    ],
     "name:hbs_x_preferred":[
         "Trebatice"
     ],
@@ -53,9 +41,6 @@
         "V\u00e1gterbete"
     ],
     "name:ita_x_preferred":[
-        "Trebatice"
-    ],
-    "name:may_x_preferred":[
         "Trebatice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Trebatice"
     ],
     "name:slk_x_preferred":[
-        "Trebatice"
-    ],
-    "name:slo_x_preferred":[
         "Trebatice"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101784037,
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561841704,
     "wof:name":"Trebatice",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

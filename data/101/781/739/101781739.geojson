@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":638053.551846,
+    "geom:area_square_m":638053.551847,
     "geom:bbox":"19.4517455951,48.8244829653,19.4647588492,48.8422189529",
     "geom:latitude":48.833772,
     "geom:longitude":19.460341,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Jasenie"
     ],
-    "name:cze_x_preferred":[
-        "Jasenie"
-    ],
     "name:deu_x_preferred":[
-        "Jasenie"
-    ],
-    "name:dut_x_preferred":[
         "Jasenie"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Jasenie"
     ],
-    "name:fre_x_preferred":[
-        "Jasenie"
-    ],
-    "name:ger_x_preferred":[
-        "Jasenie"
-    ],
     "name:hbs_x_preferred":[
         "Jasenje"
     ],
@@ -53,9 +41,6 @@
         "Jecenye"
     ],
     "name:ita_x_preferred":[
-        "Jasenie"
-    ],
-    "name:may_x_preferred":[
         "Jasenie"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Jasenie"
     ],
     "name:slk_x_preferred":[
-        "Jasenie"
-    ],
-    "name:slo_x_preferred":[
         "Jasenie"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +104,7 @@
         }
     ],
     "wof:id":101781739,
-    "wof:lastmodified":1527715623,
+    "wof:lastmodified":1561841707,
     "wof:name":"Jasenie",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

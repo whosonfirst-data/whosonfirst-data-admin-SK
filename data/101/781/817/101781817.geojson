@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":737663.16988,
+    "geom:area_square_m":737663.169879,
     "geom:bbox":"18.9935656749,49.3413789912,19.0299463458,49.3515272922",
     "geom:latitude":49.345419,
     "geom:longitude":19.015521,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
-    "name:cze_x_preferred":[
-        "Nov\u00e1 Bystrica"
-    ],
     "name:deu_x_preferred":[
-        "Nov\u00e1 Bystrica"
-    ],
-    "name:dut_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00e1 Bystrica"
-    ],
-    "name:ger_x_preferred":[
-        "Nov\u00e1 Bystrica"
-    ],
     "name:hun_x_preferred":[
         "\u00dajbeszterce"
     ],
     "name:ita_x_preferred":[
-        "Nov\u00e1 Bystrica"
-    ],
-    "name:may_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101781817,
-    "wof:lastmodified":1553815497,
+    "wof:lastmodified":1561841707,
     "wof:name":"Nov\u00e1 Bystrica",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

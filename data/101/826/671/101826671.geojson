@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
-    "geom:area_square_m":1455391.689668,
+    "geom:area_square_m":1455391.689666,
     "geom:bbox":"19.2367337108,49.4223224367,19.2899672461,49.4476683241",
     "geom:latitude":49.430807,
     "geom:longitude":19.263185,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Novo\u0165"
     ],
-    "name:cze_x_preferred":[
-        "Novo\u0165"
-    ],
     "name:deu_x_preferred":[
-        "Novo\u0165"
-    ],
-    "name:dut_x_preferred":[
         "Novo\u0165"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Novo\u0165"
     ],
-    "name:fre_x_preferred":[
-        "Novo\u0165"
-    ],
-    "name:ger_x_preferred":[
-        "Novo\u0165"
-    ],
     "name:hun_x_preferred":[
         "Novoty"
     ],
     "name:ita_x_preferred":[
-        "Novo\u0165"
-    ],
-    "name:may_x_preferred":[
         "Novo\u0165"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Nowo\u0107"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Novo\u0165"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101826671,
-    "wof:lastmodified":1527642512,
+    "wof:lastmodified":1561841688,
     "wof:name":"Novo\u0165",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

@@ -26,13 +26,10 @@
     "name:cat_x_preferred":[
         "Detva"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u7279\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Detva"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Detva"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +41,7 @@
     "name:fas_x_preferred":[
         "\u062f\u062a\u0648\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Detva"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Detva"
     ],
     "name:hbs_x_preferred":[
@@ -68,28 +62,28 @@
     "name:lit_x_preferred":[
         "Detva"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Detva"
     ],
     "name:nan_x_preferred":[
         "Detva"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Detva"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u062a\u0648\u0627"
+    "name:oci_x_preferred":[
+        "Detva"
     ],
     "name:pol_x_preferred":[
         "Detva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Detva"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0442\u0432\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Detva"
     ],
     "name:spa_x_preferred":[
@@ -172,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642588,
+    "wof:lastmodified":1561841689,
     "wof:name":"Detva",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

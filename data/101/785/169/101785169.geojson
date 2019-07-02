@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1505644.721116,
+    "geom:area_square_m":1505644.721115,
     "geom:bbox":"18.3270954921,48.1273644832,18.3441537465,48.1487001297",
     "geom:latitude":48.13801,
     "geom:longitude":18.335994,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Tr\u00e1vnica"
     ],
-    "name:dut_x_preferred":[
-        "Tr\u00e1vnica"
-    ],
     "name:eng_x_preferred":[
         "Tr\u00e1vnica"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Tr\u00e1vnica"
     ],
-    "name:fre_x_preferred":[
-        "Tr\u00e1vnica"
-    ],
-    "name:ger_x_preferred":[
-        "Tr\u00e1vnica"
-    ],
     "name:hbs_x_preferred":[
         "Travnjica"
     ],
@@ -47,9 +38,6 @@
         "Barsf\u00fcss"
     ],
     "name:ita_x_preferred":[
-        "Tr\u00e1vnica"
-    ],
-    "name:may_x_preferred":[
         "Tr\u00e1vnica"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u0432\u043d\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tr\u00e1vnica"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":101785169,
-    "wof:lastmodified":1527677692,
+    "wof:lastmodified":1561841697,
     "wof:name":"Tr\u00e1vnica",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

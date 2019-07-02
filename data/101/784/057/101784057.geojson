@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
-    "geom:area_square_m":1246269.040424,
+    "geom:area_square_m":1246269.040425,
     "geom:bbox":"17.9566174774,48.5488337348,17.9771184834,48.5601592936",
     "geom:latitude":48.554449,
     "geom:longitude":17.967145,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nitrianska Blatnica"
     ],
-    "name:cze_x_preferred":[
-        "Nitrianska Blatnica"
-    ],
     "name:deu_x_preferred":[
-        "Nitrianska Blatnica"
-    ],
-    "name:dut_x_preferred":[
         "Nitrianska Blatnica"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nitrianska Blatnica"
     ],
-    "name:fre_x_preferred":[
-        "Nitrianska Blatnica"
-    ],
-    "name:ger_x_preferred":[
-        "Nitrianska Blatnica"
-    ],
     "name:hbs_x_preferred":[
         "Njitranska Blatnjica"
     ],
@@ -53,9 +41,6 @@
         "Nyitras\u00e1rf\u0151"
     ],
     "name:ita_x_preferred":[
-        "Nitrianska Blatnica"
-    ],
-    "name:may_x_preferred":[
         "Nitrianska Blatnica"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Nitrianska Blatnica"
     ],
     "name:slk_x_preferred":[
-        "Nitrianska Blatnica"
-    ],
-    "name:slo_x_preferred":[
         "Nitrianska Blatnica"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101784057,
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561841706,
     "wof:name":"Nitrianska Blatnica",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

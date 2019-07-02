@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":3469382.341652,
+    "geom:area_square_m":3469382.341651,
     "geom:bbox":"17.2094371165,48.8331813582,17.2427020391,48.8548129734",
     "geom:latitude":48.84508,
     "geom:longitude":17.226666,
@@ -29,19 +29,16 @@
     "name:cat_x_preferred":[
         "Skalica"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5361\u5229\u5bdf"
+    "name:ces_x_preferred":[
+        "Skalica"
     ],
     "name:chv_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0438\u0446\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Skalica"
-    ],
     "name:dan_x_preferred":[
         "Skalica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Skalica"
     ],
     "name:eng_x_preferred":[
@@ -53,10 +50,10 @@
     "name:est_x_preferred":[
         "Skalica"
     ],
-    "name:fre_x_preferred":[
-        "Skalica"
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0627\u0644\u06cc\u062a\u0633\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Skalica"
     ],
     "name:heb_x_preferred":[
@@ -89,10 +86,13 @@
     "name:lit_x_preferred":[
         "Skalica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Skalica"
     ],
     "name:nan_x_preferred":[
+        "Skalica"
+    ],
+    "name:nld_x_preferred":[
         "Skalica"
     ],
     "name:nno_x_preferred":[
@@ -101,22 +101,19 @@
     "name:nob_x_preferred":[
         "Skalica"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06a9\u0627\u0644\u06cc\u062a\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Skalica"
     ],
     "name:por_x_preferred":[
         "Skalica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Skalica"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Skalica"
     ],
     "name:slv_x_preferred":[
@@ -142,6 +139,9 @@
     ],
     "name:war_x_preferred":[
         "Skalica"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5361\u5229\u5bdf"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -196,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715632,
+    "wof:lastmodified":1561841709,
     "wof:name":"Skalica",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

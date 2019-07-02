@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Kurimany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kurimany"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kurimany"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Kurimany"
     ],
-    "name:fre_x_preferred":[
-        "Kurimany"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kurimany"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "Kurimany"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kurimany"
+    ],
+    "name:nld_x_preferred":[
         "Kurimany"
     ],
     "name:pol_x_preferred":[
         "Kurimany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kurimany"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125991509,
-    "wof:lastmodified":1514505150,
+    "wof:lastmodified":1561841724,
     "wof:name":"Kurimany",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":657957.586703,
+    "geom:area_square_m":657957.586704,
     "geom:bbox":"18.9647712222,48.9976714648,18.985848968,49.0104683206",
     "geom:latitude":49.003943,
     "geom:longitude":18.975612,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bel\u00e1-Dulice"
     ],
-    "name:cze_x_preferred":[
-        "Bel\u00e1-Dulice"
-    ],
     "name:deu_x_preferred":[
-        "Bel\u00e1-Dulice"
-    ],
-    "name:dut_x_preferred":[
         "Bel\u00e1-Dulice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Bel\u00e1-Dulice"
     ],
-    "name:fre_x_preferred":[
-        "Bel\u00e1-Dulice"
-    ],
-    "name:ger_x_preferred":[
-        "Bel\u00e1-Dulice"
-    ],
     "name:hun_x_preferred":[
         "B\u00e9lagyulafalva"
     ],
     "name:ita_x_preferred":[
-        "Bel\u00e1-Dulice"
-    ],
-    "name:may_x_preferred":[
         "Bel\u00e1-Dulice"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Bel\u00e1-Dulice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bel\u00e1-Dulice"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101843905,
-    "wof:lastmodified":1527642596,
+    "wof:lastmodified":1561841691,
     "wof:name":"Bel\u00e1 - Dulice",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

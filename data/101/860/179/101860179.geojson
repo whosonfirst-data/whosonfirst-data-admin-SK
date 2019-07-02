@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Oravsk\u00e1 Lesn\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Oravsk\u00e1 Lesn\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Oravsk\u00e1 Lesn\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Oravsk\u00e1 Lesn\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +35,10 @@
     "name:fra_x_preferred":[
         "Oravsk\u00e1 Lesn\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Oravsk\u00e1 Lesn\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Oravsk\u00e1 Lesn\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Erd\u0151tka"
     ],
     "name:ita_x_preferred":[
-        "Oravsk\u00e1 Lesn\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Oravsk\u00e1 Lesn\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -75,9 +60,7 @@
         "Erdutka",
         "Erd\u00fadka",
         "Erd\u00fatka",
-        "Lesna"
-    ],
-    "name:slo_x_preferred":[
+        "Lesna",
         "Oravsk\u00e1 Lesn\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +115,7 @@
         }
     ],
     "wof:id":101860179,
-    "wof:lastmodified":1544745303,
+    "wof:lastmodified":1561841695,
     "wof:name":"Oravsk\u00e1 Lesn\u00e1",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

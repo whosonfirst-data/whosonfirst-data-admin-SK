@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e9 Bierovce"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
     "name:hun_x_preferred":[
@@ -45,13 +42,16 @@
     "name:ita_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
     "name:nan_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125979669,
-    "wof:lastmodified":1514505336,
+    "wof:lastmodified":1561841726,
     "wof:name":"Vel\u0315k\u00e9 Bierovce",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

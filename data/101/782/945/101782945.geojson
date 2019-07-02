@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00e9 Rev\u00face"
     ],
-    "name:cze_x_preferred":[
-        "Liptovsk\u00e9 Rev\u00face"
-    ],
     "name:deu_x_preferred":[
-        "Liptovsk\u00e9 Rev\u00face"
-    ],
-    "name:dut_x_preferred":[
         "Liptovsk\u00e9 Rev\u00face"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00e9 Rev\u00face"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00e9 Rev\u00face"
-    ],
-    "name:ger_x_preferred":[
-        "Liptovsk\u00e9 Rev\u00face"
-    ],
     "name:hun_x_preferred":[
         "H\u00e1romrevuca"
     ],
     "name:ita_x_preferred":[
-        "Liptovsk\u00e9 Rev\u00face"
-    ],
-    "name:may_x_preferred":[
         "Liptovsk\u00e9 Rev\u00face"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Liptovsk\u00e9 Rev\u00face"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liptovsk\u00e9 Rev\u00face"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101782945,
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561841702,
     "wof:name":"Liptovsk\u00e9 Rev\u00face",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

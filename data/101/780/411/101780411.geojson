@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":2183074.154584,
+    "geom:area_square_m":2183074.154586,
     "geom:bbox":"18.769630969,49.3342942194,18.8356004826,49.3581356117",
     "geom:latitude":49.34451,
     "geom:longitude":18.803454,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kysuck\u00fd Lieskovec"
     ],
-    "name:cze_x_preferred":[
-        "Kysuck\u00fd Lieskovec"
-    ],
     "name:deu_x_preferred":[
-        "Kysuck\u00fd Lieskovec"
-    ],
-    "name:dut_x_preferred":[
         "Kysuck\u00fd Lieskovec"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kysuck\u00fd Lieskovec"
     ],
-    "name:fre_x_preferred":[
-        "Kysuck\u00fd Lieskovec"
-    ],
-    "name:ger_x_preferred":[
-        "Kysuck\u00fd Lieskovec"
-    ],
     "name:hun_x_preferred":[
         "\u00dajhelymogyor\u00f3d"
     ],
     "name:ita_x_preferred":[
-        "Kysuck\u00fd Lieskovec"
-    ],
-    "name:may_x_preferred":[
         "Kysuck\u00fd Lieskovec"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Kysuck\u00fd Lieskovec"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kysuck\u00fd Lieskovec"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101780411,
-    "wof:lastmodified":1527715873,
+    "wof:lastmodified":1561841717,
     "wof:name":"Kysuck\u00fd Lieskovec",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

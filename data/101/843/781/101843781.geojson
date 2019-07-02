@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":1884379.621161,
+    "geom:area_square_m":1884379.62116,
     "geom:bbox":"17.7067352973,48.4972438078,17.7340535129,48.5206753586",
     "geom:latitude":48.509429,
     "geom:longitude":17.721511,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:cze_x_preferred":[
-        "Ve\u013ek\u00e9 Kosto\u013eany"
-    ],
     "name:deu_x_preferred":[
-        "Ve\u013ek\u00e9 Kosto\u013eany"
-    ],
-    "name:dut_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e9 Kosto\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00e9 Kosto\u013eany"
-    ],
     "name:hbs_x_preferred":[
         "Veljke Kostoljani"
     ],
@@ -53,9 +41,6 @@
         "Nagykosztol\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00e9 Kosto\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101843781,
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561841692,
     "wof:name":"Ve\u013ek\u00e9 Kosto\u013eany",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

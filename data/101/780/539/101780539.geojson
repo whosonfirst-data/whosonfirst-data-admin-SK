@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000747,
-    "geom:area_square_m":6061248.689283,
+    "geom:area_square_m":6061248.689286,
     "geom:bbox":"22.1291894815,48.975101219,22.1874328155,49.0096363247",
     "geom:latitude":48.988224,
     "geom:longitude":22.15595,
@@ -32,19 +32,10 @@
     "name:ces_x_preferred":[
         "Snina"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5c3c\u7d0d"
-    ],
-    "name:cze_x_preferred":[
-        "Snina"
-    ],
     "name:dan_x_preferred":[
         "Snina"
     ],
     "name:deu_x_preferred":[
-        "Snina"
-    ],
-    "name:dut_x_preferred":[
         "Snina"
     ],
     "name:eng_x_preferred":[
@@ -56,10 +47,7 @@
     "name:fas_x_preferred":[
         "\u0633\u0646\u06cc\u0646\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Snina"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Snina"
     ],
     "name:hbs_x_preferred":[
@@ -89,14 +77,14 @@
     "name:lit_x_preferred":[
         "Snina"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Snina"
     ],
     "name:nan_x_preferred":[
         "Snina"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u06cc\u0646\u0627"
+    "name:nld_x_preferred":[
+        "Snina"
     ],
     "name:pol_x_preferred":[
         "Snina"
@@ -107,16 +95,10 @@
     "name:rue_x_preferred":[
         "\u0421\u043d\u0438\u043d\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Snina"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043d\u0438\u043d\u0430"
     ],
     "name:slk_x_preferred":[
-        "Snina"
-    ],
-    "name:slo_x_preferred":[
         "Snina"
     ],
     "name:srp_x_preferred":[
@@ -188,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715871,
+    "wof:lastmodified":1561841716,
     "wof:name":"Snina",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

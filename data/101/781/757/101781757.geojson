@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1924151.495088,
+    "geom:area_square_m":1924151.495089,
     "geom:bbox":"19.6187102214,48.7382004239,19.6862006192,48.7570365643",
     "geom:latitude":48.747121,
     "geom:longitude":19.652994,
@@ -24,13 +24,7 @@
     "name:ces_x_preferred":[
         "\u010cierny Balog"
     ],
-    "name:cze_x_preferred":[
-        "\u010cierny Balog"
-    ],
     "name:deu_x_preferred":[
-        "\u010cierny Balog"
-    ],
-    "name:dut_x_preferred":[
         "\u010cierny Balog"
     ],
     "name:eng_x_preferred":[
@@ -42,19 +36,10 @@
     "name:fra_x_preferred":[
         "\u010cierny Balog"
     ],
-    "name:fre_x_preferred":[
-        "\u010cierny Balog"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cierny Balog"
-    ],
     "name:hun_x_preferred":[
         "Feketebalog"
     ],
     "name:ita_x_preferred":[
-        "\u010cierny Balog"
-    ],
-    "name:may_x_preferred":[
         "\u010cierny Balog"
     ],
     "name:msa_x_preferred":[
@@ -72,7 +57,7 @@
     "name:rus_x_preferred":[
         "\u0427\u044c\u0435\u0440\u043d\u044b \u0411\u0430\u043b\u043e\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cierny Balog"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101781757,
-    "wof:lastmodified":1527715629,
+    "wof:lastmodified":1561841708,
     "wof:name":"\u010cierny Balog",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

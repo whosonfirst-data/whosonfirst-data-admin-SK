@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1635313.492598,
+    "geom:area_square_m":1635313.492599,
     "geom:bbox":"18.3315477074,48.0005671615,18.3672377479,48.0160764372",
     "geom:latitude":48.009649,
     "geom:longitude":18.350193,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Semerovo"
     ],
-    "name:dut_x_preferred":[
-        "Semerovo"
-    ],
     "name:eng_x_preferred":[
         "Semerovo"
     ],
@@ -32,12 +29,6 @@
         "Semerovo"
     ],
     "name:fra_x_preferred":[
-        "Semerovo"
-    ],
-    "name:fre_x_preferred":[
-        "Semerovo"
-    ],
-    "name:ger_x_preferred":[
         "Semerovo"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Semerovo"
     ],
-    "name:may_x_preferred":[
-        "Semerovo"
-    ],
     "name:msa_x_preferred":[
         "Semerovo"
     ],
@@ -62,9 +50,6 @@
         "Semerovo"
     ],
     "name:slk_x_preferred":[
-        "Semerovo"
-    ],
-    "name:slo_x_preferred":[
         "Semerovo"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101843725,
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561841690,
     "wof:name":"Semerovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cajkov"
     ],
-    "name:cze_x_preferred":[
-        "\u010cajkov"
-    ],
     "name:deu_x_preferred":[
-        "\u010cajkov"
-    ],
-    "name:dut_x_preferred":[
         "\u010cajkov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "\u010cajkov"
     ],
-    "name:fre_x_preferred":[
-        "\u010cajkov"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cajkov"
-    ],
     "name:hun_x_preferred":[
         "Csejk\u0151"
     ],
     "name:ita_x_preferred":[
-        "\u010cajkov"
-    ],
-    "name:may_x_preferred":[
         "\u010cajkov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "\u010cajkov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cajkov"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101783969,
-    "wof:lastmodified":1527688500,
+    "wof:lastmodified":1561841703,
     "wof:name":"\u010cajkov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

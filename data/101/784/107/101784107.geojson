@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Dobr\u00e1 Niva"
     ],
-    "name:cze_x_preferred":[
-        "Dobr\u00e1 Niva"
-    ],
     "name:deu_x_preferred":[
-        "Dobr\u00e1 Niva"
-    ],
-    "name:dut_x_preferred":[
         "Dobr\u00e1 Niva"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Dobr\u00e1 Niva"
     ],
-    "name:fre_x_preferred":[
-        "Dobr\u00e1 Niva"
-    ],
-    "name:ger_x_preferred":[
-        "Dobr\u00e1 Niva"
-    ],
     "name:hun_x_preferred":[
         "Dobronya"
     ],
     "name:ita_x_preferred":[
-        "Dobr\u00e1 Niva"
-    ],
-    "name:may_x_preferred":[
         "Dobr\u00e1 Niva"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Dobr\u00e1 Niva"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dobr\u00e1 Niva"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101784107,
-    "wof:lastmodified":1527688542,
+    "wof:lastmodified":1561841705,
     "wof:name":"Dobr\u00e1 Niva",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

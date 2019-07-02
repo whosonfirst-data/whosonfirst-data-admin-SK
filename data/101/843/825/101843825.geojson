@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":378847.704294,
+    "geom:area_square_m":378847.704295,
     "geom:bbox":"19.1793965361,48.7561693257,19.1897354085,48.769657683",
     "geom:latitude":48.76309,
     "geom:longitude":19.184949,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Nemce"
     ],
-    "name:cze_x_preferred":[
-        "Nemce"
-    ],
     "name:deu_x_preferred":[
-        "Nemce"
-    ],
-    "name:dut_x_preferred":[
         "Nemce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Nemce"
     ],
-    "name:fre_x_preferred":[
-        "Nemce"
-    ],
-    "name:ger_x_preferred":[
-        "Nemce"
-    ],
     "name:hbs_x_preferred":[
         "Njemce"
     ],
@@ -53,9 +41,6 @@
         "Z\u00f3lyomn\u00e9meti"
     ],
     "name:ita_x_preferred":[
-        "Nemce"
-    ],
-    "name:may_x_preferred":[
         "Nemce"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "Nemce"
     ],
     "name:slk_x_preferred":[
-        "Nemce"
-    ],
-    "name:slo_x_preferred":[
         "Nemce"
     ],
     "name:srp_x_preferred":[
@@ -144,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642598,
+    "wof:lastmodified":1561841692,
     "wof:name":"Nemce",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

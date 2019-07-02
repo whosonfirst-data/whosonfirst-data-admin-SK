@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Jaklovce"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jaklovce"
     ],
     "name:deu_x_preferred":[
-        "Jaklovce"
-    ],
-    "name:dut_x_preferred":[
         "Jaklovce"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Jaklovce"
     ],
-    "name:fre_x_preferred":[
-        "Jaklovce"
-    ],
-    "name:ger_x_preferred":[
-        "Jaklovce"
-    ],
     "name:hbs_x_preferred":[
         "Jaklovce"
     ],
@@ -50,9 +41,6 @@
         "Jekelfalva"
     ],
     "name:ita_x_preferred":[
-        "Jaklovce"
-    ],
-    "name:may_x_preferred":[
         "Jaklovce"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Jaklovce"
     ],
     "name:slk_x_preferred":[
-        "Jaklovce"
-    ],
-    "name:slo_x_preferred":[
         "Jaklovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101780257,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Jaklovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

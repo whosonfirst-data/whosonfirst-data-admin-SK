@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":687898.961242,
+    "geom:area_square_m":687898.961243,
     "geom:bbox":"18.8758825751,48.8167326726,18.8948987754,48.8295197449",
     "geom:latitude":48.823632,
     "geom:longitude":18.885342,
@@ -22,17 +22,11 @@
     "name:ces_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:cze_x_preferred":[
-        "Horn\u00e1 \u0160tub\u0148a"
-    ],
     "name:deu_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:deu_x_variant":[
         "Ober-Stuben"
-    ],
-    "name:dut_x_preferred":[
-        "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:eng_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:fre_x_preferred":[
-        "Horn\u00e1 \u0160tub\u0148a"
-    ],
-    "name:ger_x_preferred":[
-        "Horn\u00e1 \u0160tub\u0148a"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151stubnya"
     ],
     "name:ita_x_preferred":[
-        "Horn\u00e1 \u0160tub\u0148a"
-    ],
-    "name:may_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101781705,
-    "wof:lastmodified":1527715628,
+    "wof:lastmodified":1561841708,
     "wof:name":"Horn\u00e1 \u0160tub\u0148a",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

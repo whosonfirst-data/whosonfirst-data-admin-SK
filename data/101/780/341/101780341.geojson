@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sverepec"
     ],
-    "name:cze_x_preferred":[
-        "Sverepec"
-    ],
     "name:deu_x_preferred":[
-        "Sverepec"
-    ],
-    "name:dut_x_preferred":[
         "Sverepec"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Sverepec"
     ],
-    "name:fre_x_preferred":[
-        "Sverepec"
-    ],
-    "name:ger_x_preferred":[
-        "Sverepec"
-    ],
     "name:hbs_x_preferred":[
         "Sverepec"
     ],
@@ -53,9 +41,6 @@
         "Lejt\u0151s"
     ],
     "name:ita_x_preferred":[
-        "Sverepec"
-    ],
-    "name:may_x_preferred":[
         "Sverepec"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Sverepec"
     ],
     "name:slk_x_preferred":[
-        "Sverepec"
-    ],
-    "name:slo_x_preferred":[
         "Sverepec"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101780341,
-    "wof:lastmodified":1527715869,
+    "wof:lastmodified":1561841715,
     "wof:name":"Sverepec",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

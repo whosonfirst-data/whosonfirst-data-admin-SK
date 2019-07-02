@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Diakovce"
     ],
-    "name:cze_x_preferred":[
-        "Diakovce"
-    ],
     "name:deu_x_preferred":[
-        "Diakovce"
-    ],
-    "name:dut_x_preferred":[
         "Diakovce"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +37,6 @@
     "name:fra_x_preferred":[
         "Diakovce"
     ],
-    "name:fre_x_preferred":[
-        "Diakovce"
-    ],
-    "name:ger_x_preferred":[
-        "Diakovce"
-    ],
     "name:hbs_x_preferred":[
         "Djakovce"
     ],
@@ -56,9 +44,6 @@
         "De\u00e1ki"
     ],
     "name:ita_x_preferred":[
-        "Diakovce"
-    ],
-    "name:may_x_preferred":[
         "Diakovce"
     ],
     "name:msa_x_preferred":[
@@ -80,9 +65,6 @@
         "\u0414\u0435\u0430\u043a\u0438"
     ],
     "name:slk_x_preferred":[
-        "Diakovce"
-    ],
-    "name:slo_x_preferred":[
         "Diakovce"
     ],
     "name:slv_x_preferred":[
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":101786387,
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561841711,
     "wof:name":"Diakovce",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000874,
-    "geom:area_square_m":7057743.072703,
+    "geom:area_square_m":7057743.0727,
     "geom:bbox":"18.818707036,49.1780900196,18.8794768394,49.2298449337",
     "geom:latitude":49.204975,
     "geom:longitude":18.847198,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Gbe\u013eany"
     ],
-    "name:cze_x_preferred":[
-        "Gbe\u013eany"
-    ],
     "name:deu_x_preferred":[
-        "Gbe\u013eany"
-    ],
-    "name:dut_x_preferred":[
         "Gbe\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +35,10 @@
     "name:fra_x_preferred":[
         "Gbe\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Gbe\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Gbe\u013eany"
-    ],
     "name:hun_x_preferred":[
         "Egbel\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Gbe\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Gbe\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -65,7 +50,7 @@
     "name:pol_x_preferred":[
         "Gbe\u013eany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gbe\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642790,
+    "wof:lastmodified":1561841694,
     "wof:name":"Gbe\u013eany",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

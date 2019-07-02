@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bobrovec"
     ],
-    "name:cze_x_preferred":[
-        "Bobrovec"
-    ],
     "name:deu_x_preferred":[
-        "Bobrovec"
-    ],
-    "name:dut_x_preferred":[
         "Bobrovec"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Bobrovec"
     ],
-    "name:fre_x_preferred":[
-        "Bobrovec"
-    ],
-    "name:ger_x_preferred":[
-        "Bobrovec"
-    ],
     "name:hbs_x_preferred":[
         "Bobrovec"
     ],
@@ -53,9 +41,6 @@
         "Nagybobr\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Bobrovec"
-    ],
-    "name:may_x_preferred":[
         "Bobrovec"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Bobrowiec"
     ],
     "name:slk_x_preferred":[
-        "Bobrovec"
-    ],
-    "name:slo_x_preferred":[
         "Bobrovec"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101780351,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841716,
     "wof:name":"Bobrovec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

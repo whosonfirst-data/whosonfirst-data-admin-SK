@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sa\u010durov"
     ],
-    "name:cze_x_preferred":[
-        "Sa\u010durov"
-    ],
     "name:deu_x_preferred":[
-        "Sa\u010durov"
-    ],
-    "name:dut_x_preferred":[
         "Sa\u010durov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Sa\u010durov"
     ],
-    "name:fre_x_preferred":[
-        "Sa\u010durov"
-    ],
-    "name:ger_x_preferred":[
-        "Sa\u010durov"
-    ],
     "name:hun_x_preferred":[
         "Szacs\u00far"
     ],
     "name:ita_x_preferred":[
-        "Sa\u010durov"
-    ],
-    "name:may_x_preferred":[
         "Sa\u010durov"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0447\u0443\u0440\u043e\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sa\u010durov"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780463,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Sa\u010durov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

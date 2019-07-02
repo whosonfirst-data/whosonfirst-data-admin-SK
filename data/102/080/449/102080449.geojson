@@ -31,16 +31,13 @@
     "name:cat_x_preferred":[
         "Districte de Bratislava V"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u63d0\u65af\u62c9\u74e65\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Bratislava V"
     ],
     "name:dan_x_preferred":[
         "Bratislava V"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Bratislava V"
     ],
     "name:eng_x_preferred":[
@@ -52,14 +49,8 @@
     "name:fin_x_preferred":[
         "Bratislava V"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Bratislava V"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10e2\u10d8\u10e1\u10da\u10d0\u10d5\u10d0 V-\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Bratislava V"
     ],
     "name:hrv_x_preferred":[
         "Okrug Bratislava V"
@@ -70,6 +61,9 @@
     "name:ita_x_preferred":[
         "Distretto di Bratislava V"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10e2\u10d8\u10e1\u10da\u10d0\u10d5\u10d0 V-\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Posonium V"
     ],
@@ -79,22 +73,25 @@
     "name:nan_x_preferred":[
         "Bratislava V"
     ],
+    "name:nld_x_preferred":[
+        "Okres Bratislava V"
+    ],
     "name:pol_x_preferred":[
         "Powiat Bratys\u0142awa V"
     ],
     "name:por_x_preferred":[
         "Bratislava V"
     ],
+    "name:ron_x_preferred":[
+        "Bratislava V"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0411\u0440\u0430\u0442\u0457\u0441\u043b\u0430\u0432\u0430 V"
-    ],
-    "name:rum_x_preferred":[
-        "Bratislava V"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 V"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bratislava V"
     ],
     "name:spa_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:war_x_preferred":[
         "Bratislava V"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u63d0\u65af\u62c9\u74e65\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":102080449,
-    "wof:lastmodified":1553717228,
+    "wof:lastmodified":1561841675,
     "wof:name":"Bratislava V",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000327,
-    "geom:area_square_m":2641695.897263,
+    "geom:area_square_m":2641695.897259,
     "geom:bbox":"18.1918587508,49.1669055045,18.267530203,49.209624438",
     "geom:latitude":49.1892,
     "geom:longitude":18.226185,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
-    "name:cze_x_preferred":[
-        "Lys\u00e1 pod Makytou"
-    ],
     "name:deu_x_preferred":[
-        "Lys\u00e1 pod Makytou"
-    ],
-    "name:dut_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
-    "name:fre_x_preferred":[
-        "Lys\u00e1 pod Makytou"
-    ],
-    "name:ger_x_preferred":[
-        "Lys\u00e1 pod Makytou"
-    ],
     "name:hbs_x_preferred":[
         "Lisa pod Makitom"
     ],
@@ -53,9 +41,6 @@
         "Feh\u00e9rhalom"
     ],
     "name:ita_x_preferred":[
-        "Lys\u00e1 pod Makytou"
-    ],
-    "name:may_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780333,
-    "wof:lastmodified":1527715872,
+    "wof:lastmodified":1561841716,
     "wof:name":"Lys\u00e1 pod Makytou",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

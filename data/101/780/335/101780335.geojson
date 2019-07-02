@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000951,
-    "geom:area_square_m":7695976.187741,
+    "geom:area_square_m":7695976.187739,
     "geom:bbox":"18.2890587005,49.0854459039,18.3602317721,49.1447302936",
     "geom:latitude":49.117299,
     "geom:longitude":18.323341,
@@ -29,19 +29,10 @@
     "name:ces_x_preferred":[
         "P\u00fachov"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u970d\u592b"
-    ],
     "name:chv_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432"
     ],
-    "name:cze_x_preferred":[
-        "P\u00fachov"
-    ],
     "name:deu_x_preferred":[
-        "P\u00fachov"
-    ],
-    "name:dut_x_preferred":[
         "P\u00fachov"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u067e\u0648\u062e\u0648"
     ],
     "name:fra_x_preferred":[
-        "P\u00fachov"
-    ],
-    "name:fre_x_preferred":[
-        "P\u00fachov"
-    ],
-    "name:ger_x_preferred":[
         "P\u00fachov"
     ],
     "name:hbs_x_preferred":[
@@ -86,20 +71,17 @@
     "name:lit_x_preferred":[
         "P\u016bchovas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0443\u0445\u043e\u0432"
-    ],
-    "name:may_x_preferred":[
-        "P\u00fachov"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00fachov"
     ],
     "name:nan_x_preferred":[
         "P\u00fachov"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u062e\u0648"
+    "name:nld_x_preferred":[
+        "P\u00fachov"
     ],
     "name:pol_x_preferred":[
         "P\u00fachov"
@@ -107,16 +89,10 @@
     "name:ron_x_preferred":[
         "P\u00fachov"
     ],
-    "name:rum_x_preferred":[
-        "P\u00fachov"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432"
     ],
     "name:slk_x_preferred":[
-        "P\u00fachov"
-    ],
-    "name:slo_x_preferred":[
         "P\u00fachov"
     ],
     "name:slv_x_preferred":[
@@ -195,7 +171,7 @@
         }
     ],
     "wof:id":101780335,
-    "wof:lastmodified":1527715871,
+    "wof:lastmodified":1561841716,
     "wof:name":"P\u00fachov",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

@@ -25,10 +25,10 @@
     "name:cat_x_preferred":[
         "Districte de Sobrance"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Sobrance"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Sobrance"
     ],
     "name:eng_x_preferred":[
@@ -37,14 +37,8 @@
     "name:epo_x_preferred":[
         "Distrikto Sobrance"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Sobrance"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10d1\u10e0\u10d0\u10dc\u10ea\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Sobrance"
     ],
     "name:hrv_x_preferred":[
         "Okrug Sobrance"
@@ -58,17 +52,23 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30d6\u30e9\u30f3\u30c4\u30a7\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d1\u10e0\u10d0\u10dc\u10ea\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Sobrance"
     ],
     "name:lav_x_preferred":[
         "Sobrances apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Sobrance"
     ],
     "name:nan_x_preferred":[
         "Sobrance Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Sobrance"
     ],
     "name:nob_x_preferred":[
         "Sobrance"
@@ -79,16 +79,16 @@
     "name:por_x_preferred":[
         "Sobrance"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Sobrance"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0421\u043e\u0431\u0440\u0430\u043d\u0446\u0457"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Sobrance"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0431\u0440\u0430\u043d\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sobrance"
     ],
     "name:spa_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102080571,
-    "wof:lastmodified":1553717230,
+    "wof:lastmodified":1561841678,
     "wof:name":"Sobrance",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

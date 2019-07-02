@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1276235.409629,
+    "geom:area_square_m":1276235.409628,
     "geom:bbox":"18.214974349,48.3694974976,18.2419956866,48.3857842906",
     "geom:latitude":48.377622,
     "geom:longitude":18.226515,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Jelenec"
     ],
-    "name:cze_x_preferred":[
-        "Jelenec"
-    ],
     "name:deu_x_preferred":[
-        "Jelenec"
-    ],
-    "name:dut_x_preferred":[
         "Jelenec"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Jelenec"
     ],
-    "name:fre_x_preferred":[
-        "Jelenec"
-    ],
-    "name:ger_x_preferred":[
-        "Jelenec"
-    ],
     "name:hbs_x_preferred":[
         "Jeljenjec"
     ],
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Jelenec"
     ],
-    "name:may_x_preferred":[
-        "Jelenec"
-    ],
     "name:msa_x_preferred":[
         "Jelenec"
     ],
@@ -65,9 +50,6 @@
         "Jelenec"
     ],
     "name:slk_x_preferred":[
-        "Jelenec"
-    ],
-    "name:slo_x_preferred":[
         "Jelenec"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688494,
+    "wof:lastmodified":1561841703,
     "wof:name":"Jelenec",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

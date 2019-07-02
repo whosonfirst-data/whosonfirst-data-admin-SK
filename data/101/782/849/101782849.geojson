@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bystri\u010dany"
     ],
-    "name:cze_x_preferred":[
-        "Bystri\u010dany"
-    ],
     "name:deu_x_preferred":[
-        "Bystri\u010dany"
-    ],
-    "name:dut_x_preferred":[
         "Bystri\u010dany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Bystri\u010dany"
     ],
-    "name:fre_x_preferred":[
-        "Bystri\u010dany"
-    ],
-    "name:ger_x_preferred":[
-        "Bystri\u010dany"
-    ],
     "name:hbs_x_preferred":[
         "Bistri\u010dani"
     ],
@@ -53,9 +41,6 @@
         "Besztercs\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Bystri\u010dany"
-    ],
-    "name:may_x_preferred":[
         "Bystri\u010dany"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "Bystri\u010dany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bystri\u010dany"
     ],
     "name:spa_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101782849,
-    "wof:lastmodified":1527688322,
+    "wof:lastmodified":1561841701,
     "wof:name":"Bystri\u010dany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

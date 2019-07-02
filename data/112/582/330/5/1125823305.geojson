@@ -21,7 +21,7 @@
     "name:cat_x_preferred":[
         "O\u017e\u010fany"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "O\u017e\u010fany"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:epo_x_preferred":[
         "O\u017e\u010fany"
     ],
-    "name:fre_x_preferred":[
-        "O\u017e\u010fany"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "O\u017e\u010fany"
     ],
     "name:hun_x_preferred":[
@@ -42,16 +39,19 @@
     "name:ita_x_preferred":[
         "O\u017e\u010fany"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "O\u017e\u010fany"
     ],
     "name:nan_x_preferred":[
         "O\u017e\u010fany"
     ],
+    "name:nld_x_preferred":[
+        "O\u017e\u010fany"
+    ],
     "name:pol_x_preferred":[
         "O\u017e\u010fany"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "O\u017e\u010fany"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125823305,
-    "wof:lastmodified":1514505216,
+    "wof:lastmodified":1561841728,
     "wof:name":"O\u017ed\u0315any",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

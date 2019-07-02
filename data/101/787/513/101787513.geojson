@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Kamenica nad Hronom"
     ],
-    "name:dut_x_preferred":[
-        "Kamenica nad Hronom"
-    ],
     "name:eng_x_preferred":[
         "Kamenica nad Hronom"
     ],
@@ -32,12 +29,6 @@
         "Kamenica nad Hronom"
     ],
     "name:fra_x_preferred":[
-        "Kamenica nad Hronom"
-    ],
-    "name:fre_x_preferred":[
-        "Kamenica nad Hronom"
-    ],
-    "name:ger_x_preferred":[
         "Kamenica nad Hronom"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Kamenica nad Hronom"
     ],
-    "name:may_x_preferred":[
-        "Kamenica nad Hronom"
-    ],
     "name:msa_x_preferred":[
         "Kamenica nad Hronom"
     ],
@@ -62,9 +50,6 @@
         "Kamenica nad Hronom"
     ],
     "name:slk_x_preferred":[
-        "Kamenica nad Hronom"
-    ],
-    "name:slo_x_preferred":[
         "Kamenica nad Hronom"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101787513,
-    "wof:lastmodified":1527715853,
+    "wof:lastmodified":1561841712,
     "wof:name":"Kamenica nad Hronom",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Trnovec nad V\u00e1hom"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Trnovec nad V\u00e1hom"
     ],
     "name:deu_x_preferred":[
-        "Trnovec nad V\u00e1hom"
-    ],
-    "name:dut_x_preferred":[
         "Trnovec nad V\u00e1hom"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Trnovec nad V\u00e1hom"
     ],
-    "name:fre_x_preferred":[
-        "Trnovec nad V\u00e1hom"
-    ],
-    "name:ger_x_preferred":[
-        "Trnovec nad V\u00e1hom"
-    ],
     "name:hbs_x_preferred":[
         "Trnovec na Vahu"
     ],
@@ -50,9 +41,6 @@
         "Torn\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Trnovec nad V\u00e1hom"
-    ],
-    "name:may_x_preferred":[
         "Trnovec nad V\u00e1hom"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Trnovec nad V\u00e1hom"
     ],
     "name:slk_x_preferred":[
-        "Trnovec nad V\u00e1hom"
-    ],
-    "name:slo_x_preferred":[
         "Trnovec nad V\u00e1hom"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101786381,
-    "wof:lastmodified":1527715654,
+    "wof:lastmodified":1561841711,
     "wof:name":"Trnovec nad V\u00e1hom",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

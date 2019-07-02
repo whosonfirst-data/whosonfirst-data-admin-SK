@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Plave\u010d"
     ],
-    "name:cze_x_preferred":[
-        "Plave\u010d"
-    ],
     "name:deu_x_preferred":[
-        "Plave\u010d"
-    ],
-    "name:dut_x_preferred":[
         "Plave\u010d"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Plave\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Plave\u010d"
-    ],
-    "name:ger_x_preferred":[
-        "Plave\u010d"
-    ],
     "name:hun_x_preferred":[
         "Palocsa"
     ],
     "name:ita_x_preferred":[
-        "Plave\u010d"
-    ],
-    "name:may_x_preferred":[
         "Plave\u010d"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:rue_x_preferred":[
         "\u041f\u043b\u0430\u0432\u0435\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Plave\u010d"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101843979,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841690,
     "wof:name":"Plave\u010d",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

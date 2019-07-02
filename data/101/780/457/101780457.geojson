@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1146480.10289,
+    "geom:area_square_m":1146480.102892,
     "geom:bbox":"21.7190906335,48.9007437494,21.7440814368,48.918958569",
     "geom:latitude":48.908358,
     "geom:longitude":21.732564,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sedlisk\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Sedlisk\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Sedlisk\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Sedlisk\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Sedlisk\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Sedlisk\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Sedlisk\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Telekh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Sedlisk\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Sedlisk\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Sedlisk\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sedlisk\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101780457,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Sedlisk\u00e1",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

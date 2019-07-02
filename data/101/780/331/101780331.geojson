@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lazy pod Makytou"
     ],
-    "name:cze_x_preferred":[
-        "Lazy pod Makytou"
-    ],
     "name:deu_x_preferred":[
-        "Lazy pod Makytou"
-    ],
-    "name:dut_x_preferred":[
         "Lazy pod Makytou"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lazy pod Makytou"
     ],
-    "name:fre_x_preferred":[
-        "Lazy pod Makytou"
-    ],
-    "name:ger_x_preferred":[
-        "Lazy pod Makytou"
-    ],
     "name:hbs_x_preferred":[
         "Lazi pod Makitom"
     ],
@@ -53,9 +41,6 @@
         "L\u00e1z"
     ],
     "name:ita_x_preferred":[
-        "Lazy pod Makytou"
-    ],
-    "name:may_x_preferred":[
         "Lazy pod Makytou"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Lazy pod Makytou"
     ],
     "name:slk_x_preferred":[
-        "Lazy pod Makytou"
-    ],
-    "name:slo_x_preferred":[
         "Lazy pod Makytou"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101780331,
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841712,
     "wof:name":"Lazy pod Makytou",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000342,
-    "geom:area_square_m":2811784.316121,
+    "geom:area_square_m":2811784.316122,
     "geom:bbox":"17.3297985199,48.2854352382,17.3753220205,48.3086075211",
     "geom:latitude":48.298244,
     "geom:longitude":17.350563,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u0160enkvice"
     ],
-    "name:cze_x_preferred":[
-        "\u0160enkvice"
-    ],
     "name:deu_x_preferred":[
-        "\u0160enkvice"
-    ],
-    "name:dut_x_preferred":[
         "\u0160enkvice"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +37,6 @@
     "name:fra_x_preferred":[
         "\u0160enkvice"
     ],
-    "name:fre_x_preferred":[
-        "\u0160enkvice"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160enkvice"
-    ],
     "name:hun_x_preferred":[
         "Senk\u0151c"
     ],
@@ -56,9 +44,6 @@
         "Nagysenk\u0151c"
     ],
     "name:ita_x_preferred":[
-        "\u0160enkvice"
-    ],
-    "name:may_x_preferred":[
         "\u0160enkvice"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:por_x_preferred":[
         "\u0160enkvice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160enkvice"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +114,7 @@
         }
     ],
     "wof:id":101785213,
-    "wof:lastmodified":1527684901,
+    "wof:lastmodified":1561841698,
     "wof:name":"\u0160enkvice",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

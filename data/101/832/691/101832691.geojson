@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001238,
-    "geom:area_square_m":10123398.470798,
+    "geom:area_square_m":10123398.470801,
     "geom:bbox":"17.7862155936,48.5618977635,17.8403182143,48.6343900975",
     "geom:latitude":48.594261,
     "geom:longitude":17.823562,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0634\u062a\u0627\u0646\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "Pie\u0161\u0165any"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f'\u0435\u0448\u0446\u044f\u043d\u044b"
@@ -39,10 +36,7 @@
     "name:ces_x_preferred":[
         "Pie\u0161\u0165any"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u8036\u4ec0\u4f73\u5c3c"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:dan_x_preferred":[
@@ -51,13 +45,13 @@
     "name:deu_x_preferred":[
         "Pie\u0161\u0165any"
     ],
-    "name:dut_x_preferred":[
-        "Pie\u0161\u0165any"
-    ],
     "name:eng_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:epo_x_preferred":[
+        "Pie\u0161\u0165any"
+    ],
+    "name:eus_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:fas_x_preferred":[
@@ -67,12 +61,6 @@
         "Pie\u0161\u0165any"
     ],
     "name:fra_x_preferred":[
-        "Pie\u0161\u0165any"
-    ],
-    "name:fre_x_preferred":[
-        "Pie\u0161\u0165any"
-    ],
-    "name:ger_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:gle_x_preferred":[
@@ -108,17 +96,17 @@
     "name:lit_x_preferred":[
         "Pie\u0161tianai"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:nan_x_preferred":[
         "Pie\u0161\u0165any"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Pie\u0161\u0165any"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0647\u200c\u0634\u062a\u0627\u0646\u06cc"
+    "name:nob_x_preferred":[
+        "Pie\u0161\u0165any"
     ],
     "name:pol_x_preferred":[
         "Pieszczany"
@@ -129,9 +117,6 @@
     "name:rue_x_preferred":[
         "\u041f\u0454\u0448\u0442\u044f\u043d\u044b"
     ],
-    "name:rum_x_preferred":[
-        "Pie\u0161\u0165any"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u044c\u0435\u0448\u0442\u044f\u043d\u0438"
     ],
@@ -139,9 +124,6 @@
         "Pie\u0161\u0165any"
     ],
     "name:slk_x_preferred":[
-        "Pie\u0161\u0165any"
-    ],
-    "name:slo_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:slv_x_preferred":[
@@ -169,9 +151,6 @@
         "Pie\u0161\u0165anoch"
     ],
     "name:war_x_preferred":[
-        "Pie\u0161\u0165any"
-    ],
-    "name:wel_x_preferred":[
         "Pie\u0161\u0165any"
     ],
     "name:zho_x_preferred":[
@@ -227,7 +206,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642788,
+    "wof:lastmodified":1561841694,
     "wof:name":"Pie\u0161\u0165any",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Rimavsk\u00e9 Janovce"
     ],
-    "name:dut_x_preferred":[
-        "Rimavsk\u00e9 Janovce"
-    ],
     "name:eng_x_preferred":[
         "Rimavsk\u00e9 Janovce"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Rimavsk\u00e9 Janovce"
     ],
-    "name:fre_x_preferred":[
-        "Rimavsk\u00e9 Janovce"
-    ],
-    "name:ger_x_preferred":[
-        "Rimavsk\u00e9 Janovce"
-    ],
     "name:hun_x_preferred":[
         "J\u00e1nosi"
     ],
     "name:ita_x_preferred":[
-        "Rimavsk\u00e9 Janovce"
-    ],
-    "name:may_x_preferred":[
         "Rimavsk\u00e9 Janovce"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Rimavsk\u00e9 Janovce"
     ],
     "name:slk_x_preferred":[
-        "Rimavsk\u00e9 Janovce"
-    ],
-    "name:slo_x_preferred":[
         "Rimavsk\u00e9 Janovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101784127,
-    "wof:lastmodified":1527688541,
+    "wof:lastmodified":1561841704,
     "wof:name":"Rimavsk\u00e9 Janovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

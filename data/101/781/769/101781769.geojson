@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1006885.692293,
+    "geom:area_square_m":1006885.692294,
     "geom:bbox":"18.1466018099,48.9796254818,18.1662198089,48.9941144524",
     "geom:latitude":48.986112,
     "geom:longitude":18.155711,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bole\u0161ov"
     ],
-    "name:cze_x_preferred":[
-        "Bole\u0161ov"
-    ],
     "name:deu_x_preferred":[
-        "Bole\u0161ov"
-    ],
-    "name:dut_x_preferred":[
         "Bole\u0161ov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Bole\u0161ov"
     ],
-    "name:fre_x_preferred":[
-        "Bole\u0161ov"
-    ],
-    "name:ger_x_preferred":[
-        "Bole\u0161ov"
-    ],
     "name:hbs_x_preferred":[
         "Bolje\u0161ov"
     ],
@@ -53,9 +41,6 @@
         "Boles\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Bole\u0161ov"
-    ],
-    "name:may_x_preferred":[
         "Bole\u0161ov"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0435\u0448\u043e\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bole\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101781769,
-    "wof:lastmodified":1527715629,
+    "wof:lastmodified":1561841708,
     "wof:name":"Bole\u0161ov",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

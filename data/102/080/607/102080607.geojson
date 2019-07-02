@@ -34,11 +34,11 @@
     "name:ces_x_preferred":[
         "\u010cadca"
     ],
+    "name:ces_x_variant":[
+        "Okres \u010cadca"
+    ],
     "name:chv_x_preferred":[
         "\u0427\u0430\u0434\u0446\u0430"
-    ],
-    "name:cze_x_preferred":[
-        "Okres \u010cadca"
     ],
     "name:dan_x_preferred":[
         "\u010cadca"
@@ -46,7 +46,7 @@
     "name:deu_x_preferred":[
         "\u010cadca"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Okres \u010cadca"
     ],
     "name:eng_x_preferred":[
@@ -61,14 +61,8 @@
     "name:fas_x_preferred":[
         "\u0686\u0627\u062f\u062a\u0633\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de \u010cadca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10d3\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres \u010cadca"
     ],
     "name:hrv_x_preferred":[
         "Okrug \u010cadca"
@@ -79,17 +73,23 @@
     "name:ita_x_preferred":[
         "Distretto di \u010cadca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d3\u10ea\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "\u010cadca"
     ],
     "name:lav_x_preferred":[
         "\u010cadcas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah \u010cadca"
     ],
     "name:nan_x_preferred":[
         "\u010cadca Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres \u010cadca"
     ],
     "name:pol_x_preferred":[
         "Powiat Czadca"
@@ -97,16 +97,16 @@
     "name:por_x_preferred":[
         "\u010cadca"
     ],
+    "name:ron_x_preferred":[
+        "Districtul \u010cadca"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0427\u0430\u0434\u0446\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul \u010cadca"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0434\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cadca"
     ],
     "name:spa_x_preferred":[
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":102080607,
-    "wof:lastmodified":1553717231,
+    "wof:lastmodified":1561841678,
     "wof:name":"Cadca",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kamenn\u00fd Most"
     ],
-    "name:cze_x_preferred":[
-        "Kamenn\u00fd Most"
-    ],
     "name:deu_x_preferred":[
-        "Kamenn\u00fd Most"
-    ],
-    "name:dut_x_preferred":[
         "Kamenn\u00fd Most"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Kamenn\u00fd Most"
     ],
-    "name:fre_x_preferred":[
-        "Kamenn\u00fd Most"
-    ],
-    "name:ger_x_preferred":[
-        "Kamenn\u00fd Most"
-    ],
     "name:hbs_x_preferred":[
         "Kameni Most"
     ],
@@ -55,16 +43,13 @@
     "name:ita_x_preferred":[
         "Kamenn\u00fd Most"
     ],
-    "name:may_x_preferred":[
-        "Kamenn\u00fd Most"
-    ],
     "name:msa_x_preferred":[
         "Kamenn\u00fd Most"
     ],
     "name:nld_x_preferred":[
         "Kamenn\u00fd Most"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kamenn\u00fd Most"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101780211,
-    "wof:lastmodified":1514505124,
+    "wof:lastmodified":1561841713,
     "wof:name":"Kamenn\u00fd Most",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

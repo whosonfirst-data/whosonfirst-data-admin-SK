@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00069,
-    "geom:area_square_m":5678049.519774,
+    "geom:area_square_m":5678049.519775,
     "geom:bbox":"17.7082293505,48.2701942066,17.7466652097,48.3059714174",
     "geom:latitude":48.287929,
     "geom:longitude":17.731772,
@@ -28,16 +28,7 @@
     "name:ces_x_preferred":[
         "Sere\u010f"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5229\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Sere\u010f"
-    ],
     "name:deu_x_preferred":[
-        "Sere\u010f"
-    ],
-    "name:dut_x_preferred":[
         "Sere\u010f"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +38,6 @@
         "Sere\u010f"
     ],
     "name:fra_x_preferred":[
-        "Sere\u010f"
-    ],
-    "name:fre_x_preferred":[
-        "Sere\u010f"
-    ],
-    "name:ger_x_preferred":[
         "Sere\u010f"
     ],
     "name:heb_x_preferred":[
@@ -76,22 +61,25 @@
     "name:lit_x_preferred":[
         "Seredis"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sere\u010f"
     ],
     "name:nan_x_preferred":[
         "Sere\u010f"
     ],
+    "name:nld_x_preferred":[
+        "Sere\u010f"
+    ],
     "name:pol_x_preferred":[
         "Sere\u010f"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sere\u010f"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0434\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sere\u010f"
     ],
     "name:srp_x_preferred":[
@@ -108,6 +96,9 @@
     ],
     "name:war_x_preferred":[
         "Sere\u010f"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5229\u5fb7"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -157,7 +148,7 @@
         }
     ],
     "wof:id":101834125,
-    "wof:lastmodified":1527642937,
+    "wof:lastmodified":1561841696,
     "wof:name":"Sere\u010f",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

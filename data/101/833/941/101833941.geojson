@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000864,
-    "geom:area_square_m":7071021.160624,
+    "geom:area_square_m":7071021.160622,
     "geom:bbox":"18.1382743111,48.5432302759,18.1938092786,48.5795513593",
     "geom:latitude":48.561593,
     "geom:longitude":18.167328,
@@ -37,20 +37,14 @@
     "name:ces_x_preferred":[
         "Topo\u013e\u010dany"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u6ce2\u723e\u6070\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Topo\u013e\u010dany"
-    ],
     "name:dan_x_preferred":[
         "Topo\u013e\u010dany"
     ],
     "name:deu_x_preferred":[
         "Topo\u013e\u010dany"
     ],
-    "name:dut_x_preferred":[
-        "Topo\u013e\u010dany"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c0\u03cc\u03bb\u03c4\u03c3\u03b1\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Topo\u013e\u010dany"
@@ -61,14 +55,8 @@
     "name:fas_x_preferred":[
         "\u062a\u067e\u0644\u0686\u0627\u0646\u06cc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Topo\u013e\u010dany"
-    ],
-    "name:ger_x_preferred":[
-        "Topo\u013e\u010dany"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c0\u03cc\u03bb\u03c4\u03c3\u03b1\u03bd\u03b9"
     ],
     "name:hbs_x_preferred":[
         "Topolj\u010dani"
@@ -100,10 +88,13 @@
     "name:lit_x_preferred":[
         "Topol\u010danai"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Topo\u013e\u010dany"
     ],
     "name:nan_x_preferred":[
+        "Topo\u013e\u010dany"
+    ],
+    "name:nld_x_preferred":[
         "Topo\u013e\u010dany"
     ],
     "name:nno_x_preferred":[
@@ -112,25 +103,16 @@
     "name:nob_x_preferred":[
         "Topo\u013e\u010dany"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u067e\u0644\u0686\u0627\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Topolczany"
     ],
     "name:ron_x_preferred":[
         "Topo\u013e\u010dany"
     ],
-    "name:rum_x_preferred":[
-        "Topo\u013e\u010dany"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u044c\u0447\u0430\u043d\u0438"
     ],
     "name:slk_x_preferred":[
-        "Topo\u013e\u010dany"
-    ],
-    "name:slo_x_preferred":[
         "Topo\u013e\u010dany"
     ],
     "name:slv_x_preferred":[
@@ -209,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642923,
+    "wof:lastmodified":1561841695,
     "wof:name":"Topo\u013e\u010dany",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

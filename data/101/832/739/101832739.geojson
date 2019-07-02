@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":3437642.588976,
+    "geom:area_square_m":3437642.588975,
     "geom:bbox":"21.7364793631,48.8304626014,21.7645557021,48.873810866",
     "geom:latitude":48.851493,
     "geom:longitude":21.751187,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ni\u017en\u00fd Hrabovec"
     ],
-    "name:cze_x_preferred":[
-        "Ni\u017en\u00fd Hrabovec"
-    ],
     "name:deu_x_preferred":[
-        "Ni\u017en\u00fd Hrabovec"
-    ],
-    "name:dut_x_preferred":[
         "Ni\u017en\u00fd Hrabovec"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ni\u017en\u00fd Hrabovec"
     ],
-    "name:fre_x_preferred":[
-        "Ni\u017en\u00fd Hrabovec"
-    ],
-    "name:ger_x_preferred":[
-        "Ni\u017en\u00fd Hrabovec"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3gyerty\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Ni\u017en\u00fd Hrabovec"
-    ],
-    "name:may_x_preferred":[
         "Ni\u017en\u00fd Hrabovec"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00fd Hrabovec"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ni\u017en\u00fd Hrabovec"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101832739,
-    "wof:lastmodified":1527642780,
+    "wof:lastmodified":1561841693,
     "wof:name":"Ni\u017en\u00fd Hrabovec",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

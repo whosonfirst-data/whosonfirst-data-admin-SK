@@ -28,13 +28,13 @@
     "name:cat_x_preferred":[
         "Districte de Galanta"
     ],
+    "name:ces_x_preferred":[
+        "Okres Galanta"
+    ],
     "name:chv_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043d\u0442\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Galanta"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Galanta"
     ],
     "name:eng_x_preferred":[
@@ -43,14 +43,8 @@
     "name:epo_x_preferred":[
         "Distrikto Galanta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Galanta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10d0\u10dc\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Galanta"
     ],
     "name:hrv_x_preferred":[
         "Okrug Galanta"
@@ -61,17 +55,23 @@
     "name:ita_x_preferred":[
         "Distretto di Galanta"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d0\u10dc\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Galanta"
     ],
     "name:lav_x_preferred":[
         "Galantas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Galanta"
     ],
     "name:nan_x_preferred":[
         "Galanta Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Galanta"
     ],
     "name:pol_x_preferred":[
         "Powiat Galanta"
@@ -79,16 +79,16 @@
     "name:por_x_preferred":[
         "Galanta"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Galanta"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0490\u0430\u043b\u0430\u043d\u0442\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Galanta"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043d\u0442\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Galanta"
     ],
     "name:spa_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102080469,
-    "wof:lastmodified":1553717228,
+    "wof:lastmodified":1561841678,
     "wof:name":"Galanta",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

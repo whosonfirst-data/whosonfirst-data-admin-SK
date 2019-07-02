@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001834,
-    "geom:area_square_m":14994928.762375,
+    "geom:area_square_m":14994928.762376,
     "geom:bbox":"21.1507121529,48.5827223775,21.2315213997,48.6435606816",
     "geom:latitude":48.6167,
     "geom:longitude":21.190832,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
-    "name:dut_x_preferred":[
-        "Ve\u013ek\u00e1 Ida"
-    ],
     "name:eng_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00e1 Ida"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00e1 Ida"
-    ],
     "name:hun_x_preferred":[
         "Nagyida"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00e1 Ida"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Ve\u013ek\u00e1 Ida"
     ],
     "name:slk_x_preferred":[
-        "Ve\u013ek\u00e1 Ida"
-    ],
-    "name:slo_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782839,
-    "wof:lastmodified":1527688323,
+    "wof:lastmodified":1561841702,
     "wof:name":"Ve\u013ek\u00e1 Ida",
     "wof:parent_id":102080533,
     "wof:placetype":"locality",

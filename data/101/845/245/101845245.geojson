@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Baka"
     ],
-    "name:cze_x_preferred":[
-        "Baka"
-    ],
     "name:deu_x_preferred":[
-        "Baka"
-    ],
-    "name:dut_x_preferred":[
         "Baka"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Baka"
     ],
-    "name:fre_x_preferred":[
-        "Baka"
-    ],
-    "name:ger_x_preferred":[
-        "Baka"
-    ],
     "name:hbs_x_preferred":[
         "Baka"
     ],
@@ -53,9 +41,6 @@
         "Baka"
     ],
     "name:ita_x_preferred":[
-        "Baka"
-    ],
-    "name:may_x_preferred":[
         "Baka"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Baka"
     ],
     "name:slk_x_preferred":[
-        "Baka"
-    ],
-    "name:slo_x_preferred":[
         "Baka"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101845245,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561841687,
     "wof:name":"Baka",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

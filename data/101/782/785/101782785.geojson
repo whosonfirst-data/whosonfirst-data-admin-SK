@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000577,
-    "geom:area_square_m":4715807.185125,
+    "geom:area_square_m":4715807.185129,
     "geom:bbox":"19.1276338273,48.6071654218,19.1655209309,48.6521916148",
     "geom:latitude":48.626921,
     "geom:longitude":19.140446,
@@ -25,16 +25,7 @@
     "name:ces_x_preferred":[
         "Slia\u010d"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5229\u4e9e\u5947"
-    ],
-    "name:cze_x_preferred":[
-        "Slia\u010d"
-    ],
     "name:deu_x_preferred":[
-        "Slia\u010d"
-    ],
-    "name:dut_x_preferred":[
         "Slia\u010d"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +38,6 @@
         "\u0633\u0644\u06cc\u0627\u0686"
     ],
     "name:fra_x_preferred":[
-        "Slia\u010d"
-    ],
-    "name:fre_x_preferred":[
-        "Slia\u010d"
-    ],
-    "name:ger_x_preferred":[
         "Slia\u010d"
     ],
     "name:hbs_x_preferred":[
@@ -73,25 +58,25 @@
     "name:lav_x_preferred":[
         "Slja\u010da"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Slia\u010d"
     ],
     "name:nan_x_preferred":[
         "Slia\u010d"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u06cc\u0627\u0686"
+    "name:nld_x_preferred":[
+        "Slia\u010d"
     ],
     "name:pol_x_preferred":[
         "Slia\u010d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Slia\u010d"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u0438\u0430\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Slia\u010d"
     ],
     "name:spa_x_preferred":[
@@ -173,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561841700,
     "wof:name":"Slia\u010d",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

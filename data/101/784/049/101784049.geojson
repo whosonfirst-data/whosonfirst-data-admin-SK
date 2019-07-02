@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
-    "geom:area_square_m":3439822.434125,
+    "geom:area_square_m":3439822.434126,
     "geom:bbox":"18.6260077716,48.3956281309,18.6671871203,48.4367473531",
     "geom:latitude":48.414509,
     "geom:longitude":18.644948,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Brehy"
     ],
-    "name:cze_x_preferred":[
-        "Brehy"
-    ],
     "name:deu_x_preferred":[
-        "Brehy"
-    ],
-    "name:dut_x_preferred":[
         "Brehy"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Brehy"
     ],
-    "name:fre_x_preferred":[
-        "Brehy"
-    ],
-    "name:ger_x_preferred":[
-        "Brehy"
-    ],
     "name:hun_x_preferred":[
         "Magasmart"
     ],
     "name:ita_x_preferred":[
-        "Brehy"
-    ],
-    "name:may_x_preferred":[
         "Brehy"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Brehy"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brehy"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101784049,
-    "wof:lastmodified":1514505061,
+    "wof:lastmodified":1561841704,
     "wof:name":"Brehy",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

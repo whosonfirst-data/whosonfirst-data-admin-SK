@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Chynorany"
     ],
-    "name:cze_x_preferred":[
-        "Chynorany"
-    ],
     "name:deu_x_preferred":[
-        "Chynorany"
-    ],
-    "name:dut_x_preferred":[
         "Chynorany"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Chynorany"
     ],
-    "name:fre_x_preferred":[
-        "Chynorany"
-    ],
-    "name:ger_x_preferred":[
-        "Chynorany"
-    ],
     "name:hbs_x_preferred":[
         "Hinorani"
     ],
@@ -53,9 +41,6 @@
         "Kinor\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Chynorany"
-    ],
-    "name:may_x_preferred":[
         "Chynorany"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Chynorany"
     ],
     "name:slk_x_preferred":[
-        "Chynorany"
-    ],
-    "name:slo_x_preferred":[
         "Chynorany"
     ],
     "name:srp_x_preferred":[
@@ -132,7 +114,7 @@
         }
     ],
     "wof:id":101843789,
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561841693,
     "wof:name":"Chynorany",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

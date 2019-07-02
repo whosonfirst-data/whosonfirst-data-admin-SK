@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Podvysok\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Podvysok\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Podvysok\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Podvysok\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Podvysok\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Podvysok\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Podvysok\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Hat\u00e1r\u00fajfalu"
     ],
     "name:ita_x_preferred":[
-        "Podvysok\u00e1"
-    ],
-    "name:may_x_preferred":[
         "Podvysok\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Podvysok\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Podvysok\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101842009,
-    "wof:lastmodified":1527642323,
+    "wof:lastmodified":1561841688,
     "wof:name":"Podvysok\u00e1",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

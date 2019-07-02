@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1535388.776992,
+    "geom:area_square_m":1535388.776991,
     "geom:bbox":"19.8766570246,48.5884489588,19.9066090113,48.6061132729",
     "geom:latitude":48.596232,
     "geom:longitude":19.891259,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Klenovec"
     ],
-    "name:cze_x_preferred":[
-        "Klenovec"
-    ],
     "name:deu_x_preferred":[
-        "Klenovec"
-    ],
-    "name:dut_x_preferred":[
         "Klenovec"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Klenovec"
     ],
-    "name:fre_x_preferred":[
-        "Klenovec"
-    ],
-    "name:ger_x_preferred":[
-        "Klenovec"
-    ],
     "name:hun_x_preferred":[
         "Klen\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Klenovec"
-    ],
-    "name:may_x_preferred":[
         "Klenovec"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +50,6 @@
         "Klenovec"
     ],
     "name:slk_x_preferred":[
-        "Klenovec"
-    ],
-    "name:slo_x_preferred":[
         "Klenovec"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +101,7 @@
         }
     ],
     "wof:id":101782825,
-    "wof:lastmodified":1527688322,
+    "wof:lastmodified":1561841702,
     "wof:name":"Klenovec",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

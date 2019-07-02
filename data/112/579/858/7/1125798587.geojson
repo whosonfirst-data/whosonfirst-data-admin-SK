@@ -22,16 +22,13 @@
     "name:cat_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
-    "name:dut_x_preferred":[
-        "Vrbov\u00e1 nad V\u00e1hom"
-    ],
     "name:eng_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
     "name:epo_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
     "name:hun_x_preferred":[
@@ -44,16 +41,16 @@
     "name:ita_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
     "name:nan_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
-    "name:slk_x_preferred":[
+    "name:nld_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vrbov\u00e1 nad V\u00e1hom"
     ],
     "name:srp_x_preferred":[
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":1125798587,
-    "wof:lastmodified":1514505358,
+    "wof:lastmodified":1561841730,
     "wof:name":"V\u00e1gf\u00fczes",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

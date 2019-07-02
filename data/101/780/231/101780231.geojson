@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Telg\u00e1rt"
     ],
-    "name:cze_x_preferred":[
-        "Telg\u00e1rt"
-    ],
     "name:deu_x_preferred":[
-        "Telg\u00e1rt"
-    ],
-    "name:dut_x_preferred":[
         "Telg\u00e1rt"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Telg\u00e1rt"
     ],
-    "name:fre_x_preferred":[
-        "Telg\u00e1rt"
-    ],
-    "name:ger_x_preferred":[
-        "Telg\u00e1rt"
-    ],
     "name:hun_x_preferred":[
         "Garamf\u0151"
     ],
     "name:ita_x_preferred":[
-        "Telg\u00e1rt"
-    ],
-    "name:may_x_preferred":[
         "Telg\u00e1rt"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Telg\u00e1rt"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Telg\u00e1rt"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780231,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Telg\u00e1rt",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
-    "name:cze_x_preferred":[
-        "Pa\u0161tina Z\u00e1vada"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
     "name:hun_x_preferred":[
@@ -42,13 +39,16 @@
     "name:ita_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pa\u0161tina Z\u00e1vada"
+    ],
+    "name:nld_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
     "name:pol_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125860993,
-    "wof:lastmodified":1514505220,
+    "wof:lastmodified":1561841722,
     "wof:name":"Pa\u0161tina Z\u00e1vada",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -25,13 +25,13 @@
     "name:cat_x_preferred":[
         "Districte de Myjava"
     ],
+    "name:ces_x_preferred":[
+        "Okres Myjava"
+    ],
     "name:chv_x_preferred":[
         "\u041c\u0438\u044f\u0432\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Myjava"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Myjava"
     ],
     "name:eng_x_preferred":[
@@ -40,14 +40,8 @@
     "name:epo_x_preferred":[
         "Distrikto Myjava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Myjava"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10d8\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Myjava"
     ],
     "name:hrv_x_preferred":[
         "Okrug Myjava"
@@ -58,17 +52,23 @@
     "name:ita_x_preferred":[
         "Distretto di Myjava"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d8\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Myjava"
     ],
     "name:lav_x_preferred":[
         "Mijavas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Myjava"
     ],
     "name:nan_x_preferred":[
         "Myjava Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Myjava"
     ],
     "name:pol_x_preferred":[
         "Powiat Myjava"
@@ -76,16 +76,16 @@
     "name:por_x_preferred":[
         "Myjava"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Myjava"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041c\u0456\u044f\u0432\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Myjava"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u044f\u0432\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Myjava"
     ],
     "name:spa_x_preferred":[
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":102080515,
-    "wof:lastmodified":1553717227,
+    "wof:lastmodified":1561841678,
     "wof:name":"Myjava",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

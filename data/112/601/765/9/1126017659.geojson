@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
-    "name:cze_x_preferred":[
-        "Ni\u017en\u00fd Kom\u00e1rnik"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
     "name:eng_x_preferred":[
@@ -33,7 +30,7 @@
     "name:epo_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
     "name:hun_x_preferred":[
@@ -42,10 +39,13 @@
     "name:ita_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
     "name:nan_x_preferred":[
+        "Ni\u017en\u00fd Kom\u00e1rnik"
+    ],
+    "name:nld_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
     "name:pol_x_preferred":[
@@ -54,7 +54,7 @@
     "name:rue_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0457\u0439 \u041a\u043e\u043c\u0430\u0440\u043d\u0438\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ni\u017en\u00fd Kom\u00e1rnik"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1126017659,
-    "wof:lastmodified":1514505202,
+    "wof:lastmodified":1561841727,
     "wof:name":"Ni\u017en\u00fd Kom\u00e1rnik",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

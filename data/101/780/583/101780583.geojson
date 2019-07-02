@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kamienka"
     ],
-    "name:cze_x_preferred":[
-        "Kamienka"
-    ],
     "name:deu_x_preferred":[
-        "Kamienka"
-    ],
-    "name:dut_x_preferred":[
         "Kamienka"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kamienka"
     ],
-    "name:fre_x_preferred":[
-        "Kamienka"
-    ],
-    "name:ger_x_preferred":[
-        "Kamienka"
-    ],
     "name:hun_x_preferred":[
         "K\u00f6vesfalva"
     ],
     "name:ita_x_preferred":[
-        "Kamienka"
-    ],
-    "name:may_x_preferred":[
         "Kamienka"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:rue_x_preferred":[
         "\u041a\u0430\u043c\u044e\u043d\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kamienka"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101780583,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561841719,
     "wof:name":"Kamienka",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

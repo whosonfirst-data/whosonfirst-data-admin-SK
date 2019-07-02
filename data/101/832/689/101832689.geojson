@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":2423668.307482,
+    "geom:area_square_m":2423668.30748,
     "geom:bbox":"17.8392074667,48.5740647726,17.8616281819,48.6073421472",
     "geom:latitude":48.589299,
     "geom:longitude":17.848009,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Banka"
     ],
-    "name:cze_x_preferred":[
-        "Banka"
-    ],
     "name:deu_x_preferred":[
-        "Banka"
-    ],
-    "name:dut_x_preferred":[
         "Banka"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Banka"
     ],
-    "name:fre_x_preferred":[
-        "Banka"
-    ],
-    "name:ger_x_preferred":[
-        "Banka"
-    ],
     "name:hun_x_preferred":[
         "B\u00e1nka"
     ],
     "name:ita_x_preferred":[
-        "Banka"
-    ],
-    "name:may_x_preferred":[
         "Banka"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Banka"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101832689,
-    "wof:lastmodified":1553815531,
+    "wof:lastmodified":1561841693,
     "wof:name":"Banka",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
-    "name:fre_x_preferred":[
-        "Barto\u0161ova Leh\u00f4tka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
     "name:hun_x_preferred":[
@@ -45,16 +42,19 @@
     "name:ita_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
     "name:nan_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
+    "name:nld_x_preferred":[
+        "Barto\u0161ova Leh\u00f4tka"
+    ],
     "name:pol_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Barto\u0161ova Leh\u00f4tka"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125774025,
-    "wof:lastmodified":1553816525,
+    "wof:lastmodified":1561841732,
     "wof:name":"Barto\u0161ova Lehotka",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":2263525.825446,
+    "geom:area_square_m":2263525.825447,
     "geom:bbox":"17.4573283142,47.9821829768,17.4995752153,48.0013035293",
     "geom:latitude":47.990542,
     "geom:longitude":17.478906,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Holice"
     ],
-    "name:dut_x_preferred":[
-        "Holice"
-    ],
     "name:eng_x_preferred":[
         "Holice"
     ],
@@ -32,12 +29,6 @@
         "Holice"
     ],
     "name:fra_x_preferred":[
-        "Holice"
-    ],
-    "name:fre_x_preferred":[
-        "Holice"
-    ],
-    "name:ger_x_preferred":[
         "Holice"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Holice"
     ],
-    "name:may_x_preferred":[
-        "Holice"
-    ],
     "name:msa_x_preferred":[
         "Holice"
     ],
@@ -61,7 +49,7 @@
     "name:por_x_preferred":[
         "Holice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Holice"
     ],
     "name:srp_x_preferred":[
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":101845243,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561841687,
     "wof:name":"Holice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

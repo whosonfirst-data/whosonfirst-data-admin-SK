@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1116727.260869,
+    "geom:area_square_m":1116727.260868,
     "geom:bbox":"18.1768438911,48.2848430214,18.194122845,48.3063865821",
     "geom:latitude":48.293964,
     "geom:longitude":18.183027,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
-    "name:dut_x_preferred":[
-        "Ve\u013ek\u00fd Lap\u00e1\u0161"
-    ],
     "name:eng_x_preferred":[
         "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd Lap\u00e1\u0161"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00fd Lap\u00e1\u0161"
-    ],
     "name:hbs_x_preferred":[
         "Veljki Lapa\u0161"
     ],
@@ -47,9 +38,6 @@
         "Nagylap\u00e1s"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00fd Lap\u00e1\u0161"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "\u0412\u0435\u043b\u044c\u043a\u0438 \u041b\u0430\u043f\u0430\u0448"
     ],
     "name:slk_x_preferred":[
-        "Ve\u013ek\u00fd Lap\u00e1\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677694,
+    "wof:lastmodified":1561841697,
     "wof:name":"Ve\u013ek\u00fd Lap\u00e1\u0161",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

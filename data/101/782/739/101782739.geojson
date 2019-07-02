@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1435725.716356,
+    "geom:area_square_m":1435725.716355,
     "geom:bbox":"17.5350731364,48.4754862409,17.5687289652,48.4895027178",
     "geom:latitude":48.482372,
     "geom:longitude":17.550289,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Doln\u00e1 Krup\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Doln\u00e1 Krup\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e1 Krup\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00e1 Krup\u00e1"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3korompa"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30eb\u30ca\u30fc\u30fb\u30af\u30eb\u30d1\u30fc"
-    ],
-    "name:may_x_preferred":[
-        "Doln\u00e1 Krup\u00e1"
     ],
     "name:msa_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
@@ -70,10 +55,10 @@
     "name:por_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doln\u00e1 Krup\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -138,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561841699,
     "wof:name":"Doln\u00e1 Krup\u00e1",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

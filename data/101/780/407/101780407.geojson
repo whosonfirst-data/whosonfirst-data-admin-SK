@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Istebn\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Istebn\u00e9"
-    ],
     "name:deu_x_preferred":[
-        "Istebn\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Istebn\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +37,10 @@
     "name:fra_x_preferred":[
         "Istebn\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Istebn\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Istebn\u00e9"
-    ],
     "name:hun_x_preferred":[
         "Isztebne"
     ],
     "name:ita_x_preferred":[
-        "Istebn\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Istebn\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Istebn\u00e9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Istebn\u00e9"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780407,
-    "wof:lastmodified":1527715868,
+    "wof:lastmodified":1561841714,
     "wof:name":"Istebn\u00e9",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

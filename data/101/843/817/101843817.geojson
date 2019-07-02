@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":857410.629979,
+    "geom:area_square_m":857410.62998,
     "geom:bbox":"20.1757702733,48.6519695319,20.2023310934,48.6608453682",
     "geom:latitude":48.656289,
     "geom:longitude":20.189504,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Luben\u00edk"
     ],
-    "name:dut_x_preferred":[
-        "Luben\u00edk"
-    ],
     "name:eng_x_preferred":[
         "Luben\u00edk"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Luben\u00edk"
     ],
-    "name:fre_x_preferred":[
-        "Luben\u00edk"
-    ],
-    "name:ger_x_preferred":[
-        "Luben\u00edk"
-    ],
     "name:hbs_x_preferred":[
         "Lubenjik"
     ],
@@ -47,9 +38,6 @@
         "Lub\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Luben\u00edk"
-    ],
-    "name:may_x_preferred":[
         "Luben\u00edk"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u041b\u044e\u0431\u0435\u043d\u0438\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Luben\u00edk"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":101843817,
-    "wof:lastmodified":1527642591,
+    "wof:lastmodified":1561841690,
     "wof:name":"Luben\u00edk",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

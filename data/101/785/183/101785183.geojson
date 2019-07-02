@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "H\u00e1jske"
     ],
-    "name:dut_x_preferred":[
-        "H\u00e1jske"
-    ],
     "name:eng_x_preferred":[
         "H\u00e1jske"
     ],
@@ -35,12 +32,6 @@
         "H\u00e1jske"
     ],
     "name:fra_x_preferred":[
-        "H\u00e1jske"
-    ],
-    "name:fre_x_preferred":[
-        "H\u00e1jske"
-    ],
-    "name:ger_x_preferred":[
         "H\u00e1jske"
     ],
     "name:hbs_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "H\u00e1jske"
     ],
-    "name:may_x_preferred":[
-        "H\u00e1jske"
-    ],
     "name:msa_x_preferred":[
         "H\u00e1jske"
     ],
@@ -64,7 +52,7 @@
     "name:nld_x_preferred":[
         "H\u00e1jske"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "H\u00e1jske"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":101785183,
-    "wof:lastmodified":1527684903,
+    "wof:lastmodified":1561841699,
     "wof:name":"H\u00e1jske",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

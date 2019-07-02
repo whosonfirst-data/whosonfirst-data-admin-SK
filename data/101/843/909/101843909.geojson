@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":657932.80658,
+    "geom:area_square_m":657932.806581,
     "geom:bbox":"18.3492557225,49.1953096332,18.3704684433,49.214184622",
     "geom:latitude":49.20396,
     "geom:longitude":18.359833,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Doln\u00e1 Marikov\u00e1"
-    ],
     "name:deu_x_preferred":[
-        "Doln\u00e1 Marikov\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e1 Marikov\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00e1 Marikov\u00e1"
-    ],
     "name:hbs_x_preferred":[
         "Dolna Marikova"
     ],
@@ -55,16 +43,13 @@
     "name:ita_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Doln\u00e1 Marikov\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
     "name:nld_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101843909,
-    "wof:lastmodified":1527642588,
+    "wof:lastmodified":1561841689,
     "wof:name":"Doln\u00e1 Marikov\u00e1",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "name:cat_x_preferred":[
         "Hubice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hubice"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:epo_x_preferred":[
         "Hubice"
     ],
-    "name:fre_x_preferred":[
-        "Hubice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hubice"
     ],
     "name:hun_x_preferred":[
@@ -42,13 +39,16 @@
     "name:ita_x_preferred":[
         "Hubice"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Hubice"
+    ],
+    "name:nld_x_preferred":[
         "Hubice"
     ],
     "name:por_x_preferred":[
         "Hubice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hubice"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125891313,
-    "wof:lastmodified":1514505111,
+    "wof:lastmodified":1561841723,
     "wof:name":"Hubice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

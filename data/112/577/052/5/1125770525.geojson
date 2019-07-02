@@ -24,7 +24,7 @@
     "name:hun_x_preferred":[
         "Szurkos"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Peklina"
     ],
     "qs_pg:aaroncc":"SK",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1125770525,
-    "wof:lastmodified":1514505220,
+    "wof:lastmodified":1561841731,
     "wof:name":"Peklina",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

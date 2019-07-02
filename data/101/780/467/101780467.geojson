@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1515366.872831,
+    "geom:area_square_m":1515366.87283,
     "geom:bbox":"21.7623084031,48.7989211743,21.7840716794,48.8229422185",
     "geom:latitude":48.809341,
     "geom:longitude":21.770262,
@@ -22,13 +22,10 @@
     "name:ces_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "name:deu_x_preferred":[
-        "Ni\u017en\u00fd Hru\u0161ov"
-    ],
-    "name:dut_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +37,10 @@
     "name:fra_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
-    "name:fre_x_preferred":[
-        "Ni\u017en\u00fd Hru\u0161ov"
-    ],
-    "name:ger_x_preferred":[
-        "Ni\u017en\u00fd Hru\u0161ov"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3k\u00f6rtv\u00e9lyes"
     ],
     "name:ita_x_preferred":[
-        "Ni\u017en\u00fd Hru\u0161ov"
-    ],
-    "name:may_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +55,7 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -80,9 +68,6 @@
         "Ni\u017en\u00ed Hru\u0161ov"
     ],
     "name:war_x_preferred":[
-        "Ni\u017en\u00fd Hru\u0161ov"
-    ],
-    "name:wel_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "qs:a0":"Slovensko",
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101780467,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1561841717,
     "wof:name":"Ni\u017en\u00fd Hru\u0161ov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

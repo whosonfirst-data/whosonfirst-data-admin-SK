@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
-    "name:cze_x_preferred":[
-        "Lietavsk\u00e1 L\u00fa\u010dka"
-    ],
     "name:deu_x_preferred":[
-        "Lietavsk\u00e1 L\u00fa\u010dka"
-    ],
-    "name:dut_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
-    "name:fre_x_preferred":[
-        "Lietavsk\u00e1 L\u00fa\u010dka"
-    ],
-    "name:ger_x_preferred":[
-        "Lietavsk\u00e1 L\u00fa\u010dka"
-    ],
     "name:hun_x_preferred":[
         "Litvaill\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Lietavsk\u00e1 L\u00fa\u010dka"
-    ],
-    "name:may_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689304,
+    "wof:lastmodified":1561841706,
     "wof:name":"Lietavsk\u00e1 L\u00fa\u010dka",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

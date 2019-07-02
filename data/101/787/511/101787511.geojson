@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Mu\u017ela"
     ],
-    "name:dut_x_preferred":[
-        "Mu\u017ela"
-    ],
     "name:eng_x_preferred":[
         "Mu\u017ela"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Mu\u017ela"
     ],
-    "name:fre_x_preferred":[
-        "Mu\u017ela"
-    ],
-    "name:ger_x_preferred":[
-        "Mu\u017ela"
-    ],
     "name:hbs_x_preferred":[
         "Mu\u017ela"
     ],
@@ -47,9 +38,6 @@
         "Muzsla"
     ],
     "name:ita_x_preferred":[
-        "Mu\u017ela"
-    ],
-    "name:may_x_preferred":[
         "Mu\u017ela"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
         "Mu\u017ela"
     ],
     "name:slk_x_preferred":[
-        "Mu\u017ela"
-    ],
-    "name:slo_x_preferred":[
         "Mu\u017ela"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101787511,
-    "wof:lastmodified":1527715847,
+    "wof:lastmodified":1561841711,
     "wof:name":"Mu\u017ela",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

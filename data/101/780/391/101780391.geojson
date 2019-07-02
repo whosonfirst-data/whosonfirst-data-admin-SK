@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
-    "name:cze_x_preferred":[
-        "Doln\u00e1 Ti\u017eina"
-    ],
     "name:deu_x_preferred":[
-        "Doln\u00e1 Ti\u017eina"
-    ],
-    "name:dut_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
-    "name:fre_x_preferred":[
-        "Doln\u00e1 Ti\u017eina"
-    ],
-    "name:ger_x_preferred":[
-        "Doln\u00e1 Ti\u017eina"
-    ],
     "name:hun_x_preferred":[
         "Als\u00f3tizs\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Doln\u00e1 Ti\u017eina"
-    ],
-    "name:may_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
     "name:srp_x_preferred":[
@@ -139,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841712,
     "wof:name":"Doln\u00e1 Ti\u017eina",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

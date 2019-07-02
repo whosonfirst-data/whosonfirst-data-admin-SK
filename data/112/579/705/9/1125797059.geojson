@@ -21,10 +21,10 @@
     "name:cat_x_preferred":[
         "Micha\u013eany"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Micha\u013eany"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Micha\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Micha\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Micha\u013eany"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Micha\u013eany"
     ],
     "name:hun_x_preferred":[
@@ -45,10 +42,13 @@
     "name:ita_x_preferred":[
         "Micha\u013eany"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Micha\u013eany"
     ],
     "name:nan_x_preferred":[
+        "Micha\u013eany"
+    ],
+    "name:nld_x_preferred":[
         "Micha\u013eany"
     ],
     "name:pol_x_preferred":[
@@ -60,7 +60,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u043b\u044f\u043d\u044b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Micha\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1125797059,
-    "wof:lastmodified":1514505181,
+    "wof:lastmodified":1561841730,
     "wof:name":"Michal\u0315any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

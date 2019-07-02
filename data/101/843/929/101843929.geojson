@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":1744506.792885,
+    "geom:area_square_m":1744506.792884,
     "geom:bbox":"18.4589074851,49.2039005218,18.497722275,49.2564032263",
     "geom:latitude":49.231092,
     "geom:longitude":18.472405,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u0160tiavnik"
     ],
-    "name:cze_x_preferred":[
-        "\u0160tiavnik"
-    ],
     "name:deu_x_preferred":[
-        "\u0160tiavnik"
-    ],
-    "name:dut_x_preferred":[
         "\u0160tiavnik"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "\u0160tiavnik"
     ],
-    "name:fre_x_preferred":[
-        "\u0160tiavnik"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160tiavnik"
-    ],
     "name:hun_x_preferred":[
         "Trencs\u00e9nselmec"
     ],
     "name:ita_x_preferred":[
-        "\u0160tiavnik"
-    ],
-    "name:may_x_preferred":[
         "\u0160tiavnik"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "\u0160tiavnik"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160tiavnik"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":101843929,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841692,
     "wof:name":"\u0160tiavnik",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

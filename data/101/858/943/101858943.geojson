@@ -29,16 +29,7 @@
     "name:ces_x_preferred":[
         "Fi\u013eakovo"
     ],
-    "name:chi_x_preferred":[
-        "\u83f2\u62c9\u79d1\u6c83"
-    ],
-    "name:cze_x_preferred":[
-        "Fi\u013eakovo"
-    ],
     "name:deu_x_preferred":[
-        "Fi\u013eakovo"
-    ],
-    "name:dut_x_preferred":[
         "Fi\u013eakovo"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0641\u06cc\u0644\u0627\u06a9\u0648\u0648"
     ],
     "name:fra_x_preferred":[
-        "Fi\u013eakovo"
-    ],
-    "name:fre_x_preferred":[
-        "Fi\u013eakovo"
-    ],
-    "name:ger_x_preferred":[
         "Fi\u013eakovo"
     ],
     "name:hbs_x_preferred":[
@@ -83,28 +68,28 @@
     "name:lit_x_preferred":[
         "Filiakovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fi\u013eakovo"
     ],
     "name:nan_x_preferred":[
         "Fi\u013eakovo"
     ],
+    "name:nld_x_preferred":[
+        "Fi\u013eakovo"
+    ],
     "name:ota_x_preferred":[
         "\u0641\u06cc\u0644\u06a9"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u06cc\u0644\u0627\u06a9\u0648\u0648"
     ],
     "name:pol_x_preferred":[
         "Fi\u013eakovo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fi\u013eakovo"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u043b\u044f\u043a\u043e\u0432\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fi\u013eakovo"
     ],
     "name:spa_x_preferred":[
@@ -185,7 +170,7 @@
         }
     ],
     "wof:id":101858943,
-    "wof:lastmodified":1544744662,
+    "wof:lastmodified":1561841695,
     "wof:name":"Fi\u013eakovo",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

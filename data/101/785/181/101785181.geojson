@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
-    "name:cze_x_preferred":[
-        "Chorv\u00e1tsky Grob"
-    ],
     "name:deu_x_preferred":[
-        "Chorv\u00e1tsky Grob"
-    ],
-    "name:dut_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
-    "name:fre_x_preferred":[
-        "Chorv\u00e1tsky Grob"
-    ],
-    "name:ger_x_preferred":[
-        "Chorv\u00e1tsky Grob"
-    ],
     "name:hrv_x_preferred":[
         "Hrvatski Grob"
     ],
@@ -53,9 +41,6 @@
         "Horv\u00e1tgurab"
     ],
     "name:ita_x_preferred":[
-        "Chorv\u00e1tsky Grob"
-    ],
-    "name:may_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
     "name:msa_x_preferred":[
@@ -73,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438-\u0413\u0440\u043e\u0431"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101785181,
-    "wof:lastmodified":1527677697,
+    "wof:lastmodified":1561841698,
     "wof:name":"Chorv\u00e1tsky Grob",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

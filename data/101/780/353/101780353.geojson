@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Pribylina"
     ],
-    "name:cze_x_preferred":[
-        "Pribylina"
-    ],
     "name:deu_x_preferred":[
-        "Pribylina"
-    ],
-    "name:dut_x_preferred":[
         "Pribylina"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "Pribylina"
     ],
-    "name:fre_x_preferred":[
-        "Pribylina"
-    ],
-    "name:ger_x_preferred":[
-        "Pribylina"
-    ],
     "name:hbs_x_preferred":[
         "Pribilina"
     ],
@@ -54,9 +42,6 @@
         "Pribilina"
     ],
     "name:ita_x_preferred":[
-        "Pribylina"
-    ],
-    "name:may_x_preferred":[
         "Pribylina"
     ],
     "name:msa_x_preferred":[
@@ -72,9 +57,6 @@
         "\u041f\u0440\u0438\u0431\u044b\u043b\u0438\u043d\u0430"
     ],
     "name:slk_x_preferred":[
-        "Pribylina"
-    ],
-    "name:slo_x_preferred":[
         "Pribylina"
     ],
     "name:srp_x_preferred":[
@@ -141,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715864,
+    "wof:lastmodified":1561841712,
     "wof:name":"Pribylina",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

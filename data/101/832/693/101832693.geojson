@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Chrenovec-Brusno"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chrenovec-Brusno"
     ],
     "name:deu_x_preferred":[
-        "Chrenovec-Brusno"
-    ],
-    "name:dut_x_preferred":[
         "Chrenovec-Brusno"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Chrenovec-Brusno"
     ],
-    "name:fre_x_preferred":[
-        "Chrenovec-Brusno"
-    ],
-    "name:ger_x_preferred":[
-        "Chrenovec-Brusno"
-    ],
     "name:hbs_x_preferred":[
         "Hrenovec-Brusno"
     ],
@@ -50,9 +41,6 @@
         "Torm\u00e1sboroszn\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Chrenovec-Brusno"
-    ],
-    "name:may_x_preferred":[
         "Chrenovec-Brusno"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "Chrenovec-Brusno"
     ],
     "name:slk_x_preferred":[
-        "Chrenovec-Brusno"
-    ],
-    "name:slo_x_preferred":[
         "Chrenovec-Brusno"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101832693,
-    "wof:lastmodified":1527642783,
+    "wof:lastmodified":1561841693,
     "wof:name":"Chrenovec - Brusno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1834618.620079,
+    "geom:area_square_m":1834618.62008,
     "geom:bbox":"17.0269357157,48.328881948,17.0555209901,48.343507993",
     "geom:latitude":48.335148,
     "geom:longitude":17.04235,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Lozorno"
     ],
-    "name:cze_x_preferred":[
-        "Lozorno"
-    ],
     "name:deu_x_preferred":[
-        "Lozorno"
-    ],
-    "name:dut_x_preferred":[
         "Lozorno"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Lozorno"
     ],
-    "name:fre_x_preferred":[
-        "Lozorno"
-    ],
-    "name:ger_x_preferred":[
-        "Lozorno"
-    ],
     "name:hbs_x_preferred":[
         "Lozorno"
     ],
@@ -53,9 +41,6 @@
         "Lozorn\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Lozorno"
-    ],
-    "name:may_x_preferred":[
         "Lozorno"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Lozorno"
     ],
     "name:slk_x_preferred":[
-        "Lozorno"
-    ],
-    "name:slo_x_preferred":[
         "Lozorno"
     ],
     "name:spa_x_preferred":[
@@ -127,7 +109,7 @@
         }
     ],
     "wof:id":101785281,
-    "wof:lastmodified":1527677694,
+    "wof:lastmodified":1561841697,
     "wof:name":"Lozorno",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

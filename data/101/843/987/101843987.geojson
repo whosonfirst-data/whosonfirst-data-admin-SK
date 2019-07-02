@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":697787.669211,
+    "geom:area_square_m":697787.66921,
     "geom:bbox":"19.3752262741,49.3266655354,19.3905998697,49.3393676522",
     "geom:latitude":49.331719,
     "geom:longitude":19.381894,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Bab\u00edn"
     ],
-    "name:cze_x_preferred":[
-        "Bab\u00edn"
-    ],
     "name:deu_x_preferred":[
-        "Bab\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Bab\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Bab\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Bab\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Bab\u00edn"
-    ],
     "name:hun_x_preferred":[
         "Babin"
     ],
     "name:ita_x_preferred":[
-        "Bab\u00edn"
-    ],
-    "name:may_x_preferred":[
         "Bab\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Babin"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bab\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843987,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561841692,
     "wof:name":"Bab\u00edn",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

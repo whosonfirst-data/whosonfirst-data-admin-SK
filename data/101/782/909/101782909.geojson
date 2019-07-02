@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1415724.251915,
+    "geom:area_square_m":1415724.251916,
     "geom:bbox":"20.9674714145,48.7036500539,20.9880962263,48.7195025832",
     "geom:latitude":48.711229,
     "geom:longitude":20.975558,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Popro\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Popro\u010d"
-    ],
     "name:eng_x_preferred":[
         "Popro\u010d"
     ],
@@ -32,12 +29,6 @@
         "Popro\u010d"
     ],
     "name:fra_x_preferred":[
-        "Popro\u010d"
-    ],
-    "name:fre_x_preferred":[
-        "Popro\u010d"
-    ],
-    "name:ger_x_preferred":[
         "Popro\u010d"
     ],
     "name:hun_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "Popro\u010d"
     ],
-    "name:may_x_preferred":[
-        "Popro\u010d"
-    ],
     "name:msa_x_preferred":[
         "Popro\u010d"
     ],
@@ -63,9 +51,6 @@
         "Popro\u010d"
     ],
     "name:slk_x_preferred":[
-        "Popro\u010d"
-    ],
-    "name:slo_x_preferred":[
         "Popro\u010d"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782909,
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561841699,
     "wof:name":"Popro\u010d",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

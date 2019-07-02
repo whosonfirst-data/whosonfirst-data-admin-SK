@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00fd Peter"
     ],
-    "name:cze_x_preferred":[
-        "Liptovsk\u00fd Peter"
-    ],
     "name:deu_x_preferred":[
-        "Liptovsk\u00fd Peter"
-    ],
-    "name:dut_x_preferred":[
         "Liptovsk\u00fd Peter"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00fd Peter"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00fd Peter"
-    ],
-    "name:ger_x_preferred":[
-        "Liptovsk\u00fd Peter"
-    ],
     "name:hbs_x_preferred":[
         "Liptovski Peter"
     ],
@@ -53,9 +41,6 @@
         "Szentp\u00e9ter"
     ],
     "name:ita_x_preferred":[
-        "Liptovsk\u00fd Peter"
-    ],
-    "name:may_x_preferred":[
         "Liptovsk\u00fd Peter"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Liptowski Peter"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liptovsk\u00fd Peter"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101843915,
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561841690,
     "wof:name":"Liptovsk\u00fd Peter",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

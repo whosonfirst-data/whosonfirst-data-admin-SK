@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kovarce"
     ],
-    "name:cze_x_preferred":[
-        "Kovarce"
-    ],
     "name:deu_x_preferred":[
-        "Kovarce"
-    ],
-    "name:dut_x_preferred":[
         "Kovarce"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Kovarce"
     ],
-    "name:fre_x_preferred":[
-        "Kovarce"
-    ],
-    "name:ger_x_preferred":[
-        "Kovarce"
-    ],
     "name:hbs_x_preferred":[
         "Kovarce"
     ],
@@ -53,9 +41,6 @@
         "Kovarc"
     ],
     "name:ita_x_preferred":[
-        "Kovarce"
-    ],
-    "name:may_x_preferred":[
         "Kovarce"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Kovarce"
     ],
     "name:slk_x_preferred":[
-        "Kovarce"
-    ],
-    "name:slo_x_preferred":[
         "Kovarce"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101784077,
-    "wof:lastmodified":1527688537,
+    "wof:lastmodified":1561841704,
     "wof:name":"Kovarce",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

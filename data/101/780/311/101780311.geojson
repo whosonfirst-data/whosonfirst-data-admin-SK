@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00e9 Slia\u010de"
     ],
-    "name:cze_x_preferred":[
-        "Liptovsk\u00e9 Slia\u010de"
-    ],
     "name:deu_x_preferred":[
-        "Liptovsk\u00e9 Slia\u010de"
-    ],
-    "name:dut_x_preferred":[
         "Liptovsk\u00e9 Slia\u010de"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00e9 Slia\u010de"
     ],
-    "name:fre_x_preferred":[
-        "Liptovsk\u00e9 Slia\u010de"
-    ],
-    "name:ger_x_preferred":[
-        "Liptovsk\u00e9 Slia\u010de"
-    ],
     "name:hun_x_preferred":[
         "H\u00e1romszl\u00e9cs"
     ],
     "name:ita_x_preferred":[
-        "Liptovsk\u00e9 Slia\u010de"
-    ],
-    "name:may_x_preferred":[
         "Liptovsk\u00e9 Slia\u010de"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:pol_x_preferred":[
         "Liptovsk\u00e9 Slia\u010de"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liptovsk\u00e9 Slia\u010de"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":101780311,
-    "wof:lastmodified":1514505276,
+    "wof:lastmodified":1561841718,
     "wof:name":"Slia\u010de",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

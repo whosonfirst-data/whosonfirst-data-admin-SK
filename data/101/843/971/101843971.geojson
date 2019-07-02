@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ih\u013eany"
     ],
-    "name:cze_x_preferred":[
-        "Ih\u013eany"
-    ],
     "name:deu_x_preferred":[
-        "Ih\u013eany"
-    ],
-    "name:dut_x_preferred":[
         "Ih\u013eany"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ih\u013eany"
     ],
-    "name:fre_x_preferred":[
-        "Ih\u013eany"
-    ],
-    "name:ger_x_preferred":[
-        "Ih\u013eany"
-    ],
     "name:hun_x_preferred":[
         "Majorka"
     ],
     "name:ita_x_preferred":[
-        "Ih\u013eany"
-    ],
-    "name:may_x_preferred":[
         "Ih\u013eany"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0418\u0433\u043b\u044f\u043d\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ih\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101843971,
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561841690,
     "wof:name":"Ih\u013eany",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

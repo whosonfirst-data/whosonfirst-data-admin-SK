@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Mokrance"
     ],
-    "name:dut_x_preferred":[
-        "Mokrance"
-    ],
     "name:eng_x_preferred":[
         "Mokrance"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Mokrance"
     ],
-    "name:fre_x_preferred":[
-        "Mokrance"
-    ],
-    "name:ger_x_preferred":[
-        "Mokrance"
-    ],
     "name:hun_x_preferred":[
         "Makranc"
     ],
     "name:ita_x_preferred":[
-        "Mokrance"
-    ],
-    "name:may_x_preferred":[
         "Mokrance"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Mokrance"
     ],
     "name:slk_x_preferred":[
-        "Mokrance"
-    ],
-    "name:slo_x_preferred":[
         "Mokrance"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":101843875,
-    "wof:lastmodified":1527642591,
+    "wof:lastmodified":1561841690,
     "wof:name":"Mokrance",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

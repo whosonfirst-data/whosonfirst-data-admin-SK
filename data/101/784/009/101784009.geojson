@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Jakubov"
     ],
-    "name:cze_x_preferred":[
-        "Jakubov"
-    ],
     "name:deu_x_preferred":[
-        "Jakubov"
-    ],
-    "name:dut_x_preferred":[
         "Jakubov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Jakubov"
     ],
-    "name:fre_x_preferred":[
-        "Jakubov"
-    ],
-    "name:ger_x_preferred":[
-        "Jakubov"
-    ],
     "name:hbs_x_preferred":[
         "Jakubov"
     ],
@@ -53,9 +41,6 @@
         "Nagyjakabfalva"
     ],
     "name:ita_x_preferred":[
-        "Jakubov"
-    ],
-    "name:may_x_preferred":[
         "Jakubov"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Jakubov"
     ],
     "name:slk_x_preferred":[
-        "Jakubov"
-    ],
-    "name:slo_x_preferred":[
         "Jakubov"
     ],
     "name:spa_x_preferred":[
@@ -128,7 +110,7 @@
         }
     ],
     "wof:id":101784009,
-    "wof:lastmodified":1527688539,
+    "wof:lastmodified":1561841704,
     "wof:name":"Jakubov",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000189,
-    "geom:area_square_m":1535237.723793,
+    "geom:area_square_m":1535237.723792,
     "geom:bbox":"21.0490274882,49.0533180912,21.0766847646,49.0673085345",
     "geom:latitude":49.059319,
     "geom:longitude":21.060826,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Jarovnice"
     ],
-    "name:cze_x_preferred":[
-        "Jarovnice"
-    ],
     "name:deu_x_preferred":[
-        "Jarovnice"
-    ],
-    "name:dut_x_preferred":[
         "Jarovnice"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Jarovnice"
     ],
-    "name:fre_x_preferred":[
-        "Jarovnice"
-    ],
-    "name:ger_x_preferred":[
-        "Jarovnice"
-    ],
     "name:hbs_x_preferred":[
         "Jarovnjice"
     ],
@@ -53,9 +41,6 @@
         "Jernye"
     ],
     "name:ita_x_preferred":[
-        "Jarovnice"
-    ],
-    "name:may_x_preferred":[
         "Jarovnice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Jarovnice"
     ],
     "name:slk_x_preferred":[
-        "Jarovnice"
-    ],
-    "name:slo_x_preferred":[
         "Jarovnice"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101780497,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1561841714,
     "wof:name":"Jarovnice",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

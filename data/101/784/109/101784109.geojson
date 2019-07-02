@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1186483.834755,
+    "geom:area_square_m":1186483.834756,
     "geom:bbox":"19.1474039405,48.4172369147,19.1688457491,48.4321729036",
     "geom:latitude":48.425307,
     "geom:longitude":19.157058,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Plie\u0161ovce"
     ],
-    "name:cze_x_preferred":[
-        "Plie\u0161ovce"
-    ],
     "name:deu_x_preferred":[
-        "Plie\u0161ovce"
-    ],
-    "name:dut_x_preferred":[
         "Plie\u0161ovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Plie\u0161ovce"
     ],
-    "name:fre_x_preferred":[
-        "Plie\u0161ovce"
-    ],
-    "name:ger_x_preferred":[
-        "Plie\u0161ovce"
-    ],
     "name:hun_x_preferred":[
         "T\u00f3tpels\u0151c"
     ],
     "name:ita_x_preferred":[
-        "Plie\u0161ovce"
-    ],
-    "name:may_x_preferred":[
         "Plie\u0161ovce"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Plie\u0161ovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Plie\u0161ovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101784109,
-    "wof:lastmodified":1527688542,
+    "wof:lastmodified":1561841705,
     "wof:name":"Plie\u0161ovce",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

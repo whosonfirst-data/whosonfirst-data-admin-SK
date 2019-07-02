@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000496,
-    "geom:area_square_m":4098219.941386,
+    "geom:area_square_m":4098219.941385,
     "geom:bbox":"18.6348128301,48.0365591324,18.6706954165,48.0724790813",
     "geom:latitude":48.051126,
     "geom:longitude":18.656136,
@@ -26,19 +26,10 @@
     "name:ces_x_preferred":[
         "\u017deliezovce"
     ],
-    "name:chi_x_preferred":[
-        "\u70ed\u5217\u4f50\u592b\u91c7"
-    ],
-    "name:cze_x_preferred":[
-        "\u017deliezovce"
-    ],
     "name:dan_x_preferred":[
         "\u017deliezovce"
     ],
     "name:deu_x_preferred":[
-        "\u017deliezovce"
-    ],
-    "name:dut_x_preferred":[
         "\u017deliezovce"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0698\u0644\u06cc\u0647\u200c\u0632\u0648\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
-        "\u017deliezovce"
-    ],
-    "name:fre_x_preferred":[
-        "\u017deliezovce"
-    ],
-    "name:ger_x_preferred":[
         "\u017deliezovce"
     ],
     "name:hbs_x_preferred":[
@@ -80,19 +65,19 @@
     "name:lav_x_preferred":[
         "\u017deljezovce"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u017deliezovce"
     ],
     "name:nan_x_preferred":[
         "\u017deliezovce"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0644\u06cc\u0647\u200c\u0632\u0648\u062a\u0633\u0647"
+    "name:nld_x_preferred":[
+        "\u017deliezovce"
     ],
     "name:pol_x_preferred":[
         "\u017deliezovce"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u017deliezovce"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +86,7 @@
     "name:sco_x_preferred":[
         "\u017deliezovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u017deliezovce"
     ],
     "name:spa_x_preferred":[
@@ -174,7 +159,7 @@
         }
     ],
     "wof:id":101786423,
-    "wof:lastmodified":1527715645,
+    "wof:lastmodified":1561841709,
     "wof:name":"\u017deliezovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

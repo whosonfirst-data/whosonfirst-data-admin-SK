@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Golianovo"
     ],
-    "name:dut_x_preferred":[
-        "Golianovo"
-    ],
     "name:eng_x_preferred":[
         "Golianovo"
     ],
@@ -32,12 +29,6 @@
         "Golianovo"
     ],
     "name:fra_x_preferred":[
-        "Golianovo"
-    ],
-    "name:fre_x_preferred":[
-        "Golianovo"
-    ],
-    "name:ger_x_preferred":[
         "Golianovo"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Golianovo"
     ],
-    "name:may_x_preferred":[
-        "Golianovo"
-    ],
     "name:msa_x_preferred":[
         "Golianovo"
     ],
@@ -59,9 +47,6 @@
         "Golianovo"
     ],
     "name:slk_x_preferred":[
-        "Golianovo"
-    ],
-    "name:slo_x_preferred":[
         "Golianovo"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527684900,
+    "wof:lastmodified":1561841698,
     "wof:name":"Golianovo",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

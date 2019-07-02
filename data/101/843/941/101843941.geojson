@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Chlebnice"
     ],
-    "name:cze_x_preferred":[
-        "Chlebnice"
-    ],
     "name:deu_x_preferred":[
-        "Chlebnice"
-    ],
-    "name:dut_x_preferred":[
         "Chlebnice"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +37,6 @@
     "name:fra_x_preferred":[
         "Chlebnice"
     ],
-    "name:fre_x_preferred":[
-        "Chlebnice"
-    ],
-    "name:ger_x_preferred":[
-        "Chlebnice"
-    ],
     "name:hbs_x_preferred":[
         "Hljebnjice"
     ],
@@ -56,9 +44,6 @@
         "Chlebnice"
     ],
     "name:ita_x_preferred":[
-        "Chlebnice"
-    ],
-    "name:may_x_preferred":[
         "Chlebnice"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Chlebnice"
     ],
     "name:slk_x_preferred":[
-        "Chlebnice"
-    ],
-    "name:slo_x_preferred":[
         "Chlebnice"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101843941,
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561841690,
     "wof:name":"Chlebnice",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

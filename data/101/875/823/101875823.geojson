@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Tovarn\u00edky"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tovarn\u00edky"
     ],
     "name:deu_x_preferred":[
-        "Tovarn\u00edky"
-    ],
-    "name:dut_x_preferred":[
         "Tovarn\u00edky"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Tovarn\u00edky"
     ],
-    "name:fre_x_preferred":[
-        "Tovarn\u00edky"
-    ],
-    "name:ger_x_preferred":[
-        "Tovarn\u00edky"
-    ],
     "name:hbs_x_preferred":[
         "Tovarnjiki"
     ],
@@ -50,9 +41,6 @@
         "Tavarnok"
     ],
     "name:ita_x_preferred":[
-        "Tovarn\u00edky"
-    ],
-    "name:may_x_preferred":[
         "Tovarn\u00edky"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
         "\u0422\u043e\u0432\u0430\u0440\u043d\u0438\u043a\u0438"
     ],
     "name:slk_x_preferred":[
-        "Tovarn\u00edky"
-    ],
-    "name:slo_x_preferred":[
         "Tovarn\u00edky"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101875823,
-    "wof:lastmodified":1544751958,
+    "wof:lastmodified":1561841688,
     "wof:name":"Tovarn\u00edky",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

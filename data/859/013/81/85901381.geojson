@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28138669.564685,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.103101,48.121208,17.103101,48.121208",
     "geom:latitude":48.121208,
     "geom:longitude":17.103101,
@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Petr\u017ealka"
     ],
+    "name:deu_x_variant":[
+        "Engerau"
+    ],
     "name:eng_x_preferred":[
         "Petr\u017ealka"
     ],
@@ -42,9 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Petr\u017ealka"
-    ],
-    "name:ger_x_preferred":[
-        "Engerau"
     ],
     "name:hrv_x_preferred":[
         "Petr\u017ealka"
@@ -120,11 +120,11 @@
     "wd:longitude":17.116667,
     "wd:wordcount":1333,
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932489,
+    "wof:lastmodified":1561841680,
     "wof:name":"Petr\u017ealka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

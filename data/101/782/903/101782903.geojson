@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Sady nad Torysou"
     ],
-    "name:cze_x_preferred":[
-        "Sady nad Torysou"
-    ],
     "name:deu_x_preferred":[
-        "Sady nad Torysou"
-    ],
-    "name:dut_x_preferred":[
         "Sady nad Torysou"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Sady nad Torysou"
     ],
-    "name:fre_x_preferred":[
-        "Sady nad Torysou"
-    ],
-    "name:ger_x_preferred":[
-        "Sady nad Torysou"
-    ],
     "name:hun_x_preferred":[
         "Izdobabeszter"
     ],
     "name:ita_x_preferred":[
-        "Sady nad Torysou"
-    ],
-    "name:may_x_preferred":[
         "Sady nad Torysou"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Sady nad Torysou"
     ],
     "name:slk_x_preferred":[
-        "Sady nad Torysou"
-    ],
-    "name:slo_x_preferred":[
         "Sady nad Torysou"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +105,7 @@
         }
     ],
     "wof:id":101782903,
-    "wof:lastmodified":1527688320,
+    "wof:lastmodified":1561841701,
     "wof:name":"Sady nad Torysou",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

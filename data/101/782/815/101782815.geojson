@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ko\u010dovce"
     ],
-    "name:cze_x_preferred":[
-        "Ko\u010dovce"
-    ],
     "name:deu_x_preferred":[
-        "Ko\u010dovce"
-    ],
-    "name:dut_x_preferred":[
         "Ko\u010dovce"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Ko\u010dovce"
     ],
-    "name:fre_x_preferred":[
-        "Ko\u010dovce"
-    ],
-    "name:ger_x_preferred":[
-        "Ko\u010dovce"
-    ],
     "name:hun_x_preferred":[
         "Kocs\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Ko\u010dovce"
-    ],
-    "name:may_x_preferred":[
         "Ko\u010dovce"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Ko\u010dovce"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ko\u010dovce"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101782815,
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561841701,
     "wof:name":"Ko\u010dovce",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

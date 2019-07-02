@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1365945.651528,
+    "geom:area_square_m":1365945.651527,
     "geom:bbox":"16.9078676695,48.460444369,16.9368960097,48.4742928224",
     "geom:latitude":48.4682,
     "geom:longitude":16.924872,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Gajary"
     ],
-    "name:cze_x_preferred":[
-        "Gajary"
-    ],
     "name:deu_x_preferred":[
-        "Gajary"
-    ],
-    "name:dut_x_preferred":[
         "Gajary"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Gajary"
     ],
-    "name:fre_x_preferred":[
-        "Gajary"
-    ],
-    "name:ger_x_preferred":[
-        "Gajary"
-    ],
     "name:hbs_x_preferred":[
         "Gajari"
     ],
@@ -53,9 +41,6 @@
         "Gajar"
     ],
     "name:ita_x_preferred":[
-        "Gajary"
-    ],
-    "name:may_x_preferred":[
         "Gajary"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "Gajary"
     ],
     "name:slk_x_preferred":[
-        "Gajary"
-    ],
-    "name:slo_x_preferred":[
         "Gajary"
     ],
     "name:spa_x_preferred":[
@@ -135,7 +117,7 @@
         }
     ],
     "wof:id":101782733,
-    "wof:lastmodified":1527688320,
+    "wof:lastmodified":1561841701,
     "wof:name":"Gajary",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

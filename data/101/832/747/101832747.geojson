@@ -16,22 +16,13 @@
     "mps:longitude":19.607562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Habovka"
-    ],
     "name:cat_x_preferred":[
         "Habovka"
     ],
     "name:ces_x_preferred":[
         "Habovka"
     ],
-    "name:cze_x_preferred":[
-        "Habovka"
-    ],
     "name:deu_x_preferred":[
-        "Habovka"
-    ],
-    "name:dut_x_preferred":[
         "Habovka"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +31,10 @@
     "name:epo_x_preferred":[
         "Habovka"
     ],
+    "name:eus_x_preferred":[
+        "Habovka"
+    ],
     "name:fra_x_preferred":[
-        "Habovka"
-    ],
-    "name:fre_x_preferred":[
-        "Habovka"
-    ],
-    "name:ger_x_preferred":[
         "Habovka"
     ],
     "name:hbs_x_preferred":[
@@ -61,9 +49,6 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30dc\u30d5\u30ab"
     ],
-    "name:may_x_preferred":[
-        "Habovka"
-    ],
     "name:msa_x_preferred":[
         "Habovka"
     ],
@@ -77,9 +62,6 @@
         "Hab\u00f3wka"
     ],
     "name:slk_x_preferred":[
-        "Habovka"
-    ],
-    "name:slo_x_preferred":[
         "Habovka"
     ],
     "name:spa_x_preferred":[
@@ -140,7 +122,7 @@
         }
     ],
     "wof:id":101832747,
-    "wof:lastmodified":1527642785,
+    "wof:lastmodified":1561841694,
     "wof:name":"Habovka",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

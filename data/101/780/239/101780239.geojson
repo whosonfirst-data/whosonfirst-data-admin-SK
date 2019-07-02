@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1066696.994407,
+    "geom:area_square_m":1066696.994406,
     "geom:bbox":"18.248766763,48.9999007263,18.2688514309,49.0145910043",
     "geom:latitude":49.008474,
     "geom:longitude":18.259646,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Ko\u0161eca"
     ],
-    "name:cze_x_preferred":[
-        "Ko\u0161eca"
-    ],
     "name:deu_x_preferred":[
-        "Ko\u0161eca"
-    ],
-    "name:dut_x_preferred":[
         "Ko\u0161eca"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Ko\u0161eca"
     ],
-    "name:fre_x_preferred":[
-        "Ko\u0161eca"
-    ],
-    "name:ger_x_preferred":[
-        "Ko\u0161eca"
-    ],
     "name:hbs_x_preferred":[
         "Ko\u0161eca"
     ],
@@ -53,9 +41,6 @@
         "Kasza"
     ],
     "name:ita_x_preferred":[
-        "Ko\u0161eca"
-    ],
-    "name:may_x_preferred":[
         "Ko\u0161eca"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448\u0435\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ko\u0161eca"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101780239,
-    "wof:lastmodified":1527715875,
+    "wof:lastmodified":1561841718,
     "wof:name":"Ko\u0161eca",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

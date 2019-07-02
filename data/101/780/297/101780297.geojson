@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1595180.432989,
+    "geom:area_square_m":1595180.43299,
     "geom:bbox":"21.7922317519,48.6908227189,21.8114707604,48.7098418984",
     "geom:latitude":48.698931,
     "geom:longitude":21.802586,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Trhovi\u0161te"
     ],
-    "name:dut_x_preferred":[
-        "Trhovi\u0161te"
-    ],
     "name:eng_x_preferred":[
         "Trhovi\u0161te"
     ],
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Trhovi\u0161te"
     ],
-    "name:fre_x_preferred":[
-        "Trhovi\u0161te"
-    ],
-    "name:ger_x_preferred":[
-        "Trhovi\u0161te"
-    ],
     "name:hbs_x_preferred":[
         "Trhovi\u0161te"
     ],
@@ -47,9 +38,6 @@
         "V\u00e1s\u00e1rhely"
     ],
     "name:ita_x_preferred":[
-        "Trhovi\u0161te"
-    ],
-    "name:may_x_preferred":[
         "Trhovi\u0161te"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +52,7 @@
     "name:pol_x_preferred":[
         "Trhovi\u0161te"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Trhovi\u0161te"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101780297,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561841718,
     "wof:name":"Trhovi\u0161te",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

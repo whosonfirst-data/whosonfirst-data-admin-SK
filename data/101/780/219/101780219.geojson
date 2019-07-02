@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Urmince"
     ],
-    "name:cze_x_preferred":[
-        "Urmince"
-    ],
     "name:deu_x_preferred":[
-        "Urmince"
-    ],
-    "name:dut_x_preferred":[
         "Urmince"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Urmince"
     ],
-    "name:fre_x_preferred":[
-        "Urmince"
-    ],
-    "name:ger_x_preferred":[
-        "Urmince"
-    ],
     "name:hbs_x_preferred":[
         "Urmince"
     ],
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Urmince"
     ],
-    "name:may_x_preferred":[
-        "Urmince"
-    ],
     "name:msa_x_preferred":[
         "Urmince"
     ],
@@ -65,9 +50,6 @@
         "Urmince"
     ],
     "name:slk_x_preferred":[
-        "Urmince"
-    ],
-    "name:slo_x_preferred":[
         "Urmince"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101780219,
-    "wof:lastmodified":1527715866,
+    "wof:lastmodified":1561841713,
     "wof:name":"Urmince",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Klin"
     ],
-    "name:cze_x_preferred":[
-        "Klin"
-    ],
     "name:deu_x_preferred":[
-        "Klin"
-    ],
-    "name:dut_x_preferred":[
         "Klin"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Klin"
     ],
-    "name:fre_x_preferred":[
-        "Klin"
-    ],
-    "name:ger_x_preferred":[
-        "Klin"
-    ],
     "name:hun_x_preferred":[
         "Klin"
     ],
     "name:ita_x_preferred":[
-        "Klin"
-    ],
-    "name:may_x_preferred":[
         "Klin"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Klin"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Klin"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101841153,
-    "wof:lastmodified":1553815537,
+    "wof:lastmodified":1561841706,
     "wof:name":"Klin",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

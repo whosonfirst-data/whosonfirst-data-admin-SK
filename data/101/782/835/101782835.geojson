@@ -16,22 +16,13 @@
     "mps:longitude":19.286826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0576\u056b\u056f\u056b"
-    ],
     "name:cat_x_preferred":[
         "Poniky"
     ],
     "name:ces_x_preferred":[
         "Poniky"
     ],
-    "name:cze_x_preferred":[
-        "Poniky"
-    ],
     "name:deu_x_preferred":[
-        "Poniky"
-    ],
-    "name:dut_x_preferred":[
         "Poniky"
     ],
     "name:eng_x_preferred":[
@@ -43,22 +34,16 @@
     "name:fra_x_preferred":[
         "Poniky"
     ],
-    "name:fre_x_preferred":[
-        "Poniky"
-    ],
-    "name:ger_x_preferred":[
-        "Poniky"
-    ],
     "name:hbs_x_preferred":[
         "Ponjiki"
     ],
     "name:hun_x_preferred":[
         "P\u00f3nik"
     ],
-    "name:ita_x_preferred":[
-        "Poniky"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0576\u056b\u056f\u056b"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Poniky"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
         "\u041f\u043e\u043d\u0438\u043a\u0438"
     ],
     "name:slk_x_preferred":[
-        "Poniky"
-    ],
-    "name:slo_x_preferred":[
         "Poniky"
     ],
     "name:srp_x_preferred":[
@@ -141,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688317,
+    "wof:lastmodified":1561841700,
     "wof:name":"Poniky",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

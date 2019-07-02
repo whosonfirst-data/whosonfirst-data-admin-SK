@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":887415.751156,
+    "geom:area_square_m":887415.751157,
     "geom:bbox":"18.4392484639,48.1999866741,18.4508286732,48.2186687085",
     "geom:latitude":48.21005,
     "geom:longitude":18.44512,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Ve\u013ek\u00fd \u010eur"
     ],
-    "name:dut_x_preferred":[
-        "Ve\u013ek\u00fd \u010eur"
-    ],
     "name:eng_x_preferred":[
         "Ve\u013ek\u00fd \u010eur"
     ],
@@ -34,19 +31,10 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd \u010eur"
     ],
-    "name:fre_x_preferred":[
-        "Ve\u013ek\u00fd \u010eur"
-    ],
-    "name:ger_x_preferred":[
-        "Ve\u013ek\u00fd \u010eur"
-    ],
     "name:hun_x_preferred":[
         "Nagygy\u0151r\u00f6d"
     ],
     "name:ita_x_preferred":[
-        "Ve\u013ek\u00fd \u010eur"
-    ],
-    "name:may_x_preferred":[
         "Ve\u013ek\u00fd \u010eur"
     ],
     "name:msa_x_preferred":[
@@ -59,9 +47,6 @@
         "Ve\u013ek\u00fd \u010eur"
     ],
     "name:slk_x_preferred":[
-        "Ve\u013ek\u00fd \u010eur"
-    ],
-    "name:slo_x_preferred":[
         "Ve\u013ek\u00fd \u010eur"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101783965,
-    "wof:lastmodified":1527688493,
+    "wof:lastmodified":1561841703,
     "wof:name":"Ve\u013ek\u00fd \u010eur",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

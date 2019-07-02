@@ -25,16 +25,13 @@
     "name:cat_x_preferred":[
         "Districte de Bardejov"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5c14\u4ee3\u7ea6\u592b\u53bf"
+    "name:ces_x_preferred":[
+        "Okres Bardejov"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u0440\u0434\u0435\u0439\u043e\u0432 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Okres Bardejov"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okres Bardejov"
     ],
     "name:eng_x_preferred":[
@@ -43,14 +40,8 @@
     "name:epo_x_preferred":[
         "Distrikto Bardejov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Bardejov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d3\u10d4\u10d8\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okres Bardejov"
     ],
     "name:hrv_x_preferred":[
         "Okrug Bardejov"
@@ -61,17 +52,23 @@
     "name:ita_x_preferred":[
         "Distretto di Bardejov"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d3\u10d4\u10d8\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Bardejov"
     ],
     "name:lav_x_preferred":[
         "Bardejovas apri\u0146\u0137is"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Bardejov"
     ],
     "name:nan_x_preferred":[
         "Bardejov Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Okres Bardejov"
     ],
     "name:pol_x_preferred":[
         "Powiat Bardej\u00f3w"
@@ -79,16 +76,16 @@
     "name:por_x_preferred":[
         "Bardejov"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Bardejov"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u0411\u0430\u0440\u0434\u0435\u0451\u0432"
-    ],
-    "name:rum_x_preferred":[
-        "Districtul Bardejov"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0434\u0435\u0451\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bardejov"
     ],
     "name:spa_x_preferred":[
@@ -102,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Bardejov"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5c14\u4ee3\u7ea6\u592b\u53bf"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102080621,
-    "wof:lastmodified":1553717231,
+    "wof:lastmodified":1561841675,
     "wof:name":"Bardejov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

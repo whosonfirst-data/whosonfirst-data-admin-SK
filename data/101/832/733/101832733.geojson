@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kendice"
     ],
-    "name:cze_x_preferred":[
-        "Kendice"
-    ],
     "name:deu_x_preferred":[
-        "Kendice"
-    ],
-    "name:dut_x_preferred":[
         "Kendice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kendice"
     ],
-    "name:fre_x_preferred":[
-        "Kendice"
-    ],
-    "name:ger_x_preferred":[
-        "Kendice"
-    ],
     "name:hun_x_preferred":[
         "Kende"
     ],
     "name:ita_x_preferred":[
-        "Kendice"
-    ],
-    "name:may_x_preferred":[
         "Kendice"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
         "\u041a\u0435\u043d\u0434\u0457\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Kendice"
-    ],
-    "name:slo_x_preferred":[
         "Kendice"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +113,7 @@
         }
     ],
     "wof:id":101832733,
-    "wof:lastmodified":1527642786,
+    "wof:lastmodified":1561841694,
     "wof:name":"Kendice",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kol\u00e1rovice"
     ],
-    "name:cze_x_preferred":[
-        "Kol\u00e1rovice"
-    ],
     "name:deu_x_preferred":[
-        "Kol\u00e1rovice"
-    ],
-    "name:dut_x_preferred":[
         "Kol\u00e1rovice"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Kol\u00e1rovice"
     ],
-    "name:fre_x_preferred":[
-        "Kol\u00e1rovice"
-    ],
-    "name:ger_x_preferred":[
-        "Kol\u00e1rovice"
-    ],
     "name:hun_x_preferred":[
         "Kolar\u00f3c"
     ],
     "name:ita_x_preferred":[
-        "Kol\u00e1rovice"
-    ],
-    "name:may_x_preferred":[
         "Kol\u00e1rovice"
     ],
     "name:msa_x_preferred":[
@@ -64,7 +49,7 @@
     "name:pol_x_preferred":[
         "Kol\u00e1rovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kol\u00e1rovice"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843927,
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561841692,
     "wof:name":"Kol\u00e1rovice",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

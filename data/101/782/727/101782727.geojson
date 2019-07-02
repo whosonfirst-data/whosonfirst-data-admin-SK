@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1146573.853475,
+    "geom:area_square_m":1146573.853476,
     "geom:bbox":"17.0224043393,48.5356789501,17.041879926,48.554520169",
     "geom:latitude":48.544665,
     "geom:longitude":17.032494,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Z\u00e1vod"
     ],
-    "name:cze_x_preferred":[
-        "Z\u00e1vod"
-    ],
     "name:deu_x_preferred":[
-        "Z\u00e1vod"
-    ],
-    "name:dut_x_preferred":[
         "Z\u00e1vod"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Z\u00e1vod"
     ],
-    "name:fre_x_preferred":[
-        "Z\u00e1vod"
-    ],
-    "name:ger_x_preferred":[
-        "Z\u00e1vod"
-    ],
     "name:hun_x_preferred":[
         "Pozsonyz\u00e1vod"
     ],
     "name:ita_x_preferred":[
-        "Z\u00e1vod"
-    ],
-    "name:may_x_preferred":[
         "Z\u00e1vod"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:por_x_preferred":[
         "Z\u00e1vod"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1vod"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +110,7 @@
         }
     ],
     "wof:id":101782727,
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561841703,
     "wof:name":"Z\u00e1vod",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

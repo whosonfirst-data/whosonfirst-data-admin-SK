@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1266183.896591,
+    "geom:area_square_m":1266183.89659,
     "geom:bbox":"21.5577925552,48.6405619354,21.5831043293,48.6545261242",
     "geom:latitude":48.647534,
     "geom:longitude":21.568899,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Zempl\u00ednska Teplica"
     ],
-    "name:cze_x_preferred":[
-        "Zempl\u00ednska Teplica"
-    ],
     "name:deu_x_preferred":[
-        "Zempl\u00ednska Teplica"
-    ],
-    "name:dut_x_preferred":[
         "Zempl\u00ednska Teplica"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Zempl\u00ednska Teplica"
     ],
-    "name:fre_x_preferred":[
-        "Zempl\u00ednska Teplica"
-    ],
-    "name:ger_x_preferred":[
-        "Zempl\u00ednska Teplica"
-    ],
     "name:hun_x_preferred":[
         "Sz\u00e9cskereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "Zempl\u00ednska Teplica"
-    ],
-    "name:may_x_preferred":[
         "Zempl\u00ednska Teplica"
     ],
     "name:msa_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rue_x_preferred":[
         "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0430 \u0422\u0454\u043f\u043b\u0456\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zempl\u00ednska Teplica"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101782855,
-    "wof:lastmodified":1527688323,
+    "wof:lastmodified":1561841702,
     "wof:name":"Zempl\u00ednska Teplica",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":947029.722994,
+    "geom:area_square_m":947029.722995,
     "geom:bbox":"19.2035568794,49.1614458408,19.2296424342,49.1867551958",
     "geom:latitude":49.172293,
     "geom:longitude":19.218268,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "\u017da\u0161kov"
     ],
-    "name:cze_x_preferred":[
-        "\u017da\u0161kov"
-    ],
     "name:deu_x_preferred":[
-        "\u017da\u0161kov"
-    ],
-    "name:dut_x_preferred":[
         "\u017da\u0161kov"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "\u017da\u0161kov"
     ],
-    "name:fre_x_preferred":[
-        "\u017da\u0161kov"
-    ],
-    "name:ger_x_preferred":[
-        "\u017da\u0161kov"
-    ],
     "name:hbs_x_preferred":[
         "\u017da\u0161kov"
     ],
@@ -53,9 +41,6 @@
         "Zsask\u00f3"
     ],
     "name:ita_x_preferred":[
-        "\u017da\u0161kov"
-    ],
-    "name:may_x_preferred":[
         "\u017da\u0161kov"
     ],
     "name:msa_x_preferred":[
@@ -67,7 +52,7 @@
     "name:nld_x_preferred":[
         "\u017da\u0161kov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u017da\u0161kov"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +104,7 @@
         }
     ],
     "wof:id":101843943,
-    "wof:lastmodified":1527642602,
+    "wof:lastmodified":1561841693,
     "wof:name":"\u017da\u0161kov",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",
