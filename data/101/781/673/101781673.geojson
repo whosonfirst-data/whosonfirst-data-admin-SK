@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "Zemianske Kosto\u013eany"
+    ],
     "name:fra_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "Zemianske Kosto\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "Zemianske Kosto\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Zemianske Kosto\u013eany"
+    ],
+    "name:war_x_variant":[
+        "Nov\u00e1 Bystrica"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101781673,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254485,
     "wof:name":"Zemianske Kosto\u013eany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

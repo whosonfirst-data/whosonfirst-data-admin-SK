@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Hubice"
     ],
+    "name:eus_x_preferred":[
+        "Hubice"
+    ],
     "name:fra_x_preferred":[
         "Hubice"
     ],
@@ -48,17 +51,29 @@
     "name:por_x_preferred":[
         "Hubice"
     ],
+    "name:ron_x_preferred":[
+        "Hubice"
+    ],
     "name:slk_x_preferred":[
+        "Hubice"
+    ],
+    "name:spa_x_preferred":[
         "Hubice"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0443\u0431\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0431\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Gomba"
     ],
     "name:war_x_preferred":[
         "Hubice"
+    ],
+    "name:war_x_variant":[
+        "Mal\u00e9 Trakany"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125891313,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254851,
     "wof:name":"Hubice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

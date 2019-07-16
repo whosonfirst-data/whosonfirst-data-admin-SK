@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
+    "name:eus_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
     "name:fra_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
+    "name:ron_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
     "name:slk_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:spa_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101780499,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254601,
     "wof:name":"\u0160ari\u0161sk\u00e9 Dravce",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

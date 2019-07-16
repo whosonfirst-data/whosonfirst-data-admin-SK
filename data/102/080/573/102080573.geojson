@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de P\u00fachov"
     ],
+    "name:ceb_x_preferred":[
+        "Okres P\u00fachov"
+    ],
     "name:ces_x_preferred":[
         "Okres P\u00fachov"
+    ],
+    "name:ces_x_variant":[
+        "okres P\u00fachov"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "P\u00fachov"
     ],
+    "name:eng_x_variant":[
+        "P\u00fachov District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto P\u00fachov"
     ],
+    "name:eus_x_preferred":[
+        "P\u00fachoveko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de P\u00fachov"
+    ],
+    "name:fra_x_variant":[
+        "P\u00fachov"
     ],
     "name:hrv_x_preferred":[
         "Okrug P\u00fachov"
@@ -88,6 +103,9 @@
     "name:slk_x_preferred":[
         "P\u00fachov"
     ],
+    "name:slk_x_variant":[
+        "okres P\u00fachov"
+    ],
     "name:spa_x_preferred":[
         "Distrito de P\u00fachov"
     ],
@@ -99,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "P\u00fachov"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u970d\u592b\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":102080573,
-    "wof:lastmodified":1561841676,
+    "wof:lastmodified":1563253588,
     "wof:name":"P\u00fachov",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Bucsany"
     ],
+    "name:eng_x_variant":[
+        "Bu\u010dany"
+    ],
     "name:epo_x_preferred":[
+        "Bu\u010dany"
+    ],
+    "name:eus_x_preferred":[
         "Bu\u010dany"
     ],
     "name:fra_x_preferred":[
@@ -52,7 +58,13 @@
     "name:por_x_preferred":[
         "Bu\u010dany"
     ],
+    "name:ron_x_preferred":[
+        "Bu\u010dany"
+    ],
     "name:slk_x_preferred":[
+        "Bu\u010dany"
+    ],
+    "name:spa_x_preferred":[
         "Bu\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -69,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Bu\u010dany"
+    ],
+    "name:war_x_variant":[
+        "Hali\u010d"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -117,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254227,
     "wof:name":"Bu\u010dany",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

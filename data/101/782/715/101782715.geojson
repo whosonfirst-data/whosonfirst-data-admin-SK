@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Pukanec"
     ],
+    "name:eus_x_preferred":[
+        "Pukanec"
+    ],
     "name:fra_x_preferred":[
         "Pukanec"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Pukanec"
     ],
+    "name:ron_x_preferred":[
+        "Pukanec"
+    ],
     "name:slk_x_preferred":[
+        "Pukanec"
+    ],
+    "name:spa_x_preferred":[
         "Pukanec"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Pukanec"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5fb7\u74e6\u6cb3\u7554\u6469\u723e\u9054\u74e6"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101782715,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254378,
     "wof:name":"Pukanec",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "V\u00ed\u0165az"
     ],
+    "name:eus_x_preferred":[
+        "V\u00ed\u0165az"
+    ],
     "name:fra_x_preferred":[
         "V\u00ed\u0165az"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "V\u00ed\u0165az"
     ],
+    "name:ron_x_preferred":[
+        "V\u00ed\u0165az"
+    ],
     "name:rue_x_preferred":[
         "\u0412\u0456\u0442\u044f\u0437"
     ],
     "name:slk_x_preferred":[
+        "V\u00ed\u0165az"
+    ],
+    "name:spa_x_preferred":[
         "V\u00ed\u0165az"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254590,
     "wof:name":"V\u00ed\u0165az",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Biel"
     ],
+    "name:eus_x_preferred":[
+        "Biel"
+    ],
     "name:fra_x_preferred":[
         "Biel"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Biel"
     ],
+    "name:ron_x_preferred":[
+        "Biel"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0454\u043b"
     ],
     "name:slk_x_preferred":[
+        "Biel"
+    ],
+    "name:spa_x_preferred":[
         "Biel"
     ],
     "name:srp_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":101782873,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254361,
     "wof:name":"Biel",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

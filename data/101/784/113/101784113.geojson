@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Trnav\u00e1 Hora"
     ],
+    "name:eus_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
     "name:fra_x_preferred":[
         "Trnav\u00e1 Hora"
     ],
@@ -52,11 +55,20 @@
     "name:pol_x_preferred":[
         "Trnav\u00e1 Hora"
     ],
+    "name:ron_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
     "name:slk_x_preferred":[
+        "Trnav\u00e1 Hora"
+    ],
+    "name:spa_x_preferred":[
         "Trnav\u00e1 Hora"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430 \u0425\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043d\u0430\u0432\u0430 \u0413\u043e\u0440\u0430"
     ],
     "name:war_x_preferred":[
         "Trnav\u00e1 Hora"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101784113,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254466,
     "wof:name":"Trnav\u00e1 Hora",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

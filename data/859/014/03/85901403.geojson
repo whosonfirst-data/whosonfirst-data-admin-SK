@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":33933959.625325,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.05049,48.243935,17.05049,48.243935",
     "geom:latitude":48.243935,
     "geom:longitude":17.05049,
@@ -34,6 +34,9 @@
     "name:deu_x_variant":[
         "Bisternitz"
     ],
+    "name:eng_x_preferred":[
+        "Z\u00e1horsk\u00e1 Bystrica"
+    ],
     "name:epo_x_preferred":[
         "Z\u00e1horsk\u00e1 Bystrica"
     ],
@@ -55,7 +58,13 @@
     "name:hun_x_variant":[
         "Beszterce"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0570\u0578\u0580\u057d\u056f\u0561 \u0532\u056b\u057d\u057f\u0580\u056b\u0581\u0561"
+    ],
     "name:ita_x_preferred":[
+        "Z\u00e1horsk\u00e1 Bystrica"
+    ],
+    "name:nan_x_preferred":[
         "Z\u00e1horsk\u00e1 Bystrica"
     ],
     "name:nld_x_preferred":[
@@ -63,6 +72,12 @@
     ],
     "name:pol_x_preferred":[
         "Z\u00e1horsk\u00e1 Bystrica"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00e1horsk\u00e1 Bystrica"
+    ],
+    "name:srp_x_preferred":[
+        "Zahorska Bistrica"
     ],
     "name:und_x_colloquial":[
         "Zahorska Bystrica"
@@ -72,6 +87,9 @@
     ],
     "name:unk_x_variant":[
         "Z\u00e1horsk\u00e1 Bystrica"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u970d\u723e\u65af\u5361\u6bd4\u65af\u7279\u91cc\u5bdf"
     ],
     "qs:gn_adm0_cc":"SK",
     "qs:gn_fcode":"PPL",
@@ -105,10 +123,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":95,
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
-        102080461,
-        85688373
+        102080461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932496,
+    "wof:lastmodified":1563253715,
     "wof:name":"Z\u00e1horsk\u00e1 Bystrica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

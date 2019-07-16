@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Holice"
     ],
+    "name:eus_x_preferred":[
+        "Holice"
+    ],
     "name:fra_x_preferred":[
         "Holice"
     ],
@@ -43,23 +46,38 @@
     "name:msa_x_preferred":[
         "Holice"
     ],
+    "name:nan_x_preferred":[
+        "Holice"
+    ],
     "name:nld_x_preferred":[
         "Holice"
     ],
     "name:por_x_preferred":[
         "Holice"
     ],
+    "name:ron_x_preferred":[
+        "Holice"
+    ],
     "name:slk_x_preferred":[
+        "Holice"
+    ],
+    "name:spa_x_preferred":[
         "Holice"
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043b\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "\u00d3-Gelle"
     ],
     "name:war_x_preferred":[
         "Holice"
+    ],
+    "name:war_x_variant":[
+        "Baka"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":101845243,
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254177,
     "wof:name":"Holice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

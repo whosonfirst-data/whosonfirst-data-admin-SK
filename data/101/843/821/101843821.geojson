@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Slovensk\u00e1 \u013dup\u010da"
     ],
+    "name:eus_x_preferred":[
+        "Slovensk\u00e1 \u013dup\u010da"
+    ],
     "name:fra_x_preferred":[
         "Slovensk\u00e1 \u013dup\u010da"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Slovensk\u00e1 \u013dup\u010da"
     ],
+    "name:ron_x_preferred":[
+        "Slovensk\u00e1 \u013dup\u010da"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430 \u041b\u044e\u043f\u0447\u0430"
     ],
     "name:slk_x_preferred":[
+        "Slovensk\u00e1 \u013dup\u010da"
+    ],
+    "name:spa_x_preferred":[
         "Slovensk\u00e1 \u013dup\u010da"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254208,
     "wof:name":"Slovensk\u00e1 \u013dup\u010da",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

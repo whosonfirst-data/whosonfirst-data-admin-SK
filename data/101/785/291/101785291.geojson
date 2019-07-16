@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Such\u00e1 nad Parnou"
     ],
+    "name:eus_x_preferred":[
+        "Such\u00e1 nad Parnou"
+    ],
     "name:fra_x_preferred":[
         "Such\u00e1 nad Parnou"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Such\u00e1 nad Parnou"
     ],
+    "name:ron_x_preferred":[
+        "Such\u00e1 nad Parnou"
+    ],
     "name:slk_x_preferred":[
+        "Such\u00e1 nad Parnou"
+    ],
+    "name:spa_x_preferred":[
         "Such\u00e1 nad Parnou"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Such\u00e1 nad Parnou"
+    ],
+    "name:war_x_variant":[
+        "\u010cebovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -117,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254344,
     "wof:name":"Such\u00e1 nad Parnou",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

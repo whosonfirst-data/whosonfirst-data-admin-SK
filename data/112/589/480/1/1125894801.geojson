@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Balo\u0148"
     ],
+    "name:eus_x_preferred":[
+        "Balo\u0148"
+    ],
     "name:fra_x_preferred":[
         "Balo\u0148"
     ],
@@ -54,11 +57,20 @@
     "name:por_x_preferred":[
         "Balo\u0148"
     ],
+    "name:ron_x_preferred":[
+        "Balo\u0148"
+    ],
     "name:slk_x_preferred":[
+        "Balo\u0148"
+    ],
+    "name:spa_x_preferred":[
         "Balo\u0148"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u043e\u045a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043e\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Balony"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125894801,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254854,
     "wof:name":"Balo\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

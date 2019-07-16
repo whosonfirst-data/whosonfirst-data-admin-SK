@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2203472.108166,
+    "geom:area_square_m":2203472.108167,
     "geom:bbox":"21.9642551279,48.412054641,21.9888447122,48.4355168602",
     "geom:latitude":48.423307,
     "geom:longitude":21.978335,
@@ -22,13 +22,22 @@
     "name:cat_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
+    "name:ceb_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
     "name:ces_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:deu_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
+    "name:eng_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
     "name:epo_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:eus_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:fas_x_preferred":[
@@ -49,20 +58,59 @@
     "name:ita_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30fc\u30ea\u30e7\u30d5\u30b9\u30ad\u30fc\u30fb\u30d5\u30eb\u30e1\u30c4"
+    ],
     "name:lav_x_preferred":[
         "Kr\u0101\u013covski Hlmeca"
+    ],
+    "name:msa_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:nan_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:nld_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:pol_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0451\u0432\u0441\u043a\u0438-\u0425\u043b\u044c\u043c\u0435\u0446"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0430\u043b\u0451\u0432\u0441\u043a\u0438 \u0425\u043b\u043c\u0435\u0446"
+    ],
+    "name:sco_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:slk_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:spa_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0459\u043e\u0432\u0441\u043a\u0438 \u0425\u043b\u043c\u0435\u0446"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u04e9\u0432\u0441\u043a\u0438-\u0425\u043b\u043c\u0435\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u043b\u044c\u043e\u0432\u0441\u043a\u0438-\u0425\u043b\u043c\u0435\u0446"
     ],
     "name:unk_x_variant":[
         "Kir\u00e1ly-Helmec"
+    ],
+    "name:war_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:zho_x_preferred":[
         "\u514b\u62c9\u6d1b\u592b\u65af\u57fa\u8d6b\u723e\u6885\u514b"
@@ -115,7 +163,7 @@
         }
     ],
     "wof:id":101843863,
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1563254250,
     "wof:name":"Kr\u00e1\u013eovsk\u00fd Chlmec",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

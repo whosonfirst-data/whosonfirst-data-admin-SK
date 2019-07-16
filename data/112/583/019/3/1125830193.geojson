@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
+    "name:ceb_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
     "name:ces_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
@@ -34,6 +37,9 @@
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:epo_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:eus_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:fas_x_preferred":[
@@ -83,6 +89,9 @@
     ],
     "name:tat_x_preferred":[
         "\u04ba\u0430\u043d\u0443\u0448\u043e\u0432\u0441\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u04e9\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":1125830193,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563255004,
     "wof:name":"Hanu\u0161ovce nad Topl\u0315ou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

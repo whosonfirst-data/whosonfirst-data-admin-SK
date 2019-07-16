@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Slovinky"
     ],
+    "name:eus_x_preferred":[
+        "Slovinky"
+    ],
     "name:fra_x_preferred":[
         "Slovinky"
     ],
@@ -54,10 +57,16 @@
     "name:pol_x_preferred":[
         "Slovinky"
     ],
+    "name:ron_x_preferred":[
+        "Slovinky"
+    ],
     "name:rue_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0456\u043d\u043a\u044b"
     ],
     "name:slk_x_preferred":[
+        "Slovinky"
+    ],
+    "name:spa_x_preferred":[
         "Slovinky"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1125830887,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563255003,
     "wof:name":"Ni\u017en\u00e9 Slovinky",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

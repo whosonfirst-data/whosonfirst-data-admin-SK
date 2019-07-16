@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Stropkov"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Stropkov"
+    ],
     "name:ces_x_preferred":[
         "Okres Stropkov"
+    ],
+    "name:ces_x_variant":[
+        "okres Stropkov"
     ],
     "name:deu_x_preferred":[
         "Okres Stropkov"
@@ -34,11 +40,20 @@
     "name:eng_x_preferred":[
         "Stropkov"
     ],
+    "name:eng_x_variant":[
+        "Stropkov District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Stropkov"
     ],
+    "name:eus_x_preferred":[
+        "Stopkoveko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Stropkov"
+    ],
+    "name:fra_x_variant":[
+        "Stropkov"
     ],
     "name:hrv_x_preferred":[
         "Okrug Stropkov"
@@ -85,6 +100,9 @@
     "name:slk_x_preferred":[
         "Stropkov"
     ],
+    "name:slk_x_variant":[
+        "okres Stropkov"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Stropkov"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Stropkov"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u7f85\u666e\u7279\u592b\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":102080613,
-    "wof:lastmodified":1561841677,
+    "wof:lastmodified":1563253599,
     "wof:name":"Stropkov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

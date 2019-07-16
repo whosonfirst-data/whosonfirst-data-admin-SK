@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
     "name:nld_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
     "name:pol_x_preferred":[
         "Kokawa Liptowska"
     ],
+    "name:ron_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
     "name:slk_x_preferred":[
+        "Liptovsk\u00e1 Kokava"
+    ],
+    "name:spa_x_preferred":[
         "Liptovsk\u00e1 Kokava"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Liptovsk\u00e1 Kokava"
+    ],
+    "name:war_x_variant":[
+        "Zelene\u010d"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":101843913,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254229,
     "wof:name":"Liptovsk\u00e1 Kokava",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

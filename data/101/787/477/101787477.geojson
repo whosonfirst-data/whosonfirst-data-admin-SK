@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Marcelov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Marcelov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Marcelov\u00e1"
     ],
@@ -55,10 +58,19 @@
     "name:pol_x_preferred":[
         "Marcelov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Marcelov\u00e1"
+    ],
     "name:slk_x_preferred":[
         "Marcelov\u00e1"
     ],
+    "name:spa_x_preferred":[
+        "Marcelov\u00e1"
+    ],
     "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0446\u0435\u043b\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0446\u0435\u043b\u043e\u0432\u0430"
     ],
     "name:unk_x_variant":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101787477,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254553,
     "wof:name":"Marcelov\u00e1",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

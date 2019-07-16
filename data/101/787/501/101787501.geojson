@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Oko\u010d"
     ],
+    "name:eus_x_preferred":[
+        "Oko\u010d"
+    ],
     "name:fra_x_preferred":[
         "Oko\u010d"
     ],
@@ -52,10 +55,19 @@
     "name:por_x_preferred":[
         "Oko\u010d"
     ],
+    "name:ron_x_preferred":[
+        "Oko\u010d"
+    ],
     "name:slk_x_preferred":[
         "Oko\u010d"
     ],
+    "name:spa_x_preferred":[
+        "Oko\u010d"
+    ],
     "name:srp_x_preferred":[
+        "\u041e\u043a\u043e\u0447"
+    ],
+    "name:ukr_x_preferred":[
         "\u041e\u043a\u043e\u0447"
     ],
     "name:unk_x_variant":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Oko\u010d"
+    ],
+    "name:war_x_variant":[
+        "Mu\u017ela"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101787501,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254558,
     "wof:name":"Oko\u010d",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

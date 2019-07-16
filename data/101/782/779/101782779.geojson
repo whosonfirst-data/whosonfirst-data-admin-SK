@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
+    "name:eus_x_preferred":[
+        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
+    ],
     "name:fra_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
@@ -53,6 +56,9 @@
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
     "name:por_x_preferred":[
+        "Borsk\u00fd Sv\u00e4t\u00fd Jur"
+    ],
+    "name:ron_x_preferred":[
         "Borsk\u00fd Sv\u00e4t\u00fd Jur"
     ],
     "name:slk_x_preferred":[
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101782779,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254381,
     "wof:name":"Borsk\u00fd Sv\u00e4t\u00fd Jur",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

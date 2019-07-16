@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zavar"
     ],
+    "name:eus_x_preferred":[
+        "Zavar"
+    ],
     "name:fra_x_preferred":[
         "Zavar"
     ],
@@ -55,10 +58,16 @@
     "name:por_x_preferred":[
         "Zavar"
     ],
+    "name:ron_x_preferred":[
+        "Zavar"
+    ],
     "name:slk_x_preferred":[
         "Zavar"
     ],
     "name:slv_x_preferred":[
+        "Zavar"
+    ],
+    "name:spa_x_preferred":[
         "Zavar"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254348,
     "wof:name":"Zavar",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

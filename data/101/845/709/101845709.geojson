@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Rohovce"
     ],
+    "name:eus_x_preferred":[
+        "Rohovce"
+    ],
     "name:fra_x_preferred":[
         "Rohovce"
     ],
@@ -52,17 +55,29 @@
     "name:por_x_preferred":[
         "Rohovce"
     ],
+    "name:ron_x_preferred":[
+        "Rohovce"
+    ],
     "name:slk_x_preferred":[
+        "Rohovce"
+    ],
+    "name:spa_x_preferred":[
         "Rohovce"
     ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0432\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Ve\u013ek\u00e1 Sarva"
     ],
     "name:war_x_preferred":[
         "Rohovce"
+    ],
+    "name:war_x_variant":[
+        "\u013dubotice"
     ],
     "name:zho_min_nan_x_preferred":[
         "Rohovce"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":101845709,
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254175,
     "wof:name":"Rohovce",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

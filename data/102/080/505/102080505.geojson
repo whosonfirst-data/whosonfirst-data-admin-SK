@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Senica"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Senica"
+    ],
     "name:ces_x_preferred":[
         "Okres Senica"
+    ],
+    "name:ces_x_variant":[
+        "okres Senica"
     ],
     "name:deu_x_preferred":[
         "Okres Senica"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Senica"
     ],
+    "name:eng_x_variant":[
+        "Senica District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Senica"
     ],
+    "name:eus_x_preferred":[
+        "Senicako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Senica"
+    ],
+    "name:fra_x_variant":[
+        "Senica"
     ],
     "name:hrv_x_preferred":[
         "Okrug Senica"
@@ -85,6 +100,9 @@
     "name:slk_x_preferred":[
         "Senica"
     ],
+    "name:slk_x_variant":[
+        "okres Senica"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Senica"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Senica"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5c3c\u5bdf\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":102080505,
-    "wof:lastmodified":1561841674,
+    "wof:lastmodified":1563253562,
     "wof:name":"Senica",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

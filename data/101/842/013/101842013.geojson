@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Turzovka"
     ],
+    "name:ceb_x_preferred":[
+        "Turzovka"
+    ],
     "name:ces_x_preferred":[
         "Turzovka"
     ],
@@ -36,6 +39,9 @@
         "Turzovka"
     ],
     "name:epo_x_preferred":[
+        "Turzovka"
+    ],
+    "name:eus_x_preferred":[
         "Turzovka"
     ],
     "name:fas_x_preferred":[
@@ -80,10 +86,19 @@
     "name:slk_x_preferred":[
         "Turzovka"
     ],
+    "name:spa_x_preferred":[
+        "Turzovka"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0437\u043e\u0432\u043a\u0430"
     ],
     "name:tat_x_preferred":[
+        "\u0422\u0443\u0440\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Turzovka"
+    ],
+    "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0437\u043e\u0432\u043a\u0430"
     ],
     "name:war_x_preferred":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":101842013,
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254179,
     "wof:name":"Turzovka",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

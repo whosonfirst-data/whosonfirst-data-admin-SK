@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Toporec"
     ],
+    "name:eus_x_preferred":[
+        "Toporec"
+    ],
     "name:fra_x_preferred":[
         "Toporec"
     ],
@@ -55,6 +58,9 @@
     "name:pol_x_preferred":[
         "Toporec"
     ],
+    "name:ron_x_preferred":[
+        "Toporec"
+    ],
     "name:rue_x_preferred":[
         "\u0422\u043e\u043f\u043e\u0440\u0435\u0446"
     ],
@@ -62,6 +68,9 @@
         "\u0422\u043e\u043f\u043e\u0440\u0435\u0446"
     ],
     "name:slk_x_preferred":[
+        "Toporec"
+    ],
+    "name:spa_x_preferred":[
         "Toporec"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101780581,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254614,
     "wof:name":"Toporec",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

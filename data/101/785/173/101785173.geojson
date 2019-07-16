@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Komjatice"
     ],
+    "name:eus_x_preferred":[
+        "Komjatice"
+    ],
     "name:fra_x_preferred":[
         "Komjatice"
     ],
@@ -50,6 +53,9 @@
         "Komjatice"
     ],
     "name:nld_x_preferred":[
+        "Komjatice"
+    ],
+    "name:ron_x_preferred":[
         "Komjatice"
     ],
     "name:slk_x_preferred":[
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":101785173,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254330,
     "wof:name":"Komjatice",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

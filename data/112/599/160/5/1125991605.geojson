@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00fd K\u00fdr"
     ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00fd K\u00fdr"
+    ],
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd K\u00fdr"
     ],
@@ -50,7 +53,13 @@
     "name:msa_x_preferred":[
         "Ve\u013ek\u00fd K\u00fdr"
     ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00fd K\u00fdr"
+    ],
     "name:nld_x_preferred":[
+        "Ve\u013ek\u00fd K\u00fdr"
+    ],
+    "name:ron_x_preferred":[
         "Ve\u013ek\u00fd K\u00fdr"
     ],
     "name:slk_x_preferred":[
@@ -67,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00fd K\u00fdr"
+    ],
+    "name:war_x_variant":[
+        "P\u00f4tor"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125991605,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254881,
     "wof:name":"Vel\u0315k\u00fd K\u00fdr",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

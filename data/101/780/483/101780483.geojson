@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1166351.396039,
+    "geom:area_square_m":1166351.39604,
     "geom:bbox":"20.8340383642,49.1383943803,20.8625857668,49.1476350382",
     "geom:latitude":49.143647,
     "geom:longitude":20.849133,
@@ -25,7 +25,13 @@
     "name:deu_x_preferred":[
         "Brezovi\u010dka"
     ],
+    "name:eng_x_preferred":[
+        "Brezovi\u010dka"
+    ],
     "name:epo_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:eus_x_preferred":[
         "Brezovi\u010dka"
     ],
     "name:fra_x_preferred":[
@@ -40,14 +46,35 @@
     "name:msa_x_preferred":[
         "Brezovi\u010dka"
     ],
+    "name:nan_x_preferred":[
+        "Brezovi\u010dka"
+    ],
     "name:nld_x_preferred":[
         "Brezovi\u010dka"
     ],
     "name:pol_x_preferred":[
         "Brezovi\u010dka"
     ],
+    "name:ron_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:slk_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:spa_x_preferred":[
+        "Brezovi\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0447\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Hamborek"
+    ],
+    "name:war_x_preferred":[
+        "Brezovi\u010dka"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -92,7 +119,7 @@
         }
     ],
     "wof:id":101780483,
-    "wof:lastmodified":1527715866,
+    "wof:lastmodified":1563254589,
     "wof:name":"Brezovica",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

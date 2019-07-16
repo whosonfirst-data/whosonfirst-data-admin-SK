@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Turany"
     ],
+    "name:eus_x_preferred":[
+        "Turany"
+    ],
     "name:fra_x_preferred":[
         "Turany"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Turany"
     ],
+    "name:nan_x_preferred":[
+        "Turany"
+    ],
     "name:nld_x_preferred":[
         "Turany"
     ],
     "name:pol_x_preferred":[
         "Turany"
     ],
+    "name:ron_x_preferred":[
+        "Turany"
+    ],
     "name:slk_x_preferred":[
+        "Turany"
+    ],
+    "name:spa_x_preferred":[
         "Turany"
     ],
     "name:srp_x_preferred":[
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":101780321,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254683,
     "wof:name":"Turany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

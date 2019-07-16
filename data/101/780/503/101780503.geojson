@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
+    "name:ceb_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
     "name:ces_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
@@ -30,6 +33,9 @@
         "Nov\u00e1 Lesn\u00e1"
     ],
     "name:epo_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
     "name:fra_x_preferred":[
@@ -53,6 +59,9 @@
     "name:pol_x_preferred":[
         "Nowa Le\u015bna"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
     "name:rue_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041b\u0435\u0441\u043d\u0430"
     ],
@@ -60,6 +69,9 @@
         "\u041d\u043e\u0432\u0430-\u041b\u0435\u0441\u043d\u0430"
     ],
     "name:slk_x_preferred":[
+        "Nov\u00e1 Lesn\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254576,
     "wof:name":"Nov\u00e1 Lesn\u00e1",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

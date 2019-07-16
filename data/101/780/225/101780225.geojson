@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Be\u0148u\u0161"
     ],
+    "name:eus_x_preferred":[
+        "Be\u0148u\u0161"
+    ],
     "name:fra_x_preferred":[
         "Be\u0148u\u0161"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Be\u0148u\u0161"
     ],
+    "name:ron_x_preferred":[
+        "Be\u0148u\u0161"
+    ],
     "name:slk_x_preferred":[
+        "Be\u0148u\u0161"
+    ],
+    "name:spa_x_preferred":[
         "Be\u0148u\u0161"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101780225,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254655,
     "wof:name":"Be\u0148u\u0161",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

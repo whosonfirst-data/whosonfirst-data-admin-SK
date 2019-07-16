@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Nitra"
     ],
+    "name:ceb_x_preferred":[
+        "Nitriansky kraj"
+    ],
     "name:ces_x_preferred":[
         "Nitransk\u00fd kraj"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Nitriansky kraj"
+    ],
+    "name:eng_x_variant":[
+        "Nitra Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Nitra"
@@ -84,6 +90,9 @@
     "name:fra_x_variant":[
         "Nitra"
     ],
+    "name:frr_x_preferred":[
+        "Nitra"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a9f\u0acd\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -95,6 +104,9 @@
     ],
     "name:hun_x_preferred":[
         "Nyitrai k\u00f6rzet"
+    ],
+    "name:hun_x_variant":[
+        "Nyitra megye"
     ],
     "name:ind_x_preferred":[
         "Region Nitra"
@@ -114,11 +126,17 @@
     "name:kor_x_preferred":[
         "\ub2c8\ud2b8\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\ud2b8\ub77c\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Nitria"
     ],
     "name:lav_x_preferred":[
         "Nitras apgabals"
+    ],
+    "name:lim_x_preferred":[
+        "Gewes Nitra"
     ],
     "name:lit_x_preferred":[
         "Nitros kra\u0161tas"
@@ -323,7 +341,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1561841681,
+    "wof:lastmodified":1563253723,
     "wof:name":"Nitriansky kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Margecany"
     ],
+    "name:eus_x_preferred":[
+        "Margecany"
+    ],
     "name:fra_x_preferred":[
         "Margecany"
     ],
@@ -55,10 +58,19 @@
     "name:pol_x_preferred":[
         "Margecany"
     ],
+    "name:ron_x_preferred":[
+        "Margecany"
+    ],
     "name:slk_x_preferred":[
         "Margecany"
     ],
+    "name:spa_x_preferred":[
+        "Margecany"
+    ],
     "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0433\u0435\u0446\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0435\u0446\u0430\u043d\u0438"
     ],
     "name:war_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101780255,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254669,
     "wof:name":"Margecany",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

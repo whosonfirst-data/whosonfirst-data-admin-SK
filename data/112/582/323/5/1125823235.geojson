@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Bukovec"
     ],
+    "name:eus_x_preferred":[
+        "Bukovec"
+    ],
     "name:fra_x_preferred":[
         "Bukovec"
     ],
@@ -51,14 +54,26 @@
     "name:pol_x_preferred":[
         "Bukovec"
     ],
+    "name:ron_x_preferred":[
+        "Bukovec"
+    ],
     "name:slk_x_preferred":[
+        "Bukovec"
+    ],
+    "name:spa_x_preferred":[
         "Bukovec"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:war_x_preferred":[
         "Bukovec"
+    ],
+    "name:war_x_variant":[
+        "By\u0161ta"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125823235,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254947,
     "wof:name":"Bukovec",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

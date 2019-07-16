@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zohor"
     ],
+    "name:eus_x_preferred":[
+        "Zohor"
+    ],
     "name:fra_x_preferred":[
         "Zohor"
     ],
@@ -59,6 +62,9 @@
         "Zohor"
     ],
     "name:por_x_preferred":[
+        "Zohor"
+    ],
+    "name:ron_x_preferred":[
         "Zohor"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":101785283,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254335,
     "wof:name":"Zohor",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

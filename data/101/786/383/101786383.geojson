@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
+    "name:eus_x_preferred":[
+        "Te\u0161ed\u00edkovo"
+    ],
     "name:fra_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
@@ -52,10 +55,16 @@
     "name:nld_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
+    "name:ron_x_preferred":[
+        "Te\u0161ed\u00edkovo"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0448\u0435\u0434\u0438\u043a\u043e\u0432\u043e"
     ],
     "name:slk_x_preferred":[
+        "Te\u0161ed\u00edkovo"
+    ],
+    "name:spa_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Te\u0161ed\u00edkovo"
+    ],
+    "name:war_x_variant":[
+        "B\u00ed\u0148a"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":101786383,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254529,
     "wof:name":"Te\u0161ed\u00edkovo",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

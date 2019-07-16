@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":917230.609856,
+    "geom:area_square_m":917230.609855,
     "geom:bbox":"17.1944846349,48.6665231217,17.213210862,48.6861886937",
     "geom:latitude":48.676337,
     "geom:longitude":17.202628,
@@ -25,7 +25,13 @@
     "name:deu_x_preferred":[
         "\u0160tefanov"
     ],
+    "name:eng_x_preferred":[
+        "\u0160tefanov"
+    ],
     "name:epo_x_preferred":[
+        "\u0160tefanov"
+    ],
+    "name:eus_x_preferred":[
         "\u0160tefanov"
     ],
     "name:fra_x_preferred":[
@@ -40,14 +46,35 @@
     "name:msa_x_preferred":[
         "\u0160tefanov"
     ],
+    "name:nan_x_preferred":[
+        "\u0160tefanov"
+    ],
     "name:nld_x_preferred":[
         "\u0160tefanov"
     ],
     "name:por_x_preferred":[
         "\u0160tefanov"
     ],
+    "name:ron_x_preferred":[
+        "\u0160tefanov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0435\u0444\u0430\u043d\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160tefanov"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160tefanov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0435\u0444\u0430\u043d\u043e\u0432"
+    ],
     "name:unk_x_variant":[
         "\u0160tepanov"
+    ],
+    "name:war_x_preferred":[
+        "\u0160tefanov"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -92,7 +119,7 @@
         }
     ],
     "wof:id":101784091,
-    "wof:lastmodified":1527688538,
+    "wof:lastmodified":1563254438,
     "wof:name":"\u0160tefanov",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

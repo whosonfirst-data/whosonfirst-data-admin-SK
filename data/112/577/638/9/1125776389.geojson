@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Doln\u00fd Bar"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00fd Bar"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00fd Bar"
     ],
@@ -51,17 +54,29 @@
     "name:por_x_preferred":[
         "Doln\u00fd Bar"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00fd Bar"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00fd Bar"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00fd Bar"
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u0411\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u044c\u043d\u0438 \u0411\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Doln\u00ed Bar"
     ],
     "name:war_x_preferred":[
         "Doln\u00fd Bar"
+    ],
+    "name:war_x_variant":[
+        "Sv\u00e4tu\u0161e"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1125776389,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563254999,
     "wof:name":"Doln\u00fd Bar",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

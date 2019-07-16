@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00e1 Osada"
+    ],
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00e1 Osada"
+    ],
     "name:nld_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
     "name:pol_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
+    "name:ron_x_preferred":[
+        "Liptovsk\u00e1 Osada"
+    ],
     "name:slk_x_preferred":[
+        "Liptovsk\u00e1 Osada"
+    ],
+    "name:spa_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Liptovsk\u00e1 Osada"
+    ],
+    "name:war_x_variant":[
+        "\u0160trba"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101780313,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254622,
     "wof:name":"Liptovsk\u00e1 Osada",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "\u00dahorn\u00e1"
     ],
+    "name:ces_x_preferred":[
+        "\u00dahorn\u00e1"
+    ],
     "name:deu_x_preferred":[
         "\u00dahorn\u00e1"
     ],
@@ -28,6 +31,9 @@
         "\u00dahorn\u00e1"
     ],
     "name:epo_x_preferred":[
+        "\u00dahorn\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "\u00dahorn\u00e1"
     ],
     "name:fra_x_preferred":[
@@ -51,11 +57,20 @@
     "name:pol_x_preferred":[
         "\u00dahorn\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "\u00dahorn\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "\u00dahorn\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "\u00dahorn\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0445\u043e\u0440\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0433\u043e\u0440\u043d\u0430"
     ],
     "name:war_x_preferred":[
         "\u00dahorn\u00e1"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1126011525,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254924,
     "wof:name":"\u00dahorn\u00e1",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

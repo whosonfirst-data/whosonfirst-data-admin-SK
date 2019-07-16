@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
+    "name:eus_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
     "name:fra_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
+    "name:nan_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
     "name:nld_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
     "name:pol_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
+    "name:ron_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
     "name:slk_x_preferred":[
+        "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:spa_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Lehota pod Vt\u00e1\u010dnikom"
+    ],
+    "name:war_x_variant":[
+        "Kanianka"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":101781669,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254488,
     "wof:name":"Lehota pod Vt\u00e1\u010dnikom",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

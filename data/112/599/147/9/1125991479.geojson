@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "K\u013eu\u0161ov"
     ],
+    "name:eus_x_preferred":[
+        "K\u013eu\u0161ov"
+    ],
     "name:fra_x_preferred":[
         "K\u013eu\u0161ov"
     ],
@@ -45,16 +48,25 @@
     "name:msa_x_preferred":[
         "K\u013eu\u0161ov"
     ],
+    "name:msa_x_variant":[
+        "Bot\u0315any"
+    ],
     "name:nld_x_preferred":[
         "K\u013eu\u0161ov"
     ],
     "name:pol_x_preferred":[
         "K\u013eu\u0161ov"
     ],
+    "name:ron_x_preferred":[
+        "K\u013eu\u0161ov"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u043b\u044e\u0448\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "K\u013eu\u0161ov"
+    ],
+    "name:spa_x_preferred":[
         "K\u013eu\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1125991479,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254890,
     "wof:name":"Kl\u0315u\u0161ov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

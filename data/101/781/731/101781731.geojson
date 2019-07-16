@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Soblahov"
     ],
+    "name:eus_x_preferred":[
+        "Soblahov"
+    ],
     "name:fra_x_preferred":[
         "Soblahov"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Soblahov"
     ],
+    "name:ron_x_preferred":[
+        "Soblahov"
+    ],
     "name:slk_x_preferred":[
+        "Soblahov"
+    ],
+    "name:spa_x_preferred":[
         "Soblahov"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Soblahov"
+    ],
+    "name:war_x_variant":[
+        "Doln\u00e1 S\u00fa\u010da"
     ],
     "name:zho_min_nan_x_preferred":[
         "Soblahov"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101781731,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254482,
     "wof:name":"Soblahov",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

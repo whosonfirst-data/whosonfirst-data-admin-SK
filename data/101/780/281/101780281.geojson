@@ -16,13 +16,22 @@
     "mps:longitude":20.588039,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tepli\u010dka"
+    ],
     "name:ces_x_preferred":[
         "Tepli\u010dka"
     ],
     "name:deu_x_preferred":[
         "Tepli\u010dka"
     ],
+    "name:eng_x_preferred":[
+        "Tepli\u010dka"
+    ],
     "name:epo_x_preferred":[
+        "Tepli\u010dka"
+    ],
+    "name:fra_x_preferred":[
         "Tepli\u010dka"
     ],
     "name:hbs_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0458\u0435\u043f\u043b\u0438\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u0456\u0447\u043a\u0430"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":101780281,
-    "wof:lastmodified":1527715867,
+    "wof:lastmodified":1563254594,
     "wof:name":"Tepli\u010dka",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

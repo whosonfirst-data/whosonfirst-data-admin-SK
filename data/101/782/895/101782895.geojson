@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ple\u0161ivec"
     ],
+    "name:eus_x_preferred":[
+        "Ple\u0161ivec"
+    ],
     "name:fra_x_preferred":[
         "Ple\u0161ivec"
     ],
@@ -55,11 +58,20 @@
     "name:pol_x_preferred":[
         "Ple\u0161ivec"
     ],
+    "name:ron_x_preferred":[
+        "Ple\u0161ivec"
+    ],
     "name:slk_x_preferred":[
+        "Ple\u0161ivec"
+    ],
+    "name:spa_x_preferred":[
         "Ple\u0161ivec"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0459\u0435\u0448\u0438\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0456\u0432\u0435\u0446"
     ],
     "name:unk_x_variant":[
         "T\u00f3tpels\u0151cz"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101782895,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254366,
     "wof:name":"Ple\u0161ivec",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

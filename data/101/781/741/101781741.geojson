@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Polomka"
     ],
+    "name:eus_x_preferred":[
+        "Polomka"
+    ],
     "name:fra_x_preferred":[
         "Polomka"
     ],
@@ -55,10 +58,19 @@
     "name:pol_x_preferred":[
         "Polomka"
     ],
+    "name:ron_x_preferred":[
+        "Polomka"
+    ],
     "name:slk_x_preferred":[
         "Polomka"
     ],
+    "name:spa_x_preferred":[
+        "Polomka"
+    ],
     "name:srp_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043c\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043c\u043a\u0430"
     ],
     "name:war_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":101781741,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254495,
     "wof:name":"Polomka",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

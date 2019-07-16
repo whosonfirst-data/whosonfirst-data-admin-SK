@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Leles"
     ],
+    "name:eus_x_preferred":[
+        "Leles"
+    ],
     "name:fra_x_preferred":[
         "Leles"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Leles"
     ],
+    "name:ron_x_preferred":[
+        "Leles"
+    ],
     "name:rue_x_preferred":[
         "\u041b\u0435\u043b\u0435\u0441"
     ],
     "name:slk_x_preferred":[
+        "Leles"
+    ],
+    "name:spa_x_preferred":[
         "Leles"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:tur_x_preferred":[
         "Leles"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043b\u0435\u0441"
     ],
     "name:war_x_preferred":[
         "Leles"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":101782867,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254370,
     "wof:name":"Leles",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

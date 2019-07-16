@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Gelnica"
     ],
+    "name:ceb_x_preferred":[
+        "Gelnica"
+    ],
     "name:ces_x_preferred":[
         "Gelnica"
     ],
@@ -36,6 +39,9 @@
         "Gelnica"
     ],
     "name:epo_x_preferred":[
+        "Gelnica"
+    ],
+    "name:eus_x_preferred":[
         "Gelnica"
     ],
     "name:fas_x_preferred":[
@@ -89,8 +95,14 @@
     "name:srp_x_preferred":[
         "\u0413\u0435\u043b\u045a\u0438\u0446\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u0413\u0435\u0459\u043d\u0438\u0446\u0430"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0435\u043b\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Gelnica"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0435\u043b\u043d\u0438\u0446\u044f"
@@ -157,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254206,
     "wof:name":"Gelnica",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Hronovce"
     ],
+    "name:ces_x_preferred":[
+        "Hronovce"
+    ],
     "name:deu_x_preferred":[
         "Hronovce"
     ],
@@ -26,6 +29,9 @@
         "Hronovce"
     ],
     "name:epo_x_preferred":[
+        "Hronovce"
+    ],
+    "name:eus_x_preferred":[
         "Hronovce"
     ],
     "name:fra_x_preferred":[
@@ -46,7 +52,13 @@
     "name:pol_x_preferred":[
         "Hronovce"
     ],
+    "name:ron_x_preferred":[
+        "Hronovce"
+    ],
     "name:slk_x_preferred":[
+        "Hronovce"
+    ],
+    "name:spa_x_preferred":[
         "Hronovce"
     ],
     "name:srp_x_preferred":[
@@ -54,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Hronovce"
+    ],
+    "name:war_x_variant":[
+        "Vozokany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":101786429,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254543,
     "wof:name":"Hronovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

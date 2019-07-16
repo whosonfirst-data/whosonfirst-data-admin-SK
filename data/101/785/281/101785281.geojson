@@ -25,10 +25,16 @@
     "name:deu_x_preferred":[
         "Lozorno"
     ],
+    "name:deu_x_variant":[
+        "Losorn"
+    ],
     "name:eng_x_preferred":[
         "Lozorno"
     ],
     "name:epo_x_preferred":[
+        "Lozorno"
+    ],
+    "name:eus_x_preferred":[
         "Lozorno"
     ],
     "name:fra_x_preferred":[
@@ -46,10 +52,16 @@
     "name:msa_x_preferred":[
         "Lozorno"
     ],
+    "name:nan_x_preferred":[
+        "Lozorno"
+    ],
     "name:nld_x_preferred":[
         "Lozorno"
     ],
     "name:por_x_preferred":[
+        "Lozorno"
+    ],
+    "name:ron_x_preferred":[
         "Lozorno"
     ],
     "name:slk_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Lozorno"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lozorno"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":101785281,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254324,
     "wof:name":"Lozorno",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

@@ -21,11 +21,32 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0646\u0627\u0641\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Trnava"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0440\u043d\u0430\u0432\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0440\u043d\u0430\u0432\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0422\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09cd\u09b0\u09be\u09a8\u09be\u09ad\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Trnava"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Trnava"
+    ],
+    "name:ceb_x_preferred":[
+        "Trnava"
     ],
     "name:ces_x_preferred":[
         "Trnava"
@@ -33,17 +54,35 @@
     "name:chv_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430"
     ],
+    "name:cym_x_preferred":[
+        "Trnava"
+    ],
+    "name:dan_x_preferred":[
+        "Trnava"
+    ],
     "name:deu_x_preferred":[
         "Trnava"
     ],
     "name:deu_x_variant":[
         "Tyrnau"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03bd\u03ac\u03b2\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Trnava"
+    ],
+    "name:epo_x_preferred":[
         "Trnava"
     ],
     "name:est_x_preferred":[
         "Trnava"
+    ],
+    "name:eus_x_preferred":[
+        "Trnava"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0646\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Trnava"
@@ -51,32 +90,104 @@
     "name:fra_x_preferred":[
         "Trnava"
     ],
+    "name:frr_x_preferred":[
+        "Trnava"
+    ],
+    "name:gle_x_preferred":[
+        "Trnava"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0ab0\u0aa8\u0abe\u0ab5\u0abe"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05e0\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u0928\u093e\u0935\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Trnava"
     ],
     "name:hun_x_preferred":[
         "Nagyszombat"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0576\u0561\u057e\u0561"
+    ],
+    "name:ile_x_preferred":[
+        "Trnava"
+    ],
+    "name:ind_x_preferred":[
+        "Trnava"
+    ],
+    "name:ita_x_preferred":[
+        "Trnava"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30eb\u30ca\u30f4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0ccd\u0cb0\u0ca3\u0cb5"
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub974\ub098\ubc14"
     ],
+    "name:lav_x_preferred":[
+        "Trnava"
+    ],
+    "name:lim_x_preferred":[
+        "Trnava"
+    ],
+    "name:lit_x_preferred":[
+        "Trnava"
+    ],
+    "name:lmo_x_preferred":[
+        "Trnava"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094d\u0930\u0928\u093e\u0935\u093e"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Trnava"
+    ],
+    "name:nan_x_preferred":[
+        "Trnava"
+    ],
     "name:nld_x_preferred":[
+        "Trnava"
+    ],
+    "name:nno_x_preferred":[
+        "Trnava"
+    ],
+    "name:nob_x_preferred":[
+        "Trnava"
+    ],
+    "name:oci_x_preferred":[
         "Trnava"
     ],
     "name:pol_x_preferred":[
         "Trnawa"
     ],
+    "name:por_x_preferred":[
+        "Trnava"
+    ],
     "name:ron_x_preferred":[
         "Trnava"
     ],
+    "name:rue_x_preferred":[
+        "\u0422\u044b\u0440\u043d\u0430\u0432\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Trnava"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u200d\u0dbb\u0dca\u0db1\u0dcf\u0dc0\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Trnava"
@@ -87,11 +198,32 @@
     "name:spa_x_preferred":[
         "Trnava"
     ],
+    "name:sqi_x_preferred":[
+        "Trnava"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Trnava"
+    ],
+    "name:szl_x_preferred":[
+        "Trnava"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bb5\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c30\u0c28\u0c35"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e19\u0e32\u0e27\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Trnava"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430"
@@ -101,6 +233,15 @@
     ],
     "name:unk_x_variant":[
         "Nagyszombat"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0646\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Trnava"
+    ],
+    "name:war_x_preferred":[
+        "Trnava"
     ],
     "name:zho_x_preferred":[
         "\u7279\u723e\u7d0d\u74e6"
@@ -250,7 +391,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254169,
     "wof:name":"Trnava",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

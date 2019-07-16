@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Oravsk\u00e9 Vesel\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
     ],
+    "name:nan_x_preferred":[
+        "Oravsk\u00e9 Vesel\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
     ],
     "name:pol_x_preferred":[
         "Orawskie Wesele"
     ],
+    "name:ron_x_preferred":[
+        "Oravsk\u00e9 Vesel\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Oravsk\u00e9 Vesel\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
+    ],
+    "name:war_x_variant":[
+        "Rab\u010da"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101847817,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254472,
     "wof:name":"Oravsk\u00e9 Vesel\u00e9",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

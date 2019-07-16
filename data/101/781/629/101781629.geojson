@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Rybany"
     ],
+    "name:eus_x_preferred":[
+        "Rybany"
+    ],
     "name:fra_x_preferred":[
         "Rybany"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Rybany"
     ],
+    "name:ron_x_preferred":[
+        "Rybany"
+    ],
     "name:slk_x_preferred":[
+        "Rybany"
+    ],
+    "name:spa_x_preferred":[
         "Rybany"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101781629,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254487,
     "wof:name":"Rybany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

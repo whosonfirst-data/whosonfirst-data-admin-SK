@@ -25,7 +25,13 @@
     "name:cat_x_preferred":[
         "Ivanka pri Dunaji"
     ],
+    "name:ceb_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
     "name:ces_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:dan_x_preferred":[
         "Ivanka pri Dunaji"
     ],
     "name:deu_x_preferred":[
@@ -35,6 +41,9 @@
         "Ivanka pri Dunaji"
     ],
     "name:epo_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
+    "name:eus_x_preferred":[
         "Ivanka pri Dunaji"
     ],
     "name:fra_x_preferred":[
@@ -61,6 +70,9 @@
     "name:por_x_preferred":[
         "Ivanka pri Dunaji"
     ],
+    "name:ron_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043a\u0430 \u043f\u0440\u0438 \u0414\u0443\u043d\u0430\u0435"
     ],
@@ -70,8 +82,14 @@
     "name:slv_x_preferred":[
         "Ivanka pri Dunaji"
     ],
+    "name:spa_x_preferred":[
+        "Ivanka pri Dunaji"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043a\u0430 \u043f\u0440\u0438 \u0414\u0443\u043d\u0430\u0432\u0443"
+    ],
+    "name:szl_x_preferred":[
+        "Ivanka pri Dunaji"
     ],
     "name:unk_x_variant":[
         "Ivanka"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1125824387,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254946,
     "wof:name":"Ivanka pri Dunaji",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

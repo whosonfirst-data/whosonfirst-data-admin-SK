@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Zborov"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05d1\u05e8\u05d9\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Zbor\u00f3"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Zborov"
     ],
+    "name:ron_x_preferred":[
+        "Zborov"
+    ],
     "name:rue_x_preferred":[
         "\u0417\u0431\u043e\u0440\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Zborov"
+    ],
+    "name:spa_x_preferred":[
         "Zborov"
     ],
     "name:srp_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":101780601,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254663,
     "wof:name":"Zborov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

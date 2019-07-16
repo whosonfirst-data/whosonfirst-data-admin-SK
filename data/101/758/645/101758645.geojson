@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
+    "name:eus_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
     "name:fra_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
+    "name:nan_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
     "name:nld_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
     "name:pol_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
+    "name:ron_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
     "name:slk_x_preferred":[
+        "Lietavsk\u00e1 L\u00fa\u010dka"
+    ],
+    "name:spa_x_preferred":[
         "Lietavsk\u00e1 L\u00fa\u010dka"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254468,
     "wof:name":"Lietavsk\u00e1 L\u00fa\u010dka",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Srnie"
+    ],
     "name:fra_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
+    "name:ron_x_preferred":[
+        "Horn\u00e9 Srnie"
+    ],
     "name:slk_x_preferred":[
+        "Horn\u00e9 Srnie"
+    ],
+    "name:spa_x_preferred":[
         "Horn\u00e9 Srnie"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Horn\u00e9 Srnie"
+    ],
+    "name:war_x_variant":[
+        "Koz\u00e1rovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101843841,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254239,
     "wof:name":"Horn\u00e9 Srnie",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

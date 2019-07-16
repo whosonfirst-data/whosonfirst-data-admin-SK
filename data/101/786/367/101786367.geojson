@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
     "name:fra_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
@@ -49,10 +52,19 @@
     "name:nld_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
+    "name:pol_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
     "name:por_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
     "name:slk_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 pri Senci"
+    ],
+    "name:spa_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 pri Senci"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101786367,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254539,
     "wof:name":"Kr\u00e1\u013eov\u00e1 pri Senci",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

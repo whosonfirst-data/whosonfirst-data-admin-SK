@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Trstice"
     ],
+    "name:eus_x_preferred":[
+        "Trstice"
+    ],
     "name:fra_x_preferred":[
         "Trstice"
     ],
@@ -52,17 +55,29 @@
     "name:nld_x_preferred":[
         "Trstice"
     ],
+    "name:ron_x_preferred":[
+        "Trstice"
+    ],
     "name:slk_x_preferred":[
+        "Trstice"
+    ],
+    "name:spa_x_preferred":[
         "Trstice"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "N\u00e1dszeg"
     ],
     "name:war_x_preferred":[
         "Trstice"
+    ],
+    "name:war_x_variant":[
+        "Ko\u0161\u00faty"
     ],
     "name:zho_min_nan_x_preferred":[
         "Trstice"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101786397,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254522,
     "wof:name":"Trstice",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -33,11 +33,17 @@
     "name:epo_x_preferred":[
         "Doln\u00e9 Ko\u010dkovce"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00e9 Ko\u010dkovce"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00e9 Ko\u010dkovce"
     ],
     "name:hun_x_preferred":[
         "Als\u00f3kocsk\u00f3c"
+    ],
+    "name:hun_x_variant":[
+        "Peklina"
     ],
     "name:ita_x_preferred":[
         "Doln\u00e9 Ko\u010dkovce"
@@ -51,7 +57,13 @@
     "name:nld_x_preferred":[
         "Doln\u00e9 Ko\u010dkovce"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00e9 Ko\u010dkovce"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00e9 Ko\u010dkovce"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00e9 Ko\u010dkovce"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125774093,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254986,
     "wof:name":"Doln\u00e9 Ko\u010dkovce",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Var\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Var\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Var\u00edn"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Var\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Var\u00edn"
+    ],
     "name:slk_x_preferred":[
+        "Var\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Var\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254287,
     "wof:name":"Var\u00edn",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

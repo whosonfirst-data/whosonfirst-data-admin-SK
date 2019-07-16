@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
     "name:fra_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
@@ -55,14 +58,23 @@
     "name:nld_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0451\u0432 \u0411\u0440\u043e\u0434"
     ],
     "name:slk_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
+    "name:spa_x_preferred":[
+        "Kr\u00e1\u013eov Brod"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0459\u043e\u0432 \u0411\u0440\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u044c\u043e\u0432 \u0411\u0440\u043e\u0434"
     ],
     "name:unk_x_variant":[
         "Kir\u00e1lyr\u00e9v"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101786417,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254542,
     "wof:name":"Kr\u00e1\u013eov Brod",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
+    "name:eus_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
     "name:fra_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
@@ -49,11 +52,20 @@
     "name:por_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
+    "name:ron_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
     "name:slk_x_preferred":[
+        "Hrn\u010diarovce nad Parnou"
+    ],
+    "name:spa_x_preferred":[
         "Hrn\u010diarovce nad Parnou"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u043d\u0447\u0458\u0430\u0440\u043e\u0432\u0446\u0435 \u043d\u0430 \u041f\u0430\u0440\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "Dvor \u010cierna Voda"
     ],
     "name:und_x_preferred":[
         "Hrnciarovce Nad Parnou"
@@ -111,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254315,
     "wof:name":"Hrn\u010diarovce nad Parnou",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

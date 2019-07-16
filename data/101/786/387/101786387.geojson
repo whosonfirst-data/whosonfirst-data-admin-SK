@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Diakovce"
     ],
+    "name:eus_x_preferred":[
+        "Diakovce"
+    ],
     "name:fra_x_preferred":[
         "Diakovce"
     ],
@@ -61,6 +64,12 @@
     "name:nob_x_preferred":[
         "Diakovce"
     ],
+    "name:pol_x_preferred":[
+        "Diakovce"
+    ],
+    "name:ron_x_preferred":[
+        "Diakovce"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0430\u043a\u0438"
     ],
@@ -68,6 +77,9 @@
         "Diakovce"
     ],
     "name:slv_x_preferred":[
+        "Diakovce"
+    ],
+    "name:spa_x_preferred":[
         "Diakovce"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":101786387,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254548,
     "wof:name":"Diakovce",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

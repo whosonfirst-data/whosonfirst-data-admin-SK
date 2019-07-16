@@ -26,11 +26,17 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u043e\u0432\u0435 \u0417\u0430\u043c\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u041d\u043e\u0432\u0435 \u0417\u0430\u043c\u043a\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0435 \u0417\u0430\u043c\u043a\u0438"
     ],
     "name:cat_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
+    ],
+    "name:ceb_x_preferred":[
+        "Okres Nov\u00e9 Z\u00e1mky"
     ],
     "name:ces_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
@@ -44,10 +50,16 @@
     "name:deu_x_variant":[
         "Nov\u00e9 Z\u00e1mky"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03b2\u03b5 \u0396\u03ac\u03bc\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
     ],
     "name:epo_x_preferred":[
+        "Nov\u00e9 Z\u00e1mky"
+    ],
+    "name:eus_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
     ],
     "name:fas_x_preferred":[
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":101786339,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254521,
     "wof:name":"Nov\u00e9 Z\u00e1mky",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

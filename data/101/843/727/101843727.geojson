@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Bernol\u00e1kovo"
     ],
+    "name:eus_x_preferred":[
+        "Bernol\u00e1kovo"
+    ],
     "name:fra_x_preferred":[
         "Bernol\u00e1kovo"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Bernol\u00e1kovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ce\u30e9\u30fc\u30b3\u30f4\u30a9"
     ],
     "name:msa_x_preferred":[
         "Bernol\u00e1kovo"
@@ -58,7 +64,13 @@
     "name:por_x_preferred":[
         "Bernol\u00e1kovo"
     ],
+    "name:ron_x_preferred":[
+        "Bernol\u00e1kovo"
+    ],
     "name:slk_x_preferred":[
+        "Bernol\u00e1kovo"
+    ],
+    "name:spa_x_preferred":[
         "Bernol\u00e1kovo"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101843727,
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254262,
     "wof:name":"Bernol\u00e1kovo",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
     "name:fra_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
+    "name:nan_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
     "name:nld_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
+    "name:ron_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
     "name:slk_x_preferred":[
+        "Horn\u00e9 Obdokovce"
+    ],
+    "name:spa_x_preferred":[
         "Horn\u00e9 Obdokovce"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Horn\u00e9 Obdokovce"
+    ],
+    "name:war_x_variant":[
+        "Radzovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":101784073,
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254454,
     "wof:name":"Horn\u00e9 Obdokovce",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

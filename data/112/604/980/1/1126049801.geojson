@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "\u010cerven\u00fd Kl\u00e1\u0161tor"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cerven\u00fd Kl\u00e1\u0161tor"
+    ],
     "name:ces_x_preferred":[
         "\u010cerven\u00fd Kl\u00e1\u0161tor"
     ],
@@ -32,6 +35,9 @@
         "\u010cerven\u00fd Kl\u00e1\u0161tor"
     ],
     "name:epo_x_preferred":[
+        "\u010cerven\u00fd Kl\u00e1\u0161tor"
+    ],
+    "name:eus_x_preferred":[
         "\u010cerven\u00fd Kl\u00e1\u0161tor"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +61,9 @@
     "name:pol_x_preferred":[
         "Czerwony Klasztor"
     ],
+    "name:ron_x_preferred":[
+        "\u010cerven\u00fd Kl\u00e1\u0161tor"
+    ],
     "name:rue_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0456 \u041a\u043b\u0430\u0448\u0442\u043e\u0440"
     ],
@@ -62,6 +71,9 @@
         "\u0427\u0435\u0440\u0432\u0435\u043d\u044b \u041a\u043b\u0430\u0448\u0442\u043e\u0440"
     ],
     "name:slk_x_preferred":[
+        "\u010cerven\u00fd Kl\u00e1\u0161tor"
+    ],
+    "name:spa_x_preferred":[
         "\u010cerven\u00fd Kl\u00e1\u0161tor"
     ],
     "name:srp_x_preferred":[
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":1126049801,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254807,
     "wof:name":"\u010cerven\u00fd Kl\u00e1\u0161tor",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

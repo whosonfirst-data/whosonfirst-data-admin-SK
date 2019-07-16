@@ -21,10 +21,19 @@
     "name:cat_x_preferred":[
         "\u017dibritov"
     ],
+    "name:ces_x_preferred":[
+        "\u017dibritov"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dibritov"
+    ],
     "name:eng_x_preferred":[
         "\u017dibritov"
     ],
     "name:epo_x_preferred":[
+        "\u017dibritov"
+    ],
+    "name:eus_x_preferred":[
         "\u017dibritov"
     ],
     "name:fra_x_preferred":[
@@ -39,17 +48,32 @@
     "name:msa_x_preferred":[
         "\u017dibritov"
     ],
+    "name:nan_x_preferred":[
+        "\u017dibritov"
+    ],
     "name:nld_x_preferred":[
         "\u017dibritov"
     ],
     "name:pol_x_preferred":[
         "\u017dibritov"
     ],
+    "name:ron_x_preferred":[
+        "\u017dibritov"
+    ],
     "name:slk_x_preferred":[
+        "\u017dibritov"
+    ],
+    "name:spa_x_preferred":[
+        "Vel\u0315k\u00fd K\u00fdr"
+    ],
+    "name:spa_x_variant":[
         "\u017dibritov"
     ],
     "name:srp_x_preferred":[
         "\u0416\u0438\u0431\u0440\u0438\u0442\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0456\u0431\u0440\u0456\u0442\u043e\u0432"
     ],
     "name:war_x_preferred":[
         "\u017dibritov"
@@ -104,7 +128,7 @@
         }
     ],
     "wof:id":1125999997,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254882,
     "wof:name":"\u017dibritov",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "So\u013e"
     ],
+    "name:eus_x_preferred":[
+        "So\u013e"
+    ],
     "name:fra_x_preferred":[
         "So\u013e"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "So\u013e"
     ],
+    "name:ron_x_preferred":[
+        "So\u013e"
+    ],
     "name:slk_x_preferred":[
+        "So\u013e"
+    ],
+    "name:spa_x_preferred":[
         "So\u013e"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125823327,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254948,
     "wof:name":"Sol\u0315",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Mal\u00e9 Dvorn\u00edky"
     ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Dvorn\u00edky"
+    ],
     "name:fra_x_preferred":[
         "Mal\u00e9 Dvorn\u00edky"
     ],
@@ -51,11 +54,23 @@
     "name:por_x_preferred":[
         "Mal\u00e9 Dvorn\u00edky"
     ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Dvorn\u00edky"
+    ],
     "name:slk_x_preferred":[
+        "Mal\u00e9 Dvorn\u00edky"
+    ],
+    "name:spa_x_preferred":[
         "Mal\u00e9 Dvorn\u00edky"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0459\u0435 \u0414\u0432\u043e\u0440\u045a\u0438\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u00c5 Ipkova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u0414\u0432\u043e\u0440\u043d\u0438\u043a\u0438"
     ],
     "name:unk_x_variant":[
         "Kis Udvarnok"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1125919481,
-    "wof:lastmodified":1561841726,
+    "wof:lastmodified":1563254911,
     "wof:name":"Mal\u00e9 Dvorn\u00edky",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

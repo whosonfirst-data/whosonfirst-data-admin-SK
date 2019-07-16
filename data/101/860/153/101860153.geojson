@@ -23,7 +23,13 @@
     "name:ces_x_preferred":[
         "\u010cierna"
     ],
+    "name:eng_x_preferred":[
+        "\u010cierna"
+    ],
     "name:epo_x_preferred":[
+        "\u010cierna"
+    ],
+    "name:eus_x_preferred":[
         "\u010cierna"
     ],
     "name:fra_x_preferred":[
@@ -38,17 +44,38 @@
     "name:msa_x_preferred":[
         "\u010cierna"
     ],
+    "name:nan_x_preferred":[
+        "\u010cierna"
+    ],
     "name:nld_x_preferred":[
         "\u010cierna"
     ],
     "name:pol_x_preferred":[
         "\u010cierna"
     ],
+    "name:ron_x_preferred":[
+        "\u010cierna"
+    ],
     "name:rue_x_preferred":[
+        "\u0427\u0454\u0440\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cierna"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cierna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0458\u0435\u0440\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u0427\u0454\u0440\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Cherna"
+    ],
+    "name:war_x_preferred":[
+        "\u010cierna"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -95,7 +122,7 @@
         }
     ],
     "wof:id":101860153,
-    "wof:lastmodified":1544745290,
+    "wof:lastmodified":1563254286,
     "wof:name":"\u010cierna nad Tisou",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

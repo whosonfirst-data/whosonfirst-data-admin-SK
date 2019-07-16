@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Trebi\u0161ov"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Trebi\u0161ov"
+    ],
     "name:ces_x_preferred":[
         "Okres Trebi\u0161ov"
+    ],
+    "name:ces_x_variant":[
+        "okres Trebi\u0161ov"
     ],
     "name:deu_x_preferred":[
         "Okres Trebi\u0161ov"
@@ -34,17 +40,29 @@
     "name:eng_x_preferred":[
         "Trebi\u0161ov"
     ],
+    "name:eng_x_variant":[
+        "Trebi\u0161ov District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Trebi\u0161ov"
     ],
+    "name:eus_x_preferred":[
+        "Trebi\u0161oveko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Trebi\u0161ov"
+    ],
+    "name:fra_x_variant":[
+        "Trebi\u0161ov"
     ],
     "name:hrv_x_preferred":[
         "Okrug Trebi\u0161ov"
     ],
     "name:hun_x_preferred":[
         "T\u0151keterebesi j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0565\u0562\u056b\u0577\u0578\u057e \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Distretto di Trebi\u0161ov"
@@ -91,6 +109,9 @@
     "name:slk_x_preferred":[
         "Trebi\u0161ov"
     ],
+    "name:slk_x_variant":[
+        "okres Trebi\u0161ov"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Trebi\u0161ov"
     ],
@@ -100,8 +121,14 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0456\u0448\u043e\u0432"
     ],
+    "name:vie_x_preferred":[
+        "Trebi\u0161ov"
+    ],
     "name:war_x_preferred":[
         "Trebi\u0161ov"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u96f7\u6bd4\u7d39\u592b\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +178,7 @@
         }
     ],
     "wof:id":102080551,
-    "wof:lastmodified":1561841674,
+    "wof:lastmodified":1563253559,
     "wof:name":"Trebi\u0161ov",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

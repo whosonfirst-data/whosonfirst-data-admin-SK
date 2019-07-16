@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Abrah\u00e1m"
     ],
+    "name:eus_x_preferred":[
+        "Abrah\u00e1m"
+    ],
     "name:fra_x_preferred":[
         "Abrah\u00e1m"
     ],
@@ -46,14 +49,29 @@
     "name:msa_x_preferred":[
         "Abrah\u00e1m"
     ],
+    "name:nan_x_preferred":[
+        "Abrah\u00e1m"
+    ],
     "name:nld_x_preferred":[
+        "Abrah\u00e1m"
+    ],
+    "name:pol_x_preferred":[
+        "Abrah\u00e1m"
+    ],
+    "name:ron_x_preferred":[
         "Abrah\u00e1m"
     ],
     "name:slk_x_preferred":[
         "Abrah\u00e1m"
     ],
+    "name:spa_x_preferred":[
+        "Abrah\u00e1m"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0431\u0440\u0430\u0445\u0430\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0440\u0430\u0433\u0430\u043c"
     ],
     "name:war_x_preferred":[
         "Abrah\u00e1m"
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":101785195,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254315,
     "wof:name":"Abrah\u00e1m",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

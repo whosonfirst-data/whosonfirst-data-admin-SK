@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hlin\u00edk nad Hronom"
     ],
+    "name:eus_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
     "name:fra_x_preferred":[
         "Hlin\u00edk nad Hronom"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "Hlin\u00edk nad Hronom"
     ],
+    "name:ron_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u0438\u043d\u0438\u043a-\u043d\u0430\u0434-\u0413\u0440\u043e\u043d\u043e\u043c"
     ],
     "name:slk_x_preferred":[
         "Hlin\u00edk nad Hronom"
     ],
+    "name:spa_x_preferred":[
+        "Hlin\u00edk nad Hronom"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043b\u0438\u045a\u0438\u043a \u043d\u0430 \u0425\u0440\u043e\u043d\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0456\u043d\u0456\u043a-\u043d\u0430\u0434-\u0413\u0440\u043e\u043d\u043e\u043c"
     ],
     "name:und_x_colloquial":[
         "Hlinik nad Hronom"
@@ -120,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254245,
     "wof:name":"Hlin\u00edk nad Hronom",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24798276.62283,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.977219,48.171767,16.977219,48.171767",
     "geom:latitude":48.171767,
     "geom:longitude":16.977219,
@@ -28,6 +28,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0432\u0456\u043d"
+    ],
     "name:ces_x_preferred":[
         "Dev\u00edn"
     ],
@@ -55,7 +58,13 @@
     "name:hun_x_preferred":[
         "D\u00e9v\u00e9ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0587\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
+        "Dev\u00edn"
+    ],
+    "name:nan_x_preferred":[
         "Dev\u00edn"
     ],
     "name:nld_x_preferred":[
@@ -64,11 +73,20 @@
     "name:pol_x_preferred":[
         "Dev\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Dev\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u043d"
+    ],
     "name:slk_x_preferred":[
         "Dev\u00edn"
     ],
     "name:slv_x_preferred":[
         "Dev\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0402\u0435\u0432\u0438\u043d"
     ],
     "name:und_x_colloquial":[
         "Devin"
@@ -79,6 +97,9 @@
     "name:unk_x_variant":[
         "Deven",
         "Dev\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6587"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -160,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1563253716,
     "wof:name":"Dev\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

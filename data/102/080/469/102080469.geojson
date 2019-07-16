@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Galanta"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Galanta"
+    ],
     "name:ces_x_preferred":[
         "Okres Galanta"
+    ],
+    "name:ces_x_variant":[
+        "okres Galanta"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043d\u0442\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,11 +46,20 @@
     "name:eng_x_preferred":[
         "Galanta"
     ],
+    "name:eng_x_variant":[
+        "Galanta District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Galanta"
     ],
+    "name:eus_x_preferred":[
+        "Galantako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Galanta"
+    ],
+    "name:fra_x_variant":[
+        "Galanta"
     ],
     "name:hrv_x_preferred":[
         "Okrug Galanta"
@@ -54,6 +69,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Galanta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30e9\u30f3\u30bf\u90e1"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10da\u10d0\u10dc\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -91,6 +109,9 @@
     "name:slk_x_preferred":[
         "Galanta"
     ],
+    "name:slk_x_variant":[
+        "okres Galanta"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Galanta"
     ],
@@ -102,6 +123,9 @@
     ],
     "name:war_x_preferred":[
         "Galanta"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u862d\u5854\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +175,7 @@
         }
     ],
     "wof:id":102080469,
-    "wof:lastmodified":1561841678,
+    "wof:lastmodified":1563253606,
     "wof:name":"Galanta",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

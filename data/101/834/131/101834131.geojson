@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Mojm\u00edrovce"
     ],
+    "name:eus_x_preferred":[
+        "Mojm\u00edrovce"
+    ],
     "name:fra_x_preferred":[
         "Mojm\u00edrovce"
     ],
@@ -52,14 +55,23 @@
     "name:nld_x_preferred":[
         "Mojm\u00edrovce"
     ],
+    "name:ron_x_preferred":[
+        "Mojm\u00edrovce"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0439\u043c\u0438\u0440\u043e\u0432\u0446\u0435"
     ],
     "name:slk_x_preferred":[
         "Mojm\u00edrovce"
     ],
+    "name:spa_x_preferred":[
+        "Mojm\u00edrovce"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0458\u043c\u0438\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0439\u043c\u0456\u0440\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_colloquial":[
         "Mojmirovce",
@@ -127,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254309,
     "wof:name":"Mojm\u00edrovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

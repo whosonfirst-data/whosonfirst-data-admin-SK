@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Bojnice"
     ],
+    "name:ceb_x_preferred":[
+        "Bojnice"
+    ],
     "name:ces_x_preferred":[
         "Bojnice"
     ],
@@ -45,6 +48,9 @@
         "Bojnice"
     ],
     "name:est_x_preferred":[
+        "Bojnice"
+    ],
+    "name:eus_x_preferred":[
         "Bojnice"
     ],
     "name:fas_x_preferred":[
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":101754905,
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254173,
     "wof:name":"Bojnice",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

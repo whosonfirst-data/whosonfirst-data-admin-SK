@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Trebi\u0161ov"
     ],
+    "name:ceb_x_preferred":[
+        "Trebi\u0161ov"
+    ],
     "name:ces_x_preferred":[
         "Trebi\u0161ov"
     ],
@@ -48,6 +51,9 @@
         "Trebi\u0161ov"
     ],
     "name:epo_x_preferred":[
+        "Trebi\u0161ov"
+    ],
+    "name:eus_x_preferred":[
         "Trebi\u0161ov"
     ],
     "name:fas_x_preferred":[
@@ -79,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub808\ube44\uc1fc\ud504"
+    ],
+    "name:kor_x_variant":[
+        "\ud2b8\ub808\ube44\uc1fc\uc6b0"
     ],
     "name:lav_x_preferred":[
         "Trebi\u0161ova"
@@ -118,6 +127,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u0448\u043e\u0432"
+    ],
+    "name:tur_x_preferred":[
+        "Trebi\u0161ov"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0456\u0448\u043e\u0432"
@@ -184,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254266,
     "wof:name":"Trebi\u0161ov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -23,11 +23,23 @@
     "name:aze_x_preferred":[
         "Kisutske Nove Mesto"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Rudina"
     ],
+    "name:cat_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
+    "name:ceb_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:ces_x_preferred":[
         "Rudina"
+    ],
+    "name:ces_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
@@ -44,14 +56,29 @@
     "name:epo_x_preferred":[
         "Rudina"
     ],
+    "name:epo_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
+    "name:eus_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0633\u0648\u062a\u0633\u06a9\u0647 \u0646\u0648\u0647 \u0645\u0633\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:fra_x_preferred":[
         "Rudina"
     ],
+    "name:fra_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:hbs_x_preferred":[
         "Kisucke Nove Mesto"
+    ],
+    "name:hrv_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:hun_x_preferred":[
         "Nagyrudas"
@@ -62,14 +89,29 @@
     "name:ita_x_preferred":[
         "Rudina"
     ],
+    "name:ita_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:lav_x_preferred":[
         "Kisucke Nove Mesto"
+    ],
+    "name:lit_x_preferred":[
+        "Kisucke Nove Mestas"
     ],
     "name:msa_x_preferred":[
         "Rudina"
     ],
+    "name:msa_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
+    "name:nan_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:nld_x_preferred":[
         "Rudina"
+    ],
+    "name:nld_x_variant":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:pol_x_preferred":[
         "Rudina"
@@ -83,14 +125,32 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0446\u043a\u0435-\u041d\u043e\u0432\u0435-\u041c\u0435\u0441\u0442\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
+    ],
     "name:slk_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
+    "name:spa_x_preferred":[
         "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0441\u0443\u0442\u0441\u043a\u0435-\u041d\u043e\u0432\u0435-\u041c\u0435\u0441\u0442\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0443\u0446\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
+    ],
     "name:und_x_preferred":[
         "Kysucke Nove Mesto"
+    ],
+    "name:war_x_preferred":[
+        "Kysuck\u00e9 Nov\u00e9 Mesto"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u8212\u57fa\u65b0\u6885\u65af\u6258"
@@ -142,7 +202,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1505338219,
+    "wof:lastmodified":1563254267,
     "wof:name":"Kysuck\u00e9 Nov\u00e9 Mesto",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

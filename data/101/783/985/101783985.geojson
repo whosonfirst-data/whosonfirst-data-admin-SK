@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Lok"
     ],
+    "name:eus_x_preferred":[
+        "Lok"
+    ],
     "name:fra_x_preferred":[
         "Lok"
     ],
@@ -40,13 +43,22 @@
     "name:msa_x_preferred":[
         "Lok"
     ],
+    "name:nan_x_preferred":[
+        "Lok"
+    ],
     "name:nld_x_preferred":[
         "Lok"
     ],
     "name:pol_x_preferred":[
         "Lok"
     ],
+    "name:ron_x_preferred":[
+        "Lok"
+    ],
     "name:slk_x_preferred":[
+        "Lok"
+    ],
+    "name:spa_x_preferred":[
         "Lok"
     ],
     "name:srp_x_preferred":[
@@ -54,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Lok"
+    ],
+    "name:war_x_variant":[
+        "B\u00e1tovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":101783985,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254420,
     "wof:name":"Lok",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

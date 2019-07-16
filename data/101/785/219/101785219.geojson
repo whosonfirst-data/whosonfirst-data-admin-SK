@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
+    "name:eus_x_preferred":[
+        "Slovensk\u00fd Grob"
+    ],
     "name:fra_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
+    "name:ron_x_preferred":[
+        "Slovensk\u00fd Grob"
+    ],
     "name:slk_x_preferred":[
+        "Slovensk\u00fd Grob"
+    ],
+    "name:spa_x_preferred":[
         "Slovensk\u00fd Grob"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101785219,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254322,
     "wof:name":"Slovensk\u00fd Grob",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

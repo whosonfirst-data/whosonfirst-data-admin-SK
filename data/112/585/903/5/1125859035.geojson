@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Z\u00e1lesie"
     ],
+    "name:eus_x_preferred":[
+        "Z\u00e1lesie"
+    ],
     "name:fra_x_preferred":[
         "Z\u00e1lesie"
     ],
@@ -45,6 +48,9 @@
     "name:msa_x_preferred":[
         "Z\u00e1lesie"
     ],
+    "name:msa_x_variant":[
+        "Dunajska Luzna"
+    ],
     "name:nan_x_preferred":[
         "Z\u00e1lesie"
     ],
@@ -54,7 +60,13 @@
     "name:por_x_preferred":[
         "Z\u00e1lesie"
     ],
+    "name:ron_x_preferred":[
+        "Z\u00e1lesie"
+    ],
     "name:slk_x_preferred":[
+        "Z\u00e1lesie"
+    ],
+    "name:spa_x_preferred":[
         "Z\u00e1lesie"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125859035,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254955,
     "wof:name":"Zalesie",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

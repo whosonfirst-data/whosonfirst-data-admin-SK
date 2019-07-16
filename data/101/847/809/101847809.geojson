@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Siheln\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Siheln\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Siheln\u00e9"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Sihelne"
     ],
+    "name:ron_x_preferred":[
+        "Siheln\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Siheln\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Siheln\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Siheln\u00e9"
+    ],
+    "name:war_x_variant":[
+        "Oravsk\u00e1 Jasenica"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101847809,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254476,
     "wof:name":"Siheln\u00e9",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

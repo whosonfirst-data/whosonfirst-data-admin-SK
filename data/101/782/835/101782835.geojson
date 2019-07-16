@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Poniky"
     ],
+    "name:eus_x_preferred":[
+        "Poniky"
+    ],
     "name:fra_x_preferred":[
         "Poniky"
     ],
@@ -49,16 +52,25 @@
     "name:msa_x_preferred":[
         "Poniky"
     ],
+    "name:nan_x_preferred":[
+        "Poniky"
+    ],
     "name:nld_x_preferred":[
         "Poniky"
     ],
     "name:pol_x_preferred":[
         "Poniky"
     ],
+    "name:ron_x_preferred":[
+        "Poniky"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043d\u0438\u043a\u0438"
     ],
     "name:slk_x_preferred":[
+        "Poniky"
+    ],
+    "name:spa_x_preferred":[
         "Poniky"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254368,
     "wof:name":"Poniky",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

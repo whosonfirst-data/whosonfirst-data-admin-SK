@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Pru\u017eina"
     ],
+    "name:eus_x_preferred":[
+        "Pru\u017eina"
+    ],
     "name:fra_x_preferred":[
         "Pru\u017eina"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Pru\u017eina"
     ],
+    "name:ron_x_preferred":[
+        "Pru\u017eina"
+    ],
     "name:slk_x_preferred":[
+        "Pru\u017eina"
+    ],
+    "name:spa_x_preferred":[
         "Pru\u017eina"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Pru\u017eina"
+    ],
+    "name:war_x_variant":[
+        "Stak\u010d\u00edn"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101780347,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254621,
     "wof:name":"Pru\u017eina",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

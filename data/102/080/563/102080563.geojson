@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Michalovce"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Michalovce"
+    ],
     "name:ces_x_preferred":[
         "Okres Michalovce"
+    ],
+    "name:ces_x_variant":[
+        "okres Michalovce"
     ],
     "name:deu_x_preferred":[
         "Okres Michalovce"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Michalovce"
     ],
+    "name:eng_x_variant":[
+        "Michalovce District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Michalovce"
     ],
+    "name:eus_x_preferred":[
+        "Michalovceko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Michalovce"
+    ],
+    "name:fra_x_variant":[
+        "Michalovce"
     ],
     "name:hrv_x_preferred":[
         "Okrug Michalovce"
@@ -94,6 +109,9 @@
     "name:slk_x_preferred":[
         "Michalovce"
     ],
+    "name:slk_x_variant":[
+        "okres Michalovce"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Michalovce"
     ],
@@ -103,8 +121,14 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u0446\u0456"
     ],
+    "name:vie_x_preferred":[
+        "Michalovce"
+    ],
     "name:war_x_preferred":[
         "Michalovce"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u54c8\u6d1b\u592b\u91c7\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -155,7 +179,7 @@
         }
     ],
     "wof:id":102080563,
-    "wof:lastmodified":1561841677,
+    "wof:lastmodified":1563253592,
     "wof:name":"Michalovce",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

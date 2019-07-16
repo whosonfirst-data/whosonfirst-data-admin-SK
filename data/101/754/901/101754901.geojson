@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
+    "name:eus_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
     "name:fra_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
+    "name:nan_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
     "name:nld_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
+    "name:ron_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
     "name:slk_x_preferred":[
+        "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:spa_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u9b6f\u7279\u57fa"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -111,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254172,
     "wof:name":"Nitrianske Hrn\u010diarovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

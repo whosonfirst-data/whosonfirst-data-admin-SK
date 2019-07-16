@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24568607.163612,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.126624,48.081094,17.126624,48.081094",
     "geom:latitude":48.081094,
     "geom:longitude":17.126624,
@@ -41,8 +41,8 @@
         "Kroatisch Jahrndorf"
     ],
     "name:eng_x_variant":[
-        "Kroatisch Jahrndorf",
-        "Horvathjarfalu"
+        "Horvathjarfalu",
+        "Jarovce"
     ],
     "name:epo_x_preferred":[
         "Jarovce"
@@ -65,6 +65,9 @@
     "name:hun_x_variant":[
         "Horvathjarfalu",
         "Horb\u00e1tj\u00e1rfalu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0580\u0578\u057e\u056b\u0581\u0565"
     ],
     "name:ita_x_preferred":[
         "Jarovce"
@@ -182,7 +185,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1563253712,
     "wof:name":"Jarovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

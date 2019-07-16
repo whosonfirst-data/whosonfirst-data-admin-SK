@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Zalu\u017eice"
     ],
+    "name:eus_x_preferred":[
+        "Zalu\u017eice"
+    ],
     "name:fra_x_preferred":[
         "Zalu\u017eice"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Zalu\u017eice"
     ],
+    "name:nan_x_preferred":[
+        "Zalu\u017eice"
+    ],
     "name:nld_x_preferred":[
         "Zalu\u017eice"
     ],
     "name:pol_x_preferred":[
         "Zalu\u017eice"
     ],
+    "name:ron_x_preferred":[
+        "Zalu\u017eice"
+    ],
     "name:slk_x_preferred":[
+        "Zalu\u017eice"
+    ],
+    "name:spa_x_preferred":[
         "Zalu\u017eice"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Zalu\u017eice"
+    ],
+    "name:war_x_variant":[
+        "Malcov"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":101780293,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254605,
     "wof:name":"Zalu\u017eice",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

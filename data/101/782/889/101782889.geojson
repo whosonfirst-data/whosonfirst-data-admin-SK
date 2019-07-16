@@ -16,6 +16,9 @@
     "mps:longitude":20.365894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015etitnik"
+    ],
     "name:cat_x_preferred":[
         "\u0160t\u00edtnik"
     ],
@@ -29,6 +32,9 @@
         "\u0160t\u00edtnik"
     ],
     "name:epo_x_preferred":[
+        "\u0160t\u00edtnik"
+    ],
+    "name:eus_x_preferred":[
         "\u0160t\u00edtnik"
     ],
     "name:fra_x_preferred":[
@@ -52,6 +58,9 @@
     "name:pol_x_preferred":[
         "\u0160t\u00edtnik"
     ],
+    "name:ron_x_preferred":[
+        "\u0160t\u00edtnik"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0442\u0438\u0442\u043d\u0438\u043a"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0428\u0442\u0438\u0442\u045a\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0456\u0442\u043d\u0456\u043a"
     ],
     "name:war_x_preferred":[
         "\u0160t\u00edtnik"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101782889,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254360,
     "wof:name":"\u0160t\u00edtnik",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

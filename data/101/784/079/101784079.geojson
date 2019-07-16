@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
+    "name:eus_x_preferred":[
+        "\u017dabokreky nad Nitrou"
+    ],
     "name:fra_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
+    "name:ron_x_preferred":[
+        "\u017dabokreky nad Nitrou"
+    ],
     "name:slk_x_preferred":[
+        "\u017dabokreky nad Nitrou"
+    ],
+    "name:spa_x_preferred":[
         "\u017dabokreky nad Nitrou"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "\u017dabokreky nad Nitrou"
+    ],
+    "name:war_x_variant":[
+        "Trst\u00edn"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101784079,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254431,
     "wof:name":"\u017dabokreky nad Nitrou",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

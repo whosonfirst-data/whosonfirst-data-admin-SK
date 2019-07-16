@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
+    "name:ceb_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
     "name:ces_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
@@ -31,6 +34,9 @@
         "Sv\u00e4t\u00fd Anton"
     ],
     "name:epo_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:eus_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
     "name:fra_x_preferred":[
@@ -57,10 +63,22 @@
     "name:pol_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
+    "name:ron_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u044f\u0442\u0438-\u0410\u043d\u0442\u043e\u043d"
+    ],
     "name:slk_x_preferred":[
         "Sv\u00e4t\u00fd Anton"
     ],
+    "name:spa_x_preferred":[
+        "Sv\u00e4t\u00fd Anton"
+    ],
     "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0410\u043d\u0442\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u0410\u043d\u0442\u043e\u043d"
     ],
     "name:unk_x_variant":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":101782749,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254377,
     "wof:name":"Sv\u00e4t\u00fd Anton",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

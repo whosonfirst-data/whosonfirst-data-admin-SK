@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Trebatice"
     ],
+    "name:eus_x_preferred":[
+        "Trebatice"
+    ],
     "name:fra_x_preferred":[
         "Trebatice"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Trebatice"
     ],
+    "name:ron_x_preferred":[
+        "Trebatice"
+    ],
     "name:slk_x_preferred":[
+        "Trebatice"
+    ],
+    "name:spa_x_preferred":[
         "Trebatice"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101784037,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254443,
     "wof:name":"Trebatice",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

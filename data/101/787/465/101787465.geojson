@@ -23,7 +23,13 @@
     "name:cat_x_preferred":[
         "Kol\u00e1rovo"
     ],
+    "name:ceb_x_preferred":[
+        "Kol\u00e1rovo"
+    ],
     "name:ces_x_preferred":[
+        "Kol\u00e1rovo"
+    ],
+    "name:cym_x_preferred":[
         "Kol\u00e1rovo"
     ],
     "name:deu_x_preferred":[
@@ -36,6 +42,9 @@
         "Kol\u00e1rovo"
     ],
     "name:epo_x_preferred":[
+        "Kol\u00e1rovo"
+    ],
+    "name:eus_x_preferred":[
         "Kol\u00e1rovo"
     ],
     "name:fas_x_preferred":[
@@ -58,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30e9\u30fc\u30ed\u30f4\u30a9"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf5c\ub77c\ub85c\ubcf4"
     ],
     "name:lav_x_preferred":[
         "Kol\u0101rovo"
@@ -90,6 +102,12 @@
         "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
     ],
     "name:tat_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Kol\u00e1rovo"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":101787465,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254557,
     "wof:name":"Kol\u00e1rovo",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

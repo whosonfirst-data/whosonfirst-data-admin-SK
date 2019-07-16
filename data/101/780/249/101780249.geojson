@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Prakovce"
     ],
+    "name:eus_x_preferred":[
+        "Prakovce"
+    ],
     "name:fra_x_preferred":[
         "Prakovce"
     ],
@@ -52,10 +55,19 @@
     "name:pol_x_preferred":[
         "Prakovce"
     ],
+    "name:ron_x_preferred":[
+        "Prakovce"
+    ],
     "name:slk_x_preferred":[
         "Prakovce"
     ],
+    "name:spa_x_preferred":[
+        "Prakovce"
+    ],
     "name:srp_x_preferred":[
+        "\u041f\u0440\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0440\u0430\u043a\u043e\u0432\u0446\u0435"
     ],
     "name:unk_x_variant":[
@@ -66,6 +78,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Prakovce"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u65af\u6cf0\u7d0d"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101780249,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254652,
     "wof:name":"Prakovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

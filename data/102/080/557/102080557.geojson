@@ -28,11 +28,20 @@
     "name:bel_x_preferred":[
         "\u041a\u043e\u0448\u044b\u0446\u044d-\u0430\u043a\u043e\u043b\u0456\u0446\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u043e\u0448\u044b\u0446\u044b-\u0430\u043a\u043e\u043b\u0456\u0446\u0430"
+    ],
     "name:cat_x_preferred":[
         "Peder"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Kosice-okolie"
+    ],
     "name:ces_x_preferred":[
         "Okres Ko\u0161ice-okol\u00ed"
+    ],
+    "name:ces_x_variant":[
+        "okres Ko\u0161ice-okol\u00ed"
     ],
     "name:deu_x_preferred":[
         "Okres Ko\u0161ice-okolie"
@@ -40,20 +49,33 @@
     "name:eng_x_preferred":[
         "Ko\u0161ice-okolie"
     ],
+    "name:eng_x_variant":[
+        "Ko\u0161ice-okolie District"
+    ],
     "name:epo_x_preferred":[
         "Peder"
+    ],
+    "name:epo_x_variant":[
+        "Distrikto Ko\u0161ice-\u0109irka\u016da\u0135o"
+    ],
+    "name:eus_x_preferred":[
+        "Ko\u0161ice-okolie barrutia"
     ],
     "name:fra_x_preferred":[
         "Peder"
     ],
     "name:fra_x_variant":[
-        "District de Ko\u0161ice-okolie"
+        "District de Ko\u0161ice-okolie",
+        "Ko\u0161ice-okolie"
     ],
     "name:hrv_x_preferred":[
         "Okrug Ko\u0161ice - okolie"
     ],
     "name:hun_x_preferred":[
         "P\u00e9der"
+    ],
+    "name:hun_x_variant":[
+        "Kassa-k\u00f6rny\u00e9ki j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Peder"
@@ -91,11 +113,17 @@
     "name:pol_x_preferred":[
         "Peder"
     ],
+    "name:pol_x_variant":[
+        "Powiat Koszyce-okolice"
+    ],
     "name:por_x_preferred":[
         "Ko\u0161ice\u2013okolie"
     ],
     "name:ron_x_preferred":[
         "Districtul Ko\u0161ice-okolie"
+    ],
+    "name:ron_x_variant":[
+        "Ko\u0161ice-okolie"
     ],
     "name:rue_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0441 \u041a\u043e\u0448\u0456\u0446\u0457-\u043e\u043a\u043e\u043b\u0456\u0446\u044f"
@@ -107,7 +135,8 @@
         "Peder"
     ],
     "name:slk_x_variant":[
-        "Ko\u0161ice-okolie"
+        "Ko\u0161ice-okolie",
+        "okres Ko\u0161ice-okolie"
     ],
     "name:spa_x_preferred":[
         "Distrito de Ko\u0161ice\u2013okolie"
@@ -115,11 +144,23 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u0434\u0458\u0435\u0440"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043a\u0440\u0443\u0433 \u041a\u043e\u0448\u0438\u0446\u0435-\u043e\u043a\u043e\u043b\u0438\u043d\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u041a\u043e\u0448\u0438\u0446\u0435-\u043e\u043a\u043e\u043b\u0438\u0446\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0448\u0438\u0446\u0435-\u043e\u043a\u043e\u043b\u0456\u0454"
+    ],
+    "name:vie_x_preferred":[
+        "Ko\u0161ice-okolie"
+    ],
     "name:war_x_preferred":[
         "Ko\u0161ice-okolie"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5e0c\u7b56\u90ca\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -169,7 +210,7 @@
         }
     ],
     "wof:id":102080557,
-    "wof:lastmodified":1561841674,
+    "wof:lastmodified":1563253565,
     "wof:name":"Ko\u0161ice - okolie",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Valask\u00e1 Bel\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Valask\u00e1 Bel\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Valask\u00e1 Bel\u00e1"
     ],
@@ -58,7 +61,13 @@
     "name:pol_x_preferred":[
         "Valask\u00e1 Bel\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Valask\u00e1 Bel\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Valask\u00e1 Bel\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Valask\u00e1 Bel\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101781689,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254484,
     "wof:name":"Valask\u00e1 Bel\u00e1",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

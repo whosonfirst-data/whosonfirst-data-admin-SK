@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Chtelnica"
     ],
+    "name:eus_x_preferred":[
+        "Chtelnica"
+    ],
     "name:fra_x_preferred":[
         "Chtelnica"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Chtelnica"
     ],
+    "name:nan_x_preferred":[
+        "Chtelnica"
+    ],
     "name:nld_x_preferred":[
         "Chtelnica"
     ],
+    "name:ron_x_preferred":[
+        "Chtelnica"
+    ],
     "name:slk_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:spa_x_preferred":[
         "Chtelnica"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Chtelnica"
+    ],
+    "name:war_x_variant":[
+        "Hlinn\u00e9"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chtelnica"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101780213,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254658,
     "wof:name":"Chtelnica",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

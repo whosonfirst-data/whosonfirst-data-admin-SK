@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Diviaky nad Nitricou"
     ],
+    "name:eus_x_preferred":[
+        "Diviaky nad Nitricou"
+    ],
     "name:fra_x_preferred":[
         "Diviaky nad Nitricou"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Diviaky nad Nitricou"
     ],
+    "name:ron_x_preferred":[
+        "Diviaky nad Nitricou"
+    ],
     "name:slk_x_preferred":[
+        "Diviaky nad Nitricou"
+    ],
+    "name:spa_x_preferred":[
         "Diviaky nad Nitricou"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Diviaky nad Nitricou"
+    ],
+    "name:war_x_variant":[
+        "Zemianske Kosto\u013eany"
     ],
     "name:zho_min_nan_x_preferred":[
         "Diviaky nad Nitricou"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101781687,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254485,
     "wof:name":"Diviaky nad Nitricou",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

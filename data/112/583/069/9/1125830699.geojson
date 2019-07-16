@@ -24,10 +24,16 @@
     "name:ces_x_preferred":[
         "Lazisko"
     ],
+    "name:deu_x_preferred":[
+        "Lazisko"
+    ],
     "name:eng_x_preferred":[
         "Lazisko"
     ],
     "name:epo_x_preferred":[
+        "Lazisko"
+    ],
+    "name:eus_x_preferred":[
         "Lazisko"
     ],
     "name:fra_x_preferred":[
@@ -42,17 +48,29 @@
     "name:msa_x_preferred":[
         "Lazisko"
     ],
+    "name:nan_x_preferred":[
+        "Lazisko"
+    ],
     "name:nld_x_preferred":[
         "Lazisko"
     ],
     "name:pol_x_preferred":[
         "Lazisko"
     ],
+    "name:ron_x_preferred":[
+        "Lazisko"
+    ],
     "name:slk_x_preferred":[
+        "Lazisko"
+    ],
+    "name:spa_x_preferred":[
         "Lazisko"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0430\u0437\u0438\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0437\u0456\u0441\u043a\u043e"
     ],
     "name:war_x_preferred":[
         "Lazisko"
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":1125830699,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563255007,
     "wof:name":"Lazisko",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

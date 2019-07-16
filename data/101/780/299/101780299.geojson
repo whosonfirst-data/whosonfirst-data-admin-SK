@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Lastom\u00edr"
     ],
+    "name:eus_x_preferred":[
+        "Lastom\u00edr"
+    ],
     "name:fra_x_preferred":[
         "Lastom\u00edr"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Lastom\u00edr"
     ],
+    "name:nan_x_preferred":[
+        "Lastom\u00edr"
+    ],
     "name:nld_x_preferred":[
         "Lastom\u00edr"
     ],
     "name:pol_x_preferred":[
         "Lastom\u00edr"
     ],
+    "name:ron_x_preferred":[
+        "Lastom\u00edr"
+    ],
     "name:slk_x_preferred":[
+        "Lastom\u00edr"
+    ],
+    "name:spa_x_preferred":[
         "Lastom\u00edr"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Lastom\u00edr"
+    ],
+    "name:war_x_variant":[
+        "Raslavice"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":101780299,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254672,
     "wof:name":"Lastom\u00edr",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

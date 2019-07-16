@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u013dubotice"
     ],
+    "name:eus_x_preferred":[
+        "\u013dubotice"
+    ],
     "name:fra_x_preferred":[
         "\u013dubotice"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "\u013dubotice"
     ],
+    "name:ron_x_preferred":[
+        "\u013dubotice"
+    ],
     "name:rue_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u0457\u0446\u0435"
     ],
     "name:slk_x_preferred":[
         "\u013dubotice"
     ],
+    "name:spa_x_preferred":[
+        "\u013dubotice"
+    ],
     "name:srp_x_preferred":[
         "\u0409\u0443\u0431\u043e\u0442\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0438\u0446\u0435"
     ],
     "name:und_x_preferred":[
         "Lubotice"
@@ -117,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254175,
     "wof:name":"\u013dubotice",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

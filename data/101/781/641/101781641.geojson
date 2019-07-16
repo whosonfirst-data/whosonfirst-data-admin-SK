@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tu\u017eina"
     ],
+    "name:eus_x_preferred":[
+        "Tu\u017eina"
+    ],
     "name:fra_x_preferred":[
         "Tu\u017eina"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Tu\u017eina"
     ],
+    "name:nan_x_preferred":[
+        "Tu\u017eina"
+    ],
     "name:nld_x_preferred":[
         "Tu\u017eina"
     ],
+    "name:ron_x_preferred":[
+        "Tu\u017eina"
+    ],
     "name:slk_x_preferred":[
+        "Tu\u017eina"
+    ],
+    "name:spa_x_preferred":[
         "Tu\u017eina"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101781641,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254506,
     "wof:name":"Tu\u017eina",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

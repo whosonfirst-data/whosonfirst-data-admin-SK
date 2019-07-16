@@ -36,6 +36,9 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
@@ -48,13 +51,25 @@
     "name:msa_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
     "name:nld_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
+    "name:pol_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
+    "name:ron_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430-\u041f\u043e\u0440\u0443\u0431\u043a\u0430"
     ],
     "name:slk_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
+    "name:spa_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1126041245,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254807,
     "wof:name":"Liptovsk\u00e1 Por\u00fabka",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

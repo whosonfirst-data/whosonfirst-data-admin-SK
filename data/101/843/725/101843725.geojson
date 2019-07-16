@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Semerovo"
     ],
+    "name:eus_x_preferred":[
+        "Semerovo"
+    ],
     "name:fra_x_preferred":[
         "Semerovo"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Semerovo"
     ],
+    "name:nan_x_preferred":[
+        "Semerovo"
+    ],
     "name:nld_x_preferred":[
         "Semerovo"
     ],
+    "name:ron_x_preferred":[
+        "Semerovo"
+    ],
     "name:slk_x_preferred":[
+        "Semerovo"
+    ],
+    "name:spa_x_preferred":[
         "Semerovo"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Semerovo"
+    ],
+    "name:war_x_variant":[
+        "Hniezdne"
     ],
     "name:zho_min_nan_x_preferred":[
         "Semerovo"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101843725,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254219,
     "wof:name":"Semerovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

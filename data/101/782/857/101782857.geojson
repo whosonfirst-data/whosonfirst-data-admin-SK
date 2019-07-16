@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kuzmice"
     ],
+    "name:eus_x_preferred":[
+        "Kuzmice"
+    ],
     "name:fra_x_preferred":[
         "Kuzmice"
     ],
@@ -52,14 +55,26 @@
     "name:pol_x_preferred":[
         "Kuzmice"
     ],
+    "name:ron_x_preferred":[
+        "Kuzmice"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0443\u0437\u043c\u0456\u0446\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
         "Kuzmice"
     ],
+    "name:spa_x_preferred":[
+        "Kuzmice"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0437\u043c\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0456\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Kuzmice"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101782857,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254367,
     "wof:name":"Kuzmice",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

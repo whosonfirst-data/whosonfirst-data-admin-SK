@@ -23,10 +23,16 @@
     "name:aze_x_preferred":[
         "Partizanske"
     ],
+    "name:aze_x_variant":[
+        "P\u0430rtiz\u0430nsk\u0435"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0435"
     ],
     "name:cat_x_preferred":[
+        "Partiz\u00e1nske"
+    ],
+    "name:ceb_x_preferred":[
         "Partiz\u00e1nske"
     ],
     "name:ces_x_preferred":[
@@ -50,6 +56,9 @@
     "name:epo_x_preferred":[
         "Partiz\u00e1nske"
     ],
+    "name:eus_x_preferred":[
+        "Partiz\u00e1nske"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u062a\u06cc\u0632\u0627\u0646\u0633\u06a9\u0647"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:ita_x_preferred":[
         "Partiz\u00e1nske"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub974\ud2f0\uc794\uc2a4\ucf00"
     ],
     "name:lav_x_preferred":[
         "Partiz\u0101nske"
@@ -92,6 +104,9 @@
     "name:ron_x_preferred":[
         "Partiz\u00e1nske"
     ],
+    "name:rue_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0435"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0435"
     ],
@@ -104,8 +119,14 @@
     "name:srp_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Partiz\u00e1nske"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Partiz\u00e1nske"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a\u0435"
@@ -168,7 +189,7 @@
         }
     ],
     "wof:id":101784085,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254436,
     "wof:name":"Partiz\u00e1nske",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Kremnica"
     ],
+    "name:ceb_x_preferred":[
+        "Kremnica"
+    ],
     "name:ces_x_preferred":[
         "Kremnica"
     ],
@@ -42,6 +45,9 @@
         "Kremnica"
     ],
     "name:epo_x_preferred":[
+        "Kremnica"
+    ],
+    "name:eus_x_preferred":[
         "Kremnica"
     ],
     "name:fas_x_preferred":[
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":101781591,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254502,
     "wof:name":"Kremnica",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

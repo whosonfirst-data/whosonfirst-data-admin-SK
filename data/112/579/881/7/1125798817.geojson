@@ -33,8 +33,14 @@
     "name:epo_x_preferred":[
         "Straten\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Straten\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Straten\u00e1"
+    ],
+    "name:fra_x_variant":[
+        "Sokol\u0315"
     ],
     "name:hun_x_preferred":[
         "Sztracena"
@@ -54,11 +60,20 @@
     "name:pol_x_preferred":[
         "Straten\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Straten\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Straten\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Straten\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0442\u0458\u0435\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0442\u0435\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Ztraten\u00e1"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125798817,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254968,
     "wof:name":"Straten\u00e1",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

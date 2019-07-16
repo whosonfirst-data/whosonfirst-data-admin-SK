@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Ivanka pri Nitre"
     ],
+    "name:eus_x_preferred":[
+        "Ivanka pri Nitre"
+    ],
     "name:fra_x_preferred":[
         "Ivanka pri Nitre"
     ],
@@ -46,7 +49,13 @@
     "name:nld_x_preferred":[
         "Ivanka pri Nitre"
     ],
+    "name:ron_x_preferred":[
+        "Ivanka pri Nitre"
+    ],
     "name:slk_x_preferred":[
+        "Ivanka pri Nitre"
+    ],
+    "name:spa_x_preferred":[
         "Ivanka pri Nitre"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Ivanka pri Nitre"
+    ],
+    "name:war_x_variant":[
+        "\u0160enkvice"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -105,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254342,
     "wof:name":"Ivanka pri Nitre",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

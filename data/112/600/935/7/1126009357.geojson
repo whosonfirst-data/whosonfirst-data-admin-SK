@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Be\u0161e\u0148ov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Be\u0161e\u0148ov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Be\u0161e\u0148ov\u00e1"
     ],
@@ -57,7 +60,13 @@
     "name:pol_x_preferred":[
         "Beszeniowa"
     ],
+    "name:ron_x_preferred":[
+        "Be\u0161e\u0148ov\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Be\u0161e\u0148ov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Be\u0161e\u0148ov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1126009357,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254936,
     "wof:name":"Be\u0161e\u0148ov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

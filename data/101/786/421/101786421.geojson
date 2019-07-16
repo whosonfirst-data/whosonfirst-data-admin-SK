@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "\u0160ahy"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160ahy"
+    ],
     "name:ces_x_preferred":[
         "\u0160ahy"
     ],
@@ -38,14 +41,23 @@
     "name:epo_x_preferred":[
         "\u0160ahy"
     ],
+    "name:eus_x_preferred":[
+        "\u0160ahy"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0647\u06cc\u060c \u0627\u0633\u0644\u0648\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0627\u0647\u06cc"
     ],
     "name:fra_x_preferred":[
         "\u0160ahy"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d4\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d0\u05d4\u05d9"
     ],
     "name:hrv_x_preferred":[
         "\u0160ahy"
@@ -61,6 +73,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30d2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ud788"
     ],
     "name:lav_x_preferred":[
         "\u0160ahi"
@@ -86,11 +101,17 @@
     "name:slk_x_preferred":[
         "\u0160ahy"
     ],
+    "name:spa_x_preferred":[
+        "\u0160ahy"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u0445\u0438"
     ],
     "name:tat_x_preferred":[
         "\u0428\u0430\u04bb\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u0160ahy"
     ],
     "name:unk_x_variant":[
         "S\u00e1g"
@@ -150,7 +171,7 @@
         }
     ],
     "wof:id":101786421,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254542,
     "wof:name":"\u0160ahy",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

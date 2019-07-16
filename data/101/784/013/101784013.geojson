@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Ore\u0161any"
+    ],
     "name:fra_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
+    "name:ron_x_preferred":[
+        "Horn\u00e9 Ore\u0161any"
+    ],
     "name:slk_x_preferred":[
+        "Horn\u00e9 Ore\u0161any"
+    ],
+    "name:spa_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Horn\u00e9 Ore\u0161any"
+    ],
+    "name:war_x_variant":[
+        "Kl\u00e1tova Nov\u00e1 Ves"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -117,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254433,
     "wof:name":"Horn\u00e9 Ore\u0161any",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

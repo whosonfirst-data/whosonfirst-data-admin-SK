@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Marianka"
     ],
+    "name:ceb_x_preferred":[
+        "Marianka"
+    ],
     "name:ces_x_preferred":[
         "Marianka"
     ],
@@ -38,6 +41,9 @@
         "Marianka"
     ],
     "name:epo_x_preferred":[
+        "Marianka"
+    ],
+    "name:eus_x_preferred":[
         "Marianka"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +67,13 @@
     "name:por_x_preferred":[
         "Marianka"
     ],
+    "name:ron_x_preferred":[
+        "Marianka"
+    ],
     "name:slk_x_preferred":[
+        "Marianka"
+    ],
+    "name:spa_x_preferred":[
         "Marianka"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":1126011399,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254925,
     "wof:name":"Marianka",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Biely Kostol"
     ],
+    "name:eus_x_preferred":[
+        "Biely Kostol"
+    ],
     "name:fra_x_preferred":[
         "Biely Kostol"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Biely Kostol"
     ],
+    "name:ron_x_preferred":[
+        "Biely Kostol"
+    ],
     "name:slk_x_preferred":[
+        "Biely Kostol"
+    ],
+    "name:spa_x_preferred":[
         "Biely Kostol"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Biely Kostol"
+    ],
+    "name:war_x_variant":[
+        "Pohranice"
     ],
     "name:zho_min_nan_x_preferred":[
         "Biely Kostol"
@@ -121,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254347,
     "wof:name":"Biely Kostol",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

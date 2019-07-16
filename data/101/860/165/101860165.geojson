@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Stre\u010dno"
     ],
+    "name:eus_x_preferred":[
+        "Stre\u010dno"
+    ],
     "name:fra_x_preferred":[
         "Stre\u010dno"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Stre\u010dno"
     ],
+    "name:ron_x_preferred":[
+        "Stre\u010dno"
+    ],
     "name:slk_x_preferred":[
+        "Stre\u010dno"
+    ],
+    "name:spa_x_preferred":[
         "Stre\u010dno"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Stre\u010dno"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u96f7\u5947\u8afe"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -115,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254287,
     "wof:name":"Stre\u010dno",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

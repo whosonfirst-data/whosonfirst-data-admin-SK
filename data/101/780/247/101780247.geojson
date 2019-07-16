@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "N\u00e1lepkovo"
     ],
+    "name:ces_x_preferred":[
+        "N\u00e1lepkovo"
+    ],
     "name:deu_x_preferred":[
         "N\u00e1lepkovo"
     ],
@@ -26,6 +29,9 @@
         "N\u00e1lepkovo"
     ],
     "name:epo_x_preferred":[
+        "N\u00e1lepkovo"
+    ],
+    "name:eus_x_preferred":[
         "N\u00e1lepkovo"
     ],
     "name:fra_x_preferred":[
@@ -55,8 +61,14 @@
     "name:slk_x_preferred":[
         "N\u00e1lepkovo"
     ],
+    "name:spa_x_preferred":[
+        "N\u00e1lepkovo"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0459\u0435\u043f\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043b\u0435\u043f\u043a\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Vondri\u0161el"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780247,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254650,
     "wof:name":"N\u00e1lepkovo",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

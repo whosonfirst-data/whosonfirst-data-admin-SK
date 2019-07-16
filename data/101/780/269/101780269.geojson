@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Harichovce"
     ],
+    "name:eus_x_preferred":[
+        "Harichovce"
+    ],
     "name:fra_x_preferred":[
         "Harichovce"
     ],
@@ -46,17 +49,29 @@
     "name:msa_x_preferred":[
         "Harichovce"
     ],
+    "name:nan_x_preferred":[
+        "Harichovce"
+    ],
     "name:nld_x_preferred":[
         "Harichovce"
     ],
     "name:pol_x_preferred":[
         "Harichovce"
     ],
+    "name:ron_x_preferred":[
+        "Harichovce"
+    ],
     "name:slk_x_preferred":[
+        "Harichovce"
+    ],
+    "name:spa_x_preferred":[
         "Harichovce"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0440\u0438\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0456\u0445\u043e\u0432\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Harichovce"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101780269,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254607,
     "wof:name":"Harichovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

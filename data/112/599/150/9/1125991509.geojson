@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Kurimany"
     ],
+    "name:eus_x_preferred":[
+        "Kurimany"
+    ],
     "name:fra_x_preferred":[
         "Kurimany"
     ],
@@ -45,13 +48,22 @@
     "name:msa_x_preferred":[
         "Kurimany"
     ],
+    "name:nan_x_preferred":[
+        "Kurimany"
+    ],
     "name:nld_x_preferred":[
         "Kurimany"
     ],
     "name:pol_x_preferred":[
         "Kurimany"
     ],
+    "name:ron_x_preferred":[
+        "Kurimany"
+    ],
     "name:slk_x_preferred":[
+        "Kurimany"
+    ],
+    "name:spa_x_preferred":[
         "Kurimany"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125991509,
-    "wof:lastmodified":1561841724,
+    "wof:lastmodified":1563254879,
     "wof:name":"Kurimany",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

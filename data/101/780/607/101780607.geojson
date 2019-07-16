@@ -25,7 +25,13 @@
     "name:deu_x_preferred":[
         "Richvald"
     ],
+    "name:eng_x_preferred":[
+        "Richvald"
+    ],
     "name:epo_x_preferred":[
+        "Richvald"
+    ],
+    "name:eus_x_preferred":[
         "Richvald"
     ],
     "name:fra_x_preferred":[
@@ -40,16 +46,25 @@
     "name:msa_x_preferred":[
         "Richvald"
     ],
+    "name:nan_x_preferred":[
+        "Richvald"
+    ],
     "name:nld_x_preferred":[
         "Richvald"
     ],
     "name:pol_x_preferred":[
         "Richvald"
     ],
+    "name:ron_x_preferred":[
+        "Richvald"
+    ],
     "name:rue_x_preferred":[
         "\u0420\u0456\u0445\u0432\u0430\u043b\u0434"
     ],
     "name:slk_x_preferred":[
+        "Richvald"
+    ],
+    "name:spa_x_preferred":[
         "Richvald"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101780607,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1563254668,
     "wof:name":"Richvald",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

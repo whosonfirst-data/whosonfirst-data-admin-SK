@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:ces_x_preferred":[
         "Okres Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:ces_x_variant":[
+        "okres Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:deu_x_preferred":[
         "Okres Spi\u0161sk\u00e1 Nov\u00e1 Ves"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:eng_x_variant":[
+        "Spi\u0161sk\u00e1 Nov\u00e1 Ves District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:eus_x_preferred":[
+        "Spi\u0161sk\u00e1 Nov\u00e1 Vesko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:fra_x_variant":[
+        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
     "name:hrv_x_preferred":[
         "Okrug Spi\u0161sk\u00e1 Nov\u00e1 Ves"
@@ -94,6 +109,9 @@
     "name:slk_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:slk_x_variant":[
+        "okres Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     ],
@@ -103,8 +121,14 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0456\u0448\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
+    "name:vie_x_preferred":[
+        "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:war_x_preferred":[
         "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u76ae\u4ec0\u65b0\u6751\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -154,7 +178,7 @@
         }
     ],
     "wof:id":102080561,
-    "wof:lastmodified":1561841674,
+    "wof:lastmodified":1563253565,
     "wof:name":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

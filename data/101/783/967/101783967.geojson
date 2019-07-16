@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Tlma\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "Tlma\u010de"
+    ],
     "name:ces_x_preferred":[
         "Tlma\u010de"
     ],
@@ -33,6 +36,9 @@
         "Tlma\u010de"
     ],
     "name:epo_x_preferred":[
+        "Tlma\u010de"
+    ],
+    "name:eus_x_preferred":[
         "Tlma\u010de"
     ],
     "name:fas_x_preferred":[
@@ -74,11 +80,17 @@
     "name:slk_x_preferred":[
         "Tlma\u010de"
     ],
+    "name:spa_x_preferred":[
+        "Tlma\u010de"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u043b\u043c\u0430\u0447\u0435"
     ],
     "name:tat_x_preferred":[
         "\u0422\u043b\u043c\u0430\u0447\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Tlma\u010de"
     ],
     "name:unk_x_variant":[
         "Garamtolm\u00e1cs"
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":101783967,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254424,
     "wof:name":"Tlma\u010de",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

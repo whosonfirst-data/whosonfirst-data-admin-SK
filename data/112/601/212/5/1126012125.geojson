@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Most pri Bratislave"
     ],
+    "name:eus_x_preferred":[
+        "Most pri Bratislave"
+    ],
     "name:fra_x_preferred":[
         "Most pri Bratislave"
     ],
@@ -54,11 +57,20 @@
     "name:por_x_preferred":[
         "Most pri Bratislave"
     ],
+    "name:ron_x_preferred":[
+        "Most pri Bratislave"
+    ],
     "name:slk_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:spa_x_preferred":[
         "Most pri Bratislave"
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0441\u0442 \u043f\u0440\u0438 \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "Pal\u00fadzka"
     ],
     "name:unk_x_variant":[
         "Bruck"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1126012125,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254926,
     "wof:name":"Most na Ostrove",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

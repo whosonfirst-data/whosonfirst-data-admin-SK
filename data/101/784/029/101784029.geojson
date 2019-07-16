@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Brestovany"
     ],
+    "name:eus_x_preferred":[
+        "Brestovany"
+    ],
     "name:fra_x_preferred":[
         "Brestovany"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Brestovany"
     ],
+    "name:ron_x_preferred":[
+        "Brestovany"
+    ],
     "name:slk_x_preferred":[
+        "Brestovany"
+    ],
+    "name:spa_x_preferred":[
         "Brestovany"
     ],
     "name:srp_x_preferred":[
@@ -69,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Brestovany"
+    ],
+    "name:war_x_variant":[
+        "Kuchy\u0148a"
     ],
     "name:zho_min_nan_x_preferred":[
         "Brestovany"
@@ -120,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254456,
     "wof:name":"Brestovany",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

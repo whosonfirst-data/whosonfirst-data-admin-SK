@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Jakubov"
     ],
+    "name:eus_x_preferred":[
+        "Jakubov"
+    ],
     "name:fra_x_preferred":[
         "Jakubov"
     ],
@@ -49,7 +52,13 @@
     "name:nld_x_preferred":[
         "Jakubov"
     ],
+    "name:pol_x_preferred":[
+        "Jakubov"
+    ],
     "name:por_x_preferred":[
+        "Jakubov"
+    ],
+    "name:ron_x_preferred":[
         "Jakubov"
     ],
     "name:slk_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Jakubov"
+    ],
+    "name:war_x_variant":[
+        "Tekovsk\u00e9 Nemce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101784009,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254439,
     "wof:name":"Jakubov",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

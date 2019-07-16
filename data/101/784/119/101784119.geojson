@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Pobedim"
     ],
+    "name:eus_x_preferred":[
+        "Pobedim"
+    ],
     "name:fra_x_preferred":[
         "Pobedim"
     ],
@@ -56,6 +59,9 @@
         "Pobedim"
     ],
     "name:pol_x_preferred":[
+        "Pobedim"
+    ],
+    "name:ron_x_preferred":[
         "Pobedim"
     ],
     "name:slk_x_preferred":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":101784119,
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254448,
     "wof:name":"Pobedim",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

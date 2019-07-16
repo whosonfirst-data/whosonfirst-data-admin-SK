@@ -26,10 +26,16 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0446\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0446\u043a\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
     "name:cat_x_preferred":[
+        "Malacky"
+    ],
+    "name:ceb_x_preferred":[
         "Malacky"
     ],
     "name:ces_x_preferred":[
@@ -47,6 +53,9 @@
         "Malacky"
     ],
     "name:epo_x_preferred":[
+        "Malacky"
+    ],
+    "name:eus_x_preferred":[
         "Malacky"
     ],
     "name:fas_x_preferred":[
@@ -109,8 +118,14 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Malacky"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u0441\u043a\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Malacky"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
@@ -177,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254320,
     "wof:name":"Malacky",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

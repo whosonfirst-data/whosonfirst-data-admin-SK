@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
+    "name:ces_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
     "name:deu_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
@@ -28,6 +31,9 @@
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
     "name:epo_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
+    "name:eus_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
     "name:fra_x_preferred":[
@@ -42,23 +48,38 @@
     "name:msa_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
+    "name:nan_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
     "name:nld_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
     "name:pol_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
     "name:slk_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
+    "name:spa_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0436\u043d\u0438 \u041a\u043b\u0430\u0442\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0456\u0439 \u041a\u043b\u0430\u0442\u043e\u0432"
     ],
     "name:unk_x_variant":[
         "Ni\u017en\u00ed Tejke\u0161"
     ],
     "name:war_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
+    "name:war_x_variant":[
+        "Duchonka"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":1126011445,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254922,
     "wof:name":"Ni\u017en\u00fd Kl\u00e1tov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

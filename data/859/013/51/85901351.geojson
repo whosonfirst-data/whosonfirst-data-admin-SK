@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":36560158.552243,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.222099,48.032688,17.222099,48.032688",
     "geom:latitude":48.032688,
     "geom:longitude":17.222099,
@@ -34,6 +34,9 @@
     "name:deu_x_variant":[
         "Sarndorf"
     ],
+    "name:eng_x_preferred":[
+        "\u010cunovo"
+    ],
     "name:epo_x_preferred":[
         "\u010cunovo"
     ],
@@ -49,7 +52,16 @@
     "name:hun_x_preferred":[
         "Dunacs\u00fan"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0582\u0576\u0578\u057e\u0578"
+    ],
     "name:ita_x_preferred":[
+        "\u010cunovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e5\u30ce\u30dc"
+    ],
+    "name:nan_x_preferred":[
         "\u010cunovo"
     ],
     "name:nld_x_preferred":[
@@ -58,8 +70,14 @@
     "name:pol_x_preferred":[
         "\u010cunovo"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043d\u043e\u0432\u043e"
+    ],
     "name:slk_x_preferred":[
         "\u010cunovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_colloquial":[
         "Cunovo",
@@ -73,6 +91,9 @@
     ],
     "name:unk_x_variant":[
         "\u010cunovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u8afe\u6c83"
     ],
     "qs:gn_adm0_cc":"SK",
     "qs:gn_fcode":"PPL",
@@ -106,10 +127,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":261,
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
-        102080449,
-        85688373
+        102080449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932480,
+    "wof:lastmodified":1563253709,
     "wof:name":"\u010cunovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

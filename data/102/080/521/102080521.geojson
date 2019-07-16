@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Nov\u00e9 Mesto nad V\u00e1hom"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Nov\u00e9 Mesto nad V\u00e1hom"
+    ],
     "name:ces_x_preferred":[
         "Okres Nov\u00e9 Mesto nad V\u00e1hom"
+    ],
+    "name:ces_x_variant":[
+        "okres Nov\u00e9 Mesto nad V\u00e1hom"
     ],
     "name:deu_x_preferred":[
         "Okres Nov\u00e9 Mesto nad V\u00e1hom"
@@ -34,11 +40,20 @@
     "name:eng_x_preferred":[
         "Nov\u00e9 Mesto nad V\u00e1hom"
     ],
+    "name:eng_x_variant":[
+        "Nov\u00e9 Mesto nad V\u00e1hom District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Nov\u00e9 Mesto nad V\u00e1hom"
     ],
+    "name:eus_x_preferred":[
+        "Nov\u00e9 Mesto nad V\u00e1homeko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Nov\u00e9 Mesto nad V\u00e1hom"
+    ],
+    "name:fra_x_variant":[
+        "Nov\u00e9 Mesto nad V\u00e1hom"
     ],
     "name:hrv_x_preferred":[
         "Okrug Nov\u00e9 Mesto nad V\u00e1hom"
@@ -84,6 +99,9 @@
     ],
     "name:slk_x_preferred":[
         "Nov\u00e9 Mesto nad V\u00e1hom"
+    ],
+    "name:slk_x_variant":[
+        "okres Nov\u00e9 Mesto nad V\u00e1hom"
     ],
     "name:spa_x_preferred":[
         "Distrito de Nov\u00e9 Mesto nad V\u00e1hom"
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":102080521,
-    "wof:lastmodified":1561841676,
+    "wof:lastmodified":1563253582,
     "wof:name":"Nov\u00e9 Mesto nad V\u00e1hom",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

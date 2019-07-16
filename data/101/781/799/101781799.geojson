@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Be\u017eovce"
     ],
+    "name:eus_x_preferred":[
+        "Be\u017eovce"
+    ],
     "name:fra_x_preferred":[
         "Be\u017eovce"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Be\u017eovce"
     ],
+    "name:ron_x_preferred":[
+        "Be\u017eovce"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0435\u0436\u0456\u0432\u0446\u0457"
     ],
     "name:slk_x_preferred":[
+        "Be\u017eovce"
+    ],
+    "name:spa_x_preferred":[
         "Be\u017eovce"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101781799,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254477,
     "wof:name":"Be\u017eovce",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

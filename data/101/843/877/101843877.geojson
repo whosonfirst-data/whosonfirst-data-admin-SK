@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kysak"
     ],
+    "name:eus_x_preferred":[
+        "Kysak"
+    ],
     "name:fra_x_preferred":[
         "Kysak"
     ],
@@ -43,20 +46,35 @@
     "name:msa_x_preferred":[
         "Kysak"
     ],
+    "name:nan_x_preferred":[
+        "Kysak"
+    ],
     "name:nld_x_preferred":[
         "Kysak"
     ],
     "name:pol_x_preferred":[
         "Kysak"
     ],
+    "name:ron_x_preferred":[
+        "Kysak"
+    ],
     "name:slk_x_preferred":[
+        "Kysak"
+    ],
+    "name:spa_x_preferred":[
         "Kysak"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0441\u0430\u043a"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0430\u043a"
+    ],
     "name:war_x_preferred":[
         "Kysak"
+    ],
+    "name:war_x_variant":[
+        "Bidovce"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kysak"
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":101843877,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254241,
     "wof:name":"Kysak",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

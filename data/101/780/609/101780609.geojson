@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Raslavice"
     ],
+    "name:eus_x_preferred":[
+        "Raslavice"
+    ],
     "name:fra_x_preferred":[
         "Raslavice"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Raslavice"
     ],
+    "name:ron_x_preferred":[
+        "Raslavice"
+    ],
     "name:rue_x_preferred":[
         "\u0420\u0430\u0441\u043b\u0430\u0432\u0456\u0446\u0457"
     ],
     "name:slk_x_preferred":[
+        "Raslavice"
+    ],
+    "name:spa_x_preferred":[
         "Raslavice"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101780609,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254671,
     "wof:name":"Raslavice",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

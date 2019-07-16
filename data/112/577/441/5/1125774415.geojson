@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
     "name:fra_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
     "name:slk_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:spa_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125774415,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254980,
     "wof:name":"Ni\u017en\u00fd Slavkov",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

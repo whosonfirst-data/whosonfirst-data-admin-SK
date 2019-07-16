@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
+    "name:eus_x_preferred":[
+        "Z\u00e1va\u017en\u00e1 Poruba"
+    ],
     "name:fra_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
+    "name:nan_x_preferred":[
+        "Z\u00e1va\u017en\u00e1 Poruba"
+    ],
     "name:nld_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "name:pol_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
+    "name:ron_x_preferred":[
+        "Z\u00e1va\u017en\u00e1 Poruba"
+    ],
     "name:slk_x_preferred":[
+        "Z\u00e1va\u017en\u00e1 Poruba"
+    ],
+    "name:spa_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":101780357,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254628,
     "wof:name":"Z\u00e1va\u017en\u00e1 Poruba",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

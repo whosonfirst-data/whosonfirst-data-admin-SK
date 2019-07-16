@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Selice"
     ],
+    "name:eus_x_preferred":[
+        "Selice"
+    ],
     "name:fra_x_preferred":[
         "Selice"
     ],
@@ -55,7 +58,13 @@
     "name:nld_x_preferred":[
         "Selice"
     ],
+    "name:ron_x_preferred":[
+        "Selice"
+    ],
     "name:slk_x_preferred":[
+        "Selice"
+    ],
+    "name:spa_x_preferred":[
         "Selice"
     ],
     "name:srp_x_preferred":[
@@ -69,6 +78,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Selice"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7459\u65af\u7279\u96f7\u9054"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101786385,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254531,
     "wof:name":"Selice",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

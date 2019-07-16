@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Torna\u013ea"
     ],
+    "name:ceb_x_preferred":[
+        "Torna\u013ea"
+    ],
     "name:ces_x_preferred":[
         "Torna\u013ea"
     ],
@@ -35,6 +38,9 @@
         "Torna\u013ea"
     ],
     "name:epo_x_preferred":[
+        "Torna\u013ea"
+    ],
+    "name:eus_x_preferred":[
         "Torna\u013ea"
     ],
     "name:fas_x_preferred":[
@@ -82,11 +88,20 @@
     "name:slk_x_preferred":[
         "Torna\u013ea"
     ],
+    "name:spa_x_preferred":[
+        "Torna\u013ea"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u0440\u043d\u0430\u0459\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0422\u043e\u0440\u043d\u0430\u043b\u04d9"
+    ],
+    "name:tur_x_preferred":[
+        "Torna\u013ea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0430\u043b\u044f"
     ],
     "name:unk_x_variant":[
         "\u0160af\u00e1rikovo"
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":101784137,
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254452,
     "wof:name":"Torna\u013ea",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

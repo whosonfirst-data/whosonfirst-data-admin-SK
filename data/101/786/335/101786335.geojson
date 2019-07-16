@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Dubn\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Dubn\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Dubn\u00edk"
     ],
@@ -49,17 +52,26 @@
     "name:nld_x_preferred":[
         "Dubn\u00edk"
     ],
+    "name:ron_x_preferred":[
+        "Dubn\u00edk"
+    ],
     "name:slk_x_preferred":[
         "Dubn\u00edk"
     ],
     "name:slk_x_variant":[
         "\u010c\u00faz"
     ],
+    "name:spa_x_preferred":[
+        "Dubn\u00edk"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u0431\u045a\u0438\u043a"
     ],
     "name:war_x_preferred":[
         "Dubn\u00edk"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00e9 Lovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101786335,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254537,
     "wof:name":"Dubn\u00edk",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

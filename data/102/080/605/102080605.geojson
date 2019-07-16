@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Tvrdo\u0161\u00edn"
+    ],
     "name:ces_x_preferred":[
         "Okres Tvrdo\u0161\u00edn"
+    ],
+    "name:ces_x_variant":[
+        "okres Tvrdo\u0161\u00edn"
     ],
     "name:chv_x_preferred":[
         "\u0422\u0432\u0440\u0434\u043e\u0448\u0438\u043d \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
+    "name:eng_x_variant":[
+        "Tvrdo\u0161\u00edn District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Tvrdo\u0161\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Tvrdo\u0161\u00edngo barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Tvrdo\u0161\u00edn"
+    ],
+    "name:fra_x_variant":[
+        "Tvrdo\u0161\u00edn"
     ],
     "name:hrv_x_preferred":[
         "Okrug Tvrdo\u0161\u00edn"
@@ -91,6 +106,9 @@
     "name:slk_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
+    "name:slk_x_variant":[
+        "okres Tvrdo\u0161\u00edn"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Tvrdo\u0161\u00edn"
     ],
@@ -102,6 +120,9 @@
     ],
     "name:war_x_preferred":[
         "Tvrdo\u0161\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u592b\u723e\u591a\u8f9b\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -152,7 +173,7 @@
         }
     ],
     "wof:id":102080605,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253575,
     "wof:name":"Tvrdo\u0161\u00edn",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

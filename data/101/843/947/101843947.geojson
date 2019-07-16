@@ -25,7 +25,13 @@
     "name:deu_x_preferred":[
         "Svinia"
     ],
+    "name:eng_x_preferred":[
+        "Svinia"
+    ],
     "name:epo_x_preferred":[
+        "Svinia"
+    ],
+    "name:eus_x_preferred":[
         "Svinia"
     ],
     "name:fra_x_preferred":[
@@ -40,10 +46,16 @@
     "name:msa_x_preferred":[
         "Svinia"
     ],
+    "name:nan_x_preferred":[
+        "Svinia"
+    ],
     "name:nld_x_preferred":[
         "Svinia"
     ],
     "name:pol_x_preferred":[
+        "Svinia"
+    ],
+    "name:ron_x_preferred":[
         "Svinia"
     ],
     "name:rue_x_preferred":[
@@ -52,11 +64,17 @@
     "name:slk_x_preferred":[
         "Svinia"
     ],
+    "name:spa_x_preferred":[
+        "Svinia"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0432\u0438\u045a\u0430"
     ],
     "name:swe_x_preferred":[
         "Svinia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u043d\u0456\u0430"
     ],
     "name:und_x_preferred":[
         "Svinia"
@@ -114,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1563254224,
     "wof:name":"Svinia",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

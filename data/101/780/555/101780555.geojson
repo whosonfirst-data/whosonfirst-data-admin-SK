@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Such\u00e1 Hora"
     ],
+    "name:eus_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
     "name:fra_x_preferred":[
         "Such\u00e1 Hora"
     ],
@@ -43,13 +46,25 @@
     "name:msa_x_preferred":[
         "Such\u00e1 Hora"
     ],
+    "name:nan_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
     "name:nld_x_preferred":[
         "Such\u00e1 Hora"
     ],
     "name:pol_x_preferred":[
         "Sucha G\u00f3ra Orawska"
     ],
+    "name:pol_x_variant":[
+        "Sucha G\u00f3ra"
+    ],
+    "name:ron_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
     "name:slk_x_preferred":[
+        "Such\u00e1 Hora"
+    ],
+    "name:spa_x_preferred":[
         "Such\u00e1 Hora"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Such\u00e1 Hora"
+    ],
+    "name:war_x_variant":[
+        "Z\u00e1va\u017en\u00e1 Poruba"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -104,7 +122,7 @@
         }
     ],
     "wof:id":101780555,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254629,
     "wof:name":"Such\u00e1 Hora",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

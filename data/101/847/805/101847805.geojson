@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Oravsk\u00e1 Polhora"
     ],
+    "name:eus_x_preferred":[
+        "Oravsk\u00e1 Polhora"
+    ],
     "name:fra_x_preferred":[
         "Oravsk\u00e1 Polhora"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Orawska P\u00f3\u0142g\u00f3ra"
     ],
+    "name:ron_x_preferred":[
+        "Oravsk\u00e1 Polhora"
+    ],
     "name:slk_x_preferred":[
+        "Oravsk\u00e1 Polhora"
+    ],
+    "name:spa_x_preferred":[
         "Oravsk\u00e1 Polhora"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101847805,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254474,
     "wof:name":"Oravsk\u00e1 Polhora",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

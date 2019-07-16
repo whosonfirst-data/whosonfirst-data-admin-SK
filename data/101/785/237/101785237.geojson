@@ -25,7 +25,13 @@
     "name:eng_x_preferred":[
         "Pogranice"
     ],
+    "name:eng_x_variant":[
+        "Pohranice"
+    ],
     "name:epo_x_preferred":[
+        "Pohranice"
+    ],
+    "name:eus_x_preferred":[
         "Pohranice"
     ],
     "name:fra_x_preferred":[
@@ -49,7 +55,13 @@
     "name:nld_x_preferred":[
         "Pohranice"
     ],
+    "name:ron_x_preferred":[
+        "Pohranice"
+    ],
     "name:slk_x_preferred":[
+        "Pohranice"
+    ],
+    "name:spa_x_preferred":[
         "Pohranice"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Pohranice"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00e1 Ma\u010da"
     ],
     "name:zho_min_nan_x_preferred":[
         "Pohranice"
@@ -114,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254346,
     "wof:name":"Pohranice",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Oravsk\u00fd Podz\u00e1mok"
     ],
+    "name:ceb_x_preferred":[
+        "Oravsk\u00fd Podz\u00e1mok"
+    ],
     "name:ces_x_preferred":[
         "Oravsk\u00fd Podz\u00e1mok"
     ],
@@ -29,6 +32,9 @@
         "Oravsk\u00fd Podz\u00e1mok"
     ],
     "name:epo_x_preferred":[
+        "Oravsk\u00fd Podz\u00e1mok"
+    ],
+    "name:eus_x_preferred":[
         "Oravsk\u00fd Podz\u00e1mok"
     ],
     "name:fra_x_preferred":[
@@ -52,13 +58,22 @@
     "name:pol_x_preferred":[
         "Orawskie Podzamcze"
     ],
+    "name:ron_x_preferred":[
+        "Oravsk\u00fd Podz\u00e1mok"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0430\u0432\u0441\u043a\u0438 \u041f\u043e\u0434\u0437\u0430\u043c\u043e\u043a"
     ],
     "name:slk_x_preferred":[
         "Oravsk\u00fd Podz\u00e1mok"
     ],
+    "name:spa_x_preferred":[
+        "Oravsk\u00fd Podz\u00e1mok"
+    ],
     "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0432\u0441\u043a\u0438 \u041f\u043e\u0434\u0437\u0430\u043c\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
         "\u041e\u0440\u0430\u0432\u0441\u043a\u0438 \u041f\u043e\u0434\u0437\u0430\u043c\u043e\u043a"
     ],
     "name:unk_x_variant":[
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":101780403,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254670,
     "wof:name":"Oravsk\u00fd Podz\u00e1mok",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

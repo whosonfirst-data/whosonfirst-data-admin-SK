@@ -52,7 +52,13 @@
     "name:pol_x_preferred":[
         "\u010cajkov"
     ],
+    "name:ron_x_preferred":[
+        "\u010cajkov"
+    ],
     "name:slk_x_preferred":[
+        "\u010cajkov"
+    ],
+    "name:spa_x_preferred":[
         "\u010cajkov"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "\u010cajkov"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u99ac\u5207"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":101783969,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254425,
     "wof:name":"\u010cajkov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

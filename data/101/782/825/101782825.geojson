@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Klenovec"
     ],
+    "name:eus_x_preferred":[
+        "Klenovec"
+    ],
     "name:fra_x_preferred":[
         "Klenovec"
     ],
@@ -49,14 +52,26 @@
     "name:pol_x_preferred":[
         "Klenovec"
     ],
+    "name:ron_x_preferred":[
+        "Klenovec"
+    ],
     "name:slk_x_preferred":[
+        "Klenovec"
+    ],
+    "name:spa_x_preferred":[
         "Klenovec"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0459\u0435\u043d\u043e\u0432\u0435\u0446"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u043d\u043e\u0432\u0454\u0446"
+    ],
     "name:war_x_preferred":[
         "Klenovec"
+    ],
+    "name:war_x_variant":[
+        "Beckov"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Banskobystrick\u00fd kraj",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101782825,
-    "wof:lastmodified":1561841702,
+    "wof:lastmodified":1563254397,
     "wof:name":"Klenovec",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Breza"
     ],
+    "name:ceb_x_preferred":[
+        "Breza"
+    ],
     "name:ces_x_preferred":[
         "Breza"
     ],
@@ -29,6 +32,9 @@
         "Breza"
     ],
     "name:epo_x_preferred":[
+        "Breza"
+    ],
+    "name:eus_x_preferred":[
         "Breza"
     ],
     "name:fra_x_preferred":[
@@ -55,7 +61,13 @@
     "name:pol_x_preferred":[
         "Brzeza"
     ],
+    "name:ron_x_preferred":[
+        "Breza"
+    ],
     "name:slk_x_preferred":[
+        "Breza"
+    ],
+    "name:spa_x_preferred":[
         "Breza"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101826673,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254184,
     "wof:name":"Breza",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

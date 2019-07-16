@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sedlice"
     ],
+    "name:eus_x_preferred":[
+        "Sedlice"
+    ],
     "name:fra_x_preferred":[
         "Sedlice"
     ],
@@ -52,6 +55,9 @@
     "name:pol_x_preferred":[
         "Sedlice"
     ],
+    "name:ron_x_preferred":[
+        "Sedlice"
+    ],
     "name:rue_x_preferred":[
         "\u0421\u0435\u0434\u043b\u0438\u0446\u0457"
     ],
@@ -61,7 +67,13 @@
     "name:slk_x_preferred":[
         "Sedlice"
     ],
+    "name:spa_x_preferred":[
+        "Sedlice"
+    ],
     "name:srp_x_preferred":[
+        "\u0421\u0435\u0434\u043b\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0435\u0434\u043b\u0438\u0446\u0435"
     ],
     "name:und_x_preferred":[
@@ -116,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254641,
     "wof:name":"Sedlice",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

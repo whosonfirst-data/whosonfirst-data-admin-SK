@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00043,
-    "geom:area_square_m":3539695.158772,
+    "geom:area_square_m":3539695.158773,
     "geom:bbox":"19.3323793592,48.1816450329,19.3639416944,48.217322793",
     "geom:latitude":48.204848,
     "geom:longitude":19.349292,
@@ -23,7 +23,13 @@
     "name:deu_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
     ],
+    "name:eng_x_preferred":[
+        "Mal\u00fd Krt\u00ed\u0161"
+    ],
     "name:epo_x_preferred":[
+        "Mal\u00fd Krt\u00ed\u0161"
+    ],
+    "name:eus_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
     ],
     "name:fra_x_preferred":[
@@ -38,20 +44,41 @@
     "name:msa_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
     ],
+    "name:nan_x_preferred":[
+        "Mal\u00fd Krt\u00ed\u0161"
+    ],
     "name:nld_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
     ],
     "name:pol_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
     ],
+    "name:ron_x_preferred":[
+        "Mal\u00fd Krt\u00ed\u0161"
+    ],
     "name:slk_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00fd Krt\u00ed\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u041a\u0440\u0442\u0438\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u041a\u0440\u0442\u0456\u0448"
     ],
     "name:und_x_preferred":[
         "Velky Krtis"
     ],
     "name:unk_x_variant":[
         "Mal\u00fd Krt\u00ed\u0161"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00fd Krt\u00ed\u0161"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u62c9\u5e03\u840a"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Banskobystrick\u00fd kraj",
@@ -101,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1563254328,
     "wof:name":"Ve\u013ek\u00fd Krt\u00ed\u0161",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

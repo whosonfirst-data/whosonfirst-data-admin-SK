@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Rajeck\u00e1 Lesn\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Rajeck\u00e1 Lesn\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254196,
     "wof:name":"Rajeck\u00e1 Lesn\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

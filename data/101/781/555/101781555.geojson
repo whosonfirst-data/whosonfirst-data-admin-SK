@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Hri\u0148ov\u00e1"
     ],
+    "name:ceb_x_preferred":[
+        "Hri\u0148ov\u00e1"
+    ],
     "name:ces_x_preferred":[
         "Hri\u0148ov\u00e1"
     ],
@@ -33,6 +36,9 @@
         "Hri\u0148ov\u00e1"
     ],
     "name:epo_x_preferred":[
+        "Hri\u0148ov\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Hri\u0148ov\u00e1"
     ],
     "name:fas_x_preferred":[
@@ -85,6 +91,9 @@
     ],
     "name:tat_x_preferred":[
         "\u04ba\u0440\u0438\u043d\u04e9\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Hri\u0148ov\u00e1"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u043d\u044c\u043e\u0432\u0430"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":101781555,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254498,
     "wof:name":"Hri\u0148ov\u00e1",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

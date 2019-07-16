@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Doma\u0148ovce"
     ],
+    "name:eus_x_preferred":[
+        "Doma\u0148ovce"
+    ],
     "name:fra_x_preferred":[
         "Doma\u0148ovce"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "Doma\u0148ovce"
     ],
+    "name:ron_x_preferred":[
+        "Doma\u0148ovce"
+    ],
     "name:slk_x_preferred":[
+        "Doma\u0148ovce"
+    ],
+    "name:spa_x_preferred":[
         "Doma\u0148ovce"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1126011373,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254925,
     "wof:name":"Domanovce",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

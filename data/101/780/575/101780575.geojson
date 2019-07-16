@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Huncovce"
     ],
+    "name:eus_x_preferred":[
+        "Huncovce"
+    ],
     "name:fra_x_preferred":[
         "Huncovce"
     ],
@@ -52,10 +55,19 @@
     "name:pol_x_preferred":[
         "Huncowce"
     ],
+    "name:ron_x_preferred":[
+        "Huncovce"
+    ],
     "name:rue_x_preferred":[
         "\u0413\u0443\u043d\u0446\u043e\u0432\u0446\u0435"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043d\u0446\u043e\u0432\u0446\u0435"
+    ],
     "name:slk_x_preferred":[
+        "Huncovce"
+    ],
+    "name:spa_x_preferred":[
         "Huncovce"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101780575,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254615,
     "wof:name":"Huncovce",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

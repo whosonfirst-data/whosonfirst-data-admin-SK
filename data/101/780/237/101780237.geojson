@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Prusk\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Prusk\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Prusk\u00e9"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Prusk\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30eb\u30b9\u30b1\u30fc"
     ],
     "name:msa_x_preferred":[
         "Prusk\u00e9"
@@ -49,14 +55,23 @@
     "name:nld_x_preferred":[
         "Prusk\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Prusk\u00e9"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0443\u0441\u043a\u0435"
     ],
     "name:slk_x_preferred":[
         "Prusk\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Prusk\u00e9"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0443\u0441\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0443\u0441\u044c\u043a\u0435"
     ],
     "name:unk_x_variant":[
         "Poroszka"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101780237,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254666,
     "wof:name":"Prusk\u00e9",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

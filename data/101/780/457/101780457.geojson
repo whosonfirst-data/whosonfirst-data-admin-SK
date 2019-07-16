@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sedlisk\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Sedlisk\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Sedlisk\u00e1"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Sedlisk\u00e1"
     ],
+    "name:nan_x_preferred":[
+        "Sedlisk\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Sedlisk\u00e1"
     ],
     "name:pol_x_preferred":[
         "Sedlisk\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Sedlisk\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Sedlisk\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Sedlisk\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Sedlisk\u00e1"
+    ],
+    "name:war_x_variant":[
+        "Nesvady"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":101780457,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254664,
     "wof:name":"Sedlisk\u00e1",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

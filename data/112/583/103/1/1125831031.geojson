@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "\u013dubietov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "\u013dubietov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "\u013dubietov\u00e1"
     ],
@@ -60,7 +63,13 @@
     "name:por_x_preferred":[
         "\u013dubietov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "\u013dubietov\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "\u013dubietov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "\u013dubietov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":1125831031,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563255001,
     "wof:name":"L\u0315ubietov\u00e1",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

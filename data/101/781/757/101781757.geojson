@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "\u010cierny Balog"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cierny Balog"
+    ],
     "name:ces_x_preferred":[
         "\u010cierny Balog"
     ],
@@ -31,6 +34,9 @@
         "\u010cierny Balog"
     ],
     "name:epo_x_preferred":[
+        "\u010cierny Balog"
+    ],
+    "name:eus_x_preferred":[
         "\u010cierny Balog"
     ],
     "name:fra_x_preferred":[
@@ -54,14 +60,23 @@
     "name:pol_x_preferred":[
         "\u010cierny Balog"
     ],
+    "name:ron_x_preferred":[
+        "\u010cierny Balog"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u044c\u0435\u0440\u043d\u044b \u0411\u0430\u043b\u043e\u0433"
     ],
     "name:slk_x_preferred":[
         "\u010cierny Balog"
     ],
+    "name:spa_x_preferred":[
+        "\u010cierny Balog"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0458\u0435\u0440\u043d\u0438 \u0411\u0430\u043b\u043e\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0454\u0440\u043d\u0438 \u0411\u0430\u043b\u043e\u0491"
     ],
     "name:unk_x_variant":[
         "\u010cierny Blh"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":101781757,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254501,
     "wof:name":"\u010cierny Balog",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

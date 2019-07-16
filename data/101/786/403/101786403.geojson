@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
+    "name:eus_x_preferred":[
+        "Mat\u00fa\u0161kovo"
+    ],
     "name:fra_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
@@ -49,10 +52,22 @@
     "name:nld_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
+    "name:ron_x_preferred":[
+        "Mat\u00fa\u0161kovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
+    ],
     "name:slk_x_preferred":[
         "Mat\u00fa\u0161kovo"
     ],
+    "name:spa_x_preferred":[
+        "Mat\u00fa\u0161kovo"
+    ],
     "name:srp_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
@@ -60,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Mat\u00fa\u0161kovo"
+    ],
+    "name:war_x_variant":[
+        "\u010cierna Voda"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":101786403,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254544,
     "wof:name":"Mat\u00fa\u0161kovo",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

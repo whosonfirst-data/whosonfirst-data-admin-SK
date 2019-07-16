@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
+    "name:eus_x_preferred":[
+        "Tren\u010dianske Bohuslavice"
+    ],
     "name:fra_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
+    "name:ron_x_preferred":[
+        "Tren\u010dianske Bohuslavice"
+    ],
     "name:slk_x_preferred":[
+        "Tren\u010dianske Bohuslavice"
+    ],
+    "name:spa_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Tren\u010dianske Bohuslavice"
+    ],
+    "name:war_x_variant":[
+        "Mojt\u00edn"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1125929281,
-    "wof:lastmodified":1561841720,
+    "wof:lastmodified":1563254760,
     "wof:name":"Tren\u010dianske Bohuslavice",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

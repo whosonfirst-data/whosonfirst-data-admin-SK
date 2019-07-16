@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0627\u062c\u0633\u0643\u0647"
     ],
+    "name:aze_x_preferred":[
+        "Stra\u015fske"
+    ],
     "name:cat_x_preferred":[
+        "Str\u00e1\u017eske"
+    ],
+    "name:ceb_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:ces_x_preferred":[
@@ -33,6 +39,9 @@
         "Str\u00e1\u017eske"
     ],
     "name:epo_x_preferred":[
+        "Str\u00e1\u017eske"
+    ],
+    "name:eus_x_preferred":[
         "Str\u00e1\u017eske"
     ],
     "name:fas_x_preferred":[
@@ -52,6 +61,9 @@
     ],
     "name:ita_x_preferred":[
         "Str\u00e1\u017eske"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30e9\u30fc\u30b8\u30e5\u30b9\u30b1"
     ],
     "name:lav_x_preferred":[
         "Str\u0101\u017eske"
@@ -77,11 +89,17 @@
     "name:slk_x_preferred":[
         "Str\u00e1\u017eske"
     ],
+    "name:spa_x_preferred":[
+        "Str\u00e1\u017eske"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0448\u043a\u0435"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u0441\u043a\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Str\u00e1\u017eske"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u0441\u044c\u043a\u0435"
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":101780285,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254653,
     "wof:name":"Str\u00e1\u017eske",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

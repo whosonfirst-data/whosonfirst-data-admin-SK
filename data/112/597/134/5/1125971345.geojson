@@ -24,10 +24,16 @@
     "name:ces_x_preferred":[
         "Bac\u00farov"
     ],
+    "name:deu_x_preferred":[
+        "Bac\u00farov"
+    ],
     "name:eng_x_preferred":[
         "Bac\u00farov"
     ],
     "name:epo_x_preferred":[
+        "Bac\u00farov"
+    ],
+    "name:eus_x_preferred":[
         "Bac\u00farov"
     ],
     "name:fra_x_preferred":[
@@ -51,10 +57,19 @@
     "name:pol_x_preferred":[
         "Bac\u00farov"
     ],
+    "name:ron_x_preferred":[
+        "Bac\u00farov"
+    ],
     "name:slk_x_preferred":[
         "Bac\u00farov"
     ],
+    "name:spa_x_preferred":[
+        "Bac\u00farov"
+    ],
     "name:srp_x_preferred":[
+        "\u0411\u0430\u0446\u0443\u0440\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0430\u0446\u0443\u0440\u043e\u0432"
     ],
     "name:war_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1125971345,
-    "wof:lastmodified":1561841726,
+    "wof:lastmodified":1563254894,
     "wof:name":"Bac\u00farov",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

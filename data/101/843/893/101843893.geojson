@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
+    "name:eus_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
     "name:fra_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
@@ -52,11 +55,20 @@
     "name:pol_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
+    "name:ron_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
     "name:slk_x_preferred":[
+        "Spi\u0161sk\u00fd Hru\u0161ov"
+    ],
+    "name:spa_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
     ],
     "name:srp_x_preferred":[
         "\u0421\u043f\u0438\u0448\u043a\u0438 \u0425\u0440\u0443\u0448\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0438\u0441\u044c\u043a\u0438\u0439 \u0413\u0440\u0443\u0448\u043e\u0432"
     ],
     "name:war_x_preferred":[
         "Spi\u0161sk\u00fd Hru\u0161ov"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101843893,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254216,
     "wof:name":"Spi\u0161sk\u00fd Hru\u0161ov",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

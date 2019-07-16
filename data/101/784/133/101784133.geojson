@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Rimavsk\u00e1 Sobota"
+    ],
     "name:ces_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
@@ -45,6 +48,9 @@
         "Rimavsk\u00e1 Sobota"
     ],
     "name:epo_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:eus_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +74,9 @@
     "name:ita_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30de\u30d5\u30b9\u30ab\u30fc\u30fb\u30bd\u30dc\u30bf"
+    ],
     "name:lav_x_preferred":[
         "Rimavska Sobota"
     ],
@@ -86,13 +95,25 @@
     "name:pol_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
+    "name:pol_x_variant":[
+        "Rymawska Sobota"
+    ],
+    "name:por_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
     "name:ron_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430-\u0421\u043e\u0431\u043e\u0442\u0430"
+    ],
     "name:slk_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
+    "name:spa_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
     "name:srp_x_preferred":[
@@ -165,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254430,
     "wof:name":"Rimavsk\u00e1 Sobota",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

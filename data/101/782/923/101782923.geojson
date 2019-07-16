@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Moldava nad Bodvou"
     ],
+    "name:ceb_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
     "name:ces_x_preferred":[
         "Moldava nad Bodvou"
     ],
@@ -33,6 +36,9 @@
         "Moldava nad Bodvou"
     ],
     "name:epo_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:eus_x_preferred":[
         "Moldava nad Bodvou"
     ],
     "name:fas_x_preferred":[
@@ -83,10 +89,19 @@
     "name:srp_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0430 \u043d\u0430 \u0411\u043e\u0434\u0432\u0438"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430 \u043d\u0430\u0434 \u0411\u043e\u0434\u0432\u0443"
+    ],
     "name:swe_x_preferred":[
         "Moldava nad Bodvou"
     ],
     "name:tat_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0432\u043e\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Moldava nad Bodvou"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0432\u043e\u0443"
     ],
     "name:unk_x_variant":[
@@ -150,7 +165,7 @@
         }
     ],
     "wof:id":101782923,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254377,
     "wof:name":"Moldava nad Bodvou",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

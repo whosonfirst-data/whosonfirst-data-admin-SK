@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000654,
-    "geom:area_square_m":5433170.549507,
+    "geom:area_square_m":5433170.549506,
     "geom:bbox":"18.4694103921,47.7357961806,18.5195546679,47.7692581275",
     "geom:latitude":47.753371,
     "geom:longitude":18.490553,
@@ -17,11 +17,23 @@
     "mps:longitude":18.479761,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "L\u00e1batlan"
+    ],
+    "name:ces_x_preferred":[
+        "L\u00e1batlan"
+    ],
     "name:deu_x_preferred":[
+        "L\u00e1batlan"
+    ],
+    "name:eng_x_preferred":[
         "L\u00e1batlan"
     ],
     "name:epo_x_preferred":[
         "L\u00e1batlan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0628\u0627\u062a\u0644\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "L\u00e1batlan"
@@ -36,6 +48,9 @@
     "name:msa_x_preferred":[
         "L\u00e1batlan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e1batlan"
+    ],
     "name:nld_x_preferred":[
         "L\u00e1batlan"
     ],
@@ -45,11 +60,26 @@
     "name:ron_x_preferred":[
         "L\u00e1batlan"
     ],
+    "name:rup_x_preferred":[
+        "L\u00e1batlan"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0431\u0430\u0442\u043b\u0430\u043d"
     ],
+    "name:slk_x_preferred":[
+        "L\u00e1batlan"
+    ],
+    "name:slv_x_preferred":[
+        "L\u00e1batlan"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e1batlan"
+    ],
     "name:unk_x_variant":[
         "Piszke"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e1batlan"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
@@ -99,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642923,
+    "wof:lastmodified":1563254297,
     "wof:name":"L\u00e1batlan",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

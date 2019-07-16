@@ -36,6 +36,9 @@
     "name:epo_x_preferred":[
         "Kra\u013eovany"
     ],
+    "name:eus_x_preferred":[
+        "Kra\u013eovany"
+    ],
     "name:fra_x_preferred":[
         "Kra\u013eovany"
     ],
@@ -48,17 +51,29 @@
     "name:msa_x_preferred":[
         "Kra\u013eovany"
     ],
+    "name:nan_x_preferred":[
+        "Kra\u013eovany"
+    ],
     "name:nld_x_preferred":[
         "Kra\u013eovany"
     ],
     "name:pol_x_preferred":[
         "Kra\u013eovany"
     ],
+    "name:ron_x_preferred":[
+        "Kra\u013eovany"
+    ],
     "name:slk_x_preferred":[
+        "Kra\u013eovany"
+    ],
+    "name:spa_x_preferred":[
         "Kra\u013eovany"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0459\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u044c\u043e\u0432\u0430\u043d\u0438"
     ],
     "name:unk_x_variant":[
         "Kra\u013eovany"
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":1125772439,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254981,
     "wof:name":"Kral\u0315ovany",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

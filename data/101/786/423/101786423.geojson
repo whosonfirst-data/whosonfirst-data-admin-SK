@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "\u017deliezovce"
     ],
+    "name:ceb_x_preferred":[
+        "\u017deliezovce"
+    ],
     "name:ces_x_preferred":[
         "\u017deliezovce"
     ],
@@ -36,6 +39,9 @@
         "\u017deliezovce"
     ],
     "name:epo_x_preferred":[
+        "\u017deliezovce"
+    ],
+    "name:eus_x_preferred":[
         "\u017deliezovce"
     ],
     "name:fas_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc824\ub9ac\uc5d0\uc870\ud504\uccb4"
+    ],
+    "name:kor_x_variant":[
+        "\uc824\ub9ac\uc5d0\uc870\uc6b0\uccb4"
     ],
     "name:lav_x_preferred":[
         "\u017deljezovce"
@@ -100,6 +109,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043e\u0432\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "\u017deliezovce"
     ],
     "name:unk_x_variant":[
         "Zseliz"
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":101786423,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254525,
     "wof:name":"\u017deliezovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

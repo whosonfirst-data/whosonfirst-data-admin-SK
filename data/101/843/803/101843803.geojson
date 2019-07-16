@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Lov\u010dica-Trub\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
@@ -52,11 +55,20 @@
     "name:pol_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Lov\u010dica-Trub\u00edn"
+    ],
     "name:slk_x_preferred":[
+        "Lov\u010dica-Trub\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0432\u0447\u0438\u0446\u0430-\u0422\u0440\u0443\u0431\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0432\u0447\u0438\u0446\u044f-\u0422\u0440\u0443\u0431\u0456\u043d"
     ],
     "name:war_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":101843803,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254212,
     "wof:name":"Lov\u010dica - Trub\u00edn",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

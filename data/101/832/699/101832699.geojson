@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Chocholn\u00e1-Vel\u010dice"
     ],
+    "name:eus_x_preferred":[
+        "Chocholn\u00e1-Vel\u010dice"
+    ],
     "name:fra_x_preferred":[
         "Chocholn\u00e1-Vel\u010dice"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Chocholn\u00e1-Vel\u010dice"
     ],
+    "name:ron_x_preferred":[
+        "Chocholn\u00e1-Vel\u010dice"
+    ],
     "name:slk_x_preferred":[
+        "Chocholn\u00e1-Vel\u010dice"
+    ],
+    "name:spa_x_preferred":[
         "Chocholn\u00e1-Vel\u010dice"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Chocholn\u00e1-Vel\u010dice"
+    ],
+    "name:war_x_variant":[
+        "Pohronsk\u00e1 Polhora"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101832699,
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254275,
     "wof:name":"Chocholn\u00e1 - Vel\u010dice",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

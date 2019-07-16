@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lazy pod Makytou"
     ],
+    "name:eus_x_preferred":[
+        "Lazy pod Makytou"
+    ],
     "name:fra_x_preferred":[
         "Lazy pod Makytou"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Lazy pod Makytou"
     ],
+    "name:ron_x_preferred":[
+        "Lazy pod Makytou"
+    ],
     "name:slk_x_preferred":[
+        "Lazy pod Makytou"
+    ],
+    "name:spa_x_preferred":[
         "Lazy pod Makytou"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Lazy pod Makytou"
+    ],
+    "name:war_x_variant":[
+        "Slovensk\u00e1 Ves"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lazy pod Makytou"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101780331,
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254569,
     "wof:name":"Lazy pod Makytou",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

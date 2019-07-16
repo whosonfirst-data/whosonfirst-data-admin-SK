@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Priben\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Priben\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Priben\u00edk"
     ],
@@ -54,14 +57,23 @@
     "name:pol_x_preferred":[
         "Priben\u00edk"
     ],
+    "name:ron_x_preferred":[
+        "Priben\u00edk"
+    ],
     "name:rue_x_preferred":[
         "\u041f\u0440\u0456\u0431\u0435\u043d\u0456\u043a"
     ],
     "name:slk_x_preferred":[
         "Priben\u00edk"
     ],
+    "name:spa_x_preferred":[
+        "Priben\u00edk"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u0431\u0435\u045a\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0456\u0431\u0435\u043d\u0456\u043a"
     ],
     "name:unk_x_variant":[
         "Perben\u00edk"
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125998607,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254885,
     "wof:name":"Priben\u00edk",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

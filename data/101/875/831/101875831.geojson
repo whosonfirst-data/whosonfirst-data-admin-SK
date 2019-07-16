@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Liskov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Liskov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Liskov\u00e1"
     ],
@@ -49,16 +52,25 @@
     "name:msa_x_preferred":[
         "Liskov\u00e1"
     ],
+    "name:nan_x_preferred":[
+        "Liskov\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:pol_x_preferred":[
         "Liskov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Liskov\u00e1"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0441\u043a\u043e\u0432\u0430"
     ],
     "name:slk_x_preferred":[
+        "Liskov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":101875831,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254192,
     "wof:name":"Liskov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

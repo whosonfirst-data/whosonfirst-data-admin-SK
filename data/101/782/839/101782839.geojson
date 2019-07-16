@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00e1 Ida"
+    ],
     "name:deu_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
@@ -26,6 +29,9 @@
         "Ve\u013ek\u00e1 Ida"
     ],
     "name:epo_x_preferred":[
+        "Ve\u013ek\u00e1 Ida"
+    ],
+    "name:eus_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
     "name:fra_x_preferred":[
@@ -49,17 +55,29 @@
     "name:pol_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e1 Ida"
+    ],
     "name:slk_x_preferred":[
+        "Ve\u013ek\u00e1 Ida"
+    ],
+    "name:spa_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0430 \u0418\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0430 \u0406\u0434\u0430"
     ],
     "name:unk_x_variant":[
         "Nadida"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e1 Ida"
+    ],
+    "name:war_x_variant":[
+        "Bad\u00edn"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -104,7 +122,7 @@
         }
     ],
     "wof:id":101782839,
-    "wof:lastmodified":1561841702,
+    "wof:lastmodified":1563254402,
     "wof:name":"Ve\u013ek\u00e1 Ida",
     "wof:parent_id":102080533,
     "wof:placetype":"locality",

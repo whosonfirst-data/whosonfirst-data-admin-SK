@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Lo\u0161onec"
     ],
+    "name:eus_x_preferred":[
+        "Lo\u0161onec"
+    ],
     "name:fra_x_preferred":[
         "Lo\u0161onec"
     ],
@@ -54,7 +57,13 @@
     "name:por_x_preferred":[
         "Lo\u0161onec"
     ],
+    "name:ron_x_preferred":[
+        "Lo\u0161onec"
+    ],
     "name:slk_x_preferred":[
+        "Lo\u0161onec"
+    ],
+    "name:spa_x_preferred":[
         "Lo\u0161onec"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Lo\u0161onec"
+    ],
+    "name:war_x_variant":[
+        "Nov\u00e1\u010dany"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1125816541,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254827,
     "wof:name":"Lo\u0161onec",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

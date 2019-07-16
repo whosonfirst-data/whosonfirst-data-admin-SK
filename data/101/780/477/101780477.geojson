@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Krivany"
     ],
+    "name:eus_x_preferred":[
+        "Krivany"
+    ],
     "name:fra_x_preferred":[
         "Krivany"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Krivany"
     ],
+    "name:nan_x_preferred":[
+        "Krivany"
+    ],
     "name:nld_x_preferred":[
         "Krivany"
     ],
     "name:pol_x_preferred":[
         "Krivany"
     ],
+    "name:ron_x_preferred":[
+        "Krivany"
+    ],
     "name:slk_x_preferred":[
+        "Krivany"
+    ],
+    "name:spa_x_preferred":[
         "Krivany"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101780477,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254588,
     "wof:name":"Krivany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

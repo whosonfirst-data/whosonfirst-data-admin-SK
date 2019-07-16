@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Voderady"
     ],
+    "name:eus_x_preferred":[
+        "Voderady"
+    ],
     "name:fra_x_preferred":[
         "Voderady"
     ],
@@ -61,7 +64,13 @@
     "name:por_x_preferred":[
         "Voderady"
     ],
+    "name:ron_x_preferred":[
+        "Voderady"
+    ],
     "name:slk_x_preferred":[
+        "Voderady"
+    ],
+    "name:spa_x_preferred":[
         "Voderady"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254335,
     "wof:name":"Voderady",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22984854.622631,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.96936,48.210921,16.96936,48.210921",
     "geom:latitude":48.210921,
     "geom:longitude":16.96936,
@@ -34,6 +34,9 @@
     "name:deu_x_variant":[
         "Theben-Neudorf"
     ],
+    "name:eng_x_preferred":[
+        "Dev\u00ednska Nov\u00e1 Ves"
+    ],
     "name:epo_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
     ],
@@ -49,7 +52,13 @@
     "name:hun_x_preferred":[
         "D\u00e9v\u00e9ny\u00fajfalu"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0587\u056b\u0576\u057d\u056f\u0561 \u0546\u0578\u057e\u0561 \u054e\u0565\u057d"
+    ],
     "name:ita_x_preferred":[
+        "Dev\u00ednska Nov\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
     ],
     "name:nld_x_preferred":[
@@ -58,8 +67,17 @@
     "name:pol_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u043d\u0441\u043a\u0430-\u041d\u043e\u0432\u0430-\u0412\u0435\u0441"
+    ],
     "name:slk_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
+    ],
+    "name:slv_x_preferred":[
+        "Devinska Nova vas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0402\u0435\u0432\u0438\u043d\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:und_x_colloquial":[
         "Devinska Nova Ves"
@@ -70,6 +88,9 @@
     "name:unk_x_variant":[
         "Devinskanova Vesmlyl",
         "Dev\u00ednska Nov\u00e1 Ves"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6587\u65af\u5361\u65b0\u6751"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -103,10 +124,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":664,
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
-        102080461,
-        85688373
+        102080461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932481,
+    "wof:lastmodified":1563253711,
     "wof:name":"Dev\u00ednska Nov\u00e1 Ves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

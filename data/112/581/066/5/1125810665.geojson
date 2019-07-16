@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1\u010dany"
+    ],
     "name:deu_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
@@ -28,6 +31,9 @@
         "Nov\u00e1\u010dany"
     ],
     "name:epo_x_preferred":[
+        "Nov\u00e1\u010dany"
+    ],
+    "name:eus_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
     "name:fra_x_preferred":[
@@ -51,14 +57,26 @@
     "name:pol_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1\u010dany"
+    ],
     "name:slk_x_preferred":[
+        "Nov\u00e1\u010dany"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
+    ],
     "name:war_x_preferred":[
         "Nov\u00e1\u010dany"
+    ],
+    "name:war_x_variant":[
+        "Krahule"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1125810665,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254827,
     "wof:name":"Nov\u00e1\u010dany",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

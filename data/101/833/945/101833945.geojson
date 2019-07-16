@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
     "name:fra_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
+    "name:ron_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
     "name:slk_x_preferred":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+    ],
+    "name:spa_x_preferred":[
         "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101833945,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254302,
     "wof:name":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

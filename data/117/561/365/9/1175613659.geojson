@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Doln\u00fd \u0160t\u00e1l"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00fd \u0160t\u00e1l"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00fd \u0160t\u00e1l"
     ],
@@ -52,17 +55,29 @@
     "name:por_x_preferred":[
         "Doln\u00fd \u0160t\u00e1l"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00fd \u0160t\u00e1l"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00fd \u0160t\u00e1l"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00fd \u0160t\u00e1l"
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u0428\u0442\u0430\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u044c\u043d\u0438\u0439 \u0428\u0442\u0430\u043b"
     ],
     "name:unk_x_variant":[
         "Alist\u00e1l"
     ],
     "name:war_x_preferred":[
         "Doln\u00fd \u0160t\u00e1l"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u8fea\u65af\u62c9\u53d1"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1175613659,
-    "wof:lastmodified":1561841685,
+    "wof:lastmodified":1563254065,
     "wof:name":"Doln\u00fd \u0160t\u00e1l",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

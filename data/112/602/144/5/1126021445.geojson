@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
+    "name:eus_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
     "name:fra_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
+    "name:ron_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
     "name:slk_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
+    ],
+    "name:spa_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1126021445,
-    "wof:lastmodified":1561841720,
+    "wof:lastmodified":1563254787,
     "wof:name":"Sarisske Dravce",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

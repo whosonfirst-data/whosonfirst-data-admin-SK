@@ -23,13 +23,22 @@
     "name:aze_x_preferred":[
         "M\u0430rtin"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0440\u0446\u0456\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0440\u0446\u0456\u043d"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d"
     ],
     "name:cat_x_preferred":[
+        "Martin"
+    ],
+    "name:ceb_x_preferred":[
         "Martin"
     ],
     "name:ces_x_preferred":[
@@ -49,6 +58,9 @@
         "Turz-St. Martin",
         "Martin"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03c4\u03b9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Martin"
     ],
@@ -63,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u062a\u06cc\u0646\u060c \u0627\u0633\u0644\u0648\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0631\u062a\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Martin"
@@ -136,6 +151,9 @@
     "name:ron_x_preferred":[
         "Martin"
     ],
+    "name:rue_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d"
     ],
@@ -151,6 +169,9 @@
     "name:spa_x_preferred":[
         "Martin"
     ],
+    "name:sqi_x_preferred":[
+        "Martin"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d"
     ],
@@ -159,6 +180,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Martin"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0456\u043d"
@@ -178,6 +202,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u0679\u0646\u060c \u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u0679\u0646"
     ],
     "name:vie_x_preferred":[
         "Martin"
@@ -241,7 +268,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841686,
+    "wof:lastmodified":1563254164,
     "wof:name":"Martin",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

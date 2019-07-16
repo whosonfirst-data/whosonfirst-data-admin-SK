@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
+    "name:eus_x_preferred":[
+        "Kra\u010d\u00fanovce"
+    ],
     "name:fra_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
+    "name:ron_x_preferred":[
+        "Kra\u010d\u00fanovce"
+    ],
     "name:slk_x_preferred":[
+        "Kra\u010d\u00fanovce"
+    ],
+    "name:spa_x_preferred":[
         "Kra\u010d\u00fanovce"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Kra\u010d\u00fanovce"
+    ],
+    "name:war_x_variant":[
+        "Rozhanovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780619,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254587,
     "wof:name":"Kra\u010d\u00fanovce",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

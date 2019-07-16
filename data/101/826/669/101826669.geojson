@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Rab\u010dice"
     ],
+    "name:eus_x_preferred":[
+        "Rab\u010dice"
+    ],
     "name:fra_x_preferred":[
         "Rab\u010dice"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Rabczyca"
     ],
+    "name:ron_x_preferred":[
+        "Rab\u010dice"
+    ],
     "name:slk_x_preferred":[
+        "Rab\u010dice"
+    ],
+    "name:spa_x_preferred":[
         "Rab\u010dice"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Rab\u010dice"
+    ],
+    "name:war_x_variant":[
+        "Breza"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101826669,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254185,
     "wof:name":"Rab\u010dice",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

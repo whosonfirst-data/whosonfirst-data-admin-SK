@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Skalit\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Skalit\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Skalit\u00e9"
     ],
@@ -55,11 +58,23 @@
     "name:pol_x_preferred":[
         "Skalit\u00e9"
     ],
+    "name:pol_x_variant":[
+        "Skalite"
+    ],
+    "name:ron_x_preferred":[
+        "Skalit\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Skalit\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Skalit\u00e9"
     ],
     "name:srp_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0438\u0442\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0456\u0442\u0435"
     ],
     "name:war_x_preferred":[
         "Skalit\u00e9"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101842001,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254181,
     "wof:name":"Skalit\u00e9",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

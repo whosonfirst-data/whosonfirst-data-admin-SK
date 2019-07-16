@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u010cierny Brod"
     ],
+    "name:eus_x_preferred":[
+        "\u010cierny Brod"
+    ],
     "name:fra_x_preferred":[
         "\u010cierny Brod"
     ],
@@ -46,20 +49,35 @@
     "name:msa_x_preferred":[
         "\u010cierny Brod"
     ],
+    "name:nan_x_preferred":[
+        "\u010cierny Brod"
+    ],
     "name:nld_x_preferred":[
+        "\u010cierny Brod"
+    ],
+    "name:ron_x_preferred":[
         "\u010cierny Brod"
     ],
     "name:slk_x_preferred":[
         "\u010cierny Brod"
     ],
+    "name:spa_x_preferred":[
+        "\u010cierny Brod"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0458\u0435\u0440\u043d\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0454\u0440\u043d\u0438 \u0411\u0440\u043e\u0434"
     ],
     "name:unk_x_variant":[
         "Vizkelet"
     ],
     "name:war_x_preferred":[
         "\u010cierny Brod"
+    ],
+    "name:war_x_variant":[
+        "Kri\u017eovany nad Dudv\u00e1hom"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":101833927,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254301,
     "wof:name":"\u010cierny Brod",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

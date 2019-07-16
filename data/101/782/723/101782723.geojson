@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Hlohovec"
     ],
+    "name:ceb_x_preferred":[
+        "Hlohovec"
+    ],
     "name:ces_x_preferred":[
         "Hlohovec"
     ],
@@ -101,6 +104,9 @@
     "name:srp_x_preferred":[
         "\u0425\u043b\u043e\u0445\u043e\u0432\u0435\u0446"
     ],
+    "name:swe_x_preferred":[
+        "Hlohovec"
+    ],
     "name:tat_x_preferred":[
         "\u04ba\u043b\u043e\u04bb\u043e\u0432\u0435\u0442\u0441"
     ],
@@ -172,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254379,
     "wof:name":"Hlohovec",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

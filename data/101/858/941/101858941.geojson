@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Alek\u0161ince"
     ],
+    "name:eus_x_preferred":[
+        "Alek\u0161ince"
+    ],
     "name:fra_x_preferred":[
         "Alek\u0161ince"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Alek\u0161ince"
     ],
+    "name:ron_x_preferred":[
+        "Alek\u0161ince"
+    ],
     "name:slk_x_preferred":[
+        "Alek\u0161ince"
+    ],
+    "name:spa_x_preferred":[
         "Alek\u0161ince"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Alek\u0161ince"
+    ],
+    "name:war_x_variant":[
+        "\u017dehra"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -117,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254292,
     "wof:name":"Alek\u0161ince",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

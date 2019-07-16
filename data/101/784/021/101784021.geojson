@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "K\u00e1tlovce"
     ],
+    "name:eus_x_preferred":[
+        "K\u00e1tlovce"
+    ],
     "name:fra_x_preferred":[
         "K\u00e1tlovce"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "K\u00e1tlovce"
     ],
+    "name:mwl_x_preferred":[
+        "K\u00e1tlovce"
+    ],
     "name:nld_x_preferred":[
         "K\u00e1tlovce"
     ],
     "name:por_x_preferred":[
         "K\u00e1tlovce"
     ],
+    "name:ron_x_preferred":[
+        "K\u00e1tlovce"
+    ],
     "name:slk_x_preferred":[
+        "K\u00e1tlovce"
+    ],
+    "name:spa_x_preferred":[
         "K\u00e1tlovce"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "K\u00e1tlovce"
+    ],
+    "name:war_x_variant":[
+        "Dechtice"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -111,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254459,
     "wof:name":"K\u00e1tlovce",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

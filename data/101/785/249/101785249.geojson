@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Golianovo"
     ],
+    "name:eus_x_preferred":[
+        "Golianovo"
+    ],
     "name:fra_x_preferred":[
         "Golianovo"
     ],
@@ -43,10 +46,19 @@
     "name:msa_x_preferred":[
         "Golianovo"
     ],
+    "name:nan_x_preferred":[
+        "Golianovo"
+    ],
     "name:nld_x_preferred":[
         "Golianovo"
     ],
+    "name:ron_x_preferred":[
+        "Golianovo"
+    ],
     "name:slk_x_preferred":[
+        "Golianovo"
+    ],
+    "name:spa_x_preferred":[
         "Golianovo"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Golianovo"
+    ],
+    "name:war_x_variant":[
+        "Klasov"
     ],
     "name:zho_min_nan_x_preferred":[
         "Golianovo"
@@ -111,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254339,
     "wof:name":"Golianovo",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

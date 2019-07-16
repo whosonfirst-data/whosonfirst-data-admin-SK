@@ -37,11 +37,15 @@
     "name:cat_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Pova\u017esk\u00e1 Bystrica"
+    ],
     "name:ces_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:ces_x_variant":[
-        "Okres Pova\u017esk\u00e1 Bystrica"
+        "Okres Pova\u017esk\u00e1 Bystrica",
+        "okres Pova\u017esk\u00e1 Bystrica"
     ],
     "name:chv_x_preferred":[
         "\u041f\u043e\u0432\u0430\u0436\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -58,14 +62,26 @@
     "name:eng_x_preferred":[
         "Povazsk\u00e1 Bystrica"
     ],
+    "name:eng_x_variant":[
+        "Pova\u017esk\u00e1 Bystrica District"
+    ],
     "name:epo_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
+    ],
+    "name:epo_x_variant":[
+        "Distrikto Pova\u017esk\u00e1 Bystrica"
     ],
     "name:est_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
+    "name:eus_x_preferred":[
+        "Pova\u017esk\u00e1 Bystricako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Pova\u017esk\u00e1 Bystrica"
+    ],
+    "name:fra_x_variant":[
+        "Pova\u017esk\u00e1 Bystrica"
     ],
     "name:hrv_x_preferred":[
         "Okrug Pova\u017esk\u00e1 Bystrica"
@@ -112,6 +128,9 @@
     "name:slk_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
     ],
+    "name:slk_x_variant":[
+        "okres Pova\u017esk\u00e1 Bystrica"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Pova\u017esk\u00e1 Bystrica"
     ],
@@ -123,6 +142,9 @@
     ],
     "name:war_x_preferred":[
         "Pova\u017esk\u00e1 Bystrica"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u8d6b\u6cb3\u7554\u6bd4\u65af\u7279\u91cc\u5bdf\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -172,7 +194,7 @@
         }
     ],
     "wof:id":102080575,
-    "wof:lastmodified":1561841676,
+    "wof:lastmodified":1563253583,
     "wof:name":"Pova\u017esk\u00e1 Bystrica",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

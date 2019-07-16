@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Poruba pod Vihorlatom"
     ],
+    "name:eus_x_preferred":[
+        "Poruba pod Vihorlatom"
+    ],
     "name:fra_x_preferred":[
         "Poruba pod Vihorlatom"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "Poruba pod Vihorlatom"
     ],
+    "name:ron_x_preferred":[
+        "Poruba pod Vihorlatom"
+    ],
     "name:slk_x_preferred":[
+        "Poruba pod Vihorlatom"
+    ],
+    "name:spa_x_preferred":[
         "Poruba pod Vihorlatom"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1126005017,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254935,
     "wof:name":"Poruba pod Vihorl\u00e1tom",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Bidovce"
     ],
+    "name:eus_x_preferred":[
+        "Bidovce"
+    ],
     "name:fra_x_preferred":[
         "Bidovce"
     ],
@@ -52,14 +55,26 @@
     "name:pol_x_preferred":[
         "Bidovce"
     ],
+    "name:ron_x_preferred":[
+        "Bidovce"
+    ],
     "name:slk_x_preferred":[
+        "Bidovce"
+    ],
+    "name:spa_x_preferred":[
         "Bidovce"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u0434\u043e\u0432\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0434\u043e\u0432\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "Bidovce"
+    ],
+    "name:war_x_variant":[
+        "Horn\u00e9 Srnie"
     ],
     "name:zho_min_nan_x_preferred":[
         "Bidovce"
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":101843879,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254240,
     "wof:name":"Bidovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

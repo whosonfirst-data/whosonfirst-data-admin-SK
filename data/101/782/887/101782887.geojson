@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
+    "name:eus_x_preferred":[
+        "Gemersk\u00e1 Poloma"
+    ],
     "name:fra_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
@@ -52,14 +55,26 @@
     "name:pol_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
+    "name:ron_x_preferred":[
+        "Gemersk\u00e1 Poloma"
+    ],
     "name:slk_x_preferred":[
+        "Gemersk\u00e1 Poloma"
+    ],
+    "name:spa_x_preferred":[
         "Gemersk\u00e1 Poloma"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0435\u043c\u0435\u0440\u0441\u043a\u0430 \u041f\u043e\u043b\u043e\u043c\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u043c\u0435\u0440\u0441\u043a\u0430 \u041f\u043e\u043b\u043e\u043c\u0430"
+    ],
     "name:war_x_preferred":[
         "Gemersk\u00e1 Poloma"
+    ],
+    "name:war_x_variant":[
+        "\u0160t\u00edtnik"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":101782887,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254361,
     "wof:name":"Gemersk\u00e1 Poloma",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

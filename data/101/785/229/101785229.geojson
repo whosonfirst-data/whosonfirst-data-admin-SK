@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u010cechynce"
     ],
+    "name:eus_x_preferred":[
+        "\u010cechynce"
+    ],
     "name:fra_x_preferred":[
         "\u010cechynce"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "\u010cechynce"
     ],
+    "name:nan_x_preferred":[
+        "\u010cechynce"
+    ],
     "name:nld_x_preferred":[
         "\u010cechynce"
     ],
+    "name:ron_x_preferred":[
+        "\u010cechynce"
+    ],
     "name:slk_x_preferred":[
+        "\u010cechynce"
+    ],
+    "name:spa_x_preferred":[
         "\u010cechynce"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "\u010cechynce"
+    ],
+    "name:war_x_variant":[
+        "Tr\u00e1vnica"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -114,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254318,
     "wof:name":"\u010cechynce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

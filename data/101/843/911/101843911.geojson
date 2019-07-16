@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u013dube\u013ea"
     ],
+    "name:eus_x_preferred":[
+        "\u013dube\u013ea"
+    ],
     "name:fra_x_preferred":[
         "\u013dube\u013ea"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "\u013dube\u013ea"
     ],
+    "name:nan_x_preferred":[
+        "\u013dube\u013ea"
+    ],
     "name:nld_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:pol_x_preferred":[
         "\u013dube\u013ea"
     ],
+    "name:ron_x_preferred":[
+        "\u013dube\u013ea"
+    ],
     "name:slk_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:spa_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "\u013dube\u013ea"
+    ],
+    "name:war_x_variant":[
+        "Moravany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101843911,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254251,
     "wof:name":"\u013dube\u013ea",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

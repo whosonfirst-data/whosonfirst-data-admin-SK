@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1166503.171959,
+    "geom:area_square_m":1166503.171958,
     "geom:bbox":"19.2478055935,48.5586342689,19.2728579597,48.5688913455",
     "geom:latitude":48.563536,
     "geom:longitude":19.259316,
@@ -25,7 +25,13 @@
     "name:deu_x_preferred":[
         "Zvolensk\u00e1 Slatina"
     ],
+    "name:eng_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
     "name:epo_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:eus_x_preferred":[
         "Zvolensk\u00e1 Slatina"
     ],
     "name:fra_x_preferred":[
@@ -34,16 +40,43 @@
     "name:hun_x_preferred":[
         "Nagyszalatna"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u057e\u0578\u056c\u0565\u0576\u057d\u056f\u0561 \u054d\u056c\u0561\u057f\u056b\u0576\u0561"
+    ],
     "name:ita_x_preferred":[
         "Zvolensk\u00e1 Slatina"
     ],
     "name:msa_x_preferred":[
         "Zvolensk\u00e1 Slatina"
     ],
+    "name:nan_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
     "name:nld_x_preferred":[
         "Zvolensk\u00e1 Slatina"
     ],
     "name:pol_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:ron_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u043e\u043b\u0435\u043d\u0441\u043a\u0430-\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:spa_x_preferred":[
+        "Zvolensk\u00e1 Slatina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u043e\u0459\u0435\u043d\u0441\u043a\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0432\u043e\u043b\u0435\u043d\u0441\u043a\u0430 \u0421\u043b\u0430\u0442\u0456\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
         "Zvolensk\u00e1 Slatina"
     ],
     "qs:a0":"Slovensko",
@@ -93,7 +126,7 @@
         }
     ],
     "wof:id":101784103,
-    "wof:lastmodified":1527688536,
+    "wof:lastmodified":1563254429,
     "wof:name":"Zvolensk\u00e1 Slatina",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

@@ -28,8 +28,14 @@
     "name:epo_x_preferred":[
         "Kajal"
     ],
+    "name:eus_x_preferred":[
+        "Kajal"
+    ],
     "name:fra_x_preferred":[
         "Kajal"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u091c\u0932"
     ],
     "name:hun_x_preferred":[
         "Nemeskajal"
@@ -43,14 +49,29 @@
     "name:nld_x_preferred":[
         "Kajal"
     ],
+    "name:ron_x_preferred":[
+        "Kajal"
+    ],
     "name:slk_x_preferred":[
+        "Kajal"
+    ],
+    "name:spa_x_preferred":[
         "Kajal"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0458\u0430\u043b"
     ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c1c\u0c32\u0c4d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0439\u0430\u043b"
+    ],
     "name:war_x_preferred":[
         "Kajal"
+    ],
+    "name:war_x_variant":[
+        "\u0160u\u0148ava"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -97,7 +118,7 @@
         }
     ],
     "wof:id":101843731,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254203,
     "wof:name":"Kajal",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

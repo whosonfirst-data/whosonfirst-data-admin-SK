@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Uli\u010d"
     ],
+    "name:eus_x_preferred":[
+        "Uli\u010d"
+    ],
     "name:fra_x_preferred":[
         "Uli\u010d"
     ],
@@ -50,6 +53,9 @@
         "Uli\u010d"
     ],
     "name:pol_x_preferred":[
+        "Uli\u010d"
+    ],
+    "name:ron_x_preferred":[
         "Uli\u010d"
     ],
     "name:rue_x_preferred":[
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101780535,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254577,
     "wof:name":"Uli\u010d",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

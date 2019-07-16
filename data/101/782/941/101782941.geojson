@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Smoln\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Smoln\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Smoln\u00edk"
     ],
@@ -58,8 +61,14 @@
     "name:slk_x_preferred":[
         "Smoln\u00edk"
     ],
+    "name:spa_x_preferred":[
+        "Smoln\u00edk"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u043c\u043e\u043b\u045a\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u043d\u0438\u043a"
     ],
     "name:unk_x_variant":[
         "Schm\u00f6llnitz"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101782941,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254374,
     "wof:name":"Smoln\u00edk",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

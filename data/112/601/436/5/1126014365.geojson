@@ -24,10 +24,16 @@
     "name:ces_x_preferred":[
         "Jovsa"
     ],
+    "name:deu_x_preferred":[
+        "Jovsa"
+    ],
     "name:eng_x_preferred":[
         "Jovsa"
     ],
     "name:epo_x_preferred":[
+        "Jovsa"
+    ],
+    "name:eus_x_preferred":[
         "Jovsa"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +54,16 @@
     "name:pol_x_preferred":[
         "Jovsa"
     ],
+    "name:ron_x_preferred":[
+        "Jovsa"
+    ],
     "name:slk_x_preferred":[
+        "Jovsa"
+    ],
+    "name:slk_x_variant":[
+        "Milochov"
+    ],
+    "name:spa_x_preferred":[
         "Jovsa"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1126014365,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254922,
     "wof:name":"Jovsa",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

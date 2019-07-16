@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Ohrady"
     ],
+    "name:eus_x_preferred":[
+        "Ohrady"
+    ],
     "name:fra_x_preferred":[
         "Ohrady"
     ],
@@ -52,17 +55,29 @@
     "name:por_x_preferred":[
         "Ohrady"
     ],
+    "name:ron_x_preferred":[
+        "Ohrady"
+    ],
     "name:slk_x_preferred":[
+        "Ohrady"
+    ],
+    "name:spa_x_preferred":[
         "Ohrady"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0445\u0440\u0430\u0434\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u0440\u0430\u0434\u0438"
     ],
     "name:unk_x_variant":[
         "Ker\u0165 na Ostrove"
     ],
     "name:war_x_preferred":[
         "Ohrady"
+    ],
+    "name:war_x_variant":[
+        "\u0160ari\u0161sk\u00e9 Dravce"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ohrady"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":101780203,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254601,
     "wof:name":"Ohrady",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

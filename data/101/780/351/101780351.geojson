@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Bobrovec"
     ],
+    "name:eus_x_preferred":[
+        "Bobrovec"
+    ],
     "name:fra_x_preferred":[
         "Bobrovec"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Bobrowiec"
     ],
+    "name:ron_x_preferred":[
+        "Bobrovec"
+    ],
     "name:slk_x_preferred":[
+        "Bobrovec"
+    ],
+    "name:spa_x_preferred":[
         "Bobrovec"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Bobrovec"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u666e\u6258\u592b\u65af\u57fa\u7c73\u5eab\u62c9\u4ec0"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101780351,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254634,
     "wof:name":"Bobrovec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

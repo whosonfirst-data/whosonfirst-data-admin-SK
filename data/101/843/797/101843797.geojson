@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Detva"
     ],
+    "name:ceb_x_preferred":[
+        "Detva"
+    ],
     "name:ces_x_preferred":[
         "Detva"
     ],
@@ -36,6 +39,9 @@
         "Detva"
     ],
     "name:epo_x_preferred":[
+        "Detva"
+    ],
+    "name:eus_x_preferred":[
         "Detva"
     ],
     "name:fas_x_preferred":[
@@ -97,6 +103,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0414\u0435\u0442\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Detva"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0442\u0432\u0430"
@@ -166,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254195,
     "wof:name":"Detva",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

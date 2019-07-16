@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Dubovica"
     ],
+    "name:eus_x_preferred":[
+        "Dubovica"
+    ],
     "name:fra_x_preferred":[
         "Dubovica"
     ],
@@ -56,6 +59,9 @@
         "Dubovica"
     ],
     "name:por_x_preferred":[
+        "Dubovica"
+    ],
+    "name:ron_x_preferred":[
         "Dubovica"
     ],
     "name:slk_x_preferred":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":101780485,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254581,
     "wof:name":"Dubovica",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

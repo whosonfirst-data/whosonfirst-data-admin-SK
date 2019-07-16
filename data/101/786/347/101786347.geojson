@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Lipov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Lipov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Lipov\u00e1"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:hun_x_preferred":[
         "Lipov\u00e1"
+    ],
+    "name:hun_x_variant":[
+        "Nyitramalomszeg"
     ],
     "name:ita_x_preferred":[
         "Lipov\u00e1"
@@ -67,7 +73,13 @@
     "name:ron_x_preferred":[
         "Lipova"
     ],
+    "name:ron_x_variant":[
+        "Lipov\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Lipov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":101786347,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254533,
     "wof:name":"Lipov\u00e1",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

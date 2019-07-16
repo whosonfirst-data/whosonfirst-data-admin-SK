@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "K\u013ea\u010dno"
     ],
+    "name:eus_x_preferred":[
+        "K\u013ea\u010dno"
+    ],
     "name:fra_x_preferred":[
         "K\u013ea\u010dno"
     ],
@@ -50,7 +53,13 @@
     "name:nld_x_preferred":[
         "K\u013ea\u010dno"
     ],
+    "name:ron_x_preferred":[
+        "K\u013ea\u010dno"
+    ],
     "name:slk_x_preferred":[
+        "K\u013ea\u010dno"
+    ],
+    "name:spa_x_preferred":[
         "K\u013ea\u010dno"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":101781635,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254489,
     "wof:name":"K\u013ea\u010dno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

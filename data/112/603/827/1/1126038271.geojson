@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Bukov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Bukov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Bukov\u00e1"
     ],
@@ -54,7 +57,13 @@
     "name:por_x_preferred":[
         "Bukov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Bukov\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Bukov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Bukov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -65,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Bukov\u00e1"
+    ],
+    "name:war_x_variant":[
+        "Mal\u00e1 Paka"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1126038271,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254808,
     "wof:name":"Bukov\u00e1",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

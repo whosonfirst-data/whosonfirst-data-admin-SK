@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Sobrance"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Sobrance"
+    ],
     "name:ces_x_preferred":[
         "Okres Sobrance"
+    ],
+    "name:ces_x_variant":[
+        "okres Sobrance"
     ],
     "name:deu_x_preferred":[
         "Okres Sobrance"
@@ -34,11 +40,20 @@
     "name:eng_x_preferred":[
         "Sobrance"
     ],
+    "name:eng_x_variant":[
+        "Sobrance District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Sobrance"
     ],
+    "name:eus_x_preferred":[
+        "Sobranceko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Sobrance"
+    ],
+    "name:fra_x_variant":[
+        "Sobrance"
     ],
     "name:hrv_x_preferred":[
         "Okrug Sobrance"
@@ -91,6 +106,9 @@
     "name:slk_x_preferred":[
         "Sobrance"
     ],
+    "name:slk_x_variant":[
+        "okres Sobrance"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Sobrance"
     ],
@@ -100,8 +118,14 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u0440\u0430\u043d\u0446\u0456"
     ],
+    "name:vie_x_preferred":[
+        "Sobrance"
+    ],
     "name:war_x_preferred":[
         "Sobrance"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u5e03\u862d\u91c7\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +175,7 @@
         }
     ],
     "wof:id":102080571,
-    "wof:lastmodified":1561841678,
+    "wof:lastmodified":1563253610,
     "wof:name":"Sobrance",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

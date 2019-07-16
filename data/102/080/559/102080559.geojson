@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Gelnica"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Gelnica"
+    ],
     "name:ces_x_preferred":[
         "Okres Gelnica"
+    ],
+    "name:ces_x_variant":[
+        "okres Gelnica"
     ],
     "name:deu_x_preferred":[
         "Okres Gelnica"
@@ -34,11 +40,23 @@
     "name:eng_x_preferred":[
         "Gelnica"
     ],
+    "name:eng_x_variant":[
+        "Gelnica District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Gelnica"
     ],
+    "name:eus_x_preferred":[
+        "Gelnicako barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06af\u0644\u0646\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "District de Gelnica"
+    ],
+    "name:fra_x_variant":[
+        "Gelnica"
     ],
     "name:hrv_x_preferred":[
         "Okrug Gelnica"
@@ -91,6 +109,9 @@
     "name:slk_x_preferred":[
         "Gelnica"
     ],
+    "name:slk_x_variant":[
+        "okres Gelnica"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Gelnica"
     ],
@@ -100,8 +121,17 @@
     "name:ukr_x_preferred":[
         "\u0490\u0435\u043b\u043d\u0456\u0446\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0490\u0435\u043b\u043d\u0438\u0446\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Gelnica"
+    ],
     "name:war_x_preferred":[
         "Gelnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u723e\u5c3c\u5bdf\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +181,7 @@
         }
     ],
     "wof:id":102080559,
-    "wof:lastmodified":1561841674,
+    "wof:lastmodified":1563253563,
     "wof:name":"Gelnica",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

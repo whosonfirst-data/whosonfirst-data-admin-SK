@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u0160irok\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "\u0160irok\u00e9"
+    ],
     "name:fra_x_preferred":[
         "\u0160irok\u00e9"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "\u0160irok\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "\u0160irok\u00e9"
+    ],
     "name:rue_x_preferred":[
         "\u0428\u0456\u0440\u043e\u043a\u0435"
     ],
     "name:slk_x_preferred":[
         "\u0160irok\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "\u0160irok\u00e9"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0438\u0440\u043e\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u0440\u043e\u043a\u0435"
     ],
     "name:und_x_preferred":[
         "Siroke"
@@ -114,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254668,
     "wof:name":"\u0160irok\u00e9",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

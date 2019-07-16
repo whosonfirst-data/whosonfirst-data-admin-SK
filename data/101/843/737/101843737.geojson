@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Do\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "Do\u013eany"
+    ],
     "name:fra_x_preferred":[
         "Do\u013eany"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Do\u013eany"
     ],
+    "name:nan_x_preferred":[
+        "Do\u013eany"
+    ],
     "name:nld_x_preferred":[
         "Do\u013eany"
     ],
     "name:por_x_preferred":[
         "Do\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "Do\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "Do\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "Do\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Do\u013eany"
+    ],
+    "name:war_x_variant":[
+        "H\u00f4rka"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":101843737,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254200,
     "wof:name":"Do\u013eany",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Pav\u010dina Lehota"
     ],
+    "name:eus_x_preferred":[
+        "Pav\u010dina Lehota"
+    ],
     "name:fra_x_preferred":[
         "Pav\u010dina Lehota"
     ],
@@ -51,7 +54,13 @@
     "name:pol_x_preferred":[
         "Pav\u010dina Lehota"
     ],
+    "name:ron_x_preferred":[
+        "Pav\u010dina Lehota"
+    ],
     "name:slk_x_preferred":[
+        "Pav\u010dina Lehota"
+    ],
+    "name:spa_x_preferred":[
         "Pav\u010dina Lehota"
     ],
     "name:srp_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Pav\u010dina Lehota"
+    ],
+    "name:war_x_variant":[
+        "Revi\u0161tsk\u00e9 Podz\u00e1m\u010die"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1125861009,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254822,
     "wof:name":"Pav\u010dina Lehota",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

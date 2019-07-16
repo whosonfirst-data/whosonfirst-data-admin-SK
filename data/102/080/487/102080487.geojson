@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Malacky"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Malacky"
+    ],
     "name:ces_x_preferred":[
         "Okres Malacky"
+    ],
+    "name:ces_x_variant":[
+        "okres Malacky"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,11 +46,20 @@
     "name:eng_x_preferred":[
         "Malacky"
     ],
+    "name:eng_x_variant":[
+        "Malacky District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Malacky"
     ],
+    "name:eus_x_preferred":[
+        "Malackyko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Malacky"
+    ],
+    "name:fra_x_variant":[
+        "Malacky"
     ],
     "name:hrv_x_preferred":[
         "Okrug Malacky"
@@ -94,11 +109,17 @@
     "name:slk_x_preferred":[
         "Malacky"
     ],
+    "name:slk_x_variant":[
+        "okres Malacky"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Malacky"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u041c\u0430\u043b\u0430\u0446\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
     "name:war_x_preferred":[
         "Malacky"
@@ -154,7 +175,7 @@
         }
     ],
     "wof:id":102080487,
-    "wof:lastmodified":1561841677,
+    "wof:lastmodified":1563253602,
     "wof:name":"Malacky",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

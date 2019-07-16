@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
+    "name:eus_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
     "name:fra_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
     "name:slk_x_preferred":[
+        "Nov\u00e1 Dedinka"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Nov\u00e1 Dedinka"
+    ],
+    "name:war_x_variant":[
+        "Lehnice"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101786375,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254550,
     "wof:name":"Nov\u00e1 Dedinka",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

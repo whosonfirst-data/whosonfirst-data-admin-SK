@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
+    "name:ceb_x_preferred":[
+        "Nov\u00e1 Bystrica"
+    ],
     "name:ces_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
@@ -29,6 +32,9 @@
         "Nov\u00e1 Bystrica"
     ],
     "name:epo_x_preferred":[
+        "Nov\u00e1 Bystrica"
+    ],
+    "name:eus_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
     "name:fra_x_preferred":[
@@ -52,11 +58,20 @@
     "name:pol_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1 Bystrica"
+    ],
     "name:slk_x_preferred":[
+        "Nov\u00e1 Bystrica"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00e1 Bystrica"
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0411\u0438\u0441\u0442\u0440\u0456\u0446\u0430"
     ],
     "name:war_x_preferred":[
         "Nov\u00e1 Bystrica"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":101781817,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254484,
     "wof:name":"Nov\u00e1 Bystrica",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Horn\u00e9 Saliby"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Saliby"
+    ],
     "name:fra_x_preferred":[
         "Horn\u00e9 Saliby"
     ],
@@ -49,14 +52,26 @@
     "name:msa_x_preferred":[
         "Horn\u00e9 Saliby"
     ],
+    "name:nan_x_preferred":[
+        "Horn\u00e9 Saliby"
+    ],
     "name:nld_x_preferred":[
+        "Horn\u00e9 Saliby"
+    ],
+    "name:ron_x_preferred":[
         "Horn\u00e9 Saliby"
     ],
     "name:slk_x_preferred":[
         "Horn\u00e9 Saliby"
     ],
+    "name:spa_x_preferred":[
+        "Horn\u00e9 Saliby"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u045a\u0435 \u0421\u0430\u043b\u0438\u0431\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0435 \u0421\u0430\u043b\u0456\u0431\u0438"
     ],
     "name:unk_x_variant":[
         "Hornie Saliby"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101786407,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254527,
     "wof:name":"Horn\u00e9 Saliby",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

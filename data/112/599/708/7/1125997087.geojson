@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Obor\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Obor\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Obor\u00edn"
     ],
@@ -54,10 +57,16 @@
     "name:pol_x_preferred":[
         "Obor\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Obor\u00edn"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u0431\u043e\u0440\u0456\u043d"
     ],
     "name:slk_x_preferred":[
+        "Obor\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Obor\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125997087,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254880,
     "wof:name":"Obor\u00edn",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

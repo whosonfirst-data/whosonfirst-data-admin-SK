@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Roho\u017en\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Roho\u017en\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Roho\u017en\u00edk"
     ],
@@ -51,7 +54,13 @@
     "name:pol_x_preferred":[
         "Roho\u017en\u00edk"
     ],
+    "name:ron_x_preferred":[
+        "Roho\u017en\u00edk"
+    ],
     "name:slk_x_preferred":[
+        "Roho\u017en\u00edk"
+    ],
+    "name:spa_x_preferred":[
         "Roho\u017en\u00edk"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Roho\u017en\u00edk"
+    ],
+    "name:war_x_variant":[
+        "Hubice"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125891361,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254852,
     "wof:name":"Roho\u017en\u00edk",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

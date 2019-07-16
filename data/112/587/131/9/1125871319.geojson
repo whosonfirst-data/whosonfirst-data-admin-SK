@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "He\u013epa"
     ],
+    "name:eus_x_preferred":[
+        "He\u013epa"
+    ],
     "name:fra_x_preferred":[
         "He\u013epa"
     ],
@@ -45,13 +48,25 @@
     "name:msa_x_preferred":[
         "He\u013epa"
     ],
+    "name:nan_x_preferred":[
+        "He\u013epa"
+    ],
     "name:nld_x_preferred":[
         "He\u013epa"
     ],
     "name:pol_x_preferred":[
         "He\u013epa"
     ],
+    "name:ron_x_preferred":[
+        "He\u013epa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u044c\u043f\u0430"
+    ],
     "name:slk_x_preferred":[
+        "He\u013epa"
+    ],
+    "name:spa_x_preferred":[
         "He\u013epa"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":1125871319,
-    "wof:lastmodified":1561841724,
+    "wof:lastmodified":1563254865,
     "wof:name":"Hel\u0315pa",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

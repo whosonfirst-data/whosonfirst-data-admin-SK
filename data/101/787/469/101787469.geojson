@@ -49,14 +49,26 @@
     "name:pol_x_preferred":[
         "Kameni\u010dn\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Kameni\u010dn\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Kameni\u010dn\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Kameni\u010dn\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0435\u045a\u0438\u0447\u043d\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0456\u0447\u043d\u0430"
+    ],
     "name:war_x_preferred":[
         "Kameni\u010dn\u00e1"
+    ],
+    "name:war_x_variant":[
+        "Sv\u00e4t\u00fd Peter"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":101787469,
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254563,
     "wof:name":"Kameni\u010dn\u00e1",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

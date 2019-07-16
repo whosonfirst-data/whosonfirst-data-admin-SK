@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Jurov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Jurov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Jurov\u00e1"
     ],
@@ -48,17 +51,29 @@
     "name:por_x_preferred":[
         "Jurov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Jurov\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Jurov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Jurov\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0443\u0440\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0440\u043e\u0432\u0430"
     ],
     "name:unk_x_variant":[
         "Dercsika"
     ],
     "name:war_x_preferred":[
         "Jurov\u00e1"
+    ],
+    "name:war_x_variant":[
+        "Ivanovce"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125774247,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254982,
     "wof:name":"Jurov\u00e1",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

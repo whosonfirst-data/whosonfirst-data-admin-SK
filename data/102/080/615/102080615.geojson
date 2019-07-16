@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de N\u00e1mestovo"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Namestovo"
+    ],
     "name:ces_x_preferred":[
         "Okres N\u00e1mestovo"
+    ],
+    "name:ces_x_variant":[
+        "okres N\u00e1mestovo"
     ],
     "name:chv_x_preferred":[
         "\u041d\u0430\u043c\u0435\u0441\u0442\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "N\u00e1mestovo"
     ],
+    "name:eng_x_variant":[
+        "N\u00e1mestovo District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto N\u00e1mestovo"
     ],
+    "name:eus_x_preferred":[
+        "N\u00e1mestovoko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de N\u00e1mestovo"
+    ],
+    "name:fra_x_variant":[
+        "N\u00e1mestovo"
     ],
     "name:hrv_x_preferred":[
         "Okrug N\u00e1mestovo"
@@ -88,6 +103,9 @@
     "name:slk_x_preferred":[
         "N\u00e1mestovo"
     ],
+    "name:slk_x_variant":[
+        "okres N\u00e1mestovo"
+    ],
     "name:spa_x_preferred":[
         "Distrito de N\u00e1mestovo"
     ],
@@ -99,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "N\u00e1mestovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u6885\u65af\u6258\u6c83\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -149,7 +170,7 @@
         }
     ],
     "wof:id":102080615,
-    "wof:lastmodified":1561841677,
+    "wof:lastmodified":1563253602,
     "wof:name":"N\u00e1mestovo",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

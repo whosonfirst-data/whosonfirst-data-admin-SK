@@ -30,11 +30,17 @@
     "name:epo_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
+    "name:eus_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
     "name:fra_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
     "name:hun_x_preferred":[
         "Honttesz\u00e9r"
+    ],
+    "name:hun_x_variant":[
+        "Tesz\u00e9r"
     ],
     "name:ita_x_preferred":[
         "Hontianske Tes\u00e1re"
@@ -51,20 +57,32 @@
     "name:pol_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
+    "name:ron_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043d\u0442\u044c\u044f\u043d\u0441\u043a\u0435 \u0422\u0435\u0441\u0430\u0440\u0435"
     ],
     "name:slk_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
+    "name:spa_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043d\u0442\u0458\u0430\u043d\u0441\u043a\u0435 \u0422\u0458\u0435\u0441\u0430\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043d\u0442\u044c\u044f\u043d\u0441\u044c\u043a\u0435 \u0422\u0435\u0441\u0430\u0440\u0435"
     ],
     "name:unk_x_variant":[
         "Hontianske Tes\u00e1ry"
     ],
     "name:war_x_preferred":[
         "Hontianske Tes\u00e1re"
+    ],
+    "name:war_x_variant":[
+        "H\u00f4rka nad V\u00e1hom"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":1125823267,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254951,
     "wof:name":"Hontianske Tes\u00e1re",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

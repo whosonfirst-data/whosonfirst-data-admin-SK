@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Polt\u00e1r"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Polt\u00e1r"
+    ],
     "name:ces_x_preferred":[
         "Okres Polt\u00e1r"
+    ],
+    "name:ces_x_variant":[
+        "okres Polt\u00e1r"
     ],
     "name:chv_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Polt\u00e1r"
     ],
+    "name:eng_x_variant":[
+        "Polt\u00e1r District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Polt\u00e1r"
     ],
+    "name:eus_x_preferred":[
+        "Polt\u00e1rko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Polt\u00e1r"
+    ],
+    "name:fra_x_variant":[
+        "Polt\u00e1r"
     ],
     "name:hrv_x_preferred":[
         "Okrug Polt\u00e1r"
@@ -88,6 +103,9 @@
     "name:slk_x_preferred":[
         "Polt\u00e1r"
     ],
+    "name:slk_x_variant":[
+        "okres Polt\u00e1r"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Polt\u00e1r"
     ],
@@ -97,8 +115,14 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440"
     ],
+    "name:vie_x_preferred":[
+        "Polt\u00e1r"
+    ],
     "name:war_x_preferred":[
         "Polt\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u5854\u723e\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -149,7 +173,7 @@
         }
     ],
     "wof:id":102080513,
-    "wof:lastmodified":1561841678,
+    "wof:lastmodified":1563253611,
     "wof:name":"Polt\u00e1r",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

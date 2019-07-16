@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Makov"
     ],
+    "name:eus_x_preferred":[
+        "Makov"
+    ],
     "name:fra_x_preferred":[
         "Makov"
     ],
@@ -46,16 +49,28 @@
     "name:msa_x_preferred":[
         "Makov"
     ],
+    "name:nan_x_preferred":[
+        "Makov"
+    ],
     "name:nld_x_preferred":[
         "Makov"
     ],
     "name:pol_x_preferred":[
         "Makov"
     ],
+    "name:ron_x_preferred":[
+        "Makov"
+    ],
     "name:slk_x_preferred":[
         "Makov"
     ],
+    "name:spa_x_preferred":[
+        "Makov"
+    ],
     "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u043e\u0432"
     ],
     "name:war_x_preferred":[
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101843969,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254236,
     "wof:name":"Makov",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

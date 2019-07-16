@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zempl\u00ednske H\u00e1mre"
     ],
+    "name:eus_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
     "name:fra_x_preferred":[
         "Zempl\u00ednske H\u00e1mre"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Zempl\u00ednske H\u00e1mre"
     ],
+    "name:ron_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
     "name:slk_x_preferred":[
+        "Zempl\u00ednske H\u00e1mre"
+    ],
+    "name:spa_x_preferred":[
         "Zempl\u00ednske H\u00e1mre"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":101780537,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254625,
     "wof:name":"Zempl\u00ednske H\u00e1mre",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

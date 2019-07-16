@@ -44,7 +44,8 @@
         "Nov\u00e9 Z\u00e1mky"
     ],
     "name:ces_x_variant":[
-        "Okres Nov\u00e9 Z\u00e1mky"
+        "Okres Nov\u00e9 Z\u00e1mky",
+        "okres Nov\u00e9 Z\u00e1mky"
     ],
     "name:dan_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
@@ -58,11 +59,23 @@
     "name:eng_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
     ],
+    "name:eng_x_variant":[
+        "Nov\u00e9 Z\u00e1mky District"
+    ],
     "name:epo_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
     ],
+    "name:epo_x_variant":[
+        "Distrikto Nov\u00e9 Z\u00e1mky"
+    ],
+    "name:eus_x_preferred":[
+        "Nov\u00e9 Z\u00e1mkyko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Nov\u00e9 Z\u00e1mky"
+    ],
+    "name:fra_x_variant":[
+        "Nov\u00e9 Z\u00e1mky"
     ],
     "name:hrv_x_preferred":[
         "Okrug Nov\u00e9 Z\u00e1mky"
@@ -106,6 +119,9 @@
     "name:slk_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
     ],
+    "name:slk_x_variant":[
+        "okres Nov\u00e9 Z\u00e1mky"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Nov\u00e9 Z\u00e1mky"
     ],
@@ -117,6 +133,9 @@
     ],
     "name:war_x_preferred":[
         "Nov\u00e9 Z\u00e1mky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u624e\u59c6\u57fa\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -166,7 +185,7 @@
         }
     ],
     "wof:id":102080463,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253576,
     "wof:name":"Nov\u00e9 Z\u00e1mky",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

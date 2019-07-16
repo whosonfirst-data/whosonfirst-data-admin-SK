@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Dolinka"
     ],
+    "name:eus_x_preferred":[
+        "Dolinka"
+    ],
     "name:fra_x_preferred":[
         "Dolinka"
     ],
@@ -39,17 +42,29 @@
     "name:msa_x_preferred":[
         "Dolinka"
     ],
+    "name:nan_x_preferred":[
+        "Dolinka"
+    ],
     "name:nld_x_preferred":[
         "Dolinka"
     ],
     "name:pol_x_preferred":[
         "Dolinka"
     ],
+    "name:ron_x_preferred":[
+        "Dolinka"
+    ],
     "name:slk_x_preferred":[
+        "Dolinka"
+    ],
+    "name:spa_x_preferred":[
         "Dolinka"
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u043d\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "In\u00e1m"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":1126004743,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254938,
     "wof:name":"Dolinka",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Mal\u00fd Hore\u0161"
     ],
+    "name:eus_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
     "name:fra_x_preferred":[
         "Mal\u00fd Hore\u0161"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "Mal\u00fd Hore\u0161"
     ],
+    "name:ron_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u0430\u043b\u0456 \u0413\u043e\u0440\u0435\u0448"
     ],
     "name:slk_x_preferred":[
         "Mal\u00fd Hore\u0161"
     ],
+    "name:spa_x_preferred":[
+        "Mal\u00fd Hore\u0161"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0425\u043e\u0440\u0435\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0413\u043e\u0440\u0435\u0448"
     ],
     "name:unk_x_variant":[
         "Mal\u00fd G\u00fdre\u0161"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101782877,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254392,
     "wof:name":"Mal\u00fd Hore\u0161",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

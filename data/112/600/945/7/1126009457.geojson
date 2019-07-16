@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Slovensk\u00e9 Nov\u00e9 Mesto"
     ],
+    "name:eus_x_preferred":[
+        "Slovensk\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:fra_x_preferred":[
         "Slovensk\u00e9 Nov\u00e9 Mesto"
     ],
@@ -54,10 +57,16 @@
     "name:pol_x_preferred":[
         "Slovensk\u00e9 Nov\u00e9 Mesto"
     ],
+    "name:ron_x_preferred":[
+        "Slovensk\u00e9 Nov\u00e9 Mesto"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0435 \u041d\u043e\u0432\u0435 \u041c\u0435\u0441\u0442\u043e"
     ],
     "name:slk_x_preferred":[
+        "Slovensk\u00e9 Nov\u00e9 Mesto"
+    ],
+    "name:spa_x_preferred":[
         "Slovensk\u00e9 Nov\u00e9 Mesto"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1126009457,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254940,
     "wof:name":"Slovensk\u00e9 Nov\u00e9 Mesto",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

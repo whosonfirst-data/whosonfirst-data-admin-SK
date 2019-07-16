@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Povina"
     ],
+    "name:eus_x_preferred":[
+        "Povina"
+    ],
     "name:fra_x_preferred":[
         "Povina"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Povina"
     ],
+    "name:nan_x_preferred":[
+        "Povina"
+    ],
     "name:nld_x_preferred":[
         "Povina"
     ],
     "name:pol_x_preferred":[
         "Povina"
     ],
+    "name:ron_x_preferred":[
+        "Povina"
+    ],
     "name:slk_x_preferred":[
+        "Povina"
+    ],
+    "name:spa_x_preferred":[
         "Povina"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Povina"
+    ],
+    "name:war_x_variant":[
+        "Divina"
     ],
     "name:zho_min_nan_x_preferred":[
         "Povina"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":101860167,
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254284,
     "wof:name":"Povina",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

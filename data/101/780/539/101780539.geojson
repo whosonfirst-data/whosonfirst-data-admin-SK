@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Snina"
     ],
+    "name:ceb_x_preferred":[
+        "Snina"
+    ],
     "name:ces_x_preferred":[
         "Snina"
     ],
@@ -42,6 +45,9 @@
         "Snina"
     ],
     "name:epo_x_preferred":[
+        "Snina"
+    ],
+    "name:eus_x_preferred":[
         "Snina"
     ],
     "name:fas_x_preferred":[
@@ -101,14 +107,26 @@
     "name:slk_x_preferred":[
         "Snina"
     ],
+    "name:spa_x_preferred":[
+        "Snina"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u045a\u0438\u043d\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043d\u0438\u043d\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0421\u043d\u0438\u043d\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Snina"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043d\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043d\u0456\u043d\u0430"
     ],
     "name:und_x_preferred":[
         "Snina"
@@ -170,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254627,
     "wof:name":"Snina",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

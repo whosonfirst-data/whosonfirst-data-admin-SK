@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ni\u017en\u00e1 Slan\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00e1 Slan\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Ni\u017en\u00e1 Slan\u00e1"
     ],
@@ -52,17 +55,29 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00e1 Slan\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00e1 Slan\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Ni\u017en\u00e1 Slan\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Ni\u017en\u00e1 Slan\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0436\u043d\u0430 \u0421\u043b\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0421\u043b\u0430\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Ni\u017enia Slan\u00e1"
     ],
     "name:war_x_preferred":[
         "Ni\u017en\u00e1 Slan\u00e1"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d0\u05de\u05d0\u05d8\u05d0\u05e8"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101782885,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254395,
     "wof:name":"Ni\u017en\u00e1 Slan\u00e1",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

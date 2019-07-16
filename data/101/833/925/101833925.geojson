@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Neded"
     ],
+    "name:ces_x_preferred":[
+        "Neded"
+    ],
     "name:deu_x_preferred":[
         "Neded"
     ],
@@ -29,6 +32,9 @@
         "Neded"
     ],
     "name:epo_x_preferred":[
+        "Neded"
+    ],
+    "name:eus_x_preferred":[
         "Neded"
     ],
     "name:fra_x_preferred":[
@@ -52,7 +58,13 @@
     "name:nld_x_preferred":[
         "Neded"
     ],
+    "name:ron_x_preferred":[
+        "Neded"
+    ],
     "name:slk_x_preferred":[
+        "Neded"
+    ],
+    "name:spa_x_preferred":[
         "Neded"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Neded"
+    ],
+    "name:war_x_variant":[
+        "Vl\u010dany"
     ],
     "name:zho_min_nan_x_preferred":[
         "Neded"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101833925,
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254300,
     "wof:name":"Neded",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

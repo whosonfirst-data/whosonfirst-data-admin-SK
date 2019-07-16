@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Gajary"
     ],
+    "name:eus_x_preferred":[
+        "Gajary"
+    ],
     "name:fra_x_preferred":[
         "Gajary"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Gajary"
     ],
+    "name:nan_x_preferred":[
+        "Gajary"
+    ],
     "name:nld_x_preferred":[
         "Gajary"
     ],
+    "name:pol_x_preferred":[
+        "Gajary"
+    ],
     "name:por_x_preferred":[
+        "Gajary"
+    ],
+    "name:ron_x_preferred":[
         "Gajary"
     ],
     "name:slk_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":101782733,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254383,
     "wof:name":"Gajary",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

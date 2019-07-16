@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lehnice"
     ],
+    "name:eus_x_preferred":[
+        "Lehnice"
+    ],
     "name:fra_x_preferred":[
         "Lehnice"
     ],
@@ -55,11 +58,20 @@
     "name:por_x_preferred":[
         "Lehnice"
     ],
+    "name:ron_x_preferred":[
+        "Lehnice"
+    ],
     "name:slk_x_preferred":[
+        "Lehnice"
+    ],
+    "name:spa_x_preferred":[
         "Lehnice"
     ],
     "name:srp_x_preferred":[
         "\u0409\u0435\u0445\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0433\u043d\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "L\u00e9g"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101786321,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254549,
     "wof:name":"Lehnice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

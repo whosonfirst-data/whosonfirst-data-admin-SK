@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Tu\u0161ice"
     ],
+    "name:eus_x_preferred":[
+        "Tu\u0161ice"
+    ],
     "name:fra_x_preferred":[
         "Tu\u0161ice"
     ],
@@ -51,7 +54,13 @@
     "name:pol_x_preferred":[
         "Tu\u0161ice"
     ],
+    "name:ron_x_preferred":[
+        "Tu\u0161ice"
+    ],
     "name:slk_x_preferred":[
+        "Tu\u0161ice"
+    ],
+    "name:spa_x_preferred":[
         "Tu\u0161ice"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Tu\u0161ice"
+    ],
+    "name:war_x_variant":[
+        "Nov\u00e1 Vieska"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125774673,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254996,
     "wof:name":"Tu\u0161ice",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

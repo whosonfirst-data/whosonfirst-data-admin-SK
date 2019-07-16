@@ -19,10 +19,19 @@
     "name:cat_x_preferred":[
         "Hronsk\u00e9 K\u013ea\u010dany"
     ],
+    "name:ces_x_preferred":[
+        "Hronsk\u00e9 K\u013ea\u010dany"
+    ],
     "name:deu_x_preferred":[
         "Hronsk\u00e9 K\u013ea\u010dany"
     ],
+    "name:eng_x_preferred":[
+        "Hronsk\u00e9 K\u013ea\u010dany"
+    ],
     "name:epo_x_preferred":[
+        "Hronsk\u00e9 K\u013ea\u010dany"
+    ],
+    "name:eus_x_preferred":[
         "Hronsk\u00e9 K\u013ea\u010dany"
     ],
     "name:fra_x_preferred":[
@@ -43,11 +52,26 @@
     "name:pol_x_preferred":[
         "Hronsk\u00e9 K\u013ea\u010dany"
     ],
+    "name:ron_x_preferred":[
+        "Hronsk\u00e9 K\u013ea\u010dany"
+    ],
     "name:slk_x_preferred":[
         "Hronsk\u00e9 K\u013ea\u010dany"
     ],
+    "name:spa_x_preferred":[
+        "Hronsk\u00e9 K\u013ea\u010dany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u043e\u043d\u0441\u043a\u0435 \u041a\u0459\u0430\u0447\u0430\u043d\u0438"
+    ],
     "name:unk_x_variant":[
         "K\u013ea\u010dany"
+    ],
+    "name:war_x_preferred":[
+        "Dvorn\u00edky"
+    ],
+    "name:war_x_variant":[
+        "Hronsk\u00e9 K\u013ea\u010dany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -92,7 +116,7 @@
         }
     ],
     "wof:id":101783981,
-    "wof:lastmodified":1527688505,
+    "wof:lastmodified":1563254428,
     "wof:name":"Hronsk\u00e9 K\u013ea\u010dany",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

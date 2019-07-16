@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
+    "name:eus_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
     "name:fra_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
@@ -55,11 +58,20 @@
     "name:pol_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
+    "name:ron_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
     "name:slk_x_preferred":[
+        "Dlh\u00e1 nad Oravou"
+    ],
+    "name:spa_x_preferred":[
         "Dlh\u00e1 nad Oravou"
     ],
     "name:srp_x_preferred":[
         "\u0414\u043b\u0445\u0430 \u043d\u0430 \u041e\u0440\u0430\u0432\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043b\u0433\u0430 \u043d\u0430\u0434 \u041e\u0440\u0430\u0432\u043e\u0443"
     ],
     "name:unk_x_variant":[
         "Dlh\u00e1"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101780405,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254661,
     "wof:name":"Dlh\u00e1 nad Oravou",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

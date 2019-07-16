@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "\u013duboch\u0148a"
     ],
+    "name:eus_x_preferred":[
+        "\u013duboch\u0148a"
+    ],
     "name:fra_x_preferred":[
         "\u013duboch\u0148a"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "\u013duboch\u0148a"
     ],
+    "name:ron_x_preferred":[
+        "\u013duboch\u0148a"
+    ],
     "name:slk_x_preferred":[
+        "\u013duboch\u0148a"
+    ],
+    "name:spa_x_preferred":[
         "\u013duboch\u0148a"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "\u013duboch\u0148a"
+    ],
+    "name:war_x_variant":[
+        "Hervartov"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1126046009,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254805,
     "wof:name":"L\u0315uboch\u0148a",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00fd Hri\u010dov"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254612,
     "wof:name":"Doln\u00fd Hri\u010dov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

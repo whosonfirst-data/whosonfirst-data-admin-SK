@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u010c\u00e1ry"
     ],
+    "name:eus_x_preferred":[
+        "\u010c\u00e1ry"
+    ],
     "name:fra_x_preferred":[
         "\u010c\u00e1ry"
     ],
@@ -52,6 +55,9 @@
     "name:por_x_preferred":[
         "\u010c\u00e1ry"
     ],
+    "name:ron_x_preferred":[
+        "\u010c\u00e1ry"
+    ],
     "name:slk_x_preferred":[
         "\u010c\u00e1ry"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "\u010c\u00e1ry"
+    ],
+    "name:war_x_variant":[
+        "Sielnica"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101782777,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254380,
     "wof:name":"\u010c\u00e1ry",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

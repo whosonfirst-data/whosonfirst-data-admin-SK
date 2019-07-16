@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
+    "name:eus_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
     "name:fra_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
@@ -45,13 +48,25 @@
     "name:msa_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
+    "name:msa_x_variant":[
+        "Ubl\u0315a"
+    ],
+    "name:nan_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
     "name:nld_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
     "name:pol_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
+    "name:ron_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
     "name:slk_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:spa_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1126009247,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254934,
     "wof:name":"Tur\u010dianske Kl\u0315a\u010dany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

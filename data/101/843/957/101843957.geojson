@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
+    "name:eus_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
     "name:fra_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
+    "name:ron_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
     "name:slk_x_preferred":[
+        "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:spa_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00fd Cet\u00edn"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":101843957,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254230,
     "wof:name":"Vy\u0161n\u00fd \u017dipov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
+    "name:eus_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
     "name:fra_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
+    "name:nan_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
     "name:nld_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:pol_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
+    "name:ron_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
     "name:slk_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:spa_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:war_x_variant":[
+        "Utek\u00e1\u010d"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":101858957,
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254293,
     "wof:name":"Partiz\u00e1nska \u013dup\u010da",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

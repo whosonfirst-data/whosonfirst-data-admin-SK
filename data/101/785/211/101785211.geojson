@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Vi\u0161tuk"
     ],
+    "name:eus_x_preferred":[
+        "Vi\u0161tuk"
+    ],
     "name:fra_x_preferred":[
         "Vi\u0161tuk"
     ],
@@ -58,7 +61,13 @@
     "name:por_x_preferred":[
         "Vi\u0161tuk"
     ],
+    "name:ron_x_preferred":[
+        "Vi\u0161tuk"
+    ],
     "name:slk_x_preferred":[
+        "Vi\u0161tuk"
+    ],
+    "name:spa_x_preferred":[
         "Vi\u0161tuk"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Vi\u0161tuk"
+    ],
+    "name:war_x_variant":[
+        "\u010cechynce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101785211,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254318,
     "wof:name":"Vi\u0161tuk",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

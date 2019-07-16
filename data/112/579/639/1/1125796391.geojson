@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Lu\u010dat\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Lu\u010dat\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Lu\u010dat\u00edn"
     ],
@@ -57,7 +60,13 @@
     "name:por_x_preferred":[
         "Lu\u010dat\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Lu\u010dat\u00edn"
+    ],
     "name:slk_x_preferred":[
+        "Lu\u010dat\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Lu\u010dat\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125796391,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254972,
     "wof:name":"Lu\u010dat\u00edn",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

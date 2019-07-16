@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "V\u00e1hovce"
     ],
+    "name:eus_x_preferred":[
+        "V\u00e1hovce"
+    ],
     "name:fra_x_preferred":[
         "V\u00e1hovce"
     ],
@@ -52,14 +55,26 @@
     "name:nld_x_preferred":[
         "V\u00e1hovce"
     ],
+    "name:ron_x_preferred":[
+        "V\u00e1hovce"
+    ],
     "name:slk_x_preferred":[
+        "V\u00e1hovce"
+    ],
+    "name:spa_x_preferred":[
         "V\u00e1hovce"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0445\u043e\u0432\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0433\u043e\u0432\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "V\u00e1hovce"
+    ],
+    "name:war_x_variant":[
+        "\u0160opor\u0148a"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101785199,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254334,
     "wof:name":"V\u00e1hovce",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

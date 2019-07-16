@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Batizovce"
     ],
+    "name:eus_x_preferred":[
+        "Batizovce"
+    ],
     "name:fra_x_preferred":[
         "Batizovce"
     ],
@@ -55,10 +58,16 @@
     "name:pol_x_preferred":[
         "Baty\u017cowce"
     ],
+    "name:ron_x_preferred":[
+        "Batizovce"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0430\u0442\u0456\u0437\u043e\u0432\u0446\u0435"
     ],
     "name:slk_x_preferred":[
+        "Batizovce"
+    ],
+    "name:spa_x_preferred":[
         "Batizovce"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254637,
     "wof:name":"Batizovce",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

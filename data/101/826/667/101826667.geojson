@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kor\u0148a"
     ],
+    "name:eus_x_preferred":[
+        "Kor\u0148a"
+    ],
     "name:fra_x_preferred":[
         "Kor\u0148a"
     ],
@@ -52,11 +55,20 @@
     "name:pol_x_preferred":[
         "Kor\u0148a"
     ],
+    "name:ron_x_preferred":[
+        "Kor\u0148a"
+    ],
     "name:slk_x_preferred":[
+        "Kor\u0148a"
+    ],
+    "name:spa_x_preferred":[
         "Kor\u0148a"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u044f"
     ],
     "name:war_x_preferred":[
         "Kor\u0148a"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":101826667,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254186,
     "wof:name":"Kor\u0148a",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

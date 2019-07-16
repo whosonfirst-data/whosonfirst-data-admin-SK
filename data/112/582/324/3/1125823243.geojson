@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "By\u0161ta"
     ],
+    "name:eus_x_preferred":[
+        "By\u0161ta"
+    ],
     "name:fra_x_preferred":[
         "By\u0161ta"
     ],
@@ -51,10 +54,16 @@
     "name:pol_x_preferred":[
         "By\u0161ta"
     ],
+    "name:ron_x_preferred":[
+        "By\u0161ta"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0456\u0448\u0442\u0430"
     ],
     "name:slk_x_preferred":[
+        "By\u0161ta"
+    ],
+    "name:spa_x_preferred":[
         "By\u0161ta"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125823243,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254946,
     "wof:name":"By\u0161ta",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

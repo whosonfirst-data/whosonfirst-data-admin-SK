@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Meste\u010dko"
     ],
+    "name:eus_x_preferred":[
+        "Meste\u010dko"
+    ],
     "name:fra_x_preferred":[
         "Meste\u010dko"
     ],
@@ -42,10 +45,19 @@
     "name:msa_x_preferred":[
         "Meste\u010dko"
     ],
+    "name:nan_x_preferred":[
+        "Meste\u010dko"
+    ],
     "name:nld_x_preferred":[
         "Meste\u010dko"
     ],
+    "name:ron_x_preferred":[
+        "Meste\u010dko"
+    ],
     "name:slk_x_preferred":[
+        "Meste\u010dko"
+    ],
+    "name:spa_x_preferred":[
         "Meste\u010dko"
     ],
     "name:srp_x_preferred":[
@@ -53,6 +65,9 @@
     ],
     "name:war_x_preferred":[
         "Meste\u010dko"
+    ],
+    "name:war_x_variant":[
+        "Bel\u017ea"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":1125860763,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254817,
     "wof:name":"Meste\u010dko",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

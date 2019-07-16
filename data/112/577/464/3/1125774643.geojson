@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Such\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Such\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Such\u00e9"
     ],
@@ -48,7 +51,13 @@
     "name:pol_x_preferred":[
         "Such\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Such\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Such\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Such\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Such\u00e9"
+    ],
+    "name:war_x_variant":[
+        "Mal\u00e9 Lednice"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125774643,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254984,
     "wof:name":"Such\u00e9",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

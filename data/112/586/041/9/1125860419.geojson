@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Miloslavov"
     ],
+    "name:eus_x_preferred":[
+        "Miloslavov"
+    ],
     "name:fra_x_preferred":[
         "Miloslavov"
     ],
@@ -54,7 +57,16 @@
     "name:por_x_preferred":[
         "Miloslavov"
     ],
+    "name:ron_x_preferred":[
+        "Miloslavov"
+    ],
     "name:slk_x_preferred":[
+        "Miloslavov"
+    ],
+    "name:spa_x_preferred":[
+        "Domica"
+    ],
+    "name:spa_x_variant":[
         "Miloslavov"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1125860419,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254815,
     "wof:name":"Miloslavov",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

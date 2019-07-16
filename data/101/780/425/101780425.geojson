@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tul\u010d\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Tul\u010d\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Tul\u010d\u00edk"
     ],
@@ -52,13 +55,22 @@
     "name:pol_x_preferred":[
         "Tul\u010d\u00edk"
     ],
+    "name:ron_x_preferred":[
+        "Tul\u010d\u00edk"
+    ],
     "name:rue_x_preferred":[
         "\u0422\u0443\u043b\u0447\u0456\u043a"
     ],
     "name:slk_x_preferred":[
         "Tul\u010d\u00edk"
     ],
+    "name:spa_x_preferred":[
+        "Tul\u010d\u00edk"
+    ],
     "name:srp_x_preferred":[
+        "\u0422\u0443\u043b\u0447\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
         "\u0422\u0443\u043b\u0447\u0438\u043a"
     ],
     "name:und_x_preferred":[
@@ -114,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254583,
     "wof:name":"Tul\u010d\u00edk",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

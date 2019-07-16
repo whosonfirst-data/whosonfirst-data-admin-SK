@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ole\u0161n\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Ole\u0161n\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Ole\u0161n\u00e1"
     ],
@@ -52,11 +55,20 @@
     "name:pol_x_preferred":[
         "Ole\u0161n\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Ole\u0161n\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Ole\u0161n\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Ole\u0161n\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0459\u0435\u0448\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0435\u0448\u043d\u0430"
     ],
     "name:war_x_preferred":[
         "Ole\u0161n\u00e1"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":101841999,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254468,
     "wof:name":"Ole\u0161n\u00e1",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

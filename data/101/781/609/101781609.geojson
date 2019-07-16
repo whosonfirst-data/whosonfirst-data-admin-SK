@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lubina"
     ],
+    "name:eus_x_preferred":[
+        "Lubina"
+    ],
     "name:fra_x_preferred":[
         "Lubina"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Lubina"
     ],
+    "name:ron_x_preferred":[
+        "Lubina"
+    ],
     "name:slk_x_preferred":[
+        "Lubina"
+    ],
+    "name:spa_x_preferred":[
         "Lubina"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Lubina"
+    ],
+    "name:war_x_variant":[
+        "Hrocho\u0165"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lubina"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101781609,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254511,
     "wof:name":"Lubina",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",
