@@ -32,6 +32,9 @@
     "name:amh_x_preferred":[
         "\u1265\u122b\u1272\u1235\u120b\u126b"
     ],
+    "name:ang_x_preferred":[
+        "Pressburg"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u062a\u064a\u0633\u0644\u0627\u0641\u0627"
     ],
@@ -47,6 +50,9 @@
     "name:ast_x_preferred":[
         "Bratislava"
     ],
+    "name:ava_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430"
+    ],
     "name:aze_x_preferred":[
         "Bratislava"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:bar_x_preferred":[
         "Pressburg"
+    ],
+    "name:bcl_x_preferred":[
+        "Bratislava"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u0430\u0446\u0456\u0441\u043b\u0430\u0432\u0430"
@@ -78,6 +87,9 @@
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430"
     ],
     "name:cat_x_preferred":[
+        "Bratislava"
+    ],
+    "name:cdo_x_preferred":[
         "Bratislava"
     ],
     "name:ceb_x_preferred":[
@@ -195,7 +207,19 @@
     "name:glv_x_preferred":[
         "Bratislava"
     ],
+    "name:gsw_x_preferred":[
+        "Bratislava"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab0\u0abe\u0a9f\u0abf\u0ab8\u0acd\u0ab2\u0abe\u0ab5\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Bratislava"
+    ],
     "name:hat_x_preferred":[
+        "Bratislava"
+    ],
+    "name:hau_x_preferred":[
         "Bratislava"
     ],
     "name:hbs_x_preferred":[
@@ -206,6 +230,9 @@
     ],
     "name:hif_x_preferred":[
         "Bratislava"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u093e\u0924\u093f\u0938\u094d\u0932\u093e\u0935\u093e"
     ],
     "name:hrv_x_preferred":[
         "Bratislava"
@@ -225,6 +252,9 @@
     "name:ile_x_preferred":[
         "Bratislava"
     ],
+    "name:ina_x_preferred":[
+        "Bratislava"
+    ],
     "name:ind_x_preferred":[
         "Bratislava"
     ],
@@ -239,9 +269,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30c1\u30b9\u30e9\u30d0",
-        "\u30d6\u30e9\u30c1\u30b9\u30e9\u30f4\u30a1"
-    ],
-    "name:jpn_x_variant":[
         "\u30d6\u30e9\u30c1\u30b9\u30e9\u30f4\u30a1"
     ],
     "name:kaa_x_preferred":[
@@ -276,6 +303,9 @@
     ],
     "name:lat_x_preferred":[
         "Posonium"
+    ],
+    "name:lat_x_variant":[
+        "Bratislavia"
     ],
     "name:lav_x_preferred":[
         "Bratislava"
@@ -334,6 +364,15 @@
     "name:myv_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 \u043e\u0448"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0631\u0627\u062a\u06cc\u0633\u0644\u0627\u0648\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Bratislava"
+    ],
+    "name:nan_x_preferred":[
+        "Bratislava"
+    ],
     "name:nds_x_preferred":[
         "Pre\u00dfburg"
     ],
@@ -344,6 +383,9 @@
         "Bratislava"
     ],
     "name:nno_x_preferred":[
+        "Bratislava"
+    ],
+    "name:nob_x_preferred":[
         "Bratislava"
     ],
     "name:nor_x_preferred":[
@@ -358,6 +400,9 @@
     "name:oci_x_preferred":[
         "Bratislava"
     ],
+    "name:olo_x_preferred":[
+        "Bratisluavu"
+    ],
     "name:oss_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u00e6"
     ],
@@ -366,6 +411,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a4d\u0a30\u0a3e\u0a24\u0a3f\u0a38\u0a32\u0a3e\u0a35\u0a3e"
+    ],
+    "name:pap_x_preferred":[
+        "Bratislava"
     ],
     "name:pdc_x_preferred":[
         "Bratislava"
@@ -394,11 +442,17 @@
     "name:que_x_variant":[
         "Bratislawa"
     ],
+    "name:roh_x_preferred":[
+        "Bratislava"
+    ],
     "name:ron_x_preferred":[
         "Bratislava"
     ],
     "name:rue_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0457\u0441\u043b\u0430\u0432\u0430"
+    ],
+    "name:rup_x_preferred":[
+        "Bratislava"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430"
@@ -414,6 +468,12 @@
     ],
     "name:sco_x_preferred":[
         "Bratislava"
+    ],
+    "name:sgs_x_preferred":[
+        "Bratislava"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u200d\u0dbb\u0dd0\u0da7\u0dd2\u0dc3\u0dca\u0dbd\u0dcf\u0dc0\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Bratislava"
@@ -466,6 +526,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430"
     ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c30\u0c3e\u0c1f\u0c3f\u0c38\u0c4d\u0c32\u0c3e\u0c35\u0c3e"
+    ],
     "name:tgk_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430"
     ],
@@ -477,6 +540,9 @@
     ],
     "name:tpi_x_preferred":[
         "Bratislava"
+    ],
+    "name:tuk_x_preferred":[
+        "Bratislawa"
     ],
     "name:tur_x_preferred":[
         "Bratislava"
@@ -532,11 +598,20 @@
     "name:vol_x_preferred":[
         "Bratislava"
     ],
+    "name:vro_x_preferred":[
+        "Bratislava"
+    ],
     "name:war_x_preferred":[
         "Bratislava"
     ],
     "name:wol_x_preferred":[
         "Baratislawa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u62c9\u8fea\u65af\u62c9\u53d1"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10e2\u10d8\u10e1\u10da\u10d0\u10d5\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05d0\u05d8\u05d9\u05e1\u05dc\u05d0\u05d5\u05d5\u05d0"
@@ -612,7 +687,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841685,
+    "wof:lastmodified":1563254063,
     "wof:megacity":0,
     "wof:name":"Bratislava",
     "wof:parent_id":102080459,

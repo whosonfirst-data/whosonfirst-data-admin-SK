@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Lesn\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Lesn\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Lesn\u00e9"
     ],
@@ -51,7 +54,13 @@
     "name:pol_x_preferred":[
         "Lesn\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Lesn\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Lesn\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Lesn\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125844815,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254975,
     "wof:name":"Lesn\u00e9",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

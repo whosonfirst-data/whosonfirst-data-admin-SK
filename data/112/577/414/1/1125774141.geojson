@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Ivachnov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Ivachnov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Ivachnov\u00e1"
     ],
@@ -51,7 +54,13 @@
     "name:pol_x_preferred":[
         "Ivachnov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Ivachnov\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Ivachnov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Ivachnov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Ivachnov\u00e1"
+    ],
+    "name:war_x_variant":[
+        "Piesok"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125774141,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254976,
     "wof:name":"Ivachnov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

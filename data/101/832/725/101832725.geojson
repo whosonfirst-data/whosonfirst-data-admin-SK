@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
+    "name:eus_x_preferred":[
+        "Tepli\u010dka nad V\u00e1hom"
+    ],
     "name:fra_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
+    "name:nan_x_preferred":[
+        "Tepli\u010dka nad V\u00e1hom"
+    ],
     "name:nld_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
     "name:pol_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
+    "name:ron_x_preferred":[
+        "Tepli\u010dka nad V\u00e1hom"
+    ],
     "name:slk_x_preferred":[
+        "Tepli\u010dka nad V\u00e1hom"
+    ],
+    "name:spa_x_preferred":[
         "Tepli\u010dka nad V\u00e1hom"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254270,
     "wof:name":"Tepli\u010dka nad V\u00e1hom",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

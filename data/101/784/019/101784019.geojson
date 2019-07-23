@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Dechtice"
     ],
+    "name:eus_x_preferred":[
+        "Dechtice"
+    ],
     "name:fra_x_preferred":[
         "Dechtice"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Dechtice"
     ],
+    "name:ron_x_preferred":[
+        "Dechtice"
+    ],
     "name:slk_x_preferred":[
+        "Dechtice"
+    ],
+    "name:spa_x_preferred":[
         "Dechtice"
     ],
     "name:srp_x_preferred":[
@@ -69,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Dechtice"
+    ],
+    "name:war_x_variant":[
+        "Doln\u00e9 Ore\u0161any"
     ],
     "name:zho_min_nan_x_preferred":[
         "Dechtice"
@@ -120,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254458,
     "wof:name":"Dechtice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

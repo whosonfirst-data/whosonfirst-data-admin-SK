@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0644\u0627\u0641\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0406\u043b\u0430\u0432\u0430"
+    ],
     "name:cat_x_preferred":[
+        "Ilava"
+    ],
+    "name:ceb_x_preferred":[
         "Ilava"
     ],
     "name:ces_x_preferred":[
@@ -35,11 +41,17 @@
     "name:epo_x_preferred":[
         "Ilava"
     ],
+    "name:eus_x_preferred":[
+        "Ilava"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0644\u0627\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Ilava"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d0\u05d1\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Ilava"
@@ -53,6 +65,9 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30e9\u30f4\u30a1"
     ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub77c\ubc14"
+    ],
     "name:lav_x_preferred":[
         "Ilava"
     ],
@@ -63,6 +78,9 @@
         "Ilava"
     ],
     "name:pol_x_preferred":[
+        "Ilava"
+    ],
+    "name:por_x_preferred":[
         "Ilava"
     ],
     "name:ron_x_preferred":[
@@ -88,6 +106,9 @@
     ],
     "name:tur_x_preferred":[
         "Ilava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0430\u0432\u0430"
     ],
     "name:unk_x_variant":[
         "Hava"
@@ -150,7 +171,7 @@
         }
     ],
     "wof:id":101781767,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254497,
     "wof:name":"Ilava",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

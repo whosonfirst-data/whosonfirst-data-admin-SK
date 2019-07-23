@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Jasov"
     ],
+    "name:eus_x_preferred":[
+        "Jasov"
+    ],
     "name:fra_x_preferred":[
         "Jasov"
     ],
@@ -49,11 +52,20 @@
     "name:pol_x_preferred":[
         "Jasov"
     ],
+    "name:ron_x_preferred":[
+        "Jasov"
+    ],
     "name:slk_x_preferred":[
+        "Jasov"
+    ],
+    "name:spa_x_preferred":[
         "Jasov"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0441\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u043e\u0432"
     ],
     "name:unk_x_variant":[
         "Jazo"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101782913,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254381,
     "wof:name":"Jasov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

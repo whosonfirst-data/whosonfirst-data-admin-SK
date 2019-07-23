@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Z\u00e1mutov"
     ],
+    "name:eus_x_preferred":[
+        "Z\u00e1mutov"
+    ],
     "name:fra_x_preferred":[
         "Z\u00e1mutov"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Z\u00e1mutov"
     ],
+    "name:ron_x_preferred":[
+        "Z\u00e1mutov"
+    ],
     "name:slk_x_preferred":[
+        "Z\u00e1mutov"
+    ],
+    "name:spa_x_preferred":[
         "Z\u00e1mutov"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Z\u00e1mutov"
+    ],
+    "name:war_x_variant":[
+        "Ohrady"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101780455,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254602,
     "wof:name":"Z\u00e1mutov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

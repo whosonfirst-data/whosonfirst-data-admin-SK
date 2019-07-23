@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Rovinka"
     ],
+    "name:eus_x_preferred":[
+        "Rovinka"
+    ],
     "name:fra_x_preferred":[
         "Rovinka"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Rovinka"
     ],
+    "name:ron_x_preferred":[
+        "Rovinka"
+    ],
     "name:slk_x_preferred":[
+        "Rovinka"
+    ],
+    "name:spa_x_preferred":[
         "Rovinka"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Rovinka"
+    ],
+    "name:war_x_variant":[
+        "Te\u0161ed\u00edkovo"
     ],
     "name:zho_min_nan_x_preferred":[
         "Rovinka"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101786377,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254529,
     "wof:name":"Rovinka",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

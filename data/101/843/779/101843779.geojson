@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zelene\u010d"
     ],
+    "name:eus_x_preferred":[
+        "Zelene\u010d"
+    ],
     "name:fra_x_preferred":[
         "Zelene\u010d"
     ],
@@ -52,6 +55,9 @@
     "name:por_x_preferred":[
         "Zelene\u010d"
     ],
+    "name:ron_x_preferred":[
+        "Zelene\u010d"
+    ],
     "name:slk_x_preferred":[
         "Zelene\u010d"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Zelene\u010d"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00e9 Rovn\u00e9"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -120,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254228,
     "wof:name":"Zelene\u010d",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":458608.685152,
+    "geom:area_square_m":458608.685151,
     "geom:bbox":"18.463382441,48.7253694076,18.4744787788,48.7376974207",
     "geom:latitude":48.731652,
     "geom:longitude":18.469499,
@@ -19,10 +19,19 @@
     "name:cat_x_preferred":[
         "Nitrianske Su\u010dany"
     ],
+    "name:ces_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
     "name:deu_x_preferred":[
         "Nitrianske Su\u010dany"
     ],
+    "name:eng_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
     "name:epo_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:eus_x_preferred":[
         "Nitrianske Su\u010dany"
     ],
     "name:fra_x_preferred":[
@@ -40,14 +49,32 @@
     "name:msa_x_preferred":[
         "Nitrianske Su\u010dany"
     ],
+    "name:nan_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
     "name:nld_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:ron_x_preferred":[
         "Nitrianske Su\u010dany"
     ],
     "name:slk_x_preferred":[
         "Nitrianske Su\u010dany"
     ],
+    "name:spa_x_preferred":[
+        "Nitrianske Su\u010dany"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0435 \u0421\u0443\u0447\u0430\u043d\u0438"
+    ],
     "name:unk_x_variant":[
         "Su\u010dany"
+    ],
+    "name:war_x_preferred":[
+        "Belu\u0161a"
+    ],
+    "name:war_x_variant":[
+        "Nitrianske Su\u010dany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -92,7 +119,7 @@
         }
     ],
     "wof:id":101781665,
-    "wof:lastmodified":1527715631,
+    "wof:lastmodified":1563254510,
     "wof:name":"Nitrianske Su\u010dany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

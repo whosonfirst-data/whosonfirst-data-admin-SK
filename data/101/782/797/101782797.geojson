@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Polt\u00e1r"
     ],
+    "name:ceb_x_preferred":[
+        "Polt\u00e1r"
+    ],
     "name:ces_x_preferred":[
         "Polt\u00e1r"
     ],
@@ -36,6 +39,9 @@
         "Polt\u00e1r"
     ],
     "name:epo_x_preferred":[
+        "Polt\u00e1r"
+    ],
+    "name:eus_x_preferred":[
         "Polt\u00e1r"
     ],
     "name:fas_x_preferred":[
@@ -100,6 +106,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Polt\u00e1r"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0440"
@@ -166,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254351,
     "wof:name":"Polt\u00e1r",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

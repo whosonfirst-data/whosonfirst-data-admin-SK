@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Myjava"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Myjava"
+    ],
     "name:ces_x_preferred":[
         "Myjava"
     ],
@@ -36,6 +39,9 @@
         "Myjava"
     ],
     "name:epo_x_preferred":[
+        "Myjava"
+    ],
+    "name:eus_x_preferred":[
         "Myjava"
     ],
     "name:fas_x_preferred":[
@@ -92,8 +98,14 @@
     "name:srp_x_preferred":[
         "\u041c\u0438\u0458\u0430\u0432\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Myjava"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0438\u044f\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Myjava"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u044f\u0432\u0430"
@@ -162,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254493,
     "wof:name":"Myjava",
     "wof:parent_id":102080515,
     "wof:placetype":"locality",

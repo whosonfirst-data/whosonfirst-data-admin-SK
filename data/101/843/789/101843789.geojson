@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Chynorany"
     ],
+    "name:eus_x_preferred":[
+        "Chynorany"
+    ],
     "name:fra_x_preferred":[
         "Chynorany"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Chynorany"
     ],
+    "name:ron_x_preferred":[
+        "Chynorany"
+    ],
     "name:slk_x_preferred":[
+        "Chynorany"
+    ],
+    "name:spa_x_preferred":[
         "Chynorany"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Chynorany"
+    ],
+    "name:war_x_variant":[
+        "Petrovice"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chynorany"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":101843789,
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254258,
     "wof:name":"Chynorany",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

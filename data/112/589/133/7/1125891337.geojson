@@ -21,10 +21,19 @@
     "name:cat_x_preferred":[
         "Rankovce"
     ],
+    "name:ces_x_preferred":[
+        "Rankovce"
+    ],
+    "name:deu_x_preferred":[
+        "Rankovce"
+    ],
     "name:eng_x_preferred":[
         "Rankovce"
     ],
     "name:epo_x_preferred":[
+        "Rankovce"
+    ],
+    "name:eus_x_preferred":[
         "Rankovce"
     ],
     "name:fra_x_preferred":[
@@ -48,14 +57,26 @@
     "name:pol_x_preferred":[
         "Rankovce"
     ],
+    "name:ron_x_preferred":[
+        "Rankovce"
+    ],
     "name:slk_x_preferred":[
+        "Rankovce"
+    ],
+    "name:spa_x_preferred":[
         "Rankovce"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "Rankovce"
+    ],
+    "name:war_x_variant":[
+        "G\u00e1novce"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -105,7 +126,7 @@
         }
     ],
     "wof:id":1125891337,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254846,
     "wof:name":"Rankovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

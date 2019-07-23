@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Kom\u00e1rno"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Kom\u00e1rno"
+    ],
     "name:ces_x_preferred":[
         "Okres Kom\u00e1rno"
+    ],
+    "name:ces_x_variant":[
+        "okres Kom\u00e1rno"
     ],
     "name:deu_x_preferred":[
         "Okres Kom\u00e1rno"
@@ -37,17 +43,29 @@
     "name:eng_x_preferred":[
         "Kom\u00e1rno"
     ],
+    "name:eng_x_variant":[
+        "Kom\u00e1rno District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Kom\u00e1rno"
     ],
+    "name:eus_x_preferred":[
+        "Kom\u00e1rnoko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Kom\u00e1rno"
+    ],
+    "name:fra_x_variant":[
+        "Kom\u00e1rno"
     ],
     "name:hrv_x_preferred":[
         "Okrug Kom\u00e1rno"
     ],
     "name:hun_x_preferred":[
         "Kom\u00e1romi j\u00e1r\u00e1s"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kom\u00e1rno"
     ],
     "name:ita_x_preferred":[
         "Distretto di Kom\u00e1rno"
@@ -91,6 +109,9 @@
     "name:slk_x_preferred":[
         "Kom\u00e1rno"
     ],
+    "name:slk_x_variant":[
+        "okres Kom\u00e1rno"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Kom\u00e1rno"
     ],
@@ -102,6 +123,9 @@
     ],
     "name:war_x_preferred":[
         "Kom\u00e1rno"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u99ac\u723e\u8afe\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -152,7 +176,7 @@
         }
     ],
     "wof:id":102080447,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253568,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

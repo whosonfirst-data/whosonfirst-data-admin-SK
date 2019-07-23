@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Liesek"
     ],
+    "name:eus_x_preferred":[
+        "Liesek"
+    ],
     "name:fra_x_preferred":[
         "Liesek"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Liesek"
     ],
+    "name:nan_x_preferred":[
+        "Liesek"
+    ],
     "name:nld_x_preferred":[
         "Liesek"
     ],
     "name:pol_x_preferred":[
         "Liesek"
     ],
+    "name:ron_x_preferred":[
+        "Liesek"
+    ],
     "name:slk_x_preferred":[
+        "Liesek"
+    ],
+    "name:spa_x_preferred":[
         "Liesek"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Liesek"
+    ],
+    "name:war_x_variant":[
+        "Vitanov\u00e1"
     ],
     "name:zho_min_nan_x_preferred":[
         "Liesek"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101780557,
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254573,
     "wof:name":"Liesek",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

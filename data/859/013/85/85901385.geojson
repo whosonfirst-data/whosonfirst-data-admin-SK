@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10942358.768924,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.153435,48.053529,17.153435,48.053529",
     "geom:latitude":48.053529,
     "geom:longitude":17.153435,
@@ -38,7 +38,7 @@
         "Karlburg"
     ],
     "name:eng_x_variant":[
-        "Karlburg"
+        "Rusovce"
     ],
     "name:epo_x_preferred":[
         "Rusovce"
@@ -52,6 +52,9 @@
     "name:hbs_x_preferred":[
         "Rusovce"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05dc\u05d1\u05d5\u05e8\u05d2"
+    ],
     "name:hrv_x_preferred":[
         "Rosvar"
     ],
@@ -61,7 +64,16 @@
     "name:hun_x_variant":[
         "Orosh\u00e1za"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u057d\u0578\u057e\u0581\u0565"
+    ],
     "name:ita_x_preferred":[
+        "Rusovce"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30bd\u30d5\u30bb"
+    ],
+    "name:nan_x_preferred":[
         "Rusovce"
     ],
     "name:nld_x_preferred":[
@@ -136,10 +148,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":235,
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
-        102080449,
-        85688373
+        102080449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932491,
+    "wof:lastmodified":1563253714,
     "wof:name":"Rusovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kote\u0161ov\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Kote\u0161ov\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Kote\u0161ov\u00e1"
     ],
@@ -52,7 +55,16 @@
     "name:pol_x_preferred":[
         "Kote\u0161ov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Kote\u0161ov\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0435\u0448\u043e\u0432\u0430"
+    ],
     "name:slk_x_preferred":[
+        "Kote\u0161ov\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Kote\u0161ov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780375,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254684,
     "wof:name":"Kote\u0161ov\u00e1",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

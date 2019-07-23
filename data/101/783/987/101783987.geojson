@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Demandice"
     ],
+    "name:eus_x_preferred":[
+        "Demandice"
+    ],
     "name:fra_x_preferred":[
         "Demandice"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Demandice"
     ],
+    "name:ron_x_preferred":[
+        "Demandice"
+    ],
     "name:slk_x_preferred":[
+        "Demandice"
+    ],
+    "name:spa_x_preferred":[
         "Demandice"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Demandice"
+    ],
+    "name:war_x_variant":[
+        "Doln\u00e9 Lefantovce"
     ],
     "name:zho_min_nan_x_preferred":[
         "Demandice"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101783987,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254426,
     "wof:name":"Demandice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

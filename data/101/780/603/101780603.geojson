@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Malcov"
     ],
+    "name:eus_x_preferred":[
+        "Malcov"
+    ],
     "name:fra_x_preferred":[
         "Malcov"
     ],
@@ -55,10 +58,16 @@
     "name:pol_x_preferred":[
         "Malcov"
     ],
+    "name:ron_x_preferred":[
+        "Malcov"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0446\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Malcov"
+    ],
+    "name:spa_x_preferred":[
         "Malcov"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":101780603,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254605,
     "wof:name":"Malcov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

@@ -33,6 +33,12 @@
     "name:epo_x_preferred":[
         "Smrd\u00e1ky"
     ],
+    "name:eus_x_preferred":[
+        "Vel\u0315k\u00e9 Kapu\u0161any"
+    ],
+    "name:eus_x_variant":[
+        "Smrd\u00e1ky"
+    ],
     "name:fra_x_preferred":[
         "Smrd\u00e1ky"
     ],
@@ -54,7 +60,13 @@
     "name:por_x_preferred":[
         "Smrd\u00e1ky"
     ],
+    "name:ron_x_preferred":[
+        "Smrd\u00e1ky"
+    ],
     "name:slk_x_preferred":[
+        "Smrd\u00e1ky"
+    ],
+    "name:spa_x_preferred":[
         "Smrd\u00e1ky"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1125805535,
-    "wof:lastmodified":1561841724,
+    "wof:lastmodified":1563254860,
     "wof:name":"Smrd\u00e1ky",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

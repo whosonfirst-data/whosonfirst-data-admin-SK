@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nacina Ves"
     ],
+    "name:eus_x_preferred":[
+        "Nacina Ves"
+    ],
     "name:fra_x_preferred":[
         "Nacina Ves"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Nacina Ves"
     ],
+    "name:ron_x_preferred":[
+        "Nacina Ves"
+    ],
     "name:slk_x_preferred":[
+        "Nacina Ves"
+    ],
+    "name:spa_x_preferred":[
         "Nacina Ves"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101780287,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254584,
     "wof:name":"Nacina Ves",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

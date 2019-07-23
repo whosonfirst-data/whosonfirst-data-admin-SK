@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Ru\u017eindol"
     ],
+    "name:eus_x_preferred":[
+        "Ru\u017eindol"
+    ],
     "name:fra_x_preferred":[
         "Ru\u017eindol"
     ],
@@ -46,6 +49,9 @@
     "name:msa_x_preferred":[
         "Ru\u017eindol"
     ],
+    "name:nan_x_preferred":[
+        "Ru\u017eindol"
+    ],
     "name:nld_x_preferred":[
         "Ru\u017eindol"
     ],
@@ -55,7 +61,13 @@
     "name:por_x_preferred":[
         "Ru\u017eindol"
     ],
+    "name:ron_x_preferred":[
+        "Ru\u017eindol"
+    ],
     "name:slk_x_preferred":[
+        "Ru\u017eindol"
+    ],
+    "name:spa_x_preferred":[
         "Ru\u017eindol"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254326,
     "wof:name":"Ru\u017eindol",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

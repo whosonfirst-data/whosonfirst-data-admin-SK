@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Star\u00fd Tekov"
     ],
+    "name:eus_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
     "name:fra_x_preferred":[
         "Star\u00fd Tekov"
     ],
@@ -40,13 +43,22 @@
     "name:msa_x_preferred":[
         "Star\u00fd Tekov"
     ],
+    "name:nan_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
     "name:nld_x_preferred":[
         "Star\u00fd Tekov"
     ],
     "name:pol_x_preferred":[
         "Star\u00fd Tekov"
     ],
+    "name:ron_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
     "name:slk_x_preferred":[
+        "Star\u00fd Tekov"
+    ],
+    "name:spa_x_preferred":[
         "Star\u00fd Tekov"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Star\u00fd Tekov"
+    ],
+    "name:war_x_variant":[
+        "Jelenec"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101783977,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254418,
     "wof:name":"Star\u00fd Tekov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Bansk\u00e1 \u0160tiavnica"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Bansk\u00e1 \u0160tiavnica"
+    ],
     "name:ces_x_preferred":[
         "Okres Bansk\u00e1 \u0160tiavnica"
+    ],
+    "name:ces_x_variant":[
+        "okres Bansk\u00e1 \u0160tiavnica"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u0430 \u0428\u0442\u044c\u044f\u0432\u043d\u0438\u0446\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,11 +46,20 @@
     "name:eng_x_preferred":[
         "Bansk\u00e1 \u0160tiavnica"
     ],
+    "name:eng_x_variant":[
+        "Bansk\u00e1 \u0160tiavnica District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Bansk\u00e1 \u0160tiavnica"
     ],
+    "name:eus_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnicako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Bansk\u00e1 \u0160tiavnica"
+    ],
+    "name:fra_x_variant":[
+        "Bansk\u00e1 \u0160tiavnica"
     ],
     "name:hrv_x_preferred":[
         "Okrug Bansk\u00e1 \u0160tiavnica"
@@ -91,6 +106,9 @@
     "name:slk_x_preferred":[
         "Bansk\u00e1 \u0160tiavnica"
     ],
+    "name:slk_x_variant":[
+        "okres Bansk\u00e1 \u0160tiavnica"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Bansk\u00e1 \u0160tiavnica"
     ],
@@ -100,8 +118,14 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0441\u044c\u043a\u0430 \u0428\u0442\u044f\u0432\u043d\u0438\u0446\u044f"
     ],
+    "name:vie_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
+    ],
     "name:war_x_preferred":[
         "Bansk\u00e1 \u0160tiavnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u65af\u5361\u4ec0\u4f73\u592b\u5c3c\u5bdf\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +175,7 @@
         }
     ],
     "wof:id":102080491,
-    "wof:lastmodified":1561841676,
+    "wof:lastmodified":1563253580,
     "wof:name":"Bansk\u00e1 \u0160tiavnica",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

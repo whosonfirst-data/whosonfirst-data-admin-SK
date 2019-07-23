@@ -30,8 +30,14 @@
     "name:epo_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
+    "name:eus_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
     "name:fra_x_preferred":[
         "Vetern\u00e1 Poruba"
+    ],
+    "name:fra_x_variant":[
+        "Most na Ostrove"
     ],
     "name:hun_x_preferred":[
         "Sz\u00e9lporuba"
@@ -42,13 +48,22 @@
     "name:msa_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
+    "name:nan_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
     "name:nld_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
     "name:pol_x_preferred":[
         "Wiaterna Por\u0119ba"
     ],
+    "name:ron_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
     "name:slk_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
+    "name:spa_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":1126016857,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254926,
     "wof:name":"Vetern\u00e1 Poruba",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

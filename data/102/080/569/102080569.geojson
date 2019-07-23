@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0631\u062a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0440\u0430\u0451\u043d \u041c\u0430\u0440\u0446\u0456\u043d"
+    ],
     "name:cat_x_preferred":[
         "Districte de Martin"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Martin"
+    ],
     "name:ces_x_preferred":[
         "Okres Martin"
+    ],
+    "name:ces_x_variant":[
+        "okres Martin"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,11 +49,20 @@
     "name:eng_x_preferred":[
         "Martin"
     ],
+    "name:eng_x_variant":[
+        "Martin District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Martin"
     ],
+    "name:eus_x_preferred":[
+        "Martingo barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Martin"
+    ],
+    "name:fra_x_variant":[
+        "Martin"
     ],
     "name:hrv_x_preferred":[
         "Okrug Martin"
@@ -91,17 +109,26 @@
     "name:slk_x_preferred":[
         "Martin"
     ],
+    "name:slk_x_variant":[
+        "okres Martin"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Martin"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u041c\u0430\u0440\u0442\u0438\u043d"
     ],
+    "name:tur_x_preferred":[
+        "Martin il\u00e7esi"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0456\u043d"
     ],
     "name:war_x_preferred":[
         "Martin"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e01\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -153,7 +180,7 @@
         }
     ],
     "wof:id":102080569,
-    "wof:lastmodified":1561841674,
+    "wof:lastmodified":1563253560,
     "wof:name":"Martin",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

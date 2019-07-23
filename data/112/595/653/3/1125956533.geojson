@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Rokytov"
     ],
+    "name:eus_x_preferred":[
+        "Rokytov"
+    ],
     "name:fra_x_preferred":[
         "Rokytov"
     ],
@@ -51,10 +54,16 @@
     "name:pol_x_preferred":[
         "Rokytov"
     ],
+    "name:ron_x_preferred":[
+        "Rokytov"
+    ],
     "name:rue_x_preferred":[
         "\u0420\u043e\u043a\u0438\u0442\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Rokytov"
+    ],
+    "name:spa_x_preferred":[
         "Rokytov"
     ],
     "name:srp_x_preferred":[
@@ -65,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Rokytov"
+    ],
+    "name:war_x_variant":[
+        "Tuh\u00e1r"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125956533,
-    "wof:lastmodified":1561841720,
+    "wof:lastmodified":1563254763,
     "wof:name":"Rokytov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

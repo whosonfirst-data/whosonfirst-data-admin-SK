@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
+    "name:eus_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
     "name:fra_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
+    "name:ron_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
     "name:slk_x_preferred":[
+        "Pohronsk\u00fd Ruskov"
+    ],
+    "name:spa_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Pohronsk\u00fd Ruskov"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u5716\u7f85\u6c83"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101834133,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254306,
     "wof:name":"Pohronsk\u00fd Ruskov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

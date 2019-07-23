@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Hol\u00ed\u010d"
     ],
+    "name:ceb_x_preferred":[
+        "Hol\u00ed\u010d"
+    ],
     "name:ces_x_preferred":[
         "Hol\u00ed\u010d"
     ],
@@ -33,6 +36,9 @@
         "Hol\u00ed\u010d"
     ],
     "name:epo_x_preferred":[
+        "Hol\u00ed\u010d"
+    ],
+    "name:eus_x_preferred":[
         "Hol\u00ed\u010d"
     ],
     "name:fas_x_preferred":[
@@ -92,8 +98,14 @@
     "name:srp_x_preferred":[
         "\u0425\u043e\u043b\u0438\u0447"
     ],
+    "name:swe_x_preferred":[
+        "Hol\u00ed\u010d"
+    ],
     "name:tat_x_preferred":[
         "\u04ba\u043e\u043b\u0438\u0447"
+    ],
+    "name:tur_x_preferred":[
+        "Hol\u00ed\u010d"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0456\u0447"
@@ -166,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254495,
     "wof:name":"Hol\u00ed\u010d",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

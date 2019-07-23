@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Pozdi\u0161ovce"
     ],
+    "name:eus_x_preferred":[
+        "Pozdi\u0161ovce"
+    ],
     "name:fra_x_preferred":[
         "Pozdi\u0161ovce"
     ],
@@ -47,6 +50,9 @@
         "Pozdi\u0161ovce"
     ],
     "name:pol_x_preferred":[
+        "Pozdi\u0161ovce"
+    ],
+    "name:ron_x_preferred":[
         "Pozdi\u0161ovce"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101780295,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254599,
     "wof:name":"Pozdi\u0161ovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
     "name:fra_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
@@ -45,17 +48,32 @@
     "name:msa_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
+    "name:nan_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
     "name:nld_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:pol_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
     "name:slk_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:spa_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u0440\u0441\u043a\u0430 \u0414\u043b\u0445\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "O\u0161kerda"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a\u0430 \u0414\u043b\u0433\u0430 \u041b\u0443\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "V\u00e1rhosszur\u00e9t"
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1125787873,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254960,
     "wof:name":"Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Lednick\u00e9 Rovne"
     ],
+    "name:eus_x_preferred":[
+        "Lednick\u00e9 Rovne"
+    ],
     "name:fra_x_preferred":[
         "Lednick\u00e9 Rovne"
     ],
@@ -55,6 +58,9 @@
         "Lednick\u00e9 Rovne"
     ],
     "name:pol_x_preferred":[
+        "Lednick\u00e9 Rovne"
+    ],
+    "name:ron_x_preferred":[
         "Lednick\u00e9 Rovne"
     ],
     "name:rus_x_preferred":[
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":1125986721,
-    "wof:lastmodified":1561841726,
+    "wof:lastmodified":1563254913,
     "wof:name":"Lednick\u00e9 Rovne",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

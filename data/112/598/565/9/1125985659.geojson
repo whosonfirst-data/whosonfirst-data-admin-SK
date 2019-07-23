@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Rusk\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Rusk\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Rusk\u00e1"
     ],
@@ -51,7 +54,16 @@
     "name:pol_x_preferred":[
         "Rusk\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Rusk\u00e1"
+    ],
+    "name:rue_x_preferred":[
+        "Pie\u0161t\u0315any"
+    ],
     "name:slk_x_preferred":[
+        "Rusk\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Rusk\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125985659,
-    "wof:lastmodified":1561841726,
+    "wof:lastmodified":1563254915,
     "wof:name":"Rusk\u00e1",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

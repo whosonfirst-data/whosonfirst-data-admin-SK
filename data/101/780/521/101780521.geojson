@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hranovnica"
     ],
+    "name:eus_x_preferred":[
+        "Hranovnica"
+    ],
     "name:fra_x_preferred":[
         "Hranovnica"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Hranovnica"
     ],
+    "name:ron_x_preferred":[
+        "Hranovnica"
+    ],
     "name:rue_x_preferred":[
         "\u0413\u0440\u0430\u043d\u043e\u0432\u043d\u0457\u0446\u0430"
     ],
     "name:slk_x_preferred":[
+        "Hranovnica"
+    ],
+    "name:spa_x_preferred":[
         "Hranovnica"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101780521,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254613,
     "wof:name":"Hranovnica",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

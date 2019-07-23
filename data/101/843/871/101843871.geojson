@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0634\u064a\u0646\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Dob\u015fina"
+    ],
     "name:cat_x_preferred":[
+        "Dob\u0161in\u00e1"
+    ],
+    "name:ceb_x_preferred":[
         "Dob\u0161in\u00e1"
     ],
     "name:ces_x_preferred":[
@@ -33,6 +39,9 @@
         "Dob\u0161in\u00e1"
     ],
     "name:epo_x_preferred":[
+        "Dob\u0161in\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Dob\u0161in\u00e1"
     ],
     "name:fas_x_preferred":[
@@ -93,6 +102,12 @@
         "Dob\u0161in\u00e1"
     ],
     "name:tat_x_preferred":[
+        "\u0414\u043e\u0431\u0448\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Dob\u0161in\u00e1"
+    ],
+    "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0448\u0438\u043d\u0430"
     ],
     "name:unk_x_variant":[
@@ -156,7 +171,7 @@
         }
     ],
     "wof:id":101843871,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254243,
     "wof:name":"Dob\u0161in\u00e1",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

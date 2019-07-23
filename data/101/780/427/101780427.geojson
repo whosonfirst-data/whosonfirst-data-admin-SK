@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Fintice"
     ],
+    "name:eus_x_preferred":[
+        "Fintice"
+    ],
     "name:fra_x_preferred":[
         "Fintice"
     ],
@@ -43,10 +46,16 @@
     "name:msa_x_preferred":[
         "Fintice"
     ],
+    "name:nan_x_preferred":[
+        "Fintice"
+    ],
     "name:nld_x_preferred":[
         "Fintice"
     ],
     "name:pol_x_preferred":[
+        "Fintice"
+    ],
+    "name:ron_x_preferred":[
         "Fintice"
     ],
     "name:rue_x_preferred":[
@@ -55,8 +64,14 @@
     "name:slk_x_preferred":[
         "Fintice"
     ],
+    "name:spa_x_preferred":[
+        "Fintice"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u0438\u043d\u0442\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0438\u043d\u0442\u0456\u0446\u0435"
     ],
     "name:und_x_preferred":[
         "Fintice"
@@ -117,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254654,
     "wof:name":"Fintice",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

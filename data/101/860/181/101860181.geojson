@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lokca"
     ],
+    "name:eus_x_preferred":[
+        "Lokca"
+    ],
     "name:fra_x_preferred":[
         "Lokca"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "\u0141okcza"
     ],
+    "name:ron_x_preferred":[
+        "Lokca"
+    ],
     "name:slk_x_preferred":[
+        "Lokca"
+    ],
+    "name:spa_x_preferred":[
         "Lokca"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Lokca"
+    ],
+    "name:war_x_variant":[
+        "Horn\u00fd Vadi\u010dov"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lokca"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":101860181,
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254285,
     "wof:name":"Lokca",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

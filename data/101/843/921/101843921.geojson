@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Petrovice"
     ],
+    "name:eus_x_preferred":[
+        "Petrovice"
+    ],
     "name:fra_x_preferred":[
         "Petrovice"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Petrovice"
     ],
+    "name:ron_x_preferred":[
+        "Petrovice"
+    ],
     "name:slk_x_preferred":[
+        "Petrovice"
+    ],
+    "name:spa_x_preferred":[
         "Petrovice"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":101843921,
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254257,
     "wof:name":"Petrovice",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

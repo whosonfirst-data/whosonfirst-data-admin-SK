@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Krahule"
     ],
+    "name:eus_x_preferred":[
+        "Krahule"
+    ],
     "name:fra_x_preferred":[
         "Krahule"
     ],
@@ -63,14 +66,23 @@
     "name:por_x_preferred":[
         "Krahule"
     ],
+    "name:ron_x_preferred":[
+        "Krahule"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0445\u0443\u043b\u0435"
     ],
     "name:slk_x_preferred":[
         "Krahule"
     ],
+    "name:spa_x_preferred":[
+        "Krahule"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0445\u0443\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0433\u0443\u043b\u0435"
     ],
     "name:unk_x_variant":[
         "Blaufuss"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":1125816527,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254826,
     "wof:name":"Krahule",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

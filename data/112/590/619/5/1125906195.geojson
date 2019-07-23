@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
     "name:fra_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
@@ -42,17 +45,32 @@
     "name:msa_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
+    "name:nan_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
     "name:nld_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
     "name:pol_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
     "name:slk_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
+    "name:spa_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0459\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Kl\u0315ak"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u043b\u044c\u043e\u0432\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Kr\u00e1\u013eovce"
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1125906195,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254891,
     "wof:name":"Kr\u00e1l\u0315ovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

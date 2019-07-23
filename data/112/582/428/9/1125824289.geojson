@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Donovaly"
     ],
+    "name:eus_x_preferred":[
+        "Donovaly"
+    ],
     "name:fra_x_preferred":[
         "Donovaly"
     ],
@@ -40,6 +43,9 @@
         "D\u00f3val"
     ],
     "name:ita_x_preferred":[
+        "Donovaly"
+    ],
+    "name:lim_x_preferred":[
         "Donovaly"
     ],
     "name:lit_x_preferred":[
@@ -60,7 +66,13 @@
     "name:por_x_preferred":[
         "Donovaly"
     ],
+    "name:ron_x_preferred":[
+        "Donovaly"
+    ],
     "name:slk_x_preferred":[
+        "Donovaly"
+    ],
+    "name:spa_x_preferred":[
         "Donovaly"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125824289,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254950,
     "wof:name":"Donovaly",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Jaklovce"
     ],
+    "name:eus_x_preferred":[
+        "Jaklovce"
+    ],
     "name:fra_x_preferred":[
         "Jaklovce"
     ],
@@ -52,11 +55,23 @@
     "name:pol_x_preferred":[
         "Jaklovce"
     ],
+    "name:ron_x_preferred":[
+        "Jaklovce"
+    ],
     "name:slk_x_preferred":[
+        "Jaklovce"
+    ],
+    "name:spa_x_preferred":[
         "Jaklovce"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043a\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u0456\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u043a\u043b\u043e\u0432\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Jaklovce"
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101780257,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254594,
     "wof:name":"Jaklovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

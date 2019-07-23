@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00e1 Ti\u017eina"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00e1 Ti\u017eina"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254570,
     "wof:name":"Doln\u00e1 Ti\u017eina",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

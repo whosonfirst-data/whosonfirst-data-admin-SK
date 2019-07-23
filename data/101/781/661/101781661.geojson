@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nitrianske Rudno"
     ],
+    "name:eus_x_preferred":[
+        "Nitrianske Rudno"
+    ],
     "name:fra_x_preferred":[
         "Nitrianske Rudno"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Nitrianske Rudno"
     ],
+    "name:ron_x_preferred":[
+        "Nitrianske Rudno"
+    ],
     "name:slk_x_preferred":[
+        "Nitrianske Rudno"
+    ],
+    "name:spa_x_preferred":[
         "Nitrianske Rudno"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Nitrianske Rudno"
+    ],
+    "name:war_x_variant":[
+        "K\u013ea\u010dno"
     ],
     "name:zho_min_nan_x_preferred":[
         "Nitrianske Rudno"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":101781661,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254489,
     "wof:name":"Nitrianske Rudno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

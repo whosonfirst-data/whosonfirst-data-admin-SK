@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00e9 Ludince"
     ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Ludince"
     ],
@@ -49,7 +52,13 @@
     "name:pol_x_preferred":[
         "Ve\u013ek\u00e9 Ludince"
     ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
     "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:spa_x_preferred":[
         "Ve\u013ek\u00e9 Ludince"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Ludince"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00e9 \u00da\u013eany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101786431,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254526,
     "wof:name":"Ve\u013ek\u00e9 Ludince",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

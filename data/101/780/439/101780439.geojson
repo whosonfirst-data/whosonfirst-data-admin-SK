@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Chminianske Jakubovany"
     ],
+    "name:eus_x_preferred":[
+        "Chminianske Jakubovany"
+    ],
     "name:fra_x_preferred":[
         "Chminianske Jakubovany"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Chminianske Jakubovany"
     ],
+    "name:ron_x_preferred":[
+        "Chminianske Jakubovany"
+    ],
     "name:rue_x_preferred":[
         "\u0425\u043c\u0456\u043d\u044c\u044f\u043d\u0441\u043a\u0435 \u042f\u043a\u0443\u0431\u043e\u0432\u0430\u043d\u0456"
     ],
     "name:slk_x_preferred":[
+        "Chminianske Jakubovany"
+    ],
+    "name:spa_x_preferred":[
         "Chminianske Jakubovany"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254596,
     "wof:name":"Chminianske Jakubovany",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

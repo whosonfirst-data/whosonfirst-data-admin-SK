@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hajn\u00e1\u010dka"
     ],
+    "name:eus_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
     "name:fra_x_preferred":[
         "Hajn\u00e1\u010dka"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Hajn\u00e1\u010dka"
     ],
+    "name:ron_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
     "name:slk_x_preferred":[
+        "Hajn\u00e1\u010dka"
+    ],
+    "name:spa_x_preferred":[
         "Hajn\u00e1\u010dka"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:tur_x_preferred":[
         "Hajn\u00e1\u010dka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0439\u043d\u0430\u0447\u043a\u0430"
     ],
     "name:war_x_preferred":[
         "Hajn\u00e1\u010dka"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101784135,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254429,
     "wof:name":"Hajn\u00e1\u010dka",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

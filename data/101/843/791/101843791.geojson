@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Doj\u010d"
     ],
+    "name:eus_x_preferred":[
+        "Doj\u010d"
+    ],
     "name:fra_x_preferred":[
         "Doj\u010d"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Doj\u010d"
     ],
+    "name:nan_x_preferred":[
+        "Doj\u010d"
+    ],
     "name:nld_x_preferred":[
         "Doj\u010d"
     ],
     "name:por_x_preferred":[
         "Doj\u010d"
     ],
+    "name:ron_x_preferred":[
+        "Doj\u010d"
+    ],
     "name:slk_x_preferred":[
+        "Doj\u010d"
+    ],
+    "name:spa_x_preferred":[
         "Doj\u010d"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101843791,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254201,
     "wof:name":"Doj\u010d",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

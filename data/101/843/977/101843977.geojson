@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u010cir\u010d"
     ],
+    "name:eus_x_preferred":[
+        "\u010cir\u010d"
+    ],
     "name:fra_x_preferred":[
         "\u010cir\u010d"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "\u010cir\u010d"
     ],
+    "name:ron_x_preferred":[
+        "\u010cir\u010d"
+    ],
     "name:rue_x_preferred":[
         "\u0427\u0456\u0440\u0447"
     ],
     "name:slk_x_preferred":[
+        "\u010cir\u010d"
+    ],
+    "name:spa_x_preferred":[
         "\u010cir\u010d"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101843977,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254218,
     "wof:name":"\u010cir\u010d",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

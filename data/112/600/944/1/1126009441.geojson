@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u063a"
+    ],
     "name:cat_x_preferred":[
         "Praha"
     ],
@@ -31,6 +34,9 @@
         "Praha"
     ],
     "name:epo_x_preferred":[
+        "Praha"
+    ],
+    "name:eus_x_preferred":[
         "Praha"
     ],
     "name:fra_x_preferred":[
@@ -57,14 +63,23 @@
     "name:pol_x_preferred":[
         "Praha"
     ],
+    "name:ron_x_preferred":[
+        "Praha"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:slk_x_preferred":[
         "Praha"
     ],
+    "name:spa_x_preferred":[
+        "Praha"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0430\u0445\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:war_x_preferred":[
         "Praha"
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1126009441,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254942,
     "wof:name":"Praha",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

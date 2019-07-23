@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Horn\u00e1 S\u00fa\u010da"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00e1 S\u00fa\u010da"
+    ],
     "name:fra_x_preferred":[
         "Horn\u00e1 S\u00fa\u010da"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Horn\u00e1 S\u00fa\u010da"
     ],
+    "name:nan_x_preferred":[
+        "Horn\u00e1 S\u00fa\u010da"
+    ],
     "name:nld_x_preferred":[
         "Horn\u00e1 S\u00fa\u010da"
     ],
+    "name:ron_x_preferred":[
+        "Horn\u00e1 S\u00fa\u010da"
+    ],
     "name:slk_x_preferred":[
+        "Horn\u00e1 S\u00fa\u010da"
+    ],
+    "name:spa_x_preferred":[
         "Horn\u00e1 S\u00fa\u010da"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Horn\u00e1 S\u00fa\u010da"
+    ],
+    "name:war_x_variant":[
+        "Mokrance"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101843843,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254210,
     "wof:name":"Horn\u00e1 S\u00fa\u010da",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

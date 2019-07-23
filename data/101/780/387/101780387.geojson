@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Turie"
     ],
+    "name:eus_x_preferred":[
+        "Turie"
+    ],
     "name:fra_x_preferred":[
         "Turie"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Turie"
     ],
+    "name:ron_x_preferred":[
+        "Turie"
+    ],
     "name:slk_x_preferred":[
+        "Turie"
+    ],
+    "name:spa_x_preferred":[
         "Turie"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254680,
     "wof:name":"Turie",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

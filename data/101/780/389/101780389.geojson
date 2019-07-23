@@ -19,7 +19,13 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c\u064a\u062a\u0633\u0643\u0647 \u062a\u064a\u0628\u0644\u064a\u0633\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0435\u0446\u043a\u0435-\u0426\u0435\u043f\u043b\u0456\u0446\u044d"
+    ],
     "name:cat_x_preferred":[
+        "Rajeck\u00e9 Teplice"
+    ],
+    "name:ceb_x_preferred":[
         "Rajeck\u00e9 Teplice"
     ],
     "name:ces_x_preferred":[
@@ -32,6 +38,9 @@
         "Rajeck\u00e9 Teplice"
     ],
     "name:epo_x_preferred":[
+        "Rajeck\u00e9 Teplice"
+    ],
+    "name:eus_x_preferred":[
         "Rajeck\u00e9 Teplice"
     ],
     "name:fas_x_preferred":[
@@ -146,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254677,
     "wof:name":"Rajeck\u00e9 Teplice",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

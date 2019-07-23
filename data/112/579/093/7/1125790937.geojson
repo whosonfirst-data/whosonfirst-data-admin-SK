@@ -36,6 +36,9 @@
     "name:epo_x_preferred":[
         "Hlbok\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Hlbok\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Hlbok\u00e9"
     ],
@@ -63,14 +66,26 @@
     "name:por_x_preferred":[
         "Hlbok\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Hlbok\u00e9"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u0431\u043e\u043a\u0435"
     ],
     "name:slk_x_preferred":[
         "Hlbok\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Hlbok\u00e9"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043b\u0431\u043e\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hlbok\u00e9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0431\u043e\u043a\u0435"
     ],
     "name:war_x_preferred":[
         "Hlbok\u00e9"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1125790937,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254972,
     "wof:name":"Hlbok\u00e9",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

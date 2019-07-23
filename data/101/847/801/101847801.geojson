@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "O\u0161\u010dadnica"
     ],
+    "name:eus_x_preferred":[
+        "O\u0161\u010dadnica"
+    ],
     "name:fra_x_preferred":[
         "O\u0161\u010dadnica"
     ],
@@ -43,17 +46,29 @@
     "name:msa_x_preferred":[
         "O\u0161\u010dadnica"
     ],
+    "name:nan_x_preferred":[
+        "O\u0161\u010dadnica"
+    ],
     "name:nld_x_preferred":[
         "O\u0161\u010dadnica"
     ],
     "name:pol_x_preferred":[
         "Oszczadnica"
     ],
+    "name:ron_x_preferred":[
+        "O\u0161\u010dadnica"
+    ],
     "name:slk_x_preferred":[
+        "O\u0161\u010dadnica"
+    ],
+    "name:spa_x_preferred":[
         "O\u0161\u010dadnica"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0448\u0447\u0430\u0434\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0449\u0430\u0434\u043d\u0456\u0446\u0430"
     ],
     "name:war_x_preferred":[
         "O\u0161\u010dadnica"
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101847801,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254476,
     "wof:name":"O\u0161\u010dadnica",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

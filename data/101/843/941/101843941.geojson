@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Chlebnice"
     ],
+    "name:eus_x_preferred":[
+        "Chlebnice"
+    ],
     "name:fra_x_preferred":[
         "Chlebnice"
     ],
@@ -55,11 +58,20 @@
     "name:nld_x_preferred":[
         "Chlebnice"
     ],
+    "name:ron_x_preferred":[
+        "Chlebnice"
+    ],
     "name:slk_x_preferred":[
+        "Chlebnice"
+    ],
+    "name:spa_x_preferred":[
         "Chlebnice"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0459\u0435\u0431\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u043d\u0456\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Chlebnice"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101843941,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254220,
     "wof:name":"Chlebnice",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

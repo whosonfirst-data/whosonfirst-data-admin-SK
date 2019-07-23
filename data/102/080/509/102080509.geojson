@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Zvolen"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Zvolen"
+    ],
     "name:ces_x_preferred":[
         "Okres Zvolen"
+    ],
+    "name:ces_x_variant":[
+        "okres Zvolen"
     ],
     "name:chv_x_preferred":[
         "\u0417\u0432\u043e\u043b\u0435\u043d \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Zvolen"
     ],
+    "name:eng_x_variant":[
+        "Zvolen District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Zvolen"
     ],
+    "name:eus_x_preferred":[
+        "Zvolengo barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Zvolen"
+    ],
+    "name:fra_x_variant":[
+        "Zvolen"
     ],
     "name:hrv_x_preferred":[
         "Okrug Zvolen"
@@ -88,6 +103,9 @@
     "name:slk_x_preferred":[
         "Zvolen"
     ],
+    "name:slk_x_variant":[
+        "okres Zvolen"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Zvolen"
     ],
@@ -97,8 +115,14 @@
     "name:ukr_x_preferred":[
         "\u0417\u0432\u043e\u043b\u0435\u043d"
     ],
+    "name:vie_x_preferred":[
+        "Zvolen"
+    ],
     "name:war_x_preferred":[
         "Zvolen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8332\u6c83\u502b\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -148,7 +172,7 @@
         }
     ],
     "wof:id":102080509,
-    "wof:lastmodified":1561841677,
+    "wof:lastmodified":1563253597,
     "wof:name":"Zvolen",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

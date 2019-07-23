@@ -21,10 +21,16 @@
     "name:cat_x_preferred":[
         "Zbrojn\u00edky"
     ],
+    "name:deu_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
     "name:eng_x_preferred":[
         "Zbrojn\u00edky"
     ],
     "name:epo_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
+    "name:eus_x_preferred":[
         "Zbrojn\u00edky"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +54,13 @@
     "name:pol_x_preferred":[
         "Zbrojn\u00edky"
     ],
+    "name:ron_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
     "name:slk_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
+    "name:spa_x_preferred":[
         "Zbrojn\u00edky"
     ],
     "name:srp_x_preferred":[
@@ -59,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Zbrojn\u00edky"
+    ],
+    "name:war_x_variant":[
+        "Chropov"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125897241,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254849,
     "wof:name":"Zbrojn\u00edky",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

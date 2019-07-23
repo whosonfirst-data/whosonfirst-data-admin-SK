@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kapu\u0161any"
     ],
+    "name:eus_x_preferred":[
+        "Kapu\u0161any"
+    ],
     "name:fra_x_preferred":[
         "Kapu\u0161any"
     ],
@@ -49,10 +52,16 @@
     "name:pol_x_preferred":[
         "Kapu\u0161any"
     ],
+    "name:ron_x_preferred":[
+        "Kapu\u0161any"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0430\u043f\u0443\u0448\u0430\u043d\u0456"
     ],
     "name:slk_x_preferred":[
+        "Kapu\u0161any"
+    ],
+    "name:spa_x_preferred":[
         "Kapu\u0161any"
     ],
     "name:srp_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:war_x_preferred":[
         "Kapu\u0161any"
+    ],
+    "name:war_x_variant":[
+        "N\u00e1lepkovo"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -127,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254651,
     "wof:name":"Kapu\u0161any",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

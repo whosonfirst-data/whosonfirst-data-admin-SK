@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Torysa"
     ],
+    "name:eus_x_preferred":[
+        "Torysa"
+    ],
     "name:fra_x_preferred":[
         "Torysa"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Torysa"
     ],
+    "name:nan_x_preferred":[
+        "Torysa"
+    ],
     "name:nld_x_preferred":[
         "Torysa"
     ],
     "name:pol_x_preferred":[
         "Torysa"
     ],
+    "name:ron_x_preferred":[
+        "Torysa"
+    ],
     "name:slk_x_preferred":[
+        "Torysa"
+    ],
+    "name:spa_x_preferred":[
         "Torysa"
     ],
     "name:srp_x_preferred":[
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":101780479,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254590,
     "wof:name":"Torysa",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

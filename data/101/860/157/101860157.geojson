@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Krpe\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "Krpe\u013eany"
+    ],
     "name:fra_x_preferred":[
         "Krpe\u013eany"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Krpe\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "Krpe\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "Krpe\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "Krpe\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Krpe\u013eany"
+    ],
+    "name:war_x_variant":[
+        "Gbe\u013eany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101860157,
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254282,
     "wof:name":"Krpe\u013eany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

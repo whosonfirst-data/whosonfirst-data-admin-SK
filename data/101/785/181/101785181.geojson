@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
+    "name:eus_x_preferred":[
+        "Chorv\u00e1tsky Grob"
+    ],
     "name:fra_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
@@ -55,10 +58,16 @@
     "name:por_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
+    "name:ron_x_preferred":[
+        "Chorv\u00e1tsky Grob"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438-\u0413\u0440\u043e\u0431"
     ],
     "name:slk_x_preferred":[
+        "Chorv\u00e1tsky Grob"
+    ],
+    "name:spa_x_preferred":[
         "Chorv\u00e1tsky Grob"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101785181,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254332,
     "wof:name":"Chorv\u00e1tsky Grob",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -20,7 +20,13 @@
     "name:cat_x_preferred":[
         "Vysok\u00e9 Tatry"
     ],
+    "name:ceb_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
     "name:ces_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:cym_x_preferred":[
         "Vysok\u00e9 Tatry"
     ],
     "name:dan_x_preferred":[
@@ -36,6 +42,9 @@
         "Vysok\u00e9 Tatry"
     ],
     "name:est_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
+    "name:eus_x_preferred":[
         "Vysok\u00e9 Tatry"
     ],
     "name:fas_x_preferred":[
@@ -101,6 +110,9 @@
     "name:rus_x_preferred":[
         "\u0412\u044b\u0441\u043e\u043a\u0438\u0435 \u0422\u0430\u0442\u0440\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u044b\u0441\u043e\u043a\u0435 \u0422\u0430\u0442\u0440\u044b"
+    ],
     "name:sco_x_preferred":[
         "Vysok\u00e9 Tatry"
     ],
@@ -119,8 +131,14 @@
     "name:swe_x_preferred":[
         "Vysok\u00e9 Tatry"
     ],
+    "name:szl_x_preferred":[
+        "Vysok\u00e9 Tatry"
+    ],
     "name:tat_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u0435-\u0422\u0430\u0442\u0440\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Vysok\u00e9 Tatry"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u0456 \u0422\u0430\u0442\u0440\u0438"
@@ -191,7 +209,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254289,
     "wof:name":"Vysok\u00e9 Tatry",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

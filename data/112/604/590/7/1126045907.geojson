@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Lefantovce"
+    ],
     "name:fra_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
@@ -51,7 +54,13 @@
     "name:nld_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
+    "name:ron_x_preferred":[
+        "Horn\u00e9 Lefantovce"
+    ],
     "name:slk_x_preferred":[
+        "Horn\u00e9 Lefantovce"
+    ],
+    "name:spa_x_preferred":[
         "Horn\u00e9 Lefantovce"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Horn\u00e9 Lefantovce"
+    ],
+    "name:war_x_variant":[
+        "Huty"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1126045907,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254804,
     "wof:name":"Horn\u00e9 Lefantovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

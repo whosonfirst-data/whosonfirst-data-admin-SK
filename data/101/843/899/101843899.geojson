@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Stankovany"
     ],
+    "name:eus_x_preferred":[
+        "Stankovany"
+    ],
     "name:fra_x_preferred":[
         "Stankovany"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Stankovany"
     ],
+    "name:ron_x_preferred":[
+        "Stankovany"
+    ],
     "name:slk_x_preferred":[
+        "Stankovany"
+    ],
+    "name:spa_x_preferred":[
         "Stankovany"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Stankovany"
+    ],
+    "name:war_x_variant":[
+        "Predajn\u00e1"
     ],
     "name:zho_min_nan_x_preferred":[
         "Stankovany"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101843899,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254249,
     "wof:name":"Stankovany",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

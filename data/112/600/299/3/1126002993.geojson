@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00e1 Tepl\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00e1 Tepl\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Tepl\u00e1"
     ],
@@ -45,16 +48,25 @@
     "name:msa_x_preferred":[
         "Liptovsk\u00e1 Tepl\u00e1"
     ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00e1 Tepl\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Liptovsk\u00e1 Tepl\u00e1"
     ],
     "name:pol_x_preferred":[
         "Liptovsk\u00e1 Tepl\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Liptovsk\u00e1 Tepl\u00e1"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430-\u0422\u0435\u043f\u043b\u0430"
     ],
     "name:slk_x_preferred":[
+        "Liptovsk\u00e1 Tepl\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Liptovsk\u00e1 Tepl\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1126002993,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254939,
     "wof:name":"Liptovsk\u00e1 Tepl\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

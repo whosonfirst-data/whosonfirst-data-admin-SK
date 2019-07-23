@@ -21,10 +21,16 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
     "name:eng_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
     "name:epo_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:eus_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
     "name:fra_x_preferred":[
@@ -39,23 +45,38 @@
     "name:msa_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
+    "name:nan_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
     "name:nld_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
     "name:pol_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
     "name:slk_x_preferred":[
+        "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:spa_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0430 \u041b\u043e\u0434\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0430 \u041b\u043e\u0434\u0456\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Ve\u013ek\u00e1 Lodina"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e1 Lodina"
+    ],
+    "name:war_x_variant":[
+        "Strba"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -107,7 +128,7 @@
         }
     ],
     "wof:id":1125797627,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254967,
     "wof:name":"Vel\u0315k\u00e1 Lodina",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

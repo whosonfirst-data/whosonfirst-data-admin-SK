@@ -36,6 +36,9 @@
     "name:est_x_preferred":[
         "\u0160enkvice"
     ],
+    "name:eus_x_preferred":[
+        "\u0160enkvice"
+    ],
     "name:fra_x_preferred":[
         "\u0160enkvice"
     ],
@@ -60,7 +63,13 @@
     "name:por_x_preferred":[
         "\u0160enkvice"
     ],
+    "name:ron_x_preferred":[
+        "\u0160enkvice"
+    ],
     "name:slk_x_preferred":[
+        "\u0160enkvice"
+    ],
+    "name:spa_x_preferred":[
         "\u0160enkvice"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1125939747,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254748,
     "wof:name":"Vel\u0315k\u00e9 \u010can\u00edkovce",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

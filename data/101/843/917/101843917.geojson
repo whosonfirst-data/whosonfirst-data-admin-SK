@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Spi\u0161sk\u00fd \u0160tvrtok"
     ],
+    "name:eus_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
     "name:fra_x_preferred":[
         "Spi\u0161sk\u00fd \u0160tvrtok"
     ],
@@ -55,10 +58,19 @@
     "name:pol_x_preferred":[
         "Spi\u0161sk\u00fd \u0160tvrtok"
     ],
+    "name:pol_x_variant":[
+        "Spiski Czwartek"
+    ],
+    "name:ron_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0438\u0448\u0441\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
     ],
     "name:slk_x_preferred":[
+        "Spi\u0161sk\u00fd \u0160tvrtok"
+    ],
+    "name:spa_x_preferred":[
         "Spi\u0161sk\u00fd \u0160tvrtok"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101843917,
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254258,
     "wof:name":"Spi\u0161sk\u00fd \u0160tvrtok",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

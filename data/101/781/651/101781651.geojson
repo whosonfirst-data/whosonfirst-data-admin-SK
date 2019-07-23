@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kanianka"
     ],
+    "name:eus_x_preferred":[
+        "Kanianka"
+    ],
     "name:fra_x_preferred":[
         "Kanianka"
     ],
@@ -55,7 +58,13 @@
     "name:nor_x_preferred":[
         "Kanianka"
     ],
+    "name:ron_x_preferred":[
+        "Kanianka"
+    ],
     "name:slk_x_preferred":[
+        "Kanianka"
+    ],
+    "name:spa_x_preferred":[
         "Kanianka"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Kanianka"
+    ],
+    "name:war_x_variant":[
+        "Nov\u00e1 Bo\u0161\u00e1ca"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101781651,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254488,
     "wof:name":"Kanianka",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

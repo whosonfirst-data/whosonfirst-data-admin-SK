@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "K\u00fatniky"
     ],
+    "name:eus_x_preferred":[
+        "K\u00fatniky"
+    ],
     "name:fra_x_preferred":[
         "K\u00fatniky"
     ],
@@ -51,17 +54,29 @@
     "name:por_x_preferred":[
         "K\u00fatniky"
     ],
+    "name:ron_x_preferred":[
+        "K\u00fatniky"
+    ],
     "name:slk_x_preferred":[
+        "K\u00fatniky"
+    ],
+    "name:spa_x_preferred":[
         "K\u00fatniky"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0442\u045a\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0442\u043d\u0456\u043a\u0438"
     ],
     "name:unk_x_variant":[
         "Hegybene\u00e9te"
     ],
     "name:war_x_preferred":[
         "K\u00fatniky"
+    ],
+    "name:war_x_variant":[
+        "Ba\u0161ovce"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1126002959,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254933,
     "wof:name":"K\u00fatniky",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

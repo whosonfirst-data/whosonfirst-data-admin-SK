@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sokolovce"
     ],
+    "name:eus_x_preferred":[
+        "Sokolovce"
+    ],
     "name:fra_x_preferred":[
         "Sokolovce"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Sokolovce"
     ],
+    "name:nan_x_preferred":[
+        "Sokolovce"
+    ],
     "name:nld_x_preferred":[
         "Sokolovce"
     ],
+    "name:ron_x_preferred":[
+        "Sokolovce"
+    ],
     "name:slk_x_preferred":[
+        "Sokolovce"
+    ],
+    "name:spa_x_preferred":[
         "Sokolovce"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101784041,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254432,
     "wof:name":"Sokolovce",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

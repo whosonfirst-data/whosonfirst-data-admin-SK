@@ -21,10 +21,16 @@
     "name:cat_x_preferred":[
         "Lipov\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Lipov\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:epo_x_preferred":[
+        "Lipov\u00e9"
+    ],
+    "name:eus_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:fra_x_preferred":[
@@ -45,10 +51,16 @@
     "name:msa_x_preferred":[
         "Lipov\u00e9"
     ],
+    "name:nan_x_preferred":[
+        "Lipov\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:pol_x_preferred":[
+        "Lipov\u00e9"
+    ],
+    "name:ron_x_preferred":[
         "Lipov\u00e9"
     ],
     "name:slk_x_preferred":[
@@ -57,7 +69,13 @@
     "name:slk_x_variant":[
         "Lipov\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Lipov\u00e9"
+    ],
     "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0435"
     ],
     "name:war_x_preferred":[
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1125824259,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254945,
     "wof:name":"Lipove",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

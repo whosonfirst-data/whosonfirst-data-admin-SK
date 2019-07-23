@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
+    "name:eus_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
     "name:fra_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
@@ -49,10 +52,16 @@
     "name:msa_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
+    "name:nan_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
     "name:nld_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
     "name:por_x_preferred":[
+        "Vysok\u00e1 pri Morave"
+    ],
+    "name:ron_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
     "name:slk_x_historical":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101785279,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254337,
     "wof:name":"Vysok\u00e1 pri Morave",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

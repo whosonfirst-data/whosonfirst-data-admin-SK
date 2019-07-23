@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Jasenie"
     ],
+    "name:eus_x_preferred":[
+        "Jasenie"
+    ],
     "name:fra_x_preferred":[
         "Jasenie"
     ],
@@ -52,14 +55,26 @@
     "name:pol_x_preferred":[
         "Jasenie"
     ],
+    "name:ron_x_preferred":[
+        "Jasenie"
+    ],
     "name:slk_x_preferred":[
+        "Jasenie"
+    ],
+    "name:spa_x_preferred":[
         "Jasenie"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0441\u0435\u045a\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0456\u0454"
+    ],
     "name:war_x_preferred":[
         "Jasenie"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u723e\u9322\u65af\u51f1\u7279\u666e\u5229\u91c7"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Banskobystrick\u00fd kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101781739,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254478,
     "wof:name":"Jasenie",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u0634\u0633\u0643\u0627 \u0633\u062a\u0627\u0631\u0627 \u0641\u064a\u0633"
     ],
+    "name:bar_x_preferred":[
+        "Spi\u0161sk\u00e1 Star\u00e1 Ves"
+    ],
     "name:cat_x_preferred":[
         "Spi\u0161sk\u00e1 Star\u00e1 Ves"
     ],
@@ -32,6 +35,9 @@
         "Spi\u0161sk\u00e1 Star\u00e1 Ves"
     ],
     "name:epo_x_preferred":[
+        "Spi\u0161sk\u00e1 Star\u00e1 Ves"
+    ],
+    "name:eus_x_preferred":[
         "Spi\u0161sk\u00e1 Star\u00e1 Ves"
     ],
     "name:fas_x_preferred":[
@@ -76,7 +82,13 @@
     "name:rus_x_preferred":[
         "\u0421\u043f\u0438\u0448\u0441\u043a\u0430-\u0421\u0442\u0430\u0440\u0430-\u0412\u0435\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u043f\u0438\u0448\u0441\u043a\u0430 \u0421\u0442\u0430\u0440\u0430 \u0412\u0435\u0441"
+    ],
     "name:slk_x_preferred":[
+        "Spi\u0161sk\u00e1 Star\u00e1 Ves"
+    ],
+    "name:spa_x_preferred":[
         "Spi\u0161sk\u00e1 Star\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -84,6 +96,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0421\u043f\u0438\u0448\u0441\u043a\u0430-\u0421\u0442\u0430\u0440\u0430-\u0412\u0435\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Spi\u0161sk\u00e1 Star\u00e1 Ves"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0438\u0441\u044c\u043a\u0430 \u0421\u0442\u0430\u0440\u0430 \u0412\u0435\u0441"
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":101847803,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254474,
     "wof:name":"Spi\u0161sk\u00e1 Star\u00e1 Ves",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Moravany"
     ],
+    "name:eus_x_preferred":[
+        "Moravany"
+    ],
     "name:fra_x_preferred":[
         "Moravany"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Moravany"
     ],
+    "name:nan_x_preferred":[
+        "Moravany"
+    ],
     "name:nld_x_preferred":[
         "Moravany"
     ],
     "name:pol_x_preferred":[
         "Moravany"
     ],
+    "name:ron_x_preferred":[
+        "Moravany"
+    ],
     "name:slk_x_preferred":[
+        "Moravany"
+    ],
+    "name:spa_x_preferred":[
         "Moravany"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101843897,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254250,
     "wof:name":"Moravany",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

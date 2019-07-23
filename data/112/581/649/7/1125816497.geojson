@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Mal\u00e1 Ida"
     ],
+    "name:ces_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
     "name:deu_x_preferred":[
         "Mal\u00e1 Ida"
     ],
@@ -28,6 +31,9 @@
         "Mal\u00e1 Ida"
     ],
     "name:epo_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:eus_x_preferred":[
         "Mal\u00e1 Ida"
     ],
     "name:fra_x_preferred":[
@@ -42,20 +48,35 @@
     "name:msa_x_preferred":[
         "Mal\u00e1 Ida"
     ],
+    "name:nan_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
     "name:nld_x_preferred":[
         "Mal\u00e1 Ida"
     ],
     "name:pol_x_preferred":[
         "Mal\u00e1 Ida"
     ],
+    "name:ron_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
     "name:slk_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:spa_x_preferred":[
         "Mal\u00e1 Ida"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0418\u0434\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0406\u0434\u0430"
+    ],
     "name:war_x_preferred":[
         "Mal\u00e1 Ida"
+    ],
+    "name:war_x_variant":[
+        "Suchohrad"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -105,7 +126,7 @@
         }
     ],
     "wof:id":1125816497,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254825,
     "wof:name":"Mal\u00e1 Ida",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

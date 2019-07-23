@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
+    "name:eus_x_preferred":[
+        "Oravsk\u00e1 Jasenica"
+    ],
     "name:fra_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Jasienica Orawska"
     ],
+    "name:ron_x_preferred":[
+        "Oravsk\u00e1 Jasenica"
+    ],
     "name:slk_x_preferred":[
+        "Oravsk\u00e1 Jasenica"
+    ],
+    "name:spa_x_preferred":[
         "Oravsk\u00e1 Jasenica"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Oravsk\u00e1 Jasenica"
+    ],
+    "name:war_x_variant":[
+        "Oravsk\u00e1 Polhora"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101847823,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254475,
     "wof:name":"Oravsk\u00e1 Jasenica",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

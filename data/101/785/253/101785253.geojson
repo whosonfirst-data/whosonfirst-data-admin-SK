@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "\u010cebovce"
     ],
+    "name:eus_x_preferred":[
+        "\u010cebovce"
+    ],
     "name:fra_x_preferred":[
         "\u010cebovce"
     ],
@@ -49,14 +52,26 @@
     "name:pol_x_preferred":[
         "\u010cebovce"
     ],
+    "name:ron_x_preferred":[
+        "\u010cebovce"
+    ],
     "name:slk_x_preferred":[
+        "\u010cebovce"
+    ],
+    "name:spa_x_preferred":[
         "\u010cebovce"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0431\u043e\u0432\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0431\u043e\u0432\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "\u010cebovce"
+    ],
+    "name:war_x_variant":[
+        "Budmerice"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Banskobystrick\u00fd kraj",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101785253,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254344,
     "wof:name":"\u010cebovce",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

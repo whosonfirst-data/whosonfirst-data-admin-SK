@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
+    "name:eus_x_preferred":[
+        "Lys\u00e1 pod Makytou"
+    ],
     "name:fra_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
+    "name:ron_x_preferred":[
+        "Lys\u00e1 pod Makytou"
+    ],
     "name:slk_x_preferred":[
+        "Lys\u00e1 pod Makytou"
+    ],
+    "name:spa_x_preferred":[
         "Lys\u00e1 pod Makytou"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Lys\u00e1 pod Makytou"
+    ],
+    "name:war_x_variant":[
+        "Lendak"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101780333,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254638,
     "wof:name":"Lys\u00e1 pod Makytou",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

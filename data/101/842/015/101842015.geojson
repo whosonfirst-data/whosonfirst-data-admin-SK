@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "\u010cadca"
     ],
+    "name:ceb_x_preferred":[
+        "Okres \u010cadca"
+    ],
     "name:ces_x_preferred":[
         "\u010cadca"
     ],
@@ -48,6 +51,9 @@
         "\u010cadca"
     ],
     "name:est_x_preferred":[
+        "\u010cadca"
+    ],
+    "name:eus_x_preferred":[
         "\u010cadca"
     ],
     "name:fas_x_preferred":[
@@ -98,6 +104,9 @@
     "name:pol_x_preferred":[
         "\u010cadca"
     ],
+    "name:pol_x_variant":[
+        "Czadca"
+    ],
     "name:ron_x_preferred":[
         "\u010cadca"
     ],
@@ -121,6 +130,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u0430\u0434\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u010cadca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0434\u0446\u044f"
     ],
     "name:und_x_preferred":[
         "\u010cadca"
@@ -187,7 +202,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254178,
     "wof:name":"\u010cadca",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

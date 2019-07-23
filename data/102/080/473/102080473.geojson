@@ -22,11 +22,20 @@
     "mps:longitude":18.113707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Okres Nitra"
+    ],
     "name:cat_x_preferred":[
         "Districte de Nitra"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Nitra"
+    ],
     "name:ces_x_preferred":[
         "Okres Nitra"
+    ],
+    "name:ces_x_variant":[
+        "okres Nitra"
     ],
     "name:deu_x_preferred":[
         "Okres Nitra"
@@ -34,11 +43,20 @@
     "name:eng_x_preferred":[
         "Nitra"
     ],
+    "name:eng_x_variant":[
+        "Nitra District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Nitra"
     ],
+    "name:eus_x_preferred":[
+        "Nitrako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Nitra"
+    ],
+    "name:fra_x_variant":[
+        "Nitra"
     ],
     "name:hrv_x_preferred":[
         "Okrug Nitra"
@@ -85,6 +103,9 @@
     "name:slk_x_preferred":[
         "Nitra"
     ],
+    "name:slk_x_variant":[
+        "okres Nitra"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Nitra"
     ],
@@ -96,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "Nitra"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u7279\u62c9\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -145,7 +169,7 @@
         }
     ],
     "wof:id":102080473,
-    "wof:lastmodified":1561841678,
+    "wof:lastmodified":1563253604,
     "wof:name":"Nitra",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

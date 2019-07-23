@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00fd Ondrej"
     ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00fd Ondrej"
+    ],
     "name:fra_x_preferred":[
         "Liptovsk\u00fd Ondrej"
     ],
@@ -45,13 +48,25 @@
     "name:msa_x_preferred":[
         "Liptovsk\u00fd Ondrej"
     ],
+    "name:nan_x_preferred":[
+        "Liptovsk\u00fd Ondrej"
+    ],
     "name:nld_x_preferred":[
         "Liptovsk\u00fd Ondrej"
     ],
     "name:pol_x_preferred":[
         "Liptowski Andrzej"
     ],
+    "name:pol_x_variant":[
+        "L\u0315ubel\u0315a"
+    ],
+    "name:ron_x_preferred":[
+        "Liptovsk\u00fd Ondrej"
+    ],
     "name:slk_x_preferred":[
+        "Liptovsk\u00fd Ondrej"
+    ],
+    "name:spa_x_preferred":[
         "Liptovsk\u00fd Ondrej"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":1125774343,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563254998,
     "wof:name":"Liptovsk\u00fd Ondrej",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

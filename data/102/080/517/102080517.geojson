@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Skalica"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Skalica"
+    ],
     "name:ces_x_preferred":[
         "Okres Skalica"
+    ],
+    "name:ces_x_variant":[
+        "okres Skalica"
     ],
     "name:deu_x_preferred":[
         "Okres Skalica"
@@ -37,11 +43,20 @@
     "name:eng_x_preferred":[
         "Skalica"
     ],
+    "name:eng_x_variant":[
+        "Skalica District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Skalica"
     ],
+    "name:eus_x_preferred":[
+        "Skalicako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Skalica"
+    ],
+    "name:fra_x_variant":[
+        "Skalica"
     ],
     "name:hrv_x_preferred":[
         "Okrug Skalica"
@@ -88,6 +103,9 @@
     "name:slk_x_preferred":[
         "Skalica"
     ],
+    "name:slk_x_variant":[
+        "okres Skalica"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Skalica"
     ],
@@ -99,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "Skalica"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5361\u5229\u5bdf\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":102080517,
-    "wof:lastmodified":1561841676,
+    "wof:lastmodified":1563253581,
     "wof:name":"Skalica",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

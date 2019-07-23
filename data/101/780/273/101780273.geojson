@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Bystrany"
     ],
+    "name:eus_x_preferred":[
+        "Bystrany"
+    ],
     "name:fra_x_preferred":[
         "Bystrany"
     ],
@@ -55,10 +58,19 @@
     "name:pol_x_preferred":[
         "Bystrany"
     ],
+    "name:ron_x_preferred":[
+        "Bystrany"
+    ],
     "name:slk_x_preferred":[
         "Bystrany"
     ],
+    "name:spa_x_preferred":[
+        "Bystrany"
+    ],
     "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0438"
     ],
     "name:unk_x_variant":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101780273,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254582,
     "wof:name":"Bystrany",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

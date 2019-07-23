@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Doln\u00e9 Lov\u010dice"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00e9 Lov\u010dice"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00e9 Lov\u010dice"
     ],
@@ -54,7 +57,16 @@
     "name:por_x_preferred":[
         "Doln\u00e9 Lov\u010dice"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00e9 Lov\u010dice"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00e9 Lov\u010dice"
+    ],
+    "name:spa_x_preferred":[
+        "V\u00e1gf\u00fczes"
+    ],
+    "name:spa_x_variant":[
         "Doln\u00e9 Lov\u010dice"
     ],
     "name:srp_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1125796687,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254969,
     "wof:name":"Doln\u00e9 Lov\u010dice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

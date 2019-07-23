@@ -37,6 +37,9 @@
     "name:epo_x_preferred":[
         "Hul"
     ],
+    "name:eus_x_preferred":[
+        "Hul"
+    ],
     "name:fin_x_preferred":[
         "Hul"
     ],
@@ -71,6 +74,9 @@
         "Hul"
     ],
     "name:por_x_preferred":[
+        "Hul"
+    ],
+    "name:ron_x_preferred":[
         "Hul"
     ],
     "name:slk_x_preferred":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":101834113,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254314,
     "wof:name":"Hul",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

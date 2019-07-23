@@ -31,11 +31,17 @@
     "name:epo_x_preferred":[
         "Jamn\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Jamn\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Jamn\u00edk"
     ],
     "name:hun_x_preferred":[
         "Jamn\u00edk"
+    ],
+    "name:hun_x_variant":[
+        "Jamnik"
     ],
     "name:ita_x_preferred":[
         "Jamn\u00edk"
@@ -49,17 +55,29 @@
     "name:pol_x_preferred":[
         "Jamn\u00edk"
     ],
+    "name:pol_x_variant":[
+        "Jamnik"
+    ],
+    "name:ron_x_preferred":[
+        "Jamn\u00edk"
+    ],
     "name:slk_x_preferred":[
         "Jamn\u00edk"
     ],
     "name:slv_x_preferred":[
         "Jamnik"
     ],
+    "name:spa_x_preferred":[
+        "Jamn\u00edk"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043c\u045a\u0438\u043a"
     ],
     "name:war_x_preferred":[
         "Jamn\u00edk"
+    ],
+    "name:war_x_variant":[
+        "Nov\u00e1 Lesn\u00e1"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":101780355,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254576,
     "wof:name":"Jamn\u00edk",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Brzot\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Brzot\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Brzot\u00edn"
     ],
@@ -52,17 +55,29 @@
     "name:pol_x_preferred":[
         "Brzot\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Brzot\u00edn"
+    ],
     "name:slk_x_preferred":[
+        "Brzot\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Brzot\u00edn"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0437\u043e\u0442\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0437\u043e\u0442\u0456\u043d"
     ],
     "name:unk_x_variant":[
         "Berz\u00e9te"
     ],
     "name:war_x_preferred":[
         "Brzot\u00edn"
+    ],
+    "name:war_x_variant":[
+        "Bo\u0165any"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101782893,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254370,
     "wof:name":"Brzot\u00edn",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

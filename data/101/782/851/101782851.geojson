@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u0160umiac"
     ],
+    "name:eus_x_preferred":[
+        "\u0160umiac"
+    ],
     "name:fra_x_preferred":[
         "\u0160umiac"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "\u0160umiac"
     ],
+    "name:ron_x_preferred":[
+        "\u0160umiac"
+    ],
     "name:rue_x_preferred":[
         "\u0428\u0443\u043c\u044f\u0446"
     ],
     "name:slk_x_preferred":[
         "\u0160umiac"
     ],
+    "name:spa_x_preferred":[
+        "\u0160umiac"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0443\u043c\u0458\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u043c\u044f\u0446"
     ],
     "name:war_x_preferred":[
         "\u0160umiac"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101782851,
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254369,
     "wof:name":"\u0160umiac",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

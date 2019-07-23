@@ -26,6 +26,9 @@
     "name:bel_x_variant":[
         "\u041c\u043e\u0434\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Modra"
+    ],
     "name:ces_x_preferred":[
         "Modra"
     ],
@@ -48,6 +51,9 @@
         "Modra"
     ],
     "name:est_x_preferred":[
+        "Modra"
+    ],
+    "name:eus_x_preferred":[
         "Modra"
     ],
     "name:fas_x_preferred":[
@@ -76,6 +82,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30c9\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub4dc\ub77c"
     ],
     "name:lav_x_preferred":[
         "Modra"
@@ -183,7 +192,7 @@
         }
     ],
     "wof:id":101785209,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254343,
     "wof:name":"Modra",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

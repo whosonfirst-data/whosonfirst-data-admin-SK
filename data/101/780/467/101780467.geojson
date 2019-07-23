@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00fd Hru\u0161ov"
+    ],
     "name:fra_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00fd Hru\u0161ov"
+    ],
     "name:slk_x_preferred":[
+        "Ni\u017en\u00fd Hru\u0161ov"
+    ],
+    "name:spa_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101780467,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254659,
     "wof:name":"Ni\u017en\u00fd Hru\u0161ov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

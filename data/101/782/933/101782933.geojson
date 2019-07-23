@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
+    "name:ces_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
     "name:deu_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
@@ -26,6 +29,9 @@
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
     "name:epo_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:eus_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
     "name:fra_x_preferred":[
@@ -49,17 +55,29 @@
     "name:pol_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
+    "name:ron_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
     "name:slk_x_preferred":[
+        "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:spa_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0458\u0435\u045a\u0435 \u043f\u0440\u0438 \u0425\u043e\u0440\u043d\u0430\u0434\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0435-\u043f\u0440\u0456-\u0413\u043e\u0440\u043d\u0430\u0434\u0435"
     ],
     "name:unk_x_variant":[
         "N\u00e1do\u0161\u0165"
     ],
     "name:war_x_preferred":[
         "Trsten\u00e9 pri Horn\u00e1de"
+    ],
+    "name:war_x_variant":[
+        "Cinoba\u0148a"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":101782933,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254390,
     "wof:name":"Trsten\u00e9 pri Horn\u00e1de",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

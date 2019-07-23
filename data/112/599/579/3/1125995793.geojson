@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Bo\u0165any"
     ],
+    "name:eus_x_preferred":[
+        "Bo\u0165any"
+    ],
     "name:fra_x_preferred":[
         "Bo\u0165any"
     ],
@@ -54,10 +57,19 @@
     "name:pol_x_preferred":[
         "Bo\u0165any"
     ],
+    "name:ron_x_preferred":[
+        "Bo\u0165any"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u043e\u0442\u044f\u043d\u0438"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u044f\u043d\u044b"
+    ],
     "name:slk_x_preferred":[
+        "Bo\u0165any"
+    ],
+    "name:spa_x_preferred":[
         "Bo\u0165any"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1125995793,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254889,
     "wof:name":"Bot\u0315any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

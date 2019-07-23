@@ -51,6 +51,9 @@
     "name:nld_x_preferred":[
         "Z\u00e1horie"
     ],
+    "name:ron_x_preferred":[
+        "Z\u00e1horie"
+    ],
     "name:slk_x_preferred":[
         "Z\u00e1horie"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:war_x_preferred":[
         "Z\u00e1horie"
+    ],
+    "name:war_x_variant":[
+        "Domky"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125880149,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254828,
     "wof:name":"Zahorie",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

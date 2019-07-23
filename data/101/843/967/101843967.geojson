@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Modra nad Cirochou"
     ],
+    "name:eus_x_preferred":[
+        "Modra nad Cirochou"
+    ],
     "name:fra_x_preferred":[
         "Modra nad Cirochou"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Modra nad Cirochou"
     ],
+    "name:nan_x_preferred":[
+        "Modra nad Cirochou"
+    ],
     "name:nld_x_preferred":[
         "Modra nad Cirochou"
     ],
     "name:pol_x_preferred":[
         "Modra nad Cirochou"
     ],
+    "name:ron_x_preferred":[
+        "Modra nad Cirochou"
+    ],
     "name:slk_x_preferred":[
+        "Modra nad Cirochou"
+    ],
+    "name:spa_x_preferred":[
         "Modra nad Cirochou"
     ],
     "name:srp_x_preferred":[
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":101843967,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254235,
     "wof:name":"Modra nad Cirochou",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

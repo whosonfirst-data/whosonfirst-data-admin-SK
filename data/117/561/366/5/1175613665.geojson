@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":956938.217881,
+    "geom:area_square_m":1734443.835292,
     "geom:bbox":"19.2935588469,49.4583233167,19.3557349855,49.4777770223",
     "geom:latitude":49.465771,
     "geom:longitude":19.32347,
@@ -25,7 +25,13 @@
     "name:deu_x_preferred":[
         "M\u00fatne"
     ],
+    "name:eng_x_preferred":[
+        "M\u00fatne"
+    ],
     "name:epo_x_preferred":[
+        "M\u00fatne"
+    ],
+    "name:eus_x_preferred":[
         "M\u00fatne"
     ],
     "name:fra_x_preferred":[
@@ -40,14 +46,38 @@
     "name:msa_x_preferred":[
         "M\u00fatne"
     ],
+    "name:nan_x_preferred":[
+        "M\u00fatne"
+    ],
     "name:nld_x_preferred":[
         "M\u00fatne"
     ],
     "name:pol_x_preferred":[
         "Mutne"
     ],
+    "name:pol_x_variant":[
+        "M\u00fatne"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00fatne"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00fatne"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00fatne"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0442\u045a\u0435"
+    ],
     "name:unk_x_variant":[
         "Mutn\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "Terchov\u00e1"
+    ],
+    "name:war_x_variant":[
+        "M\u00fatne"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -93,7 +123,7 @@
         }
     ],
     "wof:id":1175613665,
-    "wof:lastmodified":1534985987,
+    "wof:lastmodified":1563254067,
     "wof:name":"M\u00fatne",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

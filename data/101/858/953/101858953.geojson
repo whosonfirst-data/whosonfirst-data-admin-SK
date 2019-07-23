@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hronec"
     ],
+    "name:eus_x_preferred":[
+        "Hronec"
+    ],
     "name:fra_x_preferred":[
         "Hronec"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "Hronec"
     ],
+    "name:ron_x_preferred":[
+        "Hronec"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u043e\u043d\u0435\u0446"
     ],
     "name:slk_x_preferred":[
         "Hronec"
     ],
+    "name:spa_x_preferred":[
+        "Hronec"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u043e\u045a\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043d\u0435\u0446"
     ],
     "name:war_x_preferred":[
         "Hronec"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":101858953,
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254290,
     "wof:name":"Hronec",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Om\u0161enie"
     ],
+    "name:eus_x_preferred":[
+        "Om\u0161enie"
+    ],
     "name:fra_x_preferred":[
         "Om\u0161enie"
     ],
@@ -46,10 +49,19 @@
     "name:msa_x_preferred":[
         "Om\u0161enie"
     ],
+    "name:nan_x_preferred":[
+        "Om\u0161enie"
+    ],
     "name:nld_x_preferred":[
         "Om\u0161enie"
     ],
+    "name:ron_x_preferred":[
+        "Om\u0161enie"
+    ],
     "name:slk_x_preferred":[
+        "Om\u0161enie"
+    ],
+    "name:spa_x_preferred":[
         "Om\u0161enie"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Om\u0161enie"
+    ],
+    "name:war_x_variant":[
+        "Lek\u00e1rovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101781725,
-    "wof:lastmodified":1561841707,
+    "wof:lastmodified":1563254492,
     "wof:name":"Om\u0161enie",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ro\u017ekovany"
     ],
+    "name:eus_x_preferred":[
+        "Ro\u017ekovany"
+    ],
     "name:fra_x_preferred":[
         "Ro\u017ekovany"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Ro\u017ekovany"
     ],
+    "name:ron_x_preferred":[
+        "Ro\u017ekovany"
+    ],
     "name:slk_x_preferred":[
+        "Ro\u017ekovany"
+    ],
+    "name:spa_x_preferred":[
         "Ro\u017ekovany"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":101843961,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254231,
     "wof:name":"Ro\u017ekovany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

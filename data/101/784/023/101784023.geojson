@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Trst\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Trst\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Trst\u00edn"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Trst\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Trst\u00edn"
+    ],
     "name:slk_x_preferred":[
+        "Trst\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Trst\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -118,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254431,
     "wof:name":"Trst\u00edn",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

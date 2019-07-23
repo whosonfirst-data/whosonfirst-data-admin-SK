@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
     "name:fra_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
+    "name:ron_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
     "name:rue_x_preferred":[
         "\u041b\u0456\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u0422\u0454\u043f\u043b\u0456\u0447\u043a\u0430"
     ],
     "name:slk_x_preferred":[
+        "Liptovsk\u00e1 Tepli\u010dka"
+    ],
+    "name:spa_x_preferred":[
         "Liptovsk\u00e1 Tepli\u010dka"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101780525,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254679,
     "wof:name":"Liptovsk\u00e1 Tepli\u010dka",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

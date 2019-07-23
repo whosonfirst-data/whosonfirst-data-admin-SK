@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Ivanovce"
     ],
+    "name:eus_x_preferred":[
+        "Ivanovce"
+    ],
     "name:fra_x_preferred":[
         "Ivanovce"
     ],
@@ -48,11 +51,20 @@
     "name:nld_x_preferred":[
         "Ivanovce"
     ],
+    "name:ron_x_preferred":[
+        "Ivanovce"
+    ],
     "name:slk_x_preferred":[
+        "Ivanovce"
+    ],
+    "name:spa_x_preferred":[
         "Ivanovce"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Kral\u0315ovany"
     ],
     "name:war_x_preferred":[
         "Ivanovce"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1125774151,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254981,
     "wof:name":"Ivanovce",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

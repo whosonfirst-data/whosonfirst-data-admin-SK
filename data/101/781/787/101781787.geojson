@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Budkovce"
     ],
+    "name:eus_x_preferred":[
+        "Budkovce"
+    ],
     "name:fra_x_preferred":[
         "Budkovce"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Budkovce"
     ],
+    "name:ron_x_preferred":[
+        "Budkovce"
+    ],
     "name:slk_x_preferred":[
+        "Budkovce"
+    ],
+    "name:spa_x_preferred":[
         "Budkovce"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101781787,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254515,
     "wof:name":"Budkovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

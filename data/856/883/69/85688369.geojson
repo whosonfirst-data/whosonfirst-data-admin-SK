@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Trnava"
     ],
+    "name:ceb_x_preferred":[
+        "Trnavsk\u00fd kraj"
+    ],
     "name:ces_x_preferred":[
         "Trnavsk\u00fd kraj"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Trnava"
+    ],
+    "name:eng_x_variant":[
+        "Trnava Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Trnava"
@@ -87,6 +93,9 @@
     "name:fra_x_variant":[
         "Trnava"
     ],
+    "name:frr_x_preferred":[
+        "Trnava"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ab0\u0acd\u0aa8\u0abe\u0ab5\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -101,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "Nagyszombati k\u00f6rzet"
+    ],
+    "name:hun_x_variant":[
+        "Nagyszombat megye"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u0576\u0561\u057e\u0561\u0575\u056b \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
@@ -122,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub974\ub098\ubc14 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud2b8\ub974\ub098\ubc14\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Tirnava"
@@ -335,7 +350,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1561841680,
+    "wof:lastmodified":1563253722,
     "wof:name":"Trnavsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

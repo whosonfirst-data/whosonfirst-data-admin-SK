@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Dlh\u00e9 Kl\u010dovo"
     ],
+    "name:eus_x_preferred":[
+        "Dlh\u00e9 Kl\u010dovo"
+    ],
     "name:fra_x_preferred":[
         "Dlh\u00e9 Kl\u010dovo"
     ],
@@ -43,16 +46,25 @@
     "name:msa_x_preferred":[
         "Dlh\u00e9 Kl\u010dovo"
     ],
+    "name:nan_x_preferred":[
+        "Dlh\u00e9 Kl\u010dovo"
+    ],
     "name:nld_x_preferred":[
         "Dlh\u00e9 Kl\u010dovo"
     ],
     "name:pol_x_preferred":[
         "Dlh\u00e9 Kl\u010dovo"
     ],
+    "name:ron_x_preferred":[
+        "Dlh\u00e9 Kl\u010dovo"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043b\u0433\u0435 \u041a\u043b\u0447\u043e\u0432\u043e"
     ],
     "name:slk_x_preferred":[
+        "Dlh\u00e9 Kl\u010dovo"
+    ],
+    "name:spa_x_preferred":[
         "Dlh\u00e9 Kl\u010dovo"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101780465,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254610,
     "wof:name":"Dlh\u00e9 Kl\u010dovo",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

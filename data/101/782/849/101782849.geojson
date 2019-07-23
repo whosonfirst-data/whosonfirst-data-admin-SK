@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Bystri\u010dany"
     ],
+    "name:eus_x_preferred":[
+        "Bystri\u010dany"
+    ],
     "name:fra_x_preferred":[
         "Bystri\u010dany"
     ],
@@ -52,6 +55,9 @@
     "name:nld_x_preferred":[
         "Bystri\u010dany"
     ],
+    "name:ron_x_preferred":[
+        "Bystri\u010dany"
+    ],
     "name:slk_x_preferred":[
         "Bystri\u010dany"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Bystri\u010dany"
+    ],
+    "name:war_x_variant":[
+        "Ko\u010dovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101782849,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254394,
     "wof:name":"Bystri\u010dany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ni\u017en\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Ni\u017en\u00e1"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:hun_x_preferred":[
         "Ni\u017en\u00e1"
+    ],
+    "name:hun_x_variant":[
+        "Nizsna"
     ],
     "name:ita_x_preferred":[
         "Ni\u017en\u00e1"
@@ -55,7 +61,13 @@
     "name:pol_x_preferred":[
         "Ni\u017cna"
     ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00e1"
+    ],
     "name:slk_x_preferred":[
+        "Ni\u017en\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "Ni\u017en\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":101780551,
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254566,
     "wof:name":"Ni\u017en\u00e1",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

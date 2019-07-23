@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Pata"
     ],
+    "name:eus_x_preferred":[
+        "Pata"
+    ],
     "name:fra_x_preferred":[
         "Pata"
     ],
@@ -49,10 +52,22 @@
     "name:nld_x_preferred":[
         "Pata"
     ],
+    "name:ron_x_preferred":[
+        "Pata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0430"
+    ],
     "name:slk_x_preferred":[
         "Pata"
     ],
+    "name:spa_x_preferred":[
+        "Pata"
+    ],
     "name:srp_x_preferred":[
+        "\u041f\u0430\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0430\u0442\u0430"
     ],
     "name:war_x_preferred":[
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":101785193,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254317,
     "wof:name":"Pata",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Do\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "Do\u013eany"
+    ],
     "name:fra_x_preferred":[
         "Do\u013eany"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "Do\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "Do\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "Do\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "Do\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125997077,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254882,
     "wof:name":"Dol\u0315any",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

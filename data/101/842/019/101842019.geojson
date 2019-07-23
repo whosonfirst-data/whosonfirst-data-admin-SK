@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Kr\u00e1sno nad Kysucou"
     ],
+    "name:ceb_x_preferred":[
+        "Kr\u00e1sno nad Kysucou"
+    ],
     "name:ces_x_preferred":[
         "Kr\u00e1sno nad Kysucou"
     ],
@@ -32,6 +35,9 @@
         "Kr\u00e1sno nad Kysucou"
     ],
     "name:epo_x_preferred":[
+        "Kr\u00e1sno nad Kysucou"
+    ],
+    "name:eus_x_preferred":[
         "Kr\u00e1sno nad Kysucou"
     ],
     "name:fas_x_preferred":[
@@ -81,6 +87,12 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e-\u043d\u0430\u0434-\u041a\u0438\u0441\u0443\u0442\u0441\u043e\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Kr\u00e1sno nad Kysucou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e-\u043d\u0430\u0434-\u041a\u0438\u0441\u0443\u0446\u043e\u0443"
     ],
     "name:unk_x_variant":[
         "Kr\u00e1sno"
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":101842019,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254182,
     "wof:name":"Kr\u00e1sno nad Kysucou",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

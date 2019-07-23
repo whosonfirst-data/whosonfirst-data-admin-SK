@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
+    "name:eus_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
     "name:fra_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
@@ -52,14 +55,26 @@
     "name:por_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
     "name:slk_x_preferred":[
+        "Nov\u00fd \u017divot"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00fd \u017divot"
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u0416\u0438\u0432\u043e\u0442"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0416\u0456\u0432\u043e\u0442"
+    ],
     "name:war_x_preferred":[
         "Nov\u00fd \u017divot"
+    ],
+    "name:war_x_variant":[
+        "Kop\u010dany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":101786307,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254517,
     "wof:name":"Nov\u00fd \u017divot",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

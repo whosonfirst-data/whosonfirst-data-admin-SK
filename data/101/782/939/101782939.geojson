@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Per\u00edn-Chym"
     ],
+    "name:eus_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
     "name:fra_x_preferred":[
         "Per\u00edn-Chym"
     ],
@@ -52,17 +55,29 @@
     "name:pol_x_preferred":[
         "Per\u00edn-Chym"
     ],
+    "name:ron_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
     "name:slk_x_preferred":[
+        "Per\u00edn-Chym"
+    ],
+    "name:spa_x_preferred":[
         "Per\u00edn-Chym"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0440\u0438\u043d-\u0425\u0438\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0456\u043d-\u0425\u0438\u043c"
     ],
     "name:unk_x_variant":[
         "Per\u010dny"
     ],
     "name:war_x_preferred":[
         "Per\u00edn-Chym"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u65e5\u5c3c\u4e9e\u74e6"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":101782939,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254356,
     "wof:name":"Per\u00edn - Chym",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
     "name:slk_x_preferred":[
+        "Ve\u013ek\u00fd Biel"
+    ],
+    "name:spa_x_preferred":[
         "Ve\u013ek\u00fd Biel"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00fd Biel"
+    ],
+    "name:war_x_variant":[
+        "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101833919,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254302,
     "wof:name":"Ve\u013ek\u00fd Biel",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

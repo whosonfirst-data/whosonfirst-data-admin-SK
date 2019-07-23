@@ -24,10 +24,16 @@
     "name:ces_x_preferred":[
         "Podhorie"
     ],
+    "name:deu_x_preferred":[
+        "Podhorie"
+    ],
     "name:eng_x_preferred":[
         "Podhorie"
     ],
     "name:epo_x_preferred":[
+        "Podhorie"
+    ],
+    "name:eus_x_preferred":[
         "Podhorie"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +57,13 @@
     "name:pol_x_preferred":[
         "Podhorie"
     ],
+    "name:ron_x_preferred":[
+        "Podhorie"
+    ],
     "name:slk_x_preferred":[
+        "Podhorie"
+    ],
+    "name:spa_x_preferred":[
         "Podhorie"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1126006179,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254931,
     "wof:name":"Podhorie",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

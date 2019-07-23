@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Giraltovce"
     ],
+    "name:ceb_x_preferred":[
+        "Giraltovce"
+    ],
     "name:ces_x_preferred":[
         "Giraltovce"
     ],
@@ -38,6 +41,9 @@
     "name:epo_x_preferred":[
         "Giraltovce"
     ],
+    "name:eus_x_preferred":[
+        "Giraltovce"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u06cc\u0631\u0627\u0644\u062a\u0648\u062a\u0633\u0647"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:hbs_x_preferred":[
         "Giraltovce"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05e8\u05d0\u05dc\u05d8"
     ],
     "name:hrv_x_preferred":[
         "Giraltovce"
@@ -91,6 +100,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0413\u0438\u0440\u0430\u043b\u0442\u043e\u0432\u0442\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Giraltovce"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0456\u0440\u0430\u043b\u0442\u043e\u0432\u0446\u0435"
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":101780617,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254583,
     "wof:name":"Giraltovce",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

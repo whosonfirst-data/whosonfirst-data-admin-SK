@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Predmier"
     ],
+    "name:eus_x_preferred":[
+        "Predmier"
+    ],
     "name:fra_x_preferred":[
         "Predmier"
     ],
@@ -46,16 +49,25 @@
     "name:msa_x_preferred":[
         "Predmier"
     ],
+    "name:nan_x_preferred":[
+        "Predmier"
+    ],
     "name:nld_x_preferred":[
         "Predmier"
     ],
     "name:pol_x_preferred":[
         "Predmier"
     ],
+    "name:ron_x_preferred":[
+        "Predmier"
+    ],
     "name:slk_x_preferred":[
         "Predmier"
     ],
     "name:slv_x_preferred":[
+        "Predmier"
+    ],
+    "name:spa_x_preferred":[
         "Predmier"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101843923,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254223,
     "wof:name":"Predmier",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

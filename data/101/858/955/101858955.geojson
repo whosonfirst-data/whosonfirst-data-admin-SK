@@ -16,7 +16,7 @@
     "mps:longitude":20.793652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0416\u044d\u0433\u0440\u0430"
     ],
     "name:cat_x_preferred":[
@@ -41,6 +41,9 @@
         "\u017dehra"
     ],
     "name:epo_x_preferred":[
+        "\u017dehra"
+    ],
+    "name:eus_x_preferred":[
         "\u017dehra"
     ],
     "name:fra_x_preferred":[
@@ -79,6 +82,9 @@
     "name:pol_x_preferred":[
         "\u017behra"
     ],
+    "name:ron_x_preferred":[
+        "\u017dehra"
+    ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u0433\u0440\u0430"
     ],
@@ -93,6 +99,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0416\u0435\u0445\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u017dehra"
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0435\u0433\u0440\u0430"
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":101858955,
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254291,
     "wof:name":"\u017dehra",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

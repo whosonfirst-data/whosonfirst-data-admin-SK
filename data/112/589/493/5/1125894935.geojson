@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Dubodiel"
     ],
+    "name:eus_x_preferred":[
+        "Dubodiel"
+    ],
     "name:fra_x_preferred":[
         "Dubodiel"
     ],
@@ -45,10 +48,19 @@
     "name:msa_x_preferred":[
         "Dubodiel"
     ],
+    "name:nan_x_preferred":[
+        "Dubodiel"
+    ],
     "name:nld_x_preferred":[
         "Dubodiel"
     ],
+    "name:ron_x_preferred":[
+        "Dubodiel"
+    ],
     "name:slk_x_preferred":[
+        "Dubodiel"
+    ],
+    "name:spa_x_preferred":[
         "Dubodiel"
     ],
     "name:srp_x_preferred":[
@@ -56,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Dubodiel"
+    ],
+    "name:war_x_variant":[
+        "Bod\u00edky"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":1125894935,
-    "wof:lastmodified":1561841724,
+    "wof:lastmodified":1563254855,
     "wof:name":"Dubodiel",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u0160pa\u010dince"
     ],
+    "name:eus_x_preferred":[
+        "\u0160pa\u010dince"
+    ],
     "name:fra_x_preferred":[
         "\u0160pa\u010dince"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "\u0160pa\u010dince"
     ],
+    "name:ron_x_preferred":[
+        "\u0160pa\u010dince"
+    ],
     "name:slk_x_preferred":[
+        "\u0160pa\u010dince"
+    ],
+    "name:spa_x_preferred":[
         "\u0160pa\u010dince"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "\u0160pa\u010dince"
+    ],
+    "name:war_x_variant":[
+        "Neslu\u0161a"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -111,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254256,
     "wof:name":"\u0160pa\u010dince",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

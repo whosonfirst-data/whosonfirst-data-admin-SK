@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "\u0160arovce"
     ],
+    "name:eus_x_preferred":[
+        "\u0160arovce"
+    ],
     "name:fra_x_preferred":[
         "\u0160arovce"
     ],
@@ -51,7 +54,16 @@
     "name:pol_x_preferred":[
         "\u0160arovce"
     ],
+    "name:pol_x_variant":[
+        "Vel\u0315k\u00e9 Kr\u0161kany"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160arovce"
+    ],
     "name:slk_x_preferred":[
+        "\u0160arovce"
+    ],
+    "name:spa_x_preferred":[
         "\u0160arovce"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125990451,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254887,
     "wof:name":"Velke Sarovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041e\u0441\u0440\u0431\u043b\u044c\u0435"
+    ],
     "name:cat_x_preferred":[
         "Osrblie"
     ],
@@ -31,6 +34,9 @@
         "Osrblie"
     ],
     "name:epo_x_preferred":[
+        "Osrblie"
+    ],
+    "name:eus_x_preferred":[
         "Osrblie"
     ],
     "name:fra_x_preferred":[
@@ -54,10 +60,16 @@
     "name:pol_x_preferred":[
         "Osrblie"
     ],
+    "name:ron_x_preferred":[
+        "Osrblie"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0441\u0440\u0431\u043b\u044c\u0435"
     ],
     "name:slk_x_preferred":[
+        "Osrblie"
+    ],
+    "name:spa_x_preferred":[
         "Osrblie"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1125830955,
-    "wof:lastmodified":1561841732,
+    "wof:lastmodified":1563255004,
     "wof:name":"Osrblie",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

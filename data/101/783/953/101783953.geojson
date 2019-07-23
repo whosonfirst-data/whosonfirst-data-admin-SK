@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "V\u00fd\u010dapy-Opatovce"
     ],
+    "name:eus_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
     "name:fra_x_preferred":[
         "V\u00fd\u010dapy-Opatovce"
     ],
@@ -43,10 +46,19 @@
     "name:msa_x_preferred":[
         "V\u00fd\u010dapy-Opatovce"
     ],
+    "name:nan_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
     "name:nld_x_preferred":[
         "V\u00fd\u010dapy-Opatovce"
     ],
+    "name:ron_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
     "name:slk_x_preferred":[
+        "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:spa_x_preferred":[
         "V\u00fd\u010dapy-Opatovce"
     ],
     "name:srp_x_preferred":[
@@ -67,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "V\u00fd\u010dapy-Opatovce"
+    ],
+    "name:war_x_variant":[
+        "Z\u00e1vod"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -115,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254414,
     "wof:name":"V\u00fd\u010dapy - Opatovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

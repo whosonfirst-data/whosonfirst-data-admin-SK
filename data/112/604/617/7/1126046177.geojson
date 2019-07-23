@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
+    "name:ceb_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
     "name:ces_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
@@ -32,6 +35,9 @@
         "M\u00fdto pod \u010eumbierom"
     ],
     "name:epo_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:eus_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
     "name:fra_x_preferred":[
@@ -46,17 +52,29 @@
     "name:msa_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
+    "name:nan_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
     "name:nld_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
     "name:pol_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
+    "name:ron_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
     "name:slk_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:spa_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0442\u043e \u043f\u043e\u0434 \u0414\u0458\u0443\u043c\u0431\u0458\u0435\u0440\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0442\u043e-\u043f\u043e\u0434-\u0414\u044e\u043c\u0431'\u0454\u0440\u043e\u043c"
     ],
     "name:war_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":1126046177,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254801,
     "wof:name":"M\u00fdto pod \u010eumbierom",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00e9 Lovce"
     ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Lovce"
+    ],
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Lovce"
     ],
@@ -48,7 +51,13 @@
     "name:nld_x_preferred":[
         "Ve\u013ek\u00e9 Lovce"
     ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Lovce"
+    ],
     "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Lovce"
+    ],
+    "name:spa_x_preferred":[
         "Ve\u013ek\u00e9 Lovce"
     ],
     "name:srp_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Lovce"
+    ],
+    "name:war_x_variant":[
+        "Ni\u017en\u00e1 Boca"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1126012955,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254921,
     "wof:name":"Vel\u0315k\u00e9 Lovce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

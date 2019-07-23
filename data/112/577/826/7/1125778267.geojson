@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Prievaly"
     ],
+    "name:eus_x_preferred":[
+        "Prievaly"
+    ],
     "name:fra_x_preferred":[
         "Prievaly"
     ],
@@ -45,13 +48,22 @@
     "name:msa_x_preferred":[
         "Prievaly"
     ],
+    "name:nan_x_preferred":[
+        "Prievaly"
+    ],
     "name:nld_x_preferred":[
         "Prievaly"
     ],
     "name:por_x_preferred":[
         "Prievaly"
     ],
+    "name:ron_x_preferred":[
+        "Prievaly"
+    ],
     "name:slk_x_preferred":[
+        "Prievaly"
+    ],
+    "name:spa_x_preferred":[
         "Prievaly"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Prievaly"
+    ],
+    "name:war_x_variant":[
+        "Ni\u017en\u00fd Slavkov"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1125778267,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254980,
     "wof:name":"Prievaly",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
+    "name:eus_x_preferred":[
+        "Tom\u00e1\u0161ov"
+    ],
     "name:fra_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
+    "name:ron_x_preferred":[
+        "Tom\u00e1\u0161ov"
+    ],
     "name:slk_x_preferred":[
+        "Tom\u00e1\u0161ov"
+    ],
+    "name:spa_x_preferred":[
         "Tom\u00e1\u0161ov"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Tom\u00e1\u0161ov"
+    ],
+    "name:war_x_variant":[
+        "Selice"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101786371,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254532,
     "wof:name":"Tom\u00e1\u0161ov",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

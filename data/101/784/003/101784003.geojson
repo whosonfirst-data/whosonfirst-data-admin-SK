@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
+    "name:eus_x_preferred":[
+        "Topo\u013e\u010dianky"
+    ],
     "name:fin_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
@@ -55,11 +58,20 @@
     "name:nld_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
+    "name:ron_x_preferred":[
+        "Topo\u013e\u010dianky"
+    ],
     "name:slk_x_preferred":[
+        "Topo\u013e\u010dianky"
+    ],
+    "name:spa_x_preferred":[
         "Topo\u013e\u010dianky"
     ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u043f\u043e\u0459\u0447\u0458\u0430\u043d\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u044c\u0447\u044f\u043d\u043a\u0438"
     ],
     "name:war_x_preferred":[
         "Topo\u013e\u010dianky"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101784003,
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254459,
     "wof:name":"Topo\u013e\u010dianky",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

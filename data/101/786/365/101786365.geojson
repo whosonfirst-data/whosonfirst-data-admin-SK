@@ -29,7 +29,13 @@
     "name:cat_x_preferred":[
         "\u0160urany"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160urany"
+    ],
     "name:ces_x_preferred":[
+        "\u0160urany"
+    ],
+    "name:dan_x_preferred":[
         "\u0160urany"
     ],
     "name:deu_x_preferred":[
@@ -39,6 +45,9 @@
         "\u0160urany"
     ],
     "name:epo_x_preferred":[
+        "\u0160urany"
+    ],
+    "name:eus_x_preferred":[
         "\u0160urany"
     ],
     "name:fra_x_preferred":[
@@ -95,6 +104,9 @@
     "name:rus_x_preferred":[
         "\u0428\u0443\u0440\u0430\u043d\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0428\u0443\u0440\u0430\u043d\u044b"
+    ],
     "name:slk_x_preferred":[
         "\u0160urany"
     ],
@@ -112,6 +124,9 @@
     ],
     "name:tur_x_preferred":[
         "\u015euran"
+    ],
+    "name:tur_x_variant":[
+        "\u0160urany"
     ],
     "name:war_x_preferred":[
         "\u0160urany"
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":101786365,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254519,
     "wof:name":"\u0160urany",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

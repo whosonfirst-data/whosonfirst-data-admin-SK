@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
+    "name:eus_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
     "name:fra_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
+    "name:ron_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
     "name:slk_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:spa_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:war_x_variant":[
+        "Sk\u00fdcov"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101843903,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254233,
     "wof:name":"Ko\u0161\u0165any nad Turcom",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

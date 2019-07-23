@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "So\u013e"
     ],
+    "name:eus_x_preferred":[
+        "So\u013e"
+    ],
     "name:fra_x_preferred":[
         "So\u013e"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "So\u013e"
     ],
+    "name:ron_x_preferred":[
+        "So\u013e"
+    ],
     "name:slk_x_preferred":[
+        "So\u013e"
+    ],
+    "name:spa_x_preferred":[
         "So\u013e"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101780447,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254578,
     "wof:name":"So\u013e",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

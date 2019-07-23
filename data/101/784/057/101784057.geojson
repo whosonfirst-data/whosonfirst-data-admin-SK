@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nitrianska Blatnica"
     ],
+    "name:eus_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
     "name:fra_x_preferred":[
         "Nitrianska Blatnica"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Nitrianska Blatnica"
     ],
+    "name:ron_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
     "name:slk_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:spa_x_preferred":[
         "Nitrianska Blatnica"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Nitrianska Blatnica"
+    ],
+    "name:war_x_variant":[
+        "Pra\u0161ice"
     ],
     "name:zho_min_nan_x_preferred":[
         "Nitrianska Blatnica"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101784057,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254462,
     "wof:name":"Nitrianska Blatnica",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

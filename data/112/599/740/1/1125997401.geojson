@@ -31,11 +31,20 @@
     "name:deu_x_preferred":[
         "Vlkol\u00ednec"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03ba\u03cc\u03bb\u03b9\u03bd\u03b5\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Vlkol\u00ednec"
     ],
     "name:epo_x_preferred":[
         "Vlkol\u00ednec"
+    ],
+    "name:eus_x_preferred":[
+        "Vlkol\u00ednec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u0648\u0644\u06cc\u0646\u06a9"
     ],
     "name:fin_x_preferred":[
         "Vlkol\u00ednec"
@@ -45,6 +54,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05dc\u05e7\u05d5\u05dc\u05d9\u05e0\u05e5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0932\u094d\u0915\u094b\u0932\u093f\u0928\u0947\u0938"
     ],
     "name:hrv_x_preferred":[
         "Vlkol\u00ednec"
@@ -73,6 +85,9 @@
     "name:lit_x_preferred":[
         "Vlkolinecas"
     ],
+    "name:myv_x_preferred":[
+        "\u0412\u043b\u043a\u043e\u043b\u0438\u043d\u0435\u0446"
+    ],
     "name:nan_x_preferred":[
         "Vlkol\u00ednec"
     ],
@@ -97,10 +112,19 @@
     "name:slk_x_preferred":[
         "Vlkol\u00ednec"
     ],
+    "name:slv_x_preferred":[
+        "Vlkolinec"
+    ],
     "name:spa_x_preferred":[
         "Vlkol\u00ednec"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u043a\u043e\u043b\u0438\u043d\u0435\u0446"
+    ],
     "name:swe_x_preferred":[
+        "Vlkol\u00ednec"
+    ],
+    "name:tur_x_preferred":[
         "Vlkol\u00ednec"
     ],
     "name:ukr_x_preferred":[
@@ -165,7 +189,7 @@
         }
     ],
     "wof:id":1125997401,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254886,
     "wof:name":"Vlkol\u00ednec",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

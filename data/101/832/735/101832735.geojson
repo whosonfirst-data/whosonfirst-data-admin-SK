@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Petroviany"
     ],
+    "name:eng_x_variant":[
+        "Petrovany"
+    ],
     "name:epo_x_preferred":[
+        "Petrovany"
+    ],
+    "name:eus_x_preferred":[
         "Petrovany"
     ],
     "name:fra_x_preferred":[
@@ -52,13 +58,22 @@
     "name:pol_x_preferred":[
         "Petrovany"
     ],
+    "name:ron_x_preferred":[
+        "Petrovany"
+    ],
     "name:rue_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u043d\u0456"
     ],
     "name:slk_x_preferred":[
         "Petrovany"
     ],
+    "name:spa_x_preferred":[
+        "Petrovany"
+    ],
     "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u043d\u0438"
     ],
     "name:und_x_preferred":[
@@ -120,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254274,
     "wof:name":"Petrovany",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

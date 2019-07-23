@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "\u017delovce"
     ],
+    "name:eus_x_preferred":[
+        "\u017delovce"
+    ],
     "name:fra_x_preferred":[
         "\u017delovce"
     ],
@@ -40,16 +43,28 @@
     "name:msa_x_preferred":[
         "\u017delovce"
     ],
+    "name:nan_x_preferred":[
+        "\u017delovce"
+    ],
     "name:nld_x_preferred":[
         "\u017delovce"
     ],
     "name:pol_x_preferred":[
         "\u017delovce"
     ],
+    "name:ron_x_preferred":[
+        "\u017delovce"
+    ],
     "name:slk_x_preferred":[
         "\u017delovce"
     ],
+    "name:spa_x_preferred":[
+        "\u017delovce"
+    ],
     "name:srp_x_preferred":[
+        "\u0416\u0435\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u0416\u0435\u043b\u043e\u0432\u0446\u0435"
     ],
     "name:unk_x_variant":[
@@ -57,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "\u017delovce"
+    ],
+    "name:war_x_variant":[
+        "\u017dirany"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Banskobystrick\u00fd kraj",
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":101785267,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254327,
     "wof:name":"\u017delovce",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

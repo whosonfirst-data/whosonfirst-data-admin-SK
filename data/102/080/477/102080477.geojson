@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Levice"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Levice"
+    ],
     "name:ces_x_preferred":[
         "Okres Levice"
+    ],
+    "name:ces_x_variant":[
+        "okres Levice"
     ],
     "name:deu_x_preferred":[
         "Okres Levice"
@@ -34,11 +40,20 @@
     "name:eng_x_preferred":[
         "Levice"
     ],
+    "name:eng_x_variant":[
+        "Levice District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Levice"
     ],
+    "name:eus_x_preferred":[
+        "Leviceko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Levice"
+    ],
+    "name:fra_x_variant":[
+        "Levice"
     ],
     "name:hrv_x_preferred":[
         "Okrug Levice"
@@ -85,17 +100,26 @@
     "name:slk_x_preferred":[
         "Levice"
     ],
+    "name:slk_x_variant":[
+        "okres Levice"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Levice"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0409\u0435\u0432\u0438\u0446\u0435"
     ],
+    "name:tur_x_preferred":[
+        "Levice il\u00e7esi"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0432\u0456\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Levice"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u7dad\u91c7\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -145,7 +169,7 @@
         }
     ],
     "wof:id":102080477,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253573,
     "wof:name":"Levice",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

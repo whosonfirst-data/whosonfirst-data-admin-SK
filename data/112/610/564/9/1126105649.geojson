@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Barca"
     ],
+    "name:eng_x_preferred":[
+        "Ko\u0161ice-Barca"
+    ],
     "name:epo_x_preferred":[
         "Barca"
     ],
@@ -41,7 +44,13 @@
     "name:ita_x_preferred":[
         "Barca"
     ],
+    "name:nan_x_preferred":[
+        "Barca"
+    ],
     "name:nld_x_preferred":[
+        "Ko\u0161ice-Barca"
+    ],
+    "name:nob_x_preferred":[
         "Ko\u0161ice-Barca"
     ],
     "name:nor_x_preferred":[
@@ -49,6 +58,12 @@
     ],
     "name:slk_x_preferred":[
         "Ko\u0161ice \u2013 mestsk\u00e1 \u010das\u0165 Barca"
+    ],
+    "name:slk_x_variant":[
+        "Barca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0446\u0430"
     ],
     "name:und_x_preferred":[
         "Barca"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1126105649,
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1563254787,
     "wof:name":"Barca",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

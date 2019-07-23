@@ -26,10 +26,19 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0440\u0435\u0432\u0456\u0434\u0437\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0440\u2019\u0435\u0432\u0456\u0434\u0437\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0435\u0432\u0438\u0434\u0437\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041f\u0440\u0438\u0435\u0432\u0438\u0446\u0430"
+    ],
     "name:cat_x_preferred":[
+        "Prievidza"
+    ],
+    "name:ceb_x_preferred":[
         "Prievidza"
     ],
     "name:ces_x_preferred":[
@@ -51,6 +60,9 @@
         "Prievidza"
     ],
     "name:est_x_preferred":[
+        "Prievidza"
+    ],
+    "name:eus_x_preferred":[
         "Prievidza"
     ],
     "name:fas_x_preferred":[
@@ -85,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub9ac\uc5d0\ube44\ub4dc\uc790"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub9ac\uc5d0\ube44\uc790"
     ],
     "name:lav_x_preferred":[
         "Prjevidza"
@@ -136,6 +151,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041f\u0440\u0438\u0435\u0432\u0438\u0434\u0437\u0430"
+    ],
+    "name:tat_x_variant":[
+        "\u041f\u0440\u044c\u0435\u0432\u0438\u0434\u0437\u0430"
     ],
     "name:tur_x_preferred":[
         "Prievidza"
@@ -202,7 +220,7 @@
         }
     ],
     "wof:id":101752057,
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254166,
     "wof:name":"Prievidza",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Ko\u0161\u00faty"
     ],
+    "name:eus_x_preferred":[
+        "Ko\u0161\u00faty"
+    ],
     "name:fra_x_preferred":[
         "Ko\u0161\u00faty"
     ],
@@ -49,14 +52,26 @@
     "name:nld_x_preferred":[
         "Ko\u0161\u00faty"
     ],
+    "name:ron_x_preferred":[
+        "Ko\u0161\u00faty"
+    ],
     "name:slk_x_preferred":[
+        "Ko\u0161\u00faty"
+    ],
+    "name:spa_x_preferred":[
         "Ko\u0161\u00faty"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0448\u0443\u0442\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0443\u0442\u0438"
+    ],
     "name:war_x_preferred":[
         "Ko\u0161\u00faty"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u624e\u59c6\u57fa"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101786399,
-    "wof:lastmodified":1561841709,
+    "wof:lastmodified":1563254522,
     "wof:name":"Ko\u0161\u00faty",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

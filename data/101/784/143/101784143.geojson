@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Oslany"
     ],
+    "name:eus_x_preferred":[
+        "Oslany"
+    ],
     "name:fra_x_preferred":[
         "Oslany"
     ],
@@ -52,7 +55,16 @@
     "name:nld_x_preferred":[
         "Oslany"
     ],
+    "name:pol_x_preferred":[
+        "Oslany"
+    ],
+    "name:ron_x_preferred":[
+        "Oslany"
+    ],
     "name:slk_x_preferred":[
+        "Oslany"
+    ],
+    "name:spa_x_preferred":[
         "Oslany"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Oslany"
+    ],
+    "name:war_x_variant":[
+        "Rimavsk\u00e9 Janovce"
     ],
     "name:zho_min_nan_x_preferred":[
         "Oslany"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":101784143,
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254447,
     "wof:name":"Oslany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

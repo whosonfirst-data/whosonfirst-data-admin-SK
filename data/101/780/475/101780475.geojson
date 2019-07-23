@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kamenica"
     ],
+    "name:eus_x_preferred":[
+        "Kamenica"
+    ],
     "name:fra_x_preferred":[
         "Kamenica"
     ],
@@ -49,7 +52,13 @@
     "name:pol_x_preferred":[
         "Kamenica"
     ],
+    "name:ron_x_preferred":[
+        "Kamenica"
+    ],
     "name:slk_x_preferred":[
+        "Kamenica"
+    ],
+    "name:spa_x_preferred":[
         "Kamenica"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Kamenica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u5e15\u5c3c"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":101780475,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254648,
     "wof:name":"Kamenica",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ha\u017el\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Ha\u017el\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Ha\u017el\u00edn"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Ha\u017el\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Ha\u017el\u00edn"
+    ],
     "name:rue_x_preferred":[
         "\u0413\u0430\u0436\u043b\u0456\u043d"
     ],
     "name:slk_x_preferred":[
+        "Ha\u017el\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Ha\u017el\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":101780605,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254598,
     "wof:name":"Ha\u017el\u00edn",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Majcichov"
     ],
+    "name:eus_x_preferred":[
+        "Majcichov"
+    ],
     "name:fra_x_preferred":[
         "Majcichov"
     ],
@@ -46,16 +49,25 @@
     "name:msa_x_preferred":[
         "Majcichov"
     ],
+    "name:nan_x_preferred":[
+        "Majcichov"
+    ],
     "name:nld_x_preferred":[
         "Majcichov"
     ],
     "name:por_x_preferred":[
         "Majcichov"
     ],
+    "name:ron_x_preferred":[
+        "Majcichov"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0439\u0446\u0438\u0446\u0433\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Majcichov"
+    ],
+    "name:spa_x_preferred":[
         "Majcichov"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254333,
     "wof:name":"Majcichov",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

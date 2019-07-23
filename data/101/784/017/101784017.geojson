@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Doln\u00e9 Ore\u0161any"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00e9 Ore\u0161any"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Doln\u00e9 Ore\u0161any"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00e9 Ore\u0161any"
     ],
     "name:srp_x_preferred":[
@@ -75,6 +84,9 @@
     ],
     "name:war_x_preferred":[
         "Doln\u00e9 Ore\u0161any"
+    ],
+    "name:war_x_variant":[
+        "Drahovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -126,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254458,
     "wof:name":"Doln\u00e9 Ore\u0161any",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

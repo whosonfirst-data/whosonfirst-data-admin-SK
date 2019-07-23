@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Medzilaborce"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Medzilaborce"
+    ],
     "name:ces_x_preferred":[
         "Okres Medzilaborce"
+    ],
+    "name:ces_x_variant":[
+        "okres Medzilaborce"
     ],
     "name:deu_x_preferred":[
         "Okres Medzilaborce"
@@ -34,11 +40,20 @@
     "name:eng_x_preferred":[
         "Medzilaborce"
     ],
+    "name:eng_x_variant":[
+        "Medzilaborce District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Medzilaborce"
     ],
+    "name:eus_x_preferred":[
+        "Medzilaborceko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Medzilaborce"
+    ],
+    "name:fra_x_variant":[
+        "Medzilaborce"
     ],
     "name:hrv_x_preferred":[
         "Okrug Medzilaborce"
@@ -85,6 +100,9 @@
     "name:slk_x_preferred":[
         "Medzilaborce"
     ],
+    "name:slk_x_variant":[
+        "okres Medzilaborce"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Medzilaborce"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Medzilaborce"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u6fdf\u62c9\u535a\u723e\u91c7\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":102080617,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253571,
     "wof:name":"Medzilaborce",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

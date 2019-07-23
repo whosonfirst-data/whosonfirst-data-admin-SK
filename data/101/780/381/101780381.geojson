@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
+    "name:eus_x_preferred":[
+        "Dlh\u00e9 Pole"
+    ],
     "name:fra_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
+    "name:nan_x_preferred":[
+        "Dlh\u00e9 Pole"
+    ],
     "name:nld_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
     "name:pol_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
+    "name:ron_x_preferred":[
+        "Dlh\u00e9 Pole"
+    ],
     "name:slk_x_preferred":[
+        "Dlh\u00e9 Pole"
+    ],
+    "name:spa_x_preferred":[
         "Dlh\u00e9 Pole"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254684,
     "wof:name":"Dlh\u00e9 Pole",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

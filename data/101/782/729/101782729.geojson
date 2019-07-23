@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Studienka"
     ],
+    "name:eus_x_preferred":[
+        "Studienka"
+    ],
     "name:fra_x_preferred":[
         "Studienka"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Studienka"
     ],
+    "name:ron_x_preferred":[
+        "Studienka"
+    ],
     "name:slk_x_preferred":[
+        "Studienka"
+    ],
+    "name:spa_x_preferred":[
         "Studienka"
     ],
     "name:srp_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Studienka"
+    ],
+    "name:war_x_variant":[
+        "Mal\u010dice"
     ],
     "name:zho_min_nan_x_preferred":[
         "Studienka"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101782729,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254413,
     "wof:name":"Studienka",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

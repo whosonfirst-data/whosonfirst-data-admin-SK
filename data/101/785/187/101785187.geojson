@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
     "name:fra_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
     ],
@@ -43,10 +46,19 @@
     "name:msa_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
     ],
+    "name:nan_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
     "name:nld_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
     "name:slk_x_preferred":[
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:spa_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom"
+    ],
+    "name:war_x_variant":[
+        "Bran\u010d"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101785187,
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254330,
     "wof:name":"Kr\u00e1\u013eov\u00e1 nad V\u00e1hom",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

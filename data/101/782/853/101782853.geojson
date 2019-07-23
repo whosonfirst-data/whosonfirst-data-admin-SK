@@ -23,7 +23,13 @@
     "name:cat_x_preferred":[
         "Se\u010dovce"
     ],
+    "name:ceb_x_preferred":[
+        "Se\u010dovce"
+    ],
     "name:ces_x_preferred":[
+        "Se\u010dovce"
+    ],
+    "name:dan_x_preferred":[
         "Se\u010dovce"
     ],
     "name:deu_x_preferred":[
@@ -33,6 +39,9 @@
         "Se\u010dovce"
     ],
     "name:epo_x_preferred":[
+        "Se\u010dovce"
+    ],
+    "name:eus_x_preferred":[
         "Se\u010dovce"
     ],
     "name:fas_x_preferred":[
@@ -80,11 +89,20 @@
     "name:slk_x_preferred":[
         "Se\u010dovce"
     ],
+    "name:spa_x_preferred":[
+        "Se\u010dovce"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0447\u043e\u0432\u0446\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Se\u010dovce"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u0447\u043e\u0432\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Se\u010dovce"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0447\u043e\u0432\u0446\u0435"
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":101782853,
-    "wof:lastmodified":1561841702,
+    "wof:lastmodified":1563254400,
     "wof:name":"Se\u010dovce",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

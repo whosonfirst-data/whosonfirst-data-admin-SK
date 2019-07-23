@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Borovce"
     ],
+    "name:eus_x_preferred":[
+        "Borovce"
+    ],
     "name:fra_x_preferred":[
         "Borovce"
     ],
@@ -45,14 +48,29 @@
     "name:msa_x_preferred":[
         "Borovce"
     ],
+    "name:nan_x_preferred":[
+        "Borovce"
+    ],
     "name:nld_x_preferred":[
+        "Borovce"
+    ],
+    "name:por_x_preferred":[
+        "Borovce"
+    ],
+    "name:ron_x_preferred":[
         "Borovce"
     ],
     "name:slk_x_preferred":[
         "Borovce"
     ],
+    "name:spa_x_preferred":[
+        "Borovce"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Jezersko"
     ],
     "name:war_x_preferred":[
         "Borovce"
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":1125860399,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254821,
     "wof:name":"Borovce",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0631\u0627\u0646\u062a\u0633\u0649"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u0431\u0440\u0430\u043d\u0446\u044b"
+    ],
     "name:cat_x_preferred":[
+        "Sobrance"
+    ],
+    "name:ceb_x_preferred":[
         "Sobrance"
     ],
     "name:ces_x_preferred":[
@@ -33,6 +39,9 @@
         "Sobrance"
     ],
     "name:epo_x_preferred":[
+        "Sobrance"
+    ],
+    "name:eus_x_preferred":[
         "Sobrance"
     ],
     "name:fas_x_preferred":[
@@ -84,6 +93,9 @@
         "Sobrance"
     ],
     "name:slv_x_preferred":[
+        "Sobrance"
+    ],
+    "name:spa_x_preferred":[
         "Sobrance"
     ],
     "name:srp_x_preferred":[
@@ -160,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254676,
     "wof:name":"Sobrance",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

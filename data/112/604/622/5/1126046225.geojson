@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Topo\u013en\u00edky"
     ],
+    "name:eus_x_preferred":[
+        "Topo\u013en\u00edky"
+    ],
     "name:fra_x_preferred":[
         "Topo\u013en\u00edky"
     ],
@@ -42,23 +45,38 @@
     "name:msa_x_preferred":[
         "Topo\u013en\u00edky"
     ],
+    "name:nan_x_preferred":[
+        "Topo\u013en\u00edky"
+    ],
     "name:nld_x_preferred":[
         "Topo\u013en\u00edky"
     ],
     "name:por_x_preferred":[
         "Topo\u013en\u00edky"
     ],
+    "name:ron_x_preferred":[
+        "Topo\u013en\u00edky"
+    ],
     "name:slk_x_preferred":[
+        "Topo\u013en\u00edky"
+    ],
+    "name:spa_x_preferred":[
         "Topo\u013en\u00edky"
     ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u043f\u043e\u0459\u045a\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u044c\u043d\u0438\u043a\u0438"
     ],
     "name:unk_x_variant":[
         "\u0147\u00e1ra\u017ed"
     ],
     "name:war_x_preferred":[
         "Topo\u013en\u00edky"
+    ],
+    "name:war_x_variant":[
+        "Horn\u00e9 Lefantovce"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":1126046225,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254804,
     "wof:name":"Topol\u0315n\u00edky",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

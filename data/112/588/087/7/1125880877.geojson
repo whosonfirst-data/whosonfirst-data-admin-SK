@@ -24,6 +24,9 @@
     "name:ces_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
+    "name:ces_x_variant":[
+        "Oravice"
+    ],
     "name:deu_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
@@ -31,6 +34,9 @@
         "Uhorsk\u00e1 Ves"
     ],
     "name:epo_x_preferred":[
+        "Uhorsk\u00e1 Ves"
+    ],
+    "name:eus_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +60,13 @@
     "name:pol_x_preferred":[
         "W\u0119gierska_Wie\u015b"
     ],
+    "name:ron_x_preferred":[
+        "Uhorsk\u00e1 Ves"
+    ],
     "name:slk_x_preferred":[
+        "Uhorsk\u00e1 Ves"
+    ],
+    "name:spa_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125880877,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254831,
     "wof:name":"Uhorsk\u00e1 Ves",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

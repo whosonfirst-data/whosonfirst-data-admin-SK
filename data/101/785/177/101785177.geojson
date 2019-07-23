@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "B\u00e1ho\u0148"
     ],
+    "name:eus_x_preferred":[
+        "B\u00e1ho\u0148"
+    ],
     "name:fra_x_preferred":[
         "B\u00e1ho\u0148"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "B\u00e1ho\u0148"
     ],
+    "name:ron_x_preferred":[
+        "B\u00e1ho\u0148"
+    ],
     "name:slk_x_preferred":[
+        "B\u00e1ho\u0148"
+    ],
+    "name:spa_x_preferred":[
         "B\u00e1ho\u0148"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "B\u00e1ho\u0148"
+    ],
+    "name:war_x_variant":[
+        "Zavar"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101785177,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254349,
     "wof:name":"B\u00e1ho\u0148",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

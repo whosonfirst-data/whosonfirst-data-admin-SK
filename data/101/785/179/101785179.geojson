@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Reca"
     ],
+    "name:eus_x_preferred":[
+        "Reca"
+    ],
     "name:fra_x_preferred":[
         "RecA"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "RecA"
+    ],
+    "name:ita_x_variant":[
+        "Reca"
     ],
     "name:msa_x_preferred":[
         "Reca"
@@ -58,11 +64,17 @@
     "name:por_x_preferred":[
         "Reca"
     ],
+    "name:ron_x_preferred":[
+        "Reca"
+    ],
     "name:slk_x_preferred":[
         "Reca"
     ],
     "name:spa_x_preferred":[
         "RecA"
+    ],
+    "name:spa_x_variant":[
+        "Reca"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0446\u0430"
@@ -75,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Reca"
+    ],
+    "name:war_x_variant":[
+        "H\u00e1jske"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":101785179,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254350,
     "wof:name":"Reca",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

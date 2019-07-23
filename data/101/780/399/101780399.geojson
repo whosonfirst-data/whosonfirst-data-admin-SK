@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Str\u00e1\u0148avy"
     ],
+    "name:eus_x_preferred":[
+        "Str\u00e1\u0148avy"
+    ],
     "name:fra_x_preferred":[
         "Str\u00e1\u0148avy"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Str\u00e1\u0148avy"
     ],
+    "name:ron_x_preferred":[
+        "Str\u00e1\u0148avy"
+    ],
     "name:slk_x_preferred":[
+        "Str\u00e1\u0148avy"
+    ],
+    "name:spa_x_preferred":[
         "Str\u00e1\u0148avy"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254575,
     "wof:name":"Str\u00e1\u0148avy",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

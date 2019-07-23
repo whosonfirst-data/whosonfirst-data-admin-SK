@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sta\u0161kov"
     ],
+    "name:eus_x_preferred":[
+        "Sta\u0161kov"
+    ],
     "name:fra_x_preferred":[
         "Sta\u0161kov"
     ],
@@ -52,13 +55,22 @@
     "name:pol_x_preferred":[
         "Sta\u0161kov"
     ],
+    "name:ron_x_preferred":[
+        "Sta\u0161kov"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0448\u043a\u043e\u0432"
     ],
     "name:slk_x_preferred":[
         "Sta\u0161kov"
     ],
+    "name:spa_x_preferred":[
+        "Sta\u0161kov"
+    ],
     "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0448\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0448\u043a\u043e\u0432"
     ],
     "name:war_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101842007,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254180,
     "wof:name":"Sta\u0161kov",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

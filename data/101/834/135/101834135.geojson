@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u010cata"
     ],
+    "name:eus_x_preferred":[
+        "\u010cata"
+    ],
     "name:fra_x_preferred":[
         "\u010cata"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "\u010cata"
     ],
+    "name:ron_x_preferred":[
+        "\u010cata"
+    ],
     "name:slk_x_preferred":[
+        "\u010cata"
+    ],
+    "name:spa_x_preferred":[
         "\u010cata"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "\u010cata"
+    ],
+    "name:war_x_variant":[
+        "Sekule"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101834135,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254305,
     "wof:name":"\u010cata",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Bohunice"
     ],
+    "name:eus_x_preferred":[
+        "Bohunice"
+    ],
     "name:fra_x_preferred":[
         "Bohunice"
     ],
@@ -51,14 +54,23 @@
     "name:nld_x_preferred":[
         "Bohunice"
     ],
+    "name:ron_x_preferred":[
+        "Bohunice"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0433\u0443\u043d\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
         "Bohunice"
     ],
+    "name:spa_x_preferred":[
+        "Bohunice"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0445\u0443\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0443\u043d\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Bohunice"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1126009207,
-    "wof:lastmodified":1561841728,
+    "wof:lastmodified":1563254940,
     "wof:name":"Bohunice nad V\u00e1hom",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

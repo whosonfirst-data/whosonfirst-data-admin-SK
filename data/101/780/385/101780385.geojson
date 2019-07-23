@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Lietava"
     ],
+    "name:eus_x_preferred":[
+        "Lietava"
+    ],
     "name:fra_x_preferred":[
         "Lietava"
     ],
@@ -61,7 +64,13 @@
     "name:pol_x_preferred":[
         "Lietava"
     ],
+    "name:ron_x_preferred":[
+        "Lietava"
+    ],
     "name:slk_x_preferred":[
+        "Lietava"
+    ],
+    "name:spa_x_preferred":[
         "Lietava"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254617,
     "wof:name":"Lietava",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

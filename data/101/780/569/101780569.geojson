@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Rak\u00fasy"
     ],
+    "name:eus_x_preferred":[
+        "Rak\u00fasy"
+    ],
     "name:fra_x_preferred":[
         "Rak\u00fasy"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Rakusy"
     ],
+    "name:ron_x_preferred":[
+        "Rak\u00fasy"
+    ],
     "name:rue_x_preferred":[
         "\u0420\u0430\u043a\u0443\u0441\u0456"
     ],
     "name:slk_x_preferred":[
+        "Rak\u00fasy"
+    ],
+    "name:spa_x_preferred":[
         "Rak\u00fasy"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101780569,
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254566,
     "wof:name":"Rak\u00fasy",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Drietoma"
     ],
+    "name:eus_x_preferred":[
+        "Drietoma"
+    ],
     "name:fra_x_preferred":[
         "Drietoma"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Drietoma"
     ],
+    "name:ron_x_preferred":[
+        "Drietoma"
+    ],
     "name:slk_x_preferred":[
+        "Drietoma"
+    ],
+    "name:spa_x_preferred":[
         "Drietoma"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Drietoma"
+    ],
+    "name:war_x_variant":[
+        "Pravenec"
     ],
     "name:zho_min_nan_x_preferred":[
         "Drietoma"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101843845,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254205,
     "wof:name":"Drietoma",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

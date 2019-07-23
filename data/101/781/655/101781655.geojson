@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
+    "name:eus_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
     "name:fra_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
@@ -52,6 +55,9 @@
     "name:nld_x_preferred":[
         "Nedo\u017eery-Brezany"
     ],
+    "name:ron_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0434\u043e\u0436\u0435\u0440\u044b-\u0411\u0440\u0435\u0437\u0430\u043d\u044b"
     ],
@@ -61,11 +67,17 @@
     "name:slk_x_variant":[
         "Nedo\u017eery-Brezany"
     ],
+    "name:spa_x_preferred":[
+        "Nedo\u017eery-Brezany"
+    ],
     "name:srp_x_preferred":[
         "\u040a\u0435\u0434\u043e\u0436\u0435\u0440\u0438-\u0411\u0440\u0435\u0437\u0430\u043d\u0438"
     ],
     "name:war_x_preferred":[
         "Nedo\u017eery-Brezany"
+    ],
+    "name:war_x_variant":[
+        "Kamenec pod Vt\u00e1\u010dnikom"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":101781655,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254509,
     "wof:name":"Nedo\u017eery - Brezany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

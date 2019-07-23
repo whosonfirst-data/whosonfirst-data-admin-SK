@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Vavre\u010dka"
     ],
+    "name:eus_x_preferred":[
+        "Vavre\u010dka"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u0631\u0686\u06a9\u0627"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Wawreczka"
     ],
+    "name:ron_x_preferred":[
+        "Vavre\u010dka"
+    ],
     "name:slk_x_preferred":[
+        "Vavre\u010dka"
+    ],
+    "name:spa_x_preferred":[
         "Vavre\u010dka"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101847829,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254471,
     "wof:name":"Vavre\u010dka",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

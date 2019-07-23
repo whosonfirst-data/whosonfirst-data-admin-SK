@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Gbe\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "Gbe\u013eany"
+    ],
     "name:fra_x_preferred":[
         "Gbe\u013eany"
     ],
@@ -44,13 +47,22 @@
     "name:msa_x_preferred":[
         "Gbe\u013eany"
     ],
+    "name:nan_x_preferred":[
+        "Gbe\u013eany"
+    ],
     "name:nld_x_preferred":[
         "Gbe\u013eany"
     ],
     "name:pol_x_preferred":[
         "Gbe\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "Gbe\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "Gbe\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "Gbe\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254282,
     "wof:name":"Gbe\u013eany",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

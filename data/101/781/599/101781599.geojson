@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Moravsk\u00e9 Lieskov\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30d5\u30b9\u30b1\u30fc\u30fb\u30ea\u30a8\u30b9\u30b3\u30f4\u30a7\u30fc"
     ],
     "name:msa_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
@@ -52,7 +58,13 @@
     "name:pol_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Moravsk\u00e9 Lieskov\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Moravsk\u00e9 Lieskov\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Moravsk\u00e9 Lieskov\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":101781599,
-    "wof:lastmodified":1561841708,
+    "wof:lastmodified":1563254498,
     "wof:name":"Moravsk\u00e9 Lieskov\u00e9",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

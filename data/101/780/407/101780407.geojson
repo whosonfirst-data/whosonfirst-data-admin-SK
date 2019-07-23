@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Istebn\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Istebn\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Istebn\u00e9"
     ],
@@ -52,6 +55,9 @@
     "name:pol_x_preferred":[
         "Istebn\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Istebn\u00e9"
+    ],
     "name:slk_x_preferred":[
         "Istebn\u00e9"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0418\u0441\u0442\u0458\u0435\u0431\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0442\u0435\u0431\u043d\u0435"
     ],
     "name:war_x_preferred":[
         "Istebn\u00e9"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101780407,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254606,
     "wof:name":"Istebn\u00e9",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

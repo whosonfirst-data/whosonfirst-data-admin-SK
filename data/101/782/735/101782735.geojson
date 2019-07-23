@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Solo\u0161nica"
     ],
+    "name:eus_x_preferred":[
+        "Solo\u0161nica"
+    ],
     "name:fra_x_preferred":[
         "Solo\u0161nica"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Solo\u0161nica"
     ],
+    "name:ron_x_preferred":[
+        "Solo\u0161nica"
+    ],
     "name:slk_x_preferred":[
+        "Solo\u0161nica"
+    ],
+    "name:spa_x_preferred":[
         "Solo\u0161nica"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Solo\u0161nica"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u65af\u5361\u4ec0\u4f73\u592b\u5c3c\u5bdf"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101782735,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254387,
     "wof:name":"Solo\u0161nica",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1snohorsk\u00e9 Podhradie"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u00e1snohorsk\u00e9 Podhradie"
+    ],
     "name:fra_x_preferred":[
         "Kr\u00e1snohorsk\u00e9 Podhradie"
     ],
@@ -55,11 +58,23 @@
     "name:pol_x_preferred":[
         "Kr\u00e1snohorsk\u00e9 Podhradie"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u00e1snohorsk\u00e9 Podhradie"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0435-\u041f\u043e\u0434\u0433\u0440\u0430\u0434\u044c\u0435"
+    ],
     "name:slk_x_preferred":[
+        "Kr\u00e1snohorsk\u00e9 Podhradie"
+    ],
+    "name:spa_x_preferred":[
         "Kr\u00e1snohorsk\u00e9 Podhradie"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u0440\u0441\u043a\u0435 \u041f\u043e\u0434\u0445\u0440\u0430\u0434\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0435 \u041f\u043e\u0434\u0433\u0440\u0430\u0434\u0456\u0454"
     ],
     "name:unk_x_variant":[
         "Kr\u00e1szna Horka-V\u00e1ralja"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":101782891,
-    "wof:lastmodified":1561841702,
+    "wof:lastmodified":1563254400,
     "wof:name":"Kr\u00e1snohorsk\u00e9 Podhradie",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

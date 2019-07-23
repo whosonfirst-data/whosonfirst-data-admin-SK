@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Kamen\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Kamen\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Kamen\u00edn"
     ],
@@ -43,7 +46,16 @@
     "name:nld_x_preferred":[
         "Kamen\u00edn"
     ],
+    "name:ron_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u043d"
+    ],
     "name:slk_x_preferred":[
+        "Kamen\u00edn"
+    ],
+    "name:spa_x_preferred":[
         "Kamen\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -54,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Kamen\u00edn"
+    ],
+    "name:war_x_variant":[
+        "Ni\u017en\u00fd Hru\u0161ov"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":101780209,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254660,
     "wof:name":"Kamen\u00edn",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

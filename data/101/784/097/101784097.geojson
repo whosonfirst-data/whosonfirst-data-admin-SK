@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
+    "name:eus_x_preferred":[
+        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
+    ],
     "name:fra_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
+    "name:ron_x_preferred":[
+        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
+    ],
     "name:slk_x_preferred":[
+        "Lak\u0161\u00e1rska Nov\u00e1 Ves"
+    ],
+    "name:spa_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101784097,
-    "wof:lastmodified":1561841704,
+    "wof:lastmodified":1563254442,
     "wof:name":"Lak\u0161\u00e1rska Nov\u00e1 Ves",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

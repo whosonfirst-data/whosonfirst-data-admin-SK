@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kamienka"
     ],
+    "name:eus_x_preferred":[
+        "Kamienka"
+    ],
     "name:fra_x_preferred":[
         "Kamienka"
     ],
@@ -49,10 +52,16 @@
     "name:pol_x_preferred":[
         "Kamionka"
     ],
+    "name:ron_x_preferred":[
+        "Kamienka"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0430\u043c\u044e\u043d\u043a\u0430"
     ],
     "name:slk_x_preferred":[
+        "Kamienka"
+    ],
+    "name:spa_x_preferred":[
         "Kamienka"
     ],
     "name:srp_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":101780583,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254683,
     "wof:name":"Kamienka",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

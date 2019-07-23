@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0633\u062a\u064a\u0646\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u044d\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
+        "Trsten\u00e1"
+    ],
+    "name:ceb_x_preferred":[
         "Trsten\u00e1"
     ],
     "name:ces_x_preferred":[
@@ -36,6 +42,9 @@
         "Trsten\u00e1"
     ],
     "name:est_x_preferred":[
+        "Trsten\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Trsten\u00e1"
     ],
     "name:fas_x_preferred":[
@@ -88,6 +97,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0435\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Trsten\u00e1"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0435\u043d\u0430"
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":101780871,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254652,
     "wof:name":"Trsten\u00e1",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

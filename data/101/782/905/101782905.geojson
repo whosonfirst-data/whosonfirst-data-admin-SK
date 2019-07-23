@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "\u010eurkov"
     ],
+    "name:eus_x_preferred":[
+        "\u010eurkov"
+    ],
     "name:fra_x_preferred":[
         "\u010eurkov"
     ],
@@ -49,17 +52,29 @@
     "name:pol_x_preferred":[
         "\u010eurkov"
     ],
+    "name:ron_x_preferred":[
+        "\u010eurkov"
+    ],
     "name:slk_x_preferred":[
+        "\u010eurkov"
+    ],
+    "name:spa_x_preferred":[
         "\u010eurkov"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0458\u0443\u0440\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044e\u0440\u043a\u043e\u0432"
     ],
     "name:unk_x_variant":[
         "Gy\u00f6rke"
     ],
     "name:war_x_preferred":[
         "\u010eurkov"
+    ],
+    "name:war_x_variant":[
+        "Solo\u0161nica"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":101782905,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254387,
     "wof:name":"\u010eurkov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

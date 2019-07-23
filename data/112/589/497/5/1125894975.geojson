@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Kru\u0161etnica"
     ],
+    "name:ceb_x_preferred":[
+        "Kru\u0161etnica"
+    ],
     "name:ces_x_preferred":[
         "Kru\u0161etnica"
     ],
@@ -32,6 +35,9 @@
         "Kru\u0161etnica"
     ],
     "name:epo_x_preferred":[
+        "Kru\u0161etnica"
+    ],
+    "name:eus_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:fra_x_preferred":[
@@ -46,16 +52,25 @@
     "name:msa_x_preferred":[
         "Kru\u0161etnica"
     ],
+    "name:nan_x_preferred":[
+        "Kru\u0161etnica"
+    ],
     "name:nld_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:pol_x_preferred":[
         "Kruszetnica"
     ],
+    "name:ron_x_preferred":[
+        "Kru\u0161etnica"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0442\u043d\u0438\u0446\u0430"
     ],
     "name:slk_x_preferred":[
+        "Kru\u0161etnica"
+    ],
+    "name:spa_x_preferred":[
         "Kru\u0161etnica"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1125894975,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254848,
     "wof:name":"Kru\u0161etnica",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

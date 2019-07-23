@@ -24,10 +24,16 @@
     "name:ces_x_preferred":[
         "Kalu\u017ea"
     ],
+    "name:deu_x_preferred":[
+        "Kalu\u017ea"
+    ],
     "name:eng_x_preferred":[
         "Kalu\u017ea"
     ],
     "name:epo_x_preferred":[
+        "Kalu\u017ea"
+    ],
+    "name:eus_x_preferred":[
         "Kalu\u017ea"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +54,16 @@
     "name:pol_x_preferred":[
         "Kalu\u017ea"
     ],
+    "name:pol_x_variant":[
+        "Mik\u0161ov\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "Kalu\u017ea"
+    ],
     "name:slk_x_preferred":[
+        "Kalu\u017ea"
+    ],
+    "name:spa_x_preferred":[
         "Kalu\u017ea"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1125880521,
-    "wof:lastmodified":1561841722,
+    "wof:lastmodified":1563254829,
     "wof:name":"Kalu\u017ea",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

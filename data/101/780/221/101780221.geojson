@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Mur\u00e1\u0148"
     ],
+    "name:eus_x_preferred":[
+        "Mur\u00e1\u0148"
+    ],
     "name:fra_x_preferred":[
         "Mur\u00e1\u0148"
     ],
@@ -55,11 +58,20 @@
     "name:pol_x_preferred":[
         "Mur\u00e1\u0148"
     ],
+    "name:ron_x_preferred":[
+        "Mur\u00e1\u0148"
+    ],
     "name:slk_x_preferred":[
+        "Mur\u00e1\u0148"
+    ],
+    "name:spa_x_preferred":[
         "Mur\u00e1\u0148"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0443\u0440\u0430\u045a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u043d\u044c"
     ],
     "name:war_x_preferred":[
         "Mur\u00e1\u0148"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":101780221,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254588,
     "wof:name":"Mur\u00e1\u0148",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

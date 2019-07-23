@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de B\u00e1novce nad Bebravou"
     ],
+    "name:ceb_x_preferred":[
+        "Okres B\u00e1novce nad Bebravou"
+    ],
     "name:ces_x_preferred":[
         "Okres B\u00e1novce nad Bebravou"
+    ],
+    "name:ces_x_variant":[
+        "okres B\u00e1novce nad Bebravou"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0435\u0431\u0440\u0430\u0432\u043e\u0443 \u00e7\u0438\u043d\u0447\u0438 \u0411\u0430\u043d\u043e\u0432\u0446\u0435 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,17 +46,29 @@
     "name:eng_x_preferred":[
         "B\u00e1novce nad Bebravou"
     ],
+    "name:eng_x_variant":[
+        "B\u00e1novce nad Bebravou District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto B\u00e1novce nad Bebravou"
     ],
+    "name:eus_x_preferred":[
+        "B\u00e1novce nad Bebravouko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de B\u00e1novce nad Bebravou"
+    ],
+    "name:fra_x_variant":[
+        "B\u00e1novce nad Bebravou"
     ],
     "name:hrv_x_preferred":[
         "Okrug B\u00e1novce nad Bebravou"
     ],
     "name:hun_x_preferred":[
         "B\u00e1ni j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u0578\u057e\u0581\u0565 \u0576\u0561\u0564 \u0534\u0565\u0562\u0580\u0561\u057e\u0578\u0578\u0582"
     ],
     "name:ita_x_preferred":[
         "Distretto di B\u00e1novce nad Bebravou"
@@ -91,6 +109,9 @@
     "name:slk_x_preferred":[
         "B\u00e1novce nad Bebravou"
     ],
+    "name:slk_x_variant":[
+        "okres B\u00e1novce nad Bebravou"
+    ],
     "name:spa_x_preferred":[
         "Distrito de B\u00e1novce nad Bebravou"
     ],
@@ -102,6 +123,9 @@
     ],
     "name:war_x_preferred":[
         "B\u00e1novce nad Bebravou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5fb7\u62c9\u74e6\u6cb3\u7554\u5df4\u8afe\u592b\u91c7\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -151,7 +175,7 @@
         }
     ],
     "wof:id":102080523,
-    "wof:lastmodified":1561841678,
+    "wof:lastmodified":1563253614,
     "wof:name":"B\u00e1novce nad Bebravou",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

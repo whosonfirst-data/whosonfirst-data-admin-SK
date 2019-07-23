@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Obi\u0161ovce"
     ],
+    "name:eus_x_preferred":[
+        "Obi\u0161ovce"
+    ],
     "name:fra_x_preferred":[
         "Obi\u0161ovce"
     ],
@@ -54,17 +57,29 @@
     "name:pol_x_preferred":[
         "Obi\u0161ovce"
     ],
+    "name:ron_x_preferred":[
+        "Obi\u0161ovce"
+    ],
     "name:slk_x_preferred":[
+        "Obi\u0161ovce"
+    ],
+    "name:spa_x_preferred":[
         "Obi\u0161ovce"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u0438\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0456\u0448\u043e\u0432\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Oby\u0161ovce"
     ],
     "name:war_x_preferred":[
         "Obi\u0161ovce"
+    ],
+    "name:war_x_variant":[
+        "Rusk\u00e1"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125989173,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254916,
     "wof:name":"Obi\u0161ovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

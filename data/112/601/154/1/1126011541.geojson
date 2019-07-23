@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Kosto\u013eany"
+    ],
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
@@ -51,7 +54,13 @@
     "name:nld_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Kosto\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Kosto\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -62,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Kosto\u013eany"
+    ],
+    "name:war_x_variant":[
+        "\u00dastie"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1126011541,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254923,
     "wof:name":"Vel\u0315k\u00e9 Kostol\u0315any",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

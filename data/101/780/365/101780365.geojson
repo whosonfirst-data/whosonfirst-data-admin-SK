@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Hybe"
     ],
+    "name:ceb_x_preferred":[
+        "Hybe"
+    ],
     "name:ces_x_preferred":[
         "Hybe"
     ],
@@ -34,6 +37,9 @@
         "Hybe"
     ],
     "name:epo_x_preferred":[
+        "Hybe"
+    ],
+    "name:eus_x_preferred":[
         "Hybe"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +63,13 @@
     "name:pol_x_preferred":[
         "Hybie"
     ],
+    "name:ron_x_preferred":[
+        "Hybe"
+    ],
     "name:slk_x_preferred":[
+        "Hybe"
+    ],
+    "name:spa_x_preferred":[
         "Hybe"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101780365,
-    "wof:lastmodified":1561841712,
+    "wof:lastmodified":1563254571,
     "wof:name":"Hybe",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

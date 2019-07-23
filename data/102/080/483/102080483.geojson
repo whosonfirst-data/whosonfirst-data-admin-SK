@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Districte de Krupina"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Krupina"
+    ],
     "name:ces_x_preferred":[
         "Okres Krupina"
+    ],
+    "name:ces_x_variant":[
+        "okres Krupina"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0438\u043d\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,11 +46,20 @@
     "name:eng_x_preferred":[
         "Krupina"
     ],
+    "name:eng_x_variant":[
+        "Krupina District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Krupina"
     ],
+    "name:eus_x_preferred":[
+        "Krupinako barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Krupina"
+    ],
+    "name:fra_x_variant":[
+        "Krupina"
     ],
     "name:hrv_x_preferred":[
         "Okrug Krupina"
@@ -94,6 +109,9 @@
     "name:slk_x_preferred":[
         "Krupina"
     ],
+    "name:slk_x_variant":[
+        "okres Krupina"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Krupina"
     ],
@@ -103,8 +121,14 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0456\u043d\u0430"
     ],
+    "name:vie_x_preferred":[
+        "Krupina"
+    ],
     "name:war_x_preferred":[
         "Krupina"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u9b6f\u76ae\u7d0d\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -154,7 +178,7 @@
         }
     ],
     "wof:id":102080483,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253573,
     "wof:name":"Krupina",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

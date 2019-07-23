@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Lysica"
     ],
+    "name:eus_x_preferred":[
+        "Lysica"
+    ],
     "name:fra_x_preferred":[
         "Lysica"
     ],
@@ -54,7 +57,13 @@
     "name:pol_x_preferred":[
         "Lysica"
     ],
+    "name:ron_x_preferred":[
+        "Lysica"
+    ],
     "name:slk_x_preferred":[
+        "Lysica"
+    ],
+    "name:spa_x_preferred":[
         "Lysica"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1125990593,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254888,
     "wof:name":"Lysa",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

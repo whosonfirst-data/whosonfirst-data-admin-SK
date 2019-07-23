@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Tvrdo\u0161\u00edn"
+    ],
     "name:ces_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
@@ -39,6 +42,9 @@
         "Tvrdo\u0161\u00edn"
     ],
     "name:epo_x_preferred":[
+        "Tvrdo\u0161\u00edn"
+    ],
+    "name:eus_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
     "name:fas_x_preferred":[
@@ -89,6 +95,9 @@
     "name:slk_x_preferred":[
         "Tvrdo\u0161\u00edn"
     ],
+    "name:spa_x_preferred":[
+        "Tvrdo\u0161\u00edn"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0432\u0440\u0434\u043e\u0448\u0438\u043d"
     ],
@@ -97,6 +106,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0432\u0440\u0434\u043e\u0448\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Tvrdo\u0161\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0432\u0440\u0434\u043e\u0448\u0456\u043d"
     ],
     "name:und_x_preferred":[
         "Tvrdosin"
@@ -157,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254673,
     "wof:name":"Tvrdo\u0161\u00edn",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

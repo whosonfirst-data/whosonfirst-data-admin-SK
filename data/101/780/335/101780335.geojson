@@ -23,7 +23,13 @@
     "name:aze_x_preferred":[
         "Puxov"
     ],
+    "name:bak_x_preferred":[
+        "\u041f\u0443\u0445\u043e\u0432"
+    ],
     "name:cat_x_preferred":[
+        "P\u00fachov"
+    ],
+    "name:ceb_x_preferred":[
         "P\u00fachov"
     ],
     "name:ces_x_preferred":[
@@ -39,6 +45,9 @@
         "P\u00fachov"
     ],
     "name:epo_x_preferred":[
+        "P\u00fachov"
+    ],
+    "name:eus_x_preferred":[
         "P\u00fachov"
     ],
     "name:fas_x_preferred":[
@@ -64,6 +73,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud478\ud638\ud504"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\ud638\uc6b0"
     ],
     "name:lav_x_preferred":[
         "P\u016bhova"
@@ -104,8 +116,14 @@
     "name:srp_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432"
     ],
+    "name:swe_x_preferred":[
+        "P\u00fachov"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432"
+    ],
+    "name:tur_x_preferred":[
+        "P\u00fachov"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0445\u043e\u0432"
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":101780335,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254631,
     "wof:name":"P\u00fachov",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

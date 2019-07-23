@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hrhov"
     ],
+    "name:eus_x_preferred":[
+        "Hrhov"
+    ],
     "name:fra_x_preferred":[
         "Hrhov"
     ],
@@ -49,17 +52,29 @@
     "name:pol_x_preferred":[
         "Hrhov"
     ],
+    "name:ron_x_preferred":[
+        "Hrhov"
+    ],
     "name:slk_x_preferred":[
+        "Hrhov"
+    ],
+    "name:spa_x_preferred":[
         "Hrhov"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0445\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0433\u043e\u0432"
     ],
     "name:unk_x_variant":[
         "Gerg\u0151"
     ],
     "name:war_x_preferred":[
         "Hrhov"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u723e\u5c3c\u5bdf"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101843873,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254206,
     "wof:name":"Hrhov",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

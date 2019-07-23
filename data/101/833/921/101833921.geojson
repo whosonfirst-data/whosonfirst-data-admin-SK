@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Senec"
     ],
+    "name:ceb_x_preferred":[
+        "Senec"
+    ],
     "name:ces_x_preferred":[
         "Senec"
     ],
@@ -41,8 +44,14 @@
     "name:epo_x_preferred":[
         "Senec"
     ],
+    "name:eus_x_preferred":[
+        "Senec"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a\u0633\u060c \u0627\u0633\u0644\u0648\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a\u0633"
     ],
     "name:fin_x_preferred":[
         "Senec"
@@ -86,6 +95,9 @@
     "name:nld_x_preferred":[
         "Senec"
     ],
+    "name:nno_x_preferred":[
+        "Senec"
+    ],
     "name:nob_x_preferred":[
         "Senec"
     ],
@@ -107,11 +119,20 @@
     "name:slk_x_preferred":[
         "Senec"
     ],
+    "name:spa_x_preferred":[
+        "Senec"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u045a\u0435\u0446"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Senec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0435\u0446\u044c"
     ],
     "name:und_x_preferred":[
         "Senec"
@@ -178,7 +199,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254303,
     "wof:name":"Senec",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sebechleby"
     ],
+    "name:eus_x_preferred":[
+        "Sebechleby"
+    ],
     "name:fra_x_preferred":[
         "Sebechleby"
     ],
@@ -52,14 +55,26 @@
     "name:pol_x_preferred":[
         "Sebechleby"
     ],
+    "name:ron_x_preferred":[
+        "Sebechleby"
+    ],
     "name:slk_x_preferred":[
+        "Sebechleby"
+    ],
+    "name:spa_x_preferred":[
         "Sebechleby"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0431\u0435\u0445\u0459\u0435\u0431\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0454\u0431\u0454\u0445\u043b\u0435\u0431\u0438"
+    ],
     "name:war_x_preferred":[
         "Sebechleby"
+    ],
+    "name:war_x_variant":[
+        "Ri\u0161\u0148ovce"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sebechleby"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101783993,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254424,
     "wof:name":"Sebechleby",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

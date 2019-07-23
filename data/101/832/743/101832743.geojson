@@ -15,6 +15,7 @@
     "mps:latitude":48.91935,
     "mps:longitude":21.904887,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:cat_x_preferred":[
         "Jasenov"
     ],
@@ -24,7 +25,13 @@
     "name:deu_x_preferred":[
         "Jasenov"
     ],
+    "name:eng_x_preferred":[
+        "Jasenov"
+    ],
     "name:epo_x_preferred":[
+        "Jasenov"
+    ],
+    "name:eus_x_preferred":[
         "Jasenov"
     ],
     "name:fra_x_preferred":[
@@ -44,6 +51,30 @@
     ],
     "name:pol_x_preferred":[
         "Jasenov"
+    ],
+    "name:ron_x_preferred":[
+        "Jasenov"
+    ],
+    "name:rue_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0456\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Jasenov"
+    ],
+    "name:spa_x_preferred":[
+        "Jasenov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u0435\u043d\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Jasenov"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u8036\u4ec0\u4f73\u5c3c"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -76,7 +107,7 @@
         "wk:page":"Jasenov, Humenn\u00e9 District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"7a123459d649a0ac178deefd19f05a3b",
+    "wof:geomhash":"7d505c72971cbb9c0a853f90627217a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +118,7 @@
         }
     ],
     "wof:id":101832743,
-    "wof:lastmodified":1479903522,
+    "wof:lastmodified":1563254277,
     "wof:name":"Jasenov",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

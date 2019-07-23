@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Pie\u0161\u0165any"
     ],
+    "name:ceb_x_preferred":[
+        "Pie\u0161\u0165any"
+    ],
     "name:ces_x_preferred":[
         "Pie\u0161\u0165any"
     ],
@@ -90,11 +93,17 @@
     "name:kor_x_preferred":[
         "\ud53c\uc5d0\uc288\ud0c0\ub2c8"
     ],
+    "name:kor_x_variant":[
+        "\ud53c\uc5d0\uc288\ud0f8\ub2c8"
+    ],
     "name:lav_x_preferred":[
         "Pje\u0161tjani"
     ],
     "name:lit_x_preferred":[
         "Pie\u0161tianai"
+    ],
+    "name:ltz_x_preferred":[
+        "Pie\u0161\u0165any"
     ],
     "name:msa_x_preferred":[
         "Pie\u0161\u0165any"
@@ -141,8 +150,14 @@
     "name:tat_x_preferred":[
         "\u041f\u044c\u0435\u0448\u0442\u04d9\u043d\u0438"
     ],
+    "name:tur_x_preferred":[
+        "Pie\u0161\u0165any"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0454\u0448\u0442\u044f\u043d\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f'\u0454\u0448\u0442\u044f\u043d\u0438"
     ],
     "name:und_x_preferred":[
         "Piestany"
@@ -206,7 +221,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254276,
     "wof:name":"Pie\u0161\u0165any",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

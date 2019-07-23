@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Bzenica"
     ],
+    "name:eus_x_preferred":[
+        "Bzenica"
+    ],
     "name:fra_x_preferred":[
         "Bzenica"
     ],
@@ -54,14 +57,23 @@
     "name:pol_x_preferred":[
         "Bzenica"
     ],
+    "name:ron_x_preferred":[
+        "Bzenica"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0437\u0435\u043d\u0438\u0446\u0430"
     ],
     "name:slk_x_preferred":[
         "Bzenica"
     ],
+    "name:spa_x_preferred":[
+        "Bzenica"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0437\u0435\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0437\u0435\u043d\u0438\u0446\u044f"
     ],
     "name:war_x_preferred":[
         "Bzenica"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125823259,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254947,
     "wof:name":"Bzenica",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

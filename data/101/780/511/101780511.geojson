@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "\u0160trba"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160trba"
+    ],
     "name:ces_x_preferred":[
         "\u0160trba"
     ],
@@ -29,7 +32,13 @@
     "name:eng_x_preferred":[
         "Strba"
     ],
+    "name:eng_x_variant":[
+        "\u0160trba"
+    ],
     "name:epo_x_preferred":[
+        "\u0160trba"
+    ],
+    "name:eus_x_preferred":[
         "\u0160trba"
     ],
     "name:fra_x_preferred":[
@@ -66,6 +75,9 @@
         "\u0428\u0442\u0440\u0431\u0430"
     ],
     "name:slk_x_preferred":[
+        "\u0160trba"
+    ],
+    "name:spa_x_preferred":[
         "\u0160trba"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254622,
     "wof:name":"\u0160trba",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

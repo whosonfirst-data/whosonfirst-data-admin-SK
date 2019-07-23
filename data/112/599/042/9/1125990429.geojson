@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Kr\u0161kany"
     ],
+    "name:eus_x_preferred":[
+        "Kr\u0161kany"
+    ],
     "name:fra_x_preferred":[
         "Kr\u0161kany"
     ],
@@ -42,13 +45,25 @@
     "name:msa_x_preferred":[
         "Kr\u0161kany"
     ],
+    "name:msa_x_variant":[
+        "Vel\u0315k\u00e1 Lomnica"
+    ],
+    "name:nan_x_preferred":[
+        "Kr\u0161kany"
+    ],
     "name:nld_x_preferred":[
         "Kr\u0161kany"
     ],
     "name:pol_x_preferred":[
         "Kr\u0161kany"
     ],
+    "name:ron_x_preferred":[
+        "Kr\u0161kany"
+    ],
     "name:slk_x_preferred":[
+        "Kr\u0161kany"
+    ],
+    "name:spa_x_preferred":[
         "Kr\u0161kany"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125990429,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254887,
     "wof:name":"Vel\u0315k\u00e9 Kr\u0161kany",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

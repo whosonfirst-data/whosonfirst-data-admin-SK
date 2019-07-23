@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "P\u00edla"
     ],
+    "name:eus_x_preferred":[
+        "P\u00edla"
+    ],
     "name:fra_x_preferred":[
         "P\u00edla"
     ],
@@ -45,13 +48,22 @@
     "name:msa_x_preferred":[
         "P\u00edla"
     ],
+    "name:nan_x_preferred":[
+        "P\u00edla"
+    ],
     "name:nld_x_preferred":[
         "P\u00edla"
     ],
     "name:por_x_preferred":[
         "P\u00edla"
     ],
+    "name:ron_x_preferred":[
+        "P\u00edla"
+    ],
     "name:slk_x_preferred":[
+        "P\u00edla"
+    ],
+    "name:spa_x_preferred":[
         "P\u00edla"
     ],
     "name:srp_x_preferred":[
@@ -59,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "P\u00edla"
+    ],
+    "name:war_x_variant":[
+        "Letni\u010die"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1125778945,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254987,
     "wof:name":"P\u00edla",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

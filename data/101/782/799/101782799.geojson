@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kalinovo"
     ],
+    "name:eus_x_preferred":[
+        "Kalinovo"
+    ],
     "name:fra_x_preferred":[
         "Kalinovo"
     ],
@@ -52,14 +55,23 @@
     "name:pol_x_preferred":[
         "Kalinovo"
     ],
+    "name:ron_x_preferred":[
+        "Kalinovo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:slk_x_preferred":[
         "Kalinovo"
     ],
+    "name:spa_x_preferred":[
+        "Kalinovo"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u043d\u043e\u0432\u043e"
     ],
     "name:war_x_preferred":[
         "Kalinovo"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101782799,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254354,
     "wof:name":"Kalinovo",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

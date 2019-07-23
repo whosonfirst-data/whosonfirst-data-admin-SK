@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
+    "name:eus_x_preferred":[
+        "Doln\u00fd Ohaj"
+    ],
     "name:fra_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
@@ -43,10 +46,19 @@
     "name:msa_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
+    "name:nan_x_preferred":[
+        "Doln\u00fd Ohaj"
+    ],
     "name:nld_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
+    "name:ron_x_preferred":[
+        "Doln\u00fd Ohaj"
+    ],
     "name:slk_x_preferred":[
+        "Doln\u00fd Ohaj"
+    ],
+    "name:spa_x_preferred":[
         "Doln\u00fd Ohaj"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Doln\u00fd Ohaj"
+    ],
+    "name:war_x_variant":[
+        "Vl\u010dkovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101834115,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254312,
     "wof:name":"Doln\u00fd Ohaj",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

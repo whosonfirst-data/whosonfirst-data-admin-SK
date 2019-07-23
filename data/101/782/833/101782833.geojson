@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Rev\u00faca"
     ],
+    "name:ceb_x_preferred":[
+        "Rev\u00faca"
+    ],
     "name:ces_x_preferred":[
         "Rev\u00faca"
     ],
@@ -36,6 +39,9 @@
         "Rev\u00faca"
     ],
     "name:epo_x_preferred":[
+        "Rev\u00faca"
+    ],
+    "name:eus_x_preferred":[
         "Rev\u00faca"
     ],
     "name:fas_x_preferred":[
@@ -65,6 +71,9 @@
     "name:lit_x_preferred":[
         "Rev\u016bca"
     ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0435\u0432\u0443\u0446\u0430"
+    ],
     "name:msa_x_preferred":[
         "Rev\u00faca"
     ],
@@ -86,11 +95,20 @@
     "name:slk_x_preferred":[
         "Rev\u00faca"
     ],
+    "name:spa_x_preferred":[
+        "Rev\u00faca"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0432\u0443\u0446\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0420\u0435\u0432\u0443\u0442\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Rev\u00faca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0432\u0443\u0446\u0430"
     ],
     "name:und_x_preferred":[
         "Revuca"
@@ -151,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841700,
+    "wof:lastmodified":1563254371,
     "wof:name":"Rev\u00faca",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

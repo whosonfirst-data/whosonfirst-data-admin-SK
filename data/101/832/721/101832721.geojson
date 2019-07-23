@@ -23,16 +23,23 @@
     "name:aze_x_preferred":[
         "Rujomberok"
     ],
+    "name:aze_x_variant":[
+        "Ruj\u043emb\u0435r\u043ek"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0443\u0436\u0430\u043c\u0431\u0435\u0440\u0430\u043a"
     ],
     "name:bel_x_variant":[
-        "\u0420\u0443\u0436\u0430\u043c\u0431\u044d\u0440\u0430\u043a"
+        "\u0420\u0443\u0436\u0430\u043c\u0431\u044d\u0440\u0430\u043a",
+        "\u0420\u0443\u0436\u0430\u043c\u0431\u0435\u0440\u0430\u043a"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
     ],
     "name:cat_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ceb_x_preferred":[
         "Ru\u017eomberok"
     ],
     "name:ces_x_preferred":[
@@ -47,6 +54,9 @@
     "name:deu_x_variant":[
         "Rosenberg"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03b6\u03cc\u03bc\u03c0\u03b5\u03c1\u03bf\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Ruzomberok"
     ],
@@ -57,6 +67,9 @@
         "Ru\u017eomberok"
     ],
     "name:est_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:eus_x_preferred":[
         "Ru\u017eomberok"
     ],
     "name:fas_x_preferred":[
@@ -103,6 +116,9 @@
     ],
     "name:lit_x_preferred":[
         "Ru\u017eomberokas"
+    ],
+    "name:ltz_x_preferred":[
+        "Ru\u017eomberok"
     ],
     "name:msa_x_preferred":[
         "Ru\u017eomberok"
@@ -151,6 +167,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Ru\u017eomberok"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
@@ -226,7 +245,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254278,
     "wof:name":"Ru\u017eomberok",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

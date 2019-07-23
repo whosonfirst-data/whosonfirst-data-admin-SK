@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Somotor"
     ],
+    "name:eus_x_preferred":[
+        "Somotor"
+    ],
     "name:fra_x_preferred":[
         "Somotor"
     ],
@@ -52,10 +55,19 @@
     "name:pol_x_preferred":[
         "Somotor"
     ],
+    "name:ron_x_preferred":[
+        "Somotor"
+    ],
     "name:slk_x_preferred":[
         "Somotor"
     ],
+    "name:spa_x_preferred":[
+        "Somotor"
+    ],
     "name:srp_x_preferred":[
+        "\u0421\u043e\u043c\u043e\u0442\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u043e\u043c\u043e\u0442\u043e\u0440"
     ],
     "name:war_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101782871,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254395,
     "wof:name":"Somotor",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

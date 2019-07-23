@@ -22,14 +22,26 @@
     "mps:longitude":20.064566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Rimavska-Sobota rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0440\u0430\u0451\u043d \u0420\u044b\u043c\u0430\u045e\u0441\u043a\u0430-\u0421\u043e\u0431\u0430\u0442\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Lipovec"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Rimavsk\u00e1 Sobota"
+    ],
     "name:ces_x_preferred":[
         "Okres Rimavsk\u00e1 Sobota"
+    ],
+    "name:ces_x_variant":[
+        "okres Rimavsk\u00e1 Sobota"
     ],
     "name:chv_x_preferred":[
         "\u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
@@ -40,20 +52,33 @@
     "name:eng_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
+    "name:eng_x_variant":[
+        "Rimavsk\u00e1 Sobota District"
+    ],
     "name:epo_x_preferred":[
         "Lipovec"
+    ],
+    "name:epo_x_variant":[
+        "Distrikto Rimavsk\u00e1 Sobota"
+    ],
+    "name:eus_x_preferred":[
+        "Rimavsk\u00e1 Sobotako barrutia"
     ],
     "name:fra_x_preferred":[
         "Lipovec"
     ],
     "name:fra_x_variant":[
-        "District de Rimavsk\u00e1 Sobota"
+        "District de Rimavsk\u00e1 Sobota",
+        "Rimavsk\u00e1 Sobota"
     ],
     "name:hrv_x_preferred":[
         "Okrug Rimavsk\u00e1 Sobota"
     ],
     "name:hun_x_preferred":[
         "G\u00f6m\u00f6rlip\u00f3c"
+    ],
+    "name:hun_x_variant":[
+        "Rimaszombati j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Lipovec"
@@ -85,6 +110,9 @@
     "name:pol_x_preferred":[
         "Lipovec"
     ],
+    "name:pol_x_variant":[
+        "Powiat Rymawska Sobota"
+    ],
     "name:por_x_preferred":[
         "Rimavsk\u00e1 Sobota"
     ],
@@ -101,7 +129,8 @@
         "Lipovec"
     ],
     "name:slk_x_variant":[
-        "Rimavsk\u00e1 Sobota"
+        "Rimavsk\u00e1 Sobota",
+        "okres Rimavsk\u00e1 Sobota"
     ],
     "name:spa_x_preferred":[
         "Distrito de Rimavsk\u00e1 Sobota"
@@ -109,11 +138,20 @@
     "name:srp_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0435\u0446"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043a\u0440\u0443\u0433 \u0420\u0438\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043c\u0430\u0432\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
     ],
+    "name:vie_x_preferred":[
+        "Rimavsk\u00e1 Sobota"
+    ],
     "name:war_x_preferred":[
         "Rimavsk\u00e1 Sobota"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u99ac\u592b\u65af\u5361\u7d22\u535a\u5854\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -164,7 +202,7 @@
         }
     ],
     "wof:id":102080525,
-    "wof:lastmodified":1561841678,
+    "wof:lastmodified":1563253612,
     "wof:name":"Rimavsk\u00e1 Sobota",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

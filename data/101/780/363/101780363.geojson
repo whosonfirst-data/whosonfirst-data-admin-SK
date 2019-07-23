@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Va\u017eec"
     ],
+    "name:eus_x_preferred":[
+        "Va\u017eec"
+    ],
     "name:fra_x_preferred":[
         "Va\u017eec"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Va\u017eec"
     ],
+    "name:nan_x_preferred":[
+        "Va\u017eec"
+    ],
     "name:nld_x_preferred":[
         "Va\u017eec"
     ],
     "name:pol_x_preferred":[
         "Wa\u017cec"
     ],
+    "name:ron_x_preferred":[
+        "Va\u017eec"
+    ],
     "name:slk_x_preferred":[
+        "Va\u017eec"
+    ],
+    "name:spa_x_preferred":[
         "Va\u017eec"
     ],
     "name:srp_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780363,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254577,
     "wof:name":"Va\u017eec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

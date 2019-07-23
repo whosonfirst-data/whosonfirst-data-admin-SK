@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1126451.427007,
+    "geom:area_square_m":1126451.427006,
     "geom:bbox":"21.4410443382,49.2219529059,21.4604887052,49.2369800203",
     "geom:latitude":49.228045,
     "geom:longitude":21.449932,
@@ -25,11 +25,17 @@
     "name:deu_x_preferred":[
         "Kurima"
     ],
+    "name:eng_x_preferred":[
+        "Kurima"
+    ],
     "name:epo_x_preferred":[
         "Kurima"
     ],
     "name:fra_x_preferred":[
         "Kurima"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d9\u05de\u05d0"
     ],
     "name:hun_x_preferred":[
         "Kurima"
@@ -40,16 +46,25 @@
     "name:msa_x_preferred":[
         "Kurima"
     ],
+    "name:nan_x_preferred":[
+        "Kurima"
+    ],
     "name:nld_x_preferred":[
         "Kurima"
     ],
     "name:pol_x_preferred":[
         "Kurima"
     ],
+    "name:ron_x_preferred":[
+        "Kurima"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0443\u0440\u0456\u043c\u0430"
     ],
     "name:slk_x_preferred":[
+        "Kurima"
+    ],
+    "name:spa_x_preferred":[
         "Kurima"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +78,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Kurima"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u62c9\u65e5\u65af\u51f1"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":101780615,
-    "wof:lastmodified":1527715874,
+    "wof:lastmodified":1563254654,
     "wof:name":"Kurima",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

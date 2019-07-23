@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Vl\u010dkovce"
     ],
+    "name:eus_x_preferred":[
+        "Vl\u010dkovce"
+    ],
     "name:fra_x_preferred":[
         "Vl\u010dkovce"
     ],
@@ -43,13 +46,22 @@
     "name:msa_x_preferred":[
         "Vl\u010dkovce"
     ],
+    "name:nan_x_preferred":[
+        "Vl\u010dkovce"
+    ],
     "name:nld_x_preferred":[
         "Vl\u010dkovce"
     ],
     "name:por_x_preferred":[
         "Vl\u010dkovce"
     ],
+    "name:ron_x_preferred":[
+        "Vl\u010dkovce"
+    ],
     "name:slk_x_preferred":[
+        "Vl\u010dkovce"
+    ],
+    "name:spa_x_preferred":[
         "Vl\u010dkovce"
     ],
     "name:srp_x_preferred":[
@@ -70,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Vl\u010dkovce"
+    ],
+    "name:war_x_variant":[
+        "Jacovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trnavsk\u00fd kraj",
@@ -118,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254311,
     "wof:name":"Vl\u010dkovce",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

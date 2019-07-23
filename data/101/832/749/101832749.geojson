@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zuberec"
     ],
+    "name:eus_x_preferred":[
+        "Zuberec"
+    ],
     "name:fra_x_preferred":[
         "Zuberec"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:hun_x_preferred":[
         "Zuberec"
+    ],
+    "name:hun_x_variant":[
+        "B\u00f6l\u00e9nyfalu"
     ],
     "name:ita_x_preferred":[
         "Zuberec"
@@ -55,10 +61,16 @@
     "name:pol_x_preferred":[
         "Zuberzec"
     ],
+    "name:ron_x_preferred":[
+        "Zuberec"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0443\u0431\u0435\u0440\u0435\u0446"
     ],
     "name:slk_x_preferred":[
+        "Zuberec"
+    ],
+    "name:spa_x_preferred":[
         "Zuberec"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":101832749,
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254272,
     "wof:name":"Zuberec",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

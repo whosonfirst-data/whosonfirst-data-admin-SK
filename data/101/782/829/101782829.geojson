@@ -19,7 +19,13 @@
     "name:ara_x_preferred":[
         "\u0647\u0646\u0648\u0634\u062a\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u043d\u0443\u0448\u0446\u044f"
+    ],
     "name:cat_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
+    "name:ceb_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
     "name:ces_x_preferred":[
@@ -35,6 +41,9 @@
         "Hn\u00fa\u0161\u0165a"
     ],
     "name:epo_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
+    "name:eus_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
     "name:fas_x_preferred":[
@@ -94,6 +103,12 @@
     "name:tat_x_preferred":[
         "\u04ba\u043d\u0443\u0448\u0442\u04d9"
     ],
+    "name:tur_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043d\u0443\u0448\u0442\u044f"
+    ],
     "name:war_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":101782829,
-    "wof:lastmodified":1561841699,
+    "wof:lastmodified":1563254359,
     "wof:name":"Hn\u00fa\u0161\u0165a",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

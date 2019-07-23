@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Cinoba\u0148a"
     ],
+    "name:eus_x_preferred":[
+        "Cinoba\u0148a"
+    ],
     "name:fra_x_preferred":[
         "Cinoba\u0148a"
     ],
@@ -43,10 +46,16 @@
     "name:msa_x_preferred":[
         "Cinoba\u0148a"
     ],
+    "name:nan_x_preferred":[
+        "Cinoba\u0148a"
+    ],
     "name:nld_x_preferred":[
         "Cinoba\u0148a"
     ],
     "name:pol_x_preferred":[
+        "Cinoba\u0148a"
+    ],
+    "name:ron_x_preferred":[
         "Cinoba\u0148a"
     ],
     "name:rus_x_preferred":[
@@ -55,8 +64,14 @@
     "name:slk_x_preferred":[
         "Cinoba\u0148a"
     ],
+    "name:spa_x_preferred":[
+        "Cinoba\u0148a"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0438\u043d\u043e\u0431\u0430\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0456\u043d\u043e\u0431\u0430\u043d\u044f"
     ],
     "name:war_x_preferred":[
         "Cinoba\u0148a"
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101782795,
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254389,
     "wof:name":"Cinoba\u0148a",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

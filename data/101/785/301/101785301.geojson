@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u0160\u00farovce"
     ],
+    "name:eus_x_preferred":[
+        "\u0160\u00farovce"
+    ],
     "name:fra_x_preferred":[
         "\u0160\u00farovce"
     ],
@@ -58,7 +61,13 @@
     "name:por_x_preferred":[
         "\u0160\u00farovce"
     ],
+    "name:ron_x_preferred":[
+        "\u0160\u00farovce"
+    ],
     "name:slk_x_preferred":[
+        "\u0160\u00farovce"
+    ],
+    "name:spa_x_preferred":[
         "\u0160\u00farovce"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841697,
+    "wof:lastmodified":1563254316,
     "wof:name":"\u0160\u00farovce",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Dem\u00e4novsk\u00e1 Dolina"
     ],
+    "name:ceb_x_preferred":[
+        "Dem\u00e4novsk\u00e1 Dolina"
+    ],
     "name:ces_x_preferred":[
         "Dem\u00e4novsk\u00e1 Dolina"
     ],
@@ -32,6 +35,9 @@
         "Dem\u00e4novsk\u00e1 Dolina"
     ],
     "name:epo_x_preferred":[
+        "Dem\u00e4novsk\u00e1 Dolina"
+    ],
+    "name:eus_x_preferred":[
         "Dem\u00e4novsk\u00e1 Dolina"
     ],
     "name:fra_x_preferred":[
@@ -67,11 +73,17 @@
     "name:slk_x_preferred":[
         "Dem\u00e4novsk\u00e1 Dolina"
     ],
+    "name:spa_x_preferred":[
+        "Dem\u00e4novsk\u00e1 Dolina"
+    ],
     "name:srp_x_preferred":[
         "\u0402\u0435\u043c\u0435\u043d\u043e\u0432\u0441\u043a\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Dem\u00e4novsk\u00e1 Dolina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u0435\u043d\u043e\u0432\u0441\u043a\u0430 \u0414\u043e\u043b\u0456\u043d\u0430"
     ],
     "name:war_x_preferred":[
         "Dem\u00e4novsk\u00e1 Dolina"
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125895531,
-    "wof:lastmodified":1561841723,
+    "wof:lastmodified":1563254853,
     "wof:name":"Demanovska Dolina",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "C\u00edfer"
     ],
+    "name:eus_x_preferred":[
+        "C\u00edfer"
+    ],
     "name:fra_x_preferred":[
         "C\u00edfer"
     ],
@@ -46,6 +49,9 @@
     "name:msa_x_preferred":[
         "C\u00edfer"
     ],
+    "name:nan_x_preferred":[
+        "C\u00edfer"
+    ],
     "name:nld_x_preferred":[
         "C\u00edfer"
     ],
@@ -55,10 +61,16 @@
     "name:por_x_preferred":[
         "C\u00edfer"
     ],
+    "name:ron_x_preferred":[
+        "C\u00edfer"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0438\u0444\u0435\u0440"
     ],
     "name:slk_x_preferred":[
+        "C\u00edfer"
+    ],
+    "name:spa_x_preferred":[
         "C\u00edfer"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841705,
+    "wof:lastmodified":1563254454,
     "wof:name":"C\u00edfer",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

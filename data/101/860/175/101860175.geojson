@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
+    "name:eus_x_preferred":[
+        "Z\u00e1kop\u010die"
+    ],
     "name:fra_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
@@ -52,11 +55,20 @@
     "name:pol_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
+    "name:ron_x_preferred":[
+        "Z\u00e1kop\u010die"
+    ],
     "name:slk_x_preferred":[
+        "Z\u00e1kop\u010die"
+    ],
+    "name:spa_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u043a\u043e\u043f\u0447\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043a\u043e\u043f\u0447\u0454"
     ],
     "name:war_x_preferred":[
         "Z\u00e1kop\u010die"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101860175,
-    "wof:lastmodified":1561841695,
+    "wof:lastmodified":1563254286,
     "wof:name":"Z\u00e1kop\u010die",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kluknava"
     ],
+    "name:eus_x_preferred":[
+        "Kluknava"
+    ],
     "name:fra_x_preferred":[
         "Kluknava"
     ],
@@ -52,14 +55,26 @@
     "name:pol_x_preferred":[
         "Kluknava"
     ],
+    "name:ron_x_preferred":[
+        "Kluknava"
+    ],
     "name:slk_x_preferred":[
+        "Kluknava"
+    ],
+    "name:spa_x_preferred":[
         "Kluknava"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043b\u0443\u043a\u043d\u0430\u0432\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0443\u043a\u043d\u0430\u0432\u0430"
+    ],
     "name:war_x_preferred":[
         "Kluknava"
+    ],
+    "name:war_x_variant":[
+        "Valask\u00e1"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":101875829,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254187,
     "wof:name":"Kluknava",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

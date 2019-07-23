@@ -34,6 +34,9 @@
     "name:est_x_preferred":[
         "\u0160enkvice"
     ],
+    "name:eus_x_preferred":[
+        "\u0160enkvice"
+    ],
     "name:fra_x_preferred":[
         "\u0160enkvice"
     ],
@@ -58,7 +61,13 @@
     "name:por_x_preferred":[
         "\u0160enkvice"
     ],
+    "name:ron_x_preferred":[
+        "\u0160enkvice"
+    ],
     "name:slk_x_preferred":[
+        "\u0160enkvice"
+    ],
+    "name:spa_x_preferred":[
         "\u0160enkvice"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":101785213,
-    "wof:lastmodified":1561841698,
+    "wof:lastmodified":1563254341,
     "wof:name":"\u0160enkvice",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

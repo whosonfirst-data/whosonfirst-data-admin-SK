@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Rado\u013ea"
     ],
+    "name:eus_x_preferred":[
+        "Rado\u013ea"
+    ],
     "name:fra_x_preferred":[
         "Rado\u013ea"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Rado\u013ea"
     ],
+    "name:ron_x_preferred":[
+        "Rado\u013ea"
+    ],
     "name:slk_x_preferred":[
+        "Rado\u013ea"
+    ],
+    "name:spa_x_preferred":[
         "Rado\u013ea"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Rado\u013ea"
+    ],
+    "name:war_x_variant":[
+        "Ge\u010da"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101832729,
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254281,
     "wof:name":"Rado\u013ea",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

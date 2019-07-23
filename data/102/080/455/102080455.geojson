@@ -31,8 +31,14 @@
     "name:cat_x_preferred":[
         "Districte de Bratislava II"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Bratislava II"
+    ],
     "name:ces_x_preferred":[
         "Okres Bratislava II"
+    ],
+    "name:ces_x_variant":[
+        "okres Bratislava II"
     ],
     "name:dan_x_preferred":[
         "Bratislava II"
@@ -94,11 +100,17 @@
     "name:slk_x_preferred":[
         "Bratislava II"
     ],
+    "name:slk_x_variant":[
+        "okres Bratislava II"
+    ],
     "name:spa_x_preferred":[
         "Bratislava II"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 II"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 II"
     ],
     "name:war_x_preferred":[
         "Bratislava II"
@@ -154,7 +166,7 @@
         }
     ],
     "wof:id":102080455,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253577,
     "wof:name":"Bratislava II",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

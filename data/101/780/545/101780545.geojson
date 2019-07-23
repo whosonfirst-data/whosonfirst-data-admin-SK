@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Brekov"
     ],
+    "name:eus_x_preferred":[
+        "Brekov"
+    ],
     "name:fra_x_preferred":[
         "Brekov"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Brekov"
     ],
+    "name:ron_x_preferred":[
+        "Brekov"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0440\u0435\u043a\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Brekov"
+    ],
+    "name:spa_x_preferred":[
         "Brekov"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101780545,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254623,
     "wof:name":"Brekov",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

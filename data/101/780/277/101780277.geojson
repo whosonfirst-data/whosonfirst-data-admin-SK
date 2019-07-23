@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Jamn\u00edk"
     ],
+    "name:eus_x_preferred":[
+        "Jamn\u00edk"
+    ],
     "name:fra_x_preferred":[
         "Jamn\u00edk"
     ],
@@ -46,14 +49,26 @@
     "name:pol_x_preferred":[
         "Jamn\u00edk"
     ],
+    "name:ron_x_preferred":[
+        "Jamn\u00edk"
+    ],
     "name:slk_x_preferred":[
+        "Jamn\u00edk"
+    ],
+    "name:spa_x_preferred":[
         "Jamn\u00edk"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043c\u045a\u0438\u043a"
     ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043c\u043d\u0438\u043a"
+    ],
     "name:war_x_preferred":[
         "Jamn\u00edk"
+    ],
+    "name:war_x_variant":[
+        "Drienov"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":101780277,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254643,
     "wof:name":"Jamn\u00edk",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

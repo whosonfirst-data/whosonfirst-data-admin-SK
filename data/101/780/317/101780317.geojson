@@ -16,10 +16,16 @@
     "mps:longitude":18.797336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u0430\u0440-\u043f\u0430\u0434-\u0417\u043d\u044c\u0435\u0432\u0430\u043c"
+    ],
     "name:cat_x_preferred":[
         "Kl\u00e1\u0161tor pod Znievom"
     ],
     "name:ces_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:dan_x_preferred":[
         "Kl\u00e1\u0161tor pod Znievom"
     ],
     "name:deu_x_preferred":[
@@ -29,6 +35,9 @@
         "Kl\u00e1\u0161tor pod Znievom"
     ],
     "name:epo_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
+    "name:eus_x_preferred":[
         "Kl\u00e1\u0161tor pod Znievom"
     ],
     "name:fra_x_preferred":[
@@ -58,8 +67,14 @@
     "name:slk_x_preferred":[
         "Kl\u00e1\u0161tor pod Znievom"
     ],
+    "name:spa_x_preferred":[
+        "Kl\u00e1\u0161tor pod Znievom"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043b\u0430\u0448\u0442\u043e\u0440 \u043f\u043e\u0434 \u0417\u045a\u0435\u0432\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u043e\u0440-\u043f\u0456\u0434-\u0417\u043d\u0435\u0432\u043e\u043c"
     ],
     "name:war_x_preferred":[
         "Kl\u00e1\u0161tor pod Znievom"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101780317,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254681,
     "wof:name":"Kl\u00e1\u0161tor pod Znievom",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

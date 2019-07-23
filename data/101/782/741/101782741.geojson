@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":897333.18334,
+    "geom:area_square_m":897333.183339,
     "geom:bbox":"17.6387471885,48.4675788519,17.6601256167,48.4839896396",
     "geom:latitude":48.475754,
     "geom:longitude":17.647408,
@@ -32,9 +32,13 @@
         "Bohunice"
     ],
     "name:eng_x_variant":[
-        "Jaslovce"
+        "Jaslovce",
+        "Jaslovsk\u00e9 Bohunice"
     ],
     "name:epo_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:eus_x_preferred":[
         "Jaslovsk\u00e9 Bohunice"
     ],
     "name:fra_x_preferred":[
@@ -52,10 +56,31 @@
     "name:nld_x_preferred":[
         "Jaslovsk\u00e9 Bohunice"
     ],
+    "name:por_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:ron_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:slk_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:spa_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u043b\u043e\u0432\u0441\u043a\u0435 \u0411\u043e\u0445\u0443\u045a\u0438\u0446\u0435"
+    ],
     "name:und_x_colloquial":[
         "Jaslovske Bohunice"
     ],
     "name:und_x_preferred":[
+        "Jaslovsk\u00e9 Bohunice"
+    ],
+    "name:war_x_preferred":[
+        "Jasov"
+    ],
+    "name:war_x_variant":[
         "Jaslovsk\u00e9 Bohunice"
     ],
     "qs:a0":"Slovensko",
@@ -109,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688320,
+    "wof:lastmodified":1563254382,
     "wof:name":"Jaslovsk\u00e9 Bohunice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

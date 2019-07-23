@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Koz\u00e1rovce"
     ],
+    "name:eus_x_preferred":[
+        "Koz\u00e1rovce"
+    ],
     "name:fra_x_preferred":[
         "Koz\u00e1rovce"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Koz\u00e1rovce"
     ],
+    "name:ron_x_preferred":[
+        "Koz\u00e1rovce"
+    ],
     "name:slk_x_preferred":[
+        "Koz\u00e1rovce"
+    ],
+    "name:spa_x_preferred":[
         "Koz\u00e1rovce"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Koz\u00e1rovce"
+    ],
+    "name:war_x_variant":[
+        "\u0160ajd\u00edkove Humence"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":101843759,
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254239,
     "wof:name":"Koz\u00e1rovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

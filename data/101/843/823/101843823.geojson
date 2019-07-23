@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Medzibrod nad Hronom"
     ],
+    "name:eng_x_variant":[
+        "Medzibrod"
+    ],
     "name:epo_x_preferred":[
+        "Medzibrod"
+    ],
+    "name:eus_x_preferred":[
         "Medzibrod"
     ],
     "name:fra_x_preferred":[
@@ -46,6 +52,9 @@
     "name:msa_x_preferred":[
         "Medzibrod"
     ],
+    "name:nan_x_preferred":[
+        "Medzibrod"
+    ],
     "name:nld_x_preferred":[
         "Medzibrod"
     ],
@@ -55,7 +64,13 @@
     "name:por_x_preferred":[
         "Medzibrod"
     ],
+    "name:ron_x_preferred":[
+        "Medzibrod"
+    ],
     "name:slk_x_preferred":[
+        "Medzibrod"
+    ],
+    "name:spa_x_preferred":[
         "Medzibrod"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254241,
     "wof:name":"Medzibrod",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

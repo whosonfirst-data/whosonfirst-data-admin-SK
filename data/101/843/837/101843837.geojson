@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tren\u010dianske Jastrabie"
     ],
+    "name:eus_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
     "name:fra_x_preferred":[
         "Tren\u010dianske Jastrabie"
     ],
@@ -52,7 +55,13 @@
     "name:nld_x_preferred":[
         "Tren\u010dianske Jastrabie"
     ],
+    "name:ron_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
     "name:slk_x_preferred":[
+        "Tren\u010dianske Jastrabie"
+    ],
+    "name:spa_x_preferred":[
         "Tren\u010dianske Jastrabie"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Tren\u010dianske Jastrabie"
+    ],
+    "name:war_x_variant":[
+        "Nemeck\u00e1"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101843837,
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254247,
     "wof:name":"Tren\u010dianske Jastrabie",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

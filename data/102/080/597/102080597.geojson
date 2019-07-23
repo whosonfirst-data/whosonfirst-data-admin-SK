@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Districte de Poprad"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Poprad"
+    ],
     "name:ces_x_preferred":[
         "Okres Poprad"
+    ],
+    "name:ces_x_variant":[
+        "okres Poprad"
     ],
     "name:deu_x_preferred":[
         "Okres Poprad"
@@ -34,11 +40,20 @@
     "name:eng_x_preferred":[
         "Poprad"
     ],
+    "name:eng_x_variant":[
+        "Poprad District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Poprad"
     ],
+    "name:eus_x_preferred":[
+        "Popradeko barrutia"
+    ],
     "name:fra_x_preferred":[
         "District de Poprad"
+    ],
+    "name:fra_x_variant":[
+        "Poprad"
     ],
     "name:hrv_x_preferred":[
         "Okrug Poprad"
@@ -48,6 +63,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Poprad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30d7\u30e9\u30c9\u90e1"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10de\u10e0\u10d0\u10d3\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -70,6 +88,9 @@
     "name:pol_x_preferred":[
         "Powiat Poprad"
     ],
+    "name:pol_x_variant":[
+        "powiat Poprad"
+    ],
     "name:por_x_preferred":[
         "Poprad"
     ],
@@ -85,6 +106,9 @@
     "name:slk_x_preferred":[
         "Poprad"
     ],
+    "name:slk_x_variant":[
+        "okres Poprad"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Poprad"
     ],
@@ -96,6 +120,9 @@
     ],
     "name:war_x_preferred":[
         "Poprad"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u666e\u62c9\u5fb7\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -146,7 +173,7 @@
         }
     ],
     "wof:id":102080597,
-    "wof:lastmodified":1561841677,
+    "wof:lastmodified":1563253594,
     "wof:name":"Poprad",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
+    "name:eus_x_preferred":[
+        "Tekovsk\u00e9 Lu\u017eany"
+    ],
     "name:fra_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
+    "name:ron_x_preferred":[
+        "Tekovsk\u00e9 Lu\u017eany"
+    ],
     "name:slk_x_preferred":[
+        "Tekovsk\u00e9 Lu\u017eany"
+    ],
+    "name:spa_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Tekovsk\u00e9 Lu\u017eany"
+    ],
+    "name:war_x_variant":[
+        "Baj\u010d"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101786419,
-    "wof:lastmodified":1561841710,
+    "wof:lastmodified":1563254541,
     "wof:name":"Tekovsk\u00e9 Lu\u017eany",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

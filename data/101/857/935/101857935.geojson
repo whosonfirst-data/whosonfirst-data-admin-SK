@@ -37,6 +37,12 @@
     "name:epo_x_preferred":[
         "Hradi\u0161t\u011b"
     ],
+    "name:epo_x_variant":[
+        "Hradi\u0161te"
+    ],
+    "name:eus_x_preferred":[
+        "Hradi\u0161te"
+    ],
     "name:fra_x_preferred":[
         "Hradi\u0161t\u011b"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:ita_x_preferred":[
         "Hradi\u0161t\u011b"
+    ],
+    "name:ita_x_variant":[
+        "Hradi\u0161te"
     ],
     "name:msa_x_preferred":[
         "Hradi\u0161te"
@@ -61,10 +70,16 @@
     "name:pol_x_preferred":[
         "Hradi\u0161t\u011b"
     ],
+    "name:ron_x_preferred":[
+        "Hradi\u0161te"
+    ],
     "name:slk_x_preferred":[
         "Hradi\u0161t\u011b"
     ],
     "name:slk_x_variant":[
+        "Hradi\u0161te"
+    ],
+    "name:spa_x_preferred":[
         "Hradi\u0161te"
     ],
     "name:srp_x_preferred":[
@@ -72,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Hradi\u0161te"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6c99\u91cc\u4ec0"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Trenciansky kraj",
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":101857935,
-    "wof:lastmodified":1561841693,
+    "wof:lastmodified":1563254263,
     "wof:name":"Hradi\u0161te",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

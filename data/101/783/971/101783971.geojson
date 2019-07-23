@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "B\u00e1tovce"
     ],
+    "name:eus_x_preferred":[
+        "B\u00e1tovce"
+    ],
     "name:fra_x_preferred":[
         "B\u00e1tovce"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "B\u00e1tovce"
     ],
+    "name:ron_x_preferred":[
+        "B\u00e1tovce"
+    ],
     "name:slk_x_preferred":[
+        "B\u00e1tovce"
+    ],
+    "name:spa_x_preferred":[
         "B\u00e1tovce"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "B\u00e1tovce"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u862d\u5854"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Nitriansky kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101783971,
-    "wof:lastmodified":1561841703,
+    "wof:lastmodified":1563254420,
     "wof:name":"B\u00e1tovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

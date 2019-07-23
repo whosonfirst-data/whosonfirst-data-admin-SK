@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Pucov"
     ],
+    "name:eus_x_preferred":[
+        "Pucov"
+    ],
     "name:fra_x_preferred":[
         "Pucov"
     ],
@@ -51,14 +54,26 @@
     "name:nld_x_preferred":[
         "Pucov"
     ],
+    "name:ron_x_preferred":[
+        "Pucov"
+    ],
     "name:slk_x_preferred":[
+        "Pucov"
+    ],
+    "name:spa_x_preferred":[
         "Pucov"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0443\u0446\u043e\u0432"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0446\u043e\u0432"
+    ],
     "name:war_x_preferred":[
         "Pucov"
+    ],
+    "name:war_x_variant":[
+        "Stupn\u00e9"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125773485,
-    "wof:lastmodified":1561841731,
+    "wof:lastmodified":1563254988,
     "wof:name":"Pucov",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

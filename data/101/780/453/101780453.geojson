@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u010caklov"
     ],
+    "name:eus_x_preferred":[
+        "\u010caklov"
+    ],
     "name:fra_x_preferred":[
         "\u010caklov"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "\u010caklov"
     ],
+    "name:ron_x_preferred":[
+        "\u010caklov"
+    ],
     "name:slk_x_preferred":[
+        "\u010caklov"
+    ],
+    "name:spa_x_preferred":[
         "\u010caklov"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "\u010caklov"
+    ],
+    "name:war_x_variant":[
+        "Papradno"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780453,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254608,
     "wof:name":"\u010caklov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

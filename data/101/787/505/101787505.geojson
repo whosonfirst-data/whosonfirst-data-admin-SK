@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Gbelce"
     ],
+    "name:eus_x_preferred":[
+        "Gbelce"
+    ],
     "name:fra_x_preferred":[
         "Gbelce"
     ],
@@ -49,7 +52,13 @@
     "name:nld_x_preferred":[
         "Gbelce"
     ],
+    "name:ron_x_preferred":[
+        "Gbelce"
+    ],
     "name:slk_x_preferred":[
+        "Gbelce"
+    ],
+    "name:spa_x_preferred":[
         "Gbelce"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Gbelce"
+    ],
+    "name:war_x_variant":[
+        "Svod\u00edn"
     ],
     "name:zho_min_nan_x_preferred":[
         "Gbelce"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101787505,
-    "wof:lastmodified":1561841711,
+    "wof:lastmodified":1563254551,
     "wof:name":"Gbelce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

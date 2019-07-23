@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nitrianske Pravno"
     ],
+    "name:eus_x_preferred":[
+        "Nitrianske Pravno"
+    ],
     "name:fra_x_preferred":[
         "Nitrianske Pravno"
     ],
@@ -52,7 +55,16 @@
     "name:nld_x_preferred":[
         "Nitrianske Pravno"
     ],
+    "name:pol_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:ron_x_preferred":[
+        "Nitrianske Pravno"
+    ],
     "name:slk_x_preferred":[
+        "Nitrianske Pravno"
+    ],
+    "name:spa_x_preferred":[
         "Nitrianske Pravno"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Nitrianske Pravno"
+    ],
+    "name:war_x_variant":[
+        "Kamenica"
     ],
     "name:zho_min_nan_x_preferred":[
         "Nitrianske Pravno"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":101780223,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254648,
     "wof:name":"Nitrianske Pravno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

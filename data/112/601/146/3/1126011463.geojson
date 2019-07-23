@@ -21,10 +21,16 @@
     "name:cat_x_preferred":[
         "Ol\u0161ovany"
     ],
+    "name:ces_x_preferred":[
+        "Ol\u0161ovany"
+    ],
     "name:eng_x_preferred":[
         "Ol\u0161ovany"
     ],
     "name:epo_x_preferred":[
+        "Ol\u0161ovany"
+    ],
+    "name:eus_x_preferred":[
         "Ol\u0161ovany"
     ],
     "name:fra_x_preferred":[
@@ -39,23 +45,38 @@
     "name:msa_x_preferred":[
         "Ol\u0161ovany"
     ],
+    "name:nan_x_preferred":[
+        "Ol\u0161ovany"
+    ],
     "name:nld_x_preferred":[
         "Ol\u0161ovany"
     ],
     "name:pol_x_preferred":[
         "Ol\u0161ovany"
     ],
+    "name:ron_x_preferred":[
+        "Ol\u0161ovany"
+    ],
     "name:slk_x_preferred":[
+        "Ol\u0161ovany"
+    ],
+    "name:spa_x_preferred":[
         "Ol\u0161ovany"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043b\u0448\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u043e\u0432\u0430\u043d\u0438"
     ],
     "name:unk_x_variant":[
         "O\u013e\u0161oviany"
     ],
     "name:war_x_preferred":[
         "Ol\u0161ovany"
+    ],
+    "name:war_x_variant":[
+        "Bardejovsk\u00e9 K\u00fapele"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -107,7 +128,7 @@
         }
     ],
     "wof:id":1126011463,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254929,
     "wof:name":"Ol\u0161ovany",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

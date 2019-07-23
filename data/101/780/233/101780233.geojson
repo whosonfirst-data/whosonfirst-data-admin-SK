@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
+    "name:eus_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
     "name:fra_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
+    "name:ron_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
     "name:rue_x_preferred":[
         "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0435 \u0413\u0440\u0430\u0434\u0457\u0448\u0442\u0454"
     ],
     "name:slk_x_preferred":[
+        "Zempl\u00ednske Hradi\u0161te"
+    ],
+    "name:spa_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101780233,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254609,
     "wof:name":"Zempl\u00ednske Hradi\u0161te",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

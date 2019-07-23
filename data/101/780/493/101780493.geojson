@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Micha\u013eany"
     ],
+    "name:eus_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
     "name:fra_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Micha\u013eany"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Micha\u013eany"
     ],
+    "name:ron_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
     "name:slk_x_preferred":[
+        "\u0160ari\u0161sk\u00e9 Micha\u013eany"
+    ],
+    "name:spa_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Micha\u013eany"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101780493,
-    "wof:lastmodified":1561841717,
+    "wof:lastmodified":1563254658,
     "wof:name":"\u0160ari\u0161sk\u00e9 Micha\u013eany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ostrovany"
     ],
+    "name:eus_x_preferred":[
+        "Ostrovany"
+    ],
     "name:fra_x_preferred":[
         "Ostrovany"
     ],
@@ -46,13 +49,22 @@
     "name:msa_x_preferred":[
         "Ostrovany"
     ],
+    "name:nan_x_preferred":[
+        "Ostrovany"
+    ],
     "name:nld_x_preferred":[
         "Ostrovany"
     ],
     "name:pol_x_preferred":[
         "Ostrovany"
     ],
+    "name:ron_x_preferred":[
+        "Ostrovany"
+    ],
     "name:slk_x_preferred":[
+        "Ostrovany"
+    ],
+    "name:spa_x_preferred":[
         "Ostrovany"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":101780495,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254665,
     "wof:name":"Ostrovany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

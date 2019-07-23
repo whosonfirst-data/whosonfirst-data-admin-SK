@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Bobrov"
     ],
+    "name:eus_x_preferred":[
+        "Bobrov"
+    ],
     "name:fra_x_preferred":[
         "Bobrov"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Bobr\u00f3w"
     ],
+    "name:ron_x_preferred":[
+        "Bobrov"
+    ],
     "name:slk_x_preferred":[
+        "Bobrov"
+    ],
+    "name:spa_x_preferred":[
         "Bobrov"
     ],
     "name:srp_x_preferred":[
@@ -69,6 +78,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Bobrov"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u6885\u65af\u6258\u6c83"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101847819,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254473,
     "wof:name":"Bobrov",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

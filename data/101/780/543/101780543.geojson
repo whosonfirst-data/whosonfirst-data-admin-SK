@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Kamenica nad Cirochou"
     ],
+    "name:eus_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
     "name:fra_x_preferred":[
         "Kamenica nad Cirochou"
     ],
@@ -49,7 +52,13 @@
     "name:pol_x_preferred":[
         "Kamenica nad Cirochou"
     ],
+    "name:ron_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
     "name:slk_x_preferred":[
+        "Kamenica nad Cirochou"
+    ],
+    "name:spa_x_preferred":[
         "Kamenica nad Cirochou"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Kamenica nad Cirochou"
+    ],
+    "name:war_x_variant":[
+        "Huncovce"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780543,
-    "wof:lastmodified":1561841715,
+    "wof:lastmodified":1563254616,
     "wof:name":"Kamenica nad Cirochou",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

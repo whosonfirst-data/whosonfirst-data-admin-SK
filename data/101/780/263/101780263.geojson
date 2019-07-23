@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Hrabu\u0161ice"
     ],
+    "name:eus_x_preferred":[
+        "Hrabu\u0161ice"
+    ],
     "name:fra_x_preferred":[
         "Hrabu\u0161ice"
     ],
@@ -49,14 +52,26 @@
     "name:pol_x_preferred":[
         "Hrabu\u0161ice"
     ],
+    "name:ron_x_preferred":[
+        "Hrabu\u0161ice"
+    ],
     "name:slk_x_preferred":[
+        "Hrabu\u0161ice"
+    ],
+    "name:spa_x_preferred":[
         "Hrabu\u0161ice"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0430\u0431\u0443\u0448\u0438\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u0443\u0448\u0438\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "Hrabu\u0161ice"
+    ],
+    "name:war_x_variant":[
+        "Richvald"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101780263,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254669,
     "wof:name":"Hrabu\u0161ice",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

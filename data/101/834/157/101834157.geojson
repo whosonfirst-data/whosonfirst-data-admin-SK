@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "\u0160t\u00farovo"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160t\u00farovo"
+    ],
     "name:ces_x_preferred":[
         "\u0160t\u00farovo"
     ],
@@ -39,6 +42,9 @@
         "\u0160t\u00farovo"
     ],
     "name:epo_x_preferred":[
+        "\u0160t\u00farovo"
+    ],
+    "name:eus_x_preferred":[
         "\u0160t\u00farovo"
     ],
     "name:fas_x_preferred":[
@@ -62,11 +68,17 @@
     "name:hun_x_preferred":[
         "P\u00e1rk\u00e1ny"
     ],
+    "name:ind_x_preferred":[
+        "\u0160t\u00farovo"
+    ],
     "name:ita_x_preferred":[
         "\u0160t\u00farovo"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30c8\u30a5\u30fc\u30ed\u30f4\u30a9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ud22c\ub85c\ubcf4"
     ],
     "name:lav_x_preferred":[
         "\u0160t\u016brovo"
@@ -174,7 +186,7 @@
         }
     ],
     "wof:id":101834157,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254306,
     "wof:name":"\u0160t\u00farovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

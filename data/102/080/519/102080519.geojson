@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "\u017diar nad Hronom"
     ],
+    "name:ceb_x_preferred":[
+        "Okres \u017diar nad Hronom"
+    ],
     "name:ces_x_preferred":[
         "\u017diar nad Hronom"
     ],
@@ -56,14 +59,26 @@
     "name:eng_x_preferred":[
         "Ziar nad Hronom"
     ],
+    "name:eng_x_variant":[
+        "\u017diar nad Hronom District"
+    ],
     "name:epo_x_preferred":[
         "\u017diar nad Hronom"
+    ],
+    "name:epo_x_variant":[
+        "Distrikto \u017diar nad Hronom"
+    ],
+    "name:eus_x_preferred":[
+        "\u017diar nad Hronomgo barrutia"
     ],
     "name:fas_x_preferred":[
         "\u0698\u06cc\u0627\u0631 \u0646\u0627\u062f \u0647\u0631\u0646\u0645"
     ],
     "name:fra_x_preferred":[
         "District de \u017diar nad Hronom"
+    ],
+    "name:fra_x_variant":[
+        "\u017diar nad Hronom"
     ],
     "name:hrv_x_preferred":[
         "Okrug \u017diar nad Hronom"
@@ -110,6 +125,9 @@
     "name:slk_x_preferred":[
         "\u017diar nad Hronom"
     ],
+    "name:slk_x_variant":[
+        "okres \u017diar nad Hronom"
+    ],
     "name:spa_x_preferred":[
         "\u017diar nad Hronom"
     ],
@@ -119,8 +137,14 @@
     "name:ukr_x_preferred":[
         "\u0416'\u044f\u0440-\u043d\u0430\u0434-\u0413\u0440\u043e\u043d\u043e\u043c"
     ],
+    "name:vie_x_preferred":[
+        "\u017diar nad Hronom"
+    ],
     "name:war_x_preferred":[
         "\u017diar nad Hronom"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u9f8d\u6cb3\u7554\u65e5\u4e9e\u723e\u5340"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -170,7 +194,7 @@
         }
     ],
     "wof:id":102080519,
-    "wof:lastmodified":1561841676,
+    "wof:lastmodified":1563253582,
     "wof:name":"\u017diar nad Hronom",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

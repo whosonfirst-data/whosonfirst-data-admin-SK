@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Tovarn\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "Tovarn\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Tovarn\u00e9"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Tovarn\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Tovarn\u00e9"
+    ],
     "name:slk_x_preferred":[
+        "Tovarn\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Tovarn\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Tovarn\u00e9"
+    ],
+    "name:war_x_variant":[
+        "Dubovica"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Pre\u0161ovsk\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780449,
-    "wof:lastmodified":1561841713,
+    "wof:lastmodified":1563254581,
     "wof:name":"Tovarn\u00e9",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

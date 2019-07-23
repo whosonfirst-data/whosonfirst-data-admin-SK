@@ -31,11 +31,17 @@
     "name:epo_x_preferred":[
         "Cejkov"
     ],
+    "name:eus_x_preferred":[
+        "Cejkov"
+    ],
     "name:fra_x_preferred":[
         "Cejkov"
     ],
     "name:hun_x_preferred":[
         "C\u00e9ke"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0565\u0575\u056f\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Cejkov"
@@ -52,10 +58,16 @@
     "name:pol_x_preferred":[
         "Cejkov"
     ],
+    "name:ron_x_preferred":[
+        "Cejkov"
+    ],
     "name:rue_x_preferred":[
         "\u0426\u0435\u0439\u043a\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Cejkov"
+    ],
+    "name:spa_x_preferred":[
         "Cejkov"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101782865,
-    "wof:lastmodified":1561841702,
+    "wof:lastmodified":1563254399,
     "wof:name":"Cejkov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ochodnica"
     ],
+    "name:eus_x_preferred":[
+        "Ochodnica"
+    ],
     "name:fra_x_preferred":[
         "Ochodnica"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "Ochodnica"
     ],
+    "name:ron_x_preferred":[
+        "Ochodnica"
+    ],
     "name:slk_x_preferred":[
+        "Ochodnica"
+    ],
+    "name:spa_x_preferred":[
         "Ochodnica"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Ochodnica"
+    ],
+    "name:war_x_variant":[
+        "Liskov\u00e1"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ochodnica"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":101875837,
-    "wof:lastmodified":1561841689,
+    "wof:lastmodified":1563254193,
     "wof:name":"Ochodnica",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

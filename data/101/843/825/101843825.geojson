@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nemce"
     ],
+    "name:eus_x_preferred":[
+        "Nemce"
+    ],
     "name:fra_x_preferred":[
         "Nemce"
     ],
@@ -58,7 +61,13 @@
     "name:pol_x_preferred":[
         "Nemce"
     ],
+    "name:ron_x_preferred":[
+        "Nemce"
+    ],
     "name:slk_x_preferred":[
+        "Nemce"
+    ],
+    "name:spa_x_preferred":[
         "Nemce"
     ],
     "name:srp_x_preferred":[
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841692,
+    "wof:lastmodified":1563254244,
     "wof:name":"Nemce",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

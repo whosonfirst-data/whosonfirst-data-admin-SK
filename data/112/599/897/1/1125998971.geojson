@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Vy\u0161n\u00fd Kom\u00e1rnik"
     ],
+    "name:eus_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
     "name:fra_x_preferred":[
         "Vy\u0161n\u00fd Kom\u00e1rnik"
     ],
@@ -57,10 +60,16 @@
     "name:pol_x_preferred":[
         "Vy\u0161n\u00fd Kom\u00e1rnik"
     ],
+    "name:ron_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
     "name:rue_x_preferred":[
         "\u0412\u044b\u0448\u043d\u0457\u0439 \u041a\u043e\u043c\u0430\u0440\u043d\u0438\u043a"
     ],
     "name:slk_x_preferred":[
+        "Vy\u0161n\u00fd Kom\u00e1rnik"
+    ],
+    "name:spa_x_preferred":[
         "Vy\u0161n\u00fd Kom\u00e1rnik"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125998971,
-    "wof:lastmodified":1561841725,
+    "wof:lastmodified":1563254889,
     "wof:name":"Vy\u0161n\u00fd Kom\u00e1rnik",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

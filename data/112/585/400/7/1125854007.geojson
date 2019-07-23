@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Drienica"
     ],
+    "name:eus_x_preferred":[
+        "Drienica"
+    ],
     "name:fra_x_preferred":[
         "Drienica"
     ],
@@ -42,16 +45,25 @@
     "name:msa_x_preferred":[
         "Drienica"
     ],
+    "name:nan_x_preferred":[
+        "Drienica"
+    ],
     "name:nld_x_preferred":[
         "Drienica"
     ],
     "name:pol_x_preferred":[
         "Drienica"
     ],
+    "name:ron_x_preferred":[
+        "Drienica"
+    ],
     "name:rue_x_preferred":[
         "\u0414\u0440\u0454\u043d\u0456\u0446\u044f"
     ],
     "name:slk_x_preferred":[
+        "Drienica"
+    ],
+    "name:spa_x_preferred":[
         "Drienica"
     ],
     "name:srp_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125854007,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254954,
     "wof:name":"Drienica",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

@@ -31,8 +31,14 @@
     "name:cat_x_preferred":[
         "Districte de Bratislava V"
     ],
+    "name:ceb_x_preferred":[
+        "Okres Bratislava V"
+    ],
     "name:ces_x_preferred":[
         "Okres Bratislava V"
+    ],
+    "name:ces_x_variant":[
+        "okres Bratislava V"
     ],
     "name:dan_x_preferred":[
         "Bratislava V"
@@ -94,11 +100,17 @@
     "name:slk_x_preferred":[
         "Bratislava V"
     ],
+    "name:slk_x_variant":[
+        "okres Bratislava V"
+    ],
     "name:spa_x_preferred":[
         "Bratislava V"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 V"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430 V"
     ],
     "name:war_x_preferred":[
         "Bratislava V"
@@ -154,7 +166,7 @@
         }
     ],
     "wof:id":102080449,
-    "wof:lastmodified":1561841675,
+    "wof:lastmodified":1563253570,
     "wof:name":"Bratislava V",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

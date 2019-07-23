@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Bratislava"
     ],
+    "name:ceb_x_preferred":[
+        "Bratislavsk\u00fd kraj"
+    ],
     "name:ces_x_preferred":[
         "Bratislavsk\u00fd kraj"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Bratislava"
+    ],
+    "name:eng_x_variant":[
+        "Bratislava Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Bratislavo"
@@ -87,6 +93,9 @@
     "name:fra_x_variant":[
         "Bratislava"
     ],
+    "name:frr_x_preferred":[
+        "Bratislava"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ac7\u0a9f\u0abf\u0ab8\u0acd\u0ab2\u0abe\u0ab5\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:hun_x_preferred":[
         "Pozsonyi k\u00f6rzet"
+    ],
+    "name:hun_x_variant":[
+        "Pozsony megye"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0580\u0561\u057f\u056b\u057d\u056c\u0561\u057e\u0561\u0575\u056b \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
@@ -120,11 +132,17 @@
     "name:kor_x_preferred":[
         "\ube0c\ub77c\ud2f0\uc2ac\ub77c\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77c\ud2f0\uc2ac\ub77c\ubc14\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Posonium"
     ],
     "name:lav_x_preferred":[
         "Bratislavas apgabals"
+    ],
+    "name:lim_x_preferred":[
+        "Gewes Bratislava"
     ],
     "name:lit_x_preferred":[
         "Bratislavos kra\u0161tas"
@@ -158,6 +176,9 @@
     ],
     "name:pol_x_preferred":[
         "Kraj bratys\u0142awski"
+    ],
+    "name:pol_x_variant":[
+        "kraj bratys\u0142awski"
     ],
     "name:por_x_preferred":[
         "Bratislava"
@@ -338,7 +359,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1561841680,
+    "wof:lastmodified":1563253723,
     "wof:name":"Bratislavsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

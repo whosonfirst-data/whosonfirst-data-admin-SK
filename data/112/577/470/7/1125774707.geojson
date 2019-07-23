@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Ture\u0148"
     ],
+    "name:eus_x_preferred":[
+        "Ture\u0148"
+    ],
     "name:fra_x_preferred":[
         "Ture\u0148"
     ],
@@ -57,7 +60,13 @@
     "name:por_x_preferred":[
         "Ture\u0148"
     ],
+    "name:ron_x_preferred":[
+        "Ture\u0148"
+    ],
     "name:slk_x_preferred":[
+        "Ture\u0148"
+    ],
+    "name:spa_x_preferred":[
         "Ture\u0148"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125774707,
-    "wof:lastmodified":1561841730,
+    "wof:lastmodified":1563254978,
     "wof:name":"Ture\u0148",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

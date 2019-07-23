@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Jarabina"
     ],
+    "name:eus_x_preferred":[
+        "Jarabina"
+    ],
     "name:fra_x_preferred":[
         "Jarabina"
     ],
@@ -54,10 +57,16 @@
     "name:pol_x_preferred":[
         "Jarz\u0119bina"
     ],
+    "name:ron_x_preferred":[
+        "Jarabina"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u0440\u044f\u0431\u0438\u043d\u0430"
     ],
     "name:slk_x_preferred":[
+        "Jarabina"
+    ],
+    "name:spa_x_preferred":[
         "Jarabina"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1125930183,
-    "wof:lastmodified":1561841719,
+    "wof:lastmodified":1563254747,
     "wof:name":"Jarabina",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

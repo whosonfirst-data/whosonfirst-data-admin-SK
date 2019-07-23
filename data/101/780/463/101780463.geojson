@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sa\u010durov"
     ],
+    "name:eus_x_preferred":[
+        "Sa\u010durov"
+    ],
     "name:fra_x_preferred":[
         "Sa\u010durov"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Sa\u010durov"
     ],
+    "name:ron_x_preferred":[
+        "Sa\u010durov"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0447\u0443\u0440\u043e\u0432"
     ],
     "name:slk_x_preferred":[
+        "Sa\u010durov"
+    ],
+    "name:spa_x_preferred":[
         "Sa\u010durov"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101780463,
-    "wof:lastmodified":1561841714,
+    "wof:lastmodified":1563254599,
     "wof:name":"Sa\u010durov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

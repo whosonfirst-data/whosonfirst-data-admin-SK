@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Zubrohlava"
     ],
+    "name:eus_x_preferred":[
+        "Zubrohlava"
+    ],
     "name:fra_x_preferred":[
         "Zubrohlava"
     ],
@@ -55,7 +58,13 @@
     "name:pol_x_preferred":[
         "\u017bubroh\u0142awa"
     ],
+    "name:ron_x_preferred":[
+        "Zubrohlava"
+    ],
     "name:slk_x_preferred":[
+        "Zubrohlava"
+    ],
+    "name:spa_x_preferred":[
         "Zubrohlava"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Zubrohlava"
+    ],
+    "name:war_x_variant":[
+        "Ole\u0161n\u00e1"
     ],
     "name:zho_min_nan_x_preferred":[
         "Zubrohlava"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":101841151,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254469,
     "wof:name":"Zubrohlava",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Vr\u00fatky"
     ],
+    "name:ceb_x_preferred":[
+        "Vr\u00fatky"
+    ],
     "name:ces_x_preferred":[
         "Vr\u00fatky"
     ],
@@ -36,6 +39,9 @@
         "Vr\u00fatky"
     ],
     "name:epo_x_preferred":[
+        "Vr\u00fatky"
+    ],
+    "name:eus_x_preferred":[
         "Vr\u00fatky"
     ],
     "name:fas_x_preferred":[
@@ -58,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30eb\u30fc\u30c4\u30ad"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub8e8\ud2b8\ud0a4"
     ],
     "name:lav_x_preferred":[
         "Vr\u016btki"
@@ -101,7 +110,16 @@
     "name:swe_x_preferred":[
         "Vr\u00fatky"
     ],
+    "name:szl_x_preferred":[
+        "Vr\u00fatky"
+    ],
     "name:tat_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043a\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Vr\u00fatky"
+    ],
+    "name:ukr_x_preferred":[
         "\u0412\u0440\u0443\u0442\u043a\u0438"
     ],
     "name:war_x_preferred":[
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":101754907,
-    "wof:lastmodified":1561841687,
+    "wof:lastmodified":1563254171,
     "wof:name":"Vr\u00fatky",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

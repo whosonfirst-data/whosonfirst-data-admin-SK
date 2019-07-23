@@ -12,6 +12,18 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hol\u00ed\u010d aerodrome"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome Hol\u00ed\u010d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ea\u30fc\u30c1\u7a7a\u6e2f"
+    ],
+    "name:slk_x_preferred":[
+        "Letisko Hol\u00ed\u010d"
+    ],
     "oa:elevation_ft":"520",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":102547761,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563253616,
     "wof:name":"Holic Airport",
     "wof:parent_id":85688369,
     "wof:placetype":"campus",

@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Levice"
     ],
+    "name:ceb_x_preferred":[
+        "Levice"
+    ],
     "name:ces_x_preferred":[
         "Levice"
     ],
@@ -48,6 +51,9 @@
         "Levice"
     ],
     "name:est_x_preferred":[
+        "Levice"
+    ],
+    "name:eus_x_preferred":[
         "Levice"
     ],
     "name:fas_x_preferred":[
@@ -125,6 +131,9 @@
     "name:tur_x_preferred":[
         "Levice"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u0456\u0446\u0435"
+    ],
     "name:und_x_preferred":[
         "Levice"
     ],
@@ -190,7 +199,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841691,
+    "wof:lastmodified":1563254235,
     "wof:name":"Levice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

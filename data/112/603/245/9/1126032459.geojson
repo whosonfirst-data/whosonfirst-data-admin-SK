@@ -33,11 +33,17 @@
     "name:epo_x_preferred":[
         "Pernek"
     ],
+    "name:eus_x_preferred":[
+        "Pernek"
+    ],
     "name:fra_x_preferred":[
         "Pernek"
     ],
     "name:hun_x_preferred":[
         "Pernyek"
+    ],
+    "name:hun_x_variant":[
+        "Pernek"
     ],
     "name:ita_x_preferred":[
         "Pernek"
@@ -45,13 +51,25 @@
     "name:msa_x_preferred":[
         "Pernek"
     ],
+    "name:nan_x_preferred":[
+        "Pernek"
+    ],
     "name:nld_x_preferred":[
+        "Pernek"
+    ],
+    "name:pol_x_preferred":[
         "Pernek"
     ],
     "name:por_x_preferred":[
         "Pernek"
     ],
+    "name:ron_x_preferred":[
+        "Pernek"
+    ],
     "name:slk_x_preferred":[
+        "Pernek"
+    ],
+    "name:spa_x_preferred":[
         "Pernek"
     ],
     "name:srp_x_preferred":[
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":1126032459,
-    "wof:lastmodified":1561841721,
+    "wof:lastmodified":1563254808,
     "wof:name":"Pernek",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

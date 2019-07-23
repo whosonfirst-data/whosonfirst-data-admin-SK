@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Brezovica"
     ],
+    "name:eus_x_preferred":[
+        "Brezovica"
+    ],
     "name:fra_x_preferred":[
         "Brezovica"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Brzozowica"
     ],
+    "name:ron_x_preferred":[
+        "Brezovica"
+    ],
     "name:slk_x_preferred":[
+        "Brezovica"
+    ],
+    "name:spa_x_preferred":[
         "Brezovica"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Brezovica"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u970d\u592b"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*\u017dilinsk\u00fd kraj",
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":101780563,
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254632,
     "wof:name":"Brezovica",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

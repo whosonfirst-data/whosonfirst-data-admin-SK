@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:eus_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:fra_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
@@ -48,10 +51,19 @@
     "name:pol_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:ron_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:slk_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:spa_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:srp_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
         "\u041e\u043f\u0430\u0442\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:unk_x_variant":[
@@ -59,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:war_x_variant":[
+        "Ol\u0161ovany"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1126011477,
-    "wof:lastmodified":1561841727,
+    "wof:lastmodified":1563254929,
     "wof:name":"Opatovsk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

@@ -61,6 +61,9 @@
     "name:pol_x_preferred":[
         "Hab\u00f3wka"
     ],
+    "name:ron_x_preferred":[
+        "Habovka"
+    ],
     "name:slk_x_preferred":[
         "Habovka"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101832747,
-    "wof:lastmodified":1561841694,
+    "wof:lastmodified":1563254271,
     "wof:name":"Habovka",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

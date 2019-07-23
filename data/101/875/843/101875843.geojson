@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
+    "name:eus_x_preferred":[
+        "Nov\u00e1 \u013dubov\u0148a"
+    ],
     "name:fra_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
@@ -52,10 +55,16 @@
     "name:pol_x_preferred":[
         "Nowa Lubowla"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1 \u013dubov\u0148a"
+    ],
     "name:rue_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
     ],
     "name:slk_x_preferred":[
+        "Nov\u00e1 \u013dubov\u0148a"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
     "name:srp_x_preferred":[
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":101875843,
-    "wof:lastmodified":1561841688,
+    "wof:lastmodified":1563254189,
     "wof:name":"Nov\u00e1 \u013dubov\u0148a",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

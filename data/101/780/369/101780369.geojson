@@ -23,6 +23,9 @@
     "name:aze_x_preferred":[
         "Lipt\u043evski Mikul\u0430\u015f"
     ],
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438-\u041c\u0438\u043a\u0443\u043b\u0430\u0448"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u0442\u0430\u045e\u0441\u043a\u0456 \u041c\u0456\u043a\u0443\u043b\u0430\u0448"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:cat_x_preferred":[
         "Liptovsk\u00fd Mikul\u00e1\u0161"
+    ],
+    "name:ceb_x_preferred":[
+        "Okres Liptovsk\u00fd Mikul\u00e1\u0161"
     ],
     "name:ces_x_preferred":[
         "Liptovsk\u00fd Mikul\u00e1\u0161"
@@ -57,6 +63,9 @@
         "Liptovsk\u00fd Mikul\u00e1\u0161"
     ],
     "name:est_x_preferred":[
+        "Liptovsk\u00fd Mikul\u00e1\u0161"
+    ],
+    "name:eus_x_preferred":[
         "Liptovsk\u00fd Mikul\u00e1\u0161"
     ],
     "name:fas_x_preferred":[
@@ -92,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ub9bd\ud1a0\ud504\uc2a4\ud0a4\ubbf8\ucfe8\ub77c\uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9bd\ud1a0\uc6b0\uc2a4\ud0a4\ubbf8\ucfe8\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Liptovski Mikul\u0101\u0161a"
     ],
@@ -115,6 +127,9 @@
     ],
     "name:pol_x_preferred":[
         "Liptowski Mikulasz"
+    ],
+    "name:pol_x_variant":[
+        "Liptowski Miku\u0142asz"
     ],
     "name:por_x_preferred":[
         "Liptovsk\u00fd Mikul\u00e1\u0161"
@@ -148,6 +163,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0441\u043a\u0438-\u041c\u0438\u043a\u0443\u043b\u0430\u0448"
+    ],
+    "name:tat_x_variant":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438-\u041c\u0438\u043a\u0443\u043b\u0430\u0448"
     ],
     "name:tur_x_preferred":[
         "Liptovsk\u00fd Mikul\u00e1\u0161"
@@ -225,7 +243,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841716,
+    "wof:lastmodified":1563254633,
     "wof:name":"Liptovsk\u00fd Mikul\u00e1\u0161",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

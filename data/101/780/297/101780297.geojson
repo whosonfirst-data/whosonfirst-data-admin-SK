@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Trhovi\u0161te"
     ],
+    "name:eus_x_preferred":[
+        "Trhovi\u0161te"
+    ],
     "name:fra_x_preferred":[
         "Trhovi\u0161te"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Trhovi\u0161te"
     ],
+    "name:ron_x_preferred":[
+        "Trhovi\u0161te"
+    ],
     "name:slk_x_preferred":[
+        "Trhovi\u0161te"
+    ],
+    "name:spa_x_preferred":[
         "Trhovi\u0161te"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Trhovi\u0161te"
+    ],
+    "name:war_x_variant":[
+        "Vechec"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*Ko\u0161ick\u00fd kraj",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101780297,
-    "wof:lastmodified":1561841718,
+    "wof:lastmodified":1563254667,
     "wof:name":"Trhovi\u0161te",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

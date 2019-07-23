@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "\u017darnovica"
     ],
+    "name:ceb_x_preferred":[
+        "\u017darnovica"
+    ],
     "name:ces_x_preferred":[
         "\u017darnovica"
     ],
@@ -33,6 +36,9 @@
         "\u017darnovica"
     ],
     "name:epo_x_preferred":[
+        "\u017darnovica"
+    ],
+    "name:eus_x_preferred":[
         "\u017darnovica"
     ],
     "name:fas_x_preferred":[
@@ -74,11 +80,20 @@
     "name:slk_x_preferred":[
         "\u017darnovica"
     ],
+    "name:spa_x_preferred":[
+        "\u017darnovica"
+    ],
     "name:srp_x_preferred":[
         "\u0416\u0430\u0440\u043d\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0416\u0430\u0440\u043e\u0432\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u017darnovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u0440\u043d\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:und_x_colloquial":[
         "Zarnovica",
@@ -149,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561841701,
+    "wof:lastmodified":1563254383,
     "wof:name":"\u017darnovica",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

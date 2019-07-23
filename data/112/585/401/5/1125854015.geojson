@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:eus_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:fra_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
@@ -54,14 +57,23 @@
     "name:pol_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:ron_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:rue_x_preferred":[
         "\u0414\u0440\u044a\u0454\u043d\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:slk_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:spa_x_preferred":[
+        "Drienovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0440\u0458\u0435\u043d\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440'\u0454\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:unk_x_variant":[
         "Somos\u00fajfalu"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1125854015,
-    "wof:lastmodified":1561841729,
+    "wof:lastmodified":1563254953,
     "wof:name":"Drienovsk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

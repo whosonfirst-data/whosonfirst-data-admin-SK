@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Ni\u017en\u00fd \u017dipov"
     ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
     "name:fra_x_preferred":[
         "Ni\u017en\u00fd \u017dipov"
     ],
@@ -43,10 +46,16 @@
     "name:msa_x_preferred":[
         "Ni\u017en\u00fd \u017dipov"
     ],
+    "name:nan_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
     "name:nld_x_preferred":[
         "Ni\u017en\u00fd \u017dipov"
     ],
     "name:pol_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
+    "name:ron_x_preferred":[
         "Ni\u017en\u00fd \u017dipov"
     ],
     "name:rue_x_preferred":[
@@ -55,8 +64,14 @@
     "name:slk_x_preferred":[
         "Ni\u017en\u00fd \u017dipov"
     ],
+    "name:spa_x_preferred":[
+        "Ni\u017en\u00fd \u017dipov"
+    ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0436\u043d\u0438 \u0416\u0438\u043f\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0456\u0439 \u0416\u0456\u043f\u043e\u0432"
     ],
     "name:unk_x_variant":[
         "Uhorsk\u00fd \u017dipov"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101843861,
-    "wof:lastmodified":1561841690,
+    "wof:lastmodified":1563254211,
     "wof:name":"Ni\u017en\u00fd \u017dipov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

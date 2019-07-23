@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Sekule"
     ],
+    "name:eus_x_preferred":[
+        "Sekule"
+    ],
     "name:fra_x_preferred":[
         "Sekule"
     ],
@@ -55,7 +58,13 @@
     "name:por_x_preferred":[
         "Sekule"
     ],
+    "name:ron_x_preferred":[
+        "Sekule"
+    ],
     "name:slk_x_preferred":[
+        "Sekule"
+    ],
+    "name:spa_x_preferred":[
         "Sekule"
     ],
     "name:srp_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Sekule"
+    ],
+    "name:war_x_variant":[
+        "Ve\u013ek\u00e9 Blahovo"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sekule"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101833943,
-    "wof:lastmodified":1561841696,
+    "wof:lastmodified":1563254304,
     "wof:name":"Sekule",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

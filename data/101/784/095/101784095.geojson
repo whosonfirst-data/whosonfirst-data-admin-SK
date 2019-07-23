@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Jablonica"
     ],
+    "name:eus_x_preferred":[
+        "Jablonica"
+    ],
     "name:fra_x_preferred":[
         "Jablonica"
     ],
@@ -58,10 +61,16 @@
     "name:por_x_preferred":[
         "Jablonica"
     ],
+    "name:ron_x_preferred":[
+        "Jablonica"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u0431\u043b\u043e\u043d\u0438\u0446\u0430"
     ],
     "name:slk_x_preferred":[
+        "Jablonica"
+    ],
+    "name:spa_x_preferred":[
         "Jablonica"
     ],
     "name:srp_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101784095,
-    "wof:lastmodified":1561841706,
+    "wof:lastmodified":1563254460,
     "wof:name":"Jablonica",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",
