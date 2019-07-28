@@ -25,8 +25,44 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:ces_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:deu_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:epo_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:eus_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:fra_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
     "name:hun_x_preferred":[
         "Ipolyszak\u00e1llos"
+    ],
+    "name:ita_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:msa_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:nld_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:pol_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:ron_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043f\u0435\u043b\u044c\u0441\u043a\u0438\u0439-\u0421\u043e\u043a\u043e\u043b\u0435\u0446"
     ],
     "name:slk_x_historical":[
         "Sak\u00e1lo\u0161"
@@ -36,6 +72,15 @@
     ],
     "name:slk_x_variant":[
         "Sak\u00e1lo\u0161"
+    ],
+    "name:spa_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043f\u0435\u0459\u0441\u043a\u0438 \u0421\u043e\u043a\u043e\u043b\u0435\u0446"
+    ],
+    "name:war_x_preferred":[
+        "Ipe\u013esk\u00fd Sokolec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +106,7 @@
         }
     ],
     "wof:id":1243068125,
-    "wof:lastmodified":1537700417,
+    "wof:lastmodified":1564311308,
     "wof:name":"Ipel'sky Sokolec",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

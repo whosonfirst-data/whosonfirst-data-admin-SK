@@ -24,6 +24,12 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Havrania dolina"
+    ],
+    "name:slk_x_preferred":[
+        "Havrania dolina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1293599703,
-    "wof:lastmodified":1536623258,
+    "wof:lastmodified":1564310693,
     "wof:name":"Havrania Dolina",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

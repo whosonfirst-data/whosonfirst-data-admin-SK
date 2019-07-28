@@ -25,9 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:deu_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:epo_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:eus_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:fra_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:hun_x_preferred":[
+        "Panyidar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:msa_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:nld_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:pol_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:ron_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:slk_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:spa_x_preferred":[
+        "Panick\u00e9 Dravce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u045a\u0438\u0446\u043a\u0435 \u0414\u0440\u0430\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0456\u0446\u043a\u0435 \u0414\u0440\u0430\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Panyit-Dar\u00f3c",
         "Panitsk\u00e9 Dravce",
+        "Panick\u00e9 Dravce"
+    ],
+    "name:war_x_preferred":[
         "Panick\u00e9 Dravce"
     ],
     "src:geom":"geonames",
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1209228537,
-    "wof:lastmodified":1537700397,
+    "wof:lastmodified":1564310889,
     "wof:name":"Panicke Dravce",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

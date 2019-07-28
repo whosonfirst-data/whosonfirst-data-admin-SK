@@ -25,6 +25,12 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Turkov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259876559,
-    "wof:lastmodified":1536789627,
+    "wof:lastmodified":1564311466,
     "wof:name":"Turkov",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:ces_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:deu_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:epo_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:eus_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:fra_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0151hegy"
+    ],
+    "name:ita_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:msa_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:nld_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:pol_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:ron_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:slk_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:spa_x_preferred":[
+        "Lukovi\u0161tia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u0438\u0448\u0442\u0458\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u0456\u0448\u0442\u044c\u044f"
+    ],
     "name:und_x_variant":[
+        "Lukovi\u0161tia"
+    ],
+    "name:war_x_preferred":[
         "Lukovi\u0161tia"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1292917539,
-    "wof:lastmodified":1537700361,
+    "wof:lastmodified":1564310714,
     "wof:name":"Lukovistia",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

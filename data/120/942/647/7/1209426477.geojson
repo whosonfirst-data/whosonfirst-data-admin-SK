@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:hun_x_preferred":[
+        "Kisazar"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u041e\u0437\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u041e\u0437\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u041e\u0437\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Mal\u00e9 Ozorovce"
+    ],
+    "name:war_x_preferred":[
         "Mal\u00e9 Ozorovce"
     ],
     "src:geom":"geonames",
@@ -46,7 +97,7 @@
         }
     ],
     "wof:id":1209426477,
-    "wof:lastmodified":1537700360,
+    "wof:lastmodified":1564310922,
     "wof:name":"Male Ozorovce",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

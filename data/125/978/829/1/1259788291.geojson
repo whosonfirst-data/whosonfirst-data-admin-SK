@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:ces_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:deu_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:epo_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:eus_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:fra_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:hun_x_preferred":[
+        "Ill\u00e9sfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:msa_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:nld_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:pol_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:ron_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:slk_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:spa_x_preferred":[
+        "Ilia\u0161ovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0459\u0430\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u044c\u044f\u0448\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Ilia\u0161ovce"
+    ],
+    "name:war_x_preferred":[
         "Ilia\u0161ovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1259788291,
-    "wof:lastmodified":1537700367,
+    "wof:lastmodified":1564311438,
     "wof:name":"Iliasovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

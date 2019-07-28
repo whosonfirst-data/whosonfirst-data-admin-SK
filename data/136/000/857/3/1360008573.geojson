@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:hun_x_preferred":[
+        "Csukah\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u043b\u0456\u0432\u0446\u0457"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cukalovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u043b\u0456\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
+        "\u010cukalovce"
+    ],
+    "name:war_x_preferred":[
         "\u010cukalovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1360008573,
-    "wof:lastmodified":1537700372,
+    "wof:lastmodified":1564311074,
     "wof:name":"Cukalovce",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

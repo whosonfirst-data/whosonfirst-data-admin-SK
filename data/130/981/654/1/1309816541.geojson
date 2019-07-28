@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:hun_x_preferred":[
+        "Csataj"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:por_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cataj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0442\u0430\u0458"
+    ],
     "name:und_x_variant":[
+        "\u010cataj"
+    ],
+    "name:war_x_preferred":[
         "\u010cataj"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1309816541,
-    "wof:lastmodified":1537700434,
+    "wof:lastmodified":1564311164,
     "wof:name":"Cataj",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

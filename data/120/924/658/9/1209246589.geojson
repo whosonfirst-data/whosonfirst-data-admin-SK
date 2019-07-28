@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:ces_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:epo_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:eus_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:hun_x_preferred":[
+        "Kisolys\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:msa_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:nld_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:pol_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:ron_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u0448\u0430\u0432\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:spa_x_preferred":[
+        "O\u013e\u0161avka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0459\u0448\u0430\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u0448\u0430\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Ol\u0161avka"
+    ],
+    "name:war_x_preferred":[
+        "O\u013e\u0161avka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +94,7 @@
         }
     ],
     "wof:id":1209246589,
-    "wof:lastmodified":1537700356,
+    "wof:lastmodified":1564310878,
     "wof:name":"Olsavka",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

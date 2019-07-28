@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:ces_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:epo_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:eus_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00fcv\u00e9sz"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:ron_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0443\u0447\u0456\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00fa\u010dina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0447\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Huviz",
+        "L\u00fa\u010dina"
+    ],
+    "name:war_x_preferred":[
         "L\u00fa\u010dina"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1309910871,
-    "wof:lastmodified":1537700361,
+    "wof:lastmodified":1564311138,
     "wof:name":"Lucina",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

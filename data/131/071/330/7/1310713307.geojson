@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:epo_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:eus_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:fra_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:hun_x_preferred":[
+        "Rekenye\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:msa_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:nld_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:pol_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:ron_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:slk_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:spa_x_preferred":[
+        "Rakovnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u043d\u0456\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Reke\u0148a",
+        "Rakovnica"
+    ],
+    "name:war_x_preferred":[
         "Rakovnica"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1310713307,
-    "wof:lastmodified":1537700353,
+    "wof:lastmodified":1564311012,
     "wof:name":"Rakovnica",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

@@ -25,8 +25,47 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:hun_x_preferred":[
+        "Ipolykiskeszi"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Kosihy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u041a\u043e\u0441\u0438\u0445\u0438"
+    ],
     "name:und_x_variant":[
         "Kis-Keszi"
+    ],
+    "name:war_x_preferred":[
+        "Mal\u00e9 Kosihy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1226048761,
-    "wof:lastmodified":1537700405,
+    "wof:lastmodified":1564311517,
     "wof:name":"Male Kosihy",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

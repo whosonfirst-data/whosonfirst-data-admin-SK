@@ -25,13 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:deu_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:epo_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:eus_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:fra_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
     "name:hun_x_preferred":[
         "Ipolyhidv\u00e9g"
     ],
     "name:hun_x_variant":[
-        "Hidv\u00e9g"
+        "Hidv\u00e9g",
+        "Ipolyh\u00eddv\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:msa_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:nld_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:pol_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:ron_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
     ],
     "name:slk_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:spa_x_preferred":[
+        "Ipe\u013esk\u00e9 Predmostie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043f\u0435\u0459\u0441\u043a\u0435 \u041f\u0440\u0435\u0434\u043c\u043e\u0441\u0442\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043f\u0435\u043b\u044c\u0441\u043a\u0435 \u041f\u0440\u0435\u0434\u043c\u043e\u0441\u0442\u044c\u0454"
+    ],
+    "name:war_x_preferred":[
         "Ipe\u013esk\u00e9 Predmostie"
     ],
     "src:geom":"geonames",
@@ -58,7 +101,7 @@
         }
     ],
     "wof:id":1310120043,
-    "wof:lastmodified":1537573604,
+    "wof:lastmodified":1564311002,
     "wof:name":"Ipel'ske Predmostie",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

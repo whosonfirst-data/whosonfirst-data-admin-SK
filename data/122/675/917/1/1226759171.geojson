@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:epo_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:eus_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:hun_x_preferred":[
+        "Nagycseb"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:ron_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:slk_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:spa_x_preferred":[
+        "\u017dbince"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0431\u0438\u043d\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0431\u0456\u043d\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Velk\u00e9 Zbince",
+        "\u017dbince"
+    ],
+    "name:war_x_preferred":[
         "\u017dbince"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1226759171,
-    "wof:lastmodified":1537700340,
+    "wof:lastmodified":1564311490,
     "wof:name":"Zbince",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

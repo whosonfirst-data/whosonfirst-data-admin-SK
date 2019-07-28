@@ -25,6 +25,30 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0437\u0443\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Mazur"
+    ],
+    "name:fra_x_preferred":[
+        "Mazur"
+    ],
+    "name:ita_x_preferred":[
+        "Mazur"
+    ],
+    "name:pol_x_preferred":[
+        "Mazur"
+    ],
+    "name:por_x_preferred":[
+        "Mazur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0443\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0437\u0443\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1344057335,
-    "wof:lastmodified":1536879306,
+    "wof:lastmodified":1564310625,
     "wof:name":"Mazur",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

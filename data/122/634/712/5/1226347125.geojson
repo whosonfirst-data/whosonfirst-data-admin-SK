@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:deu_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:epo_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:eus_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:hun_x_preferred":[
+        "Kos\u00e1rv\u00e1g\u00e1sa"
+    ],
+    "name:ita_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:msa_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:nld_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:ron_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:slk_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:spa_x_preferred":[
+        "Ko\u0161arovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Ko\u0161arovce"
+    ],
+    "name:war_x_preferred":[
         "Ko\u0161arovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1226347125,
-    "wof:lastmodified":1537700364,
+    "wof:lastmodified":1564311509,
     "wof:name":"Kosarovce",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

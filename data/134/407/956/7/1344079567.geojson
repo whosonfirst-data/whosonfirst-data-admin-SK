@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:ces_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:epo_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:eus_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:fra_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3komar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:msa_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:nld_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:pol_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:ron_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:slk_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:spa_x_preferred":[
+        "Kom\u00e1rany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Komariany",
+        "Kom\u00e1rany"
+    ],
+    "name:war_x_preferred":[
         "Kom\u00e1rany"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1344079567,
-    "wof:lastmodified":1537700364,
+    "wof:lastmodified":1564310562,
     "wof:name":"Komarany",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

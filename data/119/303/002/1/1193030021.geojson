@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Orovnica"
+    ],
+    "name:ces_x_preferred":[
+        "Orovnica"
+    ],
+    "name:deu_x_preferred":[
+        "Orovnica"
+    ],
+    "name:epo_x_preferred":[
+        "Orovnica"
+    ],
+    "name:eus_x_preferred":[
+        "Orovnica"
+    ],
+    "name:fra_x_preferred":[
+        "Orovnica"
+    ],
+    "name:hun_x_preferred":[
+        "Oromfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Orovnica"
+    ],
+    "name:msa_x_preferred":[
+        "Orovnica"
+    ],
+    "name:nld_x_preferred":[
+        "Orovnica"
+    ],
+    "name:pol_x_preferred":[
+        "Orovnica"
+    ],
+    "name:ron_x_preferred":[
+        "Orovnica"
+    ],
+    "name:slk_x_preferred":[
+        "Orovnica"
+    ],
+    "name:spa_x_preferred":[
+        "Orovnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043e\u0432\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043e\u0432\u043d\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Orovnica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1193030021,
-    "wof:lastmodified":1537573596,
+    "wof:lastmodified":1564310956,
     "wof:name":"Orovnica",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

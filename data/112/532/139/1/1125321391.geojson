@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lozorno"
+    ],
+    "name:ces_x_preferred":[
+        "Lozorno"
+    ],
+    "name:deu_x_preferred":[
+        "Lozorno"
+    ],
+    "name:epo_x_preferred":[
+        "Lozorno"
+    ],
+    "name:eus_x_preferred":[
+        "Lozorno"
+    ],
+    "name:fra_x_preferred":[
+        "Lozorno"
+    ],
+    "name:hun_x_preferred":[
+        "Lozorn\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Lozorno"
+    ],
+    "name:msa_x_preferred":[
+        "Lozorno"
+    ],
+    "name:nld_x_preferred":[
+        "Lozorno"
+    ],
+    "name:por_x_preferred":[
+        "Lozorno"
+    ],
+    "name:ron_x_preferred":[
+        "Lozorno"
+    ],
+    "name:slk_x_preferred":[
+        "Lozorno"
+    ],
+    "name:spa_x_preferred":[
+        "Lozorno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0440\u043d\u043e"
+    ],
+    "name:war_x_preferred":[
+        "Lozorno"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lozorno",
@@ -63,7 +111,7 @@
         }
     ],
     "wof:id":1125321391,
-    "wof:lastmodified":1509388124,
+    "wof:lastmodified":1564311200,
     "wof:name":"Lozorno",
     "wof:parent_id":102080487,
     "wof:placetype":"localadmin",

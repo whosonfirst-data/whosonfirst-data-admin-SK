@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Breznica"
+    ],
+    "name:ces_x_preferred":[
+        "Breznica"
+    ],
+    "name:deu_x_preferred":[
+        "Breznica"
+    ],
+    "name:epo_x_preferred":[
+        "Breznica"
+    ],
+    "name:eus_x_preferred":[
+        "Breznica"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyberezsnye"
+    ],
+    "name:ita_x_preferred":[
+        "Breznica"
+    ],
+    "name:msa_x_preferred":[
+        "Breznica"
+    ],
+    "name:nld_x_preferred":[
+        "Breznica"
+    ],
+    "name:pol_x_preferred":[
+        "Breznica"
+    ],
+    "name:ron_x_preferred":[
+        "Breznica"
+    ],
+    "name:slk_x_preferred":[
+        "Breznica"
+    ],
+    "name:spa_x_preferred":[
+        "Breznica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043d\u0456\u0446\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Breznica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1209913301,
-    "wof:lastmodified":1537573584,
+    "wof:lastmodified":1564310849,
     "wof:name":"Breznica",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:ces_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:eus_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:fra_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9ny"
+    ],
+    "name:ita_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:msa_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:nld_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:pol_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:ron_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:slk_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:spa_x_preferred":[
+        "I\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u045a\u0430"
+    ],
     "name:und_x_variant":[
         "Eny",
+        "I\u0148a"
+    ],
+    "name:war_x_preferred":[
         "I\u0148a"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1277080179,
-    "wof:lastmodified":1537700417,
+    "wof:lastmodified":1564310753,
     "wof:name":"Ina",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

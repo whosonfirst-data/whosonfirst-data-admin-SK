@@ -64,6 +64,9 @@
     "name:pol_x_preferred":[
         "Kov\u00e1\u010dov\u00e1"
     ],
+    "name:ron_x_preferred":[
+        "Kov\u00e1\u010dov\u00e1"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u043e\u0432\u0430"
     ],
@@ -74,6 +77,9 @@
         "Kov\u00e1\u010dov\u00e1"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u043e\u0432\u0430"
     ],
     "name:und_x_variant":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1276781439,
-    "wof:lastmodified":1537700411,
+    "wof:lastmodified":1564310808,
     "wof:name":"Kovacova",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

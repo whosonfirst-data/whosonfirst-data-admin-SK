@@ -25,6 +25,33 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:epo_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:fra_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:hun_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:ita_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:nld_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:pol_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:slk_x_preferred":[
+        "Kochanovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0445\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1259582451,
-    "wof:lastmodified":1536716671,
+    "wof:lastmodified":1564311457,
     "wof:name":"Kochanovce",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

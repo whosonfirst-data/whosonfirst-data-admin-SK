@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:hun_x_preferred":[
+        "Csenke"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:por_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cenkovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Csenke",
+        "\u010cenkovce"
+    ],
+    "name:war_x_preferred":[
         "\u010cenkovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1344253823,
-    "wof:lastmodified":1537700433,
+    "wof:lastmodified":1564310551,
     "wof:name":"Cenkovce",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

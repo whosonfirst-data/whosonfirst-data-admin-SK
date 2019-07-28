@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:jpn_x_preferred":[
+        "Halca"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Halca",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125821973,
-    "wof:lastmodified":1509394147,
+    "wof:lastmodified":1564311272,
     "wof:name":"Halca",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

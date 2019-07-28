@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:ces_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:epo_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:eus_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:fra_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9nes\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:msa_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:nld_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:pol_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:ron_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:slk_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:spa_x_preferred":[
+        "Sliepkovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0459\u0435\u043f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0454\u043f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Sliepkovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633769
@@ -43,7 +91,7 @@
         }
     ],
     "wof:id":1209527057,
-    "wof:lastmodified":1537573564,
+    "wof:lastmodified":1564310866,
     "wof:name":"Sliepkovce",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

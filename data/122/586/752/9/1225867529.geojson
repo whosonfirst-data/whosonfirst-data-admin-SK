@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Buglovce"
+    ],
+    "name:ces_x_preferred":[
+        "Buglovce"
+    ],
+    "name:deu_x_preferred":[
+        "Buglovce"
+    ],
+    "name:epo_x_preferred":[
+        "Buglovce"
+    ],
+    "name:eus_x_preferred":[
+        "Buglovce"
+    ],
+    "name:fra_x_preferred":[
+        "Buglovce"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f6b\u00f6lfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Buglovce"
+    ],
+    "name:msa_x_preferred":[
+        "Buglovce"
+    ],
+    "name:nld_x_preferred":[
+        "Buglovce"
+    ],
+    "name:pol_x_preferred":[
+        "Buglovce"
+    ],
+    "name:ron_x_preferred":[
+        "Buglovce"
+    ],
+    "name:slk_x_preferred":[
+        "Buglovce"
+    ],
+    "name:spa_x_preferred":[
+        "Buglovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0433\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0491\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Buglovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1225867529,
-    "wof:lastmodified":1537573584,
+    "wof:lastmodified":1564311526,
     "wof:name":"Buglovce",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

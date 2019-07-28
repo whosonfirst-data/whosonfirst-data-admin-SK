@@ -25,9 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:eus_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151kubin"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:ron_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:slk_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0438 \u041a\u0443\u0431\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0438 \u041a\u0443\u0431\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Horn\u00ed Kub\u00edn",
         "Vy\u0161n\u00ed Kub\u00edn",
+        "Vy\u0161n\u00fd Kub\u00edn"
+    ],
+    "name:war_x_preferred":[
         "Vy\u0161n\u00fd Kub\u00edn"
     ],
     "src:geom":"geonames",
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1277001849,
-    "wof:lastmodified":1537700379,
+    "wof:lastmodified":1564310760,
     "wof:name":"Vysny Kubin",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

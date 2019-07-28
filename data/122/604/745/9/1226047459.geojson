@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Valkovce"
+    ],
+    "name:epo_x_preferred":[
+        "Valkovce"
+    ],
+    "name:eus_x_preferred":[
+        "Valkovce"
+    ],
+    "name:fra_x_preferred":[
+        "Valkovce"
+    ],
+    "name:hun_x_preferred":[
+        "Vajkv\u00e1g\u00e1sa"
+    ],
+    "name:ita_x_preferred":[
+        "Valkovce"
+    ],
+    "name:msa_x_preferred":[
+        "Valkovce"
+    ],
+    "name:nld_x_preferred":[
+        "Valkovce"
+    ],
+    "name:pol_x_preferred":[
+        "Valkovce"
+    ],
+    "name:ron_x_preferred":[
+        "Valkovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u043a\u0456\u0432\u0446\u0457"
+    ],
+    "name:slk_x_preferred":[
+        "Valkovce"
+    ],
+    "name:spa_x_preferred":[
+        "Valkovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u043a\u0456\u0432\u0446\u0456"
+    ],
+    "name:war_x_preferred":[
+        "Valkovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1226047459,
-    "wof:lastmodified":1537573561,
+    "wof:lastmodified":1564311518,
     "wof:name":"Valkovce",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

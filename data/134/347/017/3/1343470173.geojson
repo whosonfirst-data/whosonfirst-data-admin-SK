@@ -25,11 +25,62 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Brehov"
+    ],
+    "name:ces_x_preferred":[
+        "Brehov"
+    ],
+    "name:deu_x_preferred":[
+        "Brehov"
+    ],
+    "name:epo_x_preferred":[
+        "Brehov"
+    ],
+    "name:eus_x_preferred":[
+        "Brehov"
+    ],
+    "name:fra_x_preferred":[
+        "Brehov"
+    ],
     "name:hun_x_preferred":[
         "Imreg"
     ],
+    "name:ita_x_preferred":[
+        "Brehov"
+    ],
+    "name:msa_x_preferred":[
+        "Brehov"
+    ],
+    "name:nld_x_preferred":[
+        "Brehov"
+    ],
+    "name:pol_x_preferred":[
+        "Brehov"
+    ],
+    "name:ron_x_preferred":[
+        "Brehov"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0440\u0435\u0433\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Brehov"
+    ],
+    "name:spa_x_preferred":[
+        "Brehov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0445\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0433\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Imbreg",
+        "Brehov"
+    ],
+    "name:war_x_preferred":[
         "Brehov"
     ],
     "src:geom":"geonames",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1343470173,
-    "wof:lastmodified":1537700375,
+    "wof:lastmodified":1564310582,
     "wof:name":"Brehov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

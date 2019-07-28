@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Licince"
+    ],
+    "name:deu_x_preferred":[
+        "Licince"
+    ],
+    "name:epo_x_preferred":[
+        "Licince"
+    ],
+    "name:eus_x_preferred":[
+        "Licince"
+    ],
+    "name:fra_x_preferred":[
+        "Licince"
+    ],
+    "name:hun_x_preferred":[
+        "Lice"
+    ],
+    "name:ita_x_preferred":[
+        "Licince"
+    ],
+    "name:msa_x_preferred":[
+        "Licince"
+    ],
+    "name:nld_x_preferred":[
+        "Licince"
+    ],
+    "name:pol_x_preferred":[
+        "Licince"
+    ],
+    "name:ron_x_preferred":[
+        "Licince"
+    ],
+    "name:slk_x_preferred":[
+        "Licince"
+    ],
+    "name:spa_x_preferred":[
+        "Licince"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0446\u0438\u043d\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0446\u0456\u043d\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Licince"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1360099317,
-    "wof:lastmodified":1537573574,
+    "wof:lastmodified":1564311077,
     "wof:name":"Licince",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

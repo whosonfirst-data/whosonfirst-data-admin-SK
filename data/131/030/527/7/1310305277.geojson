@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1gcs\u00fct\u00f6rt\u00f6k"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160tvrtok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0432\u0440\u0442\u043e\u043a"
+    ],
     "name:und_x_variant":[
+        "\u0160tvrtok"
+    ],
+    "name:war_x_preferred":[
         "\u0160tvrtok"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1310305277,
-    "wof:lastmodified":1537700388,
+    "wof:lastmodified":1564311033,
     "wof:name":"Stvrtok",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

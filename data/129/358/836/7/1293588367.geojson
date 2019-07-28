@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:ces_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:epo_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:eus_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6rm\u00f6s"
+    ],
+    "name:ita_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:msa_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:nld_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:ron_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u043e\u0436\u0443\u0445\u0456\u0432\u0446\u0457"
+    ],
+    "name:slk_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:spa_x_preferred":[
+        "Ko\u017euchovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0436\u0443\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0436\u0443\u0445\u0456\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
+        "Ko\u017euchovce"
+    ],
+    "name:war_x_preferred":[
         "Ko\u017euchovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1293588367,
-    "wof:lastmodified":1537700364,
+    "wof:lastmodified":1564310708,
     "wof:name":"Kozuchovce",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

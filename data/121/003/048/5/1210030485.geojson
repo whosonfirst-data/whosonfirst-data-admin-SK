@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:hun_x_preferred":[
+        "Kishalom"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u0421\u0442\u0440\u0430\u0446\u0438\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u0421\u0442\u0440\u0430\u0446\u0456\u043d\u0438"
+    ],
     "name:und_x_variant":[
+        "Mal\u00e9 Straciny"
+    ],
+    "name:war_x_preferred":[
         "Mal\u00e9 Straciny"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1210030485,
-    "wof:lastmodified":1537700404,
+    "wof:lastmodified":1564310937,
     "wof:name":"Male Straciny",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

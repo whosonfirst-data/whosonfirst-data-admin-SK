@@ -26,7 +26,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:deu_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:eus_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e9cske"
+    ],
+    "name:ita_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:nld_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:ron_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:slk_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:spa_x_preferred":[
+        "Rie\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0458\u0435\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0454\u0447\u043a\u0430"
+    ],
     "name:und_x_variant":[
+        "Rie\u010dka"
+    ],
+    "name:war_x_preferred":[
         "Rie\u010dka"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1276777715,
-    "wof:lastmodified":1537700393,
+    "wof:lastmodified":1564310821,
     "wof:name":"Riecka",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Muller"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226143321,
-    "wof:lastmodified":1537078083,
+    "wof:lastmodified":1564311534,
     "wof:name":"Muller",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

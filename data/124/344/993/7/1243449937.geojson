@@ -25,6 +25,30 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Biela"
+    ],
+    "name:ces_x_preferred":[
+        "Biela"
+    ],
+    "name:deu_x_preferred":[
+        "Biela"
+    ],
+    "name:epo_x_preferred":[
+        "Biela"
+    ],
+    "name:ita_x_preferred":[
+        "Biela"
+    ],
+    "name:pol_x_preferred":[
+        "Biela"
+    ],
+    "name:slk_x_preferred":[
+        "Biela"
+    ],
+    "name:swe_x_preferred":[
+        "Biela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243449937,
-    "wof:lastmodified":1536800564,
+    "wof:lastmodified":1564311399,
     "wof:name":"Biela",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

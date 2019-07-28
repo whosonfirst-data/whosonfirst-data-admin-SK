@@ -22,10 +22,22 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u064a\u0646\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Snina"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043d\u0438\u043d\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Snina"
+    ],
+    "name:ceb_x_preferred":[
+        "Snina"
+    ],
     "name:ces_x_preferred":[
+        "Snina"
+    ],
+    "name:dan_x_preferred":[
         "Snina"
     ],
     "name:deu_x_preferred":[
@@ -34,14 +46,44 @@
     "name:eng_x_preferred":[
         "Snina"
     ],
+    "name:epo_x_preferred":[
+        "Snina"
+    ],
+    "name:eus_x_preferred":[
+        "Snina"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Snina"
     ],
     "name:hbs_x_preferred":[
         "Snjina"
     ],
+    "name:hrv_x_preferred":[
+        "Snina"
+    ],
     "name:hun_x_preferred":[
         "Szinna"
+    ],
+    "name:ind_x_preferred":[
+        "Snina"
+    ],
+    "name:ita_x_preferred":[
+        "Snina"
+    ],
+    "name:lav_x_preferred":[
+        "Snina"
+    ],
+    "name:lit_x_preferred":[
+        "Snina"
+    ],
+    "name:msa_x_preferred":[
+        "Snina"
+    ],
+    "name:nld_x_preferred":[
+        "Snina"
     ],
     "name:pol_x_preferred":[
         "Snina"
@@ -58,11 +100,20 @@
     "name:slk_x_preferred":[
         "Snina"
     ],
+    "name:spa_x_preferred":[
+        "Snina"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u045a\u0438\u043d\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Snina"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043d\u0438\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Snina"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5c3c\u7d0d"
@@ -119,7 +170,7 @@
         }
     ],
     "wof:id":1125384767,
-    "wof:lastmodified":1509389686,
+    "wof:lastmodified":1564311254,
     "wof:name":"Snina",
     "wof:parent_id":102080599,
     "wof:placetype":"localadmin",

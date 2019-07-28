@@ -25,6 +25,9 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kalin\u010diakovo"
+    ],
     "name:hun_x_preferred":[
         "Hontvars\u00e1ny"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259483501,
-    "wof:lastmodified":1537700415,
+    "wof:lastmodified":1564311423,
     "wof:name":"Kalinciakovo",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

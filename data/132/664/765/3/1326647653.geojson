@@ -25,11 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:deu_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:epo_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:eus_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:fra_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:hun_x_preferred":[
+        "Feh\u00e9rk\u00fat"
+    ],
+    "name:ita_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:msa_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:nld_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:pol_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:ron_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:slk_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:spa_x_preferred":[
+        "Pr\u00edbelce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0435\u043b\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0456\u0431\u0435\u043b\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Pr\u00edbelce",
         "Hornie Pr\u00edbelce",
         "Horn\u00ed Pr\u00edbelce",
         "Horn\u00e9 Pr\u00edbelce"
+    ],
+    "name:war_x_preferred":[
+        "Pr\u00edbelce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +103,7 @@
         }
     ],
     "wof:id":1326647653,
-    "wof:lastmodified":1537700421,
+    "wof:lastmodified":1564310495,
     "wof:name":"Horne Pribelce",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

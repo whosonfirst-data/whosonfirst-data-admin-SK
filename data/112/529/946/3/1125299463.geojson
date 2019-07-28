@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Dubova"
+    ],
+    "name:deu_x_preferred":[
+        "Dubova"
+    ],
+    "name:nld_x_preferred":[
+        "Dubova"
+    ],
+    "name:ron_x_preferred":[
+        "Dubova"
+    ],
+    "name:sqi_x_preferred":[
+        "Dubova"
+    ],
+    "name:swe_x_preferred":[
+        "Dubova"
+    ],
+    "name:vie_x_preferred":[
+        "Dubova"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Dubova",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1125299463,
-    "wof:lastmodified":1509387681,
+    "wof:lastmodified":1564311226,
     "wof:name":"Dubova",
     "wof:parent_id":102080471,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7659298.506728,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.096171,48.144685,17.096171,48.144685",
     "geom:latitude":48.144685,
     "geom:longitude":17.096171,
@@ -25,6 +25,45 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:deu_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00e1lovsk\u00e9 Vinohrady"
+    ],
+    "name:fra_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:hun_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:ind_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\ud558-\ube44\ub178\ud750\ub77c\ub514"
+    ],
+    "name:nld_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:pol_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:spa_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
+    ],
     "name:und_x_preferred":[
         "Vinohrady"
     ],
@@ -62,11 +101,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932495,
+    "wof:lastmodified":1564310646,
     "wof:name":"Vinohrady",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

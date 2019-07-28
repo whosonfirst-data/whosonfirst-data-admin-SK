@@ -25,10 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:deu_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:epo_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:eus_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
     "name:hun_x_preferred":[
         "Hily\u00f3"
     ],
+    "name:ita_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:slk_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00fd\u013eov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u0459\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0438\u043b\u044c\u043e\u0432"
+    ],
     "name:und_x_variant":[
+        "H\u00fd\u013eov"
+    ],
+    "name:war_x_preferred":[
         "H\u00fd\u013eov"
     ],
     "src:geom":"geonames",
@@ -55,7 +100,7 @@
         }
     ],
     "wof:id":1293791575,
-    "wof:lastmodified":1537700367,
+    "wof:lastmodified":1564310671,
     "wof:name":"Hyl'ov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

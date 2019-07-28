@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Poriadie"
+    ],
+    "name:ces_x_preferred":[
+        "Poriadie"
+    ],
+    "name:deu_x_preferred":[
+        "Poriadie"
+    ],
+    "name:epo_x_preferred":[
+        "Poriadie"
+    ],
+    "name:eus_x_preferred":[
+        "Poriadie"
+    ],
+    "name:fra_x_preferred":[
+        "Poriadie"
+    ],
+    "name:hun_x_preferred":[
+        "Erd\u0151sor"
+    ],
+    "name:ita_x_preferred":[
+        "Poriadie"
+    ],
+    "name:msa_x_preferred":[
+        "Poriadie"
+    ],
+    "name:nld_x_preferred":[
+        "Poriadie"
+    ],
+    "name:ron_x_preferred":[
+        "Poriadie"
+    ],
+    "name:slk_x_preferred":[
+        "Poriadie"
+    ],
+    "name:spa_x_preferred":[
+        "Poriadie"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0458\u0430\u0434\u0458\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Poriadie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1242570111,
-    "wof:lastmodified":1537071389,
+    "wof:lastmodified":1564311328,
     "wof:name":"Poriadie",
     "wof:parent_id":102080515,
     "wof:placetype":"locality",

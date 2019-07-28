@@ -25,7 +25,49 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:epo_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:eus_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:fra_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1g\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:msa_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:nld_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:pol_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:ron_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:slk_x_preferred":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0458\u0443\u0431\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044e\u0431\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
+        "\u010eub\u00e1kovo"
+    ],
+    "name:war_x_preferred":[
         "\u010eub\u00e1kovo"
     ],
     "src:geom":"geonames",
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1343771585,
-    "wof:lastmodified":1537700426,
+    "wof:lastmodified":1564310569,
     "wof:name":"Dubakovo",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

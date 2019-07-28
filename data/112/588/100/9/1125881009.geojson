@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Oravice"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125881009,
-    "wof:lastmodified":1509398140,
+    "wof:lastmodified":1564311217,
     "wof:name":"Oravice",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hubina"
+    ],
+    "name:ces_x_preferred":[
+        "Hubina"
+    ],
+    "name:deu_x_preferred":[
+        "Hubina"
+    ],
+    "name:epo_x_preferred":[
+        "Hubina"
+    ],
+    "name:eus_x_preferred":[
+        "Hubina"
+    ],
+    "name:fra_x_preferred":[
+        "Hubina"
+    ],
+    "name:hun_x_preferred":[
+        "Hubafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Hubina"
+    ],
+    "name:msa_x_preferred":[
+        "Hubina"
+    ],
+    "name:nld_x_preferred":[
+        "Hubina"
+    ],
+    "name:ron_x_preferred":[
+        "Hubina"
+    ],
+    "name:slk_x_preferred":[
+        "Hubina"
+    ],
+    "name:spa_x_preferred":[
+        "Hubina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0431\u0438\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Hubina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633769
@@ -43,7 +88,7 @@
         }
     ],
     "wof:id":1209536985,
-    "wof:lastmodified":1537573604,
+    "wof:lastmodified":1564310847,
     "wof:name":"Hubina",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

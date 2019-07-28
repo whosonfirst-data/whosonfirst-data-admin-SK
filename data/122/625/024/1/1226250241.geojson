@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jasenov"
+    ],
+    "name:ces_x_preferred":[
+        "Jasenov"
+    ],
+    "name:epo_x_preferred":[
+        "Jasenov"
+    ],
+    "name:eus_x_preferred":[
+        "Jasenov"
+    ],
+    "name:hun_x_preferred":[
+        "Jeszen\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Jasenov"
+    ],
+    "name:msa_x_preferred":[
+        "Jasenov"
+    ],
+    "name:nld_x_preferred":[
+        "Jasenov"
+    ],
+    "name:pol_x_preferred":[
+        "Jasenov"
+    ],
+    "name:ron_x_preferred":[
+        "Jasenov"
+    ],
+    "name:rue_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0456\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Jasenov"
+    ],
+    "name:spa_x_preferred":[
+        "Jasenov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u0435\u043d\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Jesenov",
+        "Jasenov"
+    ],
+    "name:war_x_preferred":[
         "Jasenov"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1226250241,
-    "wof:lastmodified":1537700366,
+    "wof:lastmodified":1564311537,
     "wof:name":"Jasenov",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

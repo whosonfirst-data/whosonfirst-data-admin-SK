@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:epo_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:eus_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:fra_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:hun_x_preferred":[
+        "Ipolygalsa"
+    ],
+    "name:ita_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:msa_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:nld_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:pol_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:ron_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:slk_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:spa_x_preferred":[
+        "Holi\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043b\u0438\u0448\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0456\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Gal\u0161a",
+        "Holi\u0161a"
+    ],
+    "name:war_x_preferred":[
         "Holi\u0161a"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1293598835,
-    "wof:lastmodified":1537700424,
+    "wof:lastmodified":1564310694,
     "wof:name":"Holisa",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

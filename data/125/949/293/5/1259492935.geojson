@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Petrovce"
+    ],
+    "name:ces_x_preferred":[
+        "Petrovce"
+    ],
+    "name:epo_x_preferred":[
+        "Petrovce"
+    ],
+    "name:eus_x_preferred":[
+        "Petrovce"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f6m\u00f6rp\u00e9terfala"
+    ],
+    "name:ita_x_preferred":[
+        "Petrovce"
+    ],
+    "name:msa_x_preferred":[
+        "Petrovce"
+    ],
+    "name:nld_x_preferred":[
+        "Petrovce"
+    ],
+    "name:pol_x_preferred":[
+        "Petrovce"
+    ],
+    "name:ron_x_preferred":[
+        "Petrovce"
+    ],
+    "name:slk_x_preferred":[
+        "Petrovce"
+    ],
+    "name:spa_x_preferred":[
+        "Petrovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "P\u00e9terfala",
+        "Petrovce"
+    ],
+    "name:war_x_preferred":[
         "Petrovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1259492935,
-    "wof:lastmodified":1537700355,
+    "wof:lastmodified":1564311444,
     "wof:name":"Petrovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:ces_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:epo_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:eus_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:fra_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyk\u0151patak"
+    ],
+    "name:ita_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:msa_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:nld_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:pol_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:ron_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:slk_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:spa_x_preferred":[
+        "Kvakovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0432\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Kvakovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1242582483,
-    "wof:lastmodified":1537573575,
+    "wof:lastmodified":1564311339,
     "wof:name":"Kvakovce",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

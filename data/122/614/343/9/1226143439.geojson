@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:ces_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:deu_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:epo_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:eus_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:fra_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00edmeskosztol\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:msa_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:nld_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:ron_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:slk_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:spa_x_preferred":[
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u043e\u0459\u0430\u043d\u0438 \u043f\u043e\u0434 \u0422\u0440\u0438\u0431\u0435\u0447\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u043e\u043b\u044f\u043d\u0438-\u043f\u043e\u0434-\u0422\u0440\u0438\u0431\u0435\u0447\u043e\u043c"
+    ],
     "name:und_x_variant":[
         "G\u00fdme\u0161sk\u00e9 Kostolany",
+        "Kosto\u013eany pod Tribe\u010dom"
+    ],
+    "name:war_x_preferred":[
         "Kosto\u013eany pod Tribe\u010dom"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1226143439,
-    "wof:lastmodified":1537700412,
+    "wof:lastmodified":1564311536,
     "wof:name":"Kostol'any pod Tribecom",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

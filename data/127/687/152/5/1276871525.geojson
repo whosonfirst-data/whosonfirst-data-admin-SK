@@ -25,6 +25,36 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Hankovce"
+    ],
+    "name:deu_x_preferred":[
+        "Hankovce"
+    ],
+    "name:epo_x_preferred":[
+        "Hankovce"
+    ],
+    "name:fra_x_preferred":[
+        "Hankovce"
+    ],
+    "name:hun_x_preferred":[
+        "Hankovce"
+    ],
+    "name:ita_x_preferred":[
+        "Hankovce"
+    ],
+    "name:nld_x_preferred":[
+        "Hankovce"
+    ],
+    "name:pol_x_preferred":[
+        "Hankovce"
+    ],
+    "name:slk_x_preferred":[
+        "Hankovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1276871525,
-    "wof:lastmodified":1537050242,
+    "wof:lastmodified":1564310778,
     "wof:name":"Hankovce",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

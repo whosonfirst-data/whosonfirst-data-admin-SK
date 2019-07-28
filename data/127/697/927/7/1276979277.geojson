@@ -25,8 +25,62 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:hun_x_preferred":[
+        "Singl\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:rue_x_preferred":[
+        "\u0428\u0456\u043d\u0434\u043b\u044c\u044f\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160indliar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u043d\u0434\u0459\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043d\u0434\u043b\u0456\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "\u0160inglar",
+        "\u0160indliar"
+    ],
+    "name:war_x_preferred":[
         "\u0160indliar"
     ],
     "src:geom":"geonames",
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1276979277,
-    "wof:lastmodified":1537700350,
+    "wof:lastmodified":1564310832,
     "wof:name":"Sindliar",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

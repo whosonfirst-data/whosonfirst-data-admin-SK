@@ -24,6 +24,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Brezovec"
+    ],
+    "name:ces_x_preferred":[
+        "Brezovec"
+    ],
+    "name:epo_x_preferred":[
+        "Brezovec"
+    ],
+    "name:eus_x_preferred":[
+        "Brezovec"
+    ],
+    "name:fra_x_preferred":[
+        "Brezovec"
+    ],
+    "name:hun_x_preferred":[
+        "Berez\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Brezovec"
+    ],
+    "name:msa_x_preferred":[
+        "Brezovec"
+    ],
+    "name:nld_x_preferred":[
+        "Brezovec"
+    ],
+    "name:pol_x_preferred":[
+        "Brezovec"
+    ],
+    "name:ron_x_preferred":[
+        "Brezovec"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Brezovec"
+    ],
+    "name:spa_x_preferred":[
+        "Brezovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Brezovec"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633769
@@ -42,7 +96,7 @@
         }
     ],
     "wof:id":1209333373,
-    "wof:lastmodified":1537573584,
+    "wof:lastmodified":1564310910,
     "wof:name":"Brezovec",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

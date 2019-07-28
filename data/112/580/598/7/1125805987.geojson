@@ -18,8 +18,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0646\u0642\u0686\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Koma\u0144cza"
+    ],
+    "name:deu_x_preferred":[
+        "Koma\u0144cza"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0646\u06af\u0686\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Koma\u0144cza"
+    ],
+    "name:pol_x_preferred":[
+        "Koma\u0144cza"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u044c\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0447\u0430"
+    ],
     "name:unk_x_variant":[
         "Dvor Komanica"
+    ],
+    "name:vie_x_preferred":[
+        "Koma\u0144cza"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -72,7 +99,7 @@
         }
     ],
     "wof:id":1125805987,
-    "wof:lastmodified":1509393293,
+    "wof:lastmodified":1564311234,
     "wof:name":"Koma\u0144cza",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

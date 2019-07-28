@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:hun_x_preferred":[
+        "Suja"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160uja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u0458\u0430"
+    ],
     "name:und_x_variant":[
+        "\u0160uja"
+    ],
+    "name:war_x_preferred":[
         "\u0160uja"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1343446487,
-    "wof:lastmodified":1537700388,
+    "wof:lastmodified":1564310643,
     "wof:name":"Suja",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

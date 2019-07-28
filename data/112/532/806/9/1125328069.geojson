@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Santovka"
+    ],
+    "name:ces_x_preferred":[
+        "Santovka"
+    ],
+    "name:deu_x_preferred":[
+        "Santovka"
+    ],
+    "name:epo_x_preferred":[
+        "Santovka"
+    ],
+    "name:eus_x_preferred":[
+        "Santovka"
+    ],
+    "name:fra_x_preferred":[
+        "Santovka"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1nt\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Santovka"
+    ],
+    "name:msa_x_preferred":[
+        "Santovka"
+    ],
+    "name:nld_x_preferred":[
+        "Santovka"
+    ],
+    "name:pol_x_preferred":[
+        "Santovka"
+    ],
+    "name:ron_x_preferred":[
+        "Santovka"
+    ],
+    "name:slk_x_preferred":[
+        "Santovka"
+    ],
+    "name:spa_x_preferred":[
+        "Santovka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Santovka"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Santovka",
@@ -63,7 +111,7 @@
         }
     ],
     "wof:id":1125328069,
-    "wof:lastmodified":1509388295,
+    "wof:lastmodified":1564311203,
     "wof:name":"Santovka",
     "wof:parent_id":102080477,
     "wof:placetype":"localadmin",

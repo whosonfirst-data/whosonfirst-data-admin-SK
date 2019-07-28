@@ -25,12 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:deu_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:epo_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:eus_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:fra_x_preferred":[
+        "Debra\u010f"
+    ],
     "name:hun_x_preferred":[
         "Debr\u0151d"
+    ],
+    "name:ita_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:msa_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:nld_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:pol_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:ron_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:slk_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:spa_x_preferred":[
+        "Debra\u010f"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0458\u0435\u0431\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0430\u0434\u044c"
     ],
     "name:und_x_variant":[
         "Debra\u010f",
         "Debr\u0151d"
+    ],
+    "name:war_x_preferred":[
+        "Debra\u010f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1343263741,
-    "wof:lastmodified":1537700372,
+    "wof:lastmodified":1564310638,
     "wof:name":"Debrad'",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

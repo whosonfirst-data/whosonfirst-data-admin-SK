@@ -25,9 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:ces_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:deu_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:epo_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:eus_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:fra_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:hun_x_preferred":[
+        "Beresty\u00e9nfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:msa_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:nld_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:pol_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:ron_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:slk_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:spa_x_preferred":[
+        "Brie\u0161tie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0458\u0435\u0448\u0442\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "Brie\u0161s\u0165a",
         "Brie\u0161tia",
+        "Brie\u0161tie"
+    ],
+    "name:war_x_preferred":[
         "Brie\u0161tie"
     ],
     "src:geom":"geonames",
@@ -54,7 +102,7 @@
         }
     ],
     "wof:id":1276970155,
-    "wof:lastmodified":1537700435,
+    "wof:lastmodified":1564310830,
     "wof:name":"Briestie",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

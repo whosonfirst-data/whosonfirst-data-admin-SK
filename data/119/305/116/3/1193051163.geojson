@@ -25,9 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:epo_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:eus_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:fra_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:hun_x_preferred":[
+        "Zseml\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:msa_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:nld_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:pol_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:ron_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:slk_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:spa_x_preferred":[
+        "\u017demliare"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043c\u0459\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Zseml\u00e9r",
         "\u017demliary",
+        "\u017demliare"
+    ],
+    "name:war_x_preferred":[
         "\u017demliare"
     ],
     "src:geom":"geonames",
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1193051163,
-    "wof:lastmodified":1537700378,
+    "wof:lastmodified":1564310958,
     "wof:name":"Zemliare",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -25,7 +25,61 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:ces_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:deu_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:epo_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:eus_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:fra_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:hun_x_preferred":[
+        "Monyh\u00e1d"
+    ],
+    "name:ita_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:msa_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:nld_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:pol_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:ron_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:rue_x_preferred":[
+        "\u0425\u043c\u0456\u043d\u044f\u043d\u0456"
+    ],
+    "name:slk_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:spa_x_preferred":[
+        "Chmi\u0148any"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043c\u0438\u045a\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043c\u0438\u043d\u044f\u043d\u0438"
+    ],
     "name:und_x_variant":[
+        "Chmi\u0148any"
+    ],
+    "name:war_x_preferred":[
         "Chmi\u0148any"
     ],
     "src:geom":"geonames",
@@ -52,7 +106,7 @@
         }
     ],
     "wof:id":1209948269,
-    "wof:lastmodified":1537700373,
+    "wof:lastmodified":1564310901,
     "wof:name":"Chminany",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

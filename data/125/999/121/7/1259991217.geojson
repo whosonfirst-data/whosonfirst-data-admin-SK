@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Peder"
+    ],
+    "name:epo_x_preferred":[
+        "Peder"
+    ],
+    "name:eus_x_preferred":[
+        "Peder"
+    ],
+    "name:fra_x_preferred":[
+        "Peder"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e9der"
+    ],
+    "name:ita_x_preferred":[
+        "Peder"
+    ],
+    "name:msa_x_preferred":[
+        "Peder"
+    ],
+    "name:nld_x_preferred":[
+        "Peder"
+    ],
+    "name:pol_x_preferred":[
+        "Peder"
+    ],
+    "name:ron_x_preferred":[
+        "Peder"
+    ],
+    "name:slk_x_preferred":[
+        "Peder"
+    ],
+    "name:spa_x_preferred":[
+        "Peder"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0434\u0458\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0435\u0440"
+    ],
+    "name:war_x_preferred":[
+        "Peder"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1259991217,
-    "wof:lastmodified":1537573569,
+    "wof:lastmodified":1564311417,
     "wof:name":"Peder",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

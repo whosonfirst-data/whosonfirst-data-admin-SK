@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:ces_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:deu_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:epo_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:eus_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:fra_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:hun_x_preferred":[
+        "Budam\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:msa_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:nld_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:pol_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:ron_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:slk_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:spa_x_preferred":[
+        "Budim\u00edr"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043c\u0438\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0456\u043c\u0456\u0440"
+    ],
     "name:und_x_variant":[
+        "Budim\u00edr"
+    ],
+    "name:war_x_preferred":[
         "Budim\u00edr"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1344164539,
-    "wof:lastmodified":1537700374,
+    "wof:lastmodified":1564310621,
     "wof:name":"Budimir",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

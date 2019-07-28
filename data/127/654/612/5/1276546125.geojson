@@ -25,9 +25,45 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Javorina"
+    ],
+    "name:eus_x_preferred":[
+        "Javorina"
+    ],
+    "name:fra_x_preferred":[
+        "Javorina"
+    ],
+    "name:hun_x_preferred":[
+        "Javorina"
+    ],
+    "name:ita_x_preferred":[
+        "Javorina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30f4\u30a9\u30ea\u30ca"
+    ],
+    "name:msa_x_preferred":[
+        "Javorina"
+    ],
+    "name:nld_x_preferred":[
+        "Javorina"
+    ],
+    "name:ron_x_preferred":[
+        "Javorina"
+    ],
+    "name:slk_x_preferred":[
+        "Javorina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0432\u043e\u0440\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Jaworzyna",
         "Jarovina",
+        "Javorina"
+    ],
+    "name:war_x_preferred":[
         "Javorina"
     ],
     "src:geom":"geonames",
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1276546125,
-    "wof:lastmodified":1537700366,
+    "wof:lastmodified":1564310838,
     "wof:name":"Javorina",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:eus_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajsz\u00e1ll\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:ron_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:spa_x_preferred":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0421\u0430\u043b\u0430\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0421\u0430\u043b\u0430\u0448"
+    ],
     "name:und_x_variant":[
+        "Nov\u00fd Sala\u0161"
+    ],
+    "name:war_x_preferred":[
         "Nov\u00fd Sala\u0161"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1344164467,
-    "wof:lastmodified":1537700356,
+    "wof:lastmodified":1564310620,
     "wof:name":"Novy Salas",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

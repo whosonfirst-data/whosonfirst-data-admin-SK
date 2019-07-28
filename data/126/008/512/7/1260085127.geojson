@@ -25,6 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gribov"
+    ],
+    "name:ces_x_preferred":[
+        "Gribov"
+    ],
+    "name:epo_x_preferred":[
+        "Gribov"
+    ],
+    "name:eus_x_preferred":[
+        "Gribov"
+    ],
+    "name:fra_x_preferred":[
+        "Gribov"
+    ],
+    "name:hun_x_preferred":[
+        "Kisgomb\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Gribov"
+    ],
+    "name:msa_x_preferred":[
+        "Gribov"
+    ],
+    "name:nld_x_preferred":[
+        "Gribov"
+    ],
+    "name:pol_x_preferred":[
+        "Gribov"
+    ],
+    "name:ron_x_preferred":[
+        "Gribov"
+    ],
+    "name:rue_x_preferred":[
+        "\u0490\u0440\u0438\u0431\u0456\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Gribov"
+    ],
+    "name:spa_x_preferred":[
+        "Gribov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u0456\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Gribov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +103,7 @@
         }
     ],
     "wof:id":1260085127,
-    "wof:lastmodified":1537573581,
+    "wof:lastmodified":1564310981,
     "wof:name":"Gribov",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Madunice"
+    ],
+    "name:ces_x_preferred":[
+        "Madunice"
+    ],
+    "name:deu_x_preferred":[
+        "Madunice"
+    ],
+    "name:epo_x_preferred":[
+        "Madunice"
+    ],
+    "name:eus_x_preferred":[
+        "Madunice"
+    ],
+    "name:fra_x_preferred":[
+        "Madunice"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1gmedence"
+    ],
+    "name:ita_x_preferred":[
+        "Madunice"
+    ],
+    "name:msa_x_preferred":[
+        "Madunice"
+    ],
+    "name:nld_x_preferred":[
+        "Madunice"
+    ],
+    "name:ron_x_preferred":[
+        "Madunice"
+    ],
+    "name:slk_x_preferred":[
+        "Madunice"
+    ],
+    "name:spa_x_preferred":[
+        "Madunice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0434\u0443\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0434\u0443\u043d\u0456\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Madunice"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Madunice",
@@ -63,7 +111,7 @@
         }
     ],
     "wof:id":1125295125,
-    "wof:lastmodified":1509387607,
+    "wof:lastmodified":1564311232,
     "wof:name":"Madunice",
     "wof:parent_id":102080481,
     "wof:placetype":"localadmin",

@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajv\u00edz"
+    ],
+    "name:ita_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:slk_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Cimenn\u00e1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u043d\u0430"
+    ],
     "name:und_x_variant":[
+        "Cimenn\u00e1"
+    ],
+    "name:war_x_preferred":[
         "Cimenn\u00e1"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1226043157,
-    "wof:lastmodified":1537700432,
+    "wof:lastmodified":1564311515,
     "wof:name":"Cimenna",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

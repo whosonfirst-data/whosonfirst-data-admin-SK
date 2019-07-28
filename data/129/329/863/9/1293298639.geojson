@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:ces_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:epo_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:eus_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:fra_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1npecseny\u00e9d"
+    ],
+    "name:ita_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:msa_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:nld_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:ron_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:slk_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:spa_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0447\u0435\u045a\u0430\u043d\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "Pe\u010de\u0148any"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0447\u0435\u043d\u044f\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Pe\u010de\u0148ady",
+        "Pe\u010de\u0148any"
+    ],
+    "name:war_x_preferred":[
         "Pe\u010de\u0148any"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1293298639,
-    "wof:lastmodified":1537700396,
+    "wof:lastmodified":1564310732,
     "wof:name":"Pecenany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

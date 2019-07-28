@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:ces_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:epo_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:eus_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:hun_x_preferred":[
+        "Dobr\u00f3ka"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:nld_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:pol_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:ron_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:slk_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:spa_x_preferred":[
+        "D\u00fabravka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
+        "D\u00fabravka"
+    ],
+    "name:war_x_preferred":[
         "D\u00fabravka"
     ],
     "src:geom":"geonames",
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1209222145,
-    "wof:lastmodified":1537700371,
+    "wof:lastmodified":1564310888,
     "wof:name":"Dubravka",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:ces_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:deu_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:epo_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:eus_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:fra_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:hun_x_preferred":[
+        "Petr\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:msa_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:nld_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:pol_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:ron_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:slk_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:spa_x_preferred":[
+        "Petrovce nad Laborcom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0435 \u043d\u0430 \u041b\u0430\u0431\u043e\u0440\u0435\u0446\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u041b\u0430\u0431\u043e\u0440\u0446\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Petrovce",
+        "Petrovce nad Laborcom"
+    ],
+    "name:war_x_preferred":[
         "Petrovce nad Laborcom"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1226349785,
-    "wof:lastmodified":1537700355,
+    "wof:lastmodified":1564311509,
     "wof:name":"Petrovce nad Laborcom",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

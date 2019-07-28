@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:deu_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:epo_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:eus_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:fra_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:hun_x_preferred":[
+        "Kerekr\u00e9t"
+    ],
+    "name:ita_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:msa_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:nld_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:pol_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:ron_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:rue_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433\u043b\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:spa_x_preferred":[
+        "Okr\u00fahle"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0445\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Okruhl\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "Okr\u00fahle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1327139021,
-    "wof:lastmodified":1537700356,
+    "wof:lastmodified":1564310448,
     "wof:name":"Okruhle",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

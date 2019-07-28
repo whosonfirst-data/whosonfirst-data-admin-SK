@@ -18,8 +18,71 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u043e\u043d\u0441\u0435\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Hronsek"
+    ],
+    "name:ces_x_preferred":[
+        "Hronsek"
+    ],
+    "name:deu_x_preferred":[
+        "Hronsek"
+    ],
+    "name:epo_x_preferred":[
+        "Hronsek"
+    ],
+    "name:eus_x_preferred":[
+        "Hronsek"
+    ],
+    "name:fin_x_preferred":[
+        "Hronsek"
+    ],
+    "name:fra_x_preferred":[
+        "Hronsek"
+    ],
+    "name:hun_x_preferred":[
+        "Garamszeg"
+    ],
+    "name:ita_x_preferred":[
+        "Hronsek"
+    ],
+    "name:msa_x_preferred":[
+        "Hronsek"
+    ],
+    "name:nld_x_preferred":[
+        "Hronsek"
+    ],
+    "name:pol_x_preferred":[
+        "Hronsek"
+    ],
+    "name:por_x_preferred":[
+        "Hronsek"
+    ],
+    "name:ron_x_preferred":[
+        "Hronsek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u043d\u0441\u0435\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Hronsek"
+    ],
+    "name:spa_x_preferred":[
+        "Hronsek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u043e\u043d\u0441\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043d\u0441\u0435\u043a"
+    ],
     "name:unk_x_variant":[
         "Garansek"
+    ],
+    "name:war_x_preferred":[
+        "Hronsek"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -70,7 +133,7 @@
         }
     ],
     "wof:id":1125359255,
-    "wof:lastmodified":1509389033,
+    "wof:lastmodified":1564311183,
     "wof:name":"Hronsek",
     "wof:parent_id":102080531,
     "wof:placetype":"localadmin",

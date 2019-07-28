@@ -33,6 +33,9 @@
     "name:ces_x_preferred":[
         "Jakubovany"
     ],
+    "name:deu_x_preferred":[
+        "Jakubovany"
+    ],
     "name:eng_x_preferred":[
         "Jakubovany"
     ],
@@ -48,6 +51,9 @@
     "name:hun_x_preferred":[
         "Jakabfalu"
     ],
+    "name:hun_x_variant":[
+        "Jakubovany"
+    ],
     "name:ita_x_preferred":[
         "Jakubovany"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:pol_x_preferred":[
         "Jakubowiany"
+    ],
+    "name:pol_x_variant":[
+        "Jakubovany"
     ],
     "name:rus_x_preferred":[
         "\u042f\u043a\u0443\u0431\u043e\u0432\u0430\u043d\u0438"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1326548863,
-    "wof:lastmodified":1537700417,
+    "wof:lastmodified":1564310510,
     "wof:name":"Jakubovany",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

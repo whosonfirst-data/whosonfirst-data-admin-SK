@@ -25,10 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:deu_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:epo_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:eus_x_preferred":[
+        "Rudn\u00edk"
+    ],
     "name:hun_x_preferred":[
         "Rudnok"
     ],
+    "name:ita_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:msa_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:nld_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:pol_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:ron_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:slk_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:spa_x_preferred":[
+        "Rudn\u00edk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0434\u045a\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
+        "Rudn\u00edk"
+    ],
+    "name:war_x_preferred":[
         "Rudn\u00edk"
     ],
     "src:geom":"geonames",
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1276229577,
-    "wof:lastmodified":1537700352,
+    "wof:lastmodified":1564310803,
     "wof:name":"Rudnik",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

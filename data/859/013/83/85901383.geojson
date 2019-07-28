@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14517647.043291,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.151396,48.207251,17.151396,48.207251",
     "geom:latitude":48.207251,
     "geom:longitude":17.151396,
@@ -48,8 +48,14 @@
     "name:slv_x_preferred":[
         "Ra\u010da"
     ],
+    "name:spa_x_preferred":[
+        "Ra\u010da"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0447\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ra\u010da"
     ],
     "name:und_x_colloquial":[
         "Raca",
@@ -97,11 +103,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":113,
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932490,
+    "wof:lastmodified":1564310647,
     "wof:name":"Ra\u010da",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

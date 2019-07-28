@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gemer"
+    ],
+    "name:ces_x_preferred":[
+        "Gemer"
+    ],
+    "name:deu_x_preferred":[
+        "Gemer"
+    ],
+    "name:epo_x_preferred":[
+        "Gemer"
+    ],
+    "name:eus_x_preferred":[
+        "Gemer"
+    ],
     "name:hun_x_preferred":[
         "Saj\u00f3g\u00f6m\u00f6r"
+    ],
+    "name:ita_x_preferred":[
+        "Gemer"
+    ],
+    "name:msa_x_preferred":[
+        "Gemer"
+    ],
+    "name:nld_x_preferred":[
+        "Gemer"
+    ],
+    "name:pol_x_preferred":[
+        "Gemer"
+    ],
+    "name:ron_x_preferred":[
+        "Gemer"
+    ],
+    "name:slk_x_preferred":[
+        "Gemer"
+    ],
+    "name:spa_x_preferred":[
+        "Gemer"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0435\u043c\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043c\u0435\u0440"
+    ],
+    "name:war_x_preferred":[
+        "Gemer"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1209932195,
-    "wof:lastmodified":1537700370,
+    "wof:lastmodified":1564310898,
     "wof:name":"Gemer",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

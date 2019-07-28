@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:ces_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:deu_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:epo_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:eus_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:fra_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:hun_x_preferred":[
+        "Darabos"
+    ],
+    "name:ita_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:msa_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:nld_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:pol_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:ron_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:slk_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:spa_x_preferred":[
+        "Dr\u00e1bsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u043f\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0431\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
+        "Dr\u00e1bsko"
+    ],
+    "name:war_x_preferred":[
         "Dr\u00e1bsko"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1243558587,
-    "wof:lastmodified":1537700427,
+    "wof:lastmodified":1564311311,
     "wof:name":"Drabsko",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

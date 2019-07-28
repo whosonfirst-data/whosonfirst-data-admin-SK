@@ -25,9 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151saj\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:slk_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0430 \u0421\u043b\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u044f \u0421\u043b\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Vy\u0161nia Slan\u00e1",
         "Vy\u0161n\u00ed Slana",
+        "Vy\u0161n\u00e1 Slan\u00e1"
+    ],
+    "name:war_x_preferred":[
         "Vy\u0161n\u00e1 Slan\u00e1"
     ],
     "src:geom":"geonames",
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1277076337,
-    "wof:lastmodified":1537700342,
+    "wof:lastmodified":1564310756,
     "wof:name":"Vysna Slana",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

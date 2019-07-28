@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kobyly"
+    ],
+    "name:ces_x_preferred":[
+        "Kobyly"
+    ],
+    "name:deu_x_preferred":[
+        "Kobyly"
+    ],
+    "name:epo_x_preferred":[
+        "Kobyly"
+    ],
+    "name:eus_x_preferred":[
+        "Kobyly"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00f3falu"
+    ],
+    "name:ita_x_preferred":[
+        "Kobyly"
+    ],
+    "name:msa_x_preferred":[
+        "Kobyly"
+    ],
+    "name:nld_x_preferred":[
+        "Kobyly"
+    ],
+    "name:pol_x_preferred":[
+        "Kobyly"
+    ],
+    "name:ron_x_preferred":[
+        "Kobyly"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u043e\u0431\u044b\u043b\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Kobyly"
+    ],
+    "name:spa_x_preferred":[
+        "Kobyly"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Kobyly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1327034893,
-    "wof:lastmodified":1537573576,
+    "wof:lastmodified":1564310478,
     "wof:name":"Kobyly",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

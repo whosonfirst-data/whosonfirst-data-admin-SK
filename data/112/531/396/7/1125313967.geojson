@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Divin"
+    ],
+    "name:fra_x_preferred":[
+        "Divin"
+    ],
+    "name:ron_x_preferred":[
+        "Divin"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Divin",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1125313967,
-    "wof:lastmodified":1509387952,
+    "wof:lastmodified":1564311258,
     "wof:name":"Divin",
     "wof:parent_id":102080497,
     "wof:placetype":"localadmin",

@@ -25,6 +25,36 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Brezina"
+    ],
+    "name:ces_x_preferred":[
+        "Brezina"
+    ],
+    "name:deu_x_preferred":[
+        "Brezina"
+    ],
+    "name:epo_x_preferred":[
+        "Brezina"
+    ],
+    "name:fra_x_preferred":[
+        "Brezina"
+    ],
+    "name:hun_x_preferred":[
+        "Brezina"
+    ],
+    "name:slk_x_preferred":[
+        "Brezina"
+    ],
+    "name:spa_x_preferred":[
+        "Brezina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Brezina"
+    ],
     "name:und_x_variant":[
         "Dvor Brezina",
         "Brezina"
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1209328755,
-    "wof:lastmodified":1537700435,
+    "wof:lastmodified":1564310894,
     "wof:name":"Brezina",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

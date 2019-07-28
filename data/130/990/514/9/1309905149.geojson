@@ -25,8 +25,62 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:ces_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:deu_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:eus_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:fra_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "Zsegnye"
+    ],
+    "name:ita_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:msa_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:nld_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:pol_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:ron_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:rue_x_preferred":[
+        "\u0416\u0435\u0433\u043d\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:spa_x_preferred":[
+        "\u017deh\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0445\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u0433\u043d\u044f"
+    ],
     "name:und_x_variant":[
         "\u017deg\u0148a",
+        "\u017deh\u0148a"
+    ],
+    "name:war_x_preferred":[
         "\u017deh\u0148a"
     ],
     "src:geom":"geonames",
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1309905149,
-    "wof:lastmodified":1537700339,
+    "wof:lastmodified":1564311142,
     "wof:name":"Zehna",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:ces_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:epo_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:eus_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:fra_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:hun_x_preferred":[
+        "Deresk"
+    ],
+    "name:ita_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:msa_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:nld_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:pol_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:ron_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:slk_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:spa_x_preferred":[
+        "Dr\u017ekovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0448\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0436\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Deresk",
+        "Dr\u017ekovce"
+    ],
+    "name:war_x_preferred":[
         "Dr\u017ekovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1225862659,
-    "wof:lastmodified":1537700371,
+    "wof:lastmodified":1564311530,
     "wof:name":"Drzkovce",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

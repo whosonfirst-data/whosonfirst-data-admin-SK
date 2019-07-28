@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:ces_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:deu_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:epo_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:eus_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:fra_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:hun_x_preferred":[
+        "Haraszt"
+    ],
+    "name:ita_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:msa_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:nld_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:pol_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:ron_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:slk_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:spa_x_preferred":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442 \u043d\u0430 \u0425\u043e\u0440\u043d\u0430\u0434\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u044c-\u043d\u0430\u0434-\u0413\u043e\u0440\u043d\u0430\u0434\u043e\u043c"
+    ],
     "name:und_x_variant":[
+        "Chras\u0165 nad Horn\u00e1dom"
+    ],
+    "name:war_x_preferred":[
         "Chras\u0165 nad Horn\u00e1dom"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1243562287,
-    "wof:lastmodified":1537700373,
+    "wof:lastmodified":1564311356,
     "wof:name":"Chrast' nad Hornadom",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

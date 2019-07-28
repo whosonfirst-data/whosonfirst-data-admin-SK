@@ -25,9 +25,27 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grabova"
+    ],
+    "name:pol_x_preferred":[
+        "Grabowa"
+    ],
+    "name:ron_x_preferred":[
+        "Hrabova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Dvor Hrabov\u00e1",
         "Hrabov\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u535a\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1242587219,
-    "wof:lastmodified":1537700418,
+    "wof:lastmodified":1564311340,
     "wof:name":"Hrabova",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

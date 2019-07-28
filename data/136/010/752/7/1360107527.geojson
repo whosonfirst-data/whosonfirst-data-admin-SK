@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:ces_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:deu_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:epo_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:eus_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:hun_x_preferred":[
+        "Kapin\u00e9metfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:msa_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:nld_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:pol_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:ron_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0454\u043c\u0446\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:spa_x_preferred":[
+        "Nemcovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u043c\u0446\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043c\u0446\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Nemcovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1360107527,
-    "wof:lastmodified":1537573571,
+    "wof:lastmodified":1564311102,
     "wof:name":"Nemcovce",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

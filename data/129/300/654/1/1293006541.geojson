@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bobot"
+    ],
+    "name:ces_x_preferred":[
+        "Bobot"
+    ],
+    "name:deu_x_preferred":[
+        "Bobot"
+    ],
+    "name:epo_x_preferred":[
+        "Bobot"
+    ],
+    "name:eus_x_preferred":[
+        "Bobot"
+    ],
+    "name:fra_x_preferred":[
+        "Bobot"
+    ],
+    "name:hun_x_preferred":[
+        "Bob\u00f3t"
+    ],
+    "name:ita_x_preferred":[
+        "Bobot"
+    ],
+    "name:msa_x_preferred":[
+        "Bobot"
+    ],
+    "name:nld_x_preferred":[
+        "Bobot"
+    ],
+    "name:ron_x_preferred":[
+        "Bobot"
+    ],
+    "name:slk_x_preferred":[
+        "Bobot"
+    ],
+    "name:spa_x_preferred":[
+        "Bobot"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0442"
+    ],
+    "name:war_x_preferred":[
+        "Bobot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1293006541,
-    "wof:lastmodified":1537573611,
+    "wof:lastmodified":1564310653,
     "wof:name":"Bobot",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Volica"
+    ],
+    "name:ces_x_preferred":[
+        "Volica"
+    ],
+    "name:epo_x_preferred":[
+        "Volica"
+    ],
+    "name:eus_x_preferred":[
+        "Volica"
+    ],
+    "name:fra_x_preferred":[
+        "Volica"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6kr\u00f6ske"
+    ],
+    "name:ita_x_preferred":[
+        "Volica"
+    ],
+    "name:msa_x_preferred":[
+        "Volica"
+    ],
+    "name:nld_x_preferred":[
+        "Volica"
+    ],
+    "name:pol_x_preferred":[
+        "Volica"
+    ],
+    "name:ron_x_preferred":[
+        "Volica"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u043e\u043b\u0456\u0446\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Volica"
+    ],
+    "name:spa_x_preferred":[
+        "Volica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Volica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1226441857,
-    "wof:lastmodified":1537573559,
+    "wof:lastmodified":1564311494,
     "wof:name":"Volica",
     "wof:parent_id":102080617,
     "wof:placetype":"locality",

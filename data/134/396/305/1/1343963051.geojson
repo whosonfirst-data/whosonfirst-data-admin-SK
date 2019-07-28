@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:ces_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:epo_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:eus_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:fra_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:hun_x_preferred":[
+        "Bogl\u00e1rka"
+    ],
+    "name:ita_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:msa_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:nld_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:pol_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:ron_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u043e\u0491\u043b\u044f\u0440\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:spa_x_preferred":[
+        "Bogliarka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0433\u0459\u0430\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0491\u043b\u044f\u0440\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Bogliarka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1343963051,
-    "wof:lastmodified":1537573584,
+    "wof:lastmodified":1564310538,
     "wof:name":"Bogliarka",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

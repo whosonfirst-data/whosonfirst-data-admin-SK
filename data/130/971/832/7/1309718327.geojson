@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:ces_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:eus_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitras\u00e1rf\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:ron_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:slk_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:spa_x_preferred":[
+        "Nitrianska Blatnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0430 \u0411\u043b\u0430\u0442\u045a\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "\u0160arfia",
+        "Nitrianska Blatnica"
+    ],
+    "name:war_x_preferred":[
         "Nitrianska Blatnica"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1309718327,
-    "wof:lastmodified":1537700400,
+    "wof:lastmodified":1564311147,
     "wof:name":"Nitrianska Blatnica",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

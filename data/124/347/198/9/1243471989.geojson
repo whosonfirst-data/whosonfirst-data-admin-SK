@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:epo_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:eus_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "F\u00fclekkov\u00e1csi"
+    ],
+    "name:ita_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:msa_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:nld_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:ron_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:slk_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:spa_x_preferred":[
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0438\u0459\u0430\u043a\u043e\u0432\u0441\u043a\u0435 \u041a\u043e\u0432\u0430\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u043b\u044f\u043a\u043e\u0432\u0441\u044c\u043a\u0435 \u041a\u043e\u0432\u0430\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "F\u00fclek-Kov\u00e1csi",
+        "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
+    ],
+    "name:war_x_preferred":[
         "Fi\u013eakovsk\u00e9 Kov\u00e1\u010de"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1243471989,
-    "wof:lastmodified":1537700425,
+    "wof:lastmodified":1564311349,
     "wof:name":"Fil'akovske Kovace",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

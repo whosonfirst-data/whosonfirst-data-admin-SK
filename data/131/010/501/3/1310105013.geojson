@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:ces_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:deu_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:epo_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:eus_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:fra_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:hun_x_preferred":[
+        "Poly\u00e1nfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:msa_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:nld_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:pol_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:ron_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:slk_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:spa_x_preferred":[
+        "Po\u013eanovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Po\u013eanovce"
+    ],
+    "name:war_x_preferred":[
         "Po\u013eanovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1310105013,
-    "wof:lastmodified":1537700354,
+    "wof:lastmodified":1564311047,
     "wof:name":"Pol'anovce",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

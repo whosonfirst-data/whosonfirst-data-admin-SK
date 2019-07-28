@@ -25,10 +25,46 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sazdice"
+    ],
+    "name:epo_x_preferred":[
+        "Sazdice"
+    ],
+    "name:eus_x_preferred":[
+        "Sazdice"
+    ],
+    "name:fra_x_preferred":[
+        "Sazdice"
+    ],
     "name:hun_x_preferred":[
         "Sz\u00e1zd"
     ],
+    "name:ita_x_preferred":[
+        "Sazdice"
+    ],
+    "name:msa_x_preferred":[
+        "Sazdice"
+    ],
+    "name:nld_x_preferred":[
+        "Sazdice"
+    ],
+    "name:pol_x_preferred":[
+        "Sazdice"
+    ],
+    "name:ron_x_preferred":[
+        "Sazdice"
+    ],
     "name:slk_x_preferred":[
+        "Sazdice"
+    ],
+    "name:spa_x_preferred":[
+        "Sazdice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0437\u0434\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
         "Sazdice"
     ],
     "src:geom":"geonames",
@@ -55,7 +91,7 @@
         }
     ],
     "wof:id":1310111669,
-    "wof:lastmodified":1537573593,
+    "wof:lastmodified":1564311042,
     "wof:name":"Sazdice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

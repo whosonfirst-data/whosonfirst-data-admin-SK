@@ -25,6 +25,48 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pozba"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03b6\u03bc\u03c0\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Pozba"
+    ],
+    "name:eus_x_preferred":[
+        "Pozba"
+    ],
+    "name:fra_x_preferred":[
+        "Pozba"
+    ],
+    "name:hun_x_preferred":[
+        "Pozba"
+    ],
+    "name:ita_x_preferred":[
+        "Pozba"
+    ],
+    "name:msa_x_preferred":[
+        "Pozba"
+    ],
+    "name:nld_x_preferred":[
+        "Pozba"
+    ],
+    "name:ron_x_preferred":[
+        "Pozba"
+    ],
+    "name:slk_x_preferred":[
+        "Pozba"
+    ],
+    "name:spa_x_preferred":[
+        "Pozba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0437\u0431\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Pozba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1326854633,
-    "wof:lastmodified":1537573594,
+    "wof:lastmodified":1564310483,
     "wof:name":"Pozba",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

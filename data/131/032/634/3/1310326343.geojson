@@ -25,6 +25,48 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rakovice"
+    ],
+    "name:ces_x_preferred":[
+        "Rakovice"
+    ],
+    "name:deu_x_preferred":[
+        "Rakovice"
+    ],
+    "name:epo_x_preferred":[
+        "Rakovice"
+    ],
+    "name:eus_x_preferred":[
+        "Rakovice"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1kfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Rakovice"
+    ],
+    "name:msa_x_preferred":[
+        "Rakovice"
+    ],
+    "name:nld_x_preferred":[
+        "Rakovice"
+    ],
+    "name:ron_x_preferred":[
+        "Rakovice"
+    ],
+    "name:slk_x_preferred":[
+        "Rakovice"
+    ],
+    "name:spa_x_preferred":[
+        "Rakovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Rakovice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1310326343,
-    "wof:lastmodified":1537573594,
+    "wof:lastmodified":1564311052,
     "wof:name":"Rakovice",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

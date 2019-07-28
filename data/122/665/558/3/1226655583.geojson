@@ -25,8 +25,62 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:hun_x_preferred":[
+        "Hegyb\u00e1nya"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0458\u0430\u0432\u045a\u0438\u0446\u043a\u0435 \u0411\u0430\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u044f\u0432\u043d\u0438\u0446\u044c\u043a\u0435 \u0411\u0430\u043d\u0454"
+    ],
     "name:und_x_variant":[
         "Piarg",
+        "\u0160tiavnick\u00e9 Bane"
+    ],
+    "name:war_x_preferred":[
         "\u0160tiavnick\u00e9 Bane"
     ],
     "src:geom":"geonames",
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1226655583,
-    "wof:lastmodified":1537700389,
+    "wof:lastmodified":1564311558,
     "wof:name":"Stiavnicke Bane",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

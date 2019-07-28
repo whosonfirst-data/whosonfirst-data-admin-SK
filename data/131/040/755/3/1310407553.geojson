@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:ces_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:epo_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:eus_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:fra_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:msa_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:nld_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:pol_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:ron_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:slk_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:spa_x_preferred":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0448\u043e\u0432\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u043e\u0432\u0456\u043a"
+    ],
     "name:und_x_variant":[
+        "Hra\u0161ov\u00edk"
+    ],
+    "name:war_x_preferred":[
         "Hra\u0161ov\u00edk"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1310407553,
-    "wof:lastmodified":1537700368,
+    "wof:lastmodified":1564311016,
     "wof:name":"Hrasovik",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

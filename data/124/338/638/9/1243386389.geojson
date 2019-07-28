@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Michalok"
+    ],
+    "name:ces_x_preferred":[
+        "Michalok"
+    ],
+    "name:deu_x_preferred":[
+        "Michalok"
+    ],
+    "name:epo_x_preferred":[
+        "Michalok"
+    ],
+    "name:eus_x_preferred":[
+        "Michalok"
+    ],
+    "name:fra_x_preferred":[
+        "Michalok"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151mih\u00e1lyi"
+    ],
+    "name:ita_x_preferred":[
+        "Michalok"
+    ],
+    "name:msa_x_preferred":[
+        "Michalok"
+    ],
+    "name:nld_x_preferred":[
+        "Michalok"
+    ],
+    "name:pol_x_preferred":[
+        "Michalok"
+    ],
+    "name:ron_x_preferred":[
+        "Michalok"
+    ],
+    "name:slk_x_preferred":[
+        "Michalok"
+    ],
+    "name:spa_x_preferred":[
+        "Michalok"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u043e\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Michalok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1243386389,
-    "wof:lastmodified":1537573572,
+    "wof:lastmodified":1564311293,
     "wof:name":"Michalok",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

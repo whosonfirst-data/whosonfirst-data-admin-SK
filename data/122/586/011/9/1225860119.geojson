@@ -24,6 +24,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00fag\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:rue_x_preferred":[
+        "\u0428\u043c\u0438\u0491\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160migovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043c\u0438\u0433\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0438\u0491\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:war_x_preferred":[
+        "\u0160migovec"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1225860119,
-    "wof:lastmodified":1537573564,
+    "wof:lastmodified":1564311528,
     "wof:name":"Smigovec",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

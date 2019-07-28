@@ -19,17 +19,62 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:ceb_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:ces_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
     "name:deu_x_preferred":[
         "Altschmecks"
+    ],
+    "name:deu_x_variant":[
+        "Star\u00fd Smokovec"
     ],
     "name:eng_x_preferred":[
         "Stary Smokovec"
     ],
+    "name:epo_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:fra_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d3t\u00e1traf\u00fcred"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:lit_x_preferred":[
+        "Stary Smokovecas"
+    ],
+    "name:pol_x_preferred":[
+        "Stary Smokowiec"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446"
     ],
+    "name:slk_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:spa_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:swe_x_preferred":[
+        "Star\u00fd Smokovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:unk_x_variant":[
         "Alt Schmecks"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u5229\u65af\u83ab\u514b\u7dad\u514b"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -83,7 +128,7 @@
         }
     ],
     "wof:id":1125824407,
-    "wof:lastmodified":1509394318,
+    "wof:lastmodified":1564311271,
     "wof:name":"Star\u00fd Smokovec",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

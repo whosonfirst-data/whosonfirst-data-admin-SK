@@ -25,6 +25,30 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hanka"
+    ],
+    "name:ces_x_preferred":[
+        "Hanka"
+    ],
+    "name:deu_x_preferred":[
+        "Hanka"
+    ],
+    "name:fin_x_preferred":[
+        "Hanka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30ab"
+    ],
+    "name:pol_x_preferred":[
+        "Hanka"
+    ],
+    "name:slk_x_preferred":[
+        "Hanka"
+    ],
+    "name:swe_x_preferred":[
+        "Hanka"
+    ],
     "name:und_x_variant":[
         "Dvor Hanka",
         "Hanka"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1242692023,
-    "wof:lastmodified":1537700424,
+    "wof:lastmodified":1564311341,
     "wof:name":"Hanka",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

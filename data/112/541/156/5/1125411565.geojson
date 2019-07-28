@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Betliar"
+    ],
+    "name:ceb_x_preferred":[
+        "Betliar"
+    ],
+    "name:ces_x_preferred":[
+        "Betliar"
+    ],
+    "name:deu_x_preferred":[
+        "Betliar"
+    ],
+    "name:epo_x_preferred":[
+        "Betliar"
+    ],
+    "name:eus_x_preferred":[
+        "Betliar"
+    ],
+    "name:fra_x_preferred":[
+        "Betliar"
+    ],
+    "name:hun_x_preferred":[
+        "Betl\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Betliar"
+    ],
+    "name:msa_x_preferred":[
+        "Betliar"
+    ],
+    "name:nld_x_preferred":[
+        "Betliar"
+    ],
+    "name:pol_x_preferred":[
+        "Betliar"
+    ],
+    "name:ron_x_preferred":[
+        "Betliar"
+    ],
+    "name:slk_x_preferred":[
+        "Betliar"
+    ],
+    "name:spa_x_preferred":[
+        "Betliar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0442\u0459\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0442\u043b\u044c\u044f\u0440"
+    ],
+    "name:war_x_preferred":[
+        "Betliar"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Betliar",
@@ -63,7 +117,7 @@
         }
     ],
     "wof:id":1125411565,
-    "wof:lastmodified":1509390271,
+    "wof:lastmodified":1564311276,
     "wof:name":"Betliar",
     "wof:parent_id":102080553,
     "wof:placetype":"localadmin",

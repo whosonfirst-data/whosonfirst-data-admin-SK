@@ -25,8 +25,65 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:ceb_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:ces_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:deu_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:epo_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:eus_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:fra_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:hun_x_preferred":[
+        "Tur\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:msa_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:nld_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:pol_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:ron_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:rue_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u043d\u044b \u043d\u0430\u0434 \u041e\u043d\u0434\u0430\u0432\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:spa_x_preferred":[
+        "Turany nad Ondavou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u043d\u0438 \u043d\u0430 \u041e\u043d\u0434\u0430\u0432\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u043d\u0438-\u043d\u0430\u0434-\u041e\u043d\u0434\u0430\u0432\u043e\u044e"
+    ],
     "name:und_x_variant":[
         "Turiany",
+        "Turany nad Ondavou"
+    ],
+    "name:war_x_preferred":[
         "Turany nad Ondavou"
     ],
     "src:geom":"geonames",
@@ -53,7 +110,7 @@
         }
     ],
     "wof:id":1326753289,
-    "wof:lastmodified":1537700345,
+    "wof:lastmodified":1564310430,
     "wof:name":"Turany nad Ondavou",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

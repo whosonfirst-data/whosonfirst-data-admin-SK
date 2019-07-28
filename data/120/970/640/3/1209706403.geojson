@@ -25,6 +25,48 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Benice"
+    ],
+    "name:ces_x_preferred":[
+        "Benice"
+    ],
+    "name:epo_x_preferred":[
+        "Benice"
+    ],
+    "name:eus_x_preferred":[
+        "Benice"
+    ],
+    "name:hun_x_preferred":[
+        "Benefalva"
+    ],
+    "name:ita_x_preferred":[
+        "Benice"
+    ],
+    "name:msa_x_preferred":[
+        "Benice"
+    ],
+    "name:nld_x_preferred":[
+        "Benice"
+    ],
+    "name:pol_x_preferred":[
+        "Benice"
+    ],
+    "name:ron_x_preferred":[
+        "Benice"
+    ],
+    "name:slk_x_preferred":[
+        "Benice"
+    ],
+    "name:spa_x_preferred":[
+        "Benice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Benice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1209706403,
-    "wof:lastmodified":1537573611,
+    "wof:lastmodified":1564310870,
     "wof:name":"Benice",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

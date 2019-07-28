@@ -25,6 +25,24 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ita_x_preferred":[
+        "Belonia"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0947\u0932\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:por_x_preferred":[
+        "Belonia"
+    ],
+    "name:vie_x_preferred":[
+        "Belonia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1326915813,
-    "wof:lastmodified":1536929214,
+    "wof:lastmodified":1564310504,
     "wof:name":"Belonia",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

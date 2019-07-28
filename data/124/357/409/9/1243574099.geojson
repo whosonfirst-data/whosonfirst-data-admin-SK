@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrbica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrbica"
+    ],
+    "name:fra_x_preferred":[
+        "Vrbica"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrbica"
+    ],
+    "name:hun_x_preferred":[
+        "Vrbica"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbica"
+    ],
+    "name:pol_x_preferred":[
+        "Wyrbica"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103rbi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Vrbica"
+    ],
+    "name:slv_x_preferred":[
+        "Vrbica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vrbica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0440\u0431\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1243574099,
-    "wof:lastmodified":1536619524,
+    "wof:lastmodified":1564311352,
     "wof:name":"Vrbica",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

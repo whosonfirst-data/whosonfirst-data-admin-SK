@@ -25,14 +25,41 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0641\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Pavel"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b"
+    ],
+    "name:ces_x_preferred":[
+        "Pavel"
+    ],
+    "name:est_x_preferred":[
+        "Pavel"
+    ],
+    "name:fin_x_preferred":[
+        "Pavel"
+    ],
     "name:hun_x_preferred":[
         "P\u00e1lmajor"
     ],
     "name:hun_x_variant":[
         "Szentp\u00e1lpuszta"
     ],
+    "name:ron_x_preferred":[
+        "Pavel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b"
+    ],
     "name:slk_x_preferred":[
         "Pusta Sv\u00e4t\u00fd Pavel"
+    ],
+    "name:slv_x_preferred":[
+        "Pavel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1293396159,
-    "wof:lastmodified":1537700394,
+    "wof:lastmodified":1564310663,
     "wof:name":"Pavel",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

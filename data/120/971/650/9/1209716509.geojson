@@ -25,7 +25,49 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:ces_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:epo_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:eus_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:fra_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:hun_x_preferred":[
+        "Turcs\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:msa_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:nld_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:ron_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:slk_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:spa_x_preferred":[
+        "Tur\u010dianky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0447\u0458\u0430\u043d\u043a\u0438"
+    ],
     "name:und_x_variant":[
+        "Tur\u010dianky"
+    ],
+    "name:war_x_preferred":[
         "Tur\u010dianky"
     ],
     "src:geom":"geonames",
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1209716509,
-    "wof:lastmodified":1537700384,
+    "wof:lastmodified":1564310882,
     "wof:name":"Turcianky",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

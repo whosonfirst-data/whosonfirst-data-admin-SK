@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:ceb_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:ces_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:eus_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitraszerdahely"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:ron_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:slk_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:spa_x_preferred":[
+        "Nitrianska Streda"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0430 \u0421\u0442\u0440\u0435\u0434\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Nitrianska Streda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1293907427,
-    "wof:lastmodified":1537573597,
+    "wof:lastmodified":1564310667,
     "wof:name":"Nitrianska Streda",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

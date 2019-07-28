@@ -25,6 +25,12 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Salajka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0458\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243377649,
-    "wof:lastmodified":1536904906,
+    "wof:lastmodified":1564311300,
     "wof:name":"Salajka",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

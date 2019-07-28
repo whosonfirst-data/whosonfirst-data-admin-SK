@@ -25,6 +25,42 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Margit"
+    ],
+    "name:dan_x_preferred":[
+        "Margit"
+    ],
+    "name:deu_x_preferred":[
+        "Margit"
+    ],
+    "name:fin_x_preferred":[
+        "Margit"
+    ],
+    "name:fra_x_preferred":[
+        "Margit"
+    ],
+    "name:hun_x_preferred":[
+        "Margit"
+    ],
+    "name:isl_x_preferred":[
+        "Margit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30ae\u30c8"
+    ],
+    "name:nno_x_preferred":[
+        "Margit"
+    ],
+    "name:nor_x_preferred":[
+        "Margit"
+    ],
+    "name:slv_x_preferred":[
+        "Margit"
+    ],
+    "name:swe_x_preferred":[
+        "Margit"
+    ],
     "name:und_x_variant":[
         "Dvor Margit",
         "Margit"
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1209812195,
-    "wof:lastmodified":1537700403,
+    "wof:lastmodified":1564310930,
     "wof:name":"Margit",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

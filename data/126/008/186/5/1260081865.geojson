@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Annafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:slk_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Hankov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d\u043a\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u043a\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
+        "Hankov\u00e1"
+    ],
+    "name:war_x_preferred":[
         "Hankov\u00e1"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1260081865,
-    "wof:lastmodified":1537700369,
+    "wof:lastmodified":1564310979,
     "wof:name":"Hankova",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

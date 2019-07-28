@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:ces_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:epo_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:eus_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:fra_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:hun_x_preferred":[
+        "Esztebnekhuta"
+    ],
+    "name:ita_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:msa_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:nld_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:pol_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:ron_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0442\u0435\u0431\u043d\u0438\u0446\u044c\u043a\u0430 \u0413\u0443\u0442\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:spa_x_preferred":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0458\u0435\u0431\u045a\u0438\u0446\u043a\u0430 \u0425\u0443\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u0431\u043d\u0438\u0446\u044c\u043a\u0430 \u0413\u0443\u0442\u0430"
+    ],
     "name:und_x_variant":[
+        "Stebn\u00edcka Huta"
+    ],
+    "name:war_x_preferred":[
         "Stebn\u00edcka Huta"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1276154923,
-    "wof:lastmodified":1537700348,
+    "wof:lastmodified":1564310817,
     "wof:name":"Stebnicka Huta",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

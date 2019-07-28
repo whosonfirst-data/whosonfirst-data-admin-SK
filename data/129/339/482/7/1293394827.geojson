@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:ces_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:deu_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:epo_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:eus_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:fra_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:hun_x_preferred":[
+        "Garancspetr\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:msa_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:nld_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:pol_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:ron_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:slk_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:spa_x_preferred":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0447-\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0430\u043d\u0447-\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Gran\u010d-Petrovce"
+    ],
+    "name:war_x_preferred":[
         "Gran\u010d-Petrovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1293394827,
-    "wof:lastmodified":1537700370,
+    "wof:lastmodified":1564310661,
     "wof:name":"Granc-Petrovce",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

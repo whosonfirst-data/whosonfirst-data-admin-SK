@@ -25,7 +25,61 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:ces_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:epo_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:eus_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:fra_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e9s\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:msa_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:nld_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:pol_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:ron_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:rue_x_preferred":[
+        "\u0420\u044f\u0448\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0448\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:spa_x_preferred":[
+        "Re\u0161ov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0448\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044f\u0448\u0456\u0432"
+    ],
     "name:und_x_variant":[
+        "Re\u0161ov"
+    ],
+    "name:war_x_preferred":[
         "Re\u0161ov"
     ],
     "src:geom":"geonames",
@@ -52,7 +106,7 @@
         }
     ],
     "wof:id":1276979117,
-    "wof:lastmodified":1537700352,
+    "wof:lastmodified":1564310831,
     "wof:name":"Resov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

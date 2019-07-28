@@ -16,6 +16,114 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0632\u064a\u0646\u0648\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Pezinok"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0437\u0456\u043d\u0430\u043a"
+    ],
+    "name:bre_x_preferred":[
+        "Pezinok"
+    ],
+    "name:cat_x_preferred":[
+        "Pezinok"
+    ],
+    "name:ceb_x_preferred":[
+        "Pezinok"
+    ],
+    "name:ces_x_preferred":[
+        "Pezinok"
+    ],
+    "name:dan_x_preferred":[
+        "Pezinok"
+    ],
+    "name:deu_x_preferred":[
+        "Pezinok"
+    ],
+    "name:epo_x_preferred":[
+        "Pezinok"
+    ],
+    "name:eus_x_preferred":[
+        "Pezinok"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0632\u06cc\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Pezinok"
+    ],
+    "name:hrv_x_preferred":[
+        "Pezinok"
+    ],
+    "name:hun_x_preferred":[
+        "Bazin"
+    ],
+    "name:ind_x_preferred":[
+        "Pezinok"
+    ],
+    "name:ita_x_preferred":[
+        "Pezinok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30b8\u30ce\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\uc9c0\ub178\ud06c"
+    ],
+    "name:lav_x_preferred":[
+        "Pezinoka"
+    ],
+    "name:lit_x_preferred":[
+        "Pezinokas"
+    ],
+    "name:msa_x_preferred":[
+        "Pezinok"
+    ],
+    "name:nld_x_preferred":[
+        "Pezinok"
+    ],
+    "name:pol_x_preferred":[
+        "Pezinok"
+    ],
+    "name:por_x_preferred":[
+        "Pezinok"
+    ],
+    "name:ron_x_preferred":[
+        "Pezinok"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0437\u0438\u043d\u043e\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Pezinok"
+    ],
+    "name:spa_x_preferred":[
+        "Pezinok"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0437\u0438\u043d\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Pezinok"
+    ],
+    "name:tur_x_preferred":[
+        "Pezinok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0437\u0456\u043d\u043e\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0632\u06cc\u0646\u0648\u06a9"
+    ],
+    "name:war_x_preferred":[
+        "Pezinok"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u6fdf\u8afe\u514b"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pezinok",
@@ -63,7 +171,7 @@
         }
     ],
     "wof:id":1125321465,
-    "wof:lastmodified":1509388125,
+    "wof:lastmodified":1564311205,
     "wof:name":"Pezinok",
     "wof:parent_id":102080471,
     "wof:placetype":"localadmin",

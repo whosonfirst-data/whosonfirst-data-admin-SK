@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:epo_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:eus_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:hun_x_preferred":[
+        "Homonnaz\u00e1vod"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:ron_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:spa_x_preferred":[
+        "Z\u00e1vadka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0432\u0430\u0434\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0432\u0430\u0434\u043a\u0430"
+    ],
     "name:und_x_variant":[
+        "Z\u00e1vadka"
+    ],
+    "name:war_x_preferred":[
         "Z\u00e1vadka"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1277004903,
-    "wof:lastmodified":1537700340,
+    "wof:lastmodified":1564310759,
     "wof:name":"Zavadka",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

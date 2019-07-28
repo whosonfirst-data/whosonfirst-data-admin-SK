@@ -25,9 +25,63 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:ces_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:deu_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:epo_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:fra_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3z\u00fag\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:msa_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:nld_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:pol_x_preferred":[
+        "Dru\u017cbaki Ni\u017cne"
+    ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0457 \u0420\u0443\u0436\u0431\u0430\u0445\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:spa_x_preferred":[
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0436\u045a\u0435 \u0420\u0443\u0436\u0431\u0430\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0456 \u0420\u0443\u0436\u0431\u0430\u0445\u0438"
+    ],
     "name:und_x_variant":[
         "Druzbaki Ni\u017cny",
         "Ni\u017enie Ru\u017ebachy",
+        "Ni\u017en\u00e9 Ru\u017ebachy"
+    ],
+    "name:war_x_preferred":[
         "Ni\u017en\u00e9 Ru\u017ebachy"
     ],
     "src:geom":"geonames",
@@ -54,7 +108,7 @@
         }
     ],
     "wof:id":1293783229,
-    "wof:lastmodified":1537700357,
+    "wof:lastmodified":1564310686,
     "wof:name":"Nizne Ruzbachy",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

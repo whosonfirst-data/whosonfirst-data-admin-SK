@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6140436.305717,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.283496,48.732313,21.283496,48.732313",
     "geom:latitude":48.732313,
     "geom:longitude":21.283496,
@@ -24,6 +24,33 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ces_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:deu_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:epo_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:fra_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:hun_x_preferred":[
+        "Darg\u00f3i H\u0151s\u00f6k lak\u00f3telep"
+    ],
+    "name:ita_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:nld_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:nor_x_preferred":[
+        "Dargovsk\u00fdch hrdinov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0440\u0433\u043e\u0432\u0441\u043a\u0438\u0445 \u0445\u0440\u0434\u0438\u043d\u043e\u0432"
+    ],
     "name:und_x_colloquial":[
         "Dargovskych hrdinov"
     ],
@@ -64,11 +91,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688359,
         102191581,
         85633769,
         101752055,
-        102080549,
-        85688359
+        102080549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939154,
+    "wof:lastmodified":1564310647,
     "wof:name":"Dargovsk\u00fdch hrdinov",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Stankovce"
+    ],
+    "name:ces_x_preferred":[
+        "Stankovce"
+    ],
+    "name:epo_x_preferred":[
+        "Stankovce"
+    ],
+    "name:eus_x_preferred":[
+        "Stankovce"
+    ],
+    "name:fra_x_preferred":[
+        "Stankovce"
+    ],
+    "name:hun_x_preferred":[
+        "Sztank\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Stankovce"
+    ],
+    "name:msa_x_preferred":[
+        "Stankovce"
+    ],
+    "name:nld_x_preferred":[
+        "Stankovce"
+    ],
+    "name:pol_x_preferred":[
+        "Stankovce"
+    ],
+    "name:ron_x_preferred":[
+        "Stankovce"
+    ],
+    "name:slk_x_preferred":[
+        "Stankovce"
+    ],
+    "name:spa_x_preferred":[
+        "Stankovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Dvor Stankovce",
+        "Stankovce"
+    ],
+    "name:war_x_preferred":[
         "Stankovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1344058823,
-    "wof:lastmodified":1537700348,
+    "wof:lastmodified":1564310626,
     "wof:name":"Stankovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

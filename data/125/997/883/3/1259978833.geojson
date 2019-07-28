@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:ces_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:epo_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:eus_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:fra_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6r\u00f6s\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:msa_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:nld_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:pol_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:ron_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u044b\u043d\u0435\u0446\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:spa_x_preferred":[
+        "Kru\u0161inec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0438\u045a\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0438\u043d\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
+        "Kru\u0161inec"
+    ],
+    "name:war_x_preferred":[
         "Kru\u0161inec"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1259978833,
-    "wof:lastmodified":1537700363,
+    "wof:lastmodified":1564311413,
     "wof:name":"Krusinec",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",
