@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyvend\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:spa_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u0425\u043e\u0441\u0442\u0458\u0435"
+    ],
+    "name:tgl_x_preferred":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u0413\u043e\u0441\u0442\u0435"
+    ],
     "name:und_x_variant":[
+        "Ve\u013ek\u00e9 Hoste"
+    ],
+    "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Hoste"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1326736437,
-    "wof:lastmodified":1537700382,
+    "wof:lastmodified":1564310434,
     "wof:name":"Vel'ke Hoste",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

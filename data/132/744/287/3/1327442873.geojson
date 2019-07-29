@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kysta"
+    ],
+    "name:ces_x_preferred":[
+        "Kysta"
+    ],
+    "name:epo_x_preferred":[
+        "Kysta"
+    ],
+    "name:eus_x_preferred":[
+        "Kysta"
+    ],
+    "name:fra_x_preferred":[
+        "Kysta"
+    ],
+    "name:hun_x_preferred":[
+        "Kiszte"
+    ],
+    "name:ita_x_preferred":[
+        "Kysta"
+    ],
+    "name:msa_x_preferred":[
+        "Kysta"
+    ],
+    "name:nld_x_preferred":[
+        "Kysta"
+    ],
+    "name:pol_x_preferred":[
+        "Kysta"
+    ],
+    "name:ron_x_preferred":[
+        "Kysta"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0456\u0441\u0442\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Kysta"
+    ],
+    "name:spa_x_preferred":[
+        "Kysta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0441\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Kista",
+        "Kysta"
+    ],
+    "name:war_x_preferred":[
         "Kysta"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1327442873,
-    "wof:lastmodified":1537700363,
+    "wof:lastmodified":1564310513,
     "wof:name":"Kysta",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

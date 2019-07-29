@@ -25,6 +25,48 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:ces_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:epo_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:eus_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9ved"
+    ],
+    "name:ita_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:msa_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:nld_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:ron_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:slk_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:spa_x_preferred":[
+        "Nevidzany"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u0432\u0438\u0434\u0437\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u0456\u0434\u0437\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Nevidzany"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1225869005,
-    "wof:lastmodified":1537573597,
+    "wof:lastmodified":1564311526,
     "wof:name":"Nevidzany",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

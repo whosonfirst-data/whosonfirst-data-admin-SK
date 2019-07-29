@@ -26,8 +26,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:epo_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:eus_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:fra_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1del\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:ron_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:spa_x_preferred":[
+        "Z\u00e1diel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0434\u0458\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0434\u0456\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Szadelo",
+        "Z\u00e1diel"
+    ],
+    "name:war_x_preferred":[
         "Z\u00e1diel"
     ],
     "src:geom":"geonames",
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1276982387,
-    "wof:lastmodified":1537700340,
+    "wof:lastmodified":1564310836,
     "wof:name":"Zadiel",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

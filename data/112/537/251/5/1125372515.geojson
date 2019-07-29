@@ -18,6 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bab"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bc\u03c0"
+    ],
+    "name:fra_x_preferred":[
+        "Bab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562"
+    ],
+    "name:por_x_preferred":[
+        "Bab"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431"
+    ],
+    "name:tgl_x_preferred":[
+        "Bab"
+    ],
+    "name:tur_x_preferred":[
+        "Bab"
+    ],
     "name:unk_x_variant":[
         "B\u00e1b"
     ],
@@ -70,7 +97,7 @@
         }
     ],
     "wof:id":1125372515,
-    "wof:lastmodified":1509389359,
+    "wof:lastmodified":1564311237,
     "wof:name":"Bab",
     "wof:parent_id":102080473,
     "wof:placetype":"localadmin",

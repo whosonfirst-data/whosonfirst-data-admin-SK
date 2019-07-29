@@ -26,6 +26,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:ces_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:deu_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:epo_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:eus_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:fra_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:hun_x_preferred":[
+        "Kord\u00e9h\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:msa_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:nld_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:pol_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:por_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:ron_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:slk_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:spa_x_preferred":[
+        "Kord\u00edky"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u0456\u043a\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Kord\u00edky"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +104,7 @@
         }
     ],
     "wof:id":1276672251,
-    "wof:lastmodified":1537573602,
+    "wof:lastmodified":1564310791,
     "wof:name":"Kordiky",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

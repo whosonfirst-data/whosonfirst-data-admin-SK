@@ -25,8 +25,47 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vlkas"
+    ],
+    "name:epo_x_preferred":[
+        "Vlkas"
+    ],
+    "name:eus_x_preferred":[
+        "Vlkas"
+    ],
+    "name:fra_x_preferred":[
+        "Vlkas"
+    ],
+    "name:hun_x_preferred":[
+        "Valkh\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Vlkas"
+    ],
+    "name:msa_x_preferred":[
+        "Vlkas"
+    ],
+    "name:nld_x_preferred":[
+        "Vlkas"
+    ],
+    "name:ron_x_preferred":[
+        "Vlkas"
+    ],
+    "name:slk_x_preferred":[
+        "Vlkas"
+    ],
+    "name:spa_x_preferred":[
+        "Vlkas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u043a\u0430\u0441"
+    ],
     "name:und_x_variant":[
         "Valk\u00e1z",
+        "Vlkas"
+    ],
+    "name:war_x_preferred":[
         "Vlkas"
     ],
     "src:geom":"geonames",
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1242801925,
-    "wof:lastmodified":1537700380,
+    "wof:lastmodified":1564311314,
     "wof:name":"Vlkas",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

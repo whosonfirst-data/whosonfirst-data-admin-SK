@@ -45,6 +45,9 @@
     "name:epo_x_preferred":[
         "Sv\u00e4t\u00fd Kr\u00ed\u017e"
     ],
+    "name:eus_x_preferred":[
+        "Sv\u00e4t\u00fd Kr\u00ed\u017e"
+    ],
     "name:fra_x_preferred":[
         "Sv\u00e4t\u00fd Kr\u00ed\u017e"
     ],
@@ -72,10 +75,16 @@
     "name:pol_x_variant":[
         "Sv\u00e4t\u00fd Kr\u00ed\u017e"
     ],
+    "name:ron_x_preferred":[
+        "Sv\u00e4t\u00fd Kr\u00ed\u017e"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u044f\u0442\u0438 \u041a\u0440\u0438\u0436"
     ],
     "name:slk_x_preferred":[
+        "Sv\u00e4t\u00fd Kr\u00ed\u017e"
+    ],
+    "name:spa_x_preferred":[
         "Sv\u00e4t\u00fd Kr\u00ed\u017e"
     ],
     "name:srp_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1276141911,
-    "wof:lastmodified":1537700387,
+    "wof:lastmodified":1564310798,
     "wof:name":"Svaety Kriz",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

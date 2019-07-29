@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:hun_x_preferred":[
+        "Rimasimonyi"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160imonovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u043c\u043e\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u043c\u043e\u043d\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Simonyi",
+        "\u0160imonovce"
+    ],
+    "name:war_x_preferred":[
         "\u0160imonovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1209829655,
-    "wof:lastmodified":1537700350,
+    "wof:lastmodified":1564310883,
     "wof:name":"Simonovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

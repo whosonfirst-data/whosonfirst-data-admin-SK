@@ -25,6 +25,42 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Martinci"
+    ],
+    "name:ceb_x_preferred":[
+        "Martinci"
+    ],
+    "name:epo_x_preferred":[
+        "Martinci"
+    ],
+    "name:fra_x_preferred":[
+        "Martinci"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1vaszentm\u00e1rton"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u057f\u056b\u0576\u0581\u056b"
+    ],
+    "name:msa_x_preferred":[
+        "Martinci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Martinci"
+    ],
+    "name:spa_x_preferred":[
+        "Martinci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Martinci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1243469101,
-    "wof:lastmodified":1536773447,
+    "wof:lastmodified":1564311347,
     "wof:name":"Martinci",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

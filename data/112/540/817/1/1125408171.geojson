@@ -16,6 +16,111 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0641\u064a\u062a\u0633\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Levitse"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u0432\u0456\u0446\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0432\u0438\u0446\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Levice"
+    ],
+    "name:ceb_x_preferred":[
+        "Levice"
+    ],
+    "name:ces_x_preferred":[
+        "Levice"
+    ],
+    "name:dan_x_preferred":[
+        "Levice"
+    ],
+    "name:deu_x_preferred":[
+        "Levice"
+    ],
+    "name:epo_x_preferred":[
+        "Levice"
+    ],
+    "name:est_x_preferred":[
+        "Levice"
+    ],
+    "name:eus_x_preferred":[
+        "Levice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Levice"
+    ],
+    "name:hrv_x_preferred":[
+        "Levice"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e9va"
+    ],
+    "name:ind_x_preferred":[
+        "Levice"
+    ],
+    "name:ita_x_preferred":[
+        "Levice"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ube44\uccb4"
+    ],
+    "name:lat_x_preferred":[
+        "Leua"
+    ],
+    "name:lav_x_preferred":[
+        "Levice"
+    ],
+    "name:lim_x_preferred":[
+        "Levice"
+    ],
+    "name:lit_x_preferred":[
+        "Levic\u0117"
+    ],
+    "name:msa_x_preferred":[
+        "Levice"
+    ],
+    "name:nld_x_preferred":[
+        "Levice"
+    ],
+    "name:pol_x_preferred":[
+        "Levice"
+    ],
+    "name:ron_x_preferred":[
+        "Levice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Levice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Levice"
+    ],
+    "name:tur_x_preferred":[
+        "Levice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u0456\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Levice"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u7dad\u91c7"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Levice",
@@ -63,7 +168,7 @@
         }
     ],
     "wof:id":1125408171,
-    "wof:lastmodified":1509390195,
+    "wof:lastmodified":1564311274,
     "wof:name":"Levice",
     "wof:parent_id":102080477,
     "wof:placetype":"localadmin",

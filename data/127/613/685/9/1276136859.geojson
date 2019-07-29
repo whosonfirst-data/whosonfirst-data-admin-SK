@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:epo_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:eus_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:fra_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:hun_x_preferred":[
+        "Nemesfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:msa_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:nld_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:pol_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:ron_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:slk_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:spa_x_preferred":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043b\u0430\u0434\u0437\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043b\u0430\u0434\u0437\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
+        "Ml\u00e1dzovo"
+    ],
+    "name:war_x_preferred":[
         "Ml\u00e1dzovo"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1276136859,
-    "wof:lastmodified":1537700402,
+    "wof:lastmodified":1564310800,
     "wof:name":"Mladzovo",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hutka"
+    ],
+    "name:ces_x_preferred":[
+        "Hutka"
+    ],
+    "name:epo_x_preferred":[
+        "Hutka"
+    ],
+    "name:eus_x_preferred":[
+        "Hutka"
+    ],
+    "name:fra_x_preferred":[
+        "Hutka"
+    ],
+    "name:hun_x_preferred":[
+        "Hut\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Hutka"
+    ],
+    "name:msa_x_preferred":[
+        "Hutka"
+    ],
+    "name:nld_x_preferred":[
+        "Hutka"
+    ],
+    "name:pol_x_preferred":[
+        "Hutka"
+    ],
+    "name:ron_x_preferred":[
+        "Hutka"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u0443\u0442\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Hutka"
+    ],
+    "name:spa_x_preferred":[
+        "Hutka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0442\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0442\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Hutka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1276798967,
-    "wof:lastmodified":1537573578,
+    "wof:lastmodified":1564310819,
     "wof:name":"Hutka",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

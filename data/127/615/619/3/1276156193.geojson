@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010cab"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cab"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cab"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cab"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cab"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cab"
+    ],
+    "name:hun_x_preferred":[
+        "Csabb"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cab"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cab"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cab"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cab"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cab"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cab"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0431"
+    ],
     "name:und_x_variant":[
+        "\u010cab"
+    ],
+    "name:war_x_preferred":[
         "\u010cab"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1276156193,
-    "wof:lastmodified":1537700434,
+    "wof:lastmodified":1564310815,
     "wof:name":"Cab",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

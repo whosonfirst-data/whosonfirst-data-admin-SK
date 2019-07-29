@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:ces_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:deu_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:epo_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:eus_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:fra_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:hun_x_preferred":[
+        "Bacs\u00f3falva"
+    ],
+    "name:ita_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:msa_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:nld_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:pol_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:ron_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:slk_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:spa_x_preferred":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0447\u0443\u0432\u0430\u0434\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0447\u0443\u0432\u0430\u0434\u043b\u043e"
+    ],
     "name:und_x_variant":[
+        "Po\u010d\u00favadlo"
+    ],
+    "name:war_x_preferred":[
         "Po\u010d\u00favadlo"
     ],
     "src:geom":"geonames",
@@ -46,7 +97,7 @@
         }
     ],
     "wof:id":1209018409,
-    "wof:lastmodified":1537700396,
+    "wof:lastmodified":1564310860,
     "wof:name":"Pocuvadlo",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

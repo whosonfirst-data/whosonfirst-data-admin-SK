@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:ces_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:epo_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:eus_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:fra_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:hun_x_preferred":[
+        "Terj\u00e9kfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:msa_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:nld_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:pol_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:ron_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0422\u0435\u0440\u044a\u044f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:spa_x_preferred":[
+        "Teriakovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0458\u0435\u0440\u0458\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0440\u0456\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Terjakovce",
+        "Teriakovce"
+    ],
+    "name:war_x_preferred":[
         "Teriakovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1226047463,
-    "wof:lastmodified":1537700346,
+    "wof:lastmodified":1564311516,
     "wof:name":"Teriakovce",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

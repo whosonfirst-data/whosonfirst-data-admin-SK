@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:ces_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:deu_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:epo_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:eus_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:fra_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyselmec"
+    ],
+    "name:ita_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:msa_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:nld_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:pol_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:ron_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:slk_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:spa_x_preferred":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u0428\u0442\u0458\u0430\u0432\u045a\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
+        "Liptovsk\u00e1 \u0160tiavnica"
+    ],
+    "name:war_x_preferred":[
         "Liptovsk\u00e1 \u0160tiavnica"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1259378825,
-    "wof:lastmodified":1537700408,
+    "wof:lastmodified":1564311411,
     "wof:name":"Liptovska Stiavnica",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

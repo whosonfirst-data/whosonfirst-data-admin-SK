@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3csernye"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cernina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u045a\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
+        "\u010cernina"
+    ],
+    "name:war_x_preferred":[
         "\u010cernina"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1293806545,
-    "wof:lastmodified":1537700374,
+    "wof:lastmodified":1564310738,
     "wof:name":"Cernina",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

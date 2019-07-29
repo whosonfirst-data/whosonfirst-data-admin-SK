@@ -25,9 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:epo_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151eszterg\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:ron_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:slk_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:spa_x_preferred":[
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0435 \u0421\u0442\u0440\u0445\u0430\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0435 \u0421\u0442\u0440\u0433\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Horn\u00ed Strh\u00e1ry",
         "Hornie Strh\u00e1ry",
+        "Horn\u00e9 Strh\u00e1re"
+    ],
+    "name:war_x_preferred":[
         "Horn\u00e9 Strh\u00e1re"
     ],
     "src:geom":"geonames",
@@ -54,7 +99,7 @@
         }
     ],
     "wof:id":1226765149,
-    "wof:lastmodified":1537700421,
+    "wof:lastmodified":1564311542,
     "wof:name":"Horne Strhare",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

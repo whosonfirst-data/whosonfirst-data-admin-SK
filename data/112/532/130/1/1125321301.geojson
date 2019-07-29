@@ -16,6 +16,93 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u062a\u0641\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0442\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Detva"
+    ],
+    "name:ceb_x_preferred":[
+        "Detva"
+    ],
+    "name:ces_x_preferred":[
+        "Detva"
+    ],
+    "name:deu_x_preferred":[
+        "Detva"
+    ],
+    "name:epo_x_preferred":[
+        "Detva"
+    ],
+    "name:eus_x_preferred":[
+        "Detva"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u062a\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Detva"
+    ],
+    "name:hrv_x_preferred":[
+        "Detva"
+    ],
+    "name:hun_x_preferred":[
+        "Gyetva"
+    ],
+    "name:ita_x_preferred":[
+        "Detva"
+    ],
+    "name:lav_x_preferred":[
+        "Detva"
+    ],
+    "name:lit_x_preferred":[
+        "Detva"
+    ],
+    "name:msa_x_preferred":[
+        "Detva"
+    ],
+    "name:nld_x_preferred":[
+        "Detva"
+    ],
+    "name:pol_x_preferred":[
+        "Detva"
+    ],
+    "name:ron_x_preferred":[
+        "Detva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0442\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Detva"
+    ],
+    "name:spa_x_preferred":[
+        "Detva"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0458\u0435\u0442\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Detva"
+    ],
+    "name:tur_x_preferred":[
+        "Detva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0442\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u062a\u0648\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Detva"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u7279\u74e6"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Detva",
@@ -63,7 +150,7 @@
         }
     ],
     "wof:id":1125321301,
-    "wof:lastmodified":1509388122,
+    "wof:lastmodified":1564311201,
     "wof:name":"Detva",
     "wof:parent_id":102080507,
     "wof:placetype":"localadmin",

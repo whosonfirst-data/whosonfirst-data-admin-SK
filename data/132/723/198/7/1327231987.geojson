@@ -25,7 +25,49 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:hun_x_preferred":[
+        "Kiskeresnye"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u041a\u0440\u0448\u0442\u0458\u0435\u045a\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
+        "Mal\u00e9 Kr\u0161te\u0148any"
+    ],
+    "name:war_x_preferred":[
         "Mal\u00e9 Kr\u0161te\u0148any"
     ],
     "src:geom":"geonames",
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1327231987,
-    "wof:lastmodified":1537700405,
+    "wof:lastmodified":1564310460,
     "wof:name":"Male Krstenany",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

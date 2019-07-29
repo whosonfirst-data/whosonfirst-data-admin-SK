@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:deu_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:epo_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:eus_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:fra_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:hun_x_preferred":[
+        "Hanusfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:msa_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:nld_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:pol_x_preferred":[
+        "Hanuszowce"
+    ],
+    "name:ron_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u043f\u0456\u0441\u044c\u043a\u0435 \u0413\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:spa_x_preferred":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0448\u043a\u0435 \u0425\u0430\u043d\u0443\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0438\u0441\u044c\u043a\u0456 \u0413\u0430\u043d\u0443\u0448\u0456\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
+        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
+    ],
+    "name:war_x_preferred":[
         "Spi\u0161sk\u00e9 Hanu\u0161ovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1343962975,
-    "wof:lastmodified":1537700349,
+    "wof:lastmodified":1564310539,
     "wof:name":"Spisske Hanusovce",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

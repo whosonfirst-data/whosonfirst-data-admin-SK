@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Socovce"
+    ],
+    "name:ces_x_preferred":[
+        "Socovce"
+    ],
+    "name:epo_x_preferred":[
+        "Socovce"
+    ],
+    "name:eus_x_preferred":[
+        "Socovce"
+    ],
+    "name:fra_x_preferred":[
+        "Socovce"
+    ],
+    "name:hun_x_preferred":[
+        "Szoc\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Socovce"
+    ],
+    "name:msa_x_preferred":[
+        "Socovce"
+    ],
+    "name:nld_x_preferred":[
+        "Socovce"
+    ],
+    "name:pol_x_preferred":[
+        "Socovce"
+    ],
+    "name:ron_x_preferred":[
+        "Socovce"
+    ],
+    "name:slk_x_preferred":[
+        "Socovce"
+    ],
+    "name:spa_x_preferred":[
+        "Socovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0446\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Socovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1309791301,
-    "wof:lastmodified":1537573591,
+    "wof:lastmodified":1564311146,
     "wof:name":"Socovce",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Slavnica"
+    ],
+    "name:ces_x_preferred":[
+        "Slavnica"
+    ],
+    "name:deu_x_preferred":[
+        "Slavnica"
+    ],
+    "name:epo_x_preferred":[
+        "Slavnica"
+    ],
+    "name:eus_x_preferred":[
+        "Slavnica"
+    ],
+    "name:fra_x_preferred":[
+        "Slavnica"
+    ],
+    "name:hun_x_preferred":[
+        "Szalonca"
+    ],
+    "name:ita_x_preferred":[
+        "Slavnica"
+    ],
+    "name:msa_x_preferred":[
+        "Slavnica"
+    ],
+    "name:nld_x_preferred":[
+        "Slavnica"
+    ],
+    "name:ron_x_preferred":[
+        "Slavnica"
+    ],
+    "name:slk_x_preferred":[
+        "Slavnica"
+    ],
+    "name:spa_x_preferred":[
+        "Slavnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043d\u0456\u0446\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Slavnica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1209949629,
-    "wof:lastmodified":1537573592,
+    "wof:lastmodified":1564310901,
     "wof:name":"Slavnica",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

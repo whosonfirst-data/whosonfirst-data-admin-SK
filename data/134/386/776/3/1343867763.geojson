@@ -25,9 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:epo_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:eus_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:fra_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:hun_x_preferred":[
+        "Velkenye"
+    ],
+    "name:ita_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:msa_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:nld_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:pol_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:ron_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:slk_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:spa_x_preferred":[
+        "Vlky\u0148a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u043a\u0438\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043b\u043a\u0438\u043d\u044f"
+    ],
     "name:und_x_variant":[
         "Velkenye",
         "Velky\u0148a",
+        "Vlky\u0148a"
+    ],
+    "name:war_x_preferred":[
         "Vlky\u0148a"
     ],
     "src:geom":"geonames",
@@ -54,7 +99,7 @@
         }
     ],
     "wof:id":1343867763,
-    "wof:lastmodified":1537700343,
+    "wof:lastmodified":1564310641,
     "wof:name":"Vlkyna",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

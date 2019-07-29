@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:epo_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:eus_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1nyav\u00f6lgy"
+    ],
+    "name:ita_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:ron_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:rue_x_preferred":[
+        "\u0414\u0443\u043f\u043b\u0456\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Dupl\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043f\u043b\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043f\u043b\u0438\u043d"
+    ],
     "name:und_x_variant":[
+        "Dupl\u00edn"
+    ],
+    "name:war_x_preferred":[
         "Dupl\u00edn"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1343266603,
-    "wof:lastmodified":1537700371,
+    "wof:lastmodified":1564310635,
     "wof:name":"Duplin",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

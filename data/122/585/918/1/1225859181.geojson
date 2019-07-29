@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:hun_x_preferred":[
+        "Nagydar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:spa_x_preferred":[
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u0414\u0440\u0430\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u0414\u0440\u0430\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Nagy-Dar\u00f3c",
+        "Ve\u013ek\u00e9 Dravce"
+    ],
+    "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Dravce"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1225859181,
-    "wof:lastmodified":1537700382,
+    "wof:lastmodified":1564311577,
     "wof:name":"Vel'ke Dravce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

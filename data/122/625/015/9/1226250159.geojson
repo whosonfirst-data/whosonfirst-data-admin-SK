@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bretka"
+    ],
+    "name:ces_x_preferred":[
+        "Bretka"
+    ],
+    "name:epo_x_preferred":[
+        "Bretka"
+    ],
+    "name:eus_x_preferred":[
+        "Bretka"
+    ],
+    "name:fra_x_preferred":[
+        "Bretka"
+    ],
+    "name:hun_x_preferred":[
+        "Beretke"
+    ],
+    "name:ita_x_preferred":[
+        "Bretka"
+    ],
+    "name:msa_x_preferred":[
+        "Bretka"
+    ],
+    "name:nld_x_preferred":[
+        "Bretka"
+    ],
+    "name:pol_x_preferred":[
+        "Bretka"
+    ],
+    "name:ron_x_preferred":[
+        "Bretka"
+    ],
+    "name:slk_x_preferred":[
+        "Bretka"
+    ],
+    "name:spa_x_preferred":[
+        "Bretka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0442\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0442\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Beretke",
+        "Bretka"
+    ],
+    "name:war_x_preferred":[
         "Bretka"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1226250159,
-    "wof:lastmodified":1537700375,
+    "wof:lastmodified":1564311537,
     "wof:name":"Bretka",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

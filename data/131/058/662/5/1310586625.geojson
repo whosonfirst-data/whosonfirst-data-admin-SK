@@ -53,6 +53,9 @@
     "name:epo_x_preferred":[
         "Le\u0161tiny"
     ],
+    "name:eus_x_preferred":[
+        "Le\u0161tiny"
+    ],
     "name:fin_x_preferred":[
         "Le\u0161tiny"
     ],
@@ -77,10 +80,16 @@
     "name:pol_x_preferred":[
         "Le\u0161tiny"
     ],
+    "name:ron_x_preferred":[
+        "Le\u0161tiny"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0438\u043d\u044b"
     ],
     "name:slk_x_preferred":[
+        "Le\u0161tiny"
+    ],
+    "name:spa_x_preferred":[
         "Le\u0161tiny"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1310586625,
-    "wof:lastmodified":1537700409,
+    "wof:lastmodified":1564311068,
     "wof:name":"Lestiny",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

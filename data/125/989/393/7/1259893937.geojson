@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:ces_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:epo_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:eus_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:fra_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:hun_x_preferred":[
+        "Gergelylaka"
+    ],
+    "name:ita_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:msa_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:nld_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:pol_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:ron_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0490\u0440\u0435\u0491\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:spa_x_preferred":[
+        "Gregorovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u0433\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0435\u0491\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Gergelyfalva",
+        "Gregorovce"
+    ],
+    "name:war_x_preferred":[
         "Gregorovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1259893937,
-    "wof:lastmodified":1537700370,
+    "wof:lastmodified":1564311472,
     "wof:name":"Gregorovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Brezov"
+    ],
+    "name:ces_x_preferred":[
+        "Brezov"
+    ],
+    "name:epo_x_preferred":[
+        "Brezov"
+    ],
+    "name:eus_x_preferred":[
+        "Brezov"
+    ],
+    "name:fra_x_preferred":[
+        "Brezov"
+    ],
+    "name:hun_x_preferred":[
+        "Ny\u00edrjes"
+    ],
+    "name:ita_x_preferred":[
+        "Brezov"
+    ],
+    "name:msa_x_preferred":[
+        "Brezov"
+    ],
+    "name:nld_x_preferred":[
+        "Brezov"
+    ],
+    "name:pol_x_preferred":[
+        "Brezov"
+    ],
+    "name:ron_x_preferred":[
+        "Brezov"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Brezov"
+    ],
+    "name:spa_x_preferred":[
+        "Brezov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Brezov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1259782563,
-    "wof:lastmodified":1537573584,
+    "wof:lastmodified":1564311439,
     "wof:name":"Brezov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

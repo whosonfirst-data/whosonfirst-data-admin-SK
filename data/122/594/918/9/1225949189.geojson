@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151feketepatak"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0458\u0435\u0440\u045a\u0435 \u043d\u0430 \u0422\u043e\u043f\u043b\u043e\u0458"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0454\u0440\u043d\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
+    ],
     "name:und_x_variant":[
         "\u010cern\u00e9",
+        "\u010cierne nad Top\u013eou"
+    ],
+    "name:war_x_preferred":[
         "\u010cierne nad Top\u013eou"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1225949189,
-    "wof:lastmodified":1537700373,
+    "wof:lastmodified":1564311480,
     "wof:name":"Cierne nad Topl'ou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

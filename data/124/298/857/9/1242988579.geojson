@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u017diar"
+    ],
+    "name:epo_x_preferred":[
+        "\u017diar"
+    ],
+    "name:eus_x_preferred":[
+        "\u017diar"
+    ],
+    "name:hun_x_preferred":[
+        "Zs\u00f3r"
+    ],
+    "name:ita_x_preferred":[
+        "\u017diar"
+    ],
+    "name:msa_x_preferred":[
+        "\u017diar"
+    ],
+    "name:nld_x_preferred":[
+        "\u017diar"
+    ],
+    "name:pol_x_preferred":[
+        "\u017diar"
+    ],
+    "name:ron_x_preferred":[
+        "\u017diar"
+    ],
+    "name:slk_x_preferred":[
+        "\u017diar"
+    ],
+    "name:spa_x_preferred":[
+        "\u017diar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0458\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u044c\u044f\u0440"
+    ],
     "name:und_x_variant":[
         "Zsor",
+        "\u017diar"
+    ],
+    "name:war_x_preferred":[
         "\u017diar"
     ],
     "src:geom":"geonames",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1242988579,
-    "wof:lastmodified":1537700339,
+    "wof:lastmodified":1564311370,
     "wof:name":"Ziar",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

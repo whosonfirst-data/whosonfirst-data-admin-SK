@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:ces_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:epo_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:eus_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:fra_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:hun_x_preferred":[
+        "Rokit\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:msa_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:nld_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:pol_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:ron_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0420\u043e\u043a\u044b\u0442\u0456\u0432\u0446\u0457"
+    ],
+    "name:slk_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:spa_x_preferred":[
+        "Rokytovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0442\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0442\u0456\u0432\u0446\u0456"
+    ],
+    "name:war_x_preferred":[
+        "Rokytovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1277079139,
-    "wof:lastmodified":1537573566,
+    "wof:lastmodified":1564310757,
     "wof:name":"Rokytovce",
     "wof:parent_id":102080617,
     "wof:placetype":"locality",

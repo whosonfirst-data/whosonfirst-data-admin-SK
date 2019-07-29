@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Voznica"
+    ],
+    "name:ces_x_preferred":[
+        "Voznica"
+    ],
+    "name:deu_x_preferred":[
+        "Voznica"
+    ],
+    "name:epo_x_preferred":[
+        "Voznica"
+    ],
+    "name:eus_x_preferred":[
+        "Voznica"
+    ],
+    "name:fra_x_preferred":[
+        "Voznica"
+    ],
+    "name:hun_x_preferred":[
+        "Garamr\u00e9v"
+    ],
+    "name:ita_x_preferred":[
+        "Voznica"
+    ],
+    "name:msa_x_preferred":[
+        "Voznica"
+    ],
+    "name:nld_x_preferred":[
+        "Voznica"
+    ],
+    "name:pol_x_preferred":[
+        "Voznica"
+    ],
+    "name:ron_x_preferred":[
+        "Voznica"
+    ],
+    "name:slk_x_preferred":[
+        "Voznica"
+    ],
+    "name:spa_x_preferred":[
+        "Voznica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0437\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Hvozdnica",
+        "Voznica"
+    ],
+    "name:war_x_preferred":[
         "Voznica"
     ],
     "src:geom":"geonames",
@@ -47,7 +98,7 @@
         }
     ],
     "wof:id":1209332159,
-    "wof:lastmodified":1537700380,
+    "wof:lastmodified":1564310911,
     "wof:name":"Voznica",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

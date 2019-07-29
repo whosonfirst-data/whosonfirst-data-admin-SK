@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:hun_x_preferred":[
+        "Kis\u00f6lved"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Ludince"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u041b\u0443\u0434\u0438\u043d\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Kis \u00d6lved",
+        "Mal\u00e9 Ludince"
+    ],
+    "name:war_x_preferred":[
         "Mal\u00e9 Ludince"
     ],
     "src:geom":"geonames",
@@ -47,7 +89,7 @@
         }
     ],
     "wof:id":1209247647,
-    "wof:lastmodified":1537700405,
+    "wof:lastmodified":1564310877,
     "wof:name":"Male Ludince",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

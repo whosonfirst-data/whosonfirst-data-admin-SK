@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:ces_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:deu_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:epo_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:eus_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:fra_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:hun_x_preferred":[
+        "Vaszil\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:msa_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:nld_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:pol_x_preferred":[
+        "Wasyl\u00f3w"
+    ],
+    "name:ron_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:slk_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:spa_x_preferred":[
+        "Vasi\u013eov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u0459\u043e\u0432"
+    ],
     "name:und_x_variant":[
+        "Vasi\u013eov"
+    ],
+    "name:war_x_preferred":[
         "Vasi\u013eov"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1259368575,
-    "wof:lastmodified":1537700383,
+    "wof:lastmodified":1564311400,
     "wof:name":"Vasil'ov",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

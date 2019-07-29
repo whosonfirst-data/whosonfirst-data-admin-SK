@@ -18,6 +18,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:hun_x_preferred":[
+        "Zsebes"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:nor_x_preferred":[
+        "\u0160ebastovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u0431\u0430\u0441\u0442\u043e\u0432\u0446\u0435"
+    ],
     "name:unk_x_variant":[
         "\u017debe\u0161"
     ],
@@ -44,10 +74,10 @@
     "woe:name_adm1":"Kosicky",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688359,
         102191581,
         85633769,
-        102080535,
-        85688359
+        102080535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1126086077,
-    "wof:lastmodified":1509411407,
+    "wof:lastmodified":1564311266,
     "wof:name":"\u0160ebastovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:ces_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:deu_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:epo_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:eus_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:fra_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:hun_x_preferred":[
+        "Dombsz\u00f6g"
+    ],
+    "name:ita_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:msa_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:nld_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:pol_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:ron_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:slk_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:spa_x_preferred":[
+        "Sto\u017eok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u043e\u043a"
+    ],
     "name:und_x_variant":[
+        "Sto\u017eok"
+    ],
+    "name:war_x_preferred":[
         "Sto\u017eok"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1226655575,
-    "wof:lastmodified":1537700389,
+    "wof:lastmodified":1564311559,
     "wof:name":"Stozok",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

@@ -25,6 +25,105 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Senitsa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043d\u0456\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Senica"
+    ],
+    "name:ceb_x_preferred":[
+        "Senica"
+    ],
+    "name:ces_x_preferred":[
+        "Senica"
+    ],
+    "name:dan_x_preferred":[
+        "Senica"
+    ],
+    "name:deu_x_preferred":[
+        "Senica"
+    ],
+    "name:epo_x_preferred":[
+        "Senica"
+    ],
+    "name:eus_x_preferred":[
+        "Senica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Senica"
+    ],
+    "name:hrv_x_preferred":[
+        "Senica"
+    ],
+    "name:hun_x_preferred":[
+        "Szenice"
+    ],
+    "name:ind_x_preferred":[
+        "Senica"
+    ],
+    "name:ita_x_preferred":[
+        "Senica"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ub2c8\ucc28"
+    ],
+    "name:lav_x_preferred":[
+        "Senica"
+    ],
+    "name:lit_x_preferred":[
+        "Senica"
+    ],
+    "name:msa_x_preferred":[
+        "Senica"
+    ],
+    "name:nld_x_preferred":[
+        "Senica"
+    ],
+    "name:pol_x_preferred":[
+        "Senica"
+    ],
+    "name:por_x_preferred":[
+        "Senica"
+    ],
+    "name:ron_x_preferred":[
+        "Senica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Senica"
+    ],
+    "name:spa_x_preferred":[
+        "Senica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u045a\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Senica"
+    ],
+    "name:tur_x_preferred":[
+        "Senica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Senica"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5c3c\u5bdf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +147,7 @@
         }
     ],
     "wof:id":1326947935,
-    "wof:lastmodified":1536881498,
+    "wof:lastmodified":1564310439,
     "wof:name":"Senica",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

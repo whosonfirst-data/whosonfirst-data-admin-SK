@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:ces_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:deu_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:epo_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:eus_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:fra_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:hun_x_preferred":[
+        "Gn\u00e9zda"
+    ],
+    "name:ita_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:msa_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:nld_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:pol_x_preferred":[
+        "Gniazda"
+    ],
+    "name:ron_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u043d\u0457\u0437\u0434\u043d\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:spa_x_preferred":[
+        "Hniezdne"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u045a\u0435\u0437\u0434\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043d\u0454\u0437\u0434\u043d\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Hniezdne"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hniezdne",
@@ -63,7 +117,7 @@
         }
     ],
     "wof:id":1125370263,
-    "wof:lastmodified":1509389302,
+    "wof:lastmodified":1564311241,
     "wof:name":"Hniezdne",
     "wof:parent_id":102080611,
     "wof:placetype":"localadmin",

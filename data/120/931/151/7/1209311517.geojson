@@ -25,10 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:ces_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:deu_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:epo_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:eus_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151z\u00e9lle"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:ron_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:slk_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:spa_x_preferred":[
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0435 \u0417\u0435\u0459\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0435 \u0417\u0435\u043b\u0435\u043d\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Zelenice",
         "Horn\u00ed-Zelenice",
         "Hornie Zelenice",
+        "Horn\u00e9 Zelenice"
+    ],
+    "name:war_x_preferred":[
         "Horn\u00e9 Zelenice"
     ],
     "src:geom":"geonames",
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1209311517,
-    "wof:lastmodified":1537700420,
+    "wof:lastmodified":1564310842,
     "wof:name":"Horne Zelenice",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

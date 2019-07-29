@@ -25,6 +25,45 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Brenner"
+    ],
+    "name:deu_x_preferred":[
+        "Brenner"
+    ],
+    "name:fin_x_preferred":[
+        "Brenner"
+    ],
+    "name:fra_x_preferred":[
+        "Brenner"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e0\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Brenner"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30ca\u30fc"
+    ],
+    "name:por_x_preferred":[
+        "Brenner"
+    ],
+    "name:ron_x_preferred":[
+        "Brenner"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u043d\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Brenner"
+    ],
+    "name:swe_x_preferred":[
+        "Brenner"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u043d\u0435\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633769
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209518625,
-    "wof:lastmodified":1536284651,
+    "wof:lastmodified":1564310906,
     "wof:name":"Brenner",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

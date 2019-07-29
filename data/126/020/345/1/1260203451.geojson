@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Tur\u00f3ckelemenfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:slk_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0459\u0430\u043c\u0435\u043d\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
+        "Ka\u013eamenov\u00e1"
+    ],
+    "name:war_x_preferred":[
         "Ka\u013eamenov\u00e1"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1260203451,
-    "wof:lastmodified":1537700415,
+    "wof:lastmodified":1564310985,
     "wof:name":"Kal'amenova",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

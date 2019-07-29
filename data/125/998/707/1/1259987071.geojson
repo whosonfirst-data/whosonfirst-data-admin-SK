@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:epo_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:eus_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:fra_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:hun_x_preferred":[
+        "Gecelfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:msa_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:nld_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:pol_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:ron_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:slk_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:spa_x_preferred":[
+        "Koce\u013eovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0446\u0435\u0459\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0446\u0435\u043b\u044c\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Gecelovce",
+        "Koce\u013eovce"
+    ],
+    "name:war_x_preferred":[
         "Koce\u013eovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1259987071,
-    "wof:lastmodified":1537700365,
+    "wof:lastmodified":1564311404,
     "wof:name":"Kocel'ovce",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

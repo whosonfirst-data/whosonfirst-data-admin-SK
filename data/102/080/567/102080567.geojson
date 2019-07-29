@@ -22,8 +22,134 @@
     "mps:longitude":19.244126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062c\u0648\u0645\u0628\u064a\u0631\u0648\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Rujomberok"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0436\u0430\u043c\u0431\u0435\u0440\u0430\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ceb_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ces_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:dan_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:deu_x_preferred":[
+        "Ru\u017eomberok"
+    ],
     "name:eng_x_preferred":[
         "Ruzomberok"
+    ],
+    "name:epo_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:est_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:eus_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0698\u0645\u0628\u0631\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:fra_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:frr_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:hrv_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00f3zsahegy"
+    ],
+    "name:ile_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ind_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ita_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30b8\u30e7\u30e0\u30d9\u30ed\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc880\ubca0\ub85c\ud06c"
+    ],
+    "name:lav_x_preferred":[
+        "Ru\u017eomberoka"
+    ],
+    "name:lim_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:lit_x_preferred":[
+        "Ru\u017eomberokas"
+    ],
+    "name:msa_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:nld_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:nor_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:pol_x_preferred":[
+        "Ru\u017comberk"
+    ],
+    "name:por_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ron_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:spa_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:szl_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:tur_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Ru\u017eomberok"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u5bb9\u8d1d\u7f57\u514b"
     ],
     "qs:a0":"Slovensko",
     "qs:a0_lc":"SK000000000",
@@ -72,7 +198,7 @@
         }
     ],
     "wof:id":102080567,
-    "wof:lastmodified":1553717230,
+    "wof:lastmodified":1564310521,
     "wof:name":"Ru\u017eomberok",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

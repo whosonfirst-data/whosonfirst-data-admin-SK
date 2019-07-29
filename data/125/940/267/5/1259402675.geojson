@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:ces_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:epo_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:eus_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:fra_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:hun_x_preferred":[
+        "Tur\u00f3cbal\u00e1zsfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:msa_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:nld_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:pol_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:ron_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:slk_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:spa_x_preferred":[
+        "Bla\u017eovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0436\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Bl\u00e1\u017eovce"
+    ],
+    "name:war_x_preferred":[
+        "Bla\u017eovce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1259402675,
-    "wof:lastmodified":1537700436,
+    "wof:lastmodified":1564311436,
     "wof:name":"Blazovce",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

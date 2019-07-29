@@ -25,6 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lenartov"
+    ],
+    "name:ces_x_preferred":[
+        "Lenartov"
+    ],
+    "name:deu_x_preferred":[
+        "Lenartov"
+    ],
+    "name:epo_x_preferred":[
+        "Lenartov"
+    ],
+    "name:eus_x_preferred":[
+        "Lenartov"
+    ],
+    "name:fra_x_preferred":[
+        "Lenartov"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e9n\u00e1rt\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Lenartov"
+    ],
+    "name:msa_x_preferred":[
+        "Lenartov"
+    ],
+    "name:nld_x_preferred":[
+        "Lenartov"
+    ],
+    "name:pol_x_preferred":[
+        "Lenartov"
+    ],
+    "name:ron_x_preferred":[
+        "Lenartov"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0440\u0442\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Lenartov"
+    ],
+    "name:spa_x_preferred":[
+        "Lenartov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u043d\u0430\u0440\u0442\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0440\u0442\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Lenartov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +103,7 @@
         }
     ],
     "wof:id":1309905083,
-    "wof:lastmodified":1537573574,
+    "wof:lastmodified":1564311141,
     "wof:name":"Lenartov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

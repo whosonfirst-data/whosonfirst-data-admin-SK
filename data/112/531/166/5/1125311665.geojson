@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Terna"
+    ],
+    "name:ita_x_preferred":[
+        "Terna"
+    ],
     "name:unk_x_variant":[
         "Ter\u0148a"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1125311665,
-    "wof:lastmodified":1509387904,
+    "wof:lastmodified":1564311259,
     "wof:name":"Terna",
     "wof:parent_id":102080591,
     "wof:placetype":"localadmin",

@@ -25,11 +25,26 @@
     "name:aze_x_preferred":[
         "M\u0430l\u0430tski"
     ],
+    "name:aze_x_variant":[
+        "Malatski"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0446\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0446\u043a\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Malacky"
+    ],
+    "name:ceb_x_preferred":[
+        "Malacky"
+    ],
+    "name:ces_x_preferred":[
+        "Malacky"
     ],
     "name:deu_x_preferred":[
         "Malacky"
@@ -37,19 +52,49 @@
     "name:eng_x_preferred":[
         "Malacky"
     ],
+    "name:epo_x_preferred":[
+        "Malacky"
+    ],
+    "name:eus_x_preferred":[
+        "Malacky"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0627\u062a\u0633\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Malacky"
     ],
     "name:hbs_x_preferred":[
         "Malacki"
     ],
+    "name:hrv_x_preferred":[
+        "Malacky"
+    ],
     "name:hun_x_preferred":[
         "Malacka"
+    ],
+    "name:ita_x_preferred":[
+        "Malacky"
+    ],
+    "name:lav_x_preferred":[
+        "Malacki"
+    ],
+    "name:lit_x_preferred":[
+        "Malackai"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Malacky"
+    ],
+    "name:nld_x_preferred":[
+        "Malacky"
+    ],
     "name:pol_x_preferred":[
+        "Malacky"
+    ],
+    "name:por_x_preferred":[
         "Malacky"
     ],
     "name:ron_x_preferred":[
@@ -61,11 +106,26 @@
     "name:slk_x_preferred":[
         "Malacky"
     ],
+    "name:spa_x_preferred":[
+        "Malacky"
+    ],
     "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Malacky"
+    ],
+    "name:tur_x_preferred":[
+        "Malacky"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
     "name:unk_x_variant":[
         "Malacke"
+    ],
+    "name:war_x_preferred":[
+        "Malacky"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u8328\u57fa"
@@ -122,7 +182,7 @@
         }
     ],
     "wof:id":1125296157,
-    "wof:lastmodified":1509387628,
+    "wof:lastmodified":1564311230,
     "wof:name":"Malacky",
     "wof:parent_id":102080487,
     "wof:placetype":"localadmin",

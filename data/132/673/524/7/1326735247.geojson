@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:ces_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:epo_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:eus_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:fra_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:hun_x_preferred":[
+        "Rab\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:msa_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:nld_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:pol_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:ron_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:spa_x_preferred":[
+        "Hrabovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0431\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u0435\u0446"
+    ],
+    "name:war_x_preferred":[
+        "Hrabovec"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1326735247,
-    "wof:lastmodified":1537573579,
+    "wof:lastmodified":1564310435,
     "wof:name":"Hrabovec",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

@@ -25,7 +25,49 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:ces_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:deu_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:epo_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:eus_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitran\u00e9meti"
+    ],
+    "name:ita_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:msa_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:nld_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:ron_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:slk_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:spa_x_preferred":[
+        "Nem\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u043c\u0447\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Nem\u010dice"
+    ],
+    "name:war_x_preferred":[
         "Nem\u010dice"
     ],
     "src:geom":"geonames",
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1226078339,
-    "wof:lastmodified":1537700400,
+    "wof:lastmodified":1564311570,
     "wof:name":"Nemcice",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

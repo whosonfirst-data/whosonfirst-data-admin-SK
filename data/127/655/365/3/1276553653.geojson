@@ -25,6 +25,33 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kopanica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kopanica"
+    ],
+    "name:fra_x_preferred":[
+        "Kopanica"
+    ],
+    "name:lit_x_preferred":[
+        "Kopanica"
+    ],
+    "name:pol_x_preferred":[
+        "Kopanica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kopanica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Dvor Kopanica",
         "Kopanica"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1276553653,
-    "wof:lastmodified":1537700413,
+    "wof:lastmodified":1564310822,
     "wof:name":"Kopanica",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

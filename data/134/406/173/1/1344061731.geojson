@@ -25,6 +25,57 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:ces_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:deu_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:epo_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:eus_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:fra_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f6r\u00f6ginye"
+    ],
+    "name:ita_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:msa_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:nld_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:pol_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:ron_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:slk_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:spa_x_preferred":[
+        "Ohradzany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0445\u0440\u0430\u0434\u0437\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u0440\u0430\u0434\u0437\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Ohradzany"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +100,7 @@
         }
     ],
     "wof:id":1344061731,
-    "wof:lastmodified":1537573570,
+    "wof:lastmodified":1564310558,
     "wof:name":"Ohradzany",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

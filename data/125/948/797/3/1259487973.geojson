@@ -25,6 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Torysky"
+    ],
+    "name:ces_x_preferred":[
+        "Torysky"
+    ],
+    "name:deu_x_preferred":[
+        "Torysky"
+    ],
+    "name:epo_x_preferred":[
+        "Torysky"
+    ],
+    "name:eus_x_preferred":[
+        "Torysky"
+    ],
+    "name:fra_x_preferred":[
+        "Torysky"
+    ],
+    "name:hun_x_preferred":[
+        "Tarcaf\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Torysky"
+    ],
+    "name:msa_x_preferred":[
+        "Torysky"
+    ],
+    "name:nld_x_preferred":[
+        "Torysky"
+    ],
+    "name:pol_x_preferred":[
+        "Torysky"
+    ],
+    "name:ron_x_preferred":[
+        "Torysky"
+    ],
+    "name:rue_x_preferred":[
+        "\u0422\u043e\u0440\u0456\u0441\u043a\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Torysky"
+    ],
+    "name:spa_x_preferred":[
+        "Torysky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u0441\u043a\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Torysky"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +103,7 @@
         }
     ],
     "wof:id":1259487973,
-    "wof:lastmodified":1537573562,
+    "wof:lastmodified":1564311420,
     "wof:name":"Torysky",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

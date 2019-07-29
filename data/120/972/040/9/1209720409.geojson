@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:ces_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:epo_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:eus_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:fra_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Krucs\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:msa_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:nld_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:ron_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u044b\u0448\u043d\u0457\u0439 \u041a\u0440\u0443\u0447\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:spa_x_preferred":[
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0438 \u041a\u0440\u0443\u0447\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0456\u0439 \u041a\u0440\u0443\u0447\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Kru\u010dov",
+        "Vy\u0161n\u00fd Kru\u010dov"
+    ],
+    "name:war_x_preferred":[
         "Vy\u0161n\u00fd Kru\u010dov"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1209720409,
-    "wof:lastmodified":1537700341,
+    "wof:lastmodified":1564310933,
     "wof:name":"Vysny Krucov",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kysak"
+    ],
+    "name:ces_x_preferred":[
+        "Kysak"
+    ],
+    "name:deu_x_preferred":[
+        "Kysak"
+    ],
+    "name:epo_x_preferred":[
+        "Kysak"
+    ],
+    "name:eus_x_preferred":[
+        "Kysak"
+    ],
+    "name:fra_x_preferred":[
+        "Kysak"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e1rosk\u0151szeg"
+    ],
+    "name:ita_x_preferred":[
+        "Kysak"
+    ],
+    "name:msa_x_preferred":[
+        "Kysak"
+    ],
+    "name:nld_x_preferred":[
+        "Kysak"
+    ],
+    "name:pol_x_preferred":[
+        "Kysak"
+    ],
+    "name:ron_x_preferred":[
+        "Kysak"
+    ],
+    "name:slk_x_preferred":[
+        "Kysak"
+    ],
+    "name:spa_x_preferred":[
+        "Kysak"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0441\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0430\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Kysak"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kysak",
@@ -63,7 +114,7 @@
         }
     ],
     "wof:id":1125281633,
-    "wof:lastmodified":1509387307,
+    "wof:lastmodified":1564311212,
     "wof:name":"Kysak",
     "wof:parent_id":102080533,
     "wof:placetype":"localadmin",

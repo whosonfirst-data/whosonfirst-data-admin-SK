@@ -25,7 +25,52 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:hun_x_preferred":[
+        "Kisvezek\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u0412\u043e\u0437\u043e\u043a\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u0412\u043e\u0437\u043e\u043a\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
+        "Mal\u00e9 Vozokany"
+    ],
+    "name:war_x_preferred":[
         "Mal\u00e9 Vozokany"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1259607307,
-    "wof:lastmodified":1537700404,
+    "wof:lastmodified":1564311461,
     "wof:name":"Male Vozokany",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

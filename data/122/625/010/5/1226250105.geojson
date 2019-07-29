@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:epo_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:eus_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:hun_x_preferred":[
+        "Zsarn\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:msa_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:nld_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:pol_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:ron_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:slk_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:spa_x_preferred":[
+        "\u017darnov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u0440\u043d\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u0440\u043d\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Zsarn\u00f3",
+        "\u017darnov"
+    ],
+    "name:war_x_preferred":[
         "\u017darnov"
     ],
     "src:geom":"geonames",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1226250105,
-    "wof:lastmodified":1537700340,
+    "wof:lastmodified":1564311538,
     "wof:name":"Zarnov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

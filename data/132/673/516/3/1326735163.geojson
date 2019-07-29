@@ -25,7 +25,61 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:ces_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:deu_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:epo_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:eus_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:fra_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0151telep"
+    ],
+    "name:ita_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:msa_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:nld_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:pol_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:ron_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0443\u0436\u043b\u0451\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:spa_x_preferred":[
+        "Kru\u017elov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0443\u0436\u043b\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u0436\u043b\u043e\u0432"
+    ],
     "name:und_x_variant":[
+        "Kru\u017elov"
+    ],
+    "name:war_x_preferred":[
         "Kru\u017elov"
     ],
     "src:geom":"geonames",
@@ -52,7 +106,7 @@
         }
     ],
     "wof:id":1326735163,
-    "wof:lastmodified":1537700363,
+    "wof:lastmodified":1564310434,
     "wof:name":"Kruzlov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:hun_x_preferred":[
+        "Nagykeszi"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:spa_x_preferred":[
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u041a\u043e\u0441\u0438\u0445\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u041a\u043e\u0441\u0456\u0433\u0438"
+    ],
     "name:und_x_variant":[
         "Nagy-Keszi",
+        "Ve\u013ek\u00e9 Kosihy"
+    ],
+    "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Kosihy"
     ],
     "src:geom":"geonames",
@@ -47,7 +95,7 @@
         }
     ],
     "wof:id":1209516313,
-    "wof:lastmodified":1537700382,
+    "wof:lastmodified":1564310906,
     "wof:name":"Vel'ke Kosihy",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

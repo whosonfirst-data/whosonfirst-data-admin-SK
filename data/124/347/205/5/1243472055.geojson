@@ -25,6 +25,12 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bobek"
+    ],
+    "name:slv_x_preferred":[
+        "Bobek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243472055,
-    "wof:lastmodified":1536769103,
+    "wof:lastmodified":1564311349,
     "wof:name":"Bobek",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

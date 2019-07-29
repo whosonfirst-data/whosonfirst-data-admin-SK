@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajlacska"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0459\u0435 \u0417\u0430\u043b\u0443\u0436\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "Ujla\u010dek",
+        "Mal\u00e9 Z\u00e1lu\u017eie"
+    ],
+    "name:war_x_preferred":[
         "Mal\u00e9 Z\u00e1lu\u017eie"
     ],
     "src:geom":"geonames",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1242778315,
-    "wof:lastmodified":1537700404,
+    "wof:lastmodified":1564311363,
     "wof:name":"Male Zaluzie",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

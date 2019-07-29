@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:epo_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:eus_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:fra_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:hun_x_preferred":[
+        "Tornahorv\u00e1ti"
+    ],
+    "name:ita_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:msa_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:nld_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:pol_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:ron_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:slk_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:spa_x_preferred":[
+        "Chorv\u00e1ty"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Horv\u00e1ty",
+        "Chorv\u00e1ty"
+    ],
+    "name:war_x_preferred":[
         "Chorv\u00e1ty"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1242589123,
-    "wof:lastmodified":1537700373,
+    "wof:lastmodified":1564311338,
     "wof:name":"Chorvaty",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

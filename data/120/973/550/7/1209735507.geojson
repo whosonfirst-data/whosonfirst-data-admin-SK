@@ -25,9 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Erd\u0151tka"
+    ],
+    "name:ita_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Orawska Le\u015bna"
+    ],
+    "name:ron_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:slk_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0432\u0441\u043a\u0430 \u0409\u0435\u0441\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Erd\u00fatka",
         "Erd\u00fadka",
+        "Oravsk\u00e1 Lesn\u00e1"
+    ],
+    "name:war_x_preferred":[
         "Oravsk\u00e1 Lesn\u00e1"
     ],
     "src:geom":"geonames",
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1209735507,
-    "wof:lastmodified":1537700398,
+    "wof:lastmodified":1564310916,
     "wof:name":"Oravska Lesna",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

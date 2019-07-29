@@ -25,6 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rakovec"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Rakovec"
+    ],
+    "name:ces_x_preferred":[
+        "Rakovec"
+    ],
+    "name:deu_x_preferred":[
+        "Rakowez"
+    ],
+    "name:fra_x_preferred":[
+        "Rakovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Rakovec"
+    ],
+    "name:hun_x_preferred":[
+        "Rakovec"
+    ],
+    "name:nld_x_preferred":[
+        "Rakovec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Rakovec"
+    ],
+    "name:slv_x_preferred":[
+        "Rakovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Rakovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1226048557,
-    "wof:lastmodified":1536721413,
+    "wof:lastmodified":1564311518,
     "wof:name":"Rakovec",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

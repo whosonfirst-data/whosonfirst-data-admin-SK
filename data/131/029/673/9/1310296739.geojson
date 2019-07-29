@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:ces_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:deu_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:epo_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:eus_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:fra_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:hun_x_preferred":[
+        "Har\u00e1dics"
+    ],
+    "name:ita_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:msa_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:nld_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:por_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:ron_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:slk_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:spa_x_preferred":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0434\u0438\u0448\u0442\u0435 \u043f\u043e\u0434 \u0412\u0440\u0430\u0442\u043d\u043e\u043c"
+    ],
     "name:und_x_variant":[
+        "Hradi\u0161te pod Vr\u00e1tnom"
+    ],
+    "name:war_x_preferred":[
         "Hradi\u0161te pod Vr\u00e1tnom"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1310296739,
-    "wof:lastmodified":1537700418,
+    "wof:lastmodified":1564311045,
     "wof:name":"Hradiste pod Vratnom",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bruty"
+    ],
+    "name:ces_x_preferred":[
+        "Bruty"
+    ],
+    "name:epo_x_preferred":[
+        "Bruty"
+    ],
+    "name:eus_x_preferred":[
+        "Bruty"
+    ],
+    "name:fra_x_preferred":[
+        "Bruty"
+    ],
+    "name:hun_x_preferred":[
+        "Bart"
+    ],
+    "name:ita_x_preferred":[
+        "Bruty"
+    ],
+    "name:msa_x_preferred":[
+        "Bruty"
+    ],
+    "name:nld_x_preferred":[
+        "Bruty"
+    ],
+    "name:ron_x_preferred":[
+        "Bruty"
+    ],
+    "name:slk_x_preferred":[
+        "Bruty"
+    ],
+    "name:spa_x_preferred":[
+        "Bruty"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0443\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Bart",
+        "Bruty"
+    ],
+    "name:war_x_preferred":[
         "Bruty"
     ],
     "src:geom":"geonames",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1226448653,
-    "wof:lastmodified":1537700435,
+    "wof:lastmodified":1564311492,
     "wof:name":"Bruty",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

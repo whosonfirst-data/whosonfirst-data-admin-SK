@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:ces_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:epo_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:eus_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:fra_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitratesz\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:msa_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:nld_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:ron_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:slk_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:spa_x_preferred":[
+        "Tes\u00e1re"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0458\u0435\u0441\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Tes\u00e1ry",
+        "Tes\u00e1re"
+    ],
+    "name:war_x_preferred":[
         "Tes\u00e1re"
     ],
     "src:geom":"geonames",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1292903837,
-    "wof:lastmodified":1537700385,
+    "wof:lastmodified":1564310718,
     "wof:name":"Tesare",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

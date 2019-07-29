@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:ces_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:epo_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:eus_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:fra_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:hun_x_preferred":[
+        "Visny\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:msa_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:nld_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:pol_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:ron_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:slk_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:spa_x_preferred":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u045a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0448\u043d\u044c\u043e\u0432"
+    ],
     "name:und_x_variant":[
+        "Vi\u0161\u0148ov"
+    ],
+    "name:war_x_preferred":[
         "Vi\u0161\u0148ov"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1293489599,
-    "wof:lastmodified":1537700343,
+    "wof:lastmodified":1564310675,
     "wof:name":"Visnov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

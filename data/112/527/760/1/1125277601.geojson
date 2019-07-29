@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Papradno"
+    ],
+    "name:ces_x_preferred":[
+        "Papradno"
+    ],
+    "name:deu_x_preferred":[
+        "Papradno"
+    ],
+    "name:epo_x_preferred":[
+        "Papradno"
+    ],
+    "name:eus_x_preferred":[
+        "Papradno"
+    ],
+    "name:fra_x_preferred":[
+        "Papradno"
+    ],
+    "name:hun_x_preferred":[
+        "Kos\u00e1rfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Papradno"
+    ],
+    "name:msa_x_preferred":[
+        "Papradno"
+    ],
+    "name:nld_x_preferred":[
+        "Papradno"
+    ],
+    "name:ron_x_preferred":[
+        "Papradno"
+    ],
+    "name:slk_x_preferred":[
+        "Papradno"
+    ],
+    "name:spa_x_preferred":[
+        "Papradno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043f\u0440\u0430\u0434\u043d\u043e"
+    ],
+    "name:war_x_preferred":[
+        "Papradno"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Papradno",
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1125277601,
-    "wof:lastmodified":1509387192,
+    "wof:lastmodified":1564311222,
     "wof:name":"Papradno",
     "wof:parent_id":102080575,
     "wof:placetype":"localadmin",

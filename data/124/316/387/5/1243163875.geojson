@@ -25,6 +25,12 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Pusta Ves"
+    ],
+    "name:slk_x_preferred":[
+        "Pust\u00e1 Ves"
+    ],
     "name:und_x_variant":[
         "Pust\u00e1 Ves"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243163875,
-    "wof:lastmodified":1537700394,
+    "wof:lastmodified":1564311387,
     "wof:name":"Pusta Ves",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:ces_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:deu_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:epo_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:eus_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:fra_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:hun_x_preferred":[
+        "Juh\u00e1szi"
+    ],
+    "name:ita_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:msa_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:nld_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:pol_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:ron_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:slk_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:spa_x_preferred":[
+        "Ov\u010diarsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0432\u0447\u0458\u0430\u0440\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
+        "Ov\u010diarsko"
+    ],
+    "name:war_x_preferred":[
         "Ov\u010diarsko"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1343259589,
-    "wof:lastmodified":1537700397,
+    "wof:lastmodified":1564310585,
     "wof:name":"Ovciarsko",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

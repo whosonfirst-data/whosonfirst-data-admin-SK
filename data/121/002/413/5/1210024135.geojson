@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:ces_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:epo_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:eus_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:fra_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e1rosremete"
+    ],
+    "name:ita_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:msa_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:nld_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:pol_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:ron_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u044b \u0420\u0435\u043c\u0435\u0442\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:spa_x_preferred":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u045a\u0435 \u0420\u0435\u043c\u0435\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0435 \u0420\u0435\u043c\u0435\u0442\u0438"
+    ],
     "name:und_x_variant":[
+        "Blatn\u00e9 Remety"
+    ],
+    "name:war_x_preferred":[
         "Blatn\u00e9 Remety"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1210024135,
-    "wof:lastmodified":1537700375,
+    "wof:lastmodified":1564310940,
     "wof:name":"Blatne Remety",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

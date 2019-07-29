@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:ces_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:deu_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:epo_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:eus_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:fra_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:hun_x_preferred":[
+        "Adam\u00f3ckohan\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:msa_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:nld_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:pol_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:ron_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:slk_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:spa_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0434\u0430\u043c\u043e\u0432\u0441\u043a\u0435 \u041a\u043e\u0445\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Adamovsk\u00e9 Kochanovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1259989607,
-    "wof:lastmodified":1537573602,
+    "wof:lastmodified":1564311406,
     "wof:name":"Adamovske Kochanovce",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

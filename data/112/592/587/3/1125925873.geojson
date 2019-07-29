@@ -43,6 +43,9 @@
     "name:hun_x_preferred":[
         "Lucski"
     ],
+    "name:hun_x_variant":[
+        "L\u00fa\u010dky"
+    ],
     "name:ita_x_preferred":[
         "L\u00fa\u010dky"
     ],
@@ -62,6 +65,9 @@
         "L\u00fa\u010dky"
     ],
     "name:srp_x_preferred":[
+        "\u041b\u0443\u0447\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u041b\u0443\u0447\u043a\u0438"
     ],
     "name:war_x_preferred":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1125925873,
-    "wof:lastmodified":1509401084,
+    "wof:lastmodified":1564311180,
     "wof:name":"L\u00fa\u010dky",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

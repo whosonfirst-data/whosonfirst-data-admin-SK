@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:ces_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:epo_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:eus_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:fra_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:hun_x_preferred":[
+        "Seny\u00e9k"
+    ],
+    "name:ita_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:msa_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:nld_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:pol_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:ron_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0435\u043d\u044c\u044f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:spa_x_preferred":[
+        "Seniakovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u045a\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u044f\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Se\u0148akovce",
+        "Seniakovce"
+    ],
+    "name:war_x_preferred":[
         "Seniakovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1292999899,
-    "wof:lastmodified":1537700350,
+    "wof:lastmodified":1564310722,
     "wof:name":"Seniakovce",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

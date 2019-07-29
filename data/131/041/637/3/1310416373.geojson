@@ -24,8 +24,62 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:ces_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:epo_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:eus_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:fra_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:hun_x_preferred":[
+        "Ladom\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:msa_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:nld_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:pol_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:ron_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0430\u0434\u043e\u043c\u0438\u0440\u0456\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0434\u043e\u043c\u0438\u0440\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:spa_x_preferred":[
+        "Ladomirov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0434\u043e\u043c\u0438\u0440\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0434\u043e\u043c\u0438\u0440\u0456\u0432"
+    ],
     "name:und_x_variant":[
         "Ladomirov\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Ladomirov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +105,7 @@
         }
     ],
     "wof:id":1310416373,
-    "wof:lastmodified":1537700362,
+    "wof:lastmodified":1564311006,
     "wof:name":"Ladomirov",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

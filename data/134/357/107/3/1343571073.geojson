@@ -25,6 +25,60 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:eus_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajsz\u00e9k"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0456\u0446\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:spa_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0421\u0435\u0434\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0421\u0435\u0434\u043b\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Nov\u00e1 Sedlica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +103,7 @@
         }
     ],
     "wof:id":1343571073,
-    "wof:lastmodified":1537573570,
+    "wof:lastmodified":1564310597,
     "wof:name":"Nova Sedlica",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

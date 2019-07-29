@@ -25,7 +25,55 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:ces_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:epo_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:eus_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:fra_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:hun_x_preferred":[
+        "Nyitran\u00e1das"
+    ],
+    "name:ita_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:msa_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:nld_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:ron_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:slk_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:spa_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u0434\u0430\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:tgl_x_preferred":[
+        "Neda\u0161ovce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0434\u0430\u0448\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Neda\u0161ovce"
+    ],
+    "name:war_x_preferred":[
         "Neda\u0161ovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1193161179,
-    "wof:lastmodified":1537700400,
+    "wof:lastmodified":1564310967,
     "wof:name":"Nedasovce",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Zitna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259684269,
-    "wof:lastmodified":1537063085,
+    "wof:lastmodified":1564311451,
     "wof:name":"Zitna",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

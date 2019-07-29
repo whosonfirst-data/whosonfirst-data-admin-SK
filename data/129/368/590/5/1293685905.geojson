@@ -25,7 +25,61 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:ces_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:deu_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:eus_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00f3s\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:msa_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:ron_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:rue_x_preferred":[
+        "\u0420\u0443\u0441\u044c\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:spa_x_preferred":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u044c\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
     "name:und_x_variant":[
+        "Rusk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:war_x_preferred":[
         "Rusk\u00e1 Nov\u00e1 Ves"
     ],
     "src:geom":"geonames",
@@ -52,7 +106,7 @@
         }
     ],
     "wof:id":1293685905,
-    "wof:lastmodified":1537700351,
+    "wof:lastmodified":1564310699,
     "wof:name":"Ruska Nova Ves",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

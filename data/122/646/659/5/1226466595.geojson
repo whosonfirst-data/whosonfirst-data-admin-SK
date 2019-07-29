@@ -25,12 +25,51 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:epo_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:eus_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00fdrovce"
+    ],
     "name:hun_x_preferred":[
         "Ny\u00edr\u00e1g\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:pol_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:ron_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:slk_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:spa_x_preferred":[
+        "N\u00fdrovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0440\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "N\u00edrovce",
         "Nyir",
+        "N\u00fdrovce"
+    ],
+    "name:war_x_preferred":[
         "N\u00fdrovce"
     ],
     "src:geom":"geonames",
@@ -57,7 +96,7 @@
         }
     ],
     "wof:id":1226466595,
-    "wof:lastmodified":1537700398,
+    "wof:lastmodified":1564311549,
     "wof:name":"Nyrovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

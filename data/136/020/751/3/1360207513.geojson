@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:ces_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:deu_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:epo_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:eus_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:fra_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9nesfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:msa_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:nld_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:pol_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:ron_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:slk_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:spa_x_preferred":[
+        "Dani\u0161ovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u045a\u0438\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u0456\u0448\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
+        "Dani\u0161ovce"
+    ],
+    "name:war_x_preferred":[
         "Dani\u0161ovce"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1360207513,
-    "wof:lastmodified":1537700372,
+    "wof:lastmodified":1564311090,
     "wof:name":"Danisovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

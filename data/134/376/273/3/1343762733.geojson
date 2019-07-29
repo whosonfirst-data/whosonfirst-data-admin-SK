@@ -25,8 +25,50 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jarok"
+    ],
+    "name:deu_x_preferred":[
+        "Jarok"
+    ],
+    "name:epo_x_preferred":[
+        "Jarok"
+    ],
+    "name:eus_x_preferred":[
+        "Jarok"
+    ],
+    "name:fra_x_preferred":[
+        "Jarok"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dcreg"
+    ],
+    "name:ita_x_preferred":[
+        "Jarok"
+    ],
+    "name:msa_x_preferred":[
+        "Jarok"
+    ],
+    "name:nld_x_preferred":[
+        "Jarok"
+    ],
+    "name:ron_x_preferred":[
+        "Jarok"
+    ],
+    "name:slk_x_preferred":[
+        "Jarok"
+    ],
+    "name:spa_x_preferred":[
+        "Jarok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u043e\u043a"
+    ],
     "name:und_x_variant":[
         "Ireg",
+        "Jarok"
+    ],
+    "name:war_x_preferred":[
         "Jarok"
     ],
     "src:geom":"geonames",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1343762733,
-    "wof:lastmodified":1537700416,
+    "wof:lastmodified":1564310578,
     "wof:name":"Jarok",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

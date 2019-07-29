@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:ces_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:deu_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:epo_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:eus_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:fra_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00f3tos"
+    ],
+    "name:ita_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:msa_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:nld_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:pol_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:ron_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:slk_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:spa_x_preferred":[
+        "Luti\u0161e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0442\u0438\u0448\u0435"
+    ],
     "name:und_x_variant":[
         "Lutin",
+        "Luti\u0161e"
+    ],
+    "name:war_x_preferred":[
         "Luti\u0161e"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1343381063,
-    "wof:lastmodified":1537700407,
+    "wof:lastmodified":1564310531,
     "wof:name":"Lutise",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

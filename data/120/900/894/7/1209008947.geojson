@@ -25,6 +25,54 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:ces_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:epo_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:eus_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:fra_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:hun_x_preferred":[
+        "Szopk\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:msa_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:nld_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:pol_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:ron_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:slk_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:spa_x_preferred":[
+        "Sopkovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Sopkovce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633769
@@ -43,7 +91,7 @@
         }
     ],
     "wof:id":1209008947,
-    "wof:lastmodified":1537573563,
+    "wof:lastmodified":1564310845,
     "wof:name":"Sopkovce",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

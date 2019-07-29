@@ -25,7 +25,58 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:ces_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:epo_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:eus_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:fra_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3halas"
+    ],
+    "name:ita_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:msa_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:nld_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:pol_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:ron_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0420\u044b\u0431\u043d\u0456\u0446\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:spa_x_preferred":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0436\u043d\u0430 \u0420\u0438\u0431\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0420\u0438\u0431\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
+        "Ni\u017en\u00e1 Rybnica"
+    ],
+    "name:war_x_preferred":[
         "Ni\u017en\u00e1 Rybnica"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1276664977,
-    "wof:lastmodified":1537700358,
+    "wof:lastmodified":1564310795,
     "wof:name":"Nizna Rybnica",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

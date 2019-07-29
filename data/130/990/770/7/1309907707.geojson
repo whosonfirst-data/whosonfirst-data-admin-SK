@@ -25,8 +25,56 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:epo_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:eus_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyazar"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:msa_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:ron_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:spa_x_preferred":[
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u043a\u0435 \u041e\u0437\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u041e\u0437\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Ozorovce",
+        "Ve\u013ek\u00e9 Ozorovce"
+    ],
+    "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Ozorovce"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1309907707,
-    "wof:lastmodified":1537700344,
+    "wof:lastmodified":1564311141,
     "wof:name":"Vel'ke Ozorovce",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

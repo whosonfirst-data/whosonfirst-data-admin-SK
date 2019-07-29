@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pribylina"
+    ],
+    "name:ceb_x_preferred":[
+        "Pribylina"
+    ],
+    "name:ces_x_preferred":[
+        "Pribylina"
+    ],
+    "name:deu_x_preferred":[
+        "Pribylina"
+    ],
+    "name:epo_x_preferred":[
+        "Pribylina"
+    ],
+    "name:eus_x_preferred":[
+        "Pribylina"
+    ],
+    "name:fra_x_preferred":[
+        "Pribylina"
+    ],
+    "name:hun_x_preferred":[
+        "Pribilina"
+    ],
+    "name:ita_x_preferred":[
+        "Pribylina"
+    ],
+    "name:msa_x_preferred":[
+        "Pribylina"
+    ],
+    "name:nld_x_preferred":[
+        "Pribylina"
+    ],
+    "name:pol_x_preferred":[
+        "Przybylina"
+    ],
+    "name:ron_x_preferred":[
+        "Pribylina"
+    ],
+    "name:slk_x_preferred":[
+        "Pribylina"
+    ],
+    "name:spa_x_preferred":[
+        "Pribylina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0438\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pribylina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0456\u0431\u0438\u043b\u0456\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Pribylina"
+    ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pribylina",
@@ -63,7 +120,7 @@
         }
     ],
     "wof:id":1125411553,
-    "wof:lastmodified":1509390271,
+    "wof:lastmodified":1564311278,
     "wof:name":"Pribylina",
     "wof:parent_id":102080577,
     "wof:placetype":"localadmin",

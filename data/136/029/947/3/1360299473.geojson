@@ -51,6 +51,9 @@
     "name:epo_x_preferred":[
         "Kremnick\u00e9 Bane"
     ],
+    "name:eus_x_preferred":[
+        "Kremnick\u00e9 Bane"
+    ],
     "name:fra_x_preferred":[
         "Kremnick\u00e9 Bane"
     ],
@@ -72,6 +75,9 @@
     "name:pol_x_preferred":[
         "Kremnick\u00e9 Bane"
     ],
+    "name:ron_x_preferred":[
+        "Kremnick\u00e9 Bane"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0435\u043c\u043d\u0438\u0446\u043a\u0435-\u0411\u0430\u043d\u0435"
     ],
@@ -84,8 +90,14 @@
     "name:slk_x_variant":[
         "Piarg"
     ],
+    "name:spa_x_preferred":[
+        "Kremnick\u00e9 Bane"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0435\u043c\u045a\u0438\u0446\u043a\u0435 \u0411\u0430\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u043d\u0438\u0446\u044c\u043a\u0435 \u0411\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Johannesberg",
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1360299473,
-    "wof:lastmodified":1537700411,
+    "wof:lastmodified":1564311096,
     "wof:name":"Kremnicke Bane",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

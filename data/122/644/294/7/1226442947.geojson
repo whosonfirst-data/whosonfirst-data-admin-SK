@@ -25,8 +25,53 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:ces_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:deu_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:epo_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:eus_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:fra_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:hun_x_preferred":[
+        "Gyarak"
+    ],
+    "name:ita_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:msa_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:nld_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:ron_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:slk_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:spa_x_preferred":[
+        "Kme\u0165ovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043c\u0435\u0442\u0458\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "\u010eorok",
+        "Kme\u0165ovo"
+    ],
+    "name:war_x_preferred":[
         "Kme\u0165ovo"
     ],
     "src:geom":"geonames",
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1226442947,
-    "wof:lastmodified":1537700414,
+    "wof:lastmodified":1564311491,
     "wof:name":"Kmet'ovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -25,8 +25,59 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1df\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:rue_x_preferred":[
+        "\u0428\u0430\u0440\u0456\u0441\u044c\u043a\u0430 \u0422\u0440\u0441\u0442\u0454\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0448\u043a\u0430 \u0422\u0440\u0441\u0442\u0458\u0435\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0430 \u0422\u0440\u0441\u0442\u0435\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Nadvej",
+        "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
+    ],
+    "name:war_x_preferred":[
         "\u0160ari\u0161sk\u00e1 Trsten\u00e1"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1344180029,
-    "wof:lastmodified":1537700351,
+    "wof:lastmodified":1564310622,
     "wof:name":"Sarisska Trstena",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",
