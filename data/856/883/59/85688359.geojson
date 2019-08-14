@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KI"
+    ],
     "lbl:latitude":48.708395,
     "lbl:longitude":21.082068,
     "mps:latitude":48.708395,
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1563253722,
+    "wof:lastmodified":1565736559,
     "wof:name":"Ko\u0161ick\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

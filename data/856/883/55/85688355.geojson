@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BC"
+    ],
     "lbl:latitude":48.576266,
     "lbl:longitude":19.484869,
     "mps:latitude":48.576266,
@@ -362,7 +365,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1563253724,
+    "wof:lastmodified":1565736559,
     "wof:name":"Banskobystrick\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

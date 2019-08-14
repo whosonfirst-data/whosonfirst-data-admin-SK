@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZI"
+    ],
     "lbl:latitude":49.145693,
     "lbl:longitude":19.164907,
     "mps:latitude":49.145693,
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1563253725,
+    "wof:lastmodified":1565736560,
     "wof:name":"\u017dilinsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

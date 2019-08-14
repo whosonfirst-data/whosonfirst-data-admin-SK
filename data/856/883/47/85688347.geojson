@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PV"
+    ],
     "lbl:latitude":49.145826,
     "lbl:longitude":21.225548,
     "mps:latitude":49.145826,
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1563253725,
+    "wof:lastmodified":1565736560,
     "wof:name":"Pre\u0161ovsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",
