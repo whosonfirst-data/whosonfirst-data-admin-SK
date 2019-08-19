@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.192783,48.196163,17.192783,48.196163",
-    "geom:latitude":48.196163,
-    "geom:longitude":17.192783,
+    "geom:bbox":"17.206436,48.204315,17.206436,48.204315",
+    "geom:latitude":48.204315,
+    "geom:longitude":17.206436,
     "gn:id":"",
     "iso:country":"SK",
-    "lbl:latitude":48.196163,
-    "lbl:longitude":17.192783,
+    "lbl:latitude":48.204315,
+    "lbl:longitude":17.206436,
     "mps:latitude":48.197924,
     "mps:longitude":17.212926,
     "mz:hierarchy_label":0,
@@ -22,8 +22,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ces_x_preferred":[
         "Vajnory"
     ],
@@ -118,12 +119,13 @@
     "qs:woe_lau":29402283,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":175,
     "wof:belongsto":[
         85688373,
@@ -140,7 +142,7 @@
         "wd:id":"Q1091778"
     },
     "wof:country":"SK",
-    "wof:geomhash":"046718a0a1c6837ff8784b89927810c2",
+    "wof:geomhash":"3adf8f393a5593310e699b650da9310f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253707,
+    "wof:lastmodified":1566247571,
     "wof:name":"Vajnory",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -165,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.192783,
-    48.196163,
-    17.192783,
-    48.196163
+    17.206436,
+    48.204315,
+    17.206436,
+    48.204315
 ],
-  "geometry": {"coordinates":[17.192783,48.196163],"type":"Point"}
+  "geometry": {"coordinates":[17.206436,48.204315],"type":"Point"}
 }

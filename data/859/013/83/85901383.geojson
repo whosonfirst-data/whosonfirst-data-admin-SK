@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.151396,48.207251,17.151396,48.207251",
-    "geom:latitude":48.207251,
-    "geom:longitude":17.151396,
+    "geom:bbox":"17.151989,48.211524,17.151989,48.211524",
+    "geom:latitude":48.211524,
+    "geom:longitude":17.151989,
     "gn:id":"",
     "iso:country":"SK",
-    "lbl:latitude":48.207251,
-    "lbl:longitude":17.151396,
+    "lbl:latitude":48.211524,
+    "lbl:longitude":17.151989,
     "mps:latitude":48.215893,
     "mps:longitude":17.148384,
     "mz:hierarchy_label":0,
@@ -20,11 +20,15 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bos_x_preferred":[
+        "Ra\u010da"
+    ],
+    "name:eng_x_variant":[
         "Ra\u010da"
     ],
     "name:fra_x_preferred":[
@@ -44,6 +48,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0631\u0627\u0686\u0627"
+    ],
+    "name:slk_x_preferred":[
+        "Ra\u010da"
     ],
     "name:slv_x_preferred":[
         "Ra\u010da"
@@ -95,12 +102,13 @@
     "qs:woe_lau":29402283,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":113,
     "wof:belongsto":[
         85688373,
@@ -116,7 +124,7 @@
         "qs_pg:id":1153006
     },
     "wof:country":"SK",
-    "wof:geomhash":"14c410b60da4310d475baf9033e9cf8d",
+    "wof:geomhash":"118126152c6e1c3c3fe9509672aa206a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564310647,
+    "wof:lastmodified":1566247572,
     "wof:name":"Ra\u010da",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -141,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.151396,
-    48.207251,
-    17.151396,
-    48.207251
+    17.151989,
+    48.211524,
+    17.151989,
+    48.211524
 ],
-  "geometry": {"coordinates":[17.151396,48.207251],"type":"Point"}
+  "geometry": {"coordinates":[17.151989,48.211524],"type":"Point"}
 }

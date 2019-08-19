@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2754580.672152,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.105823,48.173778,17.105823,48.173778",
     "geom:latitude":48.173778,
     "geom:longitude":17.105823,
@@ -17,13 +17,15 @@
     "mps:longitude":17.112957,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"german dup for Koliba",
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:und_x_colloquial":[
         "Strohhuete",
         "Strohhute"
@@ -61,13 +63,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932492,
+    "wof:lastmodified":1566247572,
     "wof:name":"Strohh\u00fcte",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

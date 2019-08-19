@@ -6,17 +6,17 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.126624,48.081094,17.126624,48.081094",
-    "geom:latitude":48.081094,
-    "geom:longitude":17.126624,
+    "geom:bbox":"17.113921,48.064424,17.113921,48.064424",
+    "geom:latitude":48.064424,
+    "geom:longitude":17.113921,
     "gn:gn_country":"SK",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "gn:latitude":48.06498,
     "gn:longitude":17.11303,
     "iso:country":"SK",
-    "lbl:latitude":48.081094,
-    "lbl:longitude":17.126624,
+    "lbl:latitude":48.064424,
+    "lbl:longitude":17.113921,
     "mps:latitude":48.072596,
     "mps:longitude":17.10254,
     "mz:hierarchy_label":0,
@@ -24,10 +24,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":16.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ces_x_preferred":[
         "Jarovce"
     ],
@@ -148,11 +149,12 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":820012,
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":321,
     "wof:belongsto":[
         85688373,
@@ -170,7 +172,7 @@
         "wk:page":"Jarovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"7203de77ca5819262066b3413e8df522",
+    "wof:geomhash":"823feabe9e87042606b2cc20064efd59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +187,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253712,
+    "wof:lastmodified":1566247523,
     "wof:name":"Jarovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -197,10 +199,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.126624,
-    48.081094,
-    17.126624,
-    48.081094
+    17.113921,
+    48.064424,
+    17.113921,
+    48.064424
 ],
-  "geometry": {"coordinates":[17.126624,48.081094],"type":"Point"}
+  "geometry": {"coordinates":[17.113921,48.064424],"type":"Point"}
 }
