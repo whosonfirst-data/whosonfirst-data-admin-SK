@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.126899,48.162729,17.126899,48.162729",
-    "geom:latitude":48.162729,
-    "geom:longitude":17.126899,
+    "geom:bbox":"17.106414,48.169217,17.106414,48.169217",
+    "geom:latitude":48.169217,
+    "geom:longitude":17.106414,
     "iso:country":"SK",
-    "lbl:latitude":48.162729,
-    "lbl:longitude":17.126899,
+    "lbl:latitude":48.169217,
+    "lbl:longitude":17.106414,
     "mps:latitude":48.164253,
     "mps:longitude":17.117504,
     "mz:hierarchy_label":0,
@@ -19,15 +19,19 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ces_x_preferred":[
         "Koliba"
     ],
     "name:deu_x_preferred":[
         "Koliba"
+    ],
+    "name:deu_x_variant":[
+        "Strohh\u00fcte"
     ],
     "name:eng_x_preferred":[
         "Koliba"
@@ -70,11 +74,12 @@
     "qs:woe_lau":29402283,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":104,
     "wof:belongsto":[
         85688373,
@@ -89,7 +94,7 @@
         "wd:id":"Q277852"
     },
     "wof:country":"SK",
-    "wof:geomhash":"44a9534ed0a6925f4507d70bdf34e165",
+    "wof:geomhash":"f6252e8861dd26debef0d59743d27bab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253708,
+    "wof:lastmodified":1566247571,
     "wof:name":"Koliba",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -114,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.126899,
-    48.162729,
-    17.126899,
-    48.162729
+    17.106414,
+    48.169217,
+    17.106414,
+    48.169217
 ],
-  "geometry": {"coordinates":[17.126899,48.162729],"type":"Point"}
+  "geometry": {"coordinates":[17.106414,48.169217],"type":"Point"}
 }

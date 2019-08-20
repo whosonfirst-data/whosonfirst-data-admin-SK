@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.062808,48.156226,17.062808,48.156226",
-    "geom:latitude":48.156226,
-    "geom:longitude":17.062808,
+    "geom:bbox":"17.052623,48.158287,17.052623,48.158287",
+    "geom:latitude":48.158287,
+    "geom:longitude":17.052623,
     "gn:latitude":48.15344,
     "gn:longitude":17.05522,
     "iso:country":"SK",
-    "lbl:latitude":48.156226,
-    "lbl:longitude":17.062808,
+    "lbl:latitude":48.158287,
+    "lbl:longitude":17.052623,
     "mps:latitude":48.151086,
     "mps:longitude":17.040912,
     "mz:hierarchy_label":0,
@@ -21,10 +21,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bel_x_preferred":[
         "\u0420\u0430\u0451\u043d \u041a\u0430\u0440\u043b\u0430\u0432\u0430 \u0412\u0435\u0441"
     ],
@@ -109,12 +110,13 @@
     "qs:woe_lau":29402279,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":860,
     "wof:belongsto":[
         85688373,
@@ -133,7 +135,7 @@
         "wk:page":"Karlova Ves"
     },
     "wof:country":"SK",
-    "wof:geomhash":"53a706ae9b01af39d97726af31123782",
+    "wof:geomhash":"74513d1d8b5f96f6a69cd874a7921d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253711,
+    "wof:lastmodified":1566247571,
     "wof:name":"Karlova Ves",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -158,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.062808,
-    48.156226,
-    17.062808,
-    48.156226
+    17.052623,
+    48.158287,
+    17.052623,
+    48.158287
 ],
-  "geometry": {"coordinates":[17.062808,48.156226],"type":"Point"}
+  "geometry": {"coordinates":[17.052623,48.158287],"type":"Point"}
 }

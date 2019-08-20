@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.125066,48.17774,17.125066,48.17774",
-    "geom:latitude":48.17774,
-    "geom:longitude":17.125066,
+    "geom:bbox":"17.138456,48.169345,17.138456,48.169345",
+    "geom:latitude":48.169345,
+    "geom:longitude":17.138456,
     "gn:latitude":48.17997,
     "gn:longitude":17.13955,
     "iso:country":"SK",
-    "lbl:latitude":48.17774,
-    "lbl:longitude":17.125066,
+    "lbl:latitude":48.169345,
+    "lbl:longitude":17.138456,
     "mps:latitude":48.190027,
     "mps:longitude":17.121713,
     "mz:hierarchy_label":0,
@@ -21,10 +21,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:is_official":1,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bak_x_preferred":[
         "\u041d\u043e\u0432\u0435-\u041c\u0435\u0441\u0442\u043e"
     ],
@@ -109,12 +110,13 @@
     "qs:woe_lau":29402283,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":438,
     "wof:belongsto":[
         85688373,
@@ -133,7 +135,7 @@
         "wk:page":"Nov\u00e9 Mesto, Bratislava"
     },
     "wof:country":"SK",
-    "wof:geomhash":"a1194d7ef0e23f94d69d60cc7baed09b",
+    "wof:geomhash":"d13e21859092c3007bf5b7d6e9d57617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253713,
+    "wof:lastmodified":1566247571,
     "wof:name":"Nov\u00e9 Mesto",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -158,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.125066,
-    48.17774,
-    17.125066,
-    48.17774
+    17.138456,
+    48.169345,
+    17.138456,
+    48.169345
 ],
-  "geometry": {"coordinates":[17.125066,48.17774],"type":"Point"}
+  "geometry": {"coordinates":[17.138456,48.169345],"type":"Point"}
 }

@@ -6,17 +6,17 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.977219,48.171767,16.977219,48.171767",
-    "geom:latitude":48.171767,
-    "geom:longitude":16.977219,
+    "geom:bbox":"16.984887,48.17459,16.984887,48.17459",
+    "geom:latitude":48.17459,
+    "geom:longitude":16.984887,
     "gn:gn_country":"SK",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "gn:latitude":48.17444,
     "gn:longitude":16.98418,
     "iso:country":"SK",
-    "lbl:latitude":48.171767,
-    "lbl:longitude":16.977219,
+    "lbl:latitude":48.17459,
+    "lbl:longitude":16.984887,
     "mps:latitude":48.171589,
     "mps:longitude":16.983916,
     "mz:hierarchy_label":0,
@@ -24,10 +24,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bel_x_preferred":[
         "\u0414\u044d\u0432\u0456\u043d"
     ],
@@ -144,11 +145,12 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":29402278,
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":481,
     "wof:belongsto":[
         85688373,
@@ -166,7 +168,7 @@
         "wk:page":"Dev\u00edn"
     },
     "wof:country":"SK",
-    "wof:geomhash":"62ce9dcd660eace1553756c4a07eb6d7",
+    "wof:geomhash":"6ce3a944415c19437bec013bcafb28a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +183,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253716,
+    "wof:lastmodified":1566247582,
     "wof:name":"Dev\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -193,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.977219,
-    48.171767,
-    16.977219,
-    48.171767
+    16.984887,
+    48.17459,
+    16.984887,
+    48.17459
 ],
-  "geometry": {"coordinates":[16.977219,48.171767],"type":"Point"}
+  "geometry": {"coordinates":[16.984887,48.17459],"type":"Point"}
 }

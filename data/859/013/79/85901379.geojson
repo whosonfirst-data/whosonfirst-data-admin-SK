@@ -5,15 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9237768.663925,
-    "geom:bbox":"17.125246,48.137423,17.125246,48.137423",
-    "geom:latitude":48.137423,
-    "geom:longitude":17.125246,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.131082,48.120848,17.131082,48.120848",
+    "geom:latitude":48.120848,
+    "geom:longitude":17.131082,
     "gn:latitude":48.12837,
     "gn:longitude":17.13588,
     "iso:country":"SK",
-    "lbl:latitude":48.137423,
-    "lbl:longitude":17.125246,
+    "lbl:latitude":48.120848,
+    "lbl:longitude":17.131082,
     "mps:latitude":48.130349,
     "mps:longitude":17.137409,
     "mz:hierarchy_label":0,
@@ -23,8 +23,15 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:eng_x_variant":[
+        "Ovsi\u00b5te"
+    ],
+    "name:slk_x_preferred":[
+        "Ovsi\u0161te"
+    ],
     "name:und_x_colloquial":[
         "Ovsiste"
     ],
@@ -58,18 +65,19 @@
     "qs:woe_lau":29402280,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +87,7 @@
         "qs_pg:id":1159089
     },
     "wof:country":"SK",
-    "wof:geomhash":"2be738b4761153f3fe23e2a0f3329910",
+    "wof:geomhash":"0c7ada6820bec94bc13968610ef349b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932488,
+    "wof:lastmodified":1566247571,
     "wof:name":"Ovsi\u00b5te",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -104,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.125246,
-    48.137423,
-    17.125246,
-    48.137423
+    17.131082,
+    48.120848,
+    17.131082,
+    48.120848
 ],
-  "geometry": {"coordinates":[17.125246,48.137423],"type":"Point"}
+  "geometry": {"coordinates":[17.131082,48.120848],"type":"Point"}
 }

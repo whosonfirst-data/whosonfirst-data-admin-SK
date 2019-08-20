@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.042987,48.201573,17.042987,48.201573",
-    "geom:latitude":48.201573,
-    "geom:longitude":17.042987,
+    "geom:bbox":"17.053172,48.190206,17.053172,48.190206",
+    "geom:latitude":48.190206,
+    "geom:longitude":17.053172,
     "gn:latitude":48.19298,
     "gn:longitude":17.05078,
     "iso:country":"SK",
-    "lbl:latitude":48.201573,
-    "lbl:longitude":17.042987,
+    "lbl:latitude":48.190206,
+    "lbl:longitude":17.053172,
     "mps:latitude":48.204455,
     "mps:longitude":17.061516,
     "mz:hierarchy_label":0,
@@ -23,8 +23,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":16.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ces_x_preferred":[
         "Lama\u010d"
     ],
@@ -106,12 +107,13 @@
     "qs:woe_lau":29402279,
     "qs:woe_local":818717,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":336,
     "wof:belongsto":[
         85688373,
@@ -130,7 +132,7 @@
         "wk:page":"Lama\u010d"
     },
     "wof:country":"SK",
-    "wof:geomhash":"524b7f06fdbd0bf4f5dec4c770b1c785",
+    "wof:geomhash":"09ac36c04d461920510e3f6a3865d7fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253714,
+    "wof:lastmodified":1566247571,
     "wof:name":"Lama\u010d",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
@@ -155,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.042987,
-    48.201573,
-    17.042987,
-    48.201573
+    17.053172,
+    48.190206,
+    17.053172,
+    48.190206
 ],
-  "geometry": {"coordinates":[17.042987,48.201573],"type":"Point"}
+  "geometry": {"coordinates":[17.053172,48.190206],"type":"Point"}
 }
