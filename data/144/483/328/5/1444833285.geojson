@@ -1,0 +1,54 @@
+{
+  "id": 1444833285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0427059659,48.1803642753,17.0427059659,48.1803642753",
+    "geom:latitude":48.180364,
+    "geom:longitude":17.042706,
+    "iso:country":"SK",
+    "lbl:latitude":48.180364,
+    "lbl:longitude":17.042706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Zaluhy"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00e1luhy"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"4750def442ec611cfe42f7f1809b59dd",
+    "wof:hierarchy":[],
+    "wof:id":1444833285,
+    "wof:lastmodified":1566335477,
+    "wof:name":"Zaluhy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.042705965877435,
+    48.180364275295766,
+    17.042705965877435,
+    48.180364275295766
+],
+  "geometry": {"coordinates":[17.04270596587743,48.18036427529577],"type":"Point"}
+}

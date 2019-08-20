@@ -1,0 +1,54 @@
+{
+  "id": 1444832849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1545912511,48.1343297857,17.1545912511,48.1343297857",
+    "geom:latitude":48.13433,
+    "geom:longitude":17.154591,
+    "iso:country":"SK",
+    "lbl:latitude":48.13433,
+    "lbl:longitude":17.154591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Male palenisko"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e9 p\u00e1lenisko"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"93bdb173b524d6cede191d797ee7c87b",
+    "wof:hierarchy":[],
+    "wof:id":1444832849,
+    "wof:lastmodified":1566335476,
+    "wof:name":"Male palenisko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.154591251114322,
+    48.134329785722606,
+    17.154591251114322,
+    48.134329785722606
+],
+  "geometry": {"coordinates":[17.15459125111432,48.13432978572261],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1444833101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1603165276,48.193021539,17.1603165276,48.193021539",
+    "geom:latitude":48.193022,
+    "geom:longitude":17.160317,
+    "iso:country":"SK",
+    "lbl:latitude":48.193022,
+    "lbl:longitude":17.160317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Zab\u00ed majer"
+    ],
+    "name:slk_x_preferred":[
+        "\u017dab\u00ed majer"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"87097a3f8464785299830d45e3e4e83d",
+    "wof:hierarchy":[],
+    "wof:id":1444833101,
+    "wof:lastmodified":1566335476,
+    "wof:name":"Zab\u00ed majer",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.160316527578594,
+    48.193021539002395,
+    17.160316527578594,
+    48.193021539002395
+],
+  "geometry": {"coordinates":[17.16031652757859,48.19302153900239],"type":"Point"}
+}

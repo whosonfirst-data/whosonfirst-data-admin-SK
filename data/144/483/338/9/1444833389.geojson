@@ -1,0 +1,54 @@
+{
+  "id": 1444833389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9760727079,48.2169027097,16.9760727079,48.2169027097",
+    "geom:latitude":48.216903,
+    "geom:longitude":16.976073,
+    "iso:country":"SK",
+    "lbl:latitude":48.216903,
+    "lbl:longitude":16.976073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kolonia"
+    ],
+    "name:slk_x_preferred":[
+        "Kol\u00f3nia"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"746115fee2a9f9f5c1b8d2de30e4dc1d",
+    "wof:hierarchy":[],
+    "wof:id":1444833389,
+    "wof:lastmodified":1566335477,
+    "wof:name":"Kolonia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.976072707863473,
+    48.21690270966497,
+    16.976072707863473,
+    48.21690270966497
+],
+  "geometry": {"coordinates":[16.97607270786347,48.21690270966497],"type":"Point"}
+}

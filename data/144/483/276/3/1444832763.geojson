@@ -1,0 +1,57 @@
+{
+  "id": 1444832763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0845533741,48.1560160901,17.0845533741,48.1560160901",
+    "geom:latitude":48.156016,
+    "geom:longitude":17.084553,
+    "iso:country":"SK",
+    "lbl:latitude":48.156016,
+    "lbl:longitude":17.084553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Drotarska cesta"
+    ],
+    "name:slk_x_preferred":[
+        "Drot\u00e1rska cesta"
+    ],
+    "name:slk_x_variant":[
+        "Oblas\u0165 Drot\u00e1rska cesta"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"c90bdf2fe4683a9a98e63fa01d3ff644",
+    "wof:hierarchy":[],
+    "wof:id":1444832763,
+    "wof:lastmodified":1566335476,
+    "wof:name":"Drotarska cesta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.084553374077778,
+    48.15601609010586,
+    17.084553374077778,
+    48.15601609010586
+],
+  "geometry": {"coordinates":[17.08455337407778,48.15601609010586],"type":"Point"}
+}

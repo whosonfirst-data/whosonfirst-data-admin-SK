@@ -1,0 +1,54 @@
+{
+  "id": 1444832903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1510435809,48.1604820253,17.1510435809,48.1604820253",
+    "geom:latitude":48.160482,
+    "geom:longitude":17.151044,
+    "iso:country":"SK",
+    "lbl:latitude":48.160482,
+    "lbl:longitude":17.151044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Strkovec"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160trkovec"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"1898fda2e8f5711ade80ed87870a27ff",
+    "wof:hierarchy":[],
+    "wof:id":1444832903,
+    "wof:lastmodified":1566335476,
+    "wof:name":"Strkovec",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.151043580872276,
+    48.1604820253063,
+    17.151043580872276,
+    48.1604820253063
+],
+  "geometry": {"coordinates":[17.15104358087228,48.1604820253063],"type":"Point"}
+}

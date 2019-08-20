@@ -1,0 +1,54 @@
+{
+  "id": 1444832963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1347357419,48.16170341,17.1347357419,48.16170341",
+    "geom:latitude":48.161703,
+    "geom:longitude":17.134736,
+    "iso:country":"SK",
+    "lbl:latitude":48.161703,
+    "lbl:longitude":17.134736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Tehelne pole"
+    ],
+    "name:slk_x_preferred":[
+        "Teheln\u00e9 pole"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"f39b406dbf59ef79492dfc6bdf29f3c0",
+    "wof:hierarchy":[],
+    "wof:id":1444832963,
+    "wof:lastmodified":1566335476,
+    "wof:name":"Tehelne pole",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.134735741856407,
+    48.16170340996544,
+    17.134735741856407,
+    48.16170340996544
+],
+  "geometry": {"coordinates":[17.13473574185641,48.16170340996544],"type":"Point"}
+}
