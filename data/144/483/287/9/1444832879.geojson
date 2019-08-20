@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"bf1e49a67c97eddb55b2b4504d54a6f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc7af9c57f5779d1b93932156fd48f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832879,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832879,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337240,
     "wof:name":"Travniky",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.156937291113092,
+    17.15693729111309,
     48.15334397718898,
-    17.156937291113092,
+    17.15693729111309,
     48.15334397718898
 ],
   "geometry": {"coordinates":[17.15693729111309,48.15334397718898],"type":"Point"}

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080455,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"ea35b6cb8ee07e6b50b221c0213b3fc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6f5e68ca28a9c142fb22b85e9479184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080455,
+            "locality_id":-1,
+            "neighbourhood_id":1444832815,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832815,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337234,
     "wof:name":"Ketelec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.195904443287844,
-    48.091541210389934,
-    17.195904443287844,
-    48.091541210389934
+    17.19590444328784,
+    48.09154121038993,
+    17.19590444328784,
+    48.09154121038993
 ],
   "geometry": {"coordinates":[17.19590444328784,48.09154121038993],"type":"Point"}
 }

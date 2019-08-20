@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"99e31bf1749f06c751223da930651306",
-    "wof:hierarchy":[],
+    "wof:geomhash":"312798ebbbcd4cbe639f273231519b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833039,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833039,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337262,
     "wof:name":"Istrochem",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -48,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.141287487706634,
-    48.182767718018674,
-    17.141287487706634,
-    48.182767718018674
+    17.14128748770663,
+    48.18276771801867,
+    17.14128748770663,
+    48.18276771801867
 ],
   "geometry": {"coordinates":[17.14128748770663,48.18276771801867],"type":"Point"}
 }

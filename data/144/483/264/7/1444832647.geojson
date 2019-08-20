@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"e0c68162bdca91154237c9da9155dc49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d83d1d0aa5fdd9e7093e40a9d8df0789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832647,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832647,
-    "wof:lastmodified":1566335475,
+    "wof:lastmodified":1566337214,
     "wof:name":"Zrkadlovy haj",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.110386671138084,
+    17.11038667113808,
     48.10692467294239,
-    17.110386671138084,
+    17.11038667113808,
     48.10692467294239
 ],
   "geometry": {"coordinates":[17.11038667113808,48.10692467294239],"type":"Point"}

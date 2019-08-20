@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"ed4507d1f86a88ed98481687395febcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fef05363f85ba7b2c5e365f403e7493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833065,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833065,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337263,
     "wof:name":"Ludova stvrt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     17.13459269063696,
-    48.169298243087304,
+    48.1692982430873,
     17.13459269063696,
-    48.169298243087304
+    48.1692982430873
 ],
   "geometry": {"coordinates":[17.13459269063696,48.1692982430873],"type":"Point"}
 }

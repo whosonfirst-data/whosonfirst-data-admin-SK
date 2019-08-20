@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"7306d1e5691b011d2aa0ec3f10ed7fd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c35b0d4bb61f8d32f0d35dbe1a5060ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833131,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833131,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337274,
     "wof:name":"Dlhe diely",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.047283604899423,
+    17.04728360489942,
     48.15196989210713,
-    17.047283604899423,
+    17.04728360489942,
     48.15196989210713
 ],
   "geometry": {"coordinates":[17.04728360489942,48.15196989210713],"type":"Point"}

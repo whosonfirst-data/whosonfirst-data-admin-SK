@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"70001f0da1a770e0009de615e3f21778",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1092fb48132200f87130ec797d3a0fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833377,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833377,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337291,
     "wof:name":"Grba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     16.97950593712997,
-    48.210535150263915,
+    48.21053515026392,
     16.97950593712997,
-    48.210535150263915
+    48.21053515026392
 ],
   "geometry": {"coordinates":[16.97950593712997,48.21053515026392],"type":"Point"}
 }

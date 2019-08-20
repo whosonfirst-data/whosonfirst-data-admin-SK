@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"1d06903f22442753becaf321a6945225",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b61c4532fb32eeb841862e4a7a129f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832725,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832725,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337223,
     "wof:name":"Slavin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -49,9 +64,9 @@
 },
   "bbox": [
     17.09890579266086,
-    48.153364126765005,
+    48.15336412676501,
     17.09890579266086,
-    48.153364126765005
+    48.15336412676501
 ],
   "geometry": {"coordinates":[17.09890579266086,48.15336412676501],"type":"Point"}
 }

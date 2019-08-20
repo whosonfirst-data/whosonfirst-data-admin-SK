@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"87097a3f8464785299830d45e3e4e83d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4234beed7be411b0cf3cb7aa54b2ae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833101,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833101,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337269,
     "wof:name":"Zab\u00ed majer",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.160316527578594,
-    48.193021539002395,
-    17.160316527578594,
-    48.193021539002395
+    17.16031652757859,
+    48.19302153900239,
+    17.16031652757859,
+    48.19302153900239
 ],
   "geometry": {"coordinates":[17.16031652757859,48.19302153900239],"type":"Point"}
 }

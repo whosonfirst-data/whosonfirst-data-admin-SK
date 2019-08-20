@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"b4cbd631adbeaa792a83dab54af5c463",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fcbc4f5f8707cbe28ccc788ba5ad51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832735,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832735,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337224,
     "wof:name":"Partizanska",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -48,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.099144598460395,
-    48.145174083254574,
-    17.099144598460395,
-    48.145174083254574
+    17.09914459846039,
+    48.14517408325457,
+    17.09914459846039,
+    48.14517408325457
 ],
   "geometry": {"coordinates":[17.09914459846039,48.14517408325457],"type":"Point"}
 }

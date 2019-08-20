@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"f7dda1102f3e984507a872842b67aafa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e53fe35df3fddcb5945090296e78c13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833051,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833051,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337262,
     "wof:name":"Gastanovy hajik",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.132876076003715,
+    17.13287607600371,
     48.18551459854649,
-    17.132876076003715,
+    17.13287607600371,
     48.18551459854649
 ],
   "geometry": {"coordinates":[17.13287607600371,48.18551459854649],"type":"Point"}

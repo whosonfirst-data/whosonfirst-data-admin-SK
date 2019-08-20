@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"746115fee2a9f9f5c1b8d2de30e4dc1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0c27e09d5d8f38bec310ce68c5fdcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833389,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833389,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337293,
     "wof:name":"Kolonia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.976072707863473,
+    16.97607270786347,
     48.21690270966497,
-    16.976072707863473,
+    16.97607270786347,
     48.21690270966497
 ],
   "geometry": {"coordinates":[16.97607270786347,48.21690270966497],"type":"Point"}

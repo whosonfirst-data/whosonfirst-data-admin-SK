@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"4750def442ec611cfe42f7f1809b59dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83221452a6a9f84becafaf451673d653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833285,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833285,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337280,
     "wof:name":"Zaluhy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.042705965877435,
-    48.180364275295766,
-    17.042705965877435,
-    48.180364275295766
+    17.04270596587743,
+    48.18036427529577,
+    17.04270596587743,
+    48.18036427529577
 ],
   "geometry": {"coordinates":[17.04270596587743,48.18036427529577],"type":"Point"}
 }

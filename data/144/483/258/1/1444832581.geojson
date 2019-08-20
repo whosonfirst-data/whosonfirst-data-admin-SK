@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"8d096f2d39647973dc10a393330c2a2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30dd7ff05c317fe2527dada9c24b6e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832581,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832581,
-    "wof:lastmodified":1566335475,
+    "wof:lastmodified":1566337205,
     "wof:name":"Dvory",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.099400337485292,
+    17.09940033748529,
     48.12617817810223,
-    17.099400337485292,
+    17.09940033748529,
     48.12617817810223
 ],
   "geometry": {"coordinates":[17.09940033748529,48.12617817810223],"type":"Point"}

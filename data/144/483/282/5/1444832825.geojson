@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"5fd38f3c4b01cfab9b1311f7b3ee6207",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94d7e855ce13e4b5624bb1df712bd05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832825,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832825,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337234,
     "wof:name":"Vlcie hrdlo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.174847303786656,
+    17.17484730378666,
     48.1292886986248,
-    17.174847303786656,
+    17.17484730378666,
     48.1292886986248
 ],
   "geometry": {"coordinates":[17.17484730378666,48.1292886986248],"type":"Point"}

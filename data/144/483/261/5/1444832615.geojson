@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080449,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"bc3bbc6592d81298c30744c21a838b1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"986f36610eb6b0ba9e67192a1e246146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080449,
+            "locality_id":-1,
+            "neighbourhood_id":1444832615,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832615,
-    "wof:lastmodified":1566335475,
+    "wof:lastmodified":1566337210,
     "wof:name":"Janikov dvor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.108441174553736,
+    17.10844117455374,
     48.08972794626585,
-    17.108441174553736,
+    17.10844117455374,
     48.08972794626585
 ],
   "geometry": {"coordinates":[17.10844117455374,48.08972794626585],"type":"Point"}

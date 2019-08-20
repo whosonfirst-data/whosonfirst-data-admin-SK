@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"020dae9f038b2992d55c105c72140c0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56d01ff3f7f659514a933572063a2127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833145,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833145,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337274,
     "wof:name":"Mlynska dolina",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.070171800009415,
+    17.07017180000942,
     48.15448938407392,
-    17.070171800009415,
+    17.07017180000942,
     48.15448938407392
 ],
   "geometry": {"coordinates":[17.07017180000942,48.15448938407392],"type":"Point"}

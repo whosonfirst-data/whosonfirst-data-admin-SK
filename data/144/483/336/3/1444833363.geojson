@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"1dbcef09a2ce06fa62918729d1767bc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a742794168abc0767a352f23195c988d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833363,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833363,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337290,
     "wof:name":"Sidlisko Stred",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.975099959571292,
+    16.97509995957129,
     48.20958185466497,
-    16.975099959571292,
+    16.97509995957129,
     48.20958185466497
 ],
   "geometry": {"coordinates":[16.97509995957129,48.20958185466497],"type":"Point"}

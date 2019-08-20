@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"1c120468d68549d3393dc9f9f1a0b9dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0aaa84f6ecf5b422d4bfacea13419522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832791,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832791,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337230,
     "wof:name":"Medzi jarkami",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.198536585725495,
-    48.139828589065296,
-    17.198536585725495,
-    48.139828589065296
+    17.1985365857255,
+    48.1398285890653,
+    17.1985365857255,
+    48.1398285890653
 ],
   "geometry": {"coordinates":[17.1985365857255,48.1398285890653],"type":"Point"}
 }

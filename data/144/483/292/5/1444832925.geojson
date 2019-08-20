@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"bdfd9e33ce5395ed149488c7ccbb7212",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f71996782c628cb22bb6088834bfe182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832925,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832925,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337244,
     "wof:name":"Stary Ruzinov",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.138111750635137,
+    17.13811175063514,
     48.15761929106043,
-    17.138111750635137,
+    17.13811175063514,
     48.15761929106043
 ],
   "geometry": {"coordinates":[17.13811175063514,48.15761929106043],"type":"Point"}

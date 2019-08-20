@@ -33,15 +33,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"cfa16b6fda994951edba507b3c6b56c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a40612c1f23afe1311ec5e7a0e06d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833087,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833087,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337267,
     "wof:name":"Emyhaza",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -49,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.134421029173637,
-    48.173419591284244,
-    17.134421029173637,
-    48.173419591284244
+    17.13442102917364,
+    48.17341959128424,
+    17.13442102917364,
+    48.17341959128424
 ],
   "geometry": {"coordinates":[17.13442102917364,48.17341959128424],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"5730890de22af5f1d2fa5ed43c583e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3d8aa87cbe0ebfe9ec1effaebb09fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832671,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832671,
-    "wof:lastmodified":1566335475,
+    "wof:lastmodified":1566337215,
     "wof:name":"Historicke jadro",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     17.10807099455329,
-    48.143245951318775,
+    48.14324595131878,
     17.10807099455329,
-    48.143245951318775
+    48.14324595131878
 ],
   "geometry": {"coordinates":[17.10807099455329,48.14324595131878],"type":"Point"}
 }

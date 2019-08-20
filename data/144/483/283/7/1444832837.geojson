@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"df628e04fce965f6d6329acc483d9cde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"210cc544ecbbde9b1332e4558698f40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832837,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832837,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337235,
     "wof:name":"Prievoz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     17.16855305013141,
-    48.146319471146704,
+    48.1463194711467,
     17.16855305013141,
-    48.146319471146704
+    48.1463194711467
 ],
   "geometry": {"coordinates":[17.16855305013141,48.1463194711467],"type":"Point"}
 }

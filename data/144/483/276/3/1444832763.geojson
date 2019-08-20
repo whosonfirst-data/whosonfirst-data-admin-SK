@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"c90bdf2fe4683a9a98e63fa01d3ff644",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7451f679388e71be7341a367458776b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832763,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832763,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337225,
     "wof:name":"Drotarska cesta",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.084553374077778,
+    17.08455337407778,
     48.15601609010586,
-    17.084553374077778,
+    17.08455337407778,
     48.15601609010586
 ],
   "geometry": {"coordinates":[17.08455337407778,48.15601609010586],"type":"Point"}

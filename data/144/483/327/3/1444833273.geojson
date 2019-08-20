@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"eb6c4422a646aadc6a27a4c6096c4a99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"948fb356be7ee77b30f4f0cecf8de998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833273,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833273,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337280,
     "wof:name":"Podvornice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.034466215637835,
-    48.191351429353084,
-    17.034466215637835,
-    48.191351429353084
+    17.03446621563783,
+    48.19135142935308,
+    17.03446621563783,
+    48.19135142935308
 ],
   "geometry": {"coordinates":[17.03446621563783,48.19135142935308],"type":"Point"}
 }

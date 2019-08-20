@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"93bdb173b524d6cede191d797ee7c87b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b2e75a37b74a52bb543c743aeb3ebd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832849,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832849,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337236,
     "wof:name":"Male palenisko",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.154591251114322,
-    48.134329785722606,
-    17.154591251114322,
-    48.134329785722606
+    17.15459125111432,
+    48.13432978572261,
+    17.15459125111432,
+    48.13432978572261
 ],
   "geometry": {"coordinates":[17.15459125111432,48.13432978572261],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"99516e9100db30ae0e145a0e73a3a31d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c3c3932a9627a35f949152853b625da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832939,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832939,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337247,
     "wof:name":"Jurajov dvor",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.161858253061737,
-    48.179410219684364,
-    17.161858253061737,
-    48.179410219684364
+    17.16185825306174,
+    48.17941021968436,
+    17.16185825306174,
+    48.17941021968436
 ],
   "geometry": {"coordinates":[17.16185825306174,48.17941021968436],"type":"Point"}
 }

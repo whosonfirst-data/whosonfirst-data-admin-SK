@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"04c95c0d6a541096b18d3747520ea49f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35ef28de20d9ed0271031cad1f757767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833411,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833411,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337295,
     "wof:name":"Krcace",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.050859885385382,
+    17.05085988538538,
     48.17180754257701,
-    17.050859885385382,
+    17.05085988538538,
     48.17180754257701
 ],
   "geometry": {"coordinates":[17.05085988538538,48.17180754257701],"type":"Point"}

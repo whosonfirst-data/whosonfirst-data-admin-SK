@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"9191537267c0aa7665f4a06bfd277ea4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e39023dfc8ef2826dc5273787e84f643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833161,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833161,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337275,
     "wof:name":"Kutiky",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.047626927826077,
+    17.04762692782608,
     48.16197078254932,
-    17.047626927826077,
+    17.04762692782608,
     48.16197078254932
 ],
   "geometry": {"coordinates":[17.04762692782608,48.16197078254932],"type":"Point"}

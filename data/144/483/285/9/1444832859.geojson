@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"0f17bf540f7e0ea8b2e2eabf3383059c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f37aebf51c6e0e0d69d80c087a6a4adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832859,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832859,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337239,
     "wof:name":"Nove palenisko",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     17.16111438672067,
-    48.138301202767366,
+    48.13830120276737,
     17.16111438672067,
-    48.138301202767366
+    48.13830120276737
 ],
   "geometry": {"coordinates":[17.16111438672067,48.13830120276737],"type":"Point"}
 }

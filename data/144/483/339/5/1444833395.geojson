@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"355accbda85f3925ba62b7ddac3ab803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6308e75e2a8271e8174820ddeb31f5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833395,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833395,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337294,
     "wof:name":"Slovinec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.973489611558204,
+    16.9734896115582,
     48.20489682983192,
-    16.973489611558204,
+    16.9734896115582,
     48.20489682983192
 ],
   "geometry": {"coordinates":[16.9734896115582,48.20489682983192],"type":"Point"}

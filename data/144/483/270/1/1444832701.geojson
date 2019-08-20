@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"26978a67c4bb051566af9865f5d9493c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb40b2eb602d05ace9c185de84e0879d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832701,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832701,
-    "wof:lastmodified":1566335475,
+    "wof:lastmodified":1566337220,
     "wof:name":"Zilinska",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -48,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.111332562356466,
-    48.154928175213094,
-    17.111332562356466,
-    48.154928175213094
+    17.11133256235647,
+    48.15492817521309,
+    17.11133256235647,
+    48.15492817521309
 ],
   "geometry": {"coordinates":[17.11133256235647,48.15492817521309],"type":"Point"}
 }

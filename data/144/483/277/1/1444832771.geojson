@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"9e776a4de70617201eba63b027b8fca2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2f7fd9d5f58f13b6ee6f6e34bc44392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832771,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832771,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337228,
     "wof:name":"Podunajskych Biskupic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.212383943767033,
+    17.21238394376703,
     48.12623325347173,
-    17.212383943767033,
+    17.21238394376703,
     48.12623325347173
 ],
   "geometry": {"coordinates":[17.21238394376703,48.12623325347173],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"3d18e6fd70be73e7d934f599af17a9c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63e28af9271ff06b33fc4cc83dd5555b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832625,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444832625,
-    "wof:lastmodified":1566335475,
+    "wof:lastmodified":1566337210,
     "wof:name":"Kopcany",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.086010743345952,
-    48.112961270395694,
-    17.086010743345952,
-    48.112961270395694
+    17.08601074334595,
+    48.11296127039569,
+    17.08601074334595,
+    48.11296127039569
 ],
   "geometry": {"coordinates":[17.08601074334595,48.11296127039569],"type":"Point"}
 }

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"f8f3fe975c2789588f2274e88222ae5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53f8ada162cef68be249f3c6dd2fbdfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833337,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833337,
-    "wof:lastmodified":1566335477,
+    "wof:lastmodified":1566337288,
     "wof:name":"Dev\u00ednske Jazero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.959392935677066,
-    48.250805201892085,
-    16.959392935677066,
-    48.250805201892085
+    16.95939293567707,
+    48.25080520189208,
+    16.95939293567707,
+    48.25080520189208
 ],
   "geometry": {"coordinates":[16.95939293567707,48.25080520189208],"type":"Point"}
 }

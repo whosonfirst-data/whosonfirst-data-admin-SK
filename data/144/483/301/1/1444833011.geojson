@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080459,
+        85688373
+    ],
     "wof:breaches":[],
     "wof:country":"SK",
     "wof:geomhash":"56292a0a7d9da2e1629dbb9f5f21a36b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":-1,
+            "neighbourhood_id":1444833011,
+            "region_id":85688373
+        }
+    ],
     "wof:id":1444833011,
-    "wof:lastmodified":1566335476,
+    "wof:lastmodified":1566337257,
     "wof:name":"Briezky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
