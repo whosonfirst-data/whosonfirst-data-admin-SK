@@ -1,0 +1,68 @@
+{
+  "id": 1444833349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9988178518,48.2035375477,16.9988178518,48.2035375477",
+    "geom:latitude":48.203538,
+    "geom:longitude":16.998818,
+    "iso:country":"SK",
+    "lbl:latitude":48.203538,
+    "lbl:longitude":16.998818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Vapenka"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00e1penka"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"13ddab8cde71f82309cb795768a832cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833349,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1444833349,
+    "wof:lastmodified":1566337289,
+    "wof:name":"Vapenka",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99881785175403,
+    48.20353754765581,
+    16.99881785175403,
+    48.20353754765581
+],
+  "geometry": {"coordinates":[16.99881785175403,48.20353754765581],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1444833317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9773601688,48.2039379812,16.9773601688,48.2039379812",
+    "geom:latitude":48.203938,
+    "geom:longitude":16.97736,
+    "iso:country":"SK",
+    "lbl:latitude":48.203938,
+    "lbl:longitude":16.97736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Podhorske"
+    ],
+    "name:slk_x_preferred":[
+        "Podhorsk\u00e9"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080461,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"17e333944d22d2fc2964d0ad00ef02a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080461,
+            "locality_id":-1,
+            "neighbourhood_id":1444833317,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1444833317,
+    "wof:lastmodified":1566337285,
+    "wof:name":"Podhorske",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97736016883841,
+    48.20393798122324,
+    16.97736016883841,
+    48.20393798122324
+],
+  "geometry": {"coordinates":[16.97736016883841,48.20393798122324],"type":"Point"}
+}

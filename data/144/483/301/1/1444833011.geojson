@@ -1,0 +1,68 @@
+{
+  "id": 1444833011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1171690521,48.175098567,17.1171690521,48.175098567",
+    "geom:latitude":48.175099,
+    "geom:longitude":17.117169,
+    "iso:country":"SK",
+    "lbl:latitude":48.175098,
+    "lbl:longitude":17.117169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Briezky"
+    ],
+    "name:slk_x_preferred":[
+        "Brie\u017eky"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"56292a0a7d9da2e1629dbb9f5f21a36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":-1,
+            "neighbourhood_id":1444833011,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1444833011,
+    "wof:lastmodified":1566337257,
+    "wof:name":"Briezky",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11716905210949,
+    48.1750985670031,
+    17.11716905210949,
+    48.1750985670031
+],
+  "geometry": {"coordinates":[17.11716905210949,48.1750985670031],"type":"Point"}
+}

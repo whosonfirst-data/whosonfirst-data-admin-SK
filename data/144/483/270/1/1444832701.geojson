@@ -1,0 +1,72 @@
+{
+  "id": 1444832701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1113325624,48.1549281752,17.1113325624,48.1549281752",
+    "geom:latitude":48.154928,
+    "geom:longitude":17.111333,
+    "iso:country":"SK",
+    "lbl:latitude":48.154928,
+    "lbl:longitude":17.111332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Zilinska"
+    ],
+    "name:slk_x_preferred":[
+        "\u017dilinsk\u00e1"
+    ],
+    "name:slk_x_variant":[
+        "Oblas\u0165 \u017dilinsk\u00e1"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"bb40b2eb602d05ace9c185de84e0879d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444832701,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1444832701,
+    "wof:lastmodified":1566337220,
+    "wof:name":"Zilinska",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11133256235647,
+    48.15492817521309,
+    17.11133256235647,
+    48.15492817521309
+],
+  "geometry": {"coordinates":[17.11133256235647,48.15492817521309],"type":"Point"}
+}

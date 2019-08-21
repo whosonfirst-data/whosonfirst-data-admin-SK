@@ -1,0 +1,69 @@
+{
+  "id": 1444833101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1603165276,48.193021539,17.1603165276,48.193021539",
+    "geom:latitude":48.193022,
+    "geom:longitude":17.160317,
+    "iso:country":"SK",
+    "lbl:latitude":48.193022,
+    "lbl:longitude":17.160317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Zab\u00ed majer"
+    ],
+    "name:slk_x_preferred":[
+        "\u017dab\u00ed majer"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"4234beed7be411b0cf3cb7aa54b2ae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833101,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1444833101,
+    "wof:lastmodified":1566337269,
+    "wof:name":"Zab\u00ed majer",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16031652757859,
+    48.19302153900239,
+    17.16031652757859,
+    48.19302153900239
+],
+  "geometry": {"coordinates":[17.16031652757859,48.19302153900239],"type":"Point"}
+}

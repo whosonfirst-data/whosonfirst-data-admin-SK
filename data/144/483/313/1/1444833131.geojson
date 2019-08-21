@@ -1,0 +1,69 @@
+{
+  "id": 1444833131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0472836049,48.1519698921,17.0472836049,48.1519698921",
+    "geom:latitude":48.15197,
+    "geom:longitude":17.047284,
+    "iso:country":"SK",
+    "lbl:latitude":48.15197,
+    "lbl:longitude":17.047284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Dlhe diely"
+    ],
+    "name:slk_x_preferred":[
+        "Dlh\u00e9 diely"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        1108800123,
+        102080459,
+        85688373
+    ],
+    "wof:breaches":[],
+    "wof:country":"SK",
+    "wof:geomhash":"c35b0d4bb61f8d32f0d35dbe1a5060ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080459,
+            "locality_id":1108800123,
+            "neighbourhood_id":1444833131,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":1444833131,
+    "wof:lastmodified":1566337274,
+    "wof:name":"Dlhe diely",
+    "wof:parent_id":1108800123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04728360489942,
+    48.15196989210713,
+    17.04728360489942,
+    48.15196989210713
+],
+  "geometry": {"coordinates":[17.04728360489942,48.15196989210713],"type":"Point"}
+}
