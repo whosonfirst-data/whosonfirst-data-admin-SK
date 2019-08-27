@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.994773,
     "lbl:longitude":20.359158,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.994773,
     "mps:longitude":20.359158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Spi\u0161sk\u00fd \u0160tiavnik"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0438\u0441\u044c\u043a\u0438\u0439 \u0428\u0442\u044f\u0432\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160\u0165avn\u00edk"
     ],
     "name:war_x_preferred":[
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.995,
     "wd:longitude":20.36,
     "wd:wordcount":93,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":723514,
         "gp:id":822367,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q528102",
         "wk:page":"Spi\u0161sk\u00fd \u0160tiavnik"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101780527,
-    "wof:lastmodified":1563254618,
+    "wof:lastmodified":1566645811,
     "wof:name":"Spi\u0161sk\u00fd \u0160tiavnik",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

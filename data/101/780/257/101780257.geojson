@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.872037,
     "lbl:longitude":20.989509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.872037,
     "mps:longitude":20.989509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jaklovce"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":724595,
         "gp:id":819974,
-        "qs:id":885833,
+        "qs_pg:id":885833,
         "wd:id":"Q680906",
         "wk:page":"Jaklovce"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101780257,
-    "wof:lastmodified":1563254594,
+    "wof:lastmodified":1566645805,
     "wof:name":"Jaklovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

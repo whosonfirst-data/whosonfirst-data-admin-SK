@@ -10,8 +10,10 @@
     "geom:latitude":48.154928,
     "geom:longitude":17.111333,
     "iso:country":"SK",
+    "lbl:bbox":"17.1063325624,48.1499281752,17.1163325624,48.1599281752",
     "lbl:latitude":48.154928,
     "lbl:longitude":17.111332,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,11 +35,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1444832701,
-    "wof:lastmodified":1566337220,
+    "wof:lastmodified":1566645596,
     "wof:name":"Zilinska",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

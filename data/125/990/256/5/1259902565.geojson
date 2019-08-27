@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.36078,49.2779,20.40078,49.3179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Re\u013eov"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043b\u044c\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "Re\u013eov"
-    ],
     "name:war_x_preferred":[
         "Re\u013eov"
     ],
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1259902565,
-    "wof:lastmodified":1564311415,
+    "wof:lastmodified":1566645995,
     "wof:name":"Rel'ov",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

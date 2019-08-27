@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.88594,48.47306,17.92594,48.51306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tekol\u010fany"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043a\u043e\u043b\u0434\u044f\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Tekol\u010fany"
-    ],
     "name:war_x_preferred":[
         "Tekol\u010fany"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1242976819,
-    "wof:lastmodified":1564311374,
+    "wof:lastmodified":1566645975,
     "wof:name":"Tekold'any",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

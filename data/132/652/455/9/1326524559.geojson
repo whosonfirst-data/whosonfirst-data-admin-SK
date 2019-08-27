@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.70021,48.46487,17.74021,48.50487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pe\u010de\u0148ady"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u0447\u0435\u045a\u0430\u0434\u0438"
     ],
-    "name:und_x_variant":[
-        "Pe\u010de\u0148ady"
-    ],
     "name:war_x_preferred":[
         "Pe\u010de\u0148ady"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1326524559,
-    "wof:lastmodified":1564310494,
+    "wof:lastmodified":1566645355,
     "wof:name":"Pecenady",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

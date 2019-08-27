@@ -11,8 +11,10 @@
     "geom:longitude":21.283496,
     "gn:id":"",
     "iso:country":"SK",
+    "lbl:bbox":"21.278496,48.727313,21.288496,48.737313",
     "lbl:latitude":48.732313,
     "lbl:longitude":21.283496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.73821,
     "mps:longitude":21.288588,
     "mz:hierarchy_label":0,
@@ -54,12 +56,6 @@
     "name:und_x_colloquial":[
         "Dargovskych hrdinov"
     ],
-    "name:und_x_preferred":[
-        "Dargovsk\u00fdch hrdinov"
-    ],
-    "name:unk_x_variant":[
-        "Dargovsk\u00fdch hrdinov"
-    ],
     "qs:gn_adm0_cc":"SK",
     "qs:gn_id":0,
     "qs:gn_local":724443,
@@ -89,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688359,
         102191581,
@@ -100,7 +96,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55867260,
-        "qs:id":213529,
         "qs_pg:id":213529
     },
     "wof:country":"SK",
@@ -119,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564310647,
+    "wof:lastmodified":1566645445,
     "wof:name":"Dargovsk\u00fdch hrdinov",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

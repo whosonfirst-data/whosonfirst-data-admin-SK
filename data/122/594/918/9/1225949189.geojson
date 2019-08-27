@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.54731,48.97701,21.58731,49.01701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cierne nad Top\u013eou"
     ],
@@ -74,8 +78,7 @@
         "\u0427\u0454\u0440\u043d\u0435-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
     ],
     "name:und_x_variant":[
-        "\u010cern\u00e9",
-        "\u010cierne nad Top\u013eou"
+        "\u010cern\u00e9"
     ],
     "name:war_x_preferred":[
         "\u010cierne nad Top\u013eou"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1225949189,
-    "wof:lastmodified":1564311480,
+    "wof:lastmodified":1566646025,
     "wof:name":"Cierne nad Topl'ou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.093926,
     "lbl:longitude":17.964027,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.093926,
     "mps:longitude":17.964027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Selice"
     ],
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0435\u043b\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Szel\u00f6ce"
     ],
     "name:war_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":310,
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3057698,
         "gp:id":822162,
-        "qs:id":905030,
         "qs_pg:id":905030,
         "wd:id":"Q645134",
         "wk:page":"Selice"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101786385,
-    "wof:lastmodified":1563254531,
+    "wof:lastmodified":1566645790,
     "wof:name":"Selice",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

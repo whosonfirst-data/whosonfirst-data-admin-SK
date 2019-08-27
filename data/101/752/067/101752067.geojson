@@ -13,6 +13,8 @@
     "iso:country":"SK",
     "lbl:latitude":48.984241,
     "lbl:longitude":21.258354,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.984241,
     "mps:longitude":21.258354,
     "mz:hierarchy_label":1,
@@ -246,11 +248,8 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u044f\u0448\u0456\u0432"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Presov"
-    ],
-    "name:unk_x_variant":[
-        "Eperjes"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u06cc\u0634\u0648\u0648"
@@ -376,7 +375,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.0,
     "wd:longitude":21.233333,
@@ -392,7 +391,6 @@
         "fct:id":"070d9cac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723819,
         "gp:id":821782,
-        "qs:id":239941,
         "qs_pg:id":239941,
         "wd:id":"Q26119",
         "wk:page":"Pre\u0161ov"
@@ -412,7 +410,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254170,
+    "wof:lastmodified":1566645690,
     "wof:name":"Pre\u0161ov",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

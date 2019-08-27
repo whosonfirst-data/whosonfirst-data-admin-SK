@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.700615,
     "lbl:longitude":18.529557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.700615,
     "mps:longitude":18.529557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zemianske Kosto\u013eany"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3056537,
         "gp:id":823358,
-        "qs:id":255589,
+        "qs_pg:id":255589,
         "wd:id":"Q189354",
         "wk:page":"Zemianske Kosto\u013eany"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101781673,
-    "wof:lastmodified":1563254485,
+    "wof:lastmodified":1566645778,
     "wof:name":"Zemianske Kosto\u013eany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

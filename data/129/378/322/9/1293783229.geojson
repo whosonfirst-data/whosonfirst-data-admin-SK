@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.55745,49.26113,20.59745,49.30113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ni\u017en\u00e9 Ru\u017ebachy"
     ],
@@ -78,8 +82,7 @@
     ],
     "name:und_x_variant":[
         "Druzbaki Ni\u017cny",
-        "Ni\u017enie Ru\u017ebachy",
-        "Ni\u017en\u00e9 Ru\u017ebachy"
+        "Ni\u017enie Ru\u017ebachy"
     ],
     "name:war_x_preferred":[
         "Ni\u017en\u00e9 Ru\u017ebachy"
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1293783229,
-    "wof:lastmodified":1564310686,
+    "wof:lastmodified":1566645471,
     "wof:name":"Nizne Ruzbachy",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

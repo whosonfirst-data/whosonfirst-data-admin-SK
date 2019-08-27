@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.462975,
     "lbl:longitude":17.493392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.462975,
     "mps:longitude":17.493392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Boler\u00e1z"
     ],
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u0459\u0435\u0440\u0430\u0437"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Boleraz"
     ],
     "name:war_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,6 @@
         "fct:id":"070d1124-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061011,
         "gp:id":818680,
-        "qs:id":887484,
         "qs_pg:id":887484,
         "wd:id":"Q428141",
         "wk:page":"Boler\u00e1z"
@@ -126,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254405,
+    "wof:lastmodified":1566645756,
     "wof:name":"Boler\u00e1z",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

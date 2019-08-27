@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.753325,
     "lbl:longitude":21.900614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":48.753325,
     "mps:longitude":21.900614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062e\u0627\u0644\u0648\u0641\u062a\u0633\u0649"
     ],
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Michalovce"
-    ],
     "name:vie_x_preferred":[
         "Michalovce"
     ],
@@ -178,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.7575,
     "wd:longitude":21.918333,
@@ -195,7 +195,6 @@
         "fct:id":"070c57a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":724144,
         "gp:id":821011,
-        "qs:id":900989,
         "qs_pg:id":900989,
         "wd:id":"Q460925",
         "wk:page":"Michalovce"
@@ -215,7 +214,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254574,
+    "wof:lastmodified":1566645800,
     "wof:name":"Michalovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

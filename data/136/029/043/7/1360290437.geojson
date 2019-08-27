@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.82669,49.0328,21.86669,49.0728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Turcovce"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1360290437,
-    "wof:lastmodified":1564311097,
+    "wof:lastmodified":1566645682,
     "wof:name":"Turcovce",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

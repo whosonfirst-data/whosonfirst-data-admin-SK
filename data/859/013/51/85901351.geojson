@@ -12,8 +12,10 @@
     "gn:latitude":48.03052,
     "gn:longitude":17.19978,
     "iso:country":"SK",
+    "lbl:bbox":"17.217099,48.027688,17.227099,48.037688",
     "lbl:latitude":48.032688,
     "lbl:longitude":17.222099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.032181,
     "mps:longitude":17.2107,
     "mz:hierarchy_label":0,
@@ -83,15 +85,6 @@
         "Cunovo",
         "Dunacsun"
     ],
-    "name:und_x_preferred":[
-        "\u010cunovo"
-    ],
-    "name:und_x_variant":[
-        "Dunacs\u00fan"
-    ],
-    "name:unk_x_variant":[
-        "\u010cunovo"
-    ],
     "name:zho_x_preferred":[
         "\u5eab\u8afe\u6c83"
     ],
@@ -124,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":261,
     "wof:belongsto":[
         85688373,
@@ -136,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3060621,
         "gp:id":819050,
-        "qs:id":244793,
         "qs_pg:id":244793,
         "wd:id":"Q341724",
         "wk:page":"\u010cunovo"
@@ -157,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253709,
+    "wof:lastmodified":1566645442,
     "wof:name":"\u010cunovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

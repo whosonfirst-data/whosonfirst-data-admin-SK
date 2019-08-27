@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.561913,
     "lbl:longitude":18.309877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.561913,
     "mps:longitude":18.309877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kl\u00e1tova Nov\u00e1 Ves"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3059507,
         "gp:id":820192,
-        "qs:id":1181543,
         "qs_pg:id":1181543,
         "wd:id":"Q279331",
         "wk:page":"Kl\u00e1tova Nov\u00e1 Ves"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101784083,
-    "wof:lastmodified":1563254433,
+    "wof:lastmodified":1566645764,
     "wof:name":"Kl\u00e1tova Nov\u00e1 Ves",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

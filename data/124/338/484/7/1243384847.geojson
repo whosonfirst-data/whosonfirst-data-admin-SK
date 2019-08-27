@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.69442,47.80565,17.73442,47.84565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrbina"
     ],
@@ -50,8 +54,7 @@
         "\u0412\u0440\u0431\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Dvor Vrbina",
-        "Vrbina"
+        "Dvor Vrbina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1243384847,
-    "wof:lastmodified":1564311291,
+    "wof:lastmodified":1566645940,
     "wof:name":"Vrbina",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

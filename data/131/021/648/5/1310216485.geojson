@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.04913,48.75843,22.08913,48.79843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hnojn\u00e9"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043d\u043e\u0439\u043d\u0435"
     ],
-    "name:und_x_variant":[
-        "Hnojn\u00e9"
-    ],
     "name:war_x_preferred":[
         "Hnojn\u00e9"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1310216485,
-    "wof:lastmodified":1564311051,
+    "wof:lastmodified":1566645659,
     "wof:name":"Hnojne",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

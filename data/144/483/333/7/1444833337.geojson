@@ -10,8 +10,10 @@
     "geom:latitude":48.250805,
     "geom:longitude":16.959393,
     "iso:country":"SK",
+    "lbl:bbox":"16.9543929357,48.2458052019,16.9643929357,48.2558052019",
     "lbl:latitude":48.250805,
     "lbl:longitude":16.959393,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
-        102080461,
-        85688373
+        102080461
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833337,
-    "wof:lastmodified":1566337288,
+    "wof:lastmodified":1566645596,
     "wof:name":"Dev\u00ednske Jazero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.629004,
     "lbl:longitude":18.385525,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.629004,
     "mps:longitude":18.385525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u062a\u064a\u0632\u0627\u0646\u0633\u0643\u0649"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ba\u0165ovany"
     ],
     "name:war_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.633333,
     "wd:longitude":18.366667,
@@ -172,7 +175,6 @@
     "wof:concordances":{
         "gn:id":3058268,
         "gp:id":821508,
-        "qs:id":940099,
         "qs_pg:id":940099,
         "wd:id":"Q754768",
         "wk:page":"Partiz\u00e1nske"
@@ -189,7 +191,7 @@
         }
     ],
     "wof:id":101784085,
-    "wof:lastmodified":1563254436,
+    "wof:lastmodified":1566645764,
     "wof:name":"Partiz\u00e1nske",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.97506,48.99341,22.01506,49.03341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ma\u0161kovce"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0448\u043a\u0456\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Ma\u0161kovce"
-    ],
     "name:war_x_preferred":[
         "Ma\u0161kovce"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1259788307,
-    "wof:lastmodified":1564311441,
+    "wof:lastmodified":1566646008,
     "wof:name":"Maskovce",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.67514,48.52343,18.71514,48.56343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309729767,
-    "wof:lastmodified":1537039022,
+    "wof:lastmodified":1566645839,
     "wof:name":"Smelakovci",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

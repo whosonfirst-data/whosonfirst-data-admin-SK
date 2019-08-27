@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.246072,
     "lbl:longitude":18.464613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.246072,
     "mps:longitude":18.464613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u064a\u0627\u0628\u0646\u064a\u0643"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u044f\u0432\u043d\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160\u0165avn\u00edk"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3057441,
         "gp:id":822430,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q305385",
         "wk:page":"\u0160tiavnik"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101843929,
-    "wof:lastmodified":1563254252,
+    "wof:lastmodified":1566645712,
     "wof:name":"\u0160tiavnik",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

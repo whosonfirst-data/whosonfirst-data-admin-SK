@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.808968,
     "lbl:longitude":21.967872,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.808968,
     "mps:longitude":21.967872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Vinn\u00e9"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vinn\u00e1"
     ],
     "name:war_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":723224,
         "gp:id":823060,
-        "qs:id":1217105,
         "qs_pg:id":1217105,
         "wd:id":"Q1187936",
         "wk:page":"Vinn\u00e9"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101843895,
-    "wof:lastmodified":1563254211,
+    "wof:lastmodified":1566645700,
     "wof:name":"Vinn\u00e9",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.802791,
     "lbl:longitude":20.803615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.802791,
     "mps:longitude":20.803615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mn\u00ed\u0161ek nad Hnilcom"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043d\u0456\u0448\u0435\u043a-\u043d\u0430\u0434-\u0413\u043d\u0456\u043b\u0446\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mi\u0161ek"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":724122,
         "gp:id":821062,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1073009",
         "wk:page":"Mn\u00ed\u0161ek nad Hnilcom"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101780251,
-    "wof:lastmodified":1563254606,
+    "wof:lastmodified":1566645808,
     "wof:name":"Mn\u00ed\u0161ek nad Hnilcom",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

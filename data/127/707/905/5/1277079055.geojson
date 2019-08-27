@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.58193,49.13884,21.62193,49.17884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161n\u00e1 Ol\u0161ava"
     ],
@@ -78,8 +82,7 @@
     ],
     "name:und_x_variant":[
         "Vy\u0161nia O\u013e\u0161ava",
-        "Vy\u0161n\u00ed Ol\u0161ava",
-        "Vy\u0161n\u00e1 Ol\u0161ava"
+        "Vy\u0161n\u00ed Ol\u0161ava"
     ],
     "name:war_x_preferred":[
         "Vy\u0161n\u00e1 Ol\u0161ava"
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1277079055,
-    "wof:lastmodified":1564310758,
+    "wof:lastmodified":1566645507,
     "wof:name":"Vysna Olsava",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

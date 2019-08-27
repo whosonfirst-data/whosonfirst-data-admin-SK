@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.44773,49.13042,18.48773,49.17042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Kisfarkasd"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276682917,
-    "wof:lastmodified":1564310797,
+    "wof:lastmodified":1566645527,
     "wof:name":"Vrtizer",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

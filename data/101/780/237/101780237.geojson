@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.026291,
     "lbl:longitude":18.211234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.026291,
     "mps:longitude":18.211234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Prusk\u00e9"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0443\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "Poroszka"
-    ],
     "name:war_x_preferred":[
         "Prusk\u00e9"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3057971,
         "gp:id":821823,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q481770",
         "wk:page":"Prusk\u00e9"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101780237,
-    "wof:lastmodified":1563254666,
+    "wof:lastmodified":1566645821,
     "wof:name":"Prusk\u00e9",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

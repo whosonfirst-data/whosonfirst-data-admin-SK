@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.95066,48.43371,19.99066,48.47371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ni\u017en\u00fd Sk\u00e1lnik"
     ],
@@ -68,8 +72,7 @@
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u0421\u043a\u0430\u043b\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Ni\u017en\u00ed Sk\u00e1lnik",
-        "Ni\u017en\u00fd Sk\u00e1lnik"
+        "Ni\u017en\u00ed Sk\u00e1lnik"
     ],
     "name:war_x_preferred":[
         "Ni\u017en\u00fd Sk\u00e1lnik"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1326547621,
-    "wof:lastmodified":1564310509,
+    "wof:lastmodified":1566645362,
     "wof:name":"Nizny Skalnik",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

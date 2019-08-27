@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.47112,49.12051,19.51112,49.16051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "I\u017eipovce"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1326849153,
-    "wof:lastmodified":1564310487,
+    "wof:lastmodified":1566645350,
     "wof:name":"Izipovce",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

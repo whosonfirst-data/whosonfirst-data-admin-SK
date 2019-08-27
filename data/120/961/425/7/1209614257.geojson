@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.53088,49.12593,21.57088,49.16593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sobo\u0161"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u043e\u0448"
     ],
-    "name:und_x_variant":[
-        "Sobo\u0161"
-    ],
     "name:war_x_preferred":[
         "Sobo\u0161"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1209614257,
-    "wof:lastmodified":1564310890,
+    "wof:lastmodified":1566645570,
     "wof:name":"Sobos",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

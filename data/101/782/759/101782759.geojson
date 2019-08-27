@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.467881,
     "lbl:longitude":19.551424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.467881,
     "mps:longitude":19.551424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "M\u00fdtna"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":221,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058607,
         "gp:id":821139,
-        "qs:id":184178,
+        "qs_pg:id":184178,
         "wd:id":"Q249843",
         "wk:page":"M\u00fdtna"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101782759,
-    "wof:lastmodified":1563254390,
+    "wof:lastmodified":1566645752,
     "wof:name":"M\u00fdtna",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

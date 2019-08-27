@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.21537,48.57098,21.25537,48.61098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bo\u010diar"
     ],
@@ -74,8 +78,7 @@
         "\u0411\u043e\u0447\u0456\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Bo\u010dar",
-        "Bo\u010diar"
+        "Bo\u010dar"
     ],
     "name:war_x_preferred":[
         "Bo\u010diar"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1343859973,
-    "wof:lastmodified":1564310574,
+    "wof:lastmodified":1566645406,
     "wof:name":"Bociar",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

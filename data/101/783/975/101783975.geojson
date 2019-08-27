@@ -9,14 +9,17 @@
     "geom:bbox":"18.7287241123,48.2531235685,18.74942346,48.2720787424",
     "geom:latitude":48.261597,
     "geom:longitude":18.739629,
-    "geonames:id":"3056543,3059956",
+    "gn:id":"3056543,3059956",
     "iso:country":"SK",
     "lbl:latitude":48.260869,
     "lbl:longitude":18.740649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.260869,
     "mps:longitude":18.740649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u017demberovce"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3056543,
         "gp:id":823352,
-        "qs:id":940154,
+        "qs_pg:id":940154,
         "wd:id":"Q1044753",
         "wk:page":"\u017demberovce"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101783975,
-    "wof:lastmodified":1563254428,
+    "wof:lastmodified":1566645762,
     "wof:name":"\u017demberovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

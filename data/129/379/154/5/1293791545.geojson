@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.011,48.56292,22.051,48.60292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mok\u010da-Krisov",
         "Mokcsa-Ker\u00e9sz",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293791545,
-    "wof:lastmodified":1537700363,
+    "wof:lastmodified":1566645463,
     "wof:name":"Krizany",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

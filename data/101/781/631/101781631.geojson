@@ -14,10 +14,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.654915,
     "lbl:longitude":19.312452,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.654915,
     "mps:longitude":19.312452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Hrocho\u0165"
     ],
@@ -81,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0445\u043e\u0442\u044c"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Hrochot"
     ],
     "name:war_x_preferred":[
@@ -102,7 +105,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -116,7 +119,7 @@
         "fct:id":"070cb292-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3059865,
         "gp:id":29400692,
-        "qs:id":1160905,
+        "qs_pg:id":1160905,
         "wd:id":"Q1020068",
         "wk:page":"Hrocho\u0165"
     },
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254510,
+    "wof:lastmodified":1566645785,
     "wof:name":"Hrocho\u0165",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

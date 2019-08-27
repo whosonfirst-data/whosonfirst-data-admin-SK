@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.15482,48.28981,18.19482,48.32981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343786017,
-    "wof:lastmodified":1536774776,
+    "wof:lastmodified":1566645411,
     "wof:name":"Pustatina Jager",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

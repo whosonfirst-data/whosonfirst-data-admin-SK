@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.60176,48.60913,20.64176,48.64913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lipovn\u00edk"
     ],
@@ -67,10 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u043e\u0432\u043d\u0456\u043a"
     ],
-    "name:und_x_variant":[
-        "H\u00e1rsk\u00fat",
-        "Lipovn\u00edk"
-    ],
     "name:war_x_preferred":[
         "Lipovn\u00edk"
     ],
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1309814971,
-    "wof:lastmodified":1564311163,
+    "wof:lastmodified":1566645838,
     "wof:name":"Lipovnik",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

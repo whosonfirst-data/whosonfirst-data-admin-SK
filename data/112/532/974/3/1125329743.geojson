@@ -9,15 +9,18 @@
     "geom:bbox":"18.71565,48.48124,18.71565,48.48124",
     "geom:latitude":48.48124,
     "geom:longitude":18.71565,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6596,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:population":6596,
     "iso:country":"SK",
+    "lbl:bbox":"18.61565,48.38124,18.81565,48.58124",
     "lbl:latitude":48.48124,
     "lbl:longitude":18.71565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u0646\u0648\u0641\u064a\u062a\u0633\u0627"
@@ -34,7 +37,7 @@
     "name:srp_x_preferred":[
         "\u0416\u0430\u0440\u043d\u043e\u0432\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017darovnica"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +62,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":29402033,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125329743,
-    "wof:lastmodified":1509388341,
+    "wof:lastmodified":1566645859,
     "wof:name":"Zarnovica",
     "wof:parent_id":102080499,
     "wof:placetype":"localadmin",

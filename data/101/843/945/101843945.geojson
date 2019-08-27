@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.311685,
     "lbl:longitude":18.742885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.311685,
     "mps:longitude":18.742885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Neslu\u0161a"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":383,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3058542,
         "gp:id":821195,
-        "qs:id":1181649,
         "qs_pg:id":1181649,
         "wd:id":"Q1184474",
         "wk:page":"Neslu\u0161a"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101843945,
-    "wof:lastmodified":1563254255,
+    "wof:lastmodified":1566645713,
     "wof:name":"Neslu\u0161a",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

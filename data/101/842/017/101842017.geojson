@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.379697,
     "lbl:longitude":18.544798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.379697,
     "mps:longitude":18.544798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vysok\u00e1 nad Kysucou"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3056642,
         "gp:id":823237,
-        "qs:id":1013314,
         "qs_pg:id":1013314,
         "wd:id":"Q1034858",
         "wk:page":"Vysok\u00e1 nad Kysucou"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101842017,
-    "wof:lastmodified":1563254181,
+    "wof:lastmodified":1566645693,
     "wof:name":"Vysok\u00e1 nad Kysucou",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

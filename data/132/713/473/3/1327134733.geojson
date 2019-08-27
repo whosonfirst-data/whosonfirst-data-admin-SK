@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.11537,48.93148,18.15537,48.97148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Pr\u00edles"
     ],
@@ -52,9 +56,6 @@
     "name:swe_x_preferred":[
         "Pr\u00edles"
     ],
-    "name:und_x_variant":[
-        "Pr\u00edles"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1327134733,
-    "wof:lastmodified":1564310448,
+    "wof:lastmodified":1566645326,
     "wof:name":"Priles",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

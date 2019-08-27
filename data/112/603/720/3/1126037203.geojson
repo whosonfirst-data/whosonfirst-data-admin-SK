@@ -9,14 +9,18 @@
     "geom:bbox":"20.90886,49.24292,20.90886,49.24292",
     "geom:latitude":49.24292,
     "geom:longitude":20.90886,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"20.88886,49.22292,20.92886,49.26292",
     "lbl:latitude":49.24292,
     "lbl:longitude":20.90886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Jastrabie"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0435 \u042f\u0441\u0442\u0440\u0430\u0431'\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jastrabie"
     ],
     "name:war_x_preferred":[
@@ -102,7 +106,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":822107,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Presovsky",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1126037203,
-    "wof:lastmodified":1563254809,
+    "wof:lastmodified":1566645866,
     "wof:name":"Sarisske Jastrabie",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

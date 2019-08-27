@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.73734,47.88933,17.77734,47.92933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Bellepuszta"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293511011,
-    "wof:lastmodified":1537700416,
+    "wof:lastmodified":1566645480,
     "wof:name":"Janosikovo na Ostrove",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

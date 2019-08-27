@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.17908,48.62863,18.21908,48.66863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chud\u00e1 Lehota"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0434\u0430 \u041b\u0435\u0433\u043e\u0442\u0430"
     ],
-    "name:und_x_variant":[
-        "Chud\u00e1 Lehota"
-    ],
     "name:war_x_preferred":[
         "Chud\u00e1 Lehota"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1226652303,
-    "wof:lastmodified":1564311561,
+    "wof:lastmodified":1566646062,
     "wof:name":"Chuda Lehota",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.41011,48.83218,20.45011,48.87218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mlynky"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1226244569,
-    "wof:lastmodified":1564311546,
+    "wof:lastmodified":1566646054,
     "wof:name":"Mlynky",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

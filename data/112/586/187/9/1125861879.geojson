@@ -9,15 +9,18 @@
     "geom:bbox":"18.36608,47.7469,18.36608,47.7469",
     "geom:latitude":47.7469,
     "geom:longitude":18.36608,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":400,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"18.34608,47.7269,18.38608,47.7669",
     "lbl:latitude":47.7469,
     "lbl:longitude":18.36608,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Radva\u0148 nad Dunajom"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0432\u0430\u043d\u044c-\u043d\u0430\u0434-\u0414\u0443\u043d\u0430\u0454\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duna Radv\u00e1ny"
     ],
     "name:war_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821885,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1125861879,
-    "wof:lastmodified":1563254822,
+    "wof:lastmodified":1566645871,
     "wof:name":"Radva\u0148 nad Dunajom",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

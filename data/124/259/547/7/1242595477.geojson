@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.27192,48.20628,19.31192,48.24628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stredn\u00e9 Plachtince"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Strednie Plachtince",
-        "Stredn\u00ed Plachtince",
-        "Stredn\u00e9 Plachtince"
+        "Stredn\u00ed Plachtince"
     ],
     "name:war_x_preferred":[
         "Stredn\u00e9 Plachtince"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1242595477,
-    "wof:lastmodified":1564311333,
+    "wof:lastmodified":1566645957,
     "wof:name":"Stredne Plachtince",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.374711,
     "lbl:longitude":18.227845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.374711,
     "mps:longitude":18.227845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jelenec"
     ],
@@ -67,10 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0435\u043d\u0435\u0446"
     ],
-    "name:und_x_preferred":[
-        "Jelenec"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fdme\u0161"
     ],
     "name:war_x_preferred":[
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,6 @@
         "fct:id":"070d2290-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3059652,
         "gp:id":29402723,
-        "qs:id":318277,
         "qs_pg:id":318277,
         "wd:id":"Q1031404",
         "wk:page":"Jelenec"
@@ -129,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254417,
+    "wof:lastmodified":1566645759,
     "wof:name":"Jelenec",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

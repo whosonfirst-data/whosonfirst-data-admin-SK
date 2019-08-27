@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.756378,
     "lbl:longitude":21.981764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.756378,
     "mps:longitude":21.981764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zalu\u017eice"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":724197,
         "gp:id":820888,
-        "qs:id":1271414,
+        "qs_pg:id":1271414,
         "wd:id":"Q1073201"
     },
     "wof:country":"SK",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101780293,
-    "wof:lastmodified":1563254605,
+    "wof:lastmodified":1566645807,
     "wof:name":"Zalu\u017eice",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

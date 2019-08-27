@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.28997,48.18002,19.32997,48.22002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00e9 Plachtince"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Dolni Plachtince",
-        "Dolnie Plachtince",
-        "Doln\u00e9 Plachtince"
+        "Dolnie Plachtince"
     ],
     "name:war_x_preferred":[
         "Doln\u00e9 Plachtince"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1193154729,
-    "wof:lastmodified":1564310950,
+    "wof:lastmodified":1566645608,
     "wof:name":"Dolne Plachtince",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

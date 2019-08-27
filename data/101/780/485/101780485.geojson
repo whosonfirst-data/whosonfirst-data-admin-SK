@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.136286,
     "lbl:longitude":20.95401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.136286,
     "mps:longitude":20.95401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dubovica"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":724852,
         "gp:id":819336,
-        "qs:id":1271066,
+        "qs_pg:id":1271066,
         "wd:id":"Q667673",
         "wk:page":"Dubovica"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101780485,
-    "wof:lastmodified":1563254581,
+    "wof:lastmodified":1566645801,
     "wof:name":"Dubovica",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

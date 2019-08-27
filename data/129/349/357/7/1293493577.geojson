@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.66125,47.91731,18.70125,47.95731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sikeni\u010dka"
     ],
@@ -63,8 +67,7 @@
     ],
     "name:und_x_variant":[
         "\u010earmotky",
-        "Kis-Gyarmat",
-        "Sikeni\u010dka"
+        "Kis-Gyarmat"
     ],
     "name:war_x_preferred":[
         "Sikeni\u010dka"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1293493577,
-    "wof:lastmodified":1564310681,
+    "wof:lastmodified":1566645469,
     "wof:name":"Sikenicka",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.269389,
     "lbl:longitude":21.904486,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.269389,
     "mps:longitude":21.904486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0632\u064a\u0644\u0627\u0628\u0648\u0631\u062a\u0633\u0649"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0436\u0438\u043b\u0430\u0431\u0456\u0440\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mez\u0151laborcz"
     ],
     "name:war_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.271667,
     "wd:longitude":21.904167,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":724156,
         "gp:id":820986,
-        "qs:id":128913,
         "qs_pg:id":128913,
         "wd:id":"Q578686",
         "wk:page":"Medzilaborce"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101780599,
-    "wof:lastmodified":1563254630,
+    "wof:lastmodified":1566645814,
     "wof:name":"Medzilaborce",
     "wof:parent_id":102080617,
     "wof:placetype":"locality",

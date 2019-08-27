@@ -12,8 +12,10 @@
     "gn:latitude":48.17997,
     "gn:longitude":17.13955,
     "iso:country":"SK",
+    "lbl:bbox":"17.133456,48.164345,17.143456,48.174345",
     "lbl:latitude":48.169345,
     "lbl:longitude":17.138456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.190027,
     "mps:longitude":17.121713,
     "mz:hierarchy_label":0,
@@ -77,12 +79,6 @@
     "name:und_x_colloquial":[
         "Nove Mesto"
     ],
-    "name:und_x_preferred":[
-        "Nov\u00e9 Mesto"
-    ],
-    "name:unk_x_variant":[
-        "Nov\u00e9 Mesto"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u63d0\u65af\u62c9\u74e6\u65b0\u57ce"
     ],
@@ -129,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3058478,
         "gp:id":821306,
-        "qs:id":459895,
         "qs_pg:id":459895,
         "wd:id":"Q740351",
         "wk:page":"Nov\u00e9 Mesto, Bratislava"
@@ -150,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645444,
     "wof:name":"Nov\u00e9 Mesto",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.469722,
     "lbl:longitude":16.926301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.469722,
     "mps:longitude":16.926301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gajary"
     ],
@@ -73,7 +76,7 @@
     "name:srp_x_preferred":[
         "\u0413\u0430\u0458\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gairing"
     ],
     "name:war_x_preferred":[
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":176,
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3076110,
         "gp:id":819452,
-        "qs:id":1207561,
         "qs_pg:id":1207561,
         "wd:id":"Q1007388",
         "wk:page":"Gajary"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101782733,
-    "wof:lastmodified":1563254383,
+    "wof:lastmodified":1566645750,
     "wof:name":"Gajary",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

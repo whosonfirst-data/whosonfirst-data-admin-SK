@@ -10,12 +10,16 @@
     "geom:latitude":48.506078,
     "geom:longitude":18.804151,
     "iso:country":"SK",
+    "lbl:bbox":"18.784151,48.486078,18.824151,48.526078",
     "lbl:latitude":48.506078,
     "lbl:longitude":18.804151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.506078,
     "mps:longitude":18.804151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vyhne"
     ],
@@ -100,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         102191581,
@@ -112,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3056668,
         "gp:id":823165,
-        "qs:id":339932,
         "qs_pg:id":339932,
         "wd:id":"Q1186961",
         "wk:page":"Vyhne"
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101858951,
-    "wof:lastmodified":1563254293,
+    "wof:lastmodified":1566645724,
     "wof:name":"Vyhne",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

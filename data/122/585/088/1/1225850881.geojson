@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.45145,49.14781,18.49145,49.18781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225850881,
-    "wof:lastmodified":1537005493,
+    "wof:lastmodified":1566646069,
     "wof:name":"Podvazie",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.40807,48.6186,18.44807,48.6586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mal\u00e9 Kr\u0161te\u0148any"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0459\u0435 \u041a\u0440\u0448\u0442\u0458\u0435\u045a\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Mal\u00e9 Kr\u0161te\u0148any"
-    ],
     "name:war_x_preferred":[
         "Mal\u00e9 Kr\u0161te\u0148any"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1327231987,
-    "wof:lastmodified":1564310460,
+    "wof:lastmodified":1566645333,
     "wof:name":"Male Krstenany",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

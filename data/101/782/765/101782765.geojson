@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.329955,
     "lbl:longitude":19.667068,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.329955,
     "mps:longitude":19.667068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u062a\u0634\u064a\u0646\u064a\u062a\u0633"
     ],
@@ -153,10 +156,8 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0447\u0435\u043d\u0435\u0446"
     ],
-    "name:und_x_preferred":[
-        "Lucenec"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Lucenec",
         "Losoncz"
     ],
     "name:vol_x_preferred":[
@@ -188,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.331389,
     "wd:longitude":19.670833,
@@ -204,7 +205,6 @@
         "fct:id":"070ddf28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058986,
         "gp:id":820736,
-        "qs:id":237112,
         "qs_pg:id":237112,
         "wd:id":"Q728965",
         "wk:page":"Lu\u010denec"
@@ -224,7 +224,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254357,
+    "wof:lastmodified":1566645742,
     "wof:name":"Lu\u010denec",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

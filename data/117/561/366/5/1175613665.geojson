@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.462689,
     "lbl:longitude":19.337022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.462689,
     "mps:longitude":19.337022,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "M\u00fatne"
     ],
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0443\u0442\u045a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mutn\u00e9"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3058615,
         "gp:id":508488,
-        "qs:id":1057083,
+        "qs_pg:id":1057083,
         "wd:id":"Q338394",
         "wk:page":"M\u00fatne"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1175613665,
-    "wof:lastmodified":1563254067,
+    "wof:lastmodified":1566645634,
     "wof:name":"M\u00fatne",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

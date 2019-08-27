@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.677461,
     "lbl:longitude":21.717409,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.677461,
     "mps:longitude":21.717409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Voj\u010dice"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":723207,
         "gp:id":823102,
-        "qs:id":966377,
+        "qs_pg:id":966377,
         "wd:id":"Q1073016",
         "wk:page":"Voj\u010dice"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101832707,
-    "wof:lastmodified":1563254268,
+    "wof:lastmodified":1566645717,
     "wof:name":"Voj\u010dice",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

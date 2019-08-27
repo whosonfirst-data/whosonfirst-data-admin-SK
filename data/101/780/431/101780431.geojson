@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.016823,
     "lbl:longitude":20.966426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.016823,
     "mps:longitude":20.966426,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Fri\u010dovce"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0438\u0447\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Fricovce"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
         "fct:id":"070da0da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":724808,
         "gp:id":819446,
-        "qs:id":939958,
+        "qs_pg:id":939958,
         "wd:id":"Q1003886",
         "wk:page":"Fri\u010dovce"
     },
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254604,
+    "wof:lastmodified":1566645807,
     "wof:name":"Fri\u010dovce",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

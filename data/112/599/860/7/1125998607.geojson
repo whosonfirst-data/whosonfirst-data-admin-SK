@@ -9,14 +9,18 @@
     "geom:bbox":"22.00301,48.39289,22.00301,48.39289",
     "geom:latitude":48.39289,
     "geom:longitude":22.00301,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.98301,48.37289,22.02301,48.41289",
     "lbl:latitude":48.39289,
     "lbl:longitude":22.00301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Priben\u00edk"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0431\u0435\u043d\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perben\u00edk"
     ],
     "name:war_x_preferred":[
@@ -100,7 +104,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821785,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1125998607,
-    "wof:lastmodified":1563254885,
+    "wof:lastmodified":1566645897,
     "wof:name":"Priben\u00edk",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

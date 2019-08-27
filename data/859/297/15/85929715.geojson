@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2929188.4471,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.249846,48.733646,21.249846,48.733646",
     "geom:latitude":48.733646,
     "geom:longitude":21.249846,
     "gn:id":"",
     "iso:country":"SK",
+    "lbl:bbox":"21.244846,48.728646,21.254846,48.738646",
     "lbl:latitude":48.733646,
     "lbl:longitude":21.249846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.73698,
     "mps:longitude":21.262974,
     "mz:hierarchy_label":0,
@@ -57,10 +59,7 @@
     "name:und_x_colloquial":[
         "Dzungla"
     ],
-    "name:und_x_preferred":[
-        "D\u017eungla"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u017eungla"
     ],
     "qs:gn_adm0_cc":"SK",
@@ -92,18 +91,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688359,
         102191581,
         85633769,
         101752055,
-        102080549,
-        85688359
+        102080549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55867262,
-        "qs:id":961088,
         "qs_pg:id":961088
     },
     "wof:country":"SK",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939155,
+    "wof:lastmodified":1566645446,
     "wof:name":"D\u017eungla",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

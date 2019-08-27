@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.31062,48.31985,20.35062,48.35985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rie\u010dka"
     ],
@@ -66,8 +70,7 @@
         "\u0420\u0456\u0454\u0447\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Recske",
-        "Rie\u010dka"
+        "Recske"
     ],
     "name:war_x_preferred":[
         "Rie\u010dka"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1327143983,
-    "wof:lastmodified":1564310449,
+    "wof:lastmodified":1566645327,
     "wof:name":"Riecka",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

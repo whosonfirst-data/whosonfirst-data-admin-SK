@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.049799,
     "lbl:longitude":18.878112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.049799,
     "mps:longitude":18.878112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bystri\u010dka"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3060859,
         "gp:id":818836,
-        "qs:id":1151953,
+        "qs_pg:id":1151953,
         "wd:id":"Q782433",
         "wk:page":"Bystri\u010dka"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101780319,
-    "wof:lastmodified":1563254682,
+    "wof:lastmodified":1566645826,
     "wof:name":"Bystri\u010dka",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

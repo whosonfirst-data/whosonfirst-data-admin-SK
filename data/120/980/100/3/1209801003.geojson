@@ -25,8 +25,12 @@
     "gn:population":212,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.69774,49.09791,19.73774,49.13791",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Konsk\u00e1"
     ],
@@ -69,9 +73,6 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0441\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Konsk\u00e1"
-    ],
     "name:war_x_preferred":[
         "Konsk\u00e1"
     ],
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1209801003,
-    "wof:lastmodified":1537700413,
+    "wof:lastmodified":1566645585,
     "wof:name":"Konska",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

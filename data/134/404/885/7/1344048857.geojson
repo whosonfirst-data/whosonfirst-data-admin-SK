@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.72761,48.35602,17.76761,48.39602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00e9 Zelenice"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Doln\u00ed-Zelenice",
-        "Dolnie Zelenice",
-        "Doln\u00e9 Zelenice"
+        "Dolnie Zelenice"
     ],
     "name:war_x_preferred":[
         "Doln\u00e9 Zelenice"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1344048857,
-    "wof:lastmodified":1564310626,
+    "wof:lastmodified":1566645431,
     "wof:name":"Dolne Zelenice",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

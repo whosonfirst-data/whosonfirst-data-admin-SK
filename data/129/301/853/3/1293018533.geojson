@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.05851,48.2376,19.09851,48.2776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cabradsk\u00fd Vrbovok"
     ],
@@ -79,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0431\u0440\u0430\u0434\u0441\u043a\u0438 \u0412\u0440\u0431\u043e\u0432\u043e\u043a"
     ],
-    "name:und_x_variant":[
-        "\u010cabradsk\u00fd Vrbovok"
-    ],
     "name:war_x_preferred":[
         "\u010cabradsk\u00fd Vrbovok"
     ],
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1293018533,
-    "wof:lastmodified":1564310660,
+    "wof:lastmodified":1566645456,
     "wof:name":"Cabradsky Vrbovok",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.739519,
     "lbl:longitude":20.049178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.739519,
     "mps:longitude":20.049178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mur\u00e1\u0148"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":724096,
         "gp:id":821128,
-        "qs:id":245894,
         "qs_pg:id":245894,
         "wd:id":"Q609701",
         "wk:page":"Mur\u00e1\u0148"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101780221,
-    "wof:lastmodified":1563254588,
+    "wof:lastmodified":1566645803,
     "wof:name":"Mur\u00e1\u0148",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.829531,
     "lbl:longitude":19.761831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.829531,
     "mps:longitude":19.761831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Be\u0148u\u0161"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3061115,
         "gp:id":818585,
-        "qs:id":402063,
+        "qs_pg:id":402063,
         "wd:id":"Q792860",
         "wk:page":"Be\u0148u\u0161"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101780225,
-    "wof:lastmodified":1563254655,
+    "wof:lastmodified":1566645819,
     "wof:name":"Be\u0148u\u0161",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

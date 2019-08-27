@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.15732,48.80214,22.19732,48.84214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161n\u00e1 Rybnica"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u044f \u0420\u0438\u0431\u043d\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Vy\u0161n\u00e1 Rybnica"
-    ],
     "name:war_x_preferred":[
         "Vy\u0161n\u00e1 Rybnica"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1327443243,
-    "wof:lastmodified":1564310513,
+    "wof:lastmodified":1566645363,
     "wof:name":"Vysna Rybnica",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

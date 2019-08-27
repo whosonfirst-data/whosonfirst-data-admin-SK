@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.812537,
     "lbl:longitude":20.711964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.812537,
     "mps:longitude":20.711964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160vedl\u00e1r"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0432\u0435\u0434\u043b\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schwedler"
     ],
     "name:war_x_preferred":[
@@ -95,7 +98,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":723424,
         "gp:id":822572,
-        "qs:id":31431,
+        "qs_pg:id":31431,
         "wd:id":"Q389692",
         "wk:page":"\u0160vedl\u00e1r"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101843891,
-    "wof:lastmodified":1563254246,
+    "wof:lastmodified":1566645710,
     "wof:name":"\u0160vedl\u00e1r",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

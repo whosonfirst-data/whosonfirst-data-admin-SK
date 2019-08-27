@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.61333,48.49667,18.65333,48.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160u\u013ea"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1226346349,
-    "wof:lastmodified":1564311507,
+    "wof:lastmodified":1566646038,
     "wof:name":"Sula",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

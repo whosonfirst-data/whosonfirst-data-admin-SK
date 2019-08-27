@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.513087,
     "lbl:longitude":21.621524,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.513087,
     "mps:longitude":21.621524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Micha\u013eany"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mih\u00e1lyi"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":724147,
         "gp:id":821005,
-        "qs:id":337738,
+        "qs_pg:id":337738,
         "wd:id":"Q205915",
         "wk:page":"Micha\u013eany"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101782861,
-    "wof:lastmodified":1563254366,
+    "wof:lastmodified":1566645745,
     "wof:name":"Micha\u013eany",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

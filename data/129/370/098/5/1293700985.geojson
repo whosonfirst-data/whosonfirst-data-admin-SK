@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.04504,48.2762,19.08504,48.3162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "U\u0148at\u00edn"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u044f\u0442\u0456\u043d"
     ],
-    "name:und_x_variant":[
-        "U\u0148at\u00edn"
-    ],
     "name:war_x_preferred":[
         "U\u0148at\u00edn"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1293700985,
-    "wof:lastmodified":1564310677,
+    "wof:lastmodified":1566645467,
     "wof:name":"Unatin",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

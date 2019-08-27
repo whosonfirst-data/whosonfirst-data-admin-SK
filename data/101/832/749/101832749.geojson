@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.260568,
     "lbl:longitude":19.612671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.260568,
     "mps:longitude":19.612671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zuberec"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":474,
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3056467,
         "gp:id":823415,
-        "qs:id":1256908,
         "qs_pg:id":1256908,
         "wd:id":"Q227556",
         "wk:page":"Zuberec"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101832749,
-    "wof:lastmodified":1563254272,
+    "wof:lastmodified":1566645718,
     "wof:name":"Zuberec",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.415732,
     "lbl:longitude":17.697858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.415732,
     "mps:longitude":17.697858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bu\u010dany"
     ],
@@ -73,12 +76,6 @@
     "name:und_x_colloquial":[
         "Bucany"
     ],
-    "name:und_x_preferred":[
-        "Bu\u010dany"
-    ],
-    "name:unk_x_variant":[
-        "Bucsany"
-    ],
     "name:war_x_preferred":[
         "Bu\u010dany"
     ],
@@ -100,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -113,7 +110,7 @@
         "fct:id":"070e50c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3060910,
         "gp:id":29401192,
-        "qs:id":343494,
+        "qs_pg:id":343494,
         "wd:id":"Q260493",
         "wk:page":"Bu\u010dany"
     },
@@ -132,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254227,
+    "wof:lastmodified":1566645705,
     "wof:name":"Bu\u010dany",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

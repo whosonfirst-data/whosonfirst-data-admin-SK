@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.62713,48.44329,21.66713,48.48329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cerhov"
     ],
@@ -74,8 +78,7 @@
         "\u0427\u0435\u0440\u0433\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "\u010cergov",
-        "\u010cerhov"
+        "\u010cergov"
     ],
     "name:war_x_preferred":[
         "\u010cerhov"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1310306809,
-    "wof:lastmodified":1564311032,
+    "wof:lastmodified":1566645649,
     "wof:name":"Cerhov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

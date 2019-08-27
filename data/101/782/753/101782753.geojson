@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.269535,
     "lbl:longitude":19.879218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.269535,
     "mps:longitude":19.879218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160\u00edd"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3057680,
         "gp:id":822183,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q737795",
         "wk:page":"\u0160\u00edd"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101782753,
-    "wof:lastmodified":1563254356,
+    "wof:lastmodified":1566645742,
     "wof:name":"\u0160\u00edd",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

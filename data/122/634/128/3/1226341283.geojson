@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.30206,49.16261,21.34206,49.20261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tro\u010dany"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043e\u0447\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Tro\u010dany"
-    ],
     "name:war_x_preferred":[
         "Tro\u010dany"
     ],
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1226341283,
-    "wof:lastmodified":1564311510,
+    "wof:lastmodified":1566646039,
     "wof:name":"Trocany",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

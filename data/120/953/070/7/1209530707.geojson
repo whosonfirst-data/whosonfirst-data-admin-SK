@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.35277,48.84059,20.39277,48.88059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633769
@@ -33,7 +37,7 @@
         "gn:id":8629562
     },
     "wof:country":"SK",
-    "wof:geomhash":"512893ea0b66edb3bae3b51cee54b5f0",
+    "wof:geomhash":"52677611ba44ef00f3bd217c4dcc168c",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1209530707,
-    "wof:lastmodified":1536284289,
+    "wof:lastmodified":1566645550,
     "wof:name":"Dobinska Masa",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",
@@ -51,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.372770000000006,
+    20.37277000000001,
     48.86059,
-    20.372770000000006,
+    20.37277000000001,
     48.86059
 ],
   "geometry": {"coordinates":[20.37277000000001,48.86059],"type":"Point"}

@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.782933,
     "lbl:longitude":18.581269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.782933,
     "mps:longitude":18.581269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u064a\u062a\u0633\u0649"
     ],
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.782222,
     "wd:longitude":18.586111,
@@ -181,7 +184,6 @@
     "wof:concordances":{
         "gn:id":3061015,
         "gp:id":818675,
-        "qs:id":348772,
         "qs_pg:id":348772,
         "wd:id":"Q788753",
         "wk:page":"Bojnice"
@@ -198,7 +200,7 @@
         }
     ],
     "wof:id":101754905,
-    "wof:lastmodified":1563254173,
+    "wof:lastmodified":1566645691,
     "wof:name":"Bojnice",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

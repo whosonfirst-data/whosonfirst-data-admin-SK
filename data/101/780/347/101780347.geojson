@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.01846,
     "lbl:longitude":18.472986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.01846,
     "mps:longitude":18.472986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pru\u017eina"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":115,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3057969,
         "gp:id":821825,
-        "qs:id":966369,
+        "qs_pg:id":966369,
         "wd:id":"Q790748",
         "wk:page":"Pru\u017eina"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101780347,
-    "wof:lastmodified":1563254621,
+    "wof:lastmodified":1566645812,
     "wof:name":"Pru\u017eina",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

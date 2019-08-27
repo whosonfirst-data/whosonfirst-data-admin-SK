@@ -10,12 +10,16 @@
     "geom:latitude":49.513064,
     "geom:longitude":18.849179,
     "iso:country":"SK",
+    "lbl:bbox":"18.829179,49.493064,18.869179,49.533064",
     "lbl:latitude":49.513064,
     "lbl:longitude":18.849179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.513064,
     "mps:longitude":18.849179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cierne"
     ],
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0454\u0440\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u010cierno"
     ],
     "name:war_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191581,
@@ -106,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3060670,
         "gp:id":819012,
-        "qs:id":115838,
         "qs_pg:id":115838,
         "wd:id":"Q341468",
         "wk:page":"\u010cierne"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101875841,
-    "wof:lastmodified":1563254190,
+    "wof:lastmodified":1566645695,
     "wof:name":"\u010cierne",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

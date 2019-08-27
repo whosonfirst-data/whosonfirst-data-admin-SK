@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.4702,
     "lbl:longitude":19.381641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.4702,
     "mps:longitude":19.381641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Oravsk\u00e9 Vesel\u00e9"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u041e\u0440\u0430\u0432\u0441\u043a\u0435 \u0412\u0435\u0441\u0435\u0459\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vesel\u00e9"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3058370,
         "gp:id":821416,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1023446",
         "wk:page":"Oravsk\u00e9 Vesel\u00e9"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101847817,
-    "wof:lastmodified":1563254472,
+    "wof:lastmodified":1566645774,
     "wof:name":"Oravsk\u00e9 Vesel\u00e9",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

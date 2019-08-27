@@ -9,14 +9,18 @@
     "geom:bbox":"18.91734,49.2446,18.91734,49.2446",
     "geom:latitude":49.2446,
     "geom:longitude":18.91734,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"18.89734,49.2246,18.93734,49.2646",
     "lbl:latitude":49.2446,
     "lbl:longitude":18.91734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lysica"
@@ -69,9 +73,6 @@
     "name:srp_x_preferred":[
         "\u041b\u0438\u0441\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
-        "Lysica"
-    ],
     "name:war_x_preferred":[
         "Lysica"
     ],
@@ -92,7 +93,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":29397105,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1125990593,
-    "wof:lastmodified":1563254888,
+    "wof:lastmodified":1566645899,
     "wof:name":"Lysa",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

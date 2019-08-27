@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.80354,49.26017,21.84354,49.30017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mal\u00e1 Po\u013eana"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Mal\u00e1 Po\u013eana"
-    ],
     "name:war_x_preferred":[
         "Mal\u00e1 Po\u013eana"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1259902579,
-    "wof:lastmodified":1564311414,
+    "wof:lastmodified":1566645994,
     "wof:name":"Mala Pol'ana",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

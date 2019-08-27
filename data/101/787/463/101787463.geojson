@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.807562,
     "lbl:longitude":17.871727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.807562,
     "mps:longitude":17.871727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zemianska Ol\u010da"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3056539,
         "gp:id":823356,
-        "qs:id":389031,
         "qs_pg:id":389031,
         "wd:id":"Q189353",
         "wk:page":"Zemianska Ol\u010da"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101787463,
-    "wof:lastmodified":1563254555,
+    "wof:lastmodified":1566645796,
     "wof:name":"Zemianska Ol\u010da",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

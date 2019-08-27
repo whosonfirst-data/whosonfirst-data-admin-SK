@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.64264,49.21109,21.68264,49.25109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kru\u0161inec"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0438\u043d\u0435\u0446\u044c"
     ],
-    "name:und_x_variant":[
-        "Kru\u0161inec"
-    ],
     "name:war_x_preferred":[
         "Kru\u0161inec"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1259978833,
-    "wof:lastmodified":1564311413,
+    "wof:lastmodified":1566645994,
     "wof:name":"Krusinec",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

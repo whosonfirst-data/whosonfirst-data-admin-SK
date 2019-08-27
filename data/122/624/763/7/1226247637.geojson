@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.26477,48.98393,22.30477,49.02393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226247637,
-    "wof:lastmodified":1536931588,
+    "wof:lastmodified":1566646054,
     "wof:name":"Stakcianska Roztoka",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

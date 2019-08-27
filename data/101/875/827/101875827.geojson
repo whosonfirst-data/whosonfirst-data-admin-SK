@@ -10,12 +10,16 @@
     "geom:latitude":48.817152,
     "geom:longitude":19.569422,
     "iso:country":"SK",
+    "lbl:bbox":"19.549422,48.797152,19.589422,48.837152",
     "lbl:latitude":48.817152,
     "lbl:longitude":19.569422,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.817152,
     "mps:longitude":19.569422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Valask\u00e1"
     ],
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3056980,
         "gp:id":821584,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1008220",
         "wk:page":"Valask\u00e1"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":101875827,
-    "wof:lastmodified":1563254187,
+    "wof:lastmodified":1566645694,
     "wof:name":"Valask\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

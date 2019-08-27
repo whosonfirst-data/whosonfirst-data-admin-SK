@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.901143,
     "lbl:longitude":21.556259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.901143,
     "mps:longitude":21.556259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1mutov"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":723104,
         "gp:id":823283,
-        "qs:id":191093,
         "qs_pg:id":191093,
         "wd:id":"Q246914",
         "wk:page":"Z\u00e1mutov"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101780455,
-    "wof:lastmodified":1563254602,
+    "wof:lastmodified":1566645807,
     "wof:name":"Z\u00e1mutov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.58789,48.64285,21.62789,48.68285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Ozorovce"
     ],
@@ -71,8 +75,7 @@
         "\u0412\u0435\u043b\u044c\u043a\u0435 \u041e\u0437\u043e\u0440\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Ozorovce",
-        "Ve\u013ek\u00e9 Ozorovce"
+        "Ozorovce"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Ozorovce"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1309907707,
-    "wof:lastmodified":1564311141,
+    "wof:lastmodified":1566645829,
     "wof:name":"Vel'ke Ozorovce",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.88383,48.27977,19.92383,48.31977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Konr\u00e1dovce"
     ],
@@ -68,8 +72,7 @@
         "\u041a\u043e\u043d\u0440\u0430\u0434\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Korl\u00e1t",
-        "Konr\u00e1dovce"
+        "Korl\u00e1t"
     ],
     "name:war_x_preferred":[
         "Konr\u00e1dovce"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1226553805,
-    "wof:lastmodified":1564311552,
+    "wof:lastmodified":1566646058,
     "wof:name":"Konradovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.070953,
     "lbl:longitude":19.709429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.070953,
     "mps:longitude":19.709429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jamn\u00edk"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3059730,
         "gp:id":24934561,
-        "qs:id":508860,
+        "qs_pg:id":508860,
         "wd:id":"Q1044549"
     },
     "wof:country":"SK",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780355,
-    "wof:lastmodified":1563254576,
+    "wof:lastmodified":1566645800,
     "wof:name":"Jamn\u00edk",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

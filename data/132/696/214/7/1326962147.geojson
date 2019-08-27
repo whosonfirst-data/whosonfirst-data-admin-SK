@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.72887,49.04781,21.76887,49.08781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010eapalovce"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u044f\u043f\u0430\u043b\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "\u010eapalovce"
-    ],
     "name:war_x_preferred":[
         "\u010eapalovce"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1326962147,
-    "wof:lastmodified":1564310504,
+    "wof:lastmodified":1566645359,
     "wof:name":"Dapalovce",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

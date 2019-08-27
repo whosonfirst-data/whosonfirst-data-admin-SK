@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.14763,48.43682,17.18763,48.47682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Roho\u017en\u00edk"
     ],
@@ -71,8 +75,7 @@
         "\u0420\u043e\u0433\u043e\u0436\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Rarbok",
-        "Roho\u017en\u00edk"
+        "Rarbok"
     ],
     "name:war_x_preferred":[
         "Roho\u017en\u00edk"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1225953129,
-    "wof:lastmodified":1564311484,
+    "wof:lastmodified":1566646027,
     "wof:name":"Rohoznik",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

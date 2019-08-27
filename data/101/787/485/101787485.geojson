@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.874233,
     "lbl:longitude":18.194925,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.874233,
     "mps:longitude":18.194925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0628\u0627\u0646\u0648\u0641\u0648"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u0431\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Star\u00e1 \u010fala"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.876111,
     "wd:longitude":18.197222,
@@ -149,7 +152,6 @@
         "gn:id":3059821,
         "gp:id":819885,
         "loc:id":"n94090042",
-        "qs:id":1181423,
         "qs_pg:id":1181423,
         "wd:id":"Q856402",
         "wk:page":"Hurbanovo"
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":101787485,
-    "wof:lastmodified":1563254553,
+    "wof:lastmodified":1566645795,
     "wof:name":"Hurbanovo",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

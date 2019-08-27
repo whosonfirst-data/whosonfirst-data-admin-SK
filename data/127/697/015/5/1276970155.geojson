@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.71607,48.90094,18.75607,48.94094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brie\u0161tie"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Brie\u0161s\u0165a",
-        "Brie\u0161tia",
-        "Brie\u0161tie"
+        "Brie\u0161tia"
     ],
     "name:war_x_preferred":[
         "Brie\u0161tie"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1276970155,
-    "wof:lastmodified":1564310830,
+    "wof:lastmodified":1566645542,
     "wof:name":"Briestie",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

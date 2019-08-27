@@ -14,10 +14,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.272981,
     "lbl:longitude":19.04004,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.272981,
     "mps:longitude":19.04004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Terchov\u00e1"
     ],
@@ -81,10 +84,8 @@
     "name:srp_x_preferred":[
         "\u0422\u0458\u0435\u0440\u0445\u043e\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Terchova"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Terchova",
         "Terhova"
     ],
     "name:war_x_preferred":[
@@ -105,7 +106,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":278,
     "wof:belongsto":[
@@ -120,7 +121,6 @@
         "fct:id":"070bba9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057212,
         "gp:id":822640,
-        "qs:id":2958,
         "qs_pg:id":2958,
         "wd:id":"Q932854",
         "wk:page":"Terchov\u00e1"
@@ -140,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254067,
+    "wof:lastmodified":1566645634,
     "wof:name":"Terchov\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

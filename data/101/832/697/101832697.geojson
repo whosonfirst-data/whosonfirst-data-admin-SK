@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.842992,
     "lbl:longitude":17.915283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.842992,
     "mps:longitude":17.915283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mel\u010dice-Lieskov\u00e9"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058739,
         "gp:id":820988,
-        "qs:id":998288,
+        "qs_pg:id":998288,
         "wd:id":"Q1043988"
     },
     "wof:country":"SK",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101832697,
-    "wof:lastmodified":1563254275,
+    "wof:lastmodified":1566645719,
     "wof:name":"Mel\u010dice - Lieskov\u00e9",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

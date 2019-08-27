@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.124256,
     "lbl:longitude":20.263111,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.124256,
     "mps:longitude":20.263111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Nov\u00e1 Lesn\u00e1"
     ],
@@ -80,10 +83,8 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041b\u0435\u0441\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Nova Lesna"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Nova Lesna",
         "Neu-Walddorf"
     ],
     "name:war_x_preferred":[
@@ -106,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -120,7 +121,6 @@
         "fct:id":"070da8a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":724026,
         "gp:id":821286,
-        "qs:id":1077642,
         "qs_pg:id":1077642,
         "wd:id":"Q664187",
         "wk:page":"Nov\u00e1 Lesn\u00e1"
@@ -140,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254576,
+    "wof:lastmodified":1566645800,
     "wof:name":"Nov\u00e1 Lesn\u00e1",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

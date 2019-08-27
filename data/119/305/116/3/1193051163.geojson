@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.58372,48.12831,18.62372,48.16831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u017demliare"
     ],
@@ -65,9 +69,7 @@
         "\u0416\u0435\u043c\u0459\u0430\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "Zseml\u00e9r",
-        "\u017demliary",
-        "\u017demliare"
+        "\u017demliary"
     ],
     "name:war_x_preferred":[
         "\u017demliare"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1193051163,
-    "wof:lastmodified":1564310958,
+    "wof:lastmodified":1566645612,
     "wof:name":"Zemliare",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

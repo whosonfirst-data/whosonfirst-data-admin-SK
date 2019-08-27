@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.910679,
     "lbl:longitude":21.737959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.910679,
     "mps:longitude":21.737959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sedlisk\u00e1"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":723634,
         "gp:id":822150,
-        "qs:id":885872,
         "qs_pg:id":885872,
         "wd:id":"Q1074011",
         "wk:page":"Sedlisk\u00e1"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101780457,
-    "wof:lastmodified":1563254664,
+    "wof:lastmodified":1566645821,
     "wof:name":"Sedlisk\u00e1",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

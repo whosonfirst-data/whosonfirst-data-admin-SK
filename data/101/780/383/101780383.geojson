@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.231854,
     "lbl:longitude":18.632944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.231854,
     "mps:longitude":18.632944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00fd Hri\u010dov"
     ],
@@ -72,15 +75,9 @@
         "Dolny Hricov",
         "Hricov"
     ],
-    "name:und_x_preferred":[
-        "Doln\u00fd Hri\u010dov"
-    ],
     "name:und_x_variant":[
         "Doln\u00ed Hri\u010dov",
         "Hri\u010dov"
-    ],
-    "name:unk_x_variant":[
-        "Doln\u00ed Hri\u010dov"
     ],
     "name:war_x_preferred":[
         "Doln\u00fd Hri\u010dov"
@@ -102,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191581,
@@ -115,7 +112,6 @@
         "fct:id":"070e90ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3060412,
         "gp:id":819252,
-        "qs:id":388304,
         "qs_pg:id":388304,
         "wd:id":"Q430636",
         "wk:page":"Doln\u00fd Hri\u010dov"
@@ -135,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254612,
+    "wof:lastmodified":1566645809,
     "wof:name":"Doln\u00fd Hri\u010dov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.751725,
     "lbl:longitude":17.566727,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.751725,
     "mps:longitude":17.566727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u064a\u0627\u0641\u0627"
     ],
@@ -110,12 +113,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u044f\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Myjava"
-    ],
-    "name:unk_x_variant":[
-        "Miava"
-    ],
     "name:war_x_preferred":[
         "Myjava"
     ],
@@ -139,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.757778,
     "wd:longitude":17.568611,
@@ -155,7 +152,6 @@
         "fct:id":"070ca34c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058611,
         "gp:id":821135,
-        "qs:id":1042935,
         "qs_pg:id":1042935,
         "wd:id":"Q837460"
     },
@@ -174,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254493,
+    "wof:lastmodified":1566645780,
     "wof:name":"Myjava",
     "wof:parent_id":102080515,
     "wof:placetype":"locality",

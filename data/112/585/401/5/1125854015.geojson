@@ -9,14 +9,18 @@
     "geom:bbox":"21.24022,48.89971,21.24022,48.89971",
     "geom:latitude":48.89971,
     "geom:longitude":21.24022,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.22022,48.87971,21.26022,48.91971",
     "lbl:latitude":48.89971,
     "lbl:longitude":21.24022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
@@ -75,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440'\u0454\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Somos\u00fajfalu"
-    ],
     "name:war_x_preferred":[
         "Drienovsk\u00e1 Nov\u00e1 Ves"
     ],
@@ -98,7 +99,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":819308,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Presovsky",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1125854015,
-    "wof:lastmodified":1563254953,
+    "wof:lastmodified":1566645921,
     "wof:name":"Drienovsk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

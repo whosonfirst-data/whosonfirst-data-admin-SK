@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.67565,48.01306,17.71565,48.05306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dunajsk\u00fd Kl\u00e1tov"
     ],
@@ -72,8 +76,7 @@
         "\u0414\u0443\u043d\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u041a\u043b\u0430\u0442\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "T\u00f6k\u00e9s",
-        "Dunajsk\u00fd Kl\u00e1tov"
+        "T\u00f6k\u00e9s"
     ],
     "name:war_x_preferred":[
         "Dunajsk\u00fd Kl\u00e1tov"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1242865995,
-    "wof:lastmodified":1564311326,
+    "wof:lastmodified":1566645955,
     "wof:name":"Dunajsky Klatov",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

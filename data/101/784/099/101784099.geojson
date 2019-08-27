@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.638164,
     "lbl:longitude":17.145852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.638164,
     "mps:longitude":17.145852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0634\u062a\u064a\u0646 \u0633\u062a\u0631\u0627\u062c\u0647"
     ],
@@ -127,7 +130,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.633333,
     "wd:longitude":17.15,
     "wd:wordcount":306,
@@ -141,7 +144,7 @@
     "wof:concordances":{
         "gn:id":3057731,
         "gp:id":822128,
-        "qs:id":907336,
+        "qs_pg:id":907336,
         "wd:id":"Q135649"
     },
     "wof:country":"SK",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101784099,
-    "wof:lastmodified":1563254441,
+    "wof:lastmodified":1566645765,
     "wof:name":"\u0160a\u0161t\u00edn - Str\u00e1\u017ee",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

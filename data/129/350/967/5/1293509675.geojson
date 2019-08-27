@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.31905,49.07173,19.35905,49.11173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Martin\u010dek"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d\u0447\u0435\u043a"
     ],
-    "name:und_x_variant":[
-        "Martin\u010dek"
-    ],
     "name:war_x_preferred":[
         "Martin\u010dek"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1293509675,
-    "wof:lastmodified":1564310697,
+    "wof:lastmodified":1566645477,
     "wof:name":"Martincek",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

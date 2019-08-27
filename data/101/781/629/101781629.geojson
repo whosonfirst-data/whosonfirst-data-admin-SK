@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.666284,
     "lbl:longitude":18.258627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.666284,
     "mps:longitude":18.258627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rybany"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3057786,
         "gp:id":822060,
-        "qs:id":289593,
         "qs_pg:id":289593,
         "wd:id":"Q740924",
         "wk:page":"Rybany"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101781629,
-    "wof:lastmodified":1563254487,
+    "wof:lastmodified":1566645778,
     "wof:name":"Rybany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.52975,48.611,20.56975,48.651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jovice"
     ],
@@ -73,10 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "J\u00f3l\u00e9sz",
-        "Jovice"
-    ],
     "name:war_x_preferred":[
         "Jovice"
     ],
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1360086947,
-    "wof:lastmodified":1564311086,
+    "wof:lastmodified":1566645676,
     "wof:name":"Jovice",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

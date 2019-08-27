@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.21618,48.52188,20.25618,48.56188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dr\u017ekovce"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0436\u043a\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "Deresk",
-        "Dr\u017ekovce"
-    ],
     "name:war_x_preferred":[
         "Dr\u017ekovce"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1225862659,
-    "wof:lastmodified":1564311530,
+    "wof:lastmodified":1566646047,
     "wof:name":"Drzkovce",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

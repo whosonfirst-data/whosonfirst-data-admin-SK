@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.65179,48.8324,21.69179,48.8724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0644\u0648\u0645\u0646\u06cc\u062a\u0633\u0627"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1225949213,
-    "wof:lastmodified":1564311480,
+    "wof:lastmodified":1566646025,
     "wof:name":"Lomnica",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

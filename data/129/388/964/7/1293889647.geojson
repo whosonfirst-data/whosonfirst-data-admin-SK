@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.10554,48.37904,18.14554,48.41904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "B\u00e1dice"
     ],
@@ -64,10 +68,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u0434\u0438\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "B\u00e9d",
-        "B\u00e1dice"
-    ],
     "name:war_x_preferred":[
         "B\u00e1dice"
     ],
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1293889647,
-    "wof:lastmodified":1564310745,
+    "wof:lastmodified":1566645501,
     "wof:name":"Badice",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

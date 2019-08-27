@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":48.116439,
     "lbl:longitude":18.243751,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.116439,
     "mps:longitude":18.243751,
     "mz:hierarchy_label":1,
@@ -213,7 +214,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0442\u0440\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nitriansky"
     ],
     "name:urd_x_preferred":[
@@ -298,9 +299,9 @@
     "qs:type":"Kraj",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-20",
+    "src:population_date":"2011-05-20",
     "statoids:area_km":"6,344",
     "statoids:area_mi":"2,449",
     "statoids:as_of_date":"2011-05-20",
@@ -344,11 +345,10 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1565736559,
+    "wof:lastmodified":1566645448,
     "wof:name":"Nitriansky kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":689867,
     "wof:population_rank":11,

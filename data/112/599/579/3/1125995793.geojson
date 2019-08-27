@@ -9,14 +9,18 @@
     "geom:bbox":"22.09259,48.4447,22.09259,48.4447",
     "geom:latitude":48.4447,
     "geom:longitude":22.09259,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"22.07259,48.4247,22.11259,48.4647",
     "lbl:latitude":48.4447,
     "lbl:longitude":22.09259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Bo\u0165any"
@@ -78,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Batty\u00e1n"
-    ],
     "name:war_x_preferred":[
         "Bo\u0165any"
     ],
@@ -101,7 +102,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":818707,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1125995793,
-    "wof:lastmodified":1563254889,
+    "wof:lastmodified":1566645899,
     "wof:name":"Bot\u0315any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

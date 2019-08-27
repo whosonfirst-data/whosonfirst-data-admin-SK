@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.712135,
     "lbl:longitude":17.787736,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.712135,
     "mps:longitude":17.787736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u0445\u0446\u0456\u0446\u044d"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":319,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3060839,
         "gp:id":818855,
-        "qs:id":268599,
         "qs_pg:id":268599,
         "wd:id":"Q337440",
         "wk:page":"\u010cachtice"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101782817,
-    "wof:lastmodified":1563254362,
+    "wof:lastmodified":1566645744,
     "wof:name":"\u010cachtice",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.12777,48.57993,20.16777,48.61993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "R\u00e1ko\u0161"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0448"
     ],
-    "name:und_x_variant":[
-        "R\u00e1ko\u0161"
-    ],
     "name:war_x_preferred":[
         "R\u00e1ko\u0161"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1277088339,
-    "wof:lastmodified":1564310752,
+    "wof:lastmodified":1566645504,
     "wof:name":"Rakos",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

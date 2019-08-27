@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.085314,
     "lbl:longitude":18.184331,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.085314,
     "mps:longitude":18.184331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0443\u0440\u0430\u043d\u044b"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.083333,
     "wd:longitude":18.183333,
@@ -166,7 +169,6 @@
     "wof:concordances":{
         "gn:id":3057339,
         "gp:id":822523,
-        "qs:id":145205,
         "qs_pg:id":145205,
         "wd:id":"Q392704",
         "wk:page":"\u0160urany"
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":101786365,
-    "wof:lastmodified":1563254519,
+    "wof:lastmodified":1566645788,
     "wof:name":"\u0160urany",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

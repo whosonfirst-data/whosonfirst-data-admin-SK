@@ -10,12 +10,16 @@
     "geom:latitude":49.175548,
     "geom:longitude":18.867445,
     "iso:country":"SK",
+    "lbl:bbox":"18.847445,49.155548,18.887445,49.195548",
     "lbl:latitude":49.175548,
     "lbl:longitude":18.867445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.175548,
     "mps:longitude":18.867445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stre\u010dno"
     ],
@@ -67,7 +71,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0447\u043d\u043e"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Strecno"
     ],
     "name:war_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,6 @@
         "fct:id":"070db75a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057412,
         "gp:id":822457,
-        "qs:id":270875,
         "qs_pg:id":270875,
         "wd:id":"Q263650",
         "wk:page":"Stre\u010dno"
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254287,
+    "wof:lastmodified":1566645723,
     "wof:name":"Stre\u010dno",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.628037,
     "lbl:longitude":21.718853,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.628037,
     "mps:longitude":21.718853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0628\u064a\u0634\u0648\u0641"
     ],
@@ -134,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0456\u0448\u043e\u0432"
     ],
-    "name:und_x_preferred":[
-        "Trebi\u0161ov"
-    ],
     "name:war_x_preferred":[
         "Trebi\u0161ov"
     ],
@@ -160,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.633333,
     "wd:longitude":21.716667,
@@ -176,7 +176,6 @@
         "fct:id":"07107b84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723358,
         "gp:id":822701,
-        "qs:id":275637,
         "qs_pg:id":275637,
         "wd:id":"Q256301",
         "wk:page":"Trebi\u0161ov"
@@ -196,7 +195,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254266,
+    "wof:lastmodified":1566645716,
     "wof:name":"Trebi\u0161ov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

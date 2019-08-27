@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.351329,
     "lbl:longitude":17.672153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.351329,
     "mps:longitude":17.672153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zavar"
     ],
@@ -73,9 +76,6 @@
     "name:srp_x_preferred":[
         "\u0417\u0430\u0432\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Zavar"
-    ],
     "name:war_x_preferred":[
         "Zavar"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -112,7 +112,6 @@
         "fct:id":"0710d41c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056572,
         "gp:id":823310,
-        "qs:id":1182126,
         "qs_pg:id":1182126,
         "wd:id":"Q166884",
         "wk:page":"Zavar"
@@ -132,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254348,
+    "wof:lastmodified":1566645740,
     "wof:name":"Zavar",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.630428,
     "lbl:longitude":20.496565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.630428,
     "mps:longitude":20.496565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brzot\u00edn"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0437\u043e\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Berz\u00e9te"
-    ],
     "name:war_x_preferred":[
         "Brzot\u00edn"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:concordances":{
         "gn:id":725062,
         "gp:id":818780,
-        "qs:id":402100,
+        "qs_pg:id":402100,
         "wd:id":"Q181628",
         "wk:page":"Brzot\u00edn"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101782893,
-    "wof:lastmodified":1563254370,
+    "wof:lastmodified":1566645747,
     "wof:name":"Brzot\u00edn",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

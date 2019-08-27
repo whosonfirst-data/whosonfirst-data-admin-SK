@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.06768,48.05921,19.10768,48.09921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e1 Ves nad Ip\u013eom"
     ],
@@ -65,8 +69,7 @@
         "\u0412\u0435\u043b\u044c\u043a\u0430 \u0412\u0435\u0441-\u043d\u0430\u0434-\u0406\u043f\u043b\u043e\u043c"
     ],
     "name:und_x_variant":[
-        "Nagyfalu",
-        "Ve\u013ek\u00e1 Ves nad Ip\u013eom"
+        "Nagyfalu"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e1 Ves nad Ip\u013eom"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1309923587,
-    "wof:lastmodified":1564311154,
+    "wof:lastmodified":1566645833,
     "wof:name":"Vel'ka Ves nad Ipl'om",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

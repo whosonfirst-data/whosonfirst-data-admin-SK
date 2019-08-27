@@ -11,12 +11,16 @@
     "geom:longitude":21.652765,
     "gn:population":23246,
     "iso:country":"SK",
+    "lbl:bbox":"21.632765,48.868564,21.672765,48.908564",
     "lbl:latitude":48.888564,
     "lbl:longitude":21.652765,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.888564,
     "mps:longitude":21.652765,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0648\u0641 \u0646\u0627\u062f \u062a\u0648\u0628\u0644\u0648\u0627"
     ],
@@ -146,10 +150,8 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0430\u043d\u043e\u0432-\u043d\u0430\u0434-\u0422\u043e\u043f\u043b\u044c\u043e\u0443"
     ],
-    "name:und_x_preferred":[
-        "Vranov Nad Toplou"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Vranov Nad Toplou",
         "Vranov"
     ],
     "name:war_x_preferred":[
@@ -176,7 +178,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -190,7 +192,6 @@
         "gn:id":723195,
         "gp:id":823125,
         "loc:id":"n2002124572",
-        "qs:id":213152,
         "qs_pg:id":213152,
         "wd:id":"Q842005",
         "wk:page":"Vranov nad Top\u013eou"
@@ -210,7 +211,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254194,
+    "wof:lastmodified":1566645696,
     "wof:name":"Vranov nad Top\u013eou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

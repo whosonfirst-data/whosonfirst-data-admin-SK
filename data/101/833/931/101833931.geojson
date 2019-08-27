@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.140825,
     "lbl:longitude":17.67694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.140825,
     "mps:longitude":17.67694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u0442\u043e\u0432\u0430"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0442\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hidas K\u00fcrt"
     ],
     "name:war_x_preferred":[
@@ -95,7 +98,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":121,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3058631,
         "gp:id":821112,
-        "qs:id":1083871,
+        "qs_pg:id":1083871,
         "wd:id":"Q596941",
         "wk:page":"Mostov\u00e1"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101833931,
-    "wof:lastmodified":1563254295,
+    "wof:lastmodified":1566645725,
     "wof:name":"Mostov\u00e1",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

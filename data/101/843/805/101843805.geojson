@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.615259,
     "lbl:longitude":18.842172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.615259,
     "mps:longitude":18.842172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lutila"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3058958,
         "gp:id":820768,
-        "qs:id":402547,
+        "qs_pg:id":402547,
         "wd:id":"Q1045508",
         "wk:page":"Lutila"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101843805,
-    "wof:lastmodified":1563254217,
+    "wof:lastmodified":1566645702,
     "wof:name":"Lutila",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

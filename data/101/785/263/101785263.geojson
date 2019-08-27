@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.146197,
     "lbl:longitude":19.256873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.146197,
     "mps:longitude":19.256873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nenince"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043d\u0456\u043d\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9nye"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3058545,
         "gp:id":821192,
-        "qs:id":255553,
+        "qs_pg:id":255553,
         "wd:id":"Q596014",
         "wk:page":"Nenince"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101785263,
-    "wof:lastmodified":1563254347,
+    "wof:lastmodified":1566645739,
     "wof:name":"Nenince",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

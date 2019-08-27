@@ -11,12 +11,16 @@
     "geom:longitude":18.556938,
     "gn:population":4402,
     "iso:country":"SK",
+    "lbl:bbox":"18.536938,48.708993,18.576938,48.748993",
     "lbl:latitude":48.728993,
     "lbl:longitude":18.556938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.728993,
     "mps:longitude":18.556938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627\u0643\u064a"
     ],
@@ -98,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Navaky"
     ],
     "name:urd_x_preferred":[
@@ -128,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.716667,
     "wd:longitude":18.533333,
@@ -143,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3058493,
         "gp:id":821304,
-        "qs:id":1171554,
         "qs_pg:id":1171554,
         "wd:id":"Q909301",
         "wk:page":"Nov\u00e1ky"
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101875825,
-    "wof:lastmodified":1563254192,
+    "wof:lastmodified":1566645696,
     "wof:name":"Nov\u00e1ky",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

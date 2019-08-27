@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.61997,48.69382,18.65997,48.73382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cige\u013e"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0426\u0438\u0433\u0435\u0459"
     ],
-    "name:und_x_variant":[
-        "Cige\u013e"
-    ],
     "name:war_x_preferred":[
         "Cige\u013e"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1293889555,
-    "wof:lastmodified":1564310746,
+    "wof:lastmodified":1566645502,
     "wof:name":"Cigel'",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

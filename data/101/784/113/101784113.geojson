@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.588511,
     "lbl:longitude":18.954396,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.588511,
     "mps:longitude":18.954396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Trnav\u00e1 Hora"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3057121,
         "gp:id":822722,
-        "qs:id":1271792,
+        "qs_pg:id":1271792,
         "wd:id":"Q289376",
         "wk:page":"Trnav\u00e1 Hora"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101784113,
-    "wof:lastmodified":1563254466,
+    "wof:lastmodified":1566645772,
     "wof:name":"Trnav\u00e1 Hora",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

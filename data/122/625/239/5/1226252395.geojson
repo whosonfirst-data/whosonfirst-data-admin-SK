@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.05464,48.18347,19.09464,48.22347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dvor Beluja",
         "Beluja"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226252395,
-    "wof:lastmodified":1537700437,
+    "wof:lastmodified":1566646051,
     "wof:name":"Beluja",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

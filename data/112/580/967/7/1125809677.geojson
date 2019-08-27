@@ -9,14 +9,18 @@
     "geom:bbox":"22.08036,48.55197,22.08036,48.55197",
     "geom:latitude":48.55197,
     "geom:longitude":22.08036,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"22.06036,48.53197,22.10036,48.57197",
     "lbl:latitude":48.55197,
     "lbl:longitude":22.08036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0643\u064a \u0643\u0627\u0628\u0648\u0634\u0627\u0646\u064a"
@@ -108,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0435 \u041a\u0430\u043f\u0443\u0448\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nagy-Kapos"
     ],
     "name:war_x_preferred":[
@@ -138,7 +142,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":822954,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":1125809677,
-    "wof:lastmodified":1563254860,
+    "wof:lastmodified":1566645886,
     "wof:name":"Vel\u0315k\u00e9 Kapu\u0161any",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

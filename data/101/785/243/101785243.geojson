@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.291739,
     "lbl:longitude":18.182176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.291739,
     "mps:longitude":18.182176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Lap\u00e1\u0161"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0438 \u041b\u0430\u043f\u0430\u0448"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Velky Lapas"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,7 @@
         "fct:id":"070d44a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056822,
         "gp:id":29401366,
-        "qs:id":1016320,
+        "qs_pg:id":1016320,
         "wd:id":"Q731620",
         "wk:page":"Ve\u013ek\u00fd Lap\u00e1\u0161"
     },
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254323,
+    "wof:lastmodified":1566645733,
     "wof:name":"Ve\u013ek\u00fd Lap\u00e1\u0161",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

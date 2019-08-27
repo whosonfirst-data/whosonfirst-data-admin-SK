@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.2299,48.3025,19.2699,48.3425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Da\u010dov Lom"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0447\u043e\u0432 \u041b\u043e\u043c"
     ],
-    "name:und_x_variant":[
-        "Da\u010dov Lom"
-    ],
     "name:war_x_preferred":[
         "Da\u010dov Lom"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1360003533,
-    "wof:lastmodified":1564311074,
+    "wof:lastmodified":1566645671,
     "wof:name":"Dacov Lom",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

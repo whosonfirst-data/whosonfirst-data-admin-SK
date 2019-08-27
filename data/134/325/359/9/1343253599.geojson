@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.52018,47.94736,17.56018,47.98736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kulcs\u00e1r Karcsa",
         "K\u013eu\u010diarove Kra\u010dany"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343253599,
-    "wof:lastmodified":1537700414,
+    "wof:lastmodified":1566645411,
     "wof:name":"Kl'uciarove Kracany",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

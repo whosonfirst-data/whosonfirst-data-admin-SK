@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.84778,48.03575,18.88778,48.07575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161kovce nad Ip\u013eom"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1343662123,
-    "wof:lastmodified":1564310592,
+    "wof:lastmodified":1566645414,
     "wof:name":"Vyskovce nad Ipl'om",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

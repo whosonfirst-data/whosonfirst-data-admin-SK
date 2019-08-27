@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.05954,48.71828,22.09954,48.75828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Blatn\u00e9 Revi\u0161tia"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043d\u0435 \u0420\u0435\u0432\u0456\u0448\u0442\u044f"
     ],
-    "name:und_x_variant":[
-        "Blatn\u00e9 Revi\u0161tia"
-    ],
     "name:war_x_preferred":[
         "Blatn\u00e9 Revi\u0161tia"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1343470469,
-    "wof:lastmodified":1564310580,
+    "wof:lastmodified":1566645409,
     "wof:name":"Blatne Revistia",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

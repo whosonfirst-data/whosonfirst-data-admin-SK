@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.61537,48.56244,20.65537,48.60244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hru\u0161ov"
     ],
@@ -67,10 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0448\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "K\u00f6rtv\u00e9lyes",
-        "Hru\u0161ov"
-    ],
     "name:war_x_preferred":[
         "Hru\u0161ov"
     ],
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1209717627,
-    "wof:lastmodified":1564310880,
+    "wof:lastmodified":1566645566,
     "wof:name":"Hrusov",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

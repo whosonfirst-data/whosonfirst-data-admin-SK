@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.16543,48.25875,20.20543,48.29875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chr\u00e1mec"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0430\u043c\u0435\u0446"
     ],
-    "name:und_x_variant":[
-        "Harmac",
-        "Chr\u00e1mec"
-    ],
     "name:war_x_preferred":[
         "Chr\u00e1mec"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1293700865,
-    "wof:lastmodified":1564310677,
+    "wof:lastmodified":1566645467,
     "wof:name":"Chramec",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

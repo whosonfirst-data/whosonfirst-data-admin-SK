@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.66281,47.91129,17.70281,47.95129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pad\u00e1\u0148"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0434\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "Pad\u00e1ny",
-        "Pad\u00e1\u0148"
-    ],
     "name:war_x_preferred":[
         "Pad\u00e1\u0148"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1242572263,
-    "wof:lastmodified":1564311328,
+    "wof:lastmodified":1566645955,
     "wof:name":"Padan",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

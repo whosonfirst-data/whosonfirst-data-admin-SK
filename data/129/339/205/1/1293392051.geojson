@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.33042,48.45258,20.37042,48.49258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gemersk\u00e1 Panica"
     ],
@@ -77,8 +81,7 @@
         "G\u00f6m\u00f6r-Panyit",
         "Gemelsk\u00e1-Panita",
         "Gemersk\u00e1 Panitov\u00e1",
-        "Gemersk\u00e1 Panita",
-        "Gemersk\u00e1 Panica"
+        "Gemersk\u00e1 Panita"
     ],
     "name:war_x_preferred":[
         "Gemersk\u00e1 Panica"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1293392051,
-    "wof:lastmodified":1564310662,
+    "wof:lastmodified":1566645457,
     "wof:name":"Gemerska Panica",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

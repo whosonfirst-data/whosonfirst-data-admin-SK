@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.275492,
     "lbl:longitude":21.190588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.275492,
     "mps:longitude":21.190588,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Richvald"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0445\u0432\u0430\u043b\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rychvald"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":723743,
         "gp:id":821955,
-        "qs:id":402833,
+        "qs_pg:id":402833,
         "wd:id":"Q990555",
         "wk:page":"Richvald"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101780607,
-    "wof:lastmodified":1563254668,
+    "wof:lastmodified":1566645822,
     "wof:name":"Richvald",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

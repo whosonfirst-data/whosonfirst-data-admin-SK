@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.854087,
     "lbl:longitude":17.829341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.854087,
     "mps:longitude":17.829341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sokolce"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3057529,
         "gp:id":822330,
-        "qs:id":1271709,
+        "qs_pg:id":1271709,
         "wd:id":"Q541645",
         "wk:page":"Sokolce"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101845705,
-    "wof:lastmodified":1563254178,
+    "wof:lastmodified":1566645692,
     "wof:name":"Sokolce",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"21.80587,48.36159,21.80587,48.36159",
     "geom:latitude":48.36159,
     "geom:longitude":21.80587,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.78587,48.34159,21.82587,48.38159",
     "lbl:latitude":48.36159,
     "lbl:longitude":21.80587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Kamenec"
@@ -75,7 +79,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u043b\u044c\u043a\u0438 \u041a\u0430\u043c\u0435\u043d\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nagy-K\u00f6vesd"
     ],
     "name:war_x_preferred":[
@@ -100,7 +104,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":823005,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1125788203,
-    "wof:lastmodified":1563254956,
+    "wof:lastmodified":1566645922,
     "wof:name":"Vel\u0315k\u00fd Kamenec",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

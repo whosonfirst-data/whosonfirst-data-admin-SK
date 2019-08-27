@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.386271,
     "lbl:longitude":18.619045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.386271,
     "mps:longitude":18.619045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tekovsk\u00e1 Breznica"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043a\u043e\u0432\u0441\u044c\u043a\u0430 \u0411\u0440\u0435\u0437\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brezovica"
     ],
     "name:war_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":305,
     "wof:belongsto":[
         102191581,
@@ -105,10 +108,12 @@
     "wof:concordances":{
         "gn:id":3060941,
         "gp:id":818742,
-        "qs:id":884323,
         "qs_pg:id":358326,
         "wd:id":"Q790780",
         "wk:page":"Tekovsk\u00e1 Breznica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":884323
     },
     "wof:country":"SK",
     "wof:geomhash":"3e1da88e48ec935b11f27ecedc5c2392",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101784053,
-    "wof:lastmodified":1563254438,
+    "wof:lastmodified":1566645765,
     "wof:name":"Tekovsk\u00e1 Breznica",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

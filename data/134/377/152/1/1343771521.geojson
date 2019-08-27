@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.40506,48.43195,19.44506,48.47195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Hlinka"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343771521,
-    "wof:lastmodified":1564310570,
+    "wof:lastmodified":1566645404,
     "wof:name":"Hlinka",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

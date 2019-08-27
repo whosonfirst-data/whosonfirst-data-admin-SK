@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.99729,
     "lbl:longitude":20.938989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.99729,
     "mps:longitude":20.938989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160irok\u00e9"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u0440\u043e\u043a\u0435"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Siroke"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
         "fct:id":"070da10c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723609,
         "gp:id":29401812,
-        "qs:id":1300344,
+        "qs_pg:id":1300344,
         "wd:id":"Q391724",
         "wk:page":"\u0160irok\u00e9"
     },
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254668,
+    "wof:lastmodified":1566645822,
     "wof:name":"\u0160irok\u00e9",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

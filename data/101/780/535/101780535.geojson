@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.961328,
     "lbl:longitude":22.424781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.961328,
     "mps:longitude":22.424781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Uli\u010d"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":723318,
         "gp:id":822832,
-        "qs:id":940120,
+        "qs_pg:id":940120,
         "wd:id":"Q372541",
         "wk:page":"Uli\u010d"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101780535,
-    "wof:lastmodified":1563254577,
+    "wof:lastmodified":1566645800,
     "wof:name":"Uli\u010d",
     "wof:parent_id":102080599,
     "wof:placetype":"locality",

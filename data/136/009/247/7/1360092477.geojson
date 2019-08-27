@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.71196,48.42118,21.75196,48.46118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cernochov"
     ],
@@ -74,8 +78,7 @@
         "\u0427\u0435\u0440\u043d\u043e\u0445\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Csarnnah\u00f3",
-        "\u010cernochov"
+        "Csarnnah\u00f3"
     ],
     "name:war_x_preferred":[
         "\u010cernochov"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1360092477,
-    "wof:lastmodified":1564311080,
+    "wof:lastmodified":1566645674,
     "wof:name":"Cernochov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

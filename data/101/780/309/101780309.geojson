@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.115824,
     "lbl:longitude":19.184894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.115824,
     "mps:longitude":19.184894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hubov\u00e1"
     ],
@@ -64,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u0425\u0443\u0431\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gomb\u00e1\u0161"
     ],
     "name:war_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3059830,
         "gp:id":819870,
-        "qs:id":1181419,
         "qs_pg:id":1181419,
         "wd:id":"Q578925",
         "wk:page":"Hubov\u00e1"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101780309,
-    "wof:lastmodified":1563254567,
+    "wof:lastmodified":1566645799,
     "wof:name":"Hubov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

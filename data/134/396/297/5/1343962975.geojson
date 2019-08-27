@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.32476,49.31101,20.36476,49.35101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Spi\u0161sk\u00e9 Hanu\u0161ovce"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0438\u0441\u044c\u043a\u0456 \u0413\u0430\u043d\u0443\u0448\u0456\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Spi\u0161sk\u00e9 Hanu\u0161ovce"
-    ],
     "name:war_x_preferred":[
         "Spi\u0161sk\u00e9 Hanu\u0161ovce"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1343962975,
-    "wof:lastmodified":1564310539,
+    "wof:lastmodified":1566645388,
     "wof:name":"Spisske Hanusovce",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

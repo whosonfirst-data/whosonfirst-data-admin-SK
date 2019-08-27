@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.04731,48.24986,19.08731,48.28986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00fd Bad\u00edn"
     ],
@@ -69,8 +73,7 @@
     ],
     "name:und_x_variant":[
         "Bad\u00edn",
-        "Doln\u00ed Bad\u00edn",
-        "Doln\u00fd Bad\u00edn"
+        "Doln\u00ed Bad\u00edn"
     ],
     "name:war_x_preferred":[
         "Doln\u00fd Bad\u00edn"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1343862383,
-    "wof:lastmodified":1564310641,
+    "wof:lastmodified":1566645439,
     "wof:name":"Dolny Badin",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

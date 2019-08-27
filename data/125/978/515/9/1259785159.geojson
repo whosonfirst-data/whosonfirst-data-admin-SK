@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.20064,48.78858,22.24064,48.82858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hlivi\u0161tia"
     ],
@@ -74,10 +78,8 @@
         "\u0413\u043b\u0456\u0432\u0456\u0448\u0442\u044c\u044f"
     ],
     "name:und_x_variant":[
-        "Hegygomb\u00e1s",
         "Hliviscse",
-        "Hlivi\u0161te",
-        "Hlivi\u0161tia"
+        "Hlivi\u0161te"
     ],
     "name:war_x_preferred":[
         "Hlivi\u0161tia"
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1259785159,
-    "wof:lastmodified":1564311442,
+    "wof:lastmodified":1566646008,
     "wof:name":"Hlivistia",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

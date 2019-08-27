@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.48876,48.33895,18.52876,48.37895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010caradice"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0440\u0430\u0434\u0456\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "\u010caradice"
-    ],
     "name:war_x_preferred":[
         "\u010caradice"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1327030185,
-    "wof:lastmodified":1564310477,
+    "wof:lastmodified":1566645344,
     "wof:name":"Caradice",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

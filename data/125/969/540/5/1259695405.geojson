@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.38095,48.63607,21.42095,48.67607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bohdanovce"
     ],
@@ -78,8 +82,7 @@
     ],
     "name:und_x_variant":[
         "Garbocbogdany",
-        "Bochdonvce",
-        "Bohdanovce"
+        "Bochdonvce"
     ],
     "name:war_x_preferred":[
         "Bohdanovce"
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1259695405,
-    "wof:lastmodified":1564311464,
+    "wof:lastmodified":1566646019,
     "wof:name":"Bohdanovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

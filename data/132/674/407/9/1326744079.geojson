@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.2671,48.34832,20.3071,48.38832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rumince"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u043c\u0456\u043d\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "Runya",
-        "Rumince"
-    ],
     "name:war_x_preferred":[
         "Rumince"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1326744079,
-    "wof:lastmodified":1564310432,
+    "wof:lastmodified":1566645316,
     "wof:name":"Rumince",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

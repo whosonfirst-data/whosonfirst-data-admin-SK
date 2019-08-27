@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.64012,49.26154,21.68012,49.30154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vislava"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1260079481,
-    "wof:lastmodified":1564310969,
+    "wof:lastmodified":1566645618,
     "wof:name":"Vislava",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

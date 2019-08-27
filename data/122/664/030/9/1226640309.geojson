@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.61942,48.20221,17.65942,48.24221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kis-M\u00e1cs\u00e9d",
         "Mal\u00fd Ma\u010dad",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226640309,
-    "wof:lastmodified":1537700406,
+    "wof:lastmodified":1566646058,
     "wof:name":"Mala Maca",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

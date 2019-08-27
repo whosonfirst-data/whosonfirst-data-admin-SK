@@ -12,8 +12,10 @@
     "gn:latitude":48.12837,
     "gn:longitude":17.13588,
     "iso:country":"SK",
+    "lbl:bbox":"17.126082,48.115848,17.136082,48.125848",
     "lbl:latitude":48.120848,
     "lbl:longitude":17.131082,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.130349,
     "mps:longitude":17.137409,
     "mz:hierarchy_label":0,
@@ -34,12 +36,6 @@
     ],
     "name:und_x_colloquial":[
         "Ovsiste"
-    ],
-    "name:und_x_preferred":[
-        "Ovsi\u00b5te"
-    ],
-    "name:unk_x_variant":[
-        "Ovsi\u00b5te"
     ],
     "qs:gn_adm0_cc":"SK",
     "qs:gn_fcode":"PPLX",
@@ -83,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3058312,
         "gp:id":821463,
-        "qs:id":1159089,
         "qs_pg:id":1159089
     },
     "wof:country":"SK",
@@ -102,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645443,
     "wof:name":"Ovsi\u00b5te",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

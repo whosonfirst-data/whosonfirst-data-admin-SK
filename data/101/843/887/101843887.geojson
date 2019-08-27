@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.855838,
     "lbl:longitude":20.942209,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.855838,
     "mps:longitude":20.942209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0644\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -107,12 +110,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u0435\u043b\u043d\u0438\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Gelnica"
-    ],
-    "name:unk_x_variant":[
-        "Gollnitz"
-    ],
     "name:war_x_preferred":[
         "Gelnica"
     ],
@@ -134,7 +131,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.855,
     "wd:longitude":20.939722,
@@ -150,7 +147,7 @@
         "fct:id":"070eae76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":724800,
         "gp:id":29400282,
-        "qs:id":207474,
+        "qs_pg:id":207474,
         "wd:id":"Q842028",
         "wk:page":"Gelnica"
     },
@@ -169,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254206,
+    "wof:lastmodified":1566645699,
     "wof:name":"Gelnica",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

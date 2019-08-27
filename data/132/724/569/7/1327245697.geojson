@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.05081,48.28635,20.09081,48.32635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jesensk\u00e9"
     ],
@@ -71,9 +75,7 @@
         "\u0404\u0441\u0435\u043d\u0441\u043a\u0435"
     ],
     "name:und_x_variant":[
-        "Feledince",
-        "Jesensk\u00e9",
-        "Feled"
+        "Feledince"
     ],
     "name:war_x_preferred":[
         "Jesensk\u00e9"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1327245697,
-    "wof:lastmodified":1564310455,
+    "wof:lastmodified":1566645330,
     "wof:name":"Jesenske",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

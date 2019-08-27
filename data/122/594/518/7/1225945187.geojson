@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.06531,48.62129,18.10531,48.66129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1vada"
     ],
@@ -61,9 +65,6 @@
     "name:srp_x_preferred":[
         "\u0417\u0430\u0432\u0430\u0434\u0430"
     ],
-    "name:und_x_variant":[
-        "Z\u00e1vada"
-    ],
     "name:war_x_preferred":[
         "Z\u00e1vada"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1225945187,
-    "wof:lastmodified":1564311478,
+    "wof:lastmodified":1566646024,
     "wof:name":"Zavada",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

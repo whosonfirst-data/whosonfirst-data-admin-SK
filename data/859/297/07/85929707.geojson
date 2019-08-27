@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12108566.038303,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.257067,48.721391,21.257067,48.721391",
     "geom:latitude":48.721391,
     "geom:longitude":21.257067,
     "gn:id":"",
     "iso:country":"SK",
+    "lbl:bbox":"21.252067,48.716391,21.262067,48.726391",
     "lbl:latitude":48.721391,
     "lbl:longitude":21.257067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.71814,
     "mps:longitude":21.254341,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:und_x_colloquial":[
         "Stare Mesto"
     ],
-    "name:und_x_preferred":[
-        "Star\u00e9 Mesto"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Star\u00e9 Mesto"
     ],
     "qs:gn_adm0_cc":"SK",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":95,
     "wof:belongsto":[
+        85688359,
         102191581,
         85633769,
         101752055,
-        102080549,
-        85688359
+        102080549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55867259,
-        "qs:id":473265,
         "qs_pg:id":473265
     },
     "wof:country":"SK",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939154,
+    "wof:lastmodified":1566645445,
     "wof:name":"Star\u00e9 Mesto",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

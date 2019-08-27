@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.21181,
     "lbl:longitude":18.834077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.21181,
     "mps:longitude":18.834077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gbe\u013eany"
     ],
@@ -68,10 +71,7 @@
     "name:srp_x_preferred":[
         "\u0413\u0431\u0435\u0459\u0430\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Gbelany"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gbelany"
     ],
     "name:war_x_preferred":[
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,6 @@
         "fct:id":"070ead7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3060210,
         "gp:id":819462,
-        "qs:id":244325,
         "qs_pg:id":244325,
         "wd:id":"Q987804",
         "wk:page":"Gbe\u013eany"
@@ -127,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254282,
+    "wof:lastmodified":1566645721,
     "wof:name":"Gbe\u013eany",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

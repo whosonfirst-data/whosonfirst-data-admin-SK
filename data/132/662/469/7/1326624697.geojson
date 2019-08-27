@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.94341,48.58697,17.98341,48.62697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dvor Jelen\u00e9 Jamy",
         "Jelen\u00e9 Jamy"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326624697,
-    "wof:lastmodified":1537700416,
+    "wof:lastmodified":1566645357,
     "wof:name":"Jelene Jamy",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

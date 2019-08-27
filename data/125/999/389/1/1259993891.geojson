@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.78448,48.46196,19.82448,48.50196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cesk\u00e9 Brezovo"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0441\u043a\u0435 \u0411\u0440\u0435\u0437\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "\u010cesk\u00e9 Brezovo"
-    ],
     "name:war_x_preferred":[
         "\u010cesk\u00e9 Brezovo"
     ],
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1259993891,
-    "wof:lastmodified":1564311418,
+    "wof:lastmodified":1566645997,
     "wof:name":"Ceske Brezovo",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

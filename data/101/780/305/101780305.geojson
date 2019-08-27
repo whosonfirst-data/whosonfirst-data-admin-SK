@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.119036,
     "lbl:longitude":19.166967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.119036,
     "mps:longitude":19.166967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u013duboch\u0148a"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058997,
         "gp:id":820726,
-        "qs:id":326218,
+        "qs_pg:id":326218,
         "wd:id":"Q344696",
         "wk:page":"\u013duboch\u0148a"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101780305,
-    "wof:lastmodified":1563254640,
+    "wof:lastmodified":1566645816,
     "wof:name":"\u013duboch\u0148a",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

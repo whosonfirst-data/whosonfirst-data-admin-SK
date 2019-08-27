@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.9838,49.0514,22.0238,49.0914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Slovensk\u00e9 Kriv\u00e9"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u0435 \u041a\u0440\u0438\u0432\u0435"
     ],
-    "name:und_x_variant":[
-        "Slovensk\u00e9 Kriv\u00e9"
-    ],
     "name:war_x_preferred":[
         "Slovensk\u00e9 Kriv\u00e9"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1293291961,
-    "wof:lastmodified":1564310731,
+    "wof:lastmodified":1566645493,
     "wof:name":"Slovenske Krive",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

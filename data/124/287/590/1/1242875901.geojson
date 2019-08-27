@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.7536,48.72521,20.7936,48.76521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Smoln\u00edcka Huta"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Schm\u00f6llnitzer H\u00fctte",
-        "Schmollnitzer Hutta",
-        "Smoln\u00edcka Huta"
+        "Schmollnitzer Hutta"
     ],
     "name:war_x_preferred":[
         "Smoln\u00edcka Huta"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1242875901,
-    "wof:lastmodified":1564311317,
+    "wof:lastmodified":1566645951,
     "wof:name":"Smolnicka Huta",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

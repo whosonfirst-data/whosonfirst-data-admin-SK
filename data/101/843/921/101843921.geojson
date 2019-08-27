@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.256152,
     "lbl:longitude":18.528377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.256152,
     "mps:longitude":18.528377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Petrovice"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3058217,
         "gp:id":796009,
-        "qs:id":1081932,
+        "qs_pg:id":1081932,
         "wd:id":"Q525011",
         "wk:page":"Petrovice, Byt\u010da District"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101843921,
-    "wof:lastmodified":1563254257,
+    "wof:lastmodified":1566645714,
     "wof:name":"Petrovice",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.92308,47.74748,17.96308,47.78748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1310512039,
-    "wof:lastmodified":1536907659,
+    "wof:lastmodified":1566645667,
     "wof:name":"Ontopa",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.807623,
     "lbl:longitude":21.770098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.807623,
     "mps:longitude":21.770098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ni\u017en\u00fd Hru\u0161ov"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u0413\u0440\u0443\u0448\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ni\u017en\u00ed Hru\u0161ov"
     ],
     "name:war_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":724038,
         "gp:id":821260,
-        "qs:id":384838,
         "qs_pg:id":384838,
         "wd:id":"Q678191",
         "wk:page":"Ni\u017en\u00fd Hru\u0161ov"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101780467,
-    "wof:lastmodified":1563254659,
+    "wof:lastmodified":1566645820,
     "wof:name":"Ni\u017en\u00fd Hru\u0161ov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

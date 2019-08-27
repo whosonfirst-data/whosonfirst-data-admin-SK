@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.56037,48.46492,19.60037,48.50492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kotmanov\u00e1"
     ],
@@ -68,8 +72,7 @@
         "\u041a\u043e\u0442\u043c\u0430\u043d\u043e\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Dobro\u010dsk\u00e1 Lehota",
-        "Kotmanov\u00e1"
+        "Dobro\u010dsk\u00e1 Lehota"
     ],
     "name:war_x_preferred":[
         "Kotmanov\u00e1"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1343671311,
-    "wof:lastmodified":1564310610,
+    "wof:lastmodified":1566645422,
     "wof:name":"Kotmanova",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

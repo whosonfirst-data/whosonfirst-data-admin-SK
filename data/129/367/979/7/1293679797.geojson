@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.61648,49.09061,18.65648,49.13061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jasenov\u00e9"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0408\u0430\u0441\u0435\u043d\u043e\u0432\u0435"
     ],
-    "name:und_x_variant":[
-        "Jasenov\u00e9"
-    ],
     "name:war_x_preferred":[
         "Jasenov\u00e9"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1293679797,
-    "wof:lastmodified":1564310709,
+    "wof:lastmodified":1566645483,
     "wof:name":"Jasenove",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

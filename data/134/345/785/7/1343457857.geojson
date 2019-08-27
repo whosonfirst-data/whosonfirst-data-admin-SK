@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.02012,49.15059,22.06012,49.19059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Svetlice"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1343457857,
-    "wof:lastmodified":1564310629,
+    "wof:lastmodified":1566645433,
     "wof:name":"Svetlice",
     "wof:parent_id":102080617,
     "wof:placetype":"locality",

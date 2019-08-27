@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.902953,
     "lbl:longitude":18.228737,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.902953,
     "mps:longitude":18.228737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Om\u0161enie"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058399,
         "gp:id":821387,
-        "qs:id":208394,
+        "qs_pg:id":208394,
         "wd:id":"Q1070695",
         "wk:page":"Om\u0161enie"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101781725,
-    "wof:lastmodified":1563254492,
+    "wof:lastmodified":1566645780,
     "wof:name":"Om\u0161enie",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

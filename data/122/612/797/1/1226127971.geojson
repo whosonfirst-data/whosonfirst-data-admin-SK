@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.60264,49.20224,18.64264,49.24224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hri\u010dovsk\u00e9 Podhradie"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0425\u0440\u0438\u0447\u043e\u0432\u0441\u043a\u0435 \u041f\u043e\u0434\u0445\u0440\u0430\u0434\u0458\u0435"
     ],
-    "name:und_x_variant":[
-        "Hri\u010dovsk\u00e9 Podhradie"
-    ],
     "name:war_x_preferred":[
         "Hri\u010dovsk\u00e9 Podhradie"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1226127971,
-    "wof:lastmodified":1564311547,
+    "wof:lastmodified":1566646055,
     "wof:name":"Hricovske Podhradie",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"16.99863,48.37512,16.99863,48.37512",
     "geom:latitude":48.37512,
     "geom:longitude":16.99863,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"16.97863,48.35512,17.01863,48.39512",
     "lbl:latitude":48.37512,
     "lbl:longitude":16.99863,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
@@ -72,9 +76,6 @@
     "name:srp_x_preferred":[
         "\u041f\u043b\u0430\u0432\u0435\u0446\u043a\u0438 \u0428\u0442\u0432\u0440\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Plaveck\u00fd \u0160tvrtok"
-    ],
     "name:war_x_preferred":[
         "Plaveck\u00fd \u0160tvrtok"
     ],
@@ -97,7 +98,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821611,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Bratislavsky",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1125840075,
-    "wof:lastmodified":1563254974,
+    "wof:lastmodified":1566645929,
     "wof:name":"Plaveck\u00fd \u00c5 Tvrtok",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

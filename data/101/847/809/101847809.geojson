@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.506858,
     "lbl:longitude":19.415194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.506858,
     "mps:longitude":19.415194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Siheln\u00e9"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3057675,
         "gp:id":822185,
-        "qs:id":1271683,
+        "qs_pg:id":1271683,
         "wd:id":"Q745983",
         "wk:page":"Siheln\u00e9"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101847809,
-    "wof:lastmodified":1563254476,
+    "wof:lastmodified":1566645775,
     "wof:name":"Siheln\u00e9",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

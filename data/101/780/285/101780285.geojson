@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.876667,
     "lbl:longitude":21.818761,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.876667,
     "mps:longitude":21.818761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0627\u062c\u0633\u0643\u0647"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.866667,
     "wd:longitude":21.816667,
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":723470,
         "gp:id":822453,
-        "qs:id":894442,
         "qs_pg:id":894442,
         "wd:id":"Q846434",
         "wk:page":"Str\u00e1\u017eske"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101780285,
-    "wof:lastmodified":1563254653,
+    "wof:lastmodified":1566645819,
     "wof:name":"Str\u00e1\u017eske",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

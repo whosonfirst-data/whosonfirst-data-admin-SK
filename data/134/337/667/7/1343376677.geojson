@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.91464,48.14297,19.95464,48.18297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u010delkov"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Vecsekl\u00f3",
-        "Ve\u010deklov",
-        "Ve\u010delkov"
+        "Ve\u010deklov"
     ],
     "name:war_x_preferred":[
         "Ve\u010delkov"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1343376677,
-    "wof:lastmodified":1564310542,
+    "wof:lastmodified":1566645390,
     "wof:name":"Vecelkov",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

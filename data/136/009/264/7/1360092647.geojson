@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.46,48.58296,20.5,48.62296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vy\u0161n\u00ed H\u00e1mor",
         "Vy\u0161n\u00fd H\u00e1mor"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360092647,
-    "wof:lastmodified":1537700341,
+    "wof:lastmodified":1566645674,
     "wof:name":"Vysny Hamor",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.20537,
     "lbl:longitude":18.357342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.20537,
     "mps:longitude":18.357342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00e1 Marikov\u00e1"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u041c\u0430\u0440\u0438\u043a\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mar\u00edkov\u00e1"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":122,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3060501,
         "gp:id":819168,
-        "qs:id":1013284,
         "qs_pg:id":1013284,
         "wd:id":"Q1043768",
         "wk:page":"Doln\u00e1 Marikov\u00e1"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101843909,
-    "wof:lastmodified":1563254195,
+    "wof:lastmodified":1566645697,
     "wof:name":"Doln\u00e1 Marikov\u00e1",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

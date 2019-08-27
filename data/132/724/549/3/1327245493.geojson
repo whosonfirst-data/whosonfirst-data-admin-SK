@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.58059,48.26159,19.62059,48.30159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jel\u0161ovec"
     ],
@@ -68,8 +72,7 @@
         "\u0404\u043b\u0448\u043e\u0432\u0435\u0446"
     ],
     "name:und_x_variant":[
-        "Jels\u00f6c",
-        "Jel\u0161ovec"
+        "Jels\u00f6c"
     ],
     "name:war_x_preferred":[
         "Jel\u0161ovec"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1327245493,
-    "wof:lastmodified":1564310457,
+    "wof:lastmodified":1566645331,
     "wof:name":"Jelsovec",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

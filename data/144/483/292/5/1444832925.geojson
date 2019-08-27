@@ -10,8 +10,10 @@
     "geom:latitude":48.157619,
     "geom:longitude":17.138112,
     "iso:country":"SK",
+    "lbl:bbox":"17.1331117506,48.1526192911,17.1431117506,48.1626192911",
     "lbl:latitude":48.157619,
     "lbl:longitude":17.138112,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444832925,
-    "wof:lastmodified":1566337244,
+    "wof:lastmodified":1566645594,
     "wof:name":"Stary Ruzinov",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

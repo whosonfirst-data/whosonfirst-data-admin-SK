@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.68733,49.33371,21.72733,49.37371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u0434\u0440\u0443\u0436\u0430\u043b"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1327332695,
-    "wof:lastmodified":1564310469,
+    "wof:lastmodified":1566645339,
     "wof:name":"Bodruzzal'",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

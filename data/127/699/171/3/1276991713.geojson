@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.17509,49.266,19.21509,49.306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276991713,
-    "wof:lastmodified":1536890740,
+    "wof:lastmodified":1566645541,
     "wof:name":"Kozinska",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

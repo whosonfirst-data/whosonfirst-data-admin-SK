@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.70953,49.27613,20.74953,49.31613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chme\u013enica"
     ],
@@ -83,8 +87,7 @@
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Hobgart",
-        "Chme\u013enica"
+        "Hobgart"
     ],
     "name:war_x_preferred":[
         "Chme\u013enica"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1260002405,
-    "wof:lastmodified":1564310970,
+    "wof:lastmodified":1566645618,
     "wof:name":"Chmel'nica",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

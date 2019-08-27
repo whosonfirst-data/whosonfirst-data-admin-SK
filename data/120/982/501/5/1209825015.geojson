@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.37372,48.22851,19.41372,48.26851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00e9 Strh\u00e1re"
     ],
@@ -69,8 +73,7 @@
     ],
     "name:und_x_variant":[
         "Dolnie Strh\u00e1ry",
-        "Dolni Strh\u00e1ry",
-        "Doln\u00e9 Strh\u00e1re"
+        "Dolni Strh\u00e1ry"
     ],
     "name:war_x_preferred":[
         "Doln\u00e9 Strh\u00e1re"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1209825015,
-    "wof:lastmodified":1564310885,
+    "wof:lastmodified":1566645568,
     "wof:name":"Dolne Strhare",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

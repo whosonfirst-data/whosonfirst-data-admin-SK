@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.078884,
     "lbl:longitude":18.405169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.078884,
     "mps:longitude":18.405169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sverepec"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3057284,
         "gp:id":822573,
-        "qs:id":402936,
+        "qs_pg:id":402936,
         "wd:id":"Q301494",
         "wk:page":"Sverepec"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101780341,
-    "wof:lastmodified":1563254611,
+    "wof:lastmodified":1566645809,
     "wof:name":"Sverepec",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

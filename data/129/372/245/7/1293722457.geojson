@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.28078,48.18219,18.32078,48.22219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u017ditavce"
     ],
@@ -65,8 +69,7 @@
         "\u0416\u0438\u0442\u0430\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "\u010earmoty nad \u017ditavou",
-        "\u017ditavce"
+        "\u010earmoty nad \u017ditavou"
     ],
     "name:war_x_preferred":[
         "\u017ditavce"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1293722457,
-    "wof:lastmodified":1564310745,
+    "wof:lastmodified":1566645501,
     "wof:name":"Zitavce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

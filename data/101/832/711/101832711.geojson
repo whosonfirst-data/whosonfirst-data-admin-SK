@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.64013,
     "lbl:longitude":21.297566,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.64013,
     "mps:longitude":21.297566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ge\u010da"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":121,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":724801,
         "gp:id":819465,
-        "qs:id":1271089,
+        "qs_pg:id":1271089,
         "wd:id":"Q1035661",
         "wk:page":"Ge\u010da"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101832711,
-    "wof:lastmodified":1563254281,
+    "wof:lastmodified":1566645721,
     "wof:name":"Ge\u010da",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.018948,
     "lbl:longitude":20.391622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.018948,
     "mps:longitude":20.391622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "H\u00f4rka"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29402944,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1094191"
     },
     "wof:country":"SK",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101843965,
-    "wof:lastmodified":1563254199,
+    "wof:lastmodified":1566645698,
     "wof:name":"H\u00f4rka",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

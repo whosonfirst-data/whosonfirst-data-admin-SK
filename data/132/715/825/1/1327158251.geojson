@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.15412,48.8504,18.19412,48.8904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Petrova Lehota"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1327158251,
-    "wof:lastmodified":1564310454,
+    "wof:lastmodified":1566645330,
     "wof:name":"Petrova Lehota",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

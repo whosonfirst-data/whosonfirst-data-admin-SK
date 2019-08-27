@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.841448,
     "lbl:longitude":20.618928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.841448,
     "mps:longitude":20.618928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "N\u00e1lepkovo"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043b\u0435\u043f\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vondri\u0161el"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":724080,
         "gp:id":821162,
-        "qs:id":98869,
+        "qs_pg:id":98869,
         "wd:id":"Q508996",
         "wk:page":"N\u00e1lepkovo"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101780247,
-    "wof:lastmodified":1563254650,
+    "wof:lastmodified":1566645818,
     "wof:name":"N\u00e1lepkovo",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

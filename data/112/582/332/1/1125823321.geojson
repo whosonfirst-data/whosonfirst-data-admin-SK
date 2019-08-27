@@ -9,14 +9,18 @@
     "geom:bbox":"17.26762,48.65426,17.26762,48.65426",
     "geom:latitude":48.65426,
     "geom:longitude":17.26762,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.24762,48.63426,17.28762,48.67426",
     "lbl:latitude":48.65426,
     "lbl:longitude":17.26762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "\u0160ajd\u00edkove Humence"
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "Sol\u0315"
     ],
-    "name:unk_x_variant":[
-        "\u0160ajd\u00edkove Humence"
-    ],
     "name:war_x_preferred":[
         "\u0160ajd\u00edkove Humence"
     ],
@@ -95,7 +96,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":822079,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Trnavsky",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1125823321,
-    "wof:lastmodified":1563254948,
+    "wof:lastmodified":1566645919,
     "wof:name":"\u00c5 Ajd\u00edkov Humence",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

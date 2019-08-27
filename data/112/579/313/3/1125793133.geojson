@@ -9,14 +9,18 @@
     "geom:bbox":"18.02032,47.94866,18.02032,47.94866",
     "geom:latitude":47.94866,
     "geom:longitude":18.02032,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"18.00032,47.92866,18.04032,47.96866",
     "lbl:latitude":47.94866,
     "lbl:longitude":18.02032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Komo\u010da"
@@ -69,7 +73,7 @@
     "name:srp_x_variant":[
         "\u0417\u0430\u0459\u0435\u0441\u0458\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamo\u010da"
     ],
     "name:war_x_preferred":[
@@ -94,7 +98,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":820280,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Nitriansky",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1125793133,
-    "wof:lastmodified":1563254970,
+    "wof:lastmodified":1566645928,
     "wof:name":"Komo\u010da",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

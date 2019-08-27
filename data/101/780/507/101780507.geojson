@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.09393,
     "lbl:longitude":20.282295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.09393,
     "mps:longitude":20.282295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Slavkov"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross-Schlagendorf"
     ],
     "name:war_x_preferred":[
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":723245,
         "gp:id":823020,
-        "qs:id":1072274,
+        "qs_pg:id":1072274,
         "wd:id":"Q1094067",
         "wk:page":"Ve\u013ek\u00fd Slavkov"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101780507,
-    "wof:lastmodified":1563254635,
+    "wof:lastmodified":1566645815,
     "wof:name":"Ve\u013ek\u00fd Slavkov",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

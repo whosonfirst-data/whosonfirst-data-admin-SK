@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.170025,
     "lbl:longitude":20.912853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.170025,
     "mps:longitude":20.912853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Krivany"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kriviany"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":724392,
         "gp:id":820439,
-        "qs:id":1271315,
+        "qs_pg:id":1271315,
         "wd:id":"Q1045770",
         "wk:page":"Krivany"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101780477,
-    "wof:lastmodified":1563254588,
+    "wof:lastmodified":1566645803,
     "wof:name":"Krivany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

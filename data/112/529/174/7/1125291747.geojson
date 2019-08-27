@@ -9,15 +9,18 @@
     "geom:bbox":"21.0988,49.10308,21.0988,49.10308",
     "geom:latitude":49.10308,
     "geom:longitude":21.0988,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12290,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:population":12290,
     "iso:country":"SK",
+    "lbl:bbox":"20.9988,49.00308,21.1988,49.20308",
     "lbl:latitude":49.10308,
     "lbl:longitude":21.0988,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u064a\u0646\u0648\u0641"
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0431\u0438\u043d\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kisseben"
     ],
     "name:war_x_preferred":[
@@ -133,7 +136,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":29402231,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1125291747,
-    "wof:lastmodified":1564311226,
+    "wof:lastmodified":1566645878,
     "wof:name":"Sabinov",
     "wof:parent_id":102080595,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.07722,48.60987,18.11722,48.64987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Velu\u0161ovce"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0443\u0448\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "Velu\u0161ovce"
-    ],
     "name:war_x_preferred":[
         "Velu\u0161ovce"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1259583637,
-    "wof:lastmodified":1564311457,
+    "wof:lastmodified":1566646016,
     "wof:name":"Velusovce",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

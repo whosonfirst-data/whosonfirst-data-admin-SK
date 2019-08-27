@@ -10,12 +10,16 @@
     "geom:latitude":48.689922,
     "geom:longitude":18.378586,
     "iso:country":"SK",
+    "lbl:bbox":"18.358586,48.669922,18.398586,48.709922",
     "lbl:latitude":48.689922,
     "lbl:longitude":18.378586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.689922,
     "mps:longitude":18.378586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hradi\u0161te"
     ],
@@ -109,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":101857935,
-    "wof:lastmodified":1563254263,
+    "wof:lastmodified":1566645715,
     "wof:name":"Hradi\u0161te",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.283434,
     "lbl:longitude":17.632242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.283434,
     "mps:longitude":17.632242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Majcichov"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0446\u0438\u0446\u0433\u043e\u0432"
     ],
-    "name:und_x_preferred":[
-        "Majcichov"
-    ],
     "name:war_x_preferred":[
         "Majcichov"
     ],
@@ -101,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -114,7 +114,7 @@
         "fct:id":"070d44dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058916,
         "gp:id":820797,
-        "qs:id":37836,
+        "qs_pg:id":37836,
         "wd:id":"Q1163763",
         "wk:page":"Majcichov"
     },
@@ -133,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254333,
+    "wof:lastmodified":1566645735,
     "wof:name":"Majcichov",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

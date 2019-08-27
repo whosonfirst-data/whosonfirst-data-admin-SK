@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.04902,48.59092,22.08902,48.63092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pavlovce nad Uhom"
     ],
@@ -74,8 +78,7 @@
         "\u041f\u0430\u0432\u043b\u043e\u0432\u0446\u0435-\u043d\u0430\u0434-\u0423\u0433\u043e\u043c"
     ],
     "name:und_x_variant":[
-        "Pavlovce",
-        "Pavlovce nad Uhom"
+        "Pavlovce"
     ],
     "name:war_x_preferred":[
         "Pavlovce nad Uhom"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1242789257,
-    "wof:lastmodified":1564311367,
+    "wof:lastmodified":1566645972,
     "wof:name":"Pavlovce nad Uhom",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.49047,49.38078,19.53047,49.42078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310597165,
-    "wof:lastmodified":1536785241,
+    "wof:lastmodified":1566645662,
     "wof:name":"Slanica",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

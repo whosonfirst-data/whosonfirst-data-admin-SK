@@ -9,14 +9,18 @@
     "geom:bbox":"17.42336,48.08543,17.42336,48.08543",
     "geom:latitude":48.08543,
     "geom:longitude":17.42336,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.40336,48.06543,17.44336,48.10543",
     "lbl:latitude":48.08543,
     "lbl:longitude":17.42336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041e\u043b\u0434\u0437\u0430"
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u044c\u0434\u0437\u0430"
     ],
-    "name:unk_x_variant":[
-        "Olgya"
-    ],
     "name:war_x_preferred":[
         "O\u013edza"
     ],
@@ -95,7 +96,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821370,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Trnavsky",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1125953277,
-    "wof:lastmodified":1563254764,
+    "wof:lastmodified":1566645849,
     "wof:name":"Ol\u0315dza",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

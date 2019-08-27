@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.58158,49.36343,21.62158,49.40343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ni\u017en\u00e1 Pisan\u00e1"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u041f\u0438\u0441\u0430\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Ni\u017en\u00e1 Pisan\u00e1"
-    ],
     "name:war_x_preferred":[
         "Ni\u017en\u00e1 Pisan\u00e1"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343980691,
-    "wof:lastmodified":1564310542,
+    "wof:lastmodified":1566645390,
     "wof:name":"Nizna Pisana",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.23,48.16333,18.27,48.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Michalsk\u00fd Dvor",
         "Michalsk\u00fd Majer"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209621099,
-    "wof:lastmodified":1537700402,
+    "wof:lastmodified":1566645555,
     "wof:name":"Michalsky Majer",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

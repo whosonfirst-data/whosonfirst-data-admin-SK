@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.57071,49.07075,18.61071,49.11075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e1 \u010cierna"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0430 \u0427\u0458\u0435\u0440\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Ve\u013ek\u00e1 \u010cierna"
-    ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e1 \u010cierna"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1226239525,
-    "wof:lastmodified":1564311544,
+    "wof:lastmodified":1566646053,
     "wof:name":"Vel'ka Cierna",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

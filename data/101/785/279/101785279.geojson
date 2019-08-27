@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.328986,
     "lbl:longitude":16.913036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.328986,
     "mps:longitude":16.913036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vysok\u00e1 pri Morave"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3062226,
         "gp:id":29402294,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1028006",
         "wk:page":"Vysok\u00e1 pri Morave"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101785279,
-    "wof:lastmodified":1563254337,
+    "wof:lastmodified":1566645736,
     "wof:name":"Vysok\u00e1 pri Morave",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

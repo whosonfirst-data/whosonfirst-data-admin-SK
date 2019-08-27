@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.342092,
     "lbl:longitude":20.063628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.342092,
     "mps:longitude":20.063628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rimavsk\u00e9 Janovce"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043c\u0430\u0432\u0441\u043a\u0435 \u042f\u043d\u043e\u0432\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "J\u00e1no\u0161ovce"
     ],
     "name:war_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -105,10 +108,12 @@
     "wof:concordances":{
         "gn:id":724583,
         "gp:id":820001,
-        "qs:id":255569,
         "qs_pg:id":190911,
         "wd:id":"Q1070038",
         "wk:page":"Rimavsk\u00e9 Janovce"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":255569
     },
     "wof:country":"SK",
     "wof:geomhash":"99f575950b255cd8bf536423273b2e01",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101784127,
-    "wof:lastmodified":1563254446,
+    "wof:lastmodified":1566645767,
     "wof:name":"Rimavsk\u00e9 Janovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

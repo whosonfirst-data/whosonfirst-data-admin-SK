@@ -12,8 +12,10 @@
     "gn:latitude":48.77592,
     "gn:longitude":21.20587,
     "iso:country":"SK",
+    "lbl:bbox":"21.210242,48.760519,21.220242,48.770519",
     "lbl:latitude":48.765519,
     "lbl:longitude":21.215242,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.782386,
     "mps:longitude":21.202227,
     "mz:hierarchy_label":0,
@@ -73,14 +75,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0432\u0435\u0447\u0430\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Kavecany"
-    ],
     "name:und_x_variant":[
-        "Kave\u010dany"
-    ],
-    "name:unk_x_variant":[
-        "Kave\u010dany",
         "Kavecany"
     ],
     "qs:gn_adm0_cc":"SK",
@@ -113,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":48.774722,
     "wd:longitude":21.205,
     "wd:wordcount":266,
@@ -127,7 +122,6 @@
     "wof:concordances":{
         "gn:id":724516,
         "gp:id":820150,
-        "qs:id":1065855,
         "qs_pg:id":1065855,
         "wd:id":"Q572748",
         "wk:page":"Kave\u010dany"
@@ -148,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563253709,
+    "wof:lastmodified":1566645442,
     "wof:name":"Kavecany",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

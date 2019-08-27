@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.86982,48.55815,20.90982,48.59815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Turnianska Nov\u00e1 Ves"
     ],
@@ -71,8 +75,7 @@
         "\u0422\u0443\u0440\u043d\u044f\u043d\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Torna-Ujfalu",
-        "Turnianska Nov\u00e1 Ves"
+        "Torna-Ujfalu"
     ],
     "name:war_x_preferred":[
         "Turnianska Nov\u00e1 Ves"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1209322077,
-    "wof:lastmodified":1564310895,
+    "wof:lastmodified":1566645573,
     "wof:name":"Turnianska Nova Ves",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.18196,
     "lbl:longitude":18.155601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.18196,
     "mps:longitude":18.155601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd K\u00fdr"
     ],
@@ -72,7 +75,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0438 \u041a\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00fdr Nitriansky"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3056823,
         "gp:id":823010,
-        "qs:id":1157913,
+        "qs_pg:id":1157913,
         "wd:id":"Q1026693",
         "wk:page":"Ve\u013ek\u00fd K\u00fdr"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101785171,
-    "wof:lastmodified":1563254351,
+    "wof:lastmodified":1566645740,
     "wof:name":"Ve\u013ek\u00fd K\u00fdr",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

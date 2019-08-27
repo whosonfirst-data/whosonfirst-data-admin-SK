@@ -10,12 +10,16 @@
     "geom:latitude":49.082309,
     "geom:longitude":19.359086,
     "iso:country":"SK",
+    "lbl:bbox":"19.339086,49.062309,19.379086,49.102309",
     "lbl:latitude":49.082309,
     "lbl:longitude":19.359086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.082309,
     "mps:longitude":19.359086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Liskov\u00e1"
     ],
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":223,
     "wof:belongsto":[
         102191581,
@@ -109,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3059045,
         "gp:id":820682,
-        "qs:id":1289468,
         "qs_pg:id":1289468,
         "wd:id":"Q1095668",
         "wk:page":"Liskov\u00e1"
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101875831,
-    "wof:lastmodified":1563254192,
+    "wof:lastmodified":1566645696,
     "wof:name":"Liskov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

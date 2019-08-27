@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.31165,48.49584,20.35165,48.53584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Meliata"
     ],
@@ -67,10 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u0456\u0430\u0442\u0430"
     ],
-    "name:und_x_variant":[
-        "Mell\u00e9te",
-        "Meliata"
-    ],
     "name:war_x_preferred":[
         "Meliata"
     ],
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1225856465,
-    "wof:lastmodified":1564311575,
+    "wof:lastmodified":1566646069,
     "wof:name":"Meliata",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

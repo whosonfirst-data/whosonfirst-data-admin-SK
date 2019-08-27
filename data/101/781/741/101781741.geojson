@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.852085,
     "lbl:longitude":19.854384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.852085,
     "mps:longitude":19.854384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Polomka"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3058085,
         "gp:id":29402719,
-        "qs:id":337909,
         "qs_pg:id":337909,
         "wd:id":"Q628228",
         "wk:page":"Polomka"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101781741,
-    "wof:lastmodified":1563254495,
+    "wof:lastmodified":1566645781,
     "wof:name":"Polomka",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

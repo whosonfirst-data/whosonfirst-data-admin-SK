@@ -9,15 +9,18 @@
     "geom:bbox":"17.02188,48.43604,17.02188,48.43604",
     "geom:latitude":48.43604,
     "geom:longitude":17.02188,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17773,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:population":17773,
     "iso:country":"SK",
+    "lbl:bbox":"16.92188,48.33604,17.12188,48.53604",
     "lbl:latitude":48.43604,
     "lbl:longitude":17.02188,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u062a\u0633\u0643\u064a"
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0446\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malacke"
     ],
     "name:war_x_preferred":[
@@ -151,7 +154,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":29402001,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":1125296157,
-    "wof:lastmodified":1564311230,
+    "wof:lastmodified":1566645880,
     "wof:name":"Malacky",
     "wof:parent_id":102080487,
     "wof:placetype":"localadmin",

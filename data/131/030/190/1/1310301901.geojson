@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.48,48.11333,17.52,48.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ujhely-J\u00f3ka",
         "Nov\u00e1 Jelka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310301901,
-    "wof:lastmodified":1537700399,
+    "wof:lastmodified":1566645650,
     "wof:name":"Nova Jelka",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

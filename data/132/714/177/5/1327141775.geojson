@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.13169,48.54835,22.17169,48.58835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u0165ovec",
         "M\u00e1ty\u00f3c",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327141775,
-    "wof:lastmodified":1537700360,
+    "wof:lastmodified":1566645328,
     "wof:name":"Mat'ovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

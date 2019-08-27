@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.444787,
     "lbl:longitude":22.090856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.444787,
     "mps:longitude":22.090856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bo\u0165any"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Batty\u00e1n"
-    ],
     "name:war_x_preferred":[
         "Bo\u0165any"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":725093,
         "gp:id":818707,
-        "qs:id":275862,
+        "qs_pg:id":275862,
         "wd:id":"Q791457",
         "wk:page":"Bo\u0165any"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":101782869,
-    "wof:lastmodified":1563254369,
+    "wof:lastmodified":1566645746,
     "wof:name":"Bo\u0165any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

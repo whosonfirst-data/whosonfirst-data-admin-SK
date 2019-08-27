@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.457019,
     "lbl:longitude":18.099014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.457019,
     "mps:longitude":18.099014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Prese\u013eany"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058022,
         "gp:id":821780,
-        "qs:id":402781,
+        "qs_pg:id":402781,
         "wd:id":"Q583278",
         "wk:page":"Prese\u013eany"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101833937,
-    "wof:lastmodified":1563254296,
+    "wof:lastmodified":1566645725,
     "wof:name":"Prese\u013eany",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

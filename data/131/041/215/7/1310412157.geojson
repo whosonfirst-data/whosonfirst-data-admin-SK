@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.77287,47.75579,17.81287,47.79579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tr\u00e1vnik"
     ],
@@ -69,8 +73,7 @@
     ],
     "name:und_x_variant":[
         "F\u00ed\u0161",
-        "F\u00fcss",
-        "Kom\u00e1romf\u00fcss"
+        "F\u00fcss"
     ],
     "name:war_x_preferred":[
         "Tr\u00e1vnik"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1310412157,
-    "wof:lastmodified":1564311005,
+    "wof:lastmodified":1566645636,
     "wof:name":"Travnik",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

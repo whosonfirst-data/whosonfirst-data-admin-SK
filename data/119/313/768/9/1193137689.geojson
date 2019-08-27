@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.95502,48.35479,17.99502,48.39479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Anda\u010d"
     ],
@@ -32,9 +36,6 @@
         "Kisandacs"
     ],
     "name:slk_x_preferred":[
-        "Anda\u010d"
-    ],
-    "name:und_x_variant":[
         "Anda\u010d"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1193137689,
-    "wof:lastmodified":1564310954,
+    "wof:lastmodified":1566645610,
     "wof:name":"Andac",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

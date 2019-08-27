@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.415101,
     "lbl:longitude":17.378202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.415101,
     "mps:longitude":17.378202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Do\u013eany"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u0459\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ompit\u00e1l"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3060525,
         "gp:id":819146,
-        "qs:id":905001,
+        "qs_pg:id":905001,
         "wd:id":"Q1022825",
         "wk:page":"Do\u013eany, Pezinok District"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101843737,
-    "wof:lastmodified":1563254200,
+    "wof:lastmodified":1566645698,
     "wof:name":"Do\u013eany",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

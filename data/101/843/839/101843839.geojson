@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.787173,
     "lbl:longitude":18.162125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.787173,
     "mps:longitude":18.162125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Svinn\u00e1"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3057278,
         "gp:id":822585,
-        "qs:id":402940,
+        "qs_pg:id":402940,
         "wd:id":"Q793218",
         "wk:page":"Svinn\u00e1"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101843839,
-    "wof:lastmodified":1563254248,
+    "wof:lastmodified":1566645711,
     "wof:name":"Svinn\u00e1",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

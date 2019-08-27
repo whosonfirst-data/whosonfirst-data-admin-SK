@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.00746,49.03196,19.04746,49.07196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sklabinsk\u00fd Podz\u00e1mok"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0421\u043a\u043b\u0430\u0431\u0438\u043d\u0441\u043a\u0438 \u041f\u043e\u0434\u0437\u0430\u043c\u043e\u043a"
     ],
-    "name:und_x_variant":[
-        "Sklabinsk\u00fd Podz\u00e1mok"
-    ],
     "name:war_x_preferred":[
         "Sklabinsk\u00fd Podz\u00e1mok"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1260065931,
-    "wof:lastmodified":1564310982,
+    "wof:lastmodified":1566645623,
     "wof:name":"Sklabinsky Podzamok",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

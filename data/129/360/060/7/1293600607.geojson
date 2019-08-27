@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.30568,48.79496,21.34568,48.83496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Plosk\u00e9"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u043e\u0441\u043a\u0435"
     ],
-    "name:und_x_variant":[
-        "Plosk\u00e9"
-    ],
     "name:war_x_preferred":[
         "Plosk\u00e9"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1293600607,
-    "wof:lastmodified":1564310712,
+    "wof:lastmodified":1566645485,
     "wof:name":"Ploske",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

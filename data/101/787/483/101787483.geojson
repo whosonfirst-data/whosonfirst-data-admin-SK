@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.903498,
     "lbl:longitude":18.142095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.903498,
     "mps:longitude":18.142095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ime\u013e"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":209,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3059787,
         "gp:id":819923,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1184464",
         "wk:page":"Ime\u013e"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101787483,
-    "wof:lastmodified":1563254554,
+    "wof:lastmodified":1566645795,
     "wof:name":"Ime\u013e",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

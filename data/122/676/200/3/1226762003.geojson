@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.98626,48.16301,19.02626,48.20301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0632\u0648\u0648"
     ],
@@ -80,8 +84,7 @@
         "\u0411\u0440\u0435\u0437\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Dvor Brezovo",
-        "Brezovo"
+        "Dvor Brezovo"
     ],
     "name:vie_x_preferred":[
         "Brezovo"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1226762003,
-    "wof:lastmodified":1564311541,
+    "wof:lastmodified":1566646052,
     "wof:name":"Brezovo",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

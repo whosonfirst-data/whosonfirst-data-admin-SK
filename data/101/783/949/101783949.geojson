@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.289105,
     "lbl:longitude":17.265541,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.289105,
     "mps:longitude":17.265541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0632\u064a\u0646\u0648\u0643"
     ],
@@ -143,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0437\u0456\u043d\u043e\u043a"
     ],
-    "name:und_x_preferred":[
-        "Pezinok"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0632\u06cc\u0646\u0648\u06a9"
     ],
@@ -172,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.266667,
     "wd:longitude":17.266667,
@@ -188,7 +188,6 @@
         "fct:id":"070fde68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058210,
         "gp:id":821577,
-        "qs:id":459887,
         "qs_pg:id":459887,
         "wd:id":"Q659424",
         "wk:page":"Pezinok"
@@ -208,7 +207,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254421,
+    "wof:lastmodified":1566645760,
     "wof:name":"Pezinok",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.409637,
     "lbl:longitude":18.644948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.409637,
     "mps:longitude":18.644948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brehy"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3060965,
         "gp:id":818723,
-        "qs:id":1270939,
+        "qs_pg:id":1270939,
         "wd:id":"Q1045459",
         "wk:page":"Brehy, \u017darnovica District"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101784049,
-    "wof:lastmodified":1563254436,
+    "wof:lastmodified":1566645764,
     "wof:name":"Brehy",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

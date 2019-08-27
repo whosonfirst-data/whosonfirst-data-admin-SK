@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.41055,49.37802,21.45055,49.41802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hutka"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1276798967,
-    "wof:lastmodified":1564310819,
+    "wof:lastmodified":1566645538,
     "wof:name":"Hutka",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

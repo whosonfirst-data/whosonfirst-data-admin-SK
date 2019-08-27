@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.819789,
     "lbl:longitude":18.620835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.819789,
     "mps:longitude":18.620835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lazany"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3059144,
         "gp:id":820580,
-        "qs:id":1271353,
+        "qs_pg:id":1271353,
         "wd:id":"Q375023",
         "wk:page":"Lazany, Slovakia"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101781647,
-    "wof:lastmodified":1563254505,
+    "wof:lastmodified":1566645784,
     "wof:name":"Lazany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

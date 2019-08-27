@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.39312,
     "lbl:longitude":21.703987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.39312,
     "mps:longitude":21.703987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bor\u0161a"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0448\u0430"
     ],
-    "name:unk_x_variant":[
-        "Borsi"
-    ],
     "name:war_x_preferred":[
         "Bor\u0161a"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":168,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:concordances":{
         "gn:id":725096,
         "gp:id":818698,
-        "qs:id":939895,
+        "qs_pg:id":939895,
         "wd:id":"Q847987",
         "wk:page":"Bor\u0161a"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101782875,
-    "wof:lastmodified":1563254364,
+    "wof:lastmodified":1566645745,
     "wof:name":"Bor\u0161a",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.18173,48.48409,20.22173,48.52409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Skere\u0161ovo"
     ],
@@ -67,10 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0435\u0440\u0435\u0448\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Szk\u00e1ros",
-        "Skere\u0161ovo"
-    ],
     "name:war_x_preferred":[
         "Skere\u0161ovo"
     ],
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1326544337,
-    "wof:lastmodified":1564310512,
+    "wof:lastmodified":1566645363,
     "wof:name":"Skeresovo",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

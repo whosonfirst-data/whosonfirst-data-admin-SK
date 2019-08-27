@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.44733,48.56581,20.48733,48.60581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Slavec"
     ],
@@ -71,9 +75,7 @@
         "\u0421\u043b\u0430\u0432\u0435\u0446"
     ],
     "name:und_x_variant":[
-        "Szal\u00f3c",
-        "Salovec",
-        "Slavec"
+        "Salovec"
     ],
     "name:war_x_preferred":[
         "Slavec"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1344258615,
-    "wof:lastmodified":1564310551,
+    "wof:lastmodified":1566645394,
     "wof:name":"Slavec",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

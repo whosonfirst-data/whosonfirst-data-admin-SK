@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.75001,48.3172,19.79001,48.3572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bo\u013ekovce"
     ],
@@ -73,10 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u044c\u043a\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "Bolyk",
-        "Bo\u013ekovce"
-    ],
     "name:war_x_preferred":[
         "Bo\u013ekovce"
     ],
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1226765179,
-    "wof:lastmodified":1564311540,
+    "wof:lastmodified":1566646052,
     "wof:name":"Bol'kovce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.63639,48.25079,18.67639,48.29079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dvor Sv\u00e4t\u00fd Kr\u00ed\u017e",
         "Sv\u00e4t\u00fd Kr\u00ed\u017e"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209815789,
-    "wof:lastmodified":1537700387,
+    "wof:lastmodified":1566645590,
     "wof:name":"Svaty Kriz",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

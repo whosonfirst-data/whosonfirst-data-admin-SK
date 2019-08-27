@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.908784,
     "lbl:longitude":18.887763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.908784,
     "mps:longitude":18.887763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mo\u0161ovce"
     ],
@@ -347,7 +350,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.916667,
     "wd:longitude":18.866667,
     "wd:wordcount":1294,
@@ -361,7 +364,6 @@
     "wof:concordances":{
         "gn:id":3058637,
         "gp:id":821107,
-        "qs:id":344987,
         "qs_pg:id":344987,
         "wd:id":"Q34409",
         "wk:page":"Mo\u0161ovce"
@@ -378,7 +380,7 @@
         }
     ],
     "wof:id":101843835,
-    "wof:lastmodified":1563254214,
+    "wof:lastmodified":1566645701,
     "wof:name":"Mo\u0161ovce",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

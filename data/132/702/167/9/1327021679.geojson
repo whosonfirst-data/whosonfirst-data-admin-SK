@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.42003,48.60422,17.46003,48.64422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Osusk\u00e9"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u041e\u0441\u0443\u0441\u043a\u0435"
     ],
-    "name:und_x_variant":[
-        "Osusk\u00e9"
-    ],
     "name:war_x_preferred":[
         "Osusk\u00e9"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1327021679,
-    "wof:lastmodified":1564310463,
+    "wof:lastmodified":1566645335,
     "wof:name":"Osuske",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

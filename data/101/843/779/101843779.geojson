@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.329226,
     "lbl:longitude":17.59507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.329226,
     "mps:longitude":17.59507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zelene\u010d"
     ],
@@ -70,9 +73,6 @@
     "name:und_x_colloquial":[
         "Zelenec"
     ],
-    "name:und_x_preferred":[
-        "Zelene\u010d"
-    ],
     "name:war_x_preferred":[
         "Zelene\u010d"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":88,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,6 @@
         "fct:id":"0710d8e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056552,
         "gp:id":823341,
-        "qs:id":888115,
         "qs_pg:id":888115,
         "wd:id":"Q187374",
         "wk:page":"Zelene\u010d, Slovakia"
@@ -129,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254228,
+    "wof:lastmodified":1566645705,
     "wof:name":"Zelene\u010d",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

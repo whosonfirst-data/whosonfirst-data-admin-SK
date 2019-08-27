@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.50861,49.31316,21.54861,49.35316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ni\u017en\u00fd Orl\u00edk"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Ni\u017enyj Orlich",
-        "Ni\u017en\u00ed Orl\u00edk",
-        "Ni\u017en\u00fd Orl\u00edk"
+        "Ni\u017en\u00ed Orl\u00edk"
     ],
     "name:war_x_preferred":[
         "Ni\u017en\u00fd Orl\u00edk"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1326829351,
-    "wof:lastmodified":1564310482,
+    "wof:lastmodified":1566645347,
     "wof:name":"Nizny Orlik",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

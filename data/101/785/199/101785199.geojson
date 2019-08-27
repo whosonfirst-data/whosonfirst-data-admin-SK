@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.249502,
     "lbl:longitude":17.785203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.249502,
     "mps:longitude":17.785203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "V\u00e1hovce"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":136,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3056987,
         "gp:id":822852,
-        "qs:id":1271825,
+        "qs_pg:id":1271825,
         "wd:id":"Q602796",
         "wk:page":"V\u00e1hovce"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101785199,
-    "wof:lastmodified":1563254334,
+    "wof:lastmodified":1566645736,
     "wof:name":"V\u00e1hovce",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

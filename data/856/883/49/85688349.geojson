@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":49.145693,
     "lbl:longitude":19.164907,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.145693,
     "mps:longitude":19.164907,
     "mz:hierarchy_label":1,
@@ -211,7 +212,7 @@
         "\u017dilina"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bbf\u0bb2\u0bc0\u0ba9\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9c\u0bbf\u0bb2\u0bc0\u0ba9\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0416\u0438\u043b\u0438\u043d\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
@@ -228,7 +229,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017dilinsk\u00fd"
     ],
     "name:urd_x_preferred":[
@@ -313,9 +314,9 @@
     "qs:type":"Kraj",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-20",
+    "src:population_date":"2011-05-20",
     "statoids:area_km":"6,801",
     "statoids:area_mi":"2,626",
     "statoids:as_of_date":"2011-05-20",
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1565736560,
+    "wof:lastmodified":1566645448,
     "wof:name":"\u017dilinsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":688851,
     "wof:population_rank":11,

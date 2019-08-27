@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.53175,48.14813,18.57175,48.18813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tekovsk\u00fd Hr\u00e1dok"
     ],
@@ -68,8 +72,7 @@
         "Doln Varad",
         "V\u00e1rad",
         "Horn\u00fd V\u00e1rad",
-        "Doln\u00fd V\u00e1rad",
-        "Tekovsk\u00fd Hr\u00e1dok"
+        "Doln\u00fd V\u00e1rad"
     ],
     "name:war_x_preferred":[
         "Tekovsk\u00fd Hr\u00e1dok"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1259904065,
-    "wof:lastmodified":1564311414,
+    "wof:lastmodified":1566645995,
     "wof:name":"Tekovsky Hradok",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

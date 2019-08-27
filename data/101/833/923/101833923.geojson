@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.033392,
     "lbl:longitude":17.947394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.033392,
     "mps:longitude":17.947394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vl\u010dany"
     ],
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u0412\u043b\u0447\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farka\u017ed"
     ],
     "name:war_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":170,
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3056740,
         "gp:id":823085,
-        "qs:id":191089,
         "qs_pg:id":191089,
         "wd:id":"Q1067528",
         "wk:page":"Vl\u010dany"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101833923,
-    "wof:lastmodified":1563254299,
+    "wof:lastmodified":1566645725,
     "wof:name":"Vl\u010dany",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

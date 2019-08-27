@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.20841,49.21235,21.24841,49.25235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160iba"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u0431\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0160iba"
-    ],
     "name:war_x_preferred":[
         "\u0160iba"
     ],
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1360084169,
-    "wof:lastmodified":1564311087,
+    "wof:lastmodified":1566645677,
     "wof:name":"Siba",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

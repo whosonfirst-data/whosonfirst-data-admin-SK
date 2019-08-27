@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.306531,
     "lbl:longitude":17.940077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.306531,
     "mps:longitude":17.940077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Z\u00e1lu\u017eie"
     ],
@@ -70,10 +73,8 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0435 \u0417\u0430\u043b\u0443\u0436\u0458\u0435"
     ],
-    "name:und_x_preferred":[
-        "Velke Zaluzie"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Velke Zaluzie",
         "Ujlak"
     ],
     "name:war_x_preferred":[
@@ -97,7 +98,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -110,7 +111,7 @@
         "fct:id":"070d3b68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056848,
         "gp:id":822989,
-        "qs:id":1251473,
+        "qs_pg:id":1251473,
         "wd:id":"Q609205",
         "wk:page":"Ve\u013ek\u00e9 Z\u00e1lu\u017eie"
     },
@@ -129,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254338,
+    "wof:lastmodified":1566645737,
     "wof:name":"Ve\u013ek\u00e9 Z\u00e1lu\u017eie",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

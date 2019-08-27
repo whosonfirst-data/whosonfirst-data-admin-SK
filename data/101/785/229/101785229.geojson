@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.254773,
     "lbl:longitude":18.160566,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.254773,
     "mps:longitude":18.160566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cechynce"
     ],
@@ -67,10 +70,8 @@
     "name:srp_x_preferred":[
         "\u0427\u0435\u0445\u0438\u043d\u0446\u0435"
     ],
-    "name:und_x_preferred":[
-        "Cechynce"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Cechynce",
         "Csehi"
     ],
     "name:war_x_preferred":[
@@ -96,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191581,
@@ -109,7 +110,6 @@
         "fct:id":"070d4bda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3060801,
         "gp:id":818894,
-        "qs:id":358333,
         "qs_pg:id":358333,
         "wd:id":"Q1043957",
         "wk:page":"\u010cechynce"
@@ -129,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254318,
+    "wof:lastmodified":1566645731,
     "wof:name":"\u010cechynce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

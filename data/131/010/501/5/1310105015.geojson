@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.66238,49.22641,21.70238,49.26641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chot\u010da"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0442\u0447\u0430"
     ],
-    "name:und_x_variant":[
-        "Chot\u010da"
-    ],
     "name:war_x_preferred":[
         "Chot\u010da"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1310105015,
-    "wof:lastmodified":1564311047,
+    "wof:lastmodified":1566645656,
     "wof:name":"Chotca",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

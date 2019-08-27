@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.88199,49.00333,21.92199,49.04333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ni\u017en\u00e9 Ladi\u010dkovce"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456 \u041b\u0430\u0434\u0438\u0447\u043a\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Ni\u017en\u00e9 Ladi\u010dkovce"
-    ],
     "name:war_x_preferred":[
         "Ni\u017en\u00e9 Ladi\u010dkovce"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1226141941,
-    "wof:lastmodified":1564311534,
+    "wof:lastmodified":1566646049,
     "wof:name":"Nizne Ladickovce",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":48.20711,
     "gn:longitude":16.9786,
     "iso:country":"SK",
+    "lbl:bbox":"16.968165,48.206665,16.978165,48.216665",
     "lbl:latitude":48.211665,
     "lbl:longitude":16.973165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.211328,
     "mps:longitude":16.970024,
     "mz:hierarchy_label":0,
@@ -83,12 +85,8 @@
     "name:und_x_colloquial":[
         "Devinska Nova Ves"
     ],
-    "name:und_x_preferred":[
-        "Dev\u00ednska Nov\u00e1 Ves"
-    ],
-    "name:unk_x_variant":[
-        "Devinskanova Vesmlyl",
-        "Dev\u00ednska Nov\u00e1 Ves"
+    "name:und_x_variant":[
+        "Devinskanova Vesmlyl"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u6587\u65af\u5361\u65b0\u6751"
@@ -135,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3077170,
         "gp:id":819089,
-        "qs:id":1075188,
         "qs_pg:id":1075188,
         "wd:id":"Q970325",
         "wk:page":"Dev\u00ednska Nov\u00e1 Ves"
@@ -156,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247523,
+    "wof:lastmodified":1566645443,
     "wof:name":"Dev\u00ednska Nov\u00e1 Ves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.61833,
     "lbl:longitude":18.791314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.61833,
     "mps:longitude":18.791314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lov\u010dica-Trub\u00edn"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3059007,
         "gp:id":820713,
-        "qs:id":915236,
+        "qs_pg:id":915236,
         "wd:id":"Q776620"
     },
     "wof:country":"SK",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101843803,
-    "wof:lastmodified":1563254212,
+    "wof:lastmodified":1566645701,
     "wof:name":"Lov\u010dica - Trub\u00edn",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

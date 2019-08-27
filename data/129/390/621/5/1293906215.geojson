@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.25514,49.0942,21.29514,49.1342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Slivn\u00edk"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0421\u043b\u0438\u0432\u043d\u0438\u043a"
     ],
-    "name:und_x_variant":[
-        "Ve\u013ek\u00fd Slivn\u00edk"
-    ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00fd Slivn\u00edk"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1293906215,
-    "wof:lastmodified":1564310666,
+    "wof:lastmodified":1566645460,
     "wof:name":"Vel'ky Slivnik",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

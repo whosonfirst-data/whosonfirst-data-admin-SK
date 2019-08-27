@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.75113,
     "lbl:longitude":21.343055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.75113,
     "mps:longitude":21.343055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0430\u043d\u0430\u045e\u0446\u044d"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":248,
     "wof:belongsto":[
         102191581,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":723716,
         "gp:id":822002,
-        "qs:id":1012814,
         "qs_pg:id":1012814,
         "wd:id":"Q978292",
         "wk:page":"Rozhanovce"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101780245,
-    "wof:lastmodified":1563254586,
+    "wof:lastmodified":1566645803,
     "wof:name":"Rozhanovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

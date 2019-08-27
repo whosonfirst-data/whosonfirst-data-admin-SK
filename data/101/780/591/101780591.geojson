@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.303233,
     "lbl:longitude":20.694375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.303233,
     "mps:longitude":20.694375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0627 \u0644\u0648\u0628\u0648\u0641\u0646\u0627"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Stara Lubovna"
     ],
     "name:war_x_preferred":[
@@ -155,7 +158,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.316667,
     "wd:longitude":20.683333,
@@ -171,7 +174,7 @@
         "fct:id":"070b9114-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723505,
         "gp:id":822391,
-        "qs:id":1085654,
+        "qs_pg:id":1085654,
         "wd:id":"Q605521",
         "wk:page":"Star\u00e1 \u013dubov\u0148a"
     },
@@ -190,7 +193,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254639,
+    "wof:lastmodified":1566645816,
     "wof:name":"Star\u00e1 \u013dubov\u0148a",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

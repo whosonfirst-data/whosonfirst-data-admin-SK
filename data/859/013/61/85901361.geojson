@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15135193.430456,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.933961,49.058025,18.933961,49.058025",
     "geom:latitude":49.058025,
     "geom:longitude":18.933961,
     "gn:latitude":49.05563,
     "gn:longitude":18.91871,
     "iso:country":"SK",
+    "lbl:bbox":"18.928961,49.053025,18.938961,49.063025",
     "lbl:latitude":49.058025,
     "lbl:longitude":18.933961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.058426,
     "mps:longitude":18.93076,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:und_x_colloquial":[
         "Jahodniky"
     ],
-    "name:und_x_preferred":[
-        "Jahodn\u00edky"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jahodn\u00edky"
     ],
     "qs:gn_adm0_cc":"SK",
@@ -64,18 +63,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688349,
         102191581,
         85633769,
-        102080569,
-        85688349
+        102080569
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3059745,
         "gp:id":819966,
-        "qs:id":287276,
         "qs_pg:id":287276
     },
     "wof:country":"SK",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932483,
+    "wof:lastmodified":1566645441,
     "wof:name":"Jahodn\u00edky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

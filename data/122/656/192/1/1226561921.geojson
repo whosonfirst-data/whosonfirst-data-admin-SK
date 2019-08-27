@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.5348,49.26631,19.5748,49.30631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Oravsk\u00fd Biely Potok"
     ],
@@ -73,9 +77,6 @@
     "name:srp_x_preferred":[
         "\u041e\u0440\u0430\u0432\u0441\u043a\u0438 \u0411\u0458\u0435\u043b\u0438 \u041f\u043e\u0442\u043e\u043a"
     ],
-    "name:und_x_variant":[
-        "Oravsk\u00fd Biely Potok"
-    ],
     "name:war_x_preferred":[
         "Oravsk\u00fd Biely Potok"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1226561921,
-    "wof:lastmodified":1564311513,
+    "wof:lastmodified":1566646040,
     "wof:name":"Oravsky Biely Potok",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.43039,48.13544,18.47039,48.17544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Horn\u00fd Pial"
     ],
@@ -69,8 +73,7 @@
     ],
     "name:und_x_variant":[
         "Fels\u0151 P\u00e9l",
-        "Horn\u00ed Pial",
-        "Horn\u00fd Pial"
+        "Horn\u00ed Pial"
     ],
     "name:war_x_preferred":[
         "Horn\u00fd Pial"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1327054143,
-    "wof:lastmodified":1564310463,
+    "wof:lastmodified":1566645335,
     "wof:name":"Horny Pial",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

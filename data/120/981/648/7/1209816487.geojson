@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.20461,48.58547,18.24461,48.62547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Horn\u00e9 Chlebany"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u045a\u0435 \u0425\u0459\u0435\u0431\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Horn\u00e9 Chlebany"
-    ],
     "name:war_x_preferred":[
         "Horn\u00e9 Chlebany"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1209816487,
-    "wof:lastmodified":1564310931,
+    "wof:lastmodified":1566645590,
     "wof:name":"Horne Chlebany",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

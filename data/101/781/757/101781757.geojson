@@ -14,10 +14,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.747561,
     "lbl:longitude":19.652994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.747561,
     "mps:longitude":19.652994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u010cierny Balog"
     ],
@@ -78,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0454\u0440\u043d\u0438 \u0411\u0430\u043b\u043e\u0491"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u010cierny Blh"
     ],
     "name:war_x_preferred":[
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3060665,
         "gp:id":819016,
-        "qs:id":916785,
         "qs_pg:id":916785,
         "wd:id":"Q341490",
         "wk:page":"\u010cierny Balog"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101781757,
-    "wof:lastmodified":1563254501,
+    "wof:lastmodified":1566645782,
     "wof:name":"\u010cierny Balog",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

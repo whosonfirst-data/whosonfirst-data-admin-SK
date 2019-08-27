@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.52753,49.21109,21.56753,49.25109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Be\u0148adikovce"
     ],
@@ -74,8 +78,7 @@
         "\u0411\u0435\u043d\u044f\u0434\u0438\u043a\u0456\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Benedikovce",
-        "Be\u0148adikovce"
+        "Benedikovce"
     ],
     "name:war_x_preferred":[
         "Be\u0148adikovce"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1310337159,
-    "wof:lastmodified":1564311060,
+    "wof:lastmodified":1566645664,
     "wof:name":"Benadikovce",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

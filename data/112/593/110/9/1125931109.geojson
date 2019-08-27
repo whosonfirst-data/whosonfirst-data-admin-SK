@@ -9,14 +9,18 @@
     "geom:bbox":"20.76903,49.01236,20.76903,49.01236",
     "geom:latitude":49.01236,
     "geom:longitude":20.76903,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"20.74903,48.99236,20.78903,49.03236",
     "lbl:latitude":49.01236,
     "lbl:longitude":20.76903,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Studenec"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolbachy"
     ],
     "name:war_x_preferred":[
@@ -99,7 +103,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":822483,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Presovsky",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1125931109,
-    "wof:lastmodified":1563254746,
+    "wof:lastmodified":1566645841,
     "wof:name":"Studenec",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

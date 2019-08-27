@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.7946,48.19317,19.8346,48.23317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cakanovce"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043a\u0430\u043d\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "\u010cakanovce",
-        "Cs\u00e1k\u00e1nyh\u00e1za"
-    ],
     "name:war_x_preferred":[
         "\u010cakanovce"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1326844577,
-    "wof:lastmodified":1564310488,
+    "wof:lastmodified":1566645351,
     "wof:name":"Cakanovce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

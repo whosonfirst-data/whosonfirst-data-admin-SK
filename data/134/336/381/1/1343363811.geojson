@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.70279,49.11896,21.74279,49.15896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kri\u0161\u013eovce"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u0448\u043b\u0456\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Kri\u0161lovce"
-    ],
     "name:war_x_preferred":[
         "Kri\u0161lovce"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1343363811,
-    "wof:lastmodified":1564310535,
+    "wof:lastmodified":1566645385,
     "wof:name":"Krislovce",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

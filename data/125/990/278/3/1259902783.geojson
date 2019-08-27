@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.18115,49.31984,21.22115,49.35984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zlat\u00e9"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0435"
     ],
-    "name:und_x_variant":[
-        "Zlat\u00e9"
-    ],
     "name:war_x_preferred":[
         "Zlat\u00e9"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1259902783,
-    "wof:lastmodified":1564311416,
+    "wof:lastmodified":1566645995,
     "wof:name":"Zlate",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

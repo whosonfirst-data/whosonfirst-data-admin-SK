@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.277605,
     "lbl:longitude":19.155699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.277605,
     "mps:longitude":19.155699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1zriv\u00e1"
     ],
@@ -73,9 +76,6 @@
     "name:und_x_colloquial":[
         "Zazriva"
     ],
-    "name:und_x_preferred":[
-        "Z\u00e1zriv\u00e1"
-    ],
     "name:war_x_preferred":[
         "Z\u00e1zriv\u00e1"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,7 @@
         "fct:id":"0710d4b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056565,
         "gp:id":29399616,
-        "qs:id":1158955,
+        "qs_pg:id":1158955,
         "wd:id":"Q247105",
         "wk:page":"Z\u00e1zriv\u00e1"
     },
@@ -126,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254200,
+    "wof:lastmodified":1566645698,
     "wof:name":"Z\u00e1zriv\u00e1",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

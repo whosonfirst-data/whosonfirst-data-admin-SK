@@ -9,14 +9,18 @@
     "geom:bbox":"17.67785,47.82586,17.67785,47.82586",
     "geom:latitude":47.82586,
     "geom:longitude":17.67785,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.65785,47.80586,17.69785,47.84586",
     "lbl:latitude":47.82586,
     "lbl:longitude":17.67785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Balo\u0148"
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Balony"
-    ],
     "name:war_x_preferred":[
         "Balo\u0148"
     ],
@@ -95,7 +96,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":818496,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Trnavsky",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1125894801,
-    "wof:lastmodified":1563254854,
+    "wof:lastmodified":1566645884,
     "wof:name":"Balo\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

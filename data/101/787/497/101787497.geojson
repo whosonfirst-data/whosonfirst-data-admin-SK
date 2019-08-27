@@ -14,10 +14,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.893174,
     "lbl:longitude":17.581025,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.893174,
     "mps:longitude":17.581025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Gab\u010d\u00edkovo"
     ],
@@ -84,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0430\u0431\u0447\u0456\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Be\u0161"
     ],
     "name:war_x_preferred":[
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.9,
     "wd:longitude":17.583333,
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3060224,
         "gp:id":819450,
-        "qs:id":2886,
         "qs_pg:id":2886,
         "wd:id":"Q389397"
     },
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101787497,
-    "wof:lastmodified":1563254555,
+    "wof:lastmodified":1566645796,
     "wof:name":"Gab\u010d\u00edkovo",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

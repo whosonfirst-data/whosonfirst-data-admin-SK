@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.887725,
     "lbl:longitude":18.029527,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.887725,
     "mps:longitude":18.029527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0646\u062a\u0634\u064a\u0646"
     ],
@@ -221,13 +224,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0447\u0438\u043d"
     ],
-    "name:und_x_preferred":[
-        "Tren\u010d\u00edn"
-    ],
     "name:und_x_variant":[
-        "Trentsen"
-    ],
-    "name:unk_x_variant":[
         "Trentsen"
     ],
     "name:urd_x_preferred":[
@@ -262,7 +259,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.9,
     "wd:longitude":18.033333,
@@ -278,7 +275,6 @@
         "fct:id":"07107d50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057140,
         "gp:id":822713,
-        "qs:id":901013,
         "qs_pg:id":901013,
         "wd:id":"Q145002",
         "wk:page":"Tren\u010d\u00edn"
@@ -298,7 +294,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254165,
+    "wof:lastmodified":1566645689,
     "wof:name":"Tren\u010d\u00edn",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

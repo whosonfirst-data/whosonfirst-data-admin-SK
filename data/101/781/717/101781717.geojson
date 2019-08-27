@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.937497,
     "lbl:longitude":18.12007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.937497,
     "mps:longitude":18.12007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tren\u010dianska Tepl\u00e1"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3057146,
         "gp:id":822707,
-        "qs:id":248883,
         "qs_pg:id":248883,
         "wd:id":"Q597002",
         "wk:page":"Tren\u010dianska Tepl\u00e1"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101781717,
-    "wof:lastmodified":1563254513,
+    "wof:lastmodified":1566645786,
     "wof:name":"Tren\u010dianska Tepl\u00e1",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

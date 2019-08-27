@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.3727,
     "lbl:longitude":21.752444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.3727,
     "mps:longitude":21.752444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Streda nad Bodrogom"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0434\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0440\u043e\u0491\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bodrog-Szerdahely"
     ],
     "name:war_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":115,
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":723463,
         "gp:id":822458,
-        "qs:id":1014298,
         "qs_pg:id":1014298,
         "wd:id":"Q833132",
         "wk:page":"Streda nad Bodrogom"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101843869,
-    "wof:lastmodified":1563254215,
+    "wof:lastmodified":1566645701,
     "wof:name":"Streda nad Bodrogom",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

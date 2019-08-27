@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.92654,48.45946,19.96654,48.49946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kociha"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1226060567,
-    "wof:lastmodified":1564311558,
+    "wof:lastmodified":1566646060,
     "wof:name":"Kociha",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

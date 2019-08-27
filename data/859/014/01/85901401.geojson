@@ -12,8 +12,10 @@
     "gn:latitude":48.1383,
     "gn:longitude":17.20866,
     "iso:country":"SK",
+    "lbl:bbox":"17.19811,48.143462,17.20811,48.153462",
     "lbl:latitude":48.148462,
     "lbl:longitude":17.20311,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.139067,
     "mps:longitude":17.205786,
     "mz:hierarchy_label":0,
@@ -77,13 +79,6 @@
     "name:und_x_colloquial":[
         "Vrakuna"
     ],
-    "name:und_x_preferred":[
-        "Vraku\u0148a"
-    ],
-    "name:unk_x_variant":[
-        "Verekne",
-        "Vraku\u0148a"
-    ],
     "name:zho_x_preferred":[
         "\u74e6\u62c9\u5eab\u7d0d"
     ],
@@ -131,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3056708,
         "gp:id":823123,
-        "qs:id":455584,
         "qs_pg:id":455584,
         "wd:id":"Q1020906",
         "wk:page":"Vraku\u0148a"
@@ -152,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645445,
     "wof:name":"Vraku\u0148a",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

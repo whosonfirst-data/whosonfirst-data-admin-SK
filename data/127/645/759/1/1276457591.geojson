@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.69432,48.26363,19.73432,48.30363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Trebe\u013eovce"
     ],
@@ -71,9 +75,7 @@
         "\u0422\u0440\u0435\u0431\u0435\u043b\u044c\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Terbelovce",
-        "Trebe\u013eovce",
-        "Terbel\u00e9d"
+        "Terbelovce"
     ],
     "name:war_x_preferred":[
         "Trebe\u013eovce"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1276457591,
-    "wof:lastmodified":1564310770,
+    "wof:lastmodified":1566645513,
     "wof:name":"Trebel'ovce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

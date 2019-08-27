@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.91949,49.29916,18.95949,49.33916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rad\u00f4stka"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0441\u0442\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Rad\u00f4stka"
-    ],
     "name:war_x_preferred":[
         "Rad\u00f4stka"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1292991575,
-    "wof:lastmodified":1564310721,
+    "wof:lastmodified":1566645489,
     "wof:name":"Radostka",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

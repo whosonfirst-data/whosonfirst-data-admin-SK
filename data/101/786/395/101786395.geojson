@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.082828,
     "lbl:longitude":17.693313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.082828,
     "mps:longitude":17.693313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
@@ -67,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0448\u0456\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Tall\u00f3s"
-    ],
     "name:war_x_preferred":[
         "Tom\u00e1\u0161ikovo"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":182,
     "wof:belongsto":[
         102191581,
@@ -105,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3057183,
         "gp:id":822665,
-        "qs:id":184277,
         "qs_pg:id":184277,
         "wd:id":"Q516457",
         "wk:page":"Tom\u00e1\u0161ikovo"
@@ -122,7 +121,7 @@
         }
     ],
     "wof:id":101786395,
-    "wof:lastmodified":1563254535,
+    "wof:lastmodified":1566645791,
     "wof:name":"Tom\u00e1\u0161ikovo",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

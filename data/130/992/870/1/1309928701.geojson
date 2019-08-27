@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.23,48.81333,21.27,48.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Janov\u00edk"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u043e\u0432\u0438\u043a"
     ],
-    "name:und_x_variant":[
-        "Janov\u00edk"
-    ],
     "name:war_x_preferred":[
         "Janov\u00edk"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1309928701,
-    "wof:lastmodified":1564311154,
+    "wof:lastmodified":1566645834,
     "wof:name":"Janovik",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

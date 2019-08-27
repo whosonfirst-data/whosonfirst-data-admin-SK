@@ -10,12 +10,16 @@
     "geom:latitude":49.21436,
     "geom:longitude":18.87723,
     "iso:country":"SK",
+    "lbl:bbox":"18.85723,49.19436,18.89723,49.23436",
     "lbl:latitude":49.21436,
     "lbl:longitude":18.87723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.21436,
     "mps:longitude":18.87723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Var\u00edn"
     ],
@@ -67,7 +71,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0440\u0438\u043d"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Varin"
     ],
     "name:war_x_preferred":[
@@ -91,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -104,7 +108,6 @@
         "fct:id":"070bd606-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056959,
         "gp:id":822882,
-        "qs:id":326269,
         "qs_pg:id":326269,
         "wd:id":"Q587895",
         "wk:page":"Var\u00edn"
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254287,
+    "wof:lastmodified":1566645723,
     "wof:name":"Var\u00edn",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.944343,
     "lbl:longitude":22.04287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.944343,
     "mps:longitude":22.04287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0434\u0440\u0430 \u043d\u0430\u0434 \u0426\u0438\u0440\u043e\u0445\u043e\u0443"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":724116,
         "gp:id":821078,
-        "qs:id":917720,
+        "qs_pg:id":917720,
         "wd:id":"Q1067885"
     },
     "wof:country":"SK",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843967,
-    "wof:lastmodified":1563254235,
+    "wof:lastmodified":1566645707,
     "wof:name":"Modra nad Cirochou",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

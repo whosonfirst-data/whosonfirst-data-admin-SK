@@ -10,12 +10,16 @@
     "geom:latitude":48.650577,
     "geom:longitude":21.285279,
     "iso:country":"SK",
+    "lbl:bbox":"21.265279,48.630577,21.305279,48.670577",
     "lbl:latitude":48.650577,
     "lbl:longitude":21.285279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.650577,
     "mps:longitude":21.285279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Valaliky"
     ],
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -109,7 +113,6 @@
     "wof:concordances":{
         "gn:id":723307,
         "gp:id":822859,
-        "qs:id":903485,
         "qs_pg:id":903485,
         "wd:id":"Q1073263",
         "wk:page":"Valaliky"
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101860151,
-    "wof:lastmodified":1563254284,
+    "wof:lastmodified":1566645722,
     "wof:name":"Valaliky",
     "wof:parent_id":102080535,
     "wof:placetype":"locality",

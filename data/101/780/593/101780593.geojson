@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.207344,
     "lbl:longitude":21.651825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.207344,
     "mps:longitude":21.651825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0648\u0628\u0643\u0648\u0641"
     ],
@@ -113,12 +116,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u043e\u043f\u043a\u043e\u0432"
     ],
-    "name:und_x_preferred":[
-        "Stropkov"
-    ],
-    "name:unk_x_variant":[
-        "Sztropk\u00f3"
-    ],
     "name:war_x_preferred":[
         "Stropkov"
     ],
@@ -143,7 +140,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.205,
     "wd:longitude":21.651389,
@@ -159,7 +156,7 @@
         "fct:id":"070ba898-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723455,
         "gp:id":29399578,
-        "qs:id":1028693,
+        "qs_pg:id":1028693,
         "wd:id":"Q750413",
         "wk:page":"Stropkov"
     },
@@ -178,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254568,
+    "wof:lastmodified":1566645799,
     "wof:name":"Stropkov",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

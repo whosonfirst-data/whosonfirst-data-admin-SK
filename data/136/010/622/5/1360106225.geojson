@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.31114,48.73117,17.35114,48.77117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lopa\u0161ov"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u041b\u043e\u043f\u0430\u0448\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "Lopa\u0161ov"
-    ],
     "name:war_x_preferred":[
         "Lopa\u0161ov"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1360106225,
-    "wof:lastmodified":1564311104,
+    "wof:lastmodified":1566645686,
     "wof:name":"Lopasov",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

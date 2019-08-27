@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.57835,
     "lbl:longitude":17.184082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.57835,
     "mps:longitude":17.184082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lak\u0161\u00e1rska Nov\u00e1 Ves"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3059165,
         "gp:id":820555,
-        "qs:id":39229,
         "qs_pg:id":39229,
         "wd:id":"Q538865",
         "wk:page":"Lak\u0161\u00e1rska Nov\u00e1 Ves"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101784097,
-    "wof:lastmodified":1563254442,
+    "wof:lastmodified":1566645766,
     "wof:name":"Lak\u0161\u00e1rska Nov\u00e1 Ves",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

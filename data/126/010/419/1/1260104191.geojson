@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.40644,48.57249,18.44644,48.61249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kola\u010dno"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0447\u043d\u043e"
     ],
-    "name:und_x_variant":[
-        "Kola\u010dno"
-    ],
     "name:war_x_preferred":[
         "Kola\u010dno"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1260104191,
-    "wof:lastmodified":1564310996,
+    "wof:lastmodified":1566645631,
     "wof:name":"Kolacno",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":48.193022,
     "geom:longitude":17.160317,
     "iso:country":"SK",
+    "lbl:bbox":"17.1553165276,48.188021539,17.1653165276,48.198021539",
     "lbl:latitude":48.193022,
     "lbl:longitude":17.160317,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444833101,
-    "wof:lastmodified":1566337269,
+    "wof:lastmodified":1566645599,
     "wof:name":"Zab\u00ed majer",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.597165,
     "lbl:longitude":19.88899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.597165,
     "mps:longitude":19.88899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Klenovec"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3059503,
         "gp:id":820198,
-        "qs:id":940015,
+        "qs_pg:id":940015,
         "wd:id":"Q573368",
         "wk:page":"Klenovec"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101782825,
-    "wof:lastmodified":1563254397,
+    "wof:lastmodified":1566645754,
     "wof:name":"Klenovec",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

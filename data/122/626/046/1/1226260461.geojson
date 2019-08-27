@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.06226,48.30619,20.10226,48.34619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pavlovce"
     ],
@@ -65,8 +69,7 @@
         "\u041f\u0430\u0432\u043b\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "P\u00e1lfala",
-        "Pavlovce"
+        "P\u00e1lfala"
     ],
     "name:war_x_preferred":[
         "Pavlovce"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1226260461,
-    "wof:lastmodified":1564311494,
+    "wof:lastmodified":1566646031,
     "wof:name":"Pavlovce",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

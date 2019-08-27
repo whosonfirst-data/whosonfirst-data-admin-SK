@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.47264,
     "lbl:longitude":18.497151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.47264,
     "mps:longitude":18.497151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jed\u013eov\u00e9 Kosto\u013eany"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3059656,
         "gp:id":820042,
-        "qs:id":1271222,
+        "qs_pg:id":1271222,
         "wd:id":"Q999913",
         "wk:page":"Jed\u013eov\u00e9 Kosto\u013eany"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101783995,
-    "wof:lastmodified":1563254422,
+    "wof:lastmodified":1566645760,
     "wof:name":"Jed\u013eov\u00e9 Kosto\u013eany",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

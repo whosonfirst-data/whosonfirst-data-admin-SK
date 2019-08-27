@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.678157,
     "lbl:longitude":19.943007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.678157,
     "mps:longitude":19.943007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0633\u0648\u0641\u064a\u062a\u0633"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0441\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Theissholz"
     ],
     "name:war_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.683333,
     "wd:longitude":19.95,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":3057197,
         "gp:id":822657,
-        "qs:id":2953,
         "qs_pg:id":2953,
         "wd:id":"Q370445",
         "wk:page":"Tisovec"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101782823,
-    "wof:lastmodified":1563254393,
+    "wof:lastmodified":1566645752,
     "wof:name":"Tisovec",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

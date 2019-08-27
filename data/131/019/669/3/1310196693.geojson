@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.42619,48.07238,17.46619,48.11238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vajas-Vata",
         "Maslovce"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310196693,
-    "wof:lastmodified":1537700403,
+    "wof:lastmodified":1566645658,
     "wof:name":"Maslovce",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

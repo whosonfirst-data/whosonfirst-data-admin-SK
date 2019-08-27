@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.01333,49.29667,19.05333,49.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hornia-Ti\u017eina",
         "Horn\u00e1 Ti\u017eina"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293774627,
-    "wof:lastmodified":1537700423,
+    "wof:lastmodified":1566645465,
     "wof:name":"Horna Tizina",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",
