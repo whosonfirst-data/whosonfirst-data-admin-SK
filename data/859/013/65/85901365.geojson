@@ -12,8 +12,10 @@
     "gn:latitude":48.15344,
     "gn:longitude":17.05522,
     "iso:country":"SK",
+    "lbl:bbox":"17.047623,48.153287,17.057623,48.163287",
     "lbl:latitude":48.158287,
     "lbl:longitude":17.052623,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.151086,
     "mps:longitude":17.040912,
     "mz:hierarchy_label":0,
@@ -77,12 +79,6 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u043b\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
-    "name:und_x_preferred":[
-        "Karlova Ves"
-    ],
-    "name:unk_x_variant":[
-        "Karlova Ves"
-    ],
     "name:zho_x_preferred":[
         "\u5361\u723e\u7f85\u74e6\u7dad\u65af"
     ],
@@ -129,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3059564,
         "gp:id":820134,
-        "qs:id":2893,
         "qs_pg:id":2893,
         "wd:id":"Q1012707",
         "wk:page":"Karlova Ves"
@@ -150,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645443,
     "wof:name":"Karlova Ves",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

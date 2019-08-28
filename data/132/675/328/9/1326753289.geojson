@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.63647,49.07969,21.67647,49.11969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Turany nad Ondavou"
     ],
@@ -80,8 +84,7 @@
         "\u0422\u0443\u0440\u0430\u043d\u0438-\u043d\u0430\u0434-\u041e\u043d\u0434\u0430\u0432\u043e\u044e"
     ],
     "name:und_x_variant":[
-        "Turiany",
-        "Turany nad Ondavou"
+        "Turiany"
     ],
     "name:war_x_preferred":[
         "Turany nad Ondavou"
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1326753289,
-    "wof:lastmodified":1564310430,
+    "wof:lastmodified":1566645315,
     "wof:name":"Turany nad Ondavou",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

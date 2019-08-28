@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.050161,
     "lbl:longitude":18.659398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.050161,
     "mps:longitude":18.659398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0644\u064a\u0632\u0648\u0641\u062a\u0633\u064a"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "\u017deliezovce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zseliz"
     ],
     "name:war_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.05,
     "wd:longitude":18.666667,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":3056547,
         "gp:id":823347,
-        "qs:id":212215,
         "qs_pg:id":212215,
         "wd:id":"Q393609",
         "wk:page":"\u017deliezovce"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101786423,
-    "wof:lastmodified":1563254525,
+    "wof:lastmodified":1566645789,
     "wof:name":"\u017deliezovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

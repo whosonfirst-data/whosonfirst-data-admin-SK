@@ -10,8 +10,10 @@
     "geom:latitude":48.169217,
     "geom:longitude":17.106414,
     "iso:country":"SK",
+    "lbl:bbox":"17.101414,48.164217,17.111414,48.174217",
     "lbl:latitude":48.169217,
     "lbl:longitude":17.106414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.164253,
     "mps:longitude":17.117504,
     "mz:hierarchy_label":0,
@@ -43,12 +45,6 @@
         "\u041a\u043e\u043b\u0438\u0431\u0430"
     ],
     "name:slk_x_preferred":[
-        "Koliba"
-    ],
-    "name:und_x_preferred":[
-        "Koliba"
-    ],
-    "name:unk_x_variant":[
         "Koliba"
     ],
     "qs:gn_adm0_cc":"SK",
@@ -109,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645442,
     "wof:name":"Koliba",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

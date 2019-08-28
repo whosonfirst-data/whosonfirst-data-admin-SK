@@ -10,8 +10,10 @@
     "geom:latitude":48.159986,
     "geom:longitude":17.063534,
     "iso:country":"SK",
+    "lbl:bbox":"17.0585342234,48.1549860281,17.0685342234,48.1649860281",
     "lbl:latitude":48.159986,
     "lbl:longitude":17.063534,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -31,11 +33,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1444833247,
-    "wof:lastmodified":1566337279,
+    "wof:lastmodified":1566645595,
     "wof:name":"L\u00edscie udolie",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

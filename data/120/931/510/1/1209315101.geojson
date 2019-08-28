@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.14973,47.7664,18.18973,47.8064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gyulamajor",
         "\u010eulov Dvor"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209315101,
-    "wof:lastmodified":1537700426,
+    "wof:lastmodified":1566645548,
     "wof:name":"Dulov Dvor",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

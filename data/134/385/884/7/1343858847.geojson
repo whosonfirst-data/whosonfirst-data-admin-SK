@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.57706,49.08277,18.61706,49.12277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mal\u00e1 \u010cierna"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0427\u0458\u0435\u0440\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Mal\u00e1 \u010cierna"
-    ],
     "name:war_x_preferred":[
         "Mal\u00e1 \u010cierna"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343858847,
-    "wof:lastmodified":1564310576,
+    "wof:lastmodified":1566645407,
     "wof:name":"Mala Cierna",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

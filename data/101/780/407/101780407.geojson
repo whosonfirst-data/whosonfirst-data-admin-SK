@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.212985,
     "lbl:longitude":19.221992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.212985,
     "mps:longitude":19.221992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Istebn\u00e9"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3059776,
         "gp:id":819934,
-        "qs:id":1181438,
         "qs_pg:id":1181438,
         "wd:id":"Q1026595",
         "wk:page":"Istebn\u00e9"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101780407,
-    "wof:lastmodified":1563254606,
+    "wof:lastmodified":1566645808,
     "wof:name":"Istebn\u00e9",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.23865,49.1194,21.27865,49.1594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Geraltov"
     ],
@@ -77,8 +81,7 @@
         "\u0490\u0435\u0440\u0430\u043b\u0442\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Geralt",
-        "Geraltov"
+        "Geralt"
     ],
     "name:war_x_preferred":[
         "Geraltov"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1344261955,
-    "wof:lastmodified":1564310613,
+    "wof:lastmodified":1566645424,
     "wof:name":"Geraltov",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

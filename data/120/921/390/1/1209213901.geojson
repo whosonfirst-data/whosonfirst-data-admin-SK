@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.73046,49.20419,20.77046,49.24419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160ambron"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043c\u0431\u0440\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0160ambron"
-    ],
     "name:war_x_preferred":[
         "\u0160ambron"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1209213901,
-    "wof:lastmodified":1564310924,
+    "wof:lastmodified":1566645586,
     "wof:name":"Sambron",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

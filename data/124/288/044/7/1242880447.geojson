@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.30848,48.37487,18.34848,48.41487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Horn\u00ed-Sla\u017eany",
         "Hornie Sla\u017eany",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242880447,
-    "wof:lastmodified":1537700421,
+    "wof:lastmodified":1566645954,
     "wof:name":"Horne Sl'azany",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

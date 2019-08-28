@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.354075,
     "lbl:longitude":19.064939,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.354075,
     "mps:longitude":19.064939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u0628\u064a\u0646\u0627"
     ],
@@ -113,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0456\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Krupina"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u0648\u067e\u06cc\u0646\u0627"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.35,
     "wd:longitude":19.066944,
@@ -158,7 +158,6 @@
         "fct:id":"070f3f4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3059244,
         "gp:id":820463,
-        "qs:id":1085592,
         "qs_pg:id":1085592,
         "wd:id":"Q756667",
         "wk:page":"Krupina"
@@ -178,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254373,
+    "wof:lastmodified":1566645747,
     "wof:name":"Krupina",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.15916,48.97874,18.19916,49.01874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Slavnica"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1209949629,
-    "wof:lastmodified":1564310901,
+    "wof:lastmodified":1566645576,
     "wof:name":"Slavnica",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

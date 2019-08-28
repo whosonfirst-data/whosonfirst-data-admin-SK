@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.54569,47.84787,18.58569,47.88787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Diva"
     ],
@@ -101,8 +105,7 @@
         "Diva"
     ],
     "name:und_x_variant":[
-        "Gyiva",
-        "Diva"
+        "Gyiva"
     ],
     "name:vie_x_preferred":[
         "Diva"
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1242678739,
-    "wof:lastmodified":1564311336,
+    "wof:lastmodified":1566645959,
     "wof:name":"Diva",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

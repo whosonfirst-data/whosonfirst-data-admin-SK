@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.387329,
     "lbl:longitude":19.38237,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.387329,
     "mps:longitude":19.38237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Breza"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3060959,
         "gp:id":818733,
-        "qs:id":1021651,
+        "qs_pg:id":1021651,
         "wd:id":"Q427243",
         "wk:page":"Breza, Slovakia"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101826673,
-    "wof:lastmodified":1563254184,
+    "wof:lastmodified":1566645694,
     "wof:name":"Breza",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

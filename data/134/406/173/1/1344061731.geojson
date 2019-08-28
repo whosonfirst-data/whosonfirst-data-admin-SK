@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.8251,48.97532,21.8651,49.01532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ohradzany"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1344061731,
-    "wof:lastmodified":1564310558,
+    "wof:lastmodified":1566645398,
     "wof:name":"Ohradzany",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.48435,49.04025,19.52435,49.08025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "G\u00f4tovany"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0413\u043e\u0442\u043e\u0432\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "G\u00f4tovany"
-    ],
     "name:war_x_preferred":[
         "G\u00f4tovany"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1209434853,
-    "wof:lastmodified":1564310928,
+    "wof:lastmodified":1566645588,
     "wof:name":"Gotovany",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

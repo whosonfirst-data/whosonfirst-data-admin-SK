@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.958723,
     "lbl:longitude":18.165016,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.958723,
     "mps:longitude":18.165016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0646\u064a\u062a\u0633\u0627 \u0646\u0627\u062f \u0641\u0627\u0647\u0648\u0645"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.966944,
     "wd:longitude":18.191111,
@@ -166,7 +169,6 @@
     "wof:concordances":{
         "gn:id":3060346,
         "gp:id":819322,
-        "qs:id":2887,
         "qs_pg:id":2887,
         "wd:id":"Q481528",
         "wk:page":"Dubnica nad V\u00e1hom"
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":101781761,
-    "wof:lastmodified":1563254503,
+    "wof:lastmodified":1566645783,
     "wof:name":"Dubnica nad V\u00e1hom",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

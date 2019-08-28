@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.49123,48.96562,21.53123,49.00562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hermanovce"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1242975487,
-    "wof:lastmodified":1564311378,
+    "wof:lastmodified":1566645976,
     "wof:name":"Hermanovce",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

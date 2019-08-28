@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.219091,
     "lbl:longitude":19.82529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.219091,
     "mps:longitude":19.82529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Radzovce"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0437\u043e\u0432\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ra\u010fovce"
     ],
     "name:war_x_preferred":[
@@ -98,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3057915,
         "gp:id":821887,
-        "qs:id":255567,
+        "qs_pg:id":255567,
         "wd:id":"Q1046421",
         "wk:page":"Radzovce"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101784045,
-    "wof:lastmodified":1563254453,
+    "wof:lastmodified":1566645769,
     "wof:name":"Radzovce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

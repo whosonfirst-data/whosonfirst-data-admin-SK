@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.416607,
     "lbl:longitude":17.982791,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.416607,
     "mps:longitude":17.982791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nov\u00e9 Sady"
     ],
@@ -67,10 +70,8 @@
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0435 \u0421\u0430\u0434\u0438"
     ],
-    "name:und_x_preferred":[
-        "Nove Sady"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Nove Sady",
         "A\u0161aker\u0165"
     ],
     "name:war_x_preferred":[
@@ -95,7 +96,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":88,
     "wof:belongsto":[
         102191581,
@@ -108,7 +109,7 @@
         "fct:id":"070d16ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058473,
         "gp:id":29401145,
-        "qs:id":207485,
+        "qs_pg:id":207485,
         "wd:id":"Q778948",
         "wk:page":"Nov\u00e9 Sady, Slovakia"
     },
@@ -127,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254373,
+    "wof:lastmodified":1566645748,
     "wof:name":"Nov\u00e9 Sady",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

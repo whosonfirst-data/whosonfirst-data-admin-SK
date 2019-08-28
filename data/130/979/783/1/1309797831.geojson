@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.7999,48.30995,17.8399,48.34995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zemianske Sady"
     ],
@@ -71,8 +75,7 @@
         "\u0417\u0435\u043c\u044f\u043d\u0441\u043a\u0435 \u0421\u0430\u0434\u0438"
     ],
     "name:und_x_variant":[
-        "Zemianska Ker\u0165",
-        "Zemianske Sady"
+        "Zemianska Ker\u0165"
     ],
     "name:war_x_preferred":[
         "Zemianske Sady"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1309797831,
-    "wof:lastmodified":1564311145,
+    "wof:lastmodified":1566645830,
     "wof:name":"Zemianske Sady",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

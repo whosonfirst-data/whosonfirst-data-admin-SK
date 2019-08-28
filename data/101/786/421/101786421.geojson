@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.073891,
     "lbl:longitude":18.948578,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.073891,
     "mps:longitude":18.948578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u064a"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "\u0160ahy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e1g"
     ],
     "name:war_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.066667,
     "wd:longitude":18.966667,
@@ -154,10 +157,12 @@
     "wof:concordances":{
         "gn:id":3057772,
         "gp:id":822077,
-        "qs:id":1153002,
         "qs_pg:id":1042931,
         "wd:id":"Q390946",
         "wk:page":"\u0160ahy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1153002
     },
     "wof:country":"SK",
     "wof:geomhash":"f6db05bfb826e8b81fde8650945d35bd",
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":101786421,
-    "wof:lastmodified":1563254542,
+    "wof:lastmodified":1566645792,
     "wof:name":"\u0160ahy",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

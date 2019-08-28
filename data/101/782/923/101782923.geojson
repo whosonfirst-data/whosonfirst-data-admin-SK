@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.612998,
     "lbl:longitude":20.999284,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.612998,
     "mps:longitude":20.999284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u062f\u0648\u0641\u0627 \u0646\u0627\u062f \u0628\u0648\u062f\u0641\u0648\u0627"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0430-\u043d\u0430\u0434-\u0411\u043e\u0434\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Szepsi"
-    ],
     "name:war_x_preferred":[
         "Moldava nad Bodvou"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.615556,
     "wd:longitude":20.999167,
@@ -148,7 +148,6 @@
     "wof:concordances":{
         "gn:id":724111,
         "gp:id":821096,
-        "qs:id":237111,
         "qs_pg:id":237111,
         "wd:id":"Q846440",
         "wk:page":"Moldava nad Bodvou"
@@ -165,7 +164,7 @@
         }
     ],
     "wof:id":101782923,
-    "wof:lastmodified":1563254377,
+    "wof:lastmodified":1566645749,
     "wof:name":"Moldava nad Bodvou",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

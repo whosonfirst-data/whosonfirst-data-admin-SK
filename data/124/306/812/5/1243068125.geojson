@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.78577,47.99891,18.82577,48.03891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ipe\u013esk\u00fd Sokolec"
     ],
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1243068125,
-    "wof:lastmodified":1564311308,
+    "wof:lastmodified":1566645947,
     "wof:name":"Ipel'sky Sokolec",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

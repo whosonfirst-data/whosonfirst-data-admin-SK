@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.37836,48.28921,18.41836,48.32921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mal\u00e9 Vozokany"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0435 \u0412\u043e\u0437\u043e\u043a\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Mal\u00e9 Vozokany"
-    ],
     "name:war_x_preferred":[
         "Mal\u00e9 Vozokany"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1259607307,
-    "wof:lastmodified":1564311461,
+    "wof:lastmodified":1566646017,
     "wof:name":"Male Vozokany",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

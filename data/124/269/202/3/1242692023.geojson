@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.78,48.41333,19.82,48.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hanka"
     ],
@@ -50,8 +54,7 @@
         "Hanka"
     ],
     "name:und_x_variant":[
-        "Dvor Hanka",
-        "Hanka"
+        "Dvor Hanka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1242692023,
-    "wof:lastmodified":1564311341,
+    "wof:lastmodified":1566645961,
     "wof:name":"Hanka",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

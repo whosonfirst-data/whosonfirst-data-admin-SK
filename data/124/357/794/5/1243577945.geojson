@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.28917,49.22619,18.32917,49.26619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Horn\u00e1 Marikov\u00e1"
     ],
@@ -69,7 +73,6 @@
     ],
     "name:und_x_variant":[
         "Hornia Mar\u00edkov\u00e1",
-        "Horn\u00e1 Marikov\u00e1",
         "Modlat\u00edn"
     ],
     "name:war_x_preferred":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1243577945,
-    "wof:lastmodified":1564311353,
+    "wof:lastmodified":1566645966,
     "wof:name":"Horna Marikova",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

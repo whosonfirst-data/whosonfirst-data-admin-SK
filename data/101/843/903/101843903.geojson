@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.030343,
     "lbl:longitude":18.902727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.030343,
     "mps:longitude":18.902727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0448\u0442\u0458\u0430\u043d\u0438 \u043d\u0430 \u0422\u0443\u0440\u0458\u0435\u0446\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ko\u0161tany"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":657,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3059368,
         "gp:id":820336,
-        "qs:id":190928,
+        "qs_pg:id":190928,
         "wd:id":"Q964999",
         "wk:page":"Ko\u0161\u0165any nad Turcom"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101843903,
-    "wof:lastmodified":1563254233,
+    "wof:lastmodified":1566645707,
     "wof:name":"Ko\u0161\u0165any nad Turcom",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

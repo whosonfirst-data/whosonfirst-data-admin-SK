@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.83252,48.1693,18.87252,48.2093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Egyh\u00e1zmar\u00f3t"
     ],
     "name:slk_x_preferred":[
-        "Kostoln\u00e9 Moravce"
-    ],
-    "name:und_x_variant":[
         "Kostoln\u00e9 Moravce"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1327435709,
-    "wof:lastmodified":1537700412,
+    "wof:lastmodified":1566645366,
     "wof:name":"Kostolne Moravce",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

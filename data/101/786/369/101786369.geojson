@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.155143,
     "lbl:longitude":17.296334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.155143,
     "mps:longitude":17.296334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Malinovo"
     ],
@@ -76,7 +79,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eberhart"
     ],
     "name:war_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191581,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3058826,
         "gp:id":820894,
-        "qs:id":1139371,
         "qs_pg:id":1139371,
         "wd:id":"Q937578",
         "wk:page":"Malinovo, Slovakia"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101786369,
-    "wof:lastmodified":1563254537,
+    "wof:lastmodified":1566645791,
     "wof:name":"Malinovo",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.89667,48.16333,17.93667,48.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dvor Andelek",
         "Andelek"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343393893,
-    "wof:lastmodified":1537700438,
+    "wof:lastmodified":1566645391,
     "wof:name":"Andelek",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

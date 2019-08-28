@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.64123,49.32977,21.68123,49.36977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Krajn\u00e9 \u010cierno"
     ],
@@ -74,8 +78,7 @@
         "\u041a\u0440\u0430\u0439\u043d\u0454 \u0427\u043e\u0440\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "Krajn\u00e9 \u010carno",
-        "Krajn\u00e9 \u010cierno"
+        "Krajn\u00e9 \u010carno"
     ],
     "name:war_x_preferred":[
         "Krajn\u00e9 \u010cierno"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1344156243,
-    "wof:lastmodified":1564310555,
+    "wof:lastmodified":1566645396,
     "wof:name":"Krajne Cierno",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

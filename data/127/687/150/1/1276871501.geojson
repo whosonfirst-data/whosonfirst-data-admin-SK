@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.69621,49.18951,21.73621,49.22951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pot\u00f4\u010dky"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0442\u0456\u0447\u043a\u0438"
     ],
-    "name:und_x_variant":[
-        "Pot\u00f4\u010dky"
-    ],
     "name:war_x_preferred":[
         "Pot\u00f4\u010dky"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1276871501,
-    "wof:lastmodified":1564310777,
+    "wof:lastmodified":1566645516,
     "wof:name":"Potocky",
     "wof:parent_id":102080613,
     "wof:placetype":"locality",

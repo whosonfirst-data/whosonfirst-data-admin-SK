@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.181971,
     "lbl:longitude":17.353512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.181971,
     "mps:longitude":17.353512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nov\u00e1 Dedinka"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3060605,
         "gp:id":819074,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q911505"
     },
     "wof:country":"SK",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101786375,
-    "wof:lastmodified":1563254550,
+    "wof:lastmodified":1566645794,
     "wof:name":"Nov\u00e1 Dedinka",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":48.752408,
     "lbl:longitude":19.201811,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":48.752408,
     "mps:longitude":19.201811,
     "mz:hierarchy_label":1,
@@ -895,16 +897,9 @@
     "name:und_x_colloquial":[
         "Slovenska"
     ],
-    "name:und_x_preferred":[
-        "Eslov\u00e0quia",
-        "Slovensk\u00e1",
-        "Sl\u00f3vak\u00eda"
-    ],
     "name:und_x_variant":[
-        "Slovakija",
-        "Slovak\u00eda"
-    ],
-    "name:unk_x_variant":[
+        "Slovensk\u00e1",
+        "Slovak\u00eda",
         "Slovensk\u00e9 Kraje"
     ],
     "name:urd_x_preferred":[
@@ -1063,7 +1058,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"421",
     "statoids:ds":"SK",
@@ -1107,7 +1102,7 @@
         "mzb:id":"slovakia",
         "ne:adm0_a3":"SVK",
         "nyt:id":"N7998407817830233071",
-        "qs:id":1033328,
+        "qs_pg:id":1033328,
         "uncrt:id":"SK",
         "wd:id":"Q214",
         "wk:page":"Slovakia",
@@ -1129,7 +1124,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1565736559,
+    "wof:lastmodified":1566645446,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

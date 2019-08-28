@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.811248,
     "lbl:longitude":19.439216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.811248,
     "mps:longitude":19.439216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Predajn\u00e1"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058034,
         "gp:id":823282,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q387884",
         "wk:page":"Predajn\u00e1"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101843857,
-    "wof:lastmodified":1563254212,
+    "wof:lastmodified":1566645701,
     "wof:name":"Predajn\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.851533,
     "lbl:longitude":18.657488,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.851533,
     "mps:longitude":18.657488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kamenn\u00fd Most"
     ],
@@ -64,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0438 \u041c\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0151hid-Gyarmat"
     ],
     "name:war_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3059575,
         "gp:id":820119,
-        "qs:id":342523,
         "qs_pg:id":342523,
         "wd:id":"Q1071029",
         "wk:page":"Kamenn\u00fd Most (Nov\u00e9 Z\u00e1mky District)"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101780211,
-    "wof:lastmodified":1563254579,
+    "wof:lastmodified":1566645801,
     "wof:name":"Kamenn\u00fd Most",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

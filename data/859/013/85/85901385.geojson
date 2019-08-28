@@ -12,8 +12,10 @@
     "gn:latitude":48.05495,
     "gn:longitude":17.14457,
     "iso:country":"SK",
+    "lbl:bbox":"17.14523,48.04501,17.15523,48.05501",
     "lbl:latitude":48.05001,
     "lbl:longitude":17.15023,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.051821,
     "mps:longitude":17.149801,
     "mz:hierarchy_label":0,
@@ -99,17 +101,6 @@
         "Oroshaza",
         "Oroszvar"
     ],
-    "name:und_x_preferred":[
-        "Rusovce"
-    ],
-    "name:und_x_variant":[
-        "Orosh\u00e1za",
-        "Oroszv\u00e1r"
-    ],
-    "name:unk_x_variant":[
-        "Oroszv\u00e1r",
-        "Rusovce"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Rusovce"
     ],
@@ -159,7 +150,6 @@
     "wof:concordances":{
         "gn:id":3057792,
         "gp:id":822053,
-        "qs:id":2916,
         "qs_pg:id":2916,
         "wd:id":"Q1091791",
         "wk:page":"Rusovce"
@@ -180,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247523,
+    "wof:lastmodified":1566645444,
     "wof:name":"Rusovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.25982,48.14754,18.29982,48.18754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kme\u0165ovo"
     ],
@@ -68,8 +72,7 @@
         "\u041a\u043c\u0435\u0442\u0458\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "\u010eorok",
-        "Kme\u0165ovo"
+        "\u010eorok"
     ],
     "name:war_x_preferred":[
         "Kme\u0165ovo"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1226442947,
-    "wof:lastmodified":1564311491,
+    "wof:lastmodified":1566646030,
     "wof:name":"Kmet'ovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.633328,
     "lbl:longitude":21.926011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.633328,
     "mps:longitude":21.926011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Budkovce"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":196,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":725054,
         "gp:id":818797,
-        "qs:id":190846,
         "qs_pg:id":190846,
         "wd:id":"Q852358",
         "wk:page":"Budkovce"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101781787,
-    "wof:lastmodified":1563254515,
+    "wof:lastmodified":1566645786,
     "wof:name":"Budkovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

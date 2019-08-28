@@ -9,15 +9,18 @@
     "geom:bbox":"17.82591,48.59479,17.82591,48.59479",
     "geom:latitude":48.59479,
     "geom:longitude":17.82591,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":30000,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:population":30000,
     "iso:country":"SK",
+    "lbl:bbox":"17.80591,48.57479,17.84591,48.61479",
     "lbl:latitude":48.59479,
     "lbl:longitude":17.82591,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0634\u062a\u0627\u0646\u064a"
@@ -160,7 +163,7 @@
     "name:ukr_x_variant":[
         "\u041f'\u0454\u0448\u0442\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pie\u0161\u0165anoch"
     ],
     "name:war_x_preferred":[
@@ -190,7 +193,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821586,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":1125985967,
-    "wof:lastmodified":1563254915,
+    "wof:lastmodified":1566645909,
     "wof:name":"Pie\u0161t\u0315any",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

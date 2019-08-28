@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.09476,48.18379,18.13476,48.22379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Horn\u00fd Tara\u0148",
         "Horn\u00e1 \u0160tefanovi\u010dov\u00e1"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226782579,
-    "wof:lastmodified":1537700423,
+    "wof:lastmodified":1566646053,
     "wof:name":"Horna Stefanovicova",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

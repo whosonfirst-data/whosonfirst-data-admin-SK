@@ -11,8 +11,10 @@
     "geom:longitude":17.165171,
     "gn:id":"",
     "iso:country":"SK",
+    "lbl:bbox":"17.160171,48.150387,17.170171,48.160387",
     "lbl:latitude":48.155387,
     "lbl:longitude":17.165171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.155944,
     "mps:longitude":17.169973,
     "mz:hierarchy_label":0,
@@ -82,12 +84,6 @@
     "name:und_x_colloquial":[
         "Ruzinov"
     ],
-    "name:und_x_preferred":[
-        "Ru\u017einov"
-    ],
-    "name:unk_x_variant":[
-        "Ru\u017einov"
-    ],
     "name:zho_x_preferred":[
         "\u9b6f\u65e5\u8afe\u592b"
     ],
@@ -133,7 +129,6 @@
     ],
     "wof:concordances":{
         "gp:id":55867254,
-        "qs:id":473263,
         "qs_pg:id":473263,
         "wd:id":"Q934473"
     },
@@ -153,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566645445,
     "wof:name":"Ru\u017einov",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

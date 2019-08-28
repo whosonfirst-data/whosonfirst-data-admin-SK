@@ -9,14 +9,18 @@
     "geom:bbox":"19.45918,49.06925,19.45918,49.06925",
     "geom:latitude":49.06925,
     "geom:longitude":19.45918,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"19.43918,49.04925,19.47918,49.08925",
     "lbl:latitude":49.06925,
     "lbl:longitude":19.45918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Malat\u00edny"
@@ -69,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ni\u017enie Malat\u00edny"
     ],
     "name:war_x_preferred":[
@@ -95,7 +99,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821246,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Zilinsky",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1126058435,
-    "wof:lastmodified":1563254794,
+    "wof:lastmodified":1566645862,
     "wof:name":"Ni\u017en\u00e9 Malat\u00edny",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

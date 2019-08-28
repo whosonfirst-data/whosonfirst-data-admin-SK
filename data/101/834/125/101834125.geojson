@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.288047,
     "lbl:longitude":17.734978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.288047,
     "mps:longitude":17.734978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sered"
     ],
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0434\u044c"
     ],
-    "name:unk_x_variant":[
-        "Sered'"
-    ],
     "name:war_x_preferred":[
         "Sere\u010f"
     ],
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.283333,
     "wd:longitude":17.733333,
     "wd:wordcount":1089,
@@ -149,7 +149,6 @@
     "wof:concordances":{
         "gn:id":3057685,
         "gp:id":822179,
-        "qs:id":1168820,
         "qs_pg:id":1168820,
         "wd:id":"Q429676",
         "wk:page":"Sere\u010f"
@@ -166,7 +165,7 @@
         }
     ],
     "wof:id":101834125,
-    "wof:lastmodified":1563254313,
+    "wof:lastmodified":1566645730,
     "wof:name":"Sere\u010f",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.66071,47.83492,18.70071,47.87492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mal\u00e1 nad Hronom"
     ],
@@ -62,8 +66,7 @@
         "\u041c\u0430\u043b\u0430 \u043d\u0430 \u0425\u0440\u043e\u043d\u0443"
     ],
     "name:und_x_variant":[
-        "Ki\u010dind",
-        "Mal\u00e1 nad Hronom"
+        "Ki\u010dind"
     ],
     "name:war_x_preferred":[
         "Mal\u00e1 nad Hronom"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1293024777,
-    "wof:lastmodified":1564310713,
+    "wof:lastmodified":1566645485,
     "wof:name":"Mala nad Hronom",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

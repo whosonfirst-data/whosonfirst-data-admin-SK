@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.525658,
     "lbl:longitude":17.468465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.525658,
     "mps:longitude":17.468465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Trst\u00edn"
     ],
@@ -70,10 +73,8 @@
     "name:srp_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0438\u043d"
     ],
-    "name:und_x_preferred":[
-        "Trstin"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Trstin",
         "N\u00e1da\u0161"
     ],
     "name:war_x_preferred":[
@@ -95,7 +96,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         102191581,
@@ -108,7 +109,7 @@
         "fct:id":"070dab3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057102,
         "gp:id":29401856,
-        "qs:id":1016323,
+        "qs_pg:id":1016323,
         "wd:id":"Q735510",
         "wk:page":"Trst\u00edn"
     },
@@ -127,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254431,
+    "wof:lastmodified":1566645763,
     "wof:name":"Trst\u00edn",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

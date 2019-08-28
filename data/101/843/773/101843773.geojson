@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.442591,
     "lbl:longitude":17.60516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.442591,
     "mps:longitude":17.60516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160pa\u010dince"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0428\u043f\u0430\u0447\u0438\u043d\u0446\u0435"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Spacince"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":28,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,7 @@
         "fct:id":"070e0232-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057506,
         "gp:id":29401125,
-        "qs:id":1158968,
+        "qs_pg:id":1158968,
         "wd:id":"Q392247",
         "wk:page":"\u0160pa\u010dince"
     },
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254256,
+    "wof:lastmodified":1566645713,
     "wof:name":"\u0160pa\u010dince",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

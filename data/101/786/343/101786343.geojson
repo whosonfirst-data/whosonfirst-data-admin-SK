@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.910365,
     "lbl:longitude":18.500405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.910365,
     "mps:longitude":18.500405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Svod\u00edn"
     ],
@@ -71,7 +74,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0432\u043e\u0434\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sz\u00f6lgy\u00e9n"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":195,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3057273,
         "gp:id":822588,
-        "qs:id":1159699,
         "qs_pg:id":1159699,
         "wd:id":"Q1070645",
         "wk:page":"Svod\u00edn"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101786343,
-    "wof:lastmodified":1563254551,
+    "wof:lastmodified":1566645795,
     "wof:name":"Svod\u00edn",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

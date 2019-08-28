@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.369611,
     "lbl:longitude":18.012471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.369611,
     "mps:longitude":18.012471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zbehy"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191581,
@@ -105,10 +108,12 @@
     "wof:concordances":{
         "gn:id":3056562,
         "gp:id":823319,
-        "qs:id":1,
-        "qs_pg:id":1182482,
+        "qs_pg:id":1,
         "wd:id":"Q167966",
         "wk:page":"Zbehy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1182482
     },
     "wof:country":"SK",
     "wof:geomhash":"9a7d7bfbf4f33e626454b05f0ef86ce1",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101754897,
-    "wof:lastmodified":1563254174,
+    "wof:lastmodified":1566645691,
     "wof:name":"Zbehy",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.813941,
     "lbl:longitude":20.902256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.813941,
     "mps:longitude":20.902256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Prakovce"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0430\u043a\u043e\u0432\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prakendorf"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":723823,
         "gp:id":821759,
-        "qs:id":402772,
+        "qs_pg:id":402772,
         "wd:id":"Q538055",
         "wk:page":"Prakovce"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101780249,
-    "wof:lastmodified":1563254652,
+    "wof:lastmodified":1566645818,
     "wof:name":"Prakovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

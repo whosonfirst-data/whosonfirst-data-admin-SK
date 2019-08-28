@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.73456,48.69643,21.77456,48.73643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tu\u0161ick\u00e1 Nov\u00e1 Ves"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0448\u0438\u0446\u044c\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441\u044c"
     ],
-    "name:und_x_variant":[
-        "Tu\u0161ick\u00e1 Nov\u00e1 Ves"
-    ],
     "name:war_x_preferred":[
         "Tu\u0161ick\u00e1 Nov\u00e1 Ves"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226749603,
-    "wof:lastmodified":1564311500,
+    "wof:lastmodified":1566646034,
     "wof:name":"Tusicka Nova Ves",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

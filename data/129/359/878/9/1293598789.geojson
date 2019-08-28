@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.54524,48.52073,18.58524,48.56073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Pole"
     ],
@@ -74,8 +78,7 @@
         "\u0412\u0435\u043b\u044c\u043a\u0435 \u041f\u043e\u043b\u0435"
     ],
     "name:und_x_variant":[
-        "Hochwiesen",
-        "Ve\u013ek\u00e9 Pole"
+        "Hochwiesen"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Pole"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1293598789,
-    "wof:lastmodified":1564310694,
+    "wof:lastmodified":1566645475,
     "wof:name":"Vel'ke Pole",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

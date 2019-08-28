@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.22262,48.39542,18.26262,48.43542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kosto\u013eany pod Tribe\u010dom"
     ],
@@ -71,8 +75,7 @@
         "\u041a\u043e\u0441\u0442\u043e\u043b\u044f\u043d\u0438-\u043f\u043e\u0434-\u0422\u0440\u0438\u0431\u0435\u0447\u043e\u043c"
     ],
     "name:und_x_variant":[
-        "G\u00fdme\u0161sk\u00e9 Kostolany",
-        "Kosto\u013eany pod Tribe\u010dom"
+        "G\u00fdme\u0161sk\u00e9 Kostolany"
     ],
     "name:war_x_preferred":[
         "Kosto\u013eany pod Tribe\u010dom"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1226143439,
-    "wof:lastmodified":1564311536,
+    "wof:lastmodified":1566646050,
     "wof:name":"Kostol'any pod Tribecom",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

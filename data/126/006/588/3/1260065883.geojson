@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.73741,49.34967,19.77741,49.38967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hladovka"
     ],
@@ -71,8 +75,7 @@
         "\u0425\u043b\u0430\u0434\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "G\u0142odowka",
-        "Hladovka"
+        "G\u0142odowka"
     ],
     "name:war_x_preferred":[
         "Hladovka"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1260065883,
-    "wof:lastmodified":1564310983,
+    "wof:lastmodified":1566645624,
     "wof:name":"Hladovka",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

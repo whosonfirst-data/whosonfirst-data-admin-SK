@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.088645,
     "lbl:longitude":21.309928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.088645,
     "mps:longitude":21.309928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tul\u010d\u00edk"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043b\u0447\u0438\u043a"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Tulcik"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
         "fct:id":"070dd546-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723341,
         "gp:id":29402063,
-        "qs:id":207487,
+        "qs_pg:id":207487,
         "wd:id":"Q961487",
         "wk:page":"Tul\u010d\u00edk"
     },
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254583,
+    "wof:lastmodified":1566645802,
     "wof:name":"Tul\u010d\u00edk",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

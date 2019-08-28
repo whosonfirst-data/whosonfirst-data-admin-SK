@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.421721,
     "lbl:longitude":21.979173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.421721,
     "mps:longitude":21.979173,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0644\u0648\u0633\u0643\u064a \u062e\u0644\u0645\u062a\u0634"
     ],
@@ -106,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u043b\u044c\u043e\u0432\u0441\u043a\u0438-\u0425\u043b\u043c\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kir\u00e1ly-Helmec"
     ],
     "name:war_x_preferred":[
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.423333,
     "wd:longitude":21.979722,
     "wd:wordcount":242,
@@ -146,10 +149,12 @@
     "wof:concordances":{
         "gn:id":724969,
         "gp:id":818953,
-        "qs:id":343088,
-        "qs_pg:id":402161,
+        "qs_pg:id":343088,
         "wd:id":"Q135667",
         "wk:page":"Kr\u00e1\u013eovsk\u00fd Chlmec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":402161
     },
     "wof:country":"SK",
     "wof:geomhash":"fa6e4e3cf2cdbc3d5755a33f2720fc73",
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":101843863,
-    "wof:lastmodified":1563254250,
+    "wof:lastmodified":1566645711,
     "wof:name":"Kr\u00e1\u013eovsk\u00fd Chlmec",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.29561,48.79053,19.33561,48.83053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hiade\u013e"
     ],
@@ -79,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0413'\u044f\u0434\u0435\u043b\u044c"
     ],
-    "name:und_x_variant":[
-        "Hiade\u013e"
-    ],
     "name:war_x_preferred":[
         "Hiade\u013e"
     ],
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1310020015,
-    "wof:lastmodified":1564311063,
+    "wof:lastmodified":1566645665,
     "wof:name":"Hiadel'",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

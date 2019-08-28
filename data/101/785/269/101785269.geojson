@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.208867,
     "lbl:longitude":19.346423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.208867,
     "mps:longitude":19.346423,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
     ],
@@ -68,11 +71,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u041a\u0440\u0442\u0456\u0448"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Velky Krtis"
-    ],
-    "name:unk_x_variant":[
-        "Mal\u00fd Krt\u00ed\u0161"
     ],
     "name:war_x_preferred":[
         "Mal\u00fd Krt\u00ed\u0161"
@@ -95,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -109,7 +109,7 @@
         "fct:id":"070d4d42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058806,
         "gp:id":820910,
-        "qs:id":1271416,
+        "qs_pg:id":1271416,
         "wd:id":"Q1045589",
         "wk:page":"Mal\u00fd Krt\u00ed\u0161"
     },
@@ -128,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254328,
+    "wof:lastmodified":1566645734,
     "wof:name":"Ve\u013ek\u00fd Krt\u00ed\u0161",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

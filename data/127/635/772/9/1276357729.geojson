@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.14988,48.81028,17.18988,48.85028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "K\u00e1tov"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "K\u00e1tov"
-    ],
     "name:war_x_preferred":[
         "K\u00e1tov"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1276357729,
-    "wof:lastmodified":1564310793,
+    "wof:lastmodified":1566645525,
     "wof:name":"Katov",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

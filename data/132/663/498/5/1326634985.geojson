@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.48228,49.073,21.52228,49.113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u017delezn\u00edk"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043d\u0456\u043a"
     ],
-    "name:und_x_variant":[
-        "\u017delezn\u00edk"
-    ],
     "name:war_x_preferred":[
         "\u017delezn\u00edk"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1326634985,
-    "wof:lastmodified":1564310498,
+    "wof:lastmodified":1566645356,
     "wof:name":"Zeleznik",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

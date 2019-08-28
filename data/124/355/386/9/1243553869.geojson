@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.89444,49.17879,20.93444,49.21879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243553869,
-    "wof:lastmodified":1536650531,
+    "wof:lastmodified":1566645950,
     "wof:name":"Putnov",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

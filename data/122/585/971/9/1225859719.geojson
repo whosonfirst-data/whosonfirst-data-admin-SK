@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"SK",
+    "lbl:bbox":"18.04238,49.00488,18.08238,49.04488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225859719,
-    "wof:lastmodified":1536992617,
+    "wof:lastmodified":1566646068,
     "wof:name":"Cakanov",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

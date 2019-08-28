@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.49796,49.26166,21.53796,49.30166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rovn\u00e9"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u043d\u0435"
     ],
-    "name:und_x_variant":[
-        "Rovn\u00e9"
-    ],
     "name:war_x_preferred":[
         "Rovn\u00e9"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1243072401,
-    "wof:lastmodified":1564311290,
+    "wof:lastmodified":1566645940,
     "wof:name":"Rovne",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

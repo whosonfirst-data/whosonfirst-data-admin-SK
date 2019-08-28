@@ -11,12 +11,16 @@
     "geom:longitude":22.088978,
     "gn:population":4645,
     "iso:country":"SK",
+    "lbl:bbox":"22.068978,48.399632,22.108978,48.439632",
     "lbl:latitude":48.419632,
     "lbl:longitude":22.088978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.419632,
     "mps:longitude":22.088978,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u010cierna"
     ],
@@ -71,7 +75,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0454\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cherna"
     ],
     "name:war_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":724941,
         "gp:id":29402441,
-        "qs:id":247394,
+        "qs_pg:id":247394,
         "wd:id":"Q1192851",
         "wk:page":"\u010cierna"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101860153,
-    "wof:lastmodified":1563254286,
+    "wof:lastmodified":1566645722,
     "wof:name":"\u010cierna nad Tisou",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

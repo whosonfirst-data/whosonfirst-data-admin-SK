@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.966314,
     "lbl:longitude":17.788077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.966314,
     "mps:longitude":17.788077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Topo\u013en\u00edky"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u044c\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0147\u00e1ra\u017ed"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":357,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3057170,
         "gp:id":822680,
-        "qs:id":326263,
+        "qs_pg:id":326263,
         "wd:id":"Q1069688",
         "wk:page":"Topo\u013en\u00edky"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101786311,
-    "wof:lastmodified":1563254546,
+    "wof:lastmodified":1566645793,
     "wof:name":"Topo\u013en\u00edky",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

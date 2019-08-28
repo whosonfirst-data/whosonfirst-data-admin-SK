@@ -9,14 +9,18 @@
     "geom:bbox":"18.48324,47.76335,18.48324,47.76335",
     "geom:latitude":47.76335,
     "geom:longitude":18.48324,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"18.46324,47.74335,18.50324,47.78335",
     "lbl:latitude":47.76335,
     "lbl:longitude":18.48324,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Kravany nad Dunajom"
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0432\u0430\u043d\u0438-\u043d\u0430\u0434-\u0414\u0443\u043d\u0430\u0454\u043c"
     ],
-    "name:unk_x_variant":[
-        "Karva"
-    ],
     "name:war_x_preferred":[
         "Kravany nad Dunajom"
     ],
@@ -99,7 +100,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":820424,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Nitriansky",
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1125772405,
-    "wof:lastmodified":1563254994,
+    "wof:lastmodified":1566645934,
     "wof:name":"Kravany nad Dunajom",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.378018,
     "lbl:longitude":19.892282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.378018,
     "mps:longitude":19.892282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "O\u017e\u010fany"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":107,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3058311,
         "gp:id":821464,
-        "qs:id":191009,
+        "qs_pg:id":191009,
         "wd:id":"Q679308",
         "wk:page":"O\u017e\u010fany"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101784125,
-    "wof:lastmodified":1563254465,
+    "wof:lastmodified":1566645772,
     "wof:name":"O\u017e\u010fany",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

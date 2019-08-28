@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.5026,
     "lbl:longitude":18.422402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.5026,
     "mps:longitude":18.422402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sk\u00fdcov"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3057603,
         "gp:id":822250,
-        "qs:id":421826,
+        "qs_pg:id":421826,
         "wd:id":"Q655307",
         "wk:page":"Sk\u00fdcov"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101843767,
-    "wof:lastmodified":1563254233,
+    "wof:lastmodified":1566645706,
     "wof:name":"Sk\u00fdcov",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

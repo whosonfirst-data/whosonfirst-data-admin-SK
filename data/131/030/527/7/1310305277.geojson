@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.86124,48.79967,17.90124,48.83967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160tvrtok"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u0428\u0442\u0432\u0440\u0442\u043e\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0160tvrtok"
-    ],
     "name:war_x_preferred":[
         "\u0160tvrtok"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1310305277,
-    "wof:lastmodified":1564311033,
+    "wof:lastmodified":1566645650,
     "wof:name":"Stvrtok",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

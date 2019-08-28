@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.37139,48.34217,20.41139,48.38217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Neporadza"
     ],
@@ -68,8 +72,7 @@
         "\u041d\u0435\u043f\u043e\u0440\u0430\u0434\u0437\u0430"
     ],
     "name:und_x_variant":[
-        "Napra\u010f",
-        "Neporadza"
+        "Napra\u010f"
     ],
     "name:war_x_preferred":[
         "Neporadza"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1293214805,
-    "wof:lastmodified":1564310744,
+    "wof:lastmodified":1566645500,
     "wof:name":"Neporadza",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

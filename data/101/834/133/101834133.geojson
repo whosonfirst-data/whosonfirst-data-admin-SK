@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.972847,
     "lbl:longitude":18.653271,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.972847,
     "mps:longitude":18.653271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pohronsk\u00fd Ruskov"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0445\u0440\u043e\u043d\u0441\u043a\u0438 \u0420\u0443\u0441\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oroska"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":227,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3058106,
         "gp:id":821692,
-        "qs:id":255560,
+        "qs_pg:id":255560,
         "wd:id":"Q547130",
         "wk:page":"Pohronsk\u00fd Ruskov"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101834133,
-    "wof:lastmodified":1563254306,
+    "wof:lastmodified":1566645728,
     "wof:name":"Pohronsk\u00fd Ruskov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

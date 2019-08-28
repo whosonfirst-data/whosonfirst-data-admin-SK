@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.661392,
     "lbl:longitude":17.036787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.661392,
     "mps:longitude":17.036787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "K\u00faty"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3059204,
         "gp:id":820512,
-        "qs:id":326212,
         "qs_pg:id":326212,
         "wd:id":"Q1018849",
         "wk:page":"K\u00faty"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101782775,
-    "wof:lastmodified":1563254406,
+    "wof:lastmodified":1566645756,
     "wof:name":"K\u00faty",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.48248,49.3238,21.52248,49.3638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161n\u00fd Orl\u00edk"
     ],
@@ -72,8 +76,7 @@
     ],
     "name:und_x_variant":[
         "Vy\u0161n\u00ed Orl\u00edk",
-        "Vy\u0161nyj Orlich",
-        "Vy\u0161n\u00fd Orl\u00edk"
+        "Vy\u0161nyj Orlich"
     ],
     "name:war_x_preferred":[
         "Vy\u0161n\u00fd Orl\u00edk"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1309743579,
-    "wof:lastmodified":1564311157,
+    "wof:lastmodified":1566645835,
     "wof:name":"Vysny Orlik",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

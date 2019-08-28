@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.307548,
     "lbl:longitude":21.571525,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.307548,
     "mps:longitude":21.571525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u062f\u0646\u064a\u0643"
     ],
@@ -119,10 +122,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0438\u0434\u043d\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Svidnik"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Svidnik",
         "Vy\u0161nyj Svidnik"
     ],
     "name:war_x_preferred":[
@@ -148,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.305556,
     "wd:longitude":21.567778,
@@ -164,7 +165,6 @@
         "fct:id":"070dd4e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723417,
         "gp:id":822580,
-        "qs:id":960689,
         "qs_pg:id":960689,
         "wd:id":"Q833845"
     },
@@ -183,7 +183,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254585,
+    "wof:lastmodified":1566645802,
     "wof:name":"Svidn\u00edk",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

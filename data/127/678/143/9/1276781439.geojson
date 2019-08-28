@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.08252,48.58148,19.12252,48.62148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kov\u00e1\u010dov\u00e1"
     ],
@@ -82,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u043e\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Kov\u00e1\u010dov\u00e1"
-    ],
     "name:war_x_preferred":[
         "Kov\u00e1\u010dov\u00e1"
     ],
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1276781439,
-    "wof:lastmodified":1564310808,
+    "wof:lastmodified":1566645533,
     "wof:name":"Kovacova",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

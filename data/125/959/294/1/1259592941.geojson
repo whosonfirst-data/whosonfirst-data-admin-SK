@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.16557,48.1288,19.20557,48.1688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160ir\u00e1kov"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u0440\u0430\u043a\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "\u0160ir\u00e1kov"
-    ],
     "name:war_x_preferred":[
         "\u0160ir\u00e1kov"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1259592941,
-    "wof:lastmodified":1564311454,
+    "wof:lastmodified":1566646014,
     "wof:name":"Sirakov",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

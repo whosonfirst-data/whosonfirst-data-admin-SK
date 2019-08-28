@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.654315,
     "lbl:longitude":20.531655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.654315,
     "mps:longitude":20.531655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062c\u0646\u0627\u0641\u0627"
     ],
@@ -128,11 +131,8 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0436\u043d\u044f\u0432\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Roznava"
-    ],
-    "name:unk_x_variant":[
-        "Rozsny\u00f3"
     ],
     "name:war_x_preferred":[
         "Ro\u017e\u0148ava"
@@ -157,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.666667,
     "wd:longitude":20.533333,
@@ -173,7 +173,6 @@
         "fct:id":"070c8362-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":723713,
         "gp:id":822006,
-        "qs:id":2912,
         "qs_pg:id":2912,
         "wd:id":"Q267888",
         "wk:page":"Ro\u017e\u0148ava"
@@ -193,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254355,
+    "wof:lastmodified":1566645742,
     "wof:name":"Ro\u017e\u0148ava",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

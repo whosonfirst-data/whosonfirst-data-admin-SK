@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.28,48.58,21.32,48.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u044f"
     ],
@@ -107,8 +111,7 @@
         "\u041c\u0430\u0440\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Dvor Maria",
-        "Maria"
+        "Dvor Maria"
     ],
     "name:vls_x_preferred":[
         "Maria"
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1225852409,
-    "wof:lastmodified":1564311575,
+    "wof:lastmodified":1566646068,
     "wof:name":"Maria",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

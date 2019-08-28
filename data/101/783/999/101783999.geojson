@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.451455,
     "lbl:longitude":18.437725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.451455,
     "mps:longitude":18.437725,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hostie"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3059911,
         "gp:id":819783,
-        "qs:id":219114,
+        "qs_pg:id":219114,
         "wd:id":"Q1071222",
         "wk:page":"Hostie"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101783999,
-    "wof:lastmodified":1563254417,
+    "wof:lastmodified":1566645759,
     "wof:name":"Hostie",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

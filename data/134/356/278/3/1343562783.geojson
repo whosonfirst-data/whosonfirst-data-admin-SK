@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.40018,48.73931,20.44018,48.77931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Go\u010dovo"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u043e\u0447\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Go\u010dovo"
-    ],
     "name:war_x_preferred":[
         "Go\u010dovo"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1343562783,
-    "wof:lastmodified":1564310603,
+    "wof:lastmodified":1566645419,
     "wof:name":"Gocovo",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":48.161322,
     "geom:longitude":17.16821,
     "iso:country":"SK",
+    "lbl:bbox":"17.1632097272,48.1563217304,17.1732097272,48.1663217304",
     "lbl:latitude":48.161322,
     "lbl:longitude":17.16821,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444832893,
-    "wof:lastmodified":1566337242,
+    "wof:lastmodified":1566645593,
     "wof:name":"Ostredky",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

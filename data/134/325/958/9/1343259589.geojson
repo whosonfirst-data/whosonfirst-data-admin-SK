@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.64507,49.20372,18.68507,49.24372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ov\u010diarsko"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u041e\u0432\u0447\u0458\u0430\u0440\u0441\u043a\u043e"
     ],
-    "name:und_x_variant":[
-        "Ov\u010diarsko"
-    ],
     "name:war_x_preferred":[
         "Ov\u010diarsko"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343259589,
-    "wof:lastmodified":1564310585,
+    "wof:lastmodified":1566645411,
     "wof:name":"Ovciarsko",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

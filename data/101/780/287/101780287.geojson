@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.821054,
     "lbl:longitude":21.853817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.821054,
     "mps:longitude":21.853817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nacina Ves"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":724084,
         "gp:id":821150,
-        "qs:id":1271468,
+        "qs_pg:id":1271468,
         "wd:id":"Q543003",
         "wk:page":"Nacina Ves"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101780287,
-    "wof:lastmodified":1563254584,
+    "wof:lastmodified":1566645802,
     "wof:name":"Nacina Ves",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

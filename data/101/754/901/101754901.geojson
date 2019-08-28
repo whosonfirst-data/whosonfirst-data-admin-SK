@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.332819,
     "lbl:longitude":18.126076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.332819,
     "mps:longitude":18.126076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nitrianske Hrn\u010diarovce"
     ],
@@ -67,10 +70,8 @@
     "name:srp_x_preferred":[
         "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0435 \u0425\u0440\u043d\u0447\u0458\u0430\u0440\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_preferred":[
-        "Nitrianske Hrnciarovce"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Nitrianske Hrnciarovce",
         "Hrn\u010diarovce"
     ],
     "name:war_x_preferred":[
@@ -94,7 +95,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191581,
@@ -107,7 +108,7 @@
         "fct:id":"070d9180-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058525,
         "gp:id":821212,
-        "qs:id":1271478,
+        "qs_pg:id":1271478,
         "wd:id":"Q1070681",
         "wk:page":"Nitrianske Hrn\u010diarovce"
     },
@@ -126,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254172,
+    "wof:lastmodified":1566645690,
     "wof:name":"Nitrianske Hrn\u010diarovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

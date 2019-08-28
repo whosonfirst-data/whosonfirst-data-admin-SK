@@ -12,8 +12,10 @@
     "gn:latitude":48.18872,
     "gn:longitude":17.03521,
     "iso:country":"SK",
+    "lbl:bbox":"17.031714,48.181264,17.041714,48.191264",
     "lbl:latitude":48.186264,
     "lbl:longitude":17.036714,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.189891,
     "mps:longitude":17.031206,
     "mz:hierarchy_label":0,
@@ -101,12 +103,6 @@
     "name:und_x_colloquial":[
         "Dubravka"
     ],
-    "name:und_x_preferred":[
-        "D\u00fabravka"
-    ],
-    "name:unk_x_variant":[
-        "D\u00fabravka"
-    ],
     "name:zho_x_preferred":[
         "\u675c\u5e03\u62c9\u592b\u5361"
     ],
@@ -152,7 +148,6 @@
     "wof:concordances":{
         "gn:id":3060322,
         "gp:id":819347,
-        "qs:id":883990,
         "qs_pg:id":883990,
         "wd:id":"Q616170",
         "wk:page":"D\u00fabravka, Bratislava"
@@ -173,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645441,
     "wof:name":"D\u00fabravka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

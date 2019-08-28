@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.588831,
     "lbl:longitude":17.844511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.588831,
     "mps:longitude":17.844511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Banka"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3061195,
         "gp:id":818501,
-        "qs:id":383662,
         "qs_pg:id":383662,
         "wd:id":"Q642054",
         "wk:page":"Banka, Pie\u0161\u0165any District"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101832689,
-    "wof:lastmodified":1563254268,
+    "wof:lastmodified":1566645717,
     "wof:name":"Banka",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

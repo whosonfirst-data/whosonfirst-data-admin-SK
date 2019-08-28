@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.16096,48.65117,20.20096,48.69117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rev\u00facka Lehota"
     ],
@@ -68,8 +72,7 @@
         "\u0420\u0435\u0432\u0443\u0446\u044c\u043a\u0430 \u041b\u0435\u0433\u043e\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "Umrl\u00e1 Lehota",
-        "Rev\u00facka Lehota"
+        "Umrl\u00e1 Lehota"
     ],
     "name:war_x_preferred":[
         "Rev\u00facka Lehota"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1310409797,
-    "wof:lastmodified":1564311019,
+    "wof:lastmodified":1566645643,
     "wof:name":"Revucka Lehota",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

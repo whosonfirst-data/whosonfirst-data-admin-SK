@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.950917,
     "lbl:longitude":19.263774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.950917,
     "mps:longitude":19.263774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Liptovsk\u00e1 Osada"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3059064,
         "gp:id":820665,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1186992",
         "wk:page":"Liptovsk\u00e1 Osada"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101780313,
-    "wof:lastmodified":1563254622,
+    "wof:lastmodified":1566645812,
     "wof:name":"Liptovsk\u00e1 Osada",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.82496,48.98185,18.86496,49.02185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Val\u010da"
     ],
@@ -71,9 +75,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u043b\u0447\u0430"
     ],
-    "name:und_x_variant":[
-        "Val\u010da"
-    ],
     "name:war_x_preferred":[
         "Val\u010da"
     ],
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1259975045,
-    "wof:lastmodified":1564311412,
+    "wof:lastmodified":1566645994,
     "wof:name":"Valca",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

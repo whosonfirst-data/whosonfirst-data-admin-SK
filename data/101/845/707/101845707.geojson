@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.89962,
     "lbl:longitude":18.313937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.89962,
     "mps:longitude":18.313937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pribeta"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0431\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Perbete"
-    ],
     "name:war_x_preferred":[
         "Pribeta"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3058018,
         "gp:id":821786,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1071404",
         "wk:page":"Pribeta"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":101845707,
-    "wof:lastmodified":1563254176,
+    "wof:lastmodified":1566645692,
     "wof:name":"Pribeta",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

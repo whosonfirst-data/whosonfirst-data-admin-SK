@@ -9,14 +9,18 @@
     "geom:bbox":"21.74467,48.39885,21.74467,48.39885",
     "geom:latitude":48.39885,
     "geom:longitude":21.74467,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.72467,48.37885,21.76467,48.41885",
     "lbl:latitude":48.39885,
     "lbl:longitude":21.74467,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Vini\u010dky"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u0456\u0447\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sele\u0161ka"
     ],
     "name:war_x_preferred":[
@@ -97,7 +101,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":823058,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1126011575,
-    "wof:lastmodified":1563254917,
+    "wof:lastmodified":1566645910,
     "wof:name":"Vini\u010dky",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

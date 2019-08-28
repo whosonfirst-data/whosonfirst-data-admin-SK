@@ -11,8 +11,10 @@
     "geom:longitude":21.281267,
     "gn:id":"",
     "iso:country":"SK",
+    "lbl:bbox":"21.276267,48.68497,21.286267,48.69497",
     "lbl:latitude":48.68997,
     "lbl:longitude":21.281267,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.692838,
     "mps:longitude":21.28333,
     "mz:hierarchy_label":0,
@@ -51,12 +53,6 @@
     "name:srp_x_preferred":[
         "\u041d\u0430\u0434 \u0458\u0430\u0437\u0435\u0440\u043e\u043c"
     ],
-    "name:und_x_preferred":[
-        "Nad jazerom"
-    ],
-    "name:unk_x_variant":[
-        "Nad jazerom"
-    ],
     "qs:gn_adm0_cc":"SK",
     "qs:gn_id":0,
     "qs:gn_local":724443,
@@ -86,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688359,
         102191581,
@@ -97,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55867264,
-        "qs:id":1334755,
         "qs_pg:id":1334755
     },
     "wof:country":"SK",
@@ -116,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564310648,
+    "wof:lastmodified":1566645445,
     "wof:name":"Nad jazerom",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

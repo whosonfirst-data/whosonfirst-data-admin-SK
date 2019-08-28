@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.583975,
     "lbl:longitude":21.737649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.583975,
     "mps:longitude":21.737649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zempl\u00ednske Hradi\u0161te"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043c\u043f\u043b\u0456\u043d\u0441\u043a\u0435 \u0413\u0440\u0430\u0434\u0456\u0448\u0442\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hardi\u0161te"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":723067,
         "gp:id":823369,
-        "qs:id":1271956,
+        "qs_pg:id":1271956,
         "wd:id":"Q189397",
         "wk:page":"Zempl\u00ednske Hradi\u0161te"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101780233,
-    "wof:lastmodified":1563254609,
+    "wof:lastmodified":1566645809,
     "wof:name":"Zempl\u00ednske Hradi\u0161te",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

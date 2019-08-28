@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.67523,48.90662,20.71523,48.94662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chras\u0165 nad Horn\u00e1dom"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u044c-\u043d\u0430\u0434-\u0413\u043e\u0440\u043d\u0430\u0434\u043e\u043c"
     ],
-    "name:und_x_variant":[
-        "Chras\u0165 nad Horn\u00e1dom"
-    ],
     "name:war_x_preferred":[
         "Chras\u0165 nad Horn\u00e1dom"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1243562287,
-    "wof:lastmodified":1564311356,
+    "wof:lastmodified":1566645967,
     "wof:name":"Chrast' nad Hornadom",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

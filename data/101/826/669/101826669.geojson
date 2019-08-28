@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.505999,
     "lbl:longitude":19.516692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.505999,
     "mps:longitude":19.516692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rab\u010dice"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3057933,
         "gp:id":821867,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q733289",
         "wk:page":"Rab\u010dice"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101826669,
-    "wof:lastmodified":1563254185,
+    "wof:lastmodified":1566645694,
     "wof:name":"Rab\u010dice",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

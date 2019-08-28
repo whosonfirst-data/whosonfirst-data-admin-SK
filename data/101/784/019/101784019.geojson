@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.54649,
     "lbl:longitude":17.587197,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.54649,
     "mps:longitude":17.587197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dechtice"
     ],
@@ -70,10 +73,7 @@
     "name:srp_x_preferred":[
         "\u0414\u0458\u0435\u0445\u0442\u0438\u0446\u0435"
     ],
-    "name:und_x_preferred":[
-        "Dechtice"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dehtice"
     ],
     "name:war_x_preferred":[
@@ -100,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -113,7 +113,7 @@
         "fct:id":"070cf982-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3060606,
         "gp:id":29401006,
-        "qs:id":1158967,
+        "qs_pg:id":1158967,
         "wd:id":"Q615146",
         "wk:page":"Dechtice"
     },
@@ -132,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254458,
+    "wof:lastmodified":1566645770,
     "wof:name":"Dechtice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

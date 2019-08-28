@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.250533,
     "lbl:longitude":17.495894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.250533,
     "mps:longitude":17.495894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Grob"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0438 \u0490\u0440\u043e\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nemeck\u00fd Grob"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3056835,
         "gp:id":823002,
-        "qs:id":1140400,
+        "qs_pg:id":1140400,
         "wd:id":"Q762283",
         "wk:page":"Ve\u013ek\u00fd Grob"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101785189,
-    "wof:lastmodified":1563254331,
+    "wof:lastmodified":1566645735,
     "wof:name":"Ve\u013ek\u00fd Grob",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

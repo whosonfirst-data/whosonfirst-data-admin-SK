@@ -24,8 +24,12 @@
     "gn:population":815,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.33206,49.1685,19.37206,49.2085",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_historical":[
         "\u041b\u044d\u0448\u0446\u0456\u043d\u044b"
     ],
@@ -98,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0456\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Le\u0161tiny"
-    ],
     "name:war_x_preferred":[
         "Le\u0161tiny"
     ],
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1310586625,
-    "wof:lastmodified":1564311068,
+    "wof:lastmodified":1566645668,
     "wof:name":"Lestiny",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

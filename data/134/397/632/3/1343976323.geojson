@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.12071,48.46721,22.16071,48.50721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ptruk\u0161a"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1343976323,
-    "wof:lastmodified":1564310546,
+    "wof:lastmodified":1566645392,
     "wof:name":"Ptruksa",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

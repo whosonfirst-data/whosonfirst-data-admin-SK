@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.267682,
     "lbl:longitude":17.748962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.267682,
     "mps:longitude":17.748962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00e1 Streda"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u0421\u0442\u0440\u0435\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolnia Streda nad V\u00e1hom"
     ],
     "name:war_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3060489,
         "gp:id":819177,
-        "qs:id":1238620,
         "qs_pg:id":1238620,
         "wd:id":"Q677178",
         "wk:page":"Doln\u00e1 Streda"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101834123,
-    "wof:lastmodified":1563254312,
+    "wof:lastmodified":1566645730,
     "wof:name":"Doln\u00e1 Streda",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

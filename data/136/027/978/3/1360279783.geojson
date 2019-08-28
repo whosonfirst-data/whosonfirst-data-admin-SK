@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.11024,48.65525,17.15024,48.69525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Smolinsk\u00e9"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0435"
     ],
-    "name:und_x_variant":[
-        "Smolinsk\u00e9"
-    ],
     "name:war_x_preferred":[
         "Smolinsk\u00e9"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1360279783,
-    "wof:lastmodified":1564311092,
+    "wof:lastmodified":1566645679,
     "wof:name":"Smolinske",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

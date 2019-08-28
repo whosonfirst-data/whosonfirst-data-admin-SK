@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.78168,49.31935,20.82168,49.35935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mal\u00fd Lipn\u00edk"
     ],
@@ -77,8 +81,7 @@
         "\u041c\u0430\u043b\u0438\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Malyj Lipnik",
-        "Mal\u00fd Lipn\u00edk"
+        "Malyj Lipnik"
     ],
     "name:war_x_preferred":[
         "Mal\u00fd Lipn\u00edk"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1242795847,
-    "wof:lastmodified":1564311365,
+    "wof:lastmodified":1566645971,
     "wof:name":"Maly Lipnik",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.59667,49.06333,19.63667,49.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrbica"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1243574099,
-    "wof:lastmodified":1564311352,
+    "wof:lastmodified":1566645965,
     "wof:name":"Vrbica",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"21.14198,48.72917,21.14198,48.72917",
     "geom:latitude":48.72917,
     "geom:longitude":21.14198,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.12198,48.70917,21.16198,48.74917",
     "lbl:latitude":48.72917,
     "lbl:longitude":21.14198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u041a\u043b\u0430\u0442\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ni\u017en\u00ed Tejke\u0161"
     ],
     "name:war_x_preferred":[
@@ -100,7 +104,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821262,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1126011445,
-    "wof:lastmodified":1563254922,
+    "wof:lastmodified":1566645912,
     "wof:name":"Ni\u017en\u00fd Kl\u00e1tov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

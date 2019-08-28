@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.786523,
     "lbl:longitude":17.113531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.786523,
     "mps:longitude":17.113531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u043f\u0447\u0430\u043d\u044b"
     ],
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0447\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hegyi"
     ],
     "name:war_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":174,
     "wof:belongsto":[
         102191581,
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":724454,
         "gp:id":820301,
-        "qs:id":6,
-        "qs_pg:id":190926,
+        "qs_pg:id":6,
         "wd:id":"Q683855",
         "wk:page":"Kop\u010dany"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":190926
     },
     "wof:country":"SK",
     "wof:geomhash":"6896813464785c074a710ff578c5285e",
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":101781583,
-    "wof:lastmodified":1563254517,
+    "wof:lastmodified":1566645787,
     "wof:name":"Kop\u010dany",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

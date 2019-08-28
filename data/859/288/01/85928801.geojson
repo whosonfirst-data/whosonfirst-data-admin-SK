@@ -9,14 +9,16 @@
     "geom:bbox":"16.984887,48.17459,16.984887,48.17459",
     "geom:latitude":48.17459,
     "geom:longitude":16.984887,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:latitude":48.17444,
     "gn:longitude":16.98418,
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"16.979887,48.16959,16.989887,48.17959",
     "lbl:latitude":48.17459,
     "lbl:longitude":16.984887,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.171589,
     "mps:longitude":16.983916,
     "mz:hierarchy_label":0,
@@ -92,12 +94,8 @@
     "name:und_x_colloquial":[
         "Devin"
     ],
-    "name:und_x_preferred":[
-        "Dev\u00edn"
-    ],
-    "name:unk_x_variant":[
-        "Deven",
-        "Dev\u00edn"
+    "name:und_x_variant":[
+        "Deven"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u6587"
@@ -162,7 +160,6 @@
     "wof:concordances":{
         "gn:id":3077172,
         "gp:id":29402278,
-        "qs:id":906557,
         "qs_pg:id":906557,
         "wd:id":"Q661046",
         "wk:page":"Dev\u00edn"
@@ -183,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566645445,
     "wof:name":"Dev\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

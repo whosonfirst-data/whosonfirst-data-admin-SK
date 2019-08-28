@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.70007,47.77809,17.74007,47.81809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kulcsod",
         "Kl\u2019\u00fa\u010dovec"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293201181,
-    "wof:lastmodified":1537700414,
+    "wof:lastmodified":1566645490,
     "wof:name":"Kl'ucovec",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

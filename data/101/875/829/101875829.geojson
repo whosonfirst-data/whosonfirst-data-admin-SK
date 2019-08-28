@@ -10,12 +10,16 @@
     "geom:latitude":48.932273,
     "geom:longitude":20.947603,
     "iso:country":"SK",
+    "lbl:bbox":"20.927603,48.912273,20.967603,48.952273",
     "lbl:latitude":48.932273,
     "lbl:longitude":20.947603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.932273,
     "mps:longitude":20.947603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kluknava"
     ],
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
         102191581,
@@ -106,7 +110,6 @@
     "wof:concordances":{
         "gn:id":724491,
         "gp:id":820217,
-        "qs:id":1060685,
         "qs_pg:id":1060685,
         "wd:id":"Q937408",
         "wk:page":"Kluknava"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101875829,
-    "wof:lastmodified":1563254187,
+    "wof:lastmodified":1566645695,
     "wof:name":"Kluknava",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

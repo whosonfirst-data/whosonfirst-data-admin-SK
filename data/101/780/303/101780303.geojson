@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.145245,
     "lbl:longitude":19.246155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.145245,
     "mps:longitude":19.246155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Komjatn\u00e1"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3059429,
         "gp:id":820279,
-        "qs:id":402443,
+        "qs_pg:id":402443,
         "wd:id":"Q630432",
         "wk:page":"Komjatn\u00e1"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101780303,
-    "wof:lastmodified":1563254629,
+    "wof:lastmodified":1566645814,
     "wof:name":"Komjatn\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

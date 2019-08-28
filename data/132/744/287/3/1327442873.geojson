@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.70008,48.49351,21.74008,48.53351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kysta"
     ],
@@ -74,8 +78,7 @@
         "\u041a\u0438\u0441\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "Kista",
-        "Kysta"
+        "Kista"
     ],
     "name:war_x_preferred":[
         "Kysta"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1327442873,
-    "wof:lastmodified":1564310513,
+    "wof:lastmodified":1566645363,
     "wof:name":"Kysta",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

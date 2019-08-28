@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.73847,48.8529,18.77847,48.8929",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Budi\u0161"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u0438\u0448"
     ],
-    "name:und_x_variant":[
-        "Budi\u0161"
-    ],
     "name:war_x_preferred":[
         "Budi\u0161"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1327329259,
-    "wof:lastmodified":1564310473,
+    "wof:lastmodified":1566645341,
     "wof:name":"Budis",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

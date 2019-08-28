@@ -9,14 +9,18 @@
     "geom:bbox":"17.52283,47.93359,17.52283,47.93359",
     "geom:latitude":47.93359,
     "geom:longitude":17.52283,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.50283,47.91359,17.54283,47.95359",
     "lbl:latitude":47.93359,
     "lbl:longitude":17.52283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Jurov\u00e1"
@@ -66,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u042e\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Dercsika"
-    ],
     "name:war_x_preferred":[
         "Jurov\u00e1"
     ],
@@ -92,7 +93,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":820076,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Trnavsky",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1125774247,
-    "wof:lastmodified":1563254982,
+    "wof:lastmodified":1566645932,
     "wof:name":"Jurov\u00e1",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

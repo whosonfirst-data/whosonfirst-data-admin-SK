@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.045219,
     "lbl:longitude":21.016437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.045219,
     "mps:longitude":21.016437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hermanovce"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u043c\u0430\u043d\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_preferred":[
-        "Hermanovce"
-    ],
     "name:war_x_preferred":[
         "Hermanovce"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191581,
@@ -110,7 +110,7 @@
         "fct:id":"070bf5d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":724715,
         "gp:id":29399902,
-        "qs:id":204539,
+        "qs_pg:id":204539,
         "wd:id":"Q1186904",
         "wk:page":"Hermanovce"
     },
@@ -129,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254237,
+    "wof:lastmodified":1566645708,
     "wof:name":"Hermanovce",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

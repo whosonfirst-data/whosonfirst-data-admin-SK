@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.546833,
     "lbl:longitude":19.470788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.546833,
     "mps:longitude":19.470788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Koryt\u00e1rky"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29402676,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1045559"
     },
     "wof:country":"SK",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101782781,
-    "wof:lastmodified":1563254407,
+    "wof:lastmodified":1566645756,
     "wof:name":"Koryt\u00e1rky",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.04499,
     "lbl:longitude":18.634087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.04499,
     "mps:longitude":18.634087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0420\u0430\u0435\u0446\u043a\u0430 \u041b\u0435\u0441\u043d\u0430"
     ],
@@ -74,13 +77,8 @@
         "Fryvald-Trstena",
         "Rajecka Lesna"
     ],
-    "name:und_x_preferred":[
-        "Rajeck\u00e1 Lesn\u00e1"
-    ],
     "name:und_x_variant":[
-        "Fr\u00fdvald-Trsten\u00e1"
-    ],
-    "name:unk_x_variant":[
+        "Fr\u00fdvald-Trsten\u00e1",
         "Trsten\u00e1"
     ],
     "name:war_x_preferred":[
@@ -101,7 +99,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
         102191581,
@@ -114,7 +112,7 @@
         "fct:id":"07100c4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057909,
         "gp:id":821891,
-        "qs:id":1140389,
+        "qs_pg:id":1140389,
         "wd:id":"Q1004056",
         "wk:page":"Rajeck\u00e1 Lesn\u00e1"
     },
@@ -133,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254196,
+    "wof:lastmodified":1566645697,
     "wof:name":"Rajeck\u00e1 Lesn\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

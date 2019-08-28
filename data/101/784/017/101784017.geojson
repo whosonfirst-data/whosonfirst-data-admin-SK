@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.438971,
     "lbl:longitude":17.427718,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.438971,
     "mps:longitude":17.427718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Doln\u00e9 Ore\u0161any"
     ],
@@ -72,14 +75,8 @@
         "Dolni Oresany",
         "Dolnie Oresany"
     ],
-    "name:und_x_preferred":[
-        "Doln\u00e9 Ore\u0161any"
-    ],
     "name:und_x_variant":[
         "Dolnie Ore\u0161any",
-        "Doln\u00ed Ore\u0161any"
-    ],
-    "name:unk_x_variant":[
         "Doln\u00ed Ore\u0161any"
     ],
     "name:war_x_preferred":[
@@ -105,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -118,7 +115,6 @@
         "fct:id":"070e8c0c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3060453,
         "gp:id":819212,
-        "qs:id":190866,
         "qs_pg:id":190866,
         "wd:id":"Q664033",
         "wk:page":"Doln\u00e9 Ore\u0161any"
@@ -138,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254458,
+    "wof:lastmodified":1566645770,
     "wof:name":"Doln\u00e9 Ore\u0161any",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

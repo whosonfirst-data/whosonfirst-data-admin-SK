@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.85149,48.38645,19.89149,48.42645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hrn\u010diarske Zalu\u017eany"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043d\u0447'\u044f\u0440\u0441\u043a\u0435 \u0417\u0430\u043b\u0443\u0436\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Hrn\u010diarske Zalu\u017eany"
-    ],
     "name:war_x_preferred":[
         "Hrn\u010diarske Zalu\u017eany"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1209932151,
-    "wof:lastmodified":1564310899,
+    "wof:lastmodified":1566645575,
     "wof:name":"Hrnciarske Zaluzany",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

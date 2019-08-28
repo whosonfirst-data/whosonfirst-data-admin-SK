@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.137,
     "lbl:longitude":20.990305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.137,
     "mps:longitude":20.990305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ro\u017ekovany"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0436\u043a\u043e\u0432\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ro\u0161koviany"
     ],
     "name:war_x_preferred":[
@@ -92,7 +95,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":723715,
         "gp:id":822004,
-        "qs:id":402847,
+        "qs_pg:id":402847,
         "wd:id":"Q542562",
         "wk:page":"Ro\u017ekovany"
     },
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101843961,
-    "wof:lastmodified":1563254231,
+    "wof:lastmodified":1566645706,
     "wof:name":"Ro\u017ekovany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

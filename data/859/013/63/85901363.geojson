@@ -9,14 +9,16 @@
     "geom:bbox":"17.113921,48.064424,17.113921,48.064424",
     "geom:latitude":48.064424,
     "geom:longitude":17.113921,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:latitude":48.06498,
     "gn:longitude":17.11303,
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.108921,48.059424,17.118921,48.069424",
     "lbl:latitude":48.064424,
     "lbl:longitude":17.113921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.072596,
     "mps:longitude":17.10254,
     "mz:hierarchy_label":0,
@@ -91,16 +93,6 @@
     "name:und_x_colloquial":[
         "Horbatjarfalu"
     ],
-    "name:und_x_preferred":[
-        "Jarovce"
-    ],
-    "name:und_x_variant":[
-        "Horb\u00e1tj\u00e1rfalu"
-    ],
-    "name:unk_x_variant":[
-        "Kroatisch Jahrndorf",
-        "Jarovce"
-    ],
     "name:zho_x_preferred":[
         "\u96c5\u7f85\u7dad\u7b56"
     ],
@@ -166,7 +158,6 @@
     "wof:concordances":{
         "gn:id":3059704,
         "gp:id":820012,
-        "qs:id":2895,
         "qs_pg:id":2895,
         "wd:id":"Q1055697",
         "wk:page":"Jarovce"
@@ -187,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247523,
+    "wof:lastmodified":1566645443,
     "wof:name":"Jarovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.70529,48.36381,21.74529,48.40381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Klin nad Bodrogom"
     ],
@@ -71,7 +75,6 @@
         "\u041a\u043b\u0456\u043d-\u043d\u0430\u0434-\u0411\u043e\u0434\u0440\u043e\u0491\u043e\u043c"
     ],
     "name:und_x_variant":[
-        "Bodrogsz\u00f6g",
         "Kl\u00edn nad Bodrogom"
     ],
     "name:war_x_preferred":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1259887495,
-    "wof:lastmodified":1564311476,
+    "wof:lastmodified":1566646023,
     "wof:name":"Klin nad Bodrogom",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

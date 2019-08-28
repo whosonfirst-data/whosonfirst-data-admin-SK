@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.276752,
     "lbl:longitude":17.823365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.276752,
     "mps:longitude":17.823365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pata"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3058262,
         "gp:id":821517,
-        "qs:id":1181737,
         "qs_pg:id":1181737,
         "wd:id":"Q971016",
         "wk:page":"Pata, Galanta District"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101785193,
-    "wof:lastmodified":1563254317,
+    "wof:lastmodified":1566645731,
     "wof:name":"Pata",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

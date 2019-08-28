@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.76097,49.02239,21.80097,49.06239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ko\u0161arovce"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448\u0430\u0440\u043e\u0432\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "Ko\u0161arovce"
-    ],
     "name:war_x_preferred":[
         "Ko\u0161arovce"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1226347125,
-    "wof:lastmodified":1564311509,
+    "wof:lastmodified":1566646038,
     "wof:name":"Kosarovce",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

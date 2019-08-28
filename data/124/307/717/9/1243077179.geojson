@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.61556,48.55975,19.65556,48.59975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "L\u00e1tky"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0442\u043a\u0438"
     ],
-    "name:und_x_variant":[
-        "L\u00e1tky"
-    ],
     "name:war_x_preferred":[
         "L\u00e1tky"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1243077179,
-    "wof:lastmodified":1564311290,
+    "wof:lastmodified":1566645940,
     "wof:name":"Latky",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

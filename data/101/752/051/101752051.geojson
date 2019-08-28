@@ -13,6 +13,8 @@
     "iso:country":"SK",
     "lbl:latitude":48.372598,
     "lbl:longitude":17.59065,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.372598,
     "mps:longitude":17.59065,
     "mz:hierarchy_label":1,
@@ -228,12 +230,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u0430\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Trnava"
-    ],
-    "name:unk_x_variant":[
-        "Nagyszombat"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0646\u0648\u0627"
     ],
@@ -355,7 +351,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.366667,
     "wd:longitude":17.583333,
@@ -371,7 +367,6 @@
         "fct:id":"07107e54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057124,
         "gp:id":822721,
-        "qs:id":239944,
         "qs_pg:id":239944,
         "wd:id":"Q26175",
         "wk:page":"Trnava"
@@ -391,7 +386,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254169,
+    "wof:lastmodified":1566645690,
     "wof:name":"Trnava",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

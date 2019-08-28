@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.418844,
     "lbl:longitude":20.325475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.418844,
     "mps:longitude":20.325475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u0627\u0644\u0627"
     ],
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u043d\u0430\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160af\u00e1rikovo"
     ],
     "name:war_x_preferred":[
@@ -127,7 +130,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.416667,
     "wd:longitude":20.333333,
     "wd:wordcount":154,
@@ -141,7 +144,7 @@
     "wof:concordances":{
         "gn:id":723365,
         "gp:id":822684,
-        "qs:id":494653,
+        "qs_pg:id":494653,
         "wd:id":"Q909291",
         "wk:page":"Torna\u013ea"
     },
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101784137,
-    "wof:lastmodified":1563254452,
+    "wof:lastmodified":1566645769,
     "wof:name":"Torna\u013ea",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

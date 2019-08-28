@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.41781,49.07588,19.45781,49.11588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Liptovsk\u00fd Michal"
     ],
@@ -71,8 +75,7 @@
         "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438 \u041c\u0438\u0445\u0430\u043b"
     ],
     "name:und_x_variant":[
-        "Sv\u00e4t\u00fd Michal",
-        "Liptovsk\u00fd Michal"
+        "Sv\u00e4t\u00fd Michal"
     ],
     "name:war_x_preferred":[
         "Liptovsk\u00fd Michal"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1225841975,
-    "wof:lastmodified":1564311580,
+    "wof:lastmodified":1566646070,
     "wof:name":"Liptovsky Michal",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

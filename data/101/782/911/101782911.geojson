@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.700939,
     "lbl:longitude":20.893115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.700939,
     "mps:longitude":20.893115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0434\u0437\u0435\u0432"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0437\u0435\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unter-Metzenseifen"
     ],
     "name:war_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.700278,
     "wd:longitude":20.892778,
@@ -146,7 +149,6 @@
     "wof:concordances":{
         "gn:id":724159,
         "gp:id":820980,
-        "qs:id":1277164,
         "qs_pg:id":1277164,
         "wd:id":"Q135727",
         "wk:page":"Medzev"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101782911,
-    "wof:lastmodified":1563254404,
+    "wof:lastmodified":1566645756,
     "wof:name":"Medzev",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.554505,
     "lbl:longitude":17.96817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.554505,
     "mps:longitude":17.96817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nitrianska Blatnica"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u040a\u0438\u0442\u0440\u0430\u043d\u0441\u043a\u0430 \u0411\u043b\u0430\u0442\u045a\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160arfia"
     ],
     "name:war_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":293,
     "wof:belongsto":[
         102191581,
@@ -108,10 +111,12 @@
     "wof:concordances":{
         "gn:id":3061058,
         "gp:id":818633,
-        "qs:id":1271477,
         "qs_pg:id":385622,
         "wd:id":"Q921520",
         "wk:page":"Nitrianska Blatnica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1271477
     },
     "wof:country":"SK",
     "wof:geomhash":"a69d4c045f15e170eddde058824e5dc4",
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101784057,
-    "wof:lastmodified":1563254462,
+    "wof:lastmodified":1566645771,
     "wof:name":"Nitrianska Blatnica",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

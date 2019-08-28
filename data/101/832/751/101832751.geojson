@@ -14,10 +14,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.119632,
     "lbl:longitude":20.449486,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.119632,
     "mps:longitude":20.449486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u013dubica"
     ],
@@ -102,7 +105,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":724265,
         "gp:id":820721,
-        "qs:id":1233366,
+        "qs_pg:id":1233366,
         "wd:id":"Q344678"
     },
     "wof:country":"SK",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101832751,
-    "wof:lastmodified":1563254274,
+    "wof:lastmodified":1566645718,
     "wof:name":"\u013dubica",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

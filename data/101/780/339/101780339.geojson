@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.084946,
     "lbl:longitude":18.520098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.084946,
     "mps:longitude":18.520098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pre\u010d\u00edn"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3058035,
         "gp:id":821770,
-        "qs:id":402776,
+        "qs_pg:id":402776,
         "wd:id":"Q282751",
         "wk:page":"Pre\u010d\u00edn"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101780339,
-    "wof:lastmodified":1563254575,
+    "wof:lastmodified":1566645800,
     "wof:name":"Pre\u010d\u00edn",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

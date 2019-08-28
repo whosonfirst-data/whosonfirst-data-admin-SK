@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.2604,48.29366,20.3004,48.33366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010c\u00ed\u017e"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u0436"
     ],
-    "name:und_x_variant":[
-        "\u010c\u00ed\u017e"
-    ],
     "name:war_x_preferred":[
         "\u010c\u00ed\u017e"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1293901355,
-    "wof:lastmodified":1564310665,
+    "wof:lastmodified":1566645459,
     "wof:name":"Ciz",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

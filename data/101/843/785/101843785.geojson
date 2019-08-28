@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.36879,
     "lbl:longitude":19.623201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.36879,
     "mps:longitude":19.623201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tom\u00e1\u0161ovce"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3057180,
         "gp:id":822668,
-        "qs:id":1271779,
+        "qs_pg:id":1271779,
         "wd:id":"Q394663"
     },
     "wof:country":"SK",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101843785,
-    "wof:lastmodified":1563254222,
+    "wof:lastmodified":1566645703,
     "wof:name":"Tom\u00e1\u0161ovce",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

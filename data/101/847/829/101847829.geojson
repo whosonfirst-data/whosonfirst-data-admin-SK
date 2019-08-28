@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.386978,
     "lbl:longitude":19.467937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.386978,
     "mps:longitude":19.467937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vavre\u010dka"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3056949,
         "gp:id":822886,
-        "qs:id":1271831,
+        "qs_pg:id":1271831,
         "wd:id":"Q970656",
         "wk:page":"Vavre\u010dka"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101847829,
-    "wof:lastmodified":1563254471,
+    "wof:lastmodified":1566645774,
     "wof:name":"Vavre\u010dka",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

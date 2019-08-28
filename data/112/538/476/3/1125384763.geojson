@@ -9,15 +9,18 @@
     "geom:bbox":"21.65216,49.20211,21.65216,49.20211",
     "geom:latitude":49.20211,
     "geom:longitude":21.65216,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10874,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:population":10874,
     "iso:country":"SK",
+    "lbl:bbox":"21.55216,49.10211,21.75216,49.30211",
     "lbl:latitude":49.20211,
     "lbl:longitude":21.65216,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0648\u0628\u0643\u0648\u0641"
@@ -100,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u043e\u043f\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "Sztropk\u00f3"
-    ],
     "name:war_x_preferred":[
         "Stropkov"
     ],
@@ -131,7 +131,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":29399578,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1125384763,
-    "wof:lastmodified":1564311255,
+    "wof:lastmodified":1566645903,
     "wof:name":"Stropkov",
     "wof:parent_id":102080613,
     "wof:placetype":"localadmin",

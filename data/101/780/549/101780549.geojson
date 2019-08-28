@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.33554,
     "lbl:longitude":19.556494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.33554,
     "mps:longitude":19.556494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0641\u0631\u062f\u0648\u0634\u064a\u0646"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0432\u0440\u0434\u043e\u0448\u0456\u043d"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Tvrdosin"
     ],
     "name:war_x_preferred":[
@@ -137,7 +140,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.336944,
     "wd:longitude":19.550278,
@@ -153,7 +156,7 @@
         "fct:id":"070da5d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057063,
         "gp:id":29401832,
-        "qs:id":905516,
+        "qs_pg:id":905516,
         "wd:id":"Q509715",
         "wk:page":"Tvrdo\u0161\u00edn"
     },
@@ -172,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254673,
+    "wof:lastmodified":1566645823,
     "wof:name":"Tvrdo\u0161\u00edn",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

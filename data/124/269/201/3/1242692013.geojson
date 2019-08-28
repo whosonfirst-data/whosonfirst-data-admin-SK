@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.89403,48.2136,19.93403,48.2536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160urice"
     ],
@@ -68,8 +72,7 @@
         "\u0428\u0443\u0440\u0456\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "S\u00f6reg",
-        "\u0160urice"
+        "S\u00f6reg"
     ],
     "name:war_x_preferred":[
         "\u0160urice"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1242692013,
-    "wof:lastmodified":1564311343,
+    "wof:lastmodified":1566645962,
     "wof:name":"Surice",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

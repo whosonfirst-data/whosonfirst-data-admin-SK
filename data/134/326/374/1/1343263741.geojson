@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.9578,48.63073,20.9978,48.67073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Debra\u010f"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0430\u0434\u044c"
     ],
-    "name:und_x_variant":[
-        "Debra\u010f",
-        "Debr\u0151d"
-    ],
     "name:war_x_preferred":[
         "Debra\u010f"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1343263741,
-    "wof:lastmodified":1564310638,
+    "wof:lastmodified":1566645438,
     "wof:name":"Debrad'",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

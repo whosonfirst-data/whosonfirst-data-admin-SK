@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.844374,
     "lbl:longitude":18.259113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.844374,
     "mps:longitude":18.259113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sv\u00e4t\u00fd Peter"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u044f\u0442\u0438\u0439 \u041f\u0435\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doln\u00fd Peter"
     ],
     "name:war_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3057294,
         "gp:id":822566,
-        "qs:id":1139379,
         "qs_pg:id":1139379,
         "wd:id":"Q587720",
         "wk:page":"Sv\u00e4t\u00fd Peter"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101787467,
-    "wof:lastmodified":1563254562,
+    "wof:lastmodified":1566645798,
     "wof:name":"Sv\u00e4t\u00fd Peter",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

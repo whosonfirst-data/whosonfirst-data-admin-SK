@@ -10,8 +10,10 @@
     "geom:latitude":48.169299,
     "geom:longitude":17.167937,
     "iso:country":"SK",
+    "lbl:bbox":"17.162937,48.164299,17.172937,48.174299",
     "lbl:latitude":48.169299,
     "lbl:longitude":17.167937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.142192,
     "mps:longitude":17.155181,
     "mz:hierarchy_label":0,
@@ -75,12 +77,6 @@
     "name:und_x_colloquial":[
         "Trnavka"
     ],
-    "name:und_x_preferred":[
-        "Trn\u00e1vka"
-    ],
-    "name:unk_x_variant":[
-        "Trn\u00e1vka"
-    ],
     "qs:gn_adm0_cc":"SK",
     "qs:gn_id":0,
     "qs:gn_local":3060972,
@@ -138,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645443,
     "wof:name":"Trn\u00e1vka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

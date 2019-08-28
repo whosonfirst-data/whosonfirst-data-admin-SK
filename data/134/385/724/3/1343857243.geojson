@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.12327,48.89562,21.16327,48.93562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Such\u00e1 Dolina"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1343857243,
-    "wof:lastmodified":1564310575,
+    "wof:lastmodified":1566645407,
     "wof:name":"Sucha Dolina",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

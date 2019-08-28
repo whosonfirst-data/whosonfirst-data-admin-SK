@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.96419,48.04297,19.00419,48.08297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tesm\u00e1g",
         "Te\u0161m\u00e1k"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209739649,
-    "wof:lastmodified":1537700385,
+    "wof:lastmodified":1566645583,
     "wof:name":"Tesmak",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

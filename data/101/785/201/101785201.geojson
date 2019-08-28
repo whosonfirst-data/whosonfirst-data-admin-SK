@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.241846,
     "lbl:longitude":17.693601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.241846,
     "mps:longitude":17.693601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0643\u0627 \u0645\u0627\u0643\u0627"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0430 \u041c\u0430\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nagy-M\u00e1cs\u00e9d"
     ],
     "name:war_x_preferred":[
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":189,
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":3056912,
         "gp:id":822924,
-        "qs:id":1161741,
+        "qs_pg:id":1161741,
         "wd:id":"Q301581",
         "wk:page":"Ve\u013ek\u00e1 Ma\u010da"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101785201,
-    "wof:lastmodified":1563254346,
+    "wof:lastmodified":1566645739,
     "wof:name":"Ve\u013ek\u00e1 Ma\u010da",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

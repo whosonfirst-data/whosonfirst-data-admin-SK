@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.38082,48.12342,18.42082,48.16342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Be\u0161a"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0435\u0448\u0430"
     ],
-    "name:und_x_variant":[
-        "Be\u0161a"
-    ],
     "name:war_x_preferred":[
         "Be\u0161a"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1344257333,
-    "wof:lastmodified":1564310552,
+    "wof:lastmodified":1566645395,
     "wof:name":"Besa",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

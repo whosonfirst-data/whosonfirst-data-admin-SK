@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.8496,49.26466,20.8896,49.30466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Orlov"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1326629239,
-    "wof:lastmodified":1564310500,
+    "wof:lastmodified":1566645357,
     "wof:name":"Orlov",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

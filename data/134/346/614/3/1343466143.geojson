@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.26787,48.67905,22.30787,48.71905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hus\u00e1k"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343466143,
-    "wof:lastmodified":1537700367,
+    "wof:lastmodified":1566645402,
     "wof:name":"Husak",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

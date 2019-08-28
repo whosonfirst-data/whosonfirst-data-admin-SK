@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.7672,49.24535,18.8072,49.28535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sne\u017enica"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0421\u045a\u0435\u0436\u045a\u0438\u0446\u0430"
     ],
-    "name:und_x_variant":[
-        "Sne\u017enica"
-    ],
     "name:war_x_preferred":[
         "Sne\u017enica"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1309796661,
-    "wof:lastmodified":1564311144,
+    "wof:lastmodified":1566645830,
     "wof:name":"Sneznica",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

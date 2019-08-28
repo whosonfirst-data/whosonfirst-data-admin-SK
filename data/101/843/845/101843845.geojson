@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.892906,
     "lbl:longitude":17.956919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.892906,
     "mps:longitude":17.956919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Drietoma"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":129,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3060356,
         "gp:id":819309,
-        "qs:id":184062,
+        "qs_pg:id":184062,
         "wd:id":"Q910353",
         "wk:page":"Drietoma"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101843845,
-    "wof:lastmodified":1563254205,
+    "wof:lastmodified":1566645699,
     "wof:name":"Drietoma",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

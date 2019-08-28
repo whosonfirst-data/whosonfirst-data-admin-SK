@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.885448,
     "lbl:longitude":18.402448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.885448,
     "mps:longitude":18.402448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0412\u0430\u043b\u0430\u0441\u043a\u0430 \u0411\u044d\u043b\u0430"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":192,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3056979,
         "gp:id":822861,
-        "qs:id":258010,
+        "qs_pg:id":258010,
         "wd:id":"Q611257",
         "wk:page":"Valask\u00e1 Bel\u00e1"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101781689,
-    "wof:lastmodified":1563254484,
+    "wof:lastmodified":1566645778,
     "wof:name":"Valask\u00e1 Bel\u00e1",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

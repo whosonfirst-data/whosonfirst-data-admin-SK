@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.34617,48.098,17.38617,48.138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cakany"
     ],
@@ -74,8 +78,7 @@
         "\u0427\u0430\u043a\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
-        "Czakany",
-        "\u010cakany"
+        "Czakany"
     ],
     "name:war_x_preferred":[
         "\u010cakany"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1276971045,
-    "wof:lastmodified":1564310829,
+    "wof:lastmodified":1566645542,
     "wof:name":"Cakany",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

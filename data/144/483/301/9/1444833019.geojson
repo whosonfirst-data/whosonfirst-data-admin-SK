@@ -10,8 +10,10 @@
     "geom:latitude":48.163841,
     "geom:longitude":17.110045,
     "iso:country":"SK",
+    "lbl:bbox":"17.1050451014,48.1588407631,17.1150451014,48.1688407631",
     "lbl:latitude":48.163841,
     "lbl:longitude":17.110045,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
         1108800123,
-        102080459,
-        85688373
+        102080459
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444833019,
-    "wof:lastmodified":1566337258,
+    "wof:lastmodified":1566645593,
     "wof:name":"Straze",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

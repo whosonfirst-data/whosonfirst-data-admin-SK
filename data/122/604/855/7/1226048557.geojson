@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.34688,48.77273,18.38688,48.81273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rakovec"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1226048557,
-    "wof:lastmodified":1564311518,
+    "wof:lastmodified":1566646042,
     "wof:name":"Rakovec",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

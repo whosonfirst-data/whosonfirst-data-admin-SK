@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.150369,
     "lbl:longitude":18.756017,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.150369,
     "mps:longitude":18.756017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Turie"
     ],
@@ -70,10 +73,7 @@
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0458\u0435"
     ],
-    "name:und_x_preferred":[
-        "Turie"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turo"
     ],
     "name:war_x_preferred":[
@@ -97,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191581,
@@ -110,7 +110,7 @@
         "fct:id":"070bfa46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057080,
         "gp:id":29399921,
-        "qs:id":207477,
+        "qs_pg:id":207477,
         "wd:id":"Q590295",
         "wk:page":"Turie"
     },
@@ -129,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254680,
+    "wof:lastmodified":1566645825,
     "wof:name":"Turie",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

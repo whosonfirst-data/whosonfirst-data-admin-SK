@@ -10,12 +10,16 @@
     "geom:latitude":48.357771,
     "geom:longitude":17.935072,
     "iso:country":"SK",
+    "lbl:bbox":"17.915072,48.337771,17.955072,48.377771",
     "lbl:latitude":48.357771,
     "lbl:longitude":17.935072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.357771,
     "mps:longitude":17.935072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Alek\u0161ince"
     ],
@@ -67,7 +71,7 @@
     "name:srp_x_preferred":[
         "\u0410\u0459\u0435\u043a\u0448\u0438\u043d\u0446\u0435"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Aleksince"
     ],
     "name:war_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.366667,
     "wd:longitude":17.95,
     "wd:wordcount":613,
@@ -109,7 +113,6 @@
         "fct:id":"070d2f2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061265,
         "gp:id":818433,
-        "qs:id":270706,
         "qs_pg:id":270706,
         "wd:id":"Q547367",
         "wk:page":"Alek\u0161ince"
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254292,
+    "wof:lastmodified":1566645724,
     "wof:name":"Alek\u0161ince",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

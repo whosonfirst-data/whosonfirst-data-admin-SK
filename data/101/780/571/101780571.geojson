@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.187503,
     "lbl:longitude":20.455846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.187503,
     "mps:longitude":20.455846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u0634\u0633\u0643\u0627 \u0628\u064a\u0644\u0627"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.183333,
     "wd:longitude":20.45,
@@ -148,7 +151,6 @@
     "wof:concordances":{
         "gn:id":723529,
         "gp:id":822355,
-        "qs:id":1226013,
         "qs_pg:id":1226013,
         "wd:id":"Q605059"
     },
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101780571,
-    "wof:lastmodified":1563254673,
+    "wof:lastmodified":1566645824,
     "wof:name":"Spi\u0161sk\u00e1 Bel\u00e1",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

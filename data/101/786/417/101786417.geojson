@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.060131,
     "lbl:longitude":17.828221,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.060131,
     "mps:longitude":17.828221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u043b\u044c\u043e\u0432 \u0411\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Kir\u00e1lyr\u00e9v"
-    ],
     "name:war_x_preferred":[
         "Kr\u00e1\u013eov Brod"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":180,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3059303,
         "gp:id":820389,
-        "qs:id":1271295,
+        "qs_pg:id":1271295,
         "wd:id":"Q579457",
         "wk:page":"Kr\u00e1\u013eov Brod"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":101786417,
-    "wof:lastmodified":1563254542,
+    "wof:lastmodified":1566645792,
     "wof:name":"Kr\u00e1\u013eov Brod",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

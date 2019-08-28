@@ -9,15 +9,18 @@
     "geom:bbox":"19.82473,48.26757,19.82473,48.26757",
     "geom:latitude":48.26757,
     "geom:longitude":19.82473,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10198,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
     "gn:population":10198,
     "iso:country":"SK",
+    "lbl:bbox":"19.80473,48.24757,19.84473,48.28757",
     "lbl:latitude":48.26757,
     "lbl:longitude":19.82473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0643\u0648\u0641\u0648"
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u043b\u044f\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Filek"
     ],
     "name:urd_x_preferred":[
@@ -154,7 +157,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":819430,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1125769547,
-    "wof:lastmodified":1563254952,
+    "wof:lastmodified":1566645920,
     "wof:name":"Fil\u0315akovo",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

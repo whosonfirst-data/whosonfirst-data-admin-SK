@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.17881,48.33113,20.21881,48.37113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vieska nad Blhom"
     ],
@@ -68,8 +72,7 @@
         "\u0412'\u0454\u0441\u043a\u0430-\u043d\u0430\u0434-\u0411\u043b\u0433\u043e\u043c"
     ],
     "name:und_x_variant":[
-        "Balog-Ujfalu",
-        "Vieska nad Blhom"
+        "Balog-Ujfalu"
     ],
     "name:war_x_preferred":[
         "Vieska nad Blhom"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1293407837,
-    "wof:lastmodified":1564310683,
+    "wof:lastmodified":1566645470,
     "wof:name":"Vieska nad Blhom",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

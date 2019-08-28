@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.06333,49.36333,19.10333,49.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chmura"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260278951,
-    "wof:lastmodified":1564310985,
+    "wof:lastmodified":1566645625,
     "wof:name":"Chmura",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

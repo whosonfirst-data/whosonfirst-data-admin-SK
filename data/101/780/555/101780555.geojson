@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.366433,
     "lbl:longitude":19.789215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.366433,
     "mps:longitude":19.789215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Such\u00e1 Hora"
     ],
@@ -70,9 +73,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0443\u0445\u0430 \u0425\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Sucha G\u00f3ra"
-    ],
     "name:war_x_preferred":[
         "Such\u00e1 Hora"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3057368,
         "gp:id":822499,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1022840",
         "wk:page":"Such\u00e1 Hora"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101780555,
-    "wof:lastmodified":1563254629,
+    "wof:lastmodified":1566645814,
     "wof:name":"Such\u00e1 Hora",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

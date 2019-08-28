@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.238964,
     "lbl:longitude":18.944828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.238964,
     "mps:longitude":18.944828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bel\u00e1"
     ],
@@ -70,9 +73,6 @@
     "name:und_x_colloquial":[
         "Bela"
     ],
-    "name:und_x_preferred":[
-        "Bel\u00e1"
-    ],
     "name:war_x_preferred":[
         "Bel\u00e1"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -105,7 +105,6 @@
         "fct:id":"070e2f50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061146,
         "gp:id":818552,
-        "qs:id":462491,
         "qs_pg:id":462491,
         "wd:id":"Q747067",
         "wk:page":"Bel\u00e1, \u017dilina District"
@@ -125,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254507,
+    "wof:lastmodified":1566645784,
     "wof:name":"Bel\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

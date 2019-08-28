@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.155403,
     "lbl:longitude":18.171498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.155403,
     "mps:longitude":18.171498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Komjatice"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3059430,
         "gp:id":820278,
-        "qs:id":883508,
+        "qs_pg:id":883508,
         "wd:id":"Q261162",
         "wk:page":"Komjatice"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101785173,
-    "wof:lastmodified":1563254330,
+    "wof:lastmodified":1566645735,
     "wof:name":"Komjatice",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

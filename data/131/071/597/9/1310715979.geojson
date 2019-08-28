@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.21913,48.45141,20.25913,48.49141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ra\u0161ice"
     ],
@@ -65,8 +69,7 @@
         "\u0420\u0430\u0448\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "R\u00e1s",
-        "Ra\u0161ice"
+        "R\u00e1s"
     ],
     "name:war_x_preferred":[
         "Ra\u0161ice"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1310715979,
-    "wof:lastmodified":1564311013,
+    "wof:lastmodified":1566645640,
     "wof:name":"Rasice",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

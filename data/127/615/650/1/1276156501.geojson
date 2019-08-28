@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.57651,47.82973,18.61651,47.86973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u013dub\u00e1"
     ],
@@ -62,7 +66,6 @@
         "\u0409\u0443\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "Lib\u00e1d",
         "\u013eub\u00e1"
     ],
     "name:war_x_preferred":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1276156501,
-    "wof:lastmodified":1564310817,
+    "wof:lastmodified":1566645536,
     "wof:name":"l'uba",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

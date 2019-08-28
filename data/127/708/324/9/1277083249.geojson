@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.42245,48.17895,17.46245,48.21895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Papk\u00f6rm\u00f6sd"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277083249,
-    "wof:lastmodified":1537700410,
+    "wof:lastmodified":1566645504,
     "wof:name":"Krmes",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.03391,48.57854,19.07391,48.61854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Turov\u00e1"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043e\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Turov\u00e1"
-    ],
     "name:war_x_preferred":[
         "Turov\u00e1"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1209833205,
-    "wof:lastmodified":1564310870,
+    "wof:lastmodified":1566645562,
     "wof:name":"Turova",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

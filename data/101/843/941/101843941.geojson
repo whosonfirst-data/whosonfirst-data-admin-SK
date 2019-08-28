@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.235782,
     "lbl:longitude":19.462361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.235782,
     "mps:longitude":19.462361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Chlebnice"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3060735,
         "gp:id":818952,
-        "qs:id":1247675,
         "qs_pg:id":1247675,
         "wd:id":"Q860882",
         "wk:page":"Chlebnice"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101843941,
-    "wof:lastmodified":1563254220,
+    "wof:lastmodified":1566645703,
     "wof:name":"Chlebnice",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

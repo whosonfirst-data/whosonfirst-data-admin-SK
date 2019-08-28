@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.47668,48.67806,17.51668,48.71806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bukovec"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1193276027,
-    "wof:lastmodified":1564310963,
+    "wof:lastmodified":1566645615,
     "wof:name":"Bukovec",
     "wof:parent_id":102080515,
     "wof:placetype":"locality",

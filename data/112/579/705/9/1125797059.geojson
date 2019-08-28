@@ -9,14 +9,18 @@
     "geom:bbox":"21.62335,48.51595,21.62335,48.51595",
     "geom:latitude":48.51595,
     "geom:longitude":21.62335,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.60335,48.49595,21.64335,48.53595",
     "lbl:latitude":48.51595,
     "lbl:longitude":21.62335,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Micha\u013eany"
@@ -78,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mih\u00e1lyi"
     ],
     "name:war_x_preferred":[
@@ -103,7 +107,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821005,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1125797059,
-    "wof:lastmodified":1563254970,
+    "wof:lastmodified":1566645928,
     "wof:name":"Michal\u0315any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

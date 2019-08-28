@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.01608,48.44894,18.05608,48.48894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010cermany"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0427\u0435\u0440\u043c\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "\u010cermany"
-    ],
     "name:war_x_preferred":[
         "\u010cermany"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1310111817,
-    "wof:lastmodified":1564311044,
+    "wof:lastmodified":1566645655,
     "wof:name":"Cermany",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

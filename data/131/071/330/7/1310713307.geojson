@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.44076,48.63645,20.48076,48.67645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rakovnica"
     ],
@@ -68,8 +72,7 @@
         "\u0420\u0430\u043a\u043e\u0432\u043d\u0456\u0446\u0430"
     ],
     "name:und_x_variant":[
-        "Reke\u0148a",
-        "Rakovnica"
+        "Reke\u0148a"
     ],
     "name:war_x_preferred":[
         "Rakovnica"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1310713307,
-    "wof:lastmodified":1564311012,
+    "wof:lastmodified":1566645640,
     "wof:name":"Rakovnica",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

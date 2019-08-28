@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.379365,
     "lbl:longitude":16.855066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.379365,
     "mps:longitude":16.855066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1horsk\u00e1 Ves"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.38,
     "wd:longitude":16.8444,
     "wd:wordcount":136,
@@ -129,7 +132,7 @@
     "wof:concordances":{
         "gn:id":3062010,
         "gp:id":823429,
-        "qs:id":940160,
+        "qs_pg:id":940160,
         "wd:id":"Q246760",
         "wk:page":"Z\u00e1horsk\u00e1 Ves"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101913499,
-    "wof:lastmodified":1563254466,
+    "wof:lastmodified":1566645773,
     "wof:name":"Z\u00e1horsk\u00e1 Ves",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

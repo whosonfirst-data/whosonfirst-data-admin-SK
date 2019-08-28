@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.61504,48.96965,21.65504,49.00965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Michalok"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1243386389,
-    "wof:lastmodified":1564311293,
+    "wof:lastmodified":1566645941,
     "wof:name":"Michalok",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

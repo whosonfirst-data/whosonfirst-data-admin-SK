@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.800847,
     "lbl:longitude":18.111205,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.800847,
     "mps:longitude":18.111205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tren\u010dianske Jastrabie"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0447\u0438\u043d\u0441\u043a\u0435 \u0408\u0430\u0441\u0442\u0440\u0430\u0431\u0458\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jastrabie"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3057142,
         "gp:id":822711,
-        "qs:id":184282,
+        "qs_pg:id":184282,
         "wd:id":"Q544343",
         "wk:page":"Tren\u010dianske Jastrabie"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101843837,
-    "wof:lastmodified":1563254247,
+    "wof:lastmodified":1566645711,
     "wof:name":"Tren\u010dianske Jastrabie",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

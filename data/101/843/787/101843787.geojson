@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.357366,
     "lbl:longitude":19.654941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.357366,
     "mps:longitude":19.654941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vidin\u00e1"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3056786,
         "gp:id":823036,
-        "qs:id":403034,
+        "qs_pg:id":403034,
         "wd:id":"Q262709",
         "wk:page":"Vidin\u00e1"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101843787,
-    "wof:lastmodified":1563254257,
+    "wof:lastmodified":1566645713,
     "wof:name":"Vidin\u00e1",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

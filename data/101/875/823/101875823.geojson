@@ -10,12 +10,16 @@
     "geom:latitude":48.578051,
     "geom:longitude":18.148567,
     "iso:country":"SK",
+    "lbl:bbox":"18.128567,48.558051,18.168567,48.598051",
     "lbl:latitude":48.578051,
     "lbl:longitude":18.148567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.578051,
     "mps:longitude":18.148567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tovarn\u00edky"
     ],
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3057167,
         "gp:id":822690,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1071163",
         "wk:page":"Tovarn\u00edky"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":101875823,
-    "wof:lastmodified":1563254191,
+    "wof:lastmodified":1566645696,
     "wof:name":"Tovarn\u00edky",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.31463,48.08935,18.35463,48.12935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ple\u0161any",
         "Sen\u010da",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259783977,
-    "wof:lastmodified":1537700387,
+    "wof:lastmodified":1566646007,
     "wof:name":"Svatusa",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

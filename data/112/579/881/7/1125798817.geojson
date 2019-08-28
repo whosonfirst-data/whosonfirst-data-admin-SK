@@ -9,14 +9,18 @@
     "geom:bbox":"20.33844,48.87115,20.33844,48.87115",
     "geom:latitude":48.87115,
     "geom:longitude":20.33844,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"20.31844,48.85115,20.35844,48.89115",
     "lbl:latitude":48.87115,
     "lbl:longitude":20.33844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Straten\u00e1"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0442\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ztraten\u00e1"
     ],
     "name:war_x_preferred":[
@@ -100,7 +104,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":822444,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1125798817,
-    "wof:lastmodified":1563254968,
+    "wof:lastmodified":1566645927,
     "wof:name":"Straten\u00e1",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

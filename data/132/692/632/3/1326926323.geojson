@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.24471,49.17433,19.28471,49.21433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326926323,
-    "wof:lastmodified":1536913765,
+    "wof:lastmodified":1566645323,
     "wof:name":"Zabrez",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

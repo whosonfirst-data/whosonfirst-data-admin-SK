@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.40151,48.14979,18.44151,48.18979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "I\u0148a"
     ],
@@ -68,8 +72,7 @@
         "\u0418\u045a\u0430"
     ],
     "name:und_x_variant":[
-        "Eny",
-        "I\u0148a"
+        "Eny"
     ],
     "name:war_x_preferred":[
         "I\u0148a"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1277080179,
-    "wof:lastmodified":1564310753,
+    "wof:lastmodified":1566645505,
     "wof:name":"Ina",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

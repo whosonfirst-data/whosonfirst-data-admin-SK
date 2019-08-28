@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.225897,
     "lbl:longitude":18.055912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.225897,
     "mps:longitude":18.055912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sv\u00e4toplukovo"
     ],
@@ -64,10 +67,8 @@
     "name:srp_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043e\u043f\u043b\u0443\u043a\u043e\u0432\u043e"
     ],
-    "name:und_x_preferred":[
-        "Svatoplukovo"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Svatoplukovo",
         "\u0160algov"
     ],
     "name:war_x_preferred":[
@@ -91,7 +92,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
         102191581,
@@ -104,7 +105,7 @@
         "fct:id":"070d538c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057314,
         "gp:id":822543,
-        "qs:id":494585,
+        "qs_pg:id":494585,
         "wd:id":"Q964046",
         "wk:page":"Sv\u00e4toplukovo"
     },
@@ -123,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254307,
+    "wof:lastmodified":1566645728,
     "wof:name":"Sv\u00e4toplukovo",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"19.95395,48.57257,19.95395,48.57257",
     "geom:latitude":48.57257,
     "geom:longitude":19.95395,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"19.93395,48.55257,19.97395,48.59257",
     "lbl:latitude":48.57257,
     "lbl:longitude":19.95395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0646\u0648\u0634\u062a\u0627"
@@ -111,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043d\u0443\u0448\u0442\u044f"
     ],
-    "name:unk_x_variant":[
-        "Hn\u00fa\u0161\u0165a"
-    ],
     "name:war_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
@@ -139,7 +140,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":819620,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Banskobystricky",
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1126050033,
-    "wof:lastmodified":1563254798,
+    "wof:lastmodified":1566645863,
     "wof:name":"Hn\u00fa\u0161t\u0315a",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

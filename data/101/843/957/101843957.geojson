@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.985107,
     "lbl:longitude":21.587521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.985107,
     "mps:longitude":21.587521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161n\u00fd \u017dipov"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u0456\u0439 \u0416\u0438\u043f\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slovensk\u00fd \u017dipov"
     ],
     "name:war_x_preferred":[
@@ -95,7 +98,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":723124,
         "gp:id":823232,
-        "qs:id":1271912,
+        "qs_pg:id":1271912,
         "wd:id":"Q580369",
         "wk:page":"Vy\u0161n\u00fd \u017dipov"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101843957,
-    "wof:lastmodified":1563254230,
+    "wof:lastmodified":1566645706,
     "wof:name":"Vy\u0161n\u00fd \u017dipov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

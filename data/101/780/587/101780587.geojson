@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.25727,
     "lbl:longitude":20.531723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.25727,
     "mps:longitude":20.531723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Podol\u00ednec"
     ],
@@ -205,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.25,
     "wd:longitude":20.533333,
@@ -220,7 +223,6 @@
     "wof:concordances":{
         "gn:id":723866,
         "gp:id":821670,
-        "qs:id":874050,
         "qs_pg:id":874050,
         "wd:id":"Q852324",
         "wk:page":"Podol\u00ednec"
@@ -237,7 +239,7 @@
         }
     ],
     "wof:id":101780587,
-    "wof:lastmodified":1563254624,
+    "wof:lastmodified":1566645813,
     "wof:name":"Podol\u00ednec",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

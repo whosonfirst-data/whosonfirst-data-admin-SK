@@ -9,14 +9,18 @@
     "geom:bbox":"22.10592,48.68952,22.10592,48.68952",
     "geom:latitude":48.68952,
     "geom:longitude":22.10592,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"22.08592,48.66952,22.12592,48.70952",
     "lbl:latitude":48.68952,
     "lbl:longitude":22.10592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Blatn\u00e1 Polianka"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blatn\u00e1 Po\u013eanka"
     ],
     "name:war_x_preferred":[
@@ -98,7 +102,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":818629,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1125866947,
-    "wof:lastmodified":1563254819,
+    "wof:lastmodified":1566645870,
     "wof:name":"Blatn\u00e1 Polianka",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

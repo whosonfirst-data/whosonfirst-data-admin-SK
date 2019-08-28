@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.35613,48.56762,21.39613,48.60762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sk\u00e1ro\u0161"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0430\u0440\u043e\u0448"
     ],
-    "name:und_x_variant":[
-        "Sk\u00e1ro\u0161"
-    ],
     "name:war_x_preferred":[
         "Sk\u00e1ro\u0161"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1360297067,
-    "wof:lastmodified":1564311094,
+    "wof:lastmodified":1566645681,
     "wof:name":"Skaros",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

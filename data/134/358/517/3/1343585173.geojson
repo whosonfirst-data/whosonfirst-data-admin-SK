@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.35898,48.74368,18.39898,48.78368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Uhrovsk\u00e9 Podhradie"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u0440\u043e\u0432\u0441\u044c\u043a\u0435 \u041f\u043e\u0434\u0433\u0440\u0430\u0434\u044c\u0454"
     ],
-    "name:und_x_variant":[
-        "Uhrovsk\u00e9 Podhradie"
-    ],
     "name:war_x_preferred":[
         "Uhrovsk\u00e9 Podhradie"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343585173,
-    "wof:lastmodified":1564310605,
+    "wof:lastmodified":1566645420,
     "wof:name":"Uhrovske Podhradie",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

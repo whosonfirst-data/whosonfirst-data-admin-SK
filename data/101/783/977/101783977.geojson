@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.243844,
     "lbl:longitude":18.537076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.243844,
     "mps:longitude":18.537076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Star\u00fd Tekov"
     ],
@@ -64,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0422\u0458\u0435\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d3 Bars"
     ],
     "name:war_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3057466,
         "gp:id":822406,
-        "qs:id":383710,
         "qs_pg:id":383710,
         "wd:id":"Q1071480",
         "wk:page":"Star\u00fd Tekov"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101783977,
-    "wof:lastmodified":1563254418,
+    "wof:lastmodified":1566645759,
     "wof:name":"Star\u00fd Tekov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

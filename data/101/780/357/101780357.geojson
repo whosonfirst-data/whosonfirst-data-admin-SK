@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.054422,
     "lbl:longitude":19.647838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.054422,
     "mps:longitude":19.647838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1va\u017en\u00e1 Poruba"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":111,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3056571,
         "gp:id":823311,
-        "qs:id":261890,
+        "qs_pg:id":261890,
         "wd:id":"Q1072473",
         "wk:page":"Z\u00e1va\u017en\u00e1 Poruba"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101780357,
-    "wof:lastmodified":1563254628,
+    "wof:lastmodified":1566645813,
     "wof:name":"Z\u00e1va\u017en\u00e1 Poruba",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

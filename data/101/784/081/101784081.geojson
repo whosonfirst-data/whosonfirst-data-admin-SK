@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.609276,
     "lbl:longitude":18.436216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.609276,
     "mps:longitude":18.436216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Uherce"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0435 \u0423\u0433\u0435\u0440\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uherce"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3056855,
         "gp:id":822982,
-        "qs:id":1182102,
+        "qs_pg:id":1182102,
         "wd:id":"Q681718",
         "wk:page":"Ve\u013ek\u00e9 Uherce"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101784081,
-    "wof:lastmodified":1563254456,
+    "wof:lastmodified":1566645769,
     "wof:name":"Ve\u013ek\u00e9 Uherce",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

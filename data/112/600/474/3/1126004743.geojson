@@ -9,14 +9,18 @@
     "geom:bbox":"19.1532,48.08914,19.1532,48.08914",
     "geom:latitude":48.08914,
     "geom:longitude":19.1532,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"19.1332,48.06914,19.1732,48.10914",
     "lbl:latitude":48.08914,
     "lbl:longitude":19.1532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Dolinka"
@@ -66,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "In\u00e1m"
-    ],
     "name:war_x_preferred":[
         "Dolinka"
     ],
@@ -91,7 +92,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":819156,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Banskobystricky",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1126004743,
-    "wof:lastmodified":1563254938,
+    "wof:lastmodified":1566645916,
     "wof:name":"Dolinka",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

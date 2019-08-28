@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.79329,48.31619,17.83329,48.35619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160algo\u010dka"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u0491\u043e\u0447\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0160algo\u010dka"
-    ],
     "name:war_x_preferred":[
         "\u0160algo\u010dka"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1293780853,
-    "wof:lastmodified":1564310684,
+    "wof:lastmodified":1566645471,
     "wof:name":"Salgocka",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

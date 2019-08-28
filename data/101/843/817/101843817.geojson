@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.657463,
     "lbl:longitude":20.188196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.657463,
     "mps:longitude":20.188196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Luben\u00edk"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":724266,
         "gp:id":820719,
-        "qs:id":1271381,
+        "qs_pg:id":1271381,
         "wd:id":"Q1073053",
         "wk:page":"Luben\u00edk"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101843817,
-    "wof:lastmodified":1563254207,
+    "wof:lastmodified":1566645700,
     "wof:name":"Luben\u00edk",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

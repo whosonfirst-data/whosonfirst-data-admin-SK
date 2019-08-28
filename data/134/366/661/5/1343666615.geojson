@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.99556,49.11227,21.03556,49.15227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jakubova Vo\u013ea"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043a\u0443\u0431\u043e\u0432\u0430 \u0412\u043e\u043b\u044f"
     ],
-    "name:und_x_variant":[
-        "Jakubova Vo\u013ea"
-    ],
     "name:war_x_preferred":[
         "Jakubova Vo\u013ea"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343666615,
-    "wof:lastmodified":1564310590,
+    "wof:lastmodified":1566645413,
     "wof:name":"Jakubova Vol'a",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

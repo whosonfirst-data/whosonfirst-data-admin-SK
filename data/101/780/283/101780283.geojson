@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.920228,
     "lbl:longitude":20.876858,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.920228,
     "mps:longitude":20.876858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0645\u0628\u0627\u062e\u064a"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u043c\u043f\u0430\u0445\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krompachi"
     ],
     "name:war_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.916667,
     "wd:longitude":20.874444,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":724377,
         "gp:id":820459,
-        "qs:id":1085590,
         "qs_pg:id":1085590,
         "wd:id":"Q842018",
         "wk:page":"Krompachy"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101780283,
-    "wof:lastmodified":1563254642,
+    "wof:lastmodified":1566645817,
     "wof:name":"Krompachy",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.183832,
     "lbl:longitude":18.459151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.183832,
     "mps:longitude":18.459151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lok"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3059029,
         "gp:id":820692,
-        "qs:id":1271378,
+        "qs_pg:id":1271378,
         "wd:id":"Q1008204",
         "wk:page":"Lok, Levice District"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101783985,
-    "wof:lastmodified":1563254420,
+    "wof:lastmodified":1566645760,
     "wof:name":"Lok",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

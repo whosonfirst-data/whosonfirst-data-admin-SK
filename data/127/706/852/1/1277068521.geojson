@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.35416,47.98264,17.39416,48.02264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "B\u00e1\u010d"
     ],
@@ -74,8 +78,7 @@
         "\u0411\u0430\u0447"
     ],
     "name:und_x_variant":[
-        "Ba\u010dfa",
-        "B\u00e1\u010d"
+        "Ba\u010dfa"
     ],
     "name:war_x_preferred":[
         "B\u00e1\u010d"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1277068521,
-    "wof:lastmodified":1564310751,
+    "wof:lastmodified":1566645504,
     "wof:name":"Bac",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.529545,
     "lbl:longitude":19.44529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.529545,
     "mps:longitude":19.44529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kriv\u00e1\u0148"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3059273,
         "gp:id":820438,
-        "qs:id":940027,
+        "qs_pg:id":940027,
         "wd:id":"Q1073894",
         "wk:page":"Kriv\u00e1\u0148 (village)"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101843801,
-    "wof:lastmodified":1563254248,
+    "wof:lastmodified":1566645711,
     "wof:name":"Kriv\u00e1\u0148",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

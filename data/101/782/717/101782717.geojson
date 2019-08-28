@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.476525,
     "lbl:longitude":17.782246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.476525,
     "mps:longitude":17.782246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Madunice"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":677,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3058930,
         "gp:id":820792,
-        "qs:id":267273,
         "qs_pg:id":267273,
         "wd:id":"Q578477",
         "wk:page":"Madunice"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101782717,
-    "wof:lastmodified":1563254408,
+    "wof:lastmodified":1566645757,
     "wof:name":"Madunice",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

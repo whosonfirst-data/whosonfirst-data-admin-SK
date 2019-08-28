@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.85349,48.54476,20.89349,48.58476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chorv\u00e1ty"
     ],
@@ -68,8 +72,7 @@
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
     ],
     "name:und_x_variant":[
-        "Horv\u00e1ty",
-        "Chorv\u00e1ty"
+        "Horv\u00e1ty"
     ],
     "name:war_x_preferred":[
         "Chorv\u00e1ty"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1242589123,
-    "wof:lastmodified":1564311338,
+    "wof:lastmodified":1566645959,
     "wof:name":"Chorvaty",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

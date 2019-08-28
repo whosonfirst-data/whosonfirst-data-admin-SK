@@ -9,14 +9,18 @@
     "geom:bbox":"18.92035,48.20406,18.92035,48.20406",
     "geom:latitude":48.20406,
     "geom:longitude":18.92035,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"18.90035,48.18406,18.94035,48.22406",
     "lbl:latitude":48.20406,
     "lbl:longitude":18.92035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Hontianske Tes\u00e1re"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043d\u0442\u044c\u044f\u043d\u0441\u044c\u043a\u0435 \u0422\u0435\u0441\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hontianske Tes\u00e1ry"
     ],
     "name:war_x_preferred":[
@@ -101,7 +105,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":819642,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Banskobystricky",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1125823267,
-    "wof:lastmodified":1563254951,
+    "wof:lastmodified":1566645920,
     "wof:name":"Hontianske Tes\u00e1re",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

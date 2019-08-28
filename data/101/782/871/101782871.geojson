@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.404384,
     "lbl:longitude":21.81014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.404384,
     "mps:longitude":21.81014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Somotor"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":157,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":723538,
         "gp:id":822345,
-        "qs:id":402907,
+        "qs_pg:id":402907,
         "wd:id":"Q545621",
         "wk:page":"Somotor"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101782871,
-    "wof:lastmodified":1563254395,
+    "wof:lastmodified":1566645753,
     "wof:name":"Somotor",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

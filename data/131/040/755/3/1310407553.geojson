@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.30135,48.72665,21.34135,48.76665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hra\u0161ov\u00edk"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0448\u043e\u0432\u0456\u043a"
     ],
-    "name:und_x_variant":[
-        "Hra\u0161ov\u00edk"
-    ],
     "name:war_x_preferred":[
         "Hra\u0161ov\u00edk"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1310407553,
-    "wof:lastmodified":1564311016,
+    "wof:lastmodified":1566645642,
     "wof:name":"Hrasovik",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

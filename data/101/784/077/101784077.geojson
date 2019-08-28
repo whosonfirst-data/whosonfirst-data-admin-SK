@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.496392,
     "lbl:longitude":18.157118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.496392,
     "mps:longitude":18.157118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kovarce"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3059334,
         "gp:id":820367,
-        "qs:id":402458,
+        "qs_pg:id":402458,
         "wd:id":"Q920956",
         "wk:page":"Kovarce"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101784077,
-    "wof:lastmodified":1563254432,
+    "wof:lastmodified":1566645764,
     "wof:name":"Kovarce",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

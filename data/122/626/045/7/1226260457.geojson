@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.4516,48.48444,19.4916,48.52444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0632\u0648\u0648"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1226260457,
-    "wof:lastmodified":1564311495,
+    "wof:lastmodified":1566646032,
     "wof:name":"Brezovo",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.44872,49.12668,19.48872,49.16668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Liptovsk\u00e1 Anna"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1360296033,
-    "wof:lastmodified":1564311095,
+    "wof:lastmodified":1566645681,
     "wof:name":"Liptovska Anna",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

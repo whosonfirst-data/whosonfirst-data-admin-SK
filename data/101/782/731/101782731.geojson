@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.504307,
     "lbl:longitude":17.000802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.504307,
     "mps:longitude":17.000802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Lev\u00e1re"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":651,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3056870,
         "gp:id":822961,
-        "qs:id":280968,
+        "qs_pg:id":280968,
         "wd:id":"Q780356",
         "wk:page":"Ve\u013ek\u00e9 Lev\u00e1re"
     },
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101782731,
-    "wof:lastmodified":1563254359,
+    "wof:lastmodified":1566645743,
     "wof:name":"Ve\u013ek\u00e9 Lev\u00e1re",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

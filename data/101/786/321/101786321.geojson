@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.053639,
     "lbl:longitude":17.457513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.053639,
     "mps:longitude":17.457513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lehnice"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0433\u043d\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "L\u00e9g"
-    ],
     "name:war_x_preferred":[
         "Lehnice"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":300,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3059127,
         "gp:id":820596,
-        "qs:id":998276,
+        "qs_pg:id":998276,
         "wd:id":"Q672690",
         "wk:page":"Lehnice"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":101786321,
-    "wof:lastmodified":1563254549,
+    "wof:lastmodified":1566645794,
     "wof:name":"Lehnice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

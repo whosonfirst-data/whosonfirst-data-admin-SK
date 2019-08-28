@@ -10,8 +10,10 @@
     "geom:latitude":48.203538,
     "geom:longitude":16.998818,
     "iso:country":"SK",
+    "lbl:bbox":"16.9938178518,48.1985375477,17.0038178518,48.2085375477",
     "lbl:latitude":48.203538,
     "lbl:longitude":16.998818,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85688373,
         102191581,
         85633769,
-        102080461,
-        85688373
+        102080461
     ],
     "wof:breaches":[],
     "wof:country":"SK",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833349,
-    "wof:lastmodified":1566337289,
+    "wof:lastmodified":1566645595,
     "wof:name":"Vapenka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

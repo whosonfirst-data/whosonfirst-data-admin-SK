@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.43227,49.236,21.47227,49.276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160a\u0161ov\u00e1"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0448\u043e\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0160a\u0161ov\u00e1"
-    ],
     "name:war_x_preferred":[
         "\u0160a\u0161ov\u00e1"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1276368949,
-    "wof:lastmodified":1564310839,
+    "wof:lastmodified":1566645546,
     "wof:name":"Sasova",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

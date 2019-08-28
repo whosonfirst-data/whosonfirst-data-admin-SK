@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.81282,48.59216,20.85282,48.63216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1diel"
     ],
@@ -75,8 +79,7 @@
         "\u0417\u0430\u0434\u0456\u0435\u043b"
     ],
     "name:und_x_variant":[
-        "Szadelo",
-        "Z\u00e1diel"
+        "Szadelo"
     ],
     "name:war_x_preferred":[
         "Z\u00e1diel"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1276982387,
-    "wof:lastmodified":1564310836,
+    "wof:lastmodified":1566645544,
     "wof:name":"Zadiel",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

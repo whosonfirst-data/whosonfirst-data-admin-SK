@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.33635,
     "lbl:longitude":17.392633,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.33635,
     "mps:longitude":17.392633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vi\u0161tuk"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":601,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3056751,
         "gp:id":823073,
-        "qs:id":184300,
+        "qs_pg:id":184300,
         "wd:id":"Q932547",
         "wk:page":"Vi\u0161tuk"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101785211,
-    "wof:lastmodified":1563254318,
+    "wof:lastmodified":1566645732,
     "wof:name":"Vi\u0161tuk",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

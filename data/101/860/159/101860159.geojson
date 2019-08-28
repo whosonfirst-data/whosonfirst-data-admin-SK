@@ -10,12 +10,16 @@
     "geom:latitude":49.151886,
     "geom:longitude":18.673277,
     "iso:country":"SK",
+    "lbl:bbox":"18.653277,49.131886,18.693277,49.171886",
     "lbl:latitude":49.151886,
     "lbl:longitude":18.673277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.151886,
     "mps:longitude":18.673277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
     ],
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191581,
@@ -98,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29402573,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1045107"
     },
     "wof:country":"SK",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":101860159,
-    "wof:lastmodified":1563254283,
+    "wof:lastmodified":1566645721,
     "wof:name":"Lietavsk\u00e1 Svinn\u00e1 - Babkov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

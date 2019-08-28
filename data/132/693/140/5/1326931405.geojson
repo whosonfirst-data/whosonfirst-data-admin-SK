@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.87592,48.09942,18.91592,48.13942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tup\u00e1"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1326931405,
-    "wof:lastmodified":1564310443,
+    "wof:lastmodified":1566645323,
     "wof:name":"Tupa",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

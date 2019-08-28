@@ -12,8 +12,10 @@
     "gn:latitude":48.12331,
     "gn:longitude":17.12866,
     "iso:country":"SK",
+    "lbl:bbox":"17.106455,48.110554,17.116455,48.120554",
     "lbl:latitude":48.115554,
     "lbl:longitude":17.111455,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.112491,
     "mps:longitude":17.101974,
     "mz:hierarchy_label":0,
@@ -92,13 +94,6 @@
     "name:und_x_colloquial":[
         "Petrzalka"
     ],
-    "name:und_x_preferred":[
-        "Petr\u017ealka"
-    ],
-    "name:unk_x_variant":[
-        "Engerau",
-        "Petr\u017ealka"
-    ],
     "name:zho_x_preferred":[
         "\u4f69\u7279\u624e\u723e\u5361"
     ],
@@ -147,7 +142,6 @@
     "wof:concordances":{
         "gn:id":3058213,
         "gp:id":821575,
-        "qs:id":1145213,
         "qs_pg:id":1145213,
         "wd:id":"Q1013328",
         "wk:page":"Petr\u017ealka"
@@ -168,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645443,
     "wof:name":"Petr\u017ealka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

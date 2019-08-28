@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.061318,
     "lbl:longitude":18.334902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.061318,
     "mps:longitude":18.334902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Lovce"
     ],
@@ -61,7 +64,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0435 \u041b\u043e\u0432\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00f3t"
     ],
     "name:war_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":526,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":3056869,
         "gp:id":822962,
-        "qs:id":1013593,
+        "qs_pg:id":1013593,
         "wd:id":"Q941274",
         "wk:page":"Ve\u013ek\u00e9 Lovce"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101786357,
-    "wof:lastmodified":1563254536,
+    "wof:lastmodified":1566645791,
     "wof:name":"Ve\u013ek\u00e9 Lovce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

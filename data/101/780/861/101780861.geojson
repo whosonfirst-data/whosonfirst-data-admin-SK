@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.58744,
     "lbl:longitude":17.382358,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.58744,
     "mps:longitude":17.382358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cerov\u00e1"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":144,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3060773,
         "gp:id":818925,
-        "qs:id":402143,
+        "qs_pg:id":402143,
         "wd:id":"Q1020367"
     },
     "wof:country":"SK",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101780861,
-    "wof:lastmodified":1563254596,
+    "wof:lastmodified":1566645805,
     "wof:name":"Cerov\u00e1",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

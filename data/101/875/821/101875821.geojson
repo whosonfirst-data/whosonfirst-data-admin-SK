@@ -11,12 +11,16 @@
     "geom:longitude":18.649333,
     "gn:population":7505,
     "iso:country":"SK",
+    "lbl:bbox":"18.629333,48.399651,18.669333,48.439651",
     "lbl:latitude":48.419651,
     "lbl:longitude":18.649333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.419651,
     "mps:longitude":18.649333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0628\u0627\u0646\u0627"
     ],
@@ -101,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0411\u0430\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6nigsberg"
     ],
     "name:war_x_preferred":[
@@ -128,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.426667,
     "wd:longitude":18.639444,
@@ -143,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3058498,
         "gp:id":821278,
-        "qs:id":1042933,
         "qs_pg:id":1042933,
         "wd:id":"Q268463",
         "wk:page":"Nov\u00e1 Ba\u0148a"
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101875821,
-    "wof:lastmodified":1563254188,
+    "wof:lastmodified":1566645695,
     "wof:name":"Nov\u00e1 Ba\u0148a",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

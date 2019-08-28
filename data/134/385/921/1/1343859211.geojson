@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.80283,47.84339,17.84283,47.88339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brestovec"
     ],
@@ -71,8 +75,7 @@
         "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u0446"
     ],
     "name:und_x_variant":[
-        "Szilvas",
-        "Szilas"
+        "Szilvas"
     ],
     "name:war_x_preferred":[
         "Brestovec"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1343859211,
-    "wof:lastmodified":1564310577,
+    "wof:lastmodified":1566645408,
     "wof:name":"Brestovec",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

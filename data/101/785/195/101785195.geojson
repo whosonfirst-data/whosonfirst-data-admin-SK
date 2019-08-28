@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.247225,
     "lbl:longitude":17.619677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.247225,
     "mps:longitude":17.619677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Abrah\u00e1m"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3061278,
         "gp:id":818419,
-        "qs:id":915193,
+        "qs_pg:id":915193,
         "wd:id":"Q1070144",
         "wk:page":"Abrah\u00e1m"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101785195,
-    "wof:lastmodified":1563254315,
+    "wof:lastmodified":1566645731,
     "wof:name":"Abrah\u00e1m",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.38657,48.98061,20.42657,49.02061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vydrn\u00edk"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0434\u0440\u043d\u0438\u043a"
     ],
-    "name:und_x_variant":[
-        "Vydrn\u00edk"
-    ],
     "name:war_x_preferred":[
         "Vydrn\u00edk"
     ],
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1193049653,
-    "wof:lastmodified":1564310957,
+    "wof:lastmodified":1566645612,
     "wof:name":"Vydrnik",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.34556,47.96268,17.38556,48.00268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dobroho\u0161\u0165"
     ],
@@ -70,10 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0433\u043e\u0448\u0442\u044c"
     ],
-    "name:und_x_variant":[
-        "Doborgaz",
-        "Dobroho\u0161\u0165"
-    ],
     "name:war_x_preferred":[
         "Dobroho\u0161\u0165"
     ],
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1309897447,
-    "wof:lastmodified":1564311162,
+    "wof:lastmodified":1566645837,
     "wof:name":"Dobrohost'",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

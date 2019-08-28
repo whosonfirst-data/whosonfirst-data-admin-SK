@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.21698,48.75262,18.25698,48.79262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Podlu\u017eany"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u043b\u0443\u0436\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Podlu\u017eany"
-    ],
     "name:war_x_preferred":[
         "Podlu\u017eany"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343762521,
-    "wof:lastmodified":1564310579,
+    "wof:lastmodified":1566645409,
     "wof:name":"Podluzany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

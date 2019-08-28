@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.60628,48.15241,18.64628,48.19241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Dobog\u00f3"
     ],
     "name:und_x_variant":[
-        "Dobog\u00f3 Majer",
-        "Dobog\u00f3"
+        "Dobog\u00f3 Majer"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276253093,
-    "wof:lastmodified":1537700431,
+    "wof:lastmodified":1566645529,
     "wof:name":"Dobogo",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

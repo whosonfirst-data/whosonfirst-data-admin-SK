@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.00626,48.47181,20.04626,48.51181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lukovi\u0161tia"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u043e\u0432\u0456\u0448\u0442\u044c\u044f"
     ],
-    "name:und_x_variant":[
-        "Lukovi\u0161tia"
-    ],
     "name:war_x_preferred":[
         "Lukovi\u0161tia"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1292917539,
-    "wof:lastmodified":1564310714,
+    "wof:lastmodified":1566645485,
     "wof:name":"Lukovistia",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

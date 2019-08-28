@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.104141,
     "lbl:longitude":17.849601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.104141,
     "mps:longitude":17.849601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
@@ -70,9 +73,6 @@
     "name:srp_x_preferred":[
         "\u0422\u0458\u0435\u0448\u0435\u0452\u0438\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Pered"
-    ],
     "name:war_x_preferred":[
         "Te\u0161ed\u00edkovo"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3057205,
         "gp:id":822647,
-        "qs:id":1060749,
         "qs_pg:id":1060749,
         "wd:id":"Q545820",
         "wk:page":"Te\u0161ed\u00edkovo"
@@ -126,7 +125,7 @@
         }
     ],
     "wof:id":101786383,
-    "wof:lastmodified":1563254529,
+    "wof:lastmodified":1566645790,
     "wof:name":"Te\u0161ed\u00edkovo",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.19148,48.16006,18.23148,48.20006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00edle\u0161",
         "Doln\u00ed S\u00edle\u0161",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327134885,
-    "wof:lastmodified":1537700427,
+    "wof:lastmodified":1566645325,
     "wof:name":"Dolny Vinodol",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

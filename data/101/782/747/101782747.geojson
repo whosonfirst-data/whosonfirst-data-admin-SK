@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.475173,
     "lbl:longitude":18.934663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.475173,
     "mps:longitude":18.934663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bansk\u00e1 Bel\u00e1"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":165,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3061187,
         "gp:id":818510,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q806960",
         "wk:page":"Bansk\u00e1 Bel\u00e1"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101782747,
-    "wof:lastmodified":1563254375,
+    "wof:lastmodified":1566645748,
     "wof:name":"Bansk\u00e1 Bel\u00e1",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

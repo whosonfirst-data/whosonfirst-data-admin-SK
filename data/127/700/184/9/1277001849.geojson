@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.29702,49.16436,19.33702,49.20436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161n\u00fd Kub\u00edn"
     ],
@@ -75,8 +79,7 @@
     ],
     "name:und_x_variant":[
         "Horn\u00ed Kub\u00edn",
-        "Vy\u0161n\u00ed Kub\u00edn",
-        "Vy\u0161n\u00fd Kub\u00edn"
+        "Vy\u0161n\u00ed Kub\u00edn"
     ],
     "name:war_x_preferred":[
         "Vy\u0161n\u00fd Kub\u00edn"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1277001849,
-    "wof:lastmodified":1564310760,
+    "wof:lastmodified":1566645508,
     "wof:name":"Vysny Kubin",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

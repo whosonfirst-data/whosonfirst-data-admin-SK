@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.78441,48.18816,18.82441,48.22816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Hontn\u00e1das"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310406755,
-    "wof:lastmodified":1537700385,
+    "wof:lastmodified":1566645643,
     "wof:name":"Tekovske Trst'any",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

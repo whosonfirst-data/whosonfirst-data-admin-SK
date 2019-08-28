@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.50677,48.03288,18.54677,48.07288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "M\u00e1la\u0161"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0448"
     ],
-    "name:und_x_variant":[
-        "M\u00e1la\u0161"
-    ],
     "name:war_x_preferred":[
         "M\u00e1la\u0161"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1326536031,
-    "wof:lastmodified":1564310508,
+    "wof:lastmodified":1566645361,
     "wof:name":"Malas",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

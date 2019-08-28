@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.115338,
     "lbl:longitude":19.038213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.115338,
     "mps:longitude":19.038213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u0430\u043d\u0456"
     ],
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turany nad Vahom"
     ],
     "name:war_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.116667,
     "wd:longitude":19.05,
     "wd:wordcount":78,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3057089,
         "gp:id":822756,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1023443",
         "wk:page":"Turany"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780321,
-    "wof:lastmodified":1563254683,
+    "wof:lastmodified":1566645826,
     "wof:name":"Turany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

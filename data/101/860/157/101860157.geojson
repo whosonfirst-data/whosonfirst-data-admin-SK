@@ -10,12 +10,16 @@
     "geom:latitude":49.135159,
     "geom:longitude":19.081388,
     "iso:country":"SK",
+    "lbl:bbox":"19.061388,49.115159,19.101388,49.155159",
     "lbl:latitude":49.135159,
     "lbl:longitude":19.081388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.135159,
     "mps:longitude":19.081388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Krpe\u013eany"
     ],
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3059250,
         "gp:id":821918,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q589323",
         "wk:page":"Krpe\u013eany"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":101860157,
-    "wof:lastmodified":1563254282,
+    "wof:lastmodified":1566645721,
     "wof:name":"Krpe\u013eany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

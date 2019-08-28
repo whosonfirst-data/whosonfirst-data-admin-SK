@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.58002,
     "lbl:longitude":18.24652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.58002,
     "mps:longitude":18.24652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bo\u0161any"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":143,
     "wof:belongsto":[
         102191581,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3060986,
         "gp:id":818704,
-        "qs:id":1013144,
         "qs_pg:id":1013144,
         "wd:id":"Q288058",
         "wk:page":"Bo\u0161any"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101784089,
-    "wof:lastmodified":1563254453,
+    "wof:lastmodified":1566645769,
     "wof:name":"Bo\u0161any",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

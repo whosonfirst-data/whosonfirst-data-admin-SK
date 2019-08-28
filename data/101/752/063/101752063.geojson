@@ -13,6 +13,8 @@
     "iso:country":"SK",
     "lbl:latitude":49.214957,
     "lbl:longitude":18.734884,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":49.214957,
     "mps:longitude":18.734884,
     "mz:hierarchy_label":1,
@@ -252,15 +254,6 @@
     "name:und_x_colloquial":[
         "Zylina"
     ],
-    "name:und_x_preferred":[
-        "\u017dilina"
-    ],
-    "name:und_x_variant":[
-        "\u017bylina"
-    ],
-    "name:unk_x_variant":[
-        "\u017bylina"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u06cc\u0644\u06cc\u0646\u0627"
     ],
@@ -383,7 +376,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.216667,
     "wd:longitude":18.733333,
@@ -399,7 +392,6 @@
         "fct:id":"0710dfac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056508,
         "gp:id":823382,
-        "qs:id":803666,
         "qs_pg:id":803666,
         "wd:id":"Q25797",
         "wk:page":"\u017dilina"
@@ -419,7 +411,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254162,
+    "wof:lastmodified":1566645689,
     "wof:name":"\u017dilina",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

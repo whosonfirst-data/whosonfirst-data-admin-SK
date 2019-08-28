@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.22205,48.30118,20.26205,48.34118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Z\u00e1dor"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0434\u043e\u0440"
     ],
-    "name:und_x_variant":[
-        "Z\u00e1dor"
-    ],
     "name:war_x_preferred":[
         "Z\u00e1dor"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1343676109,
-    "wof:lastmodified":1564310608,
+    "wof:lastmodified":1566645421,
     "wof:name":"Zador",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.78804,
     "lbl:longitude":17.771988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.78804,
     "mps:longitude":17.771988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bzince pod Javorinou"
     ],
@@ -73,7 +76,7 @@
     "name:srp_x_preferred":[
         "\u0411\u0437\u0438\u043d\u0446\u0435 \u043f\u043e\u0434 \u0408\u0430\u0432\u043e\u0440\u0438\u043d\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bzince"
     ],
     "name:war_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3060847,
         "gp:id":818845,
-        "qs:id":292843,
         "qs_pg:id":292843,
         "wd:id":"Q592819",
         "wk:page":"Bzince pod Javorinou"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101781615,
-    "wof:lastmodified":1563254506,
+    "wof:lastmodified":1566645784,
     "wof:name":"Bzince pod Javorinou",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

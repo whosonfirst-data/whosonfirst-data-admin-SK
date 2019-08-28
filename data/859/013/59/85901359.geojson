@@ -11,8 +11,10 @@
     "geom:longitude":17.206436,
     "gn:id":"",
     "iso:country":"SK",
+    "lbl:bbox":"17.201436,48.199315,17.211436,48.209315",
     "lbl:latitude":48.204315,
     "lbl:longitude":17.206436,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.197924,
     "mps:longitude":17.212926,
     "mz:hierarchy_label":0,
@@ -82,14 +84,8 @@
     "name:und_x_colloquial":[
         "Dvornik"
     ],
-    "name:und_x_preferred":[
-        "Vajnory"
-    ],
     "name:und_x_variant":[
         "Dvorn\u00edk"
-    ],
-    "name:unk_x_variant":[
-        "Vajnory"
     ],
     "name:zho_min_nan_x_preferred":[
         "Vajnory"
@@ -137,7 +133,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":819406,
-        "qs:id":1153004,
         "qs_pg:id":1153004,
         "wd:id":"Q1091778"
     },
@@ -157,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566645441,
     "wof:name":"Vajnory",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

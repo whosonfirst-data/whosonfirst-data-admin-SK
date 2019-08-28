@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.56191,49.34431,21.60191,49.38431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kru\u017elov\u00e1"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u0436\u043b\u044c\u043e\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Kru\u017elov\u00e1"
-    ],
     "name:war_x_preferred":[
         "Kru\u017elov\u00e1"
     ],
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1259984675,
-    "wof:lastmodified":1564311406,
+    "wof:lastmodified":1566645992,
     "wof:name":"Kruzlova",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

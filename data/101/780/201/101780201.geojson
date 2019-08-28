@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.928704,
     "lbl:longitude":18.125367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.928704,
     "mps:longitude":18.125367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nesvady"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0441\u0432\u0430\u0434\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nasvad"
     ],
     "name:war_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":233,
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3058540,
         "gp:id":821197,
-        "qs:id":1181650,
         "qs_pg:id":1181650,
         "wd:id":"Q629313",
         "wk:page":"Nesvady"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101780201,
-    "wof:lastmodified":1563254664,
+    "wof:lastmodified":1566645821,
     "wof:name":"Nesvady",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

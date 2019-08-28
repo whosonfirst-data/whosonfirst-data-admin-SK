@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.67511,48.49895,21.71511,48.53895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hr\u010de\u013e"
     ],
@@ -77,8 +81,7 @@
         "\u0413\u0440\u0447\u0435\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Ger\u010de\u013e",
-        "Hr\u010de\u013e"
+        "Ger\u010de\u013e"
     ],
     "name:war_x_preferred":[
         "Hr\u010de\u013e"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1209222137,
-    "wof:lastmodified":1564310888,
+    "wof:lastmodified":1566645569,
     "wof:name":"Hrcel'",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

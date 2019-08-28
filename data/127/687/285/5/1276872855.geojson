@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.21021,48.68339,18.25021,48.72339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Chlievany"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0435 \u0425\u043b\u0454\u0432\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Ve\u013ek\u00e9 Chlievany"
-    ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Chlievany"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1276872855,
-    "wof:lastmodified":1564310780,
+    "wof:lastmodified":1566645518,
     "wof:name":"Vel'ke Chlievany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

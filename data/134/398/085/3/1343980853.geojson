@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.24693,49.35974,21.28693,49.39974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stebn\u00edk"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0431\u043d\u0438\u043a"
     ],
-    "name:und_x_variant":[
-        "Stebn\u00edk"
-    ],
     "name:war_x_preferred":[
         "Stebn\u00edk"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1343980853,
-    "wof:lastmodified":1564310540,
+    "wof:lastmodified":1566645389,
     "wof:name":"Stebnik",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.198917,
     "lbl:longitude":18.537732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.198917,
     "mps:longitude":18.537732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Predmier"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3058031,
         "gp:id":821774,
-        "qs:id":903484,
         "qs_pg:id":903484,
         "wd:id":"Q1091390",
         "wk:page":"Predmier"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101843923,
-    "wof:lastmodified":1563254223,
+    "wof:lastmodified":1566645703,
     "wof:name":"Predmier",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

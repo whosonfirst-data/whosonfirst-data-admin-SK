@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.41695,49.31131,20.45695,49.35131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e1 Lesn\u00e1"
     ],
@@ -74,8 +78,7 @@
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041b\u0435\u0441\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Rychvald",
-        "Ve\u013ek\u00e1 Lesn\u00e1"
+        "Rychvald"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e1 Lesn\u00e1"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1260187099,
-    "wof:lastmodified":1564310986,
+    "wof:lastmodified":1566645625,
     "wof:name":"Vel'ka Lesna",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

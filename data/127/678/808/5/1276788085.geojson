@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.70046,48.29259,17.74046,48.33259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fels\u0151cs\u00f6p\u00f6ny",
         "Horn\u00fd \u010cepen"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276788085,
-    "wof:lastmodified":1537700420,
+    "wof:lastmodified":1566645533,
     "wof:name":"Horny Cepen",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.3285,49.4123,21.3685,49.4523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vy\u0161n\u00e1 Polianka"
     ],
@@ -75,8 +79,7 @@
         "\u0412\u0438\u0448\u043d\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Vy\u0161n\u00e1 Po\u013eanka",
-        "Vy\u0161n\u00e1 Polianka"
+        "Vy\u0161n\u00e1 Po\u013eanka"
     ],
     "name:war_x_preferred":[
         "Vy\u0161n\u00e1 Polianka"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1276350437,
-    "wof:lastmodified":1564310793,
+    "wof:lastmodified":1566645525,
     "wof:name":"Vysna Polianka",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

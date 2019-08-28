@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.297245,
     "lbl:longitude":17.354011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.297245,
     "mps:longitude":17.354011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0160enkvice"
     ],
@@ -73,7 +76,7 @@
     "name:srp_x_preferred":[
         "\u0428\u0435\u043d\u043a\u0432\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ve\u013ek\u00e9-\u0160enkvice"
     ],
     "name:war_x_preferred":[
@@ -95,7 +98,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":561,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3056889,
         "gp:id":822943,
-        "qs:id":1140032,
+        "qs_pg:id":1140032,
         "wd:id":"Q391430",
         "wk:page":"\u0160enkvice"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101785213,
-    "wof:lastmodified":1563254341,
+    "wof:lastmodified":1566645738,
     "wof:name":"\u0160enkvice",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

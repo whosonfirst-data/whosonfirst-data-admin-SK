@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.532005,
     "lbl:longitude":21.074985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.532005,
     "mps:longitude":21.074985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Buzica"
     ],
@@ -67,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0437\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Buzita"
-    ],
     "name:war_x_preferred":[
         "Buzica"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:concordances":{
         "gn:id":725038,
         "gp:id":818824,
-        "qs:id":1270956,
+        "qs_pg:id":1270956,
         "wd:id":"Q263723",
         "wk:page":"Buzica"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101782921,
-    "wof:lastmodified":1563254411,
+    "wof:lastmodified":1566645757,
     "wof:name":"Buzica",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

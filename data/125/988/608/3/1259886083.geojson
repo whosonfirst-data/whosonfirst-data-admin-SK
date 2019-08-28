@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.1515,48.49091,18.1915,48.53091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u010ce\u013eadince"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u0427\u0435\u0459\u0430\u0434\u0438\u043d\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "\u010ce\u013eadince"
-    ],
     "name:war_x_preferred":[
         "\u010ce\u013eadince"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1259886083,
-    "wof:lastmodified":1564311476,
+    "wof:lastmodified":1566646023,
     "wof:name":"Cel'adince",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

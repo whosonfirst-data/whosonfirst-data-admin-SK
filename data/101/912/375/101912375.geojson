@@ -12,9 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.222767,
     "lbl:longitude":17.231649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.222767,
     "mps:longitude":17.231649,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Slovensko",
     "qs:a1":"*Bratislavsk\u00fd kraj",
     "qs:a1r":"1",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":819381,
-        "qs:id":1153001,
         "qs_pg:id":1153001
     },
     "wof:country":"SK",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101912375,
-    "wof:lastmodified":1497298150,
+    "wof:lastmodified":1566645730,
     "wof:name":"Dvor \u010cierna Voda",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

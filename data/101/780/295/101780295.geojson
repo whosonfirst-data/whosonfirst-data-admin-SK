@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.723909,
     "lbl:longitude":21.853598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.723909,
     "mps:longitude":21.853598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pozdi\u0161ovce"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":723824,
         "gp:id":821756,
-        "qs:id":1060734,
         "qs_pg:id":1060734,
         "wd:id":"Q640823",
         "wk:page":"Pozdi\u0161ovce"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101780295,
-    "wof:lastmodified":1563254599,
+    "wof:lastmodified":1566645806,
     "wof:name":"Pozdi\u0161ovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

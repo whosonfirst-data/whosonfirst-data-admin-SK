@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.32695,49.0144,20.36695,49.0544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hozelec"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1259984591,
-    "wof:lastmodified":1564311407,
+    "wof:lastmodified":1566645992,
     "wof:name":"Hozelec",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

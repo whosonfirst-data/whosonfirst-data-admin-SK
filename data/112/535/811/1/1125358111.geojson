@@ -9,14 +9,18 @@
     "geom:bbox":"17.59666,48.54687,17.59666,48.54687",
     "geom:latitude":48.54687,
     "geom:longitude":17.59666,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.49666,48.44687,17.69666,48.64687",
     "lbl:latitude":48.54687,
     "lbl:longitude":17.59666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Dechtice"
@@ -63,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u0414\u0458\u0435\u0445\u0442\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dehtice"
     ],
     "name:war_x_preferred":[
@@ -90,7 +94,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":29401006,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Trnavsky",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1125358111,
-    "wof:lastmodified":1564311182,
+    "wof:lastmodified":1566645850,
     "wof:name":"Dechtice",
     "wof:parent_id":102080489,
     "wof:placetype":"localadmin",

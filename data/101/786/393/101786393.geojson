@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.152478,
     "lbl:longitude":17.870941,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.152478,
     "mps:longitude":17.870941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0644\u0627"
     ],
@@ -140,10 +143,8 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u044f"
     ],
-    "name:und_x_preferred":[
-        "Sala"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Sala",
         "\u0160ala nad V\u00e1hom"
     ],
     "name:war_x_preferred":[
@@ -169,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.15,
     "wd:longitude":17.883333,
@@ -185,7 +186,6 @@
         "fct:id":"070d63ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3057769,
         "gp:id":822080,
-        "qs:id":444847,
         "qs_pg:id":444847,
         "wd:id":"Q391361",
         "wk:page":"\u0160a\u013ea"
@@ -205,7 +205,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254539,
+    "wof:lastmodified":1566645792,
     "wof:name":"\u0160a\u013ea",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

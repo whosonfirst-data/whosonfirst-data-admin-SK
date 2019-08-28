@@ -9,14 +9,18 @@
     "geom:bbox":"20.86521,49.17516,20.86521,49.17516",
     "geom:latitude":49.17516,
     "geom:longitude":20.86521,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"20.84521,49.15516,20.88521,49.19516",
     "lbl:latitude":49.17516,
     "lbl:longitude":20.86521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0438\u0441\u044c\u043a\u0456 \u0414\u0440\u0430\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u0160ari\u0161sk\u00e9 Dravce"
-    ],
     "name:war_x_preferred":[
         "\u0160ari\u0161sk\u00e9 Dravce"
     ],
@@ -95,7 +96,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":822106,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Presovsky",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1126021445,
-    "wof:lastmodified":1563254787,
+    "wof:lastmodified":1566645860,
     "wof:name":"Sarisske Dravce",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

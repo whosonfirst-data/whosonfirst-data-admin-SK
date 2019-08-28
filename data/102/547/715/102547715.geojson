@@ -12,6 +12,7 @@
     "iso:country":"SK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Luftwaffenst\u00fctzpunkt Malatzka"
     ],
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":102547715,
-    "wof:lastmodified":1563253616,
+    "wof:lastmodified":1566645383,
     "wof:name":"Malacky Airport",
     "wof:parent_id":85688373,
     "wof:placetype":"campus",

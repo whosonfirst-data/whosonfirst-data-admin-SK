@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.355264,
     "lbl:longitude":17.795148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.355264,
     "mps:longitude":17.795148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dvorn\u00edky"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0432\u043e\u0440\u043d\u0456\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Udvarnok"
-    ],
     "name:war_x_preferred":[
         "Dvorn\u00edky"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191581,
@@ -108,10 +108,12 @@
     "wof:concordances":{
         "gn:id":724827,
         "gp:id":819409,
-        "qs:id":382048,
-        "qs_pg:id":1012882,
+        "qs_pg:id":382048,
         "wd:id":"Q1045092",
         "wk:page":"Dvorn\u00edky"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1012882
     },
     "wof:country":"SK",
     "wof:geomhash":"9547e05c3b89028ebd0591c7228a0795",
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101783989,
-    "wof:lastmodified":1563254427,
+    "wof:lastmodified":1566645761,
     "wof:name":"Dvorn\u00edky",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

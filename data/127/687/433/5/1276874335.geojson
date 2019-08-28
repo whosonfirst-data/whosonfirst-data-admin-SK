@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.65608,48.77907,20.69608,48.81907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Star\u00e1 Voda"
     ],
@@ -68,8 +72,7 @@
         "\u0421\u0442\u0430\u0440\u0430 \u0412\u043e\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Altwasser",
-        "Star\u00e1 Voda"
+        "Altwasser"
     ],
     "name:war_x_preferred":[
         "Star\u00e1 Voda"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1276874335,
-    "wof:lastmodified":1564310780,
+    "wof:lastmodified":1566645518,
     "wof:name":"Stara Voda",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

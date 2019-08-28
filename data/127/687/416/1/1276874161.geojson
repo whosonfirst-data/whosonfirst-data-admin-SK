@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.99377,48.83614,21.03377,48.87614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Folkmar"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0424\u043e\u043b\u043a\u043c\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "Ve\u013ek\u00fd Folkmar"
-    ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00fd Folkm\u00e1r"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1276874161,
-    "wof:lastmodified":1564310779,
+    "wof:lastmodified":1566645518,
     "wof:name":"Vel'ky Folkmar",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

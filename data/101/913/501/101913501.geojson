@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.765559,
     "lbl:longitude":18.125088,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.765559,
     "mps:longitude":18.125088,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0631\u0646\u0648"
     ],
@@ -158,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komarnom"
     ],
     "name:urd_x_preferred":[
@@ -187,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.766667,
     "wd:longitude":18.133333,
@@ -202,10 +205,12 @@
     "wof:concordances":{
         "gn:id":3059436,
         "gp:id":820271,
-        "qs:id":6,
-        "qs_pg:id":145217,
+        "qs_pg:id":6,
         "wd:id":"Q210796",
         "wk:page":"Kom\u00e1rno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":145217
     },
     "wof:country":"SK",
     "wof:geomhash":"d7d661e2d6691df9cec7a0381dfeae73",
@@ -219,7 +224,7 @@
         }
     ],
     "wof:id":101913501,
-    "wof:lastmodified":1563254467,
+    "wof:lastmodified":1566645773,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

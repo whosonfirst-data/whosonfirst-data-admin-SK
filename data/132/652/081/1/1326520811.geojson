@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.90715,49.10889,18.94715,49.14889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lipovec"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1326520811,
-    "wof:lastmodified":1564310494,
+    "wof:lastmodified":1566645355,
     "wof:name":"Lipovec",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

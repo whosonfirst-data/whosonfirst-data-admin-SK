@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":47.752508,
     "lbl:longitude":18.226169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.752508,
     "mps:longitude":18.226169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "I\u017ea"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0436\u0430"
     ],
-    "name:unk_x_variant":[
-        "Izsa"
-    ],
     "name:war_x_preferred":[
         "I\u017ea"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":478,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3059760,
         "gp:id":819948,
-        "qs:id":939996,
+        "qs_pg:id":939996,
         "wd:id":"Q780025",
         "wk:page":"I\u017ea"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101787479,
-    "wof:lastmodified":1563254554,
+    "wof:lastmodified":1566645795,
     "wof:name":"I\u017ea",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

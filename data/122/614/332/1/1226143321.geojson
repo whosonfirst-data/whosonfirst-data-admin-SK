@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.48978,48.52511,18.52978,48.56511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Muller"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226143321,
-    "wof:lastmodified":1564311534,
+    "wof:lastmodified":1566646049,
     "wof:name":"Muller",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

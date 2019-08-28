@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.60786,
     "lbl:longitude":18.272683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.60786,
     "mps:longitude":18.272683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chynorany"
     ],
@@ -67,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0425\u0438\u043d\u043e\u0440\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chaynorany"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3060686,
         "gp:id":818997,
-        "qs:id":887478,
         "qs_pg:id":887478,
         "wd:id":"Q517457",
         "wk:page":"Chynorany"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101843789,
-    "wof:lastmodified":1563254258,
+    "wof:lastmodified":1566645714,
     "wof:name":"Chynorany",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

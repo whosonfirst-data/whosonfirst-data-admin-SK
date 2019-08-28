@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.207601,
     "lbl:longitude":18.063183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.207601,
     "mps:longitude":18.063183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mojm\u00edrovce"
     ],
@@ -77,13 +80,7 @@
         "Mojmirovce",
         "Urmin"
     ],
-    "name:und_x_preferred":[
-        "Mojm\u00edrovce"
-    ],
     "name:und_x_variant":[
-        "Urm\u00edn"
-    ],
-    "name:unk_x_variant":[
         "Urm\u00edn"
     ],
     "name:war_x_preferred":[
@@ -106,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         102191581,
@@ -119,7 +116,6 @@
         "fct:id":"070f9976-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058653,
         "gp:id":821086,
-        "qs:id":905675,
         "qs_pg:id":905675,
         "wd:id":"Q945282",
         "wk:page":"Mojm\u00edrovce"
@@ -139,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254309,
+    "wof:lastmodified":1566645728,
     "wof:name":"Mojm\u00edrovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

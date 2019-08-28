@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.23442,49.18669,18.27442,49.22669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vydrn\u00e1"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u0434\u0440\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Vydrn\u00e1"
-    ],
     "name:war_x_preferred":[
         "Vydrn\u00e1"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1260188519,
-    "wof:lastmodified":1564310987,
+    "wof:lastmodified":1566645626,
     "wof:name":"Vydrna",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

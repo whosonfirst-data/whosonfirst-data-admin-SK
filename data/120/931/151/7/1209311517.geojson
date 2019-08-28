@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.73969,48.36563,17.77969,48.40563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Horn\u00e9 Zelenice"
     ],
@@ -73,8 +77,7 @@
     "name:und_x_variant":[
         "Zelenice",
         "Horn\u00ed-Zelenice",
-        "Hornie Zelenice",
-        "Horn\u00e9 Zelenice"
+        "Hornie Zelenice"
     ],
     "name:war_x_preferred":[
         "Horn\u00e9 Zelenice"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1209311517,
-    "wof:lastmodified":1564310842,
+    "wof:lastmodified":1566645548,
     "wof:name":"Horne Zelenice",
     "wof:parent_id":85633769,
     "wof:placetype":"locality",

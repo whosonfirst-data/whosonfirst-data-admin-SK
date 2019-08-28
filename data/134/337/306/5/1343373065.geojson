@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.07936,48.5931,19.11936,48.6331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dvor Trebu\u013ea",
         "Trebu\u013ea"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343373065,
-    "wof:lastmodified":1537700384,
+    "wof:lastmodified":1566645390,
     "wof:name":"Trebul'a",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

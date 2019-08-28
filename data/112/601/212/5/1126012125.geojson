@@ -9,14 +9,18 @@
     "geom:bbox":"17.27085,48.14204,17.27085,48.14204",
     "geom:latitude":48.14204,
     "geom:longitude":17.27085,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"17.25085,48.12204,17.29085,48.16204",
     "lbl:latitude":48.14204,
     "lbl:longitude":17.27085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Most pri Bratislave"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "Pal\u00fadzka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bruck"
     ],
     "name:war_x_preferred":[
@@ -97,7 +101,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":821109,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Bratislavsky",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1126012125,
-    "wof:lastmodified":1563254926,
+    "wof:lastmodified":1566645913,
     "wof:name":"Most na Ostrove",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.29093,
     "lbl:longitude":18.743955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.29093,
     "mps:longitude":18.743955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "B\u00e1tovce"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":241,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3061160,
         "gp:id":818539,
-        "qs:id":190829,
         "qs_pg:id":190829,
         "wd:id":"Q259061",
         "wk:page":"B\u00e1tovce"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101783971,
-    "wof:lastmodified":1563254420,
+    "wof:lastmodified":1566645760,
     "wof:name":"B\u00e1tovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

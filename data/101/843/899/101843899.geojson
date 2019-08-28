@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":49.144271,
     "lbl:longitude":19.173069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.144271,
     "mps:longitude":19.173069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stankovany"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3057494,
         "gp:id":822378,
-        "qs:id":268205,
+        "qs_pg:id":268205,
         "wd:id":"Q653121",
         "wk:page":"Stankovany"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101843899,
-    "wof:lastmodified":1563254249,
+    "wof:lastmodified":1566645711,
     "wof:name":"Stankovany",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

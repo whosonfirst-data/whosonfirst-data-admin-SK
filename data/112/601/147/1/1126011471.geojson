@@ -9,14 +9,18 @@
     "geom:bbox":"21.28977,48.9451,21.28977,48.9451",
     "geom:latitude":48.9451,
     "geom:longitude":21.28977,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.26977,48.9251,21.30977,48.9651",
     "lbl:latitude":48.9451,
     "lbl:longitude":21.28977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Z\u00e1borsk\u00e9"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0431\u043e\u0440\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Har\u0161ag"
     ],
     "name:war_x_preferred":[
@@ -100,7 +104,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":823250,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Presovsky",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1126011471,
-    "wof:lastmodified":1563254930,
+    "wof:lastmodified":1566645914,
     "wof:name":"Z\u00e1borsk\u00e9",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

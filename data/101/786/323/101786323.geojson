@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.028951,
     "lbl:longitude":17.311398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.028951,
     "mps:longitude":17.311398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0648\u0631\u064a\u0646"
     ],
@@ -134,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043c\u043e\u0440\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Somorja"
-    ],
     "name:war_x_preferred":[
         "\u0160amor\u00edn"
     ],
@@ -160,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.033333,
     "wd:longitude":17.316667,
@@ -175,7 +175,6 @@
     "wof:concordances":{
         "gn:id":3057757,
         "gp:id":822091,
-        "qs:id":279623,
         "qs_pg:id":279623,
         "wd:id":"Q391068",
         "wk:page":"\u0160amor\u00edn"
@@ -192,7 +191,7 @@
         }
     ],
     "wof:id":101786323,
-    "wof:lastmodified":1563254530,
+    "wof:lastmodified":1566645790,
     "wof:name":"\u0160amor\u00edn",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

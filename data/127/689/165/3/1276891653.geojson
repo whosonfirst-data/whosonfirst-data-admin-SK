@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"19.37785,48.17695,19.41785,48.21695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ve\u013ek\u00e9 Straciny"
     ],
@@ -68,8 +72,7 @@
         "\u0412\u0435\u043b\u044c\u043a\u0435 \u0421\u0442\u0440\u0430\u0446\u0456\u043d\u0438"
     ],
     "name:und_x_variant":[
-        "Straciny",
-        "Ve\u013ek\u00e9 Straciny"
+        "Straciny"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Straciny"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1276891653,
-    "wof:lastmodified":1564310775,
+    "wof:lastmodified":1566645515,
     "wof:name":"Vel'ke Straciny",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

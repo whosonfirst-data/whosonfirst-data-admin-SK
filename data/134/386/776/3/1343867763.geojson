@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"20.28095,48.26214,20.32095,48.30214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vlky\u0148a"
     ],
@@ -68,9 +72,7 @@
         "\u0412\u043b\u043a\u0438\u043d\u044f"
     ],
     "name:und_x_variant":[
-        "Velkenye",
-        "Velky\u0148a",
-        "Vlky\u0148a"
+        "Velky\u0148a"
     ],
     "name:war_x_preferred":[
         "Vlky\u0148a"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1343867763,
-    "wof:lastmodified":1564310641,
+    "wof:lastmodified":1566645439,
     "wof:name":"Vlkyna",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

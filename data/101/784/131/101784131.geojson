@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.305014,
     "lbl:longitude":20.234551,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.305014,
     "mps:longitude":20.234551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rimavsk\u00e1 Se\u010d"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":723737,
         "gp:id":821968,
-        "qs:id":1014417,
         "qs_pg:id":1014417,
         "wd:id":"Q339301",
         "wk:page":"Rimavsk\u00e1 Se\u010d"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101784131,
-    "wof:lastmodified":1563254449,
+    "wof:lastmodified":1566645768,
     "wof:name":"Rimavsk\u00e1 Se\u010d",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

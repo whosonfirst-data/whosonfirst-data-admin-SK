@@ -13,10 +13,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.592961,
     "lbl:longitude":17.826203,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.592961,
     "mps:longitude":17.826203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0634\u062a\u0627\u0646\u064a"
     ],
@@ -159,10 +162,7 @@
     "name:ukr_x_variant":[
         "\u041f'\u0454\u0448\u0442\u044f\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Piestany"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pie\u0161\u0165anoch"
     ],
     "name:war_x_preferred":[
@@ -186,7 +186,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.583333,
     "wd:longitude":17.833333,
@@ -202,7 +202,7 @@
         "fct:id":"070daeea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3058202,
         "gp:id":821586,
-        "qs:id":238308,
+        "qs_pg:id":238308,
         "wd:id":"Q321074",
         "wk:page":"Pie\u0161\u0165any"
     },
@@ -221,7 +221,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563254276,
+    "wof:lastmodified":1566645719,
     "wof:name":"Pie\u0161\u0165any",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

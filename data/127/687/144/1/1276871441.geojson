@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"21.40043,49.25146,21.44043,49.29146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brezovka"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1276871441,
-    "wof:lastmodified":1564310778,
+    "wof:lastmodified":1566645517,
     "wof:name":"Brezovka",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

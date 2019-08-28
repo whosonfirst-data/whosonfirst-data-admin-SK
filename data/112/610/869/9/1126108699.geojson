@@ -9,14 +9,17 @@
     "geom:bbox":"21.29028,48.70326,21.29028,48.70326",
     "geom:latitude":48.70326,
     "geom:longitude":21.29028,
-    "gn:gn_country":"SK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SK",
+    "lbl:bbox":"21.28528,48.69826,21.29528,48.70826",
     "lbl:latitude":48.70326,
     "lbl:longitude":21.29028,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Vy\u0161n\u00e9 Op\u00e1tske"
@@ -42,7 +45,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448\u045a\u0435 \u041e\u043f\u0430\u0442\u0441\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vy\u0161nie Op\u00e1tske"
     ],
     "qs_pg:aaroncc":"SK",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424877,
     "qs_pg:woe_id":823202,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424877,
     "woe:name_adm0":"Slovensk\u00e1",
     "woe:name_adm1":"Kosicky",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1126108699,
-    "wof:lastmodified":1564311206,
+    "wof:lastmodified":1566645860,
     "wof:name":"Vy\u0161n\u00e9 Op\u00e1tske",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

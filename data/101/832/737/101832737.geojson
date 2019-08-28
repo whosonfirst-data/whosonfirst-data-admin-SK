@@ -12,10 +12,13 @@
     "iso:country":"SK",
     "lbl:latitude":48.888751,
     "lbl:longitude":21.683143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.888751,
     "mps:longitude":21.683143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hencovce"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":724720,
         "gp:id":819585,
-        "qs:id":1271116,
+        "qs_pg:id":1271116,
         "wd:id":"Q1035266",
         "wk:page":"Hencovce"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101832737,
-    "wof:lastmodified":1563254264,
+    "wof:lastmodified":1566645716,
     "wof:name":"Hencovce",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

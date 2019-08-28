@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"18.84215,48.82671,18.88215,48.86671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Unter-Stuben"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276977093,
-    "wof:lastmodified":1537700430,
+    "wof:lastmodified":1566645542,
     "wof:name":"Dolna Stubna",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",
