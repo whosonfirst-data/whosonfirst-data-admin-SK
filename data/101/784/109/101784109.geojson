@@ -110,6 +110,9 @@
         "wk:page":"Plie\u0161ovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37bc4a5abefdd7dd80519063c6967d6f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101784109,
-    "wof:lastmodified":1566645768,
+    "wof:lastmodified":1582382513,
     "wof:name":"Plie\u0161ovce",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

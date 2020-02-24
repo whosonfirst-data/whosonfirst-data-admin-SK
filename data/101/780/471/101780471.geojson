@@ -116,6 +116,9 @@
         "wk:page":"Se\u010dovsk\u00e1 Polianka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"782cbe867333ebb1d65af32829947212",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780471,
-    "wof:lastmodified":1566645801,
+    "wof:lastmodified":1582382517,
     "wof:name":"Se\u010dovsk\u00e1 Polianka",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

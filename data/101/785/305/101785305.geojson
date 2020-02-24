@@ -122,6 +122,9 @@
         "wk:page":"Voderady"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9aabe54047b4388822aeabe66f9bf4c",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645736,
+    "wof:lastmodified":1582382510,
     "wof:name":"Voderady",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Mo\u010denok"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e703799d40462c4011015f2dbfa6c39",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101834119,
-    "wof:lastmodified":1566645728,
+    "wof:lastmodified":1582382510,
     "wof:name":"Mo\u010denok",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

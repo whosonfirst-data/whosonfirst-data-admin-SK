@@ -120,6 +120,9 @@
         "wk:page":"Richnava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b33fc5b6fded3ecd8b11ac59f7b1e79",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101780863,
-    "wof:lastmodified":1566645823,
+    "wof:lastmodified":1582382519,
     "wof:name":"Richnava",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

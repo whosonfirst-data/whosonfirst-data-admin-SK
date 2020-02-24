@@ -138,6 +138,11 @@
         "wk:page":"Dev\u00ednska Nov\u00e1 Ves"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "mz"
+    ],
     "wof:geomhash":"b6821820302c73d2f353ae2f788776ca",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645443,
+    "wof:lastmodified":1582382501,
     "wof:name":"Dev\u00ednska Nov\u00e1 Ves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

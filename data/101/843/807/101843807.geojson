@@ -117,6 +117,9 @@
         "wk:page":"Hlin\u00edk nad Hronom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43a5050e9d12d99d1df9bdb1f179191a",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645710,
+    "wof:lastmodified":1582382508,
     "wof:name":"Hlin\u00edk nad Hronom",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

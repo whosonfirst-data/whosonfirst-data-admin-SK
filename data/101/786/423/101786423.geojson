@@ -162,6 +162,9 @@
         "wk:page":"\u017deliezovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a312f5961ac4c6ff4fe4725bda19c27",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101786423,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1582382515,
     "wof:name":"\u017deliezovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

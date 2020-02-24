@@ -113,6 +113,9 @@
         "wk:page":"Horn\u00e1 Pot\u00f4\u0148"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b76386230b5652b923e6750ff747d57",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843717,
-    "wof:lastmodified":1566645713,
+    "wof:lastmodified":1582382508,
     "wof:name":"Horn\u00e1 Pot\u00f4\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

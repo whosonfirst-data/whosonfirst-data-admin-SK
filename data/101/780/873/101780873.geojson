@@ -110,6 +110,9 @@
         "wk:page":"Star\u00e1 Bystrica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14cb16ed1f36f2e26d02bfc202fb84be",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780873,
-    "wof:lastmodified":1566645803,
+    "wof:lastmodified":1582382517,
     "wof:name":"Star\u00e1 Bystrica",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Doln\u00fd Ohaj"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"103097fc8e0874bd049a535ed372a1eb",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101834115,
-    "wof:lastmodified":1566645729,
+    "wof:lastmodified":1582382510,
     "wof:name":"Doln\u00fd Ohaj",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

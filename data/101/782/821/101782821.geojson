@@ -162,6 +162,9 @@
         "wk:page":"Nov\u00e9 Mesto nad V\u00e1hom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a9435a03c40955987dc7976aa5a561f",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101782821,
-    "wof:lastmodified":1566645744,
+    "wof:lastmodified":1582382511,
     "wof:name":"Nov\u00e9 Mesto nad V\u00e1hom",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

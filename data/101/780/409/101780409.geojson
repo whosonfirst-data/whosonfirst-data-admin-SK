@@ -199,6 +199,9 @@
         "wk:page":"Doln\u00fd Kub\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2f9e332697e649ded65e5cd6bc93d4e",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645807,
+    "wof:lastmodified":1582382517,
     "wof:name":"Doln\u00fd Kub\u00edn",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

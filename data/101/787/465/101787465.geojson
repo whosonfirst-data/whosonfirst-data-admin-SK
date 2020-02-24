@@ -159,6 +159,9 @@
         "wk:page":"Kol\u00e1rovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63f8061e58b42eec200630b5d93db853",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101787465,
-    "wof:lastmodified":1566645796,
+    "wof:lastmodified":1582382516,
     "wof:name":"Kol\u00e1rovo",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

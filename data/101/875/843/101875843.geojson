@@ -117,6 +117,9 @@
         "wk:page":"Nov\u00e1 \u013dubov\u0148a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"860154963e7e9b90690196f92787963f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101875843,
-    "wof:lastmodified":1566645695,
+    "wof:lastmodified":1582382506,
     "wof:name":"Nov\u00e1 \u013dubov\u0148a",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

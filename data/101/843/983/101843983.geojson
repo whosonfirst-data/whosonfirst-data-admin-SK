@@ -122,6 +122,9 @@
         "wk:page":"Hniezdne"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7995bfad549cf5b6485f23081717a53",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101843983,
-    "wof:lastmodified":1566645702,
+    "wof:lastmodified":1582382507,
     "wof:name":"Hniezdne",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

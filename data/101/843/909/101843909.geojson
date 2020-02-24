@@ -114,6 +114,9 @@
         "wk:page":"Doln\u00e1 Marikov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06dc0320774620a7d518bee96b5a1169",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101843909,
-    "wof:lastmodified":1566645697,
+    "wof:lastmodified":1582382507,
     "wof:name":"Doln\u00e1 Marikov\u00e1",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

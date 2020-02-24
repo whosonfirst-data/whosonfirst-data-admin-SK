@@ -130,6 +130,11 @@
         "wk:page":"Nov\u00e9 Mesto, Bratislava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"d13e21859092c3007bf5b7d6e9d57617",
     "wof:hierarchy":[
         {
@@ -145,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645444,
+    "wof:lastmodified":1582382501,
     "wof:name":"Nov\u00e9 Mesto",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

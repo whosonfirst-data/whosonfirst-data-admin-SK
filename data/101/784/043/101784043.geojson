@@ -117,6 +117,9 @@
         "wk:page":"Drahovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"330f34eb3098e817a75a70897a350c90",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101784043,
-    "wof:lastmodified":1566645770,
+    "wof:lastmodified":1582382513,
     "wof:name":"Drahovce",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

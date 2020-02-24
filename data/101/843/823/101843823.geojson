@@ -123,6 +123,9 @@
         "wk:page":"Medzibrod"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"324a2d3635b4bd37761038c70cebd2a5",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645709,
+    "wof:lastmodified":1582382508,
     "wof:name":"Medzibrod",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

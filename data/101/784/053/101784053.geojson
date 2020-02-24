@@ -116,6 +116,9 @@
         "qs_pg:id":884323
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e1da88e48ec935b11f27ecedc5c2392",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101784053,
-    "wof:lastmodified":1566645765,
+    "wof:lastmodified":1582382513,
     "wof:name":"Tekovsk\u00e1 Breznica",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

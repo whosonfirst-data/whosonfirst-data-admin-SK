@@ -116,6 +116,9 @@
         "wd:id":"Q1025195"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"809fdf5076825535f6677effb3ce6cbd",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780519,
-    "wof:lastmodified":1566645810,
+    "wof:lastmodified":1582382517,
     "wof:name":"Spi\u0161sk\u00e9 Bystr\u00e9",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

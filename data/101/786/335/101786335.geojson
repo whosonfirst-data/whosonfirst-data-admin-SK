@@ -110,6 +110,9 @@
         "wk:page":"Dubn\u00edk"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"125263a221a3e76a20ec2277c02cafdd",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101786335,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1582382515,
     "wof:name":"Dubn\u00edk",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

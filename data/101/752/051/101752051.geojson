@@ -372,6 +372,9 @@
         "wk:page":"Trnava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b0e6735a4bf3061368e328b1781e13c",
     "wof:hierarchy":[
         {
@@ -386,7 +389,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645690,
+    "wof:lastmodified":1582382506,
     "wof:name":"Trnava",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

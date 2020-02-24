@@ -126,6 +126,9 @@
         "wk:page":"Nov\u00e1 Lesn\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b070babf0ad45beb2f2884dfa23ea54",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645800,
+    "wof:lastmodified":1582382517,
     "wof:name":"Nov\u00e1 Lesn\u00e1",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

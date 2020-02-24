@@ -116,6 +116,9 @@
         "wk:page":"\u010cir\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39e469202bf57aa98a52f1df7f45fd86",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843977,
-    "wof:lastmodified":1566645702,
+    "wof:lastmodified":1582382507,
     "wof:name":"\u010cir\u010d",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

@@ -153,6 +153,9 @@
         "wk:page":"Nov\u00e1 Dubnica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abce53dc8eab10a676883175cadca6fa",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101781781,
-    "wof:lastmodified":1566645785,
+    "wof:lastmodified":1582382515,
     "wof:name":"Nov\u00e1 Dubnica",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

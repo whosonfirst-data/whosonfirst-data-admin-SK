@@ -113,6 +113,9 @@
         "wk:page":"Chtelnica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f5880a12133c47e2c46df6b3e4f96c6",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780213,
-    "wof:lastmodified":1566645820,
+    "wof:lastmodified":1582382518,
     "wof:name":"Chtelnica",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

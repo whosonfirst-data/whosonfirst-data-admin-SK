@@ -163,6 +163,9 @@
         "wk:page":"Lipany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0d743337f51a79681928cb5e5cbf8fc",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101780481,
-    "wof:lastmodified":1566645818,
+    "wof:lastmodified":1582382518,
     "wof:name":"Lipany",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

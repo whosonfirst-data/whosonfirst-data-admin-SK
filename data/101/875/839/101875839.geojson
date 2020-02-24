@@ -197,6 +197,10 @@
         "wk:page":"Vranov nad Top\u013eou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77cdb0847fc94d66e7f4eba498ba7497",
     "wof:hierarchy":[
         {
@@ -211,7 +215,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645696,
+    "wof:lastmodified":1582382507,
     "wof:name":"Vranov nad Top\u013eou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

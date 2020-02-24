@@ -110,6 +110,9 @@
         "wk:page":"Doj\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c43105d4bfbdd0009bf5fd9bf5de246",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843791,
-    "wof:lastmodified":1566645698,
+    "wof:lastmodified":1582382507,
     "wof:name":"Doj\u010d",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

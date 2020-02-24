@@ -165,6 +165,9 @@
         "wk:page":"Medzilaborce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76ada8d90e15f5d59addda0c06994445",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101780599,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1582382518,
     "wof:name":"Medzilaborce",
     "wof:parent_id":102080617,
     "wof:placetype":"locality",

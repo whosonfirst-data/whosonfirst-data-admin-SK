@@ -116,6 +116,9 @@
         "wk:page":"Kl\u00e1\u0161tor pod Znievom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98cdba93999d9497ff8b830187639d16",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780317,
-    "wof:lastmodified":1566645825,
+    "wof:lastmodified":1582382519,
     "wof:name":"Kl\u00e1\u0161tor pod Znievom",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

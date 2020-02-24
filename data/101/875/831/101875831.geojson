@@ -118,6 +118,10 @@
         "wk:page":"Liskov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85fba9750000a769e190414e19de7614",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":101875831,
-    "wof:lastmodified":1566645696,
+    "wof:lastmodified":1582382507,
     "wof:name":"Liskov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

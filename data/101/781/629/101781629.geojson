@@ -116,6 +116,9 @@
         "wk:page":"Rybany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4fdd2b3e1770988977c8b4fb1f46baf",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101781629,
-    "wof:lastmodified":1566645778,
+    "wof:lastmodified":1582382514,
     "wof:name":"Rybany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

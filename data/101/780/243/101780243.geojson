@@ -113,6 +113,9 @@
         "wk:page":"Dru\u017estevn\u00e1 pri Horn\u00e1de"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f40e1ee6d1ee15f20ac9ca5452faa22d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780243,
-    "wof:lastmodified":1566645804,
+    "wof:lastmodified":1582382517,
     "wof:name":"Dru\u017estevn\u00e1 pri Horn\u00e1de",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

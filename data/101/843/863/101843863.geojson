@@ -157,6 +157,9 @@
         "qs_pg:id":402161
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa6e4e3cf2cdbc3d5755a33f2720fc73",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101843863,
-    "wof:lastmodified":1566645711,
+    "wof:lastmodified":1582382508,
     "wof:name":"Kr\u00e1\u013eovsk\u00fd Chlmec",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Horn\u00e1 Streda"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a62cb089569390db81baac55b51a9abf",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101784117,
-    "wof:lastmodified":1566645768,
+    "wof:lastmodified":1582382513,
     "wof:name":"Horn\u00e1 Streda",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -115,6 +115,10 @@
         "wk:page":"Kluknava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eebba8497d4447155c545f00985ee893",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":101875829,
-    "wof:lastmodified":1566645695,
+    "wof:lastmodified":1582382506,
     "wof:name":"Kluknava",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

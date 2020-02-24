@@ -144,6 +144,9 @@
         "wk:page":"Vr\u00e1ble"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f313a0358878ddf08c0a7676119e59de",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101785251,
-    "wof:lastmodified":1566645734,
+    "wof:lastmodified":1582382510,
     "wof:name":"Vr\u00e1ble",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

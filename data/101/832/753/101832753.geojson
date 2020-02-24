@@ -198,6 +198,9 @@
         "wk:page":"Ke\u017emarok"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c5b3b2b7fbd1d9ec4f02ff5c7f8965a",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645716,
+    "wof:lastmodified":1582382508,
     "wof:name":"Ke\u017emarok",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

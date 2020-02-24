@@ -113,6 +113,9 @@
         "wk:page":"Ludanice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfa3274328c3af662246a8ae9d88abfa",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101784075,
-    "wof:lastmodified":1566645770,
+    "wof:lastmodified":1582382513,
     "wof:name":"Ludanice",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

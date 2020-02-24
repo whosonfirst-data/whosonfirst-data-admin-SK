@@ -116,6 +116,9 @@
         "wk:page":"Pobedim"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06766ed3218d0bb1dc4a4d53a47524c3",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101784119,
-    "wof:lastmodified":1566645768,
+    "wof:lastmodified":1582382513,
     "wof:name":"Pobedim",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

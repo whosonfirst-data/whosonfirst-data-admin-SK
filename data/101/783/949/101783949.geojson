@@ -193,6 +193,9 @@
         "wk:page":"Pezinok"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0dd60eefadf277d3c9ab7892221f00a0",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645760,
+    "wof:lastmodified":1582382512,
     "wof:name":"Pezinok",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

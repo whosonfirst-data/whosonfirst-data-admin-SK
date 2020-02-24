@@ -116,6 +116,9 @@
         "wk:page":"Zempl\u00ednska Teplica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76eaff22f6e48054acac9d1ba080af81",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782855,
-    "wof:lastmodified":1566645755,
+    "wof:lastmodified":1582382512,
     "wof:name":"Zempl\u00ednska Teplica",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

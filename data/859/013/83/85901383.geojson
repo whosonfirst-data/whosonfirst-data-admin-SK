@@ -119,6 +119,11 @@
         "qs_pg:id":1153006
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "mz",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"118126152c6e1c3c3fe9509672aa206a",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645444,
+    "wof:lastmodified":1582382501,
     "wof:name":"Ra\u010da",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

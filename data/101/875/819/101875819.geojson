@@ -183,6 +183,10 @@
         "wk:page":"Zlat\u00e9 Moravce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a32c62e8b1f1b5c95c8846152e3901c4",
     "wof:hierarchy":[
         {
@@ -197,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645695,
+    "wof:lastmodified":1582382506,
     "wof:name":"Zlat\u00e9 Moravce",
     "wof:parent_id":102080485,
     "wof:placetype":"locality",

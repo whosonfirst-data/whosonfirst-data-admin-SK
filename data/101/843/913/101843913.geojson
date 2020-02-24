@@ -114,6 +114,9 @@
         "wk:page":"Liptovsk\u00e1 Kokava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"094251bcf40ba1d09b0db08d8dee1f4e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101843913,
-    "wof:lastmodified":1566645705,
+    "wof:lastmodified":1582382507,
     "wof:name":"Liptovsk\u00e1 Kokava",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

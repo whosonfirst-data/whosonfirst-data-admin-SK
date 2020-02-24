@@ -116,6 +116,9 @@
         "wk:page":"Podolie"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2ab590e62259ea133ae9b6e0dd2f848",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101784115,
-    "wof:lastmodified":1566645772,
+    "wof:lastmodified":1582382513,
     "wof:name":"Podolie",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -131,6 +131,11 @@
         "wk:page":"Vraku\u0148a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "mz",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91c1057b02258f92d97ece3e12f65566",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645445,
+    "wof:lastmodified":1582382501,
     "wof:name":"Vraku\u0148a",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

@@ -130,6 +130,11 @@
         "wk:page":"Karlova Ves"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "mz"
+    ],
     "wof:geomhash":"74513d1d8b5f96f6a69cd874a7921d3e",
     "wof:hierarchy":[
         {
@@ -145,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645443,
+    "wof:lastmodified":1582382501,
     "wof:name":"Karlova Ves",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

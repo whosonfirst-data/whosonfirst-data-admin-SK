@@ -116,6 +116,9 @@
         "wk:page":"Chlebnice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff8bf4ba09172667ffbe7dc2344f1a41",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843941,
-    "wof:lastmodified":1566645703,
+    "wof:lastmodified":1582382507,
     "wof:name":"Chlebnice",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

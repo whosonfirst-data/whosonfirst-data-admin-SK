@@ -119,6 +119,9 @@
         "wk:page":"Kr\u00e1snohorsk\u00e9 Podhradie"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca21bb19ecf4f2b9d1fec5a08e33bfdd",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101782891,
-    "wof:lastmodified":1566645754,
+    "wof:lastmodified":1582382512,
     "wof:name":"Kr\u00e1snohorsk\u00e9 Podhradie",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

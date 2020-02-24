@@ -115,6 +115,10 @@
         "wk:page":"Hronec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"67e46de0ba0393d7b86797bf852a94d0",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":101858953,
-    "wof:lastmodified":1566645723,
+    "wof:lastmodified":1582382509,
     "wof:name":"Hronec",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

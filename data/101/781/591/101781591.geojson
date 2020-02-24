@@ -183,6 +183,9 @@
         "wk:page":"Kremnica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0fdd9e9f9abbc37f73d60ad536da9f4e",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101781591,
-    "wof:lastmodified":1566645783,
+    "wof:lastmodified":1582382514,
     "wof:name":"Kremnica",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"B\u00e1nov, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aadfb064c1185903e01adf494672ce00",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101786359,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1582382515,
     "wof:name":"B\u00e1nov",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

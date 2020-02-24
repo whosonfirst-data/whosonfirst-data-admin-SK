@@ -444,6 +444,9 @@
         "wk:page":"Ko\u0161ice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb9198ae68e4e1c4a19ef411431a8740",
     "wof:hierarchy":[
         {
@@ -458,7 +461,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645689,
+    "wof:lastmodified":1582382506,
     "wof:name":"Ko\u0161ice",
     "wof:parent_id":102080549,
     "wof:placetype":"locality",

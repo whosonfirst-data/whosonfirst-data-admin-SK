@@ -120,6 +120,9 @@
         "wk:page":"Doln\u00e9 Ore\u0161any"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"058b00332b46edeba5c3429c5de56e50",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645770,
+    "wof:lastmodified":1582382513,
     "wof:name":"Doln\u00e9 Ore\u0161any",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

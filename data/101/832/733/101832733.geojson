@@ -113,6 +113,9 @@
         "wk:page":"Kendice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c257c96324eb3a6cb4a0482079bc0b69",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101832733,
-    "wof:lastmodified":1566645718,
+    "wof:lastmodified":1582382508,
     "wof:name":"Kendice",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

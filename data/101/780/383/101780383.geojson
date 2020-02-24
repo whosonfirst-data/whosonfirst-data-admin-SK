@@ -117,6 +117,9 @@
         "wk:page":"Doln\u00fd Hri\u010dov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ede2590cc9ac6c6e8bfc263e92188a42",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645809,
+    "wof:lastmodified":1582382517,
     "wof:name":"Doln\u00fd Hri\u010dov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

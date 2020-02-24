@@ -112,6 +112,9 @@
         "wk:page":"Banka, Pie\u0161\u0165any District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc4ca2e0a24eb718e90e927701db9b41",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101832689,
-    "wof:lastmodified":1566645717,
+    "wof:lastmodified":1582382508,
     "wof:name":"Banka",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

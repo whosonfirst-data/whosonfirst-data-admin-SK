@@ -163,6 +163,10 @@
         "wk:page":"Jarovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"823feabe9e87042606b2cc20064efd59",
     "wof:hierarchy":[
         {
@@ -178,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645443,
+    "wof:lastmodified":1582382501,
     "wof:name":"Jarovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

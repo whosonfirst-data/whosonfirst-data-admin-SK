@@ -117,6 +117,9 @@
         "wk:page":"Polomka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa48f7ada86ee9edd896211e3c7c3dd0",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101781741,
-    "wof:lastmodified":1566645781,
+    "wof:lastmodified":1582382514,
     "wof:name":"Polomka",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

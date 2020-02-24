@@ -177,6 +177,9 @@
         "qs_pg:id":1014297
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11f6352fec9635aa92363305196e4bac",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":101780275,
-    "wof:lastmodified":1566645804,
+    "wof:lastmodified":1582382517,
     "wof:name":"Spi\u0161sk\u00e9 Vlachy",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

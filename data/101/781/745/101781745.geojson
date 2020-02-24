@@ -110,6 +110,9 @@
         "wk:page":"Z\u00e1vadka nad Hronom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c79ad2375dc07d085941227d1bac715d",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101781745,
-    "wof:lastmodified":1566645787,
+    "wof:lastmodified":1582382515,
     "wof:name":"Z\u00e1vadka nad Hronom",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

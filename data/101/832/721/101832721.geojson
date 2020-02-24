@@ -227,6 +227,9 @@
         "wk:page":"Ru\u017eomberok"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d38c3c3a9ed5c97a77b253cb236fa1ce",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645720,
+    "wof:lastmodified":1582382508,
     "wof:name":"Ru\u017eomberok",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

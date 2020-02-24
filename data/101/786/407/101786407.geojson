@@ -116,6 +116,9 @@
         "wk:page":"Horn\u00e9 Saliby"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db3e6b4c57e97a06ca5ae35db173e29b",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101786407,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1582382515,
     "wof:name":"Horn\u00e9 Saliby",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

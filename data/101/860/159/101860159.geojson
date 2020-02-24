@@ -106,6 +106,9 @@
         "wd:id":"Q1045107"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54c2ab392ce46326be45aec5a4bfe7e7",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101860159,
-    "wof:lastmodified":1566645721,
+    "wof:lastmodified":1582382509,
     "wof:name":"Lietavsk\u00e1 Svinn\u00e1 - Babkov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

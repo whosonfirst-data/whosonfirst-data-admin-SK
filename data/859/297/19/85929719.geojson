@@ -96,6 +96,10 @@
         "qs_pg:id":1334755
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"311d5e67a235f9e926e3df11ec931f1d",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645445,
+    "wof:lastmodified":1582382501,
     "wof:name":"Nad jazerom",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

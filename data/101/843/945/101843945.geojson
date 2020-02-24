@@ -110,6 +110,9 @@
         "wk:page":"Neslu\u0161a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2da4665619620b1d1706db1671e1e6f4",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843945,
-    "wof:lastmodified":1566645713,
+    "wof:lastmodified":1582382508,
     "wof:name":"Neslu\u0161a",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

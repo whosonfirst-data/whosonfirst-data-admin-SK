@@ -113,6 +113,9 @@
         "wk:page":"Z\u00e1mutov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4fc601df890347f88fbbdc6071146b4a",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780455,
-    "wof:lastmodified":1566645807,
+    "wof:lastmodified":1582382517,
     "wof:name":"Z\u00e1mutov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

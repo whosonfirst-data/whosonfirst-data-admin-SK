@@ -163,6 +163,9 @@
         "wk:page":"Hol\u00ed\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96e1dff420775ec84ae65a180e1a1277",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645780,
+    "wof:lastmodified":1582382514,
     "wof:name":"Hol\u00ed\u010d",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

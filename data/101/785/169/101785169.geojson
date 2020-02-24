@@ -113,6 +113,9 @@
         "wk:page":"Tr\u00e1vnica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77b684f5267cd9e8b1b2859aee761873",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101785169,
-    "wof:lastmodified":1566645731,
+    "wof:lastmodified":1582382510,
     "wof:name":"Tr\u00e1vnica",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

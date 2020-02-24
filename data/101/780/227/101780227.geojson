@@ -193,6 +193,9 @@
         "wk:page":"Brezno"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfdce0d0f0db58eff4a079cd029acd58",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645801,
+    "wof:lastmodified":1582382517,
     "wof:name":"Brezno",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

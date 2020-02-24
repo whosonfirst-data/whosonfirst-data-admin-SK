@@ -152,6 +152,10 @@
         "wk:page":"Nov\u00e1ky"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"50f43057cf5034caa5a3c0db2ae66eaf",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":101875825,
-    "wof:lastmodified":1566645696,
+    "wof:lastmodified":1582382507,
     "wof:name":"Nov\u00e1ky",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

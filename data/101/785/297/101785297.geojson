@@ -118,6 +118,9 @@
         "woe:id":818613
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd0792b14e02fe61dd481e765d281c80",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645739,
+    "wof:lastmodified":1582382510,
     "wof:name":"Biely Kostol",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Hlinn\u00e9"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd3284d2a866ce07619ba9b10bede881",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780445,
-    "wof:lastmodified":1566645819,
+    "wof:lastmodified":1582382518,
     "wof:name":"Hlinn\u00e9",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

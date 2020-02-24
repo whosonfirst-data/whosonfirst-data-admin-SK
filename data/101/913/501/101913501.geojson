@@ -213,6 +213,9 @@
         "qs_pg:id":145217
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7d661e2d6691df9cec7a0381dfeae73",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":101913501,
-    "wof:lastmodified":1566645773,
+    "wof:lastmodified":1582382513,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Semerovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f50f13c8fc835f1e25b9aac57c784f77",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843725,
-    "wof:lastmodified":1566645702,
+    "wof:lastmodified":1582382507,
     "wof:name":"Semerovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

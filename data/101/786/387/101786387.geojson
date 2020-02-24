@@ -128,6 +128,9 @@
         "wk:page":"Diakovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa840e6dbb41ed00d3f797f9415c61e1",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101786387,
-    "wof:lastmodified":1566645794,
+    "wof:lastmodified":1582382516,
     "wof:name":"Diakovce",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

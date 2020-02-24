@@ -153,6 +153,10 @@
         "wk:page":"\u017dehra"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82a1cac85ba00b647d41232ec5625191",
     "wof:hierarchy":[
         {
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":101858955,
-    "wof:lastmodified":1566645724,
+    "wof:lastmodified":1582382509,
     "wof:name":"\u017dehra",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

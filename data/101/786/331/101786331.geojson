@@ -107,6 +107,9 @@
         "wk:page":"Dvory nad \u017ditavou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c581fd1929bd3f8b8fbb8264ebf403ab",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101786331,
-    "wof:lastmodified":1566645787,
+    "wof:lastmodified":1582382515,
     "wof:name":"Dvory nad \u017ditavou",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

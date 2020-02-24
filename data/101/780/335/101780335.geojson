@@ -180,6 +180,9 @@
         "wk:page":"P\u00fachov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54c9c36ddff6a14bd7c22a2666b9dc06",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101780335,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1582382518,
     "wof:name":"P\u00fachov",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

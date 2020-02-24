@@ -113,6 +113,9 @@
         "wk:page":"Liptovsk\u00e1 Tepli\u010dka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef075e4d60deaba95f39f9f10339ed81",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780525,
-    "wof:lastmodified":1566645825,
+    "wof:lastmodified":1582382519,
     "wof:name":"Liptovsk\u00e1 Tepli\u010dka",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

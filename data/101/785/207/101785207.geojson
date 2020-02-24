@@ -119,6 +119,9 @@
         "wk:page":"Budmerice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a99574d4cd4b5ec1e31092452cfb5ce",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101785207,
-    "wof:lastmodified":1566645738,
+    "wof:lastmodified":1582382510,
     "wof:name":"Budmerice",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

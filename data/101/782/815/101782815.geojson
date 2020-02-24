@@ -107,6 +107,9 @@
         "wk:page":"Ko\u010dovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab3cc180bb8043a42273e57339c8bd47",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101782815,
-    "wof:lastmodified":1566645753,
+    "wof:lastmodified":1582382512,
     "wof:name":"Ko\u010dovce",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

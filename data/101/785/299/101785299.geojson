@@ -117,6 +117,9 @@
         "wk:page":"Zavar"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8acdd3cc3d867fca9ede91082654948",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645740,
+    "wof:lastmodified":1582382511,
     "wof:name":"Zavar",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

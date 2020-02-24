@@ -128,6 +128,9 @@
         "wd:id":"Q972948"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"890001f28eaf693250976fd55ab4b4b2",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101857935,
-    "wof:lastmodified":1566645715,
+    "wof:lastmodified":1582382508,
     "wof:name":"Hradi\u0161te",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

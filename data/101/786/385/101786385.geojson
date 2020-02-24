@@ -119,6 +119,9 @@
         "wk:page":"Selice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec1e132a7937c3151bda8180f2d1d35a",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101786385,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582382515,
     "wof:name":"Selice",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Zohor"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9669320623a68d7e57b04b356376226",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101785283,
-    "wof:lastmodified":1566645736,
+    "wof:lastmodified":1582382510,
     "wof:name":"Zohor",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

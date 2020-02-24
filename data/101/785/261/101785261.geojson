@@ -145,6 +145,9 @@
         "wk:page":"Modr\u00fd Kame\u0148"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3fdbaf7a3126f56cba5657f0c5a34c6",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101785261,
-    "wof:lastmodified":1566645733,
+    "wof:lastmodified":1582382510,
     "wof:name":"Modr\u00fd Kame\u0148",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

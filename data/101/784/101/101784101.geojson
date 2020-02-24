@@ -175,6 +175,9 @@
         "wk:page":"Senica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f2c891367ecc001ae47c0c12df2e8de3",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645769,
+    "wof:lastmodified":1582382513,
     "wof:name":"Senica",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

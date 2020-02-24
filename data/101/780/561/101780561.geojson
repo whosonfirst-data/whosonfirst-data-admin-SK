@@ -107,6 +107,9 @@
         "wk:page":"Vitanov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"803ddf364bc0cf86a09620ceeb273c75",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101780561,
-    "wof:lastmodified":1566645800,
+    "wof:lastmodified":1582382516,
     "wof:name":"Vitanov\u00e1",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

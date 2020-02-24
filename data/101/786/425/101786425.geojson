@@ -114,6 +114,9 @@
         "wk:page":"Farn\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a410f19171b18c674d2c0c6c97017208",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101786425,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1582382515,
     "wof:name":"Farn\u00e1",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

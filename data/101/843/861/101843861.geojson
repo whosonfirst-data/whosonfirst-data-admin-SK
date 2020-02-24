@@ -116,6 +116,9 @@
         "wk:page":"Ni\u017en\u00fd \u017dipov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55e395eb48c68d9b5bf863b66ed44387",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843861,
-    "wof:lastmodified":1566645701,
+    "wof:lastmodified":1582382507,
     "wof:name":"Ni\u017en\u00fd \u017dipov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -162,6 +162,9 @@
         "wk:page":"Gbely"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f64107b1475e54a91427486a37b25482",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101782803,
-    "wof:lastmodified":1566645746,
+    "wof:lastmodified":1582382511,
     "wof:name":"Gbely",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

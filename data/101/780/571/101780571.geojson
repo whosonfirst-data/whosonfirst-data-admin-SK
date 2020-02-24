@@ -155,6 +155,9 @@
         "wd:id":"Q605059"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fe4b03bed43371b89e018f6ddd6a7d6",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101780571,
-    "wof:lastmodified":1566645824,
+    "wof:lastmodified":1582382519,
     "wof:name":"Spi\u0161sk\u00e1 Bel\u00e1",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Nemeck\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1950d3f769fe02e1f01a91e1244160b7",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843853,
-    "wof:lastmodified":1566645710,
+    "wof:lastmodified":1582382508,
     "wof:name":"Nemeck\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

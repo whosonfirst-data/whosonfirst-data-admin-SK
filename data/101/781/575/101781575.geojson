@@ -156,6 +156,9 @@
         "wd:id":"Q837460"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb74349b5cf8d88660932f4dc0a98c44",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645780,
+    "wof:lastmodified":1582382514,
     "wof:name":"Myjava",
     "wof:parent_id":102080515,
     "wof:placetype":"locality",

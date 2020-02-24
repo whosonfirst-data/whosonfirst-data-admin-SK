@@ -113,6 +113,9 @@
         "wk:page":"Kuchy\u0148a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3acdd68116c92781464518845c3bea93",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101784011,
-    "wof:lastmodified":1566645769,
+    "wof:lastmodified":1582382513,
     "wof:name":"Kuchy\u0148a",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

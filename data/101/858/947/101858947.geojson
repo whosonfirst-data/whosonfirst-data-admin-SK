@@ -114,6 +114,10 @@
         "wd:id":"Q1073020"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6dd6fa83c5718aea1e088064c5019f4",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101858947,
-    "wof:lastmodified":1566645724,
+    "wof:lastmodified":1582382509,
     "wof:name":"Utek\u00e1\u010d",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

@@ -160,6 +160,9 @@
         "wk:page":"Detva"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"975b5fc19baf36d0976f756ee77a9dd4",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645696,
+    "wof:lastmodified":1582382507,
     "wof:name":"Detva",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

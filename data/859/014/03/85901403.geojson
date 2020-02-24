@@ -138,6 +138,11 @@
         "wk:page":"Z\u00e1horsk\u00e1 Bystrica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46a51ad2698a8ef0dba973ba9da037f5",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645445,
+    "wof:lastmodified":1582382501,
     "wof:name":"Z\u00e1horsk\u00e1 Bystrica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

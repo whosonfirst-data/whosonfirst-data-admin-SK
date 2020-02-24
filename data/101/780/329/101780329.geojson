@@ -157,6 +157,9 @@
         "wk:page":"Sobrance"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"faddbd640cc90be2b0172d18fd00695b",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645824,
+    "wof:lastmodified":1582382519,
     "wof:name":"Sobrance",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

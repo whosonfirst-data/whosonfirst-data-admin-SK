@@ -113,6 +113,9 @@
         "wk:page":"Opatovce nad Nitrou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46c1f63e2268f271044336c5b4aaef31",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101754903,
-    "wof:lastmodified":1566645691,
+    "wof:lastmodified":1582382506,
     "wof:name":"Opatovce nad Nitrou",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

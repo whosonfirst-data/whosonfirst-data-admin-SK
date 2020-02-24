@@ -114,6 +114,9 @@
         "wk:page":"Div\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c51f02a7047d2384d6f324f020947568",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101782761,
-    "wof:lastmodified":1566645751,
+    "wof:lastmodified":1582382511,
     "wof:name":"Div\u00edn",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

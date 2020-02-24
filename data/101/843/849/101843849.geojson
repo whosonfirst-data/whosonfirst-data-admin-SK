@@ -113,6 +113,9 @@
         "wk:page":"Tren\u010dianska Turn\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4d5e4fef3e542f64ce1fe71cc377907",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843849,
-    "wof:lastmodified":1566645709,
+    "wof:lastmodified":1582382508,
     "wof:name":"Tren\u010dianska Turn\u00e1",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

@@ -184,6 +184,9 @@
         "wk:page":"Senec, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c496d6cd3e6f90aace0c4b39b65a088",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645727,
+    "wof:lastmodified":1582382509,
     "wof:name":"Senec",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

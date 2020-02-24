@@ -396,6 +396,9 @@
         "wk:page":"Bansk\u00e1 Bystrica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1266f373c27609afeb5672958e3dcf8a",
     "wof:hierarchy":[
         {
@@ -410,7 +413,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645688,
+    "wof:lastmodified":1582382505,
     "wof:name":"Bansk\u00e1 Bystrica",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

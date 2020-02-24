@@ -113,6 +113,9 @@
         "wk:page":"Urmince"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f2cad4f75290b40f909a434c247ff3d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780219,
-    "wof:lastmodified":1566645804,
+    "wof:lastmodified":1582382517,
     "wof:name":"Urmince",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

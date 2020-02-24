@@ -127,6 +127,11 @@
         "wk:page":"Lama\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"09ac36c04d461920510e3f6a3865d7fd",
     "wof:hierarchy":[
         {
@@ -142,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645444,
+    "wof:lastmodified":1582382501,
     "wof:name":"Lama\u010d",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

@@ -119,6 +119,9 @@
         "wk:page":"Vechec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ec48d36f5278971903656d5c2a5bb4f",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101780459,
-    "wof:lastmodified":1566645822,
+    "wof:lastmodified":1582382518,
     "wof:name":"Vechec",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

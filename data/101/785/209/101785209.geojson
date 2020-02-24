@@ -183,6 +183,9 @@
         "wk:page":"Modra"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"929f368ff85de7492c9240846d51b2b6",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101785209,
-    "wof:lastmodified":1566645738,
+    "wof:lastmodified":1582382510,
     "wof:name":"Modra",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

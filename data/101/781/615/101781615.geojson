@@ -119,6 +119,9 @@
         "wk:page":"Bzince pod Javorinou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e48bab0088d452e98e8d1126a686c33",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101781615,
-    "wof:lastmodified":1566645784,
+    "wof:lastmodified":1582382514,
     "wof:name":"Bzince pod Javorinou",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"B\u00fa\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2322c6c3c1afedbaa2b8c473f1a3ea22",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101787493,
-    "wof:lastmodified":1566645797,
+    "wof:lastmodified":1582382516,
     "wof:name":"B\u00fa\u010d",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

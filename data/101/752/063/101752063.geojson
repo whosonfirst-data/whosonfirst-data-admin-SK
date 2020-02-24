@@ -397,6 +397,9 @@
         "wk:page":"\u017dilina"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3a819eb45514e4bb490a567768e15ce",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645689,
+    "wof:lastmodified":1582382506,
     "wof:name":"\u017dilina",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

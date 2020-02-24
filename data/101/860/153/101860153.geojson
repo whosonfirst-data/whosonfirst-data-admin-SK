@@ -115,6 +115,9 @@
         "wk:page":"\u010cierna"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3114a4af9fce6c1b068aa304e0e69aaa",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101860153,
-    "wof:lastmodified":1566645722,
+    "wof:lastmodified":1582382509,
     "wof:name":"\u010cierna nad Tisou",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

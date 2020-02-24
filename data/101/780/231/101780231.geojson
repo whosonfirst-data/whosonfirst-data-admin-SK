@@ -113,6 +113,9 @@
         "wk:page":"Telg\u00e1rt"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ce20a67d6f7f17666b80e4adfb87814",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780231,
-    "wof:lastmodified":1566645820,
+    "wof:lastmodified":1582382518,
     "wof:name":"Telg\u00e1rt",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

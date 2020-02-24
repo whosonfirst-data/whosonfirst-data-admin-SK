@@ -112,6 +112,9 @@
         "qs_pg:id":908986
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fa005511fe0e1f7822f01f7007a4e6f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101847823,
-    "wof:lastmodified":1566645775,
+    "wof:lastmodified":1582382514,
     "wof:name":"Oravsk\u00e1 Jasenica",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

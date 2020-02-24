@@ -119,6 +119,9 @@
         "qs_pg:id":1271477
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a69d4c045f15e170eddde058824e5dc4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101784057,
-    "wof:lastmodified":1566645771,
+    "wof:lastmodified":1582382513,
     "wof:name":"Nitrianska Blatnica",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

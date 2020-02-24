@@ -138,6 +138,9 @@
         "wk:page":"Tlma\u010de"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61a93525d221036e9f73a75fd23f6302",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101783967,
-    "wof:lastmodified":1566645761,
+    "wof:lastmodified":1582382512,
     "wof:name":"Tlma\u010de",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

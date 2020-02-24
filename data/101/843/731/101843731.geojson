@@ -109,6 +109,9 @@
         "wk:page":"Kajal (village)"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1585e1f05bd6db029fa15b8a611b3ee",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101843731,
-    "wof:lastmodified":1566645699,
+    "wof:lastmodified":1582382507,
     "wof:name":"Kajal",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -191,6 +191,9 @@
         "wk:page":"Byt\u010da"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f0fa0244c502bd4916fba0f169f1f31",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645810,
+    "wof:lastmodified":1582382517,
     "wof:name":"Byt\u010da",
     "wof:parent_id":102080581,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wk:page":"N\u00e1mestovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1221f1f75dddb324ba61ec382da2fba6",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645774,
+    "wof:lastmodified":1582382514,
     "wof:name":"N\u00e1mestovo",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

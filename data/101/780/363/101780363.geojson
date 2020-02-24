@@ -110,6 +110,9 @@
         "wk:page":"Va\u017eec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86d63b01b902b2def6a6132b98e7c761",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780363,
-    "wof:lastmodified":1566645800,
+    "wof:lastmodified":1582382517,
     "wof:name":"Va\u017eec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

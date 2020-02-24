@@ -112,6 +112,10 @@
         "wk:page":"Brvni\u0161te"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ea259dbd0aec2ba5ec847183e8468ad",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":101875835,
-    "wof:lastmodified":1566645695,
+    "wof:lastmodified":1582382506,
     "wof:name":"Brvni\u0161te",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

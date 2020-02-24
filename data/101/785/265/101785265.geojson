@@ -112,6 +112,9 @@
         "wk:page":"Vinica, Ve\u013ek\u00fd Krt\u00ed\u0161 District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae25b954a9005eb74521850b78a176cc",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101785265,
-    "wof:lastmodified":1566645739,
+    "wof:lastmodified":1582382510,
     "wof:name":"Vinica",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Demandice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d14ff67b12c654740fbff2270ca3056",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101783987,
-    "wof:lastmodified":1566645761,
+    "wof:lastmodified":1582382512,
     "wof:name":"Demandice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

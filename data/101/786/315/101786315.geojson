@@ -187,6 +187,9 @@
         "wk:page":"Dunajsk\u00e1 Streda"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afb5dd7189f7d5fba4cdc3876d2b259c",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582382515,
     "wof:name":"Dunajsk\u00e1 Streda",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

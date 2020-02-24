@@ -122,6 +122,9 @@
         "wk:page":"Rozhanovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb15d85d589394bf81012f1b02d13649",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101780245,
-    "wof:lastmodified":1566645803,
+    "wof:lastmodified":1582382517,
     "wof:name":"Rozhanovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

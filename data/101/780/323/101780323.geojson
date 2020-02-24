@@ -122,6 +122,9 @@
         "wk:page":"Su\u010dany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c54d391daab2d226a0b2974e3fc538fe",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101780323,
-    "wof:lastmodified":1566645810,
+    "wof:lastmodified":1582382517,
     "wof:name":"Su\u010dany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

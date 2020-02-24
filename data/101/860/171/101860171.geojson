@@ -196,6 +196,10 @@
         "wk:page":"Vysok\u00e9 Tatry"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4edba1c9e3003b0155442b8440828d6",
     "wof:hierarchy":[
         {
@@ -210,7 +214,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645723,
+    "wof:lastmodified":1582382509,
     "wof:name":"Vysok\u00e9 Tatry",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

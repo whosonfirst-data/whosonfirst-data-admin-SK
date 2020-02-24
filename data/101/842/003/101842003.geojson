@@ -110,6 +110,9 @@
         "wk:page":"Svr\u010dinovec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"838c095a58a5c9f2cc953f379ed5d770",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101842003,
-    "wof:lastmodified":1566645693,
+    "wof:lastmodified":1582382506,
     "wof:name":"Svr\u010dinovec",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

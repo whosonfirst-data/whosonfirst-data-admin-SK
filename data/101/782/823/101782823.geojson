@@ -153,6 +153,9 @@
         "wk:page":"Tisovec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79544ef44535370bc6e135b805683d4e",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101782823,
-    "wof:lastmodified":1566645752,
+    "wof:lastmodified":1582382511,
     "wof:name":"Tisovec",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

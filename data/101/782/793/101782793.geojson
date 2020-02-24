@@ -113,6 +113,9 @@
         "wk:page":"M\u00e1linec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21601b9e18a34d9734edc299e1f01159",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101782793,
-    "wof:lastmodified":1566645751,
+    "wof:lastmodified":1582382511,
     "wof:name":"M\u00e1linec",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

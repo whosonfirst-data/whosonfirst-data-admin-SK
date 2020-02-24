@@ -133,6 +133,9 @@
         "qs_pg:id":905014
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c77a32ccfd6889157e82e0a0e8c779e9",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101786347,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582382515,
     "wof:name":"Lipov\u00e1",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

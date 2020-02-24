@@ -114,6 +114,9 @@
         "wk:page":"Partiz\u00e1nska \u013dup\u010da"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab856a8917eaffcc5b8505b0359d9c1e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101858957,
-    "wof:lastmodified":1566645724,
+    "wof:lastmodified":1582382509,
     "wof:name":"Partiz\u00e1nska \u013dup\u010da",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

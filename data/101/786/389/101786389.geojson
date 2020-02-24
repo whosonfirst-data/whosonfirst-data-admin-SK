@@ -113,6 +113,9 @@
         "wk:page":"\u017dih\u00e1rec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"305ba172553a325390f4ff1f69e44b8b",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101786389,
-    "wof:lastmodified":1566645794,
+    "wof:lastmodified":1582382516,
     "wof:name":"\u017dih\u00e1rec",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

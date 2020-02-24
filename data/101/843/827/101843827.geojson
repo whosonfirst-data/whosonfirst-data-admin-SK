@@ -113,6 +113,9 @@
         "wk:page":"Pravenec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07136594de345e1ea9644f2555eefd93",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843827,
-    "wof:lastmodified":1566645699,
+    "wof:lastmodified":1582382507,
     "wof:name":"Pravenec",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

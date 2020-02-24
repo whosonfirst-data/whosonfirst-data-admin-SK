@@ -113,6 +113,9 @@
         "wk:page":"Haniska, Ko\u0161ice-okolie District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6c02dec00aa3b1e35236edb7e4423ac",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843885,
-    "wof:lastmodified":1566645710,
+    "wof:lastmodified":1582382508,
     "wof:name":"Haniska",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

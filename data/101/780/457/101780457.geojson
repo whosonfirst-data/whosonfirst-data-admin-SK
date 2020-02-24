@@ -114,6 +114,9 @@
         "wk:page":"Sedlisk\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c97fb250723affd7742d8a8474b184a9",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101780457,
-    "wof:lastmodified":1566645821,
+    "wof:lastmodified":1582382518,
     "wof:name":"Sedlisk\u00e1",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

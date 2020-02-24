@@ -119,6 +119,9 @@
         "wk:page":"Pal\u00e1rikovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae00fdf08083a60544e9e5fd6c3e69a4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101786327,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1582382516,
     "wof:name":"Pal\u00e1rikovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -119,6 +119,10 @@
         "gp:id":822726
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"396c52b4c052ebfab946ff3edb9714ef",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645443,
+    "wof:lastmodified":1582382501,
     "wof:name":"Trn\u00e1vka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

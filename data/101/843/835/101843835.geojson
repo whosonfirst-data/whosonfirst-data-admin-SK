@@ -369,6 +369,9 @@
         "wk:page":"Mo\u0161ovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b40fa6cbad993f3eef11bd9b596d09c",
     "wof:hierarchy":[
         {
@@ -380,7 +383,7 @@
         }
     ],
     "wof:id":101843835,
-    "wof:lastmodified":1566645701,
+    "wof:lastmodified":1582382507,
     "wof:name":"Mo\u0161ovce",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Mal\u017eenice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5e0f532d5ce5b7044f69417c242c1d4",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645758,
+    "wof:lastmodified":1582382512,
     "wof:name":"Mal\u017eenice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

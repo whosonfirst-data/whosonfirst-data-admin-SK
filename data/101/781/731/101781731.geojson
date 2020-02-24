@@ -116,6 +116,9 @@
         "wk:page":"Soblahov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"893562ea05abfd2d60f7f2e5803f93b6",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101781731,
-    "wof:lastmodified":1566645777,
+    "wof:lastmodified":1582382514,
     "wof:name":"Soblahov",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

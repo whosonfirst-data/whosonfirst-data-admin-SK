@@ -238,6 +238,9 @@
         "wk:page":"Poprad"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddd6fadf735204b27057354a735b9f13",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645690,
+    "wof:lastmodified":1582382506,
     "wof:name":"Poprad",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Doln\u00e9 Vestenice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7d244a562fc40d95f81f4fab510759d",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782843,
-    "wof:lastmodified":1566645745,
+    "wof:lastmodified":1582382511,
     "wof:name":"Doln\u00e9 Vestenice",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

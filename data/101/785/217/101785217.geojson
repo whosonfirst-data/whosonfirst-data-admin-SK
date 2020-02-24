@@ -187,6 +187,9 @@
         "wk:page":"Sv\u00e4t\u00fd Jur"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f37a4223a74f760009c6e0894bc2f3e7",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":101785217,
-    "wof:lastmodified":1566645732,
+    "wof:lastmodified":1582382510,
     "wof:name":"Sv\u00e4t\u00fd Jur",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

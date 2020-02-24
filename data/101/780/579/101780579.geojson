@@ -131,6 +131,9 @@
         "wk:page":"Vrbov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46f7a97e7231a85a70cc33b696049671",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101780579,
-    "wof:lastmodified":1566645826,
+    "wof:lastmodified":1582382519,
     "wof:name":"Vrbov",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

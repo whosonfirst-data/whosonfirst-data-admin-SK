@@ -228,6 +228,9 @@
         "wk:page":"Podol\u00ednec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3be40c1f863075f471a51d2ddaf999c",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":101780587,
-    "wof:lastmodified":1566645813,
+    "wof:lastmodified":1582382517,
     "wof:name":"Podol\u00ednec",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

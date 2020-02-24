@@ -122,6 +122,9 @@
         "wk:page":"Bo\u0161any"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46978cbf0de25e1c422e1728f7ec1a4e",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101784089,
-    "wof:lastmodified":1566645769,
+    "wof:lastmodified":1582382513,
     "wof:name":"Bo\u0161any",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

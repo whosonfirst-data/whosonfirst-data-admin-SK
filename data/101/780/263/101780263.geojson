@@ -110,6 +110,9 @@
         "wk:page":"Hrabu\u0161ice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca3fa1b8ad42db31e5a388f1f802ea65",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780263,
-    "wof:lastmodified":1566645822,
+    "wof:lastmodified":1582382518,
     "wof:name":"Hrabu\u0161ice",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

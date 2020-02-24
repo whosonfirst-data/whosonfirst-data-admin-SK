@@ -116,6 +116,9 @@
         "wk:page":"Sekule"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c39484a6c1cd775f8b70fc1c77fb15fa",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101833943,
-    "wof:lastmodified":1566645727,
+    "wof:lastmodified":1582382510,
     "wof:name":"Sekule",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

@@ -203,6 +203,9 @@
         "wd:id":"Q276362"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0eeee1364c0c873f5e7cdfdf0478bd5",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":101786339,
-    "wof:lastmodified":1566645788,
+    "wof:lastmodified":1582382515,
     "wof:name":"Nov\u00e9 Z\u00e1mky",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "wd:id":"Q389397"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d97a63ffe29fd8dd541d227ca75a6b4c",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101787497,
-    "wof:lastmodified":1566645796,
+    "wof:lastmodified":1582382516,
     "wof:name":"Gab\u010d\u00edkovo",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

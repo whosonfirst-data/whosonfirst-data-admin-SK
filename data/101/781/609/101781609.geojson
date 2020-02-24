@@ -116,6 +116,9 @@
         "wk:page":"Lubina"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6826e829c6faa13785a85a0ccb65e088",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101781609,
-    "wof:lastmodified":1566645785,
+    "wof:lastmodified":1582382515,
     "wof:name":"Lubina",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "wk:page":"Helcmanovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5475738d580c1fc1cd881df3d752563c",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101843889,
-    "wof:lastmodified":1566645699,
+    "wof:lastmodified":1582382507,
     "wof:name":"Helcmanovce",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

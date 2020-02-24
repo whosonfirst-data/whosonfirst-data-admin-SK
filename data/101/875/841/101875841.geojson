@@ -115,6 +115,10 @@
         "wk:page":"\u010cierne"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ca07d318f99a415eeab9f809dd63bdb",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":101875841,
-    "wof:lastmodified":1566645695,
+    "wof:lastmodified":1582382506,
     "wof:name":"\u010cierne",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

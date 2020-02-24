@@ -110,6 +110,9 @@
         "wk:page":"Star\u00fd Tekov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad27132c9b1b3654946d94cef434a558",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101783977,
-    "wof:lastmodified":1566645759,
+    "wof:lastmodified":1582382512,
     "wof:name":"Star\u00fd Tekov",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

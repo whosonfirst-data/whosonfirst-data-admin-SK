@@ -116,6 +116,9 @@
         "wk:page":"Margecany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1220679f7c3a6aea7344fda5fbde7c06",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780255,
-    "wof:lastmodified":1566645822,
+    "wof:lastmodified":1582382518,
     "wof:name":"Margecany",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Hybe"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4be3ccf9a42378f78440a0f5a0dbc27e",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780365,
-    "wof:lastmodified":1566645799,
+    "wof:lastmodified":1582382516,
     "wof:name":"Hybe",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

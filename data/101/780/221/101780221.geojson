@@ -114,6 +114,9 @@
         "wk:page":"Mur\u00e1\u0148"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d5eb689c4df40bb0dc1eac10fafb004",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101780221,
-    "wof:lastmodified":1566645803,
+    "wof:lastmodified":1582382517,
     "wof:name":"Mur\u00e1\u0148",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

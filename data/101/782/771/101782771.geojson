@@ -116,6 +116,9 @@
         "wk:page":"Soboti\u0161te"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5734cd7be7b9a9092d52cc1d82dec3a",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782771,
-    "wof:lastmodified":1566645748,
+    "wof:lastmodified":1582382511,
     "wof:name":"Soboti\u0161te",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

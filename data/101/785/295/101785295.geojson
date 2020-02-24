@@ -121,6 +121,9 @@
         "wk:page":"Ru\u017eindol"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b216fe7262de7d972e350e637771aa8b",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645733,
+    "wof:lastmodified":1582382510,
     "wof:name":"Ru\u017eindol",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

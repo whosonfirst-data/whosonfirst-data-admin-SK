@@ -117,6 +117,9 @@
         "wk:page":"Chynorany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4de9ca6388d086996019803f66f69aea",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101843789,
-    "wof:lastmodified":1566645714,
+    "wof:lastmodified":1582382508,
     "wof:name":"Chynorany",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

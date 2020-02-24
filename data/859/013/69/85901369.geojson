@@ -90,6 +90,10 @@
         "wd:id":"Q277852"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6252e8861dd26debef0d59743d27bab",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645442,
+    "wof:lastmodified":1582382501,
     "wof:name":"Koliba",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

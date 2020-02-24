@@ -110,6 +110,9 @@
         "wk:page":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28bbd7aaf27b4c3a58c1dc94b3cbc5ee",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780267,
-    "wof:lastmodified":1566645807,
+    "wof:lastmodified":1582382517,
     "wof:name":"Spi\u0161sk\u00e9 Tom\u00e1\u0161ovce",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

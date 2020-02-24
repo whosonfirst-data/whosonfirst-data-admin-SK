@@ -107,6 +107,9 @@
         "wk:page":"Hru\u0161t\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"630ea2617555216daae0c74f8cc95f57",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101780597,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1582382518,
     "wof:name":"Hru\u0161t\u00edn",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

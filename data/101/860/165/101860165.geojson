@@ -116,6 +116,10 @@
         "wk:page":"Stre\u010dno"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a0ff2aae120f572ccccf63df29a59e0",
     "wof:hierarchy":[
         {
@@ -130,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645723,
+    "wof:lastmodified":1582382509,
     "wof:name":"Stre\u010dno",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

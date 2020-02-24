@@ -114,6 +114,9 @@
         "wk:page":"Boler\u00e1z"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73640f62272b58067e0675489eda9761",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645756,
+    "wof:lastmodified":1582382512,
     "wof:name":"Boler\u00e1z",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

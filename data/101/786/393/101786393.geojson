@@ -191,6 +191,9 @@
         "wk:page":"\u0160a\u013ea"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a2b37ec55547d51a8679564ad3959d8",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645792,
+    "wof:lastmodified":1582382516,
     "wof:name":"\u0160a\u013ea",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

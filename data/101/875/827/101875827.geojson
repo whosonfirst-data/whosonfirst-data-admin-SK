@@ -111,6 +111,9 @@
         "wk:page":"Valask\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9ead95c3533a4243ccc42b8414f8ae4",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101875827,
-    "wof:lastmodified":1566645694,
+    "wof:lastmodified":1582382506,
     "wof:name":"Valask\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

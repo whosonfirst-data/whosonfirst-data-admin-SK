@@ -106,6 +106,9 @@
         "wk:page":"Poruba, Prievidza District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2024971fa25088fd21def7068ce8c62",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101781643,
-    "wof:lastmodified":1566645777,
+    "wof:lastmodified":1582382514,
     "wof:name":"Poruba",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

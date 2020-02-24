@@ -116,6 +116,9 @@
         "wk:page":"Doln\u00e1 Streda"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97811cfdd387ffea2dc53e5bb7100e32",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101834123,
-    "wof:lastmodified":1566645730,
+    "wof:lastmodified":1582382510,
     "wof:name":"Doln\u00e1 Streda",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

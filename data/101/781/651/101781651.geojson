@@ -113,6 +113,9 @@
         "wk:page":"Kanianka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40e99657cf99f9b9a775546a6ddfff77",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101781651,
-    "wof:lastmodified":1566645779,
+    "wof:lastmodified":1582382514,
     "wof:name":"Kanianka",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

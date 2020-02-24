@@ -115,6 +115,10 @@
         "wk:page":"Horn\u00fd Vadi\u010dov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44e2d0f1c72f0f35163d4068ae686bdb",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":101860169,
-    "wof:lastmodified":1566645722,
+    "wof:lastmodified":1582382509,
     "wof:name":"Horn\u00fd Vadi\u010dov",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Gbelce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c331da3d500bddee81bc05a181b77c47",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101787505,
-    "wof:lastmodified":1566645795,
+    "wof:lastmodified":1582382516,
     "wof:name":"Gbelce",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

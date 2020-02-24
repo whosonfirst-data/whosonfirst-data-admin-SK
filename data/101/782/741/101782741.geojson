@@ -119,6 +119,9 @@
         "wk:page":"Jaslovsk\u00e9 Bohunice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04bd801b2cf4c662684ebc3a19903241",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645750,
+    "wof:lastmodified":1582382511,
     "wof:name":"Jaslovsk\u00e9 Bohunice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

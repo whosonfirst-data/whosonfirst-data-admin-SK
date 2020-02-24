@@ -154,6 +154,10 @@
         "wk:page":"Ve\u013ek\u00fd \u0160ari\u0161"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"383dcd8cd523da8f1014772689dc46a8",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645715,
+    "wof:lastmodified":1582382508,
     "wof:name":"Ve\u013ek\u00fd \u0160ari\u0161",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

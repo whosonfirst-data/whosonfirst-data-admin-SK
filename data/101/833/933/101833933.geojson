@@ -119,6 +119,9 @@
         "wk:page":"Kri\u017eovany nad Dudv\u00e1hom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"880568504452641ea26388f8a89d6ac0",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645726,
+    "wof:lastmodified":1582382509,
     "wof:name":"Kri\u017eovany nad Dudv\u00e1hom",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

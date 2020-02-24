@@ -113,6 +113,9 @@
         "wk:page":"Sta\u0161kov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d542604b6f349d1d6a5c0b9ea7e863ce",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101842007,
-    "wof:lastmodified":1566645693,
+    "wof:lastmodified":1582382506,
     "wof:name":"Sta\u0161kov",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

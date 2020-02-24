@@ -116,6 +116,9 @@
         "wk:page":"Sv\u00e4t\u00fd Peter"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54d227419995258a193a106bb0572666",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101787467,
-    "wof:lastmodified":1566645798,
+    "wof:lastmodified":1582382516,
     "wof:name":"Sv\u00e4t\u00fd Peter",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

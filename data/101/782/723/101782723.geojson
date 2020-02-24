@@ -163,6 +163,9 @@
         "wk:page":"Hlohovec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"228acee5cf0aec1d3ebfe6983cfd71ff",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645749,
+    "wof:lastmodified":1582382511,
     "wof:name":"Hlohovec",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

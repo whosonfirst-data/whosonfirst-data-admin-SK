@@ -162,6 +162,9 @@
         "wk:page":"Dob\u0161in\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0dcfc7bcb8196873c43f6efd0e573d7",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101843871,
-    "wof:lastmodified":1566645710,
+    "wof:lastmodified":1582382508,
     "wof:name":"Dob\u0161in\u00e1",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

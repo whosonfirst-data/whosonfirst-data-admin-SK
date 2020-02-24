@@ -122,6 +122,9 @@
         "wk:page":"Malinovo, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0b99006004d617bd18e0535c8e6235b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101786369,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1582382516,
     "wof:name":"Malinovo",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

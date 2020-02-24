@@ -113,6 +113,9 @@
         "wk:page":"Smi\u017eany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac0dde08f90bf7b89e0f305e9388e674",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101832717,
-    "wof:lastmodified":1566645720,
+    "wof:lastmodified":1582382509,
     "wof:name":"Smi\u017eany",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

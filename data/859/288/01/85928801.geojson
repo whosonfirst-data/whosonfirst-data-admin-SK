@@ -165,6 +165,10 @@
         "wk:page":"Dev\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ce3a944415c19437bec013bcafb28a5",
     "wof:hierarchy":[
         {
@@ -180,7 +184,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645445,
+    "wof:lastmodified":1582382501,
     "wof:name":"Dev\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -155,6 +155,11 @@
         "wk:page":"Rusovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"94292f306858571ffb8446b58a64f491",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645444,
+    "wof:lastmodified":1582382501,
     "wof:name":"Rusovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

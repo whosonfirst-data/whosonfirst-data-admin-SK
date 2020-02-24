@@ -116,6 +116,9 @@
         "wk:page":"Lazy pod Makytou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4075d316bd4b7c135fdfa7c3b1617a67",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780331,
-    "wof:lastmodified":1566645799,
+    "wof:lastmodified":1582382516,
     "wof:name":"Lazy pod Makytou",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",
