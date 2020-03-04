@@ -1056,7 +1056,6 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1129,7 +1128,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1582382502,
+    "wof:lastmodified":1583261341,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
