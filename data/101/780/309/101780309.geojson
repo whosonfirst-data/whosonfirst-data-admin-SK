@@ -110,6 +110,9 @@
         "wk:page":"Hubov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4126795048dcd110855161dfc84cfdb7",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780309,
-    "wof:lastmodified":1566645799,
+    "wof:lastmodified":1582382516,
     "wof:name":"Hubov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

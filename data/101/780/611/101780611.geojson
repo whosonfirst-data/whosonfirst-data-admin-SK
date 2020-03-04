@@ -237,6 +237,9 @@
         "wd:id":"Q27007"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3abf6d094423b38f5e46c9b30dde7c8",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645804,
+    "wof:lastmodified":1582382517,
     "wof:name":"Bardejov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

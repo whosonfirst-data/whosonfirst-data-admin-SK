@@ -109,6 +109,9 @@
         "wk:page":"Kamenn\u00fd Most (Nov\u00e9 Z\u00e1mky District)"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db9b306e4f5536d0407a8cb86f940b4b",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101780211,
-    "wof:lastmodified":1566645801,
+    "wof:lastmodified":1582382517,
     "wof:name":"Kamenn\u00fd Most",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

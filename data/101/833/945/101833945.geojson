@@ -110,6 +110,9 @@
         "wk:page":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2f7be8c66fa405599afe0c2cbe5069d",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101833945,
-    "wof:lastmodified":1566645726,
+    "wof:lastmodified":1582382509,
     "wof:name":"Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

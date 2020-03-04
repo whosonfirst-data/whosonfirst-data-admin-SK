@@ -113,6 +113,9 @@
         "wk:page":"\u010cierna Voda"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24030a5dee9a79b56a4bd608b313f0e5",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101786405,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1582382516,
     "wof:name":"\u010cierna Voda",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

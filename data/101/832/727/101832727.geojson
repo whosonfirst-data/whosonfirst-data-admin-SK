@@ -112,6 +112,9 @@
         "wk:page":"Gbe\u013eany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21969ef049d8a17645bd4e5c019136b3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645721,
+    "wof:lastmodified":1582382509,
     "wof:name":"Gbe\u013eany",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

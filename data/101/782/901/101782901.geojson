@@ -178,6 +178,9 @@
         "wk:page":"Ro\u017e\u0148ava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4b8feb11f8b74b66fef502abf044ec8",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645742,
+    "wof:lastmodified":1582382511,
     "wof:name":"Ro\u017e\u0148ava",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

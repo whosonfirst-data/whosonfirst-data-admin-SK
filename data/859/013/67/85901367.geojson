@@ -127,6 +127,10 @@
         "wk:page":"Kave\u010dany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e28f189be10ae9a477fa051875e13d26",
     "wof:hierarchy":[
         {
@@ -142,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645442,
+    "wof:lastmodified":1582382501,
     "wof:name":"Kavecany",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

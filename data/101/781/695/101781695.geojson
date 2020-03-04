@@ -177,6 +177,9 @@
         "wk:page":"Handlov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"480586cc1a86798bd18aec688afed4fc",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":101781695,
-    "wof:lastmodified":1566645779,
+    "wof:lastmodified":1582382514,
     "wof:name":"Handlov\u00e1",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

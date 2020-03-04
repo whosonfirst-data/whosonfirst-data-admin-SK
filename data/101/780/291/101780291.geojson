@@ -116,6 +116,9 @@
         "wk:page":"Rakovec nad Ondavou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc7e3e4296043b383621d8f1da21bb07",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780291,
-    "wof:lastmodified":1566645820,
+    "wof:lastmodified":1582382518,
     "wof:name":"Rakovec nad Ondavou",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

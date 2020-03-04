@@ -117,6 +117,9 @@
         "wk:page":"Leme\u0161any"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47d187b4fa83fa93dd52d89eac353c40",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645697,
+    "wof:lastmodified":1582382507,
     "wof:name":"Leme\u0161any",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

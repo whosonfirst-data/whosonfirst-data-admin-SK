@@ -115,6 +115,9 @@
         "wd:id":"Q942639"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ce5f04f21951e44490bac99b21d22e6",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101780551,
-    "wof:lastmodified":1566645798,
+    "wof:lastmodified":1582382516,
     "wof:name":"Ni\u017en\u00e1",
     "wof:parent_id":102080605,
     "wof:placetype":"locality",

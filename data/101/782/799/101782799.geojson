@@ -113,6 +113,9 @@
         "wk:page":"Kalinovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a4031f229443e405836ecbe80f0b81f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101782799,
-    "wof:lastmodified":1566645741,
+    "wof:lastmodified":1582382511,
     "wof:name":"Kalinovo",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

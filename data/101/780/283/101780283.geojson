@@ -162,6 +162,9 @@
         "wk:page":"Krompachy"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d56002bb9300ce0ba16bd46c3871861",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101780283,
-    "wof:lastmodified":1566645817,
+    "wof:lastmodified":1582382518,
     "wof:name":"Krompachy",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

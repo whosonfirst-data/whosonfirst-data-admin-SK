@@ -119,6 +119,9 @@
         "wk:page":"Bad\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0010f861750e2c2530384a02e0b504e2",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101782837,
-    "wof:lastmodified":1566645755,
+    "wof:lastmodified":1582382512,
     "wof:name":"Bad\u00edn",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

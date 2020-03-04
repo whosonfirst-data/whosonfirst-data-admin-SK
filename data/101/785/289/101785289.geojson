@@ -156,6 +156,9 @@
         "wk:page":"Stupava, Malacky District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d13d41f4ad504f93d116863aa137afda",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101785289,
-    "wof:lastmodified":1566645732,
+    "wof:lastmodified":1582382510,
     "wof:name":"Stupava",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

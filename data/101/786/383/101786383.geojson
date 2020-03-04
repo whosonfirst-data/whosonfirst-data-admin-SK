@@ -114,6 +114,9 @@
         "wk:page":"Te\u0161ed\u00edkovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7eade219568278bbcc4e931980786d37",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101786383,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582382515,
     "wof:name":"Te\u0161ed\u00edkovo",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

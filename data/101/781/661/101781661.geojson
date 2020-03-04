@@ -114,6 +114,9 @@
         "wk:page":"Nitrianske Rudno"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e538249be7b61be55adc088fc674a48",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101781661,
-    "wof:lastmodified":1566645779,
+    "wof:lastmodified":1582382514,
     "wof:name":"Nitrianske Rudno",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

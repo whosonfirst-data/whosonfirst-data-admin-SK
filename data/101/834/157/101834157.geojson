@@ -180,6 +180,9 @@
         "qs_pg:id":1042930
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1582e3c4e2271bcbbaa3264ef5ae84eb",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101834157,
-    "wof:lastmodified":1566645727,
+    "wof:lastmodified":1582382510,
     "wof:name":"\u0160t\u00farovo",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

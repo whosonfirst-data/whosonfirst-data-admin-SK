@@ -116,6 +116,9 @@
         "wk:page":"Makov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83601e7892f874b515c5646a382df2b6",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843969,
-    "wof:lastmodified":1566645708,
+    "wof:lastmodified":1582382508,
     "wof:name":"Makov",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

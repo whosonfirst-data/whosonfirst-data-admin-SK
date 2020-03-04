@@ -115,6 +115,9 @@
         "wd:id":"Q973842"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98c02478f40597e5ad872e0f52365b97",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101784143,
-    "wof:lastmodified":1566645767,
+    "wof:lastmodified":1582382513,
     "wof:name":"Oslany",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -153,6 +153,9 @@
         "wk:page":"Se\u010dovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e93598e9a31de4468d0be29e5c5e15ee",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101782853,
-    "wof:lastmodified":1566645755,
+    "wof:lastmodified":1582382512,
     "wof:name":"Se\u010dovce",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

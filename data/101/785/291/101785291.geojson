@@ -115,6 +115,9 @@
         "wk:page":"Such\u00e1 nad Parnou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f2b7150eb7130e57ee7da3a6a3ab84c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645738,
+    "wof:lastmodified":1582382510,
     "wof:name":"Such\u00e1 nad Parnou",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

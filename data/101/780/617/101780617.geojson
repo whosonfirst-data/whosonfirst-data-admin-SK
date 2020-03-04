@@ -159,6 +159,9 @@
         "wk:page":"Giraltovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10045a2b85306309f75e6f25bdf850c8",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101780617,
-    "wof:lastmodified":1566645802,
+    "wof:lastmodified":1582382517,
     "wof:name":"Giraltovce",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

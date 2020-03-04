@@ -107,6 +107,9 @@
         "wk:page":"Kl\u00e1tova Nov\u00e1 Ves"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"116f469312fad8f1ceaee465e8fd4e3d",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101784083,
-    "wof:lastmodified":1566645764,
+    "wof:lastmodified":1582382512,
     "wof:name":"Kl\u00e1tova Nov\u00e1 Ves",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

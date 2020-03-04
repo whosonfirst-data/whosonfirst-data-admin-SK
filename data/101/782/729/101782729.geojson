@@ -119,6 +119,9 @@
         "wk:page":"Studienka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a86ad673f9a3021f1173a4b35a16de44",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101782729,
-    "wof:lastmodified":1566645758,
+    "wof:lastmodified":1582382512,
     "wof:name":"Studienka",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

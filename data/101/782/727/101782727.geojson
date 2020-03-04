@@ -110,6 +110,9 @@
         "wk:page":"Z\u00e1vod, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76ff5f3b192e8b6d9637f5f73d99f295",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101782727,
-    "wof:lastmodified":1566645758,
+    "wof:lastmodified":1582382512,
     "wof:name":"Z\u00e1vod",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

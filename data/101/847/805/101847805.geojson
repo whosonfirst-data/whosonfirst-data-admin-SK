@@ -110,6 +110,9 @@
         "wk:page":"Oravsk\u00e1 Polhora"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25e3986d1c396cdf7b8c21acf51aba98",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101847805,
-    "wof:lastmodified":1566645775,
+    "wof:lastmodified":1582382514,
     "wof:name":"Oravsk\u00e1 Polhora",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

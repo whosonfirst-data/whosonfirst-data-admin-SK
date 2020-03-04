@@ -110,6 +110,9 @@
         "wk:page":"Be\u0161e\u0148ov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffe494d99fab35ef42c1327b82b14cd0",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101786361,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1582382515,
     "wof:name":"Be\u0161e\u0148ov",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

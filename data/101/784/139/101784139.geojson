@@ -110,6 +110,9 @@
         "wk:page":"\u010cere\u0148any"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"446857555569aa6976f3b97ff10cf97a",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101784139,
-    "wof:lastmodified":1566645768,
+    "wof:lastmodified":1582382513,
     "wof:name":"\u010cere\u0148any",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

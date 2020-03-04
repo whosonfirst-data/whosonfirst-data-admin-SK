@@ -117,6 +117,9 @@
         "wk:page":"Lokca"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"abe0cf1ca0be8d1f5badab63e83ecdb7",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101860181,
-    "wof:lastmodified":1566645722,
+    "wof:lastmodified":1582382509,
     "wof:name":"Lokca",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

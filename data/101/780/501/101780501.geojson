@@ -131,6 +131,9 @@
         "wk:page":"\u017ddiar"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12136e9a025620afadcd2b3253b181e8",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645813,
+    "wof:lastmodified":1582382518,
     "wof:name":"\u017ddiar",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

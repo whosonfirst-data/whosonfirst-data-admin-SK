@@ -110,6 +110,9 @@
         "wk:page":"Dobr\u00e1 Niva"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36f0501596cdf1f89c3d166eb76dfe2f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101784107,
-    "wof:lastmodified":1566645768,
+    "wof:lastmodified":1582382513,
     "wof:name":"Dobr\u00e1 Niva",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

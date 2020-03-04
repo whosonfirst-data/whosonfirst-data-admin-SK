@@ -116,6 +116,9 @@
         "wk:page":"Kuzmice, Trebi\u0161ov District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf8e25d3badfd8bfc462da781c935408",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782857,
-    "wof:lastmodified":1566645746,
+    "wof:lastmodified":1582382511,
     "wof:name":"Kuzmice",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

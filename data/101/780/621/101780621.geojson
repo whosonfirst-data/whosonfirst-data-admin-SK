@@ -169,6 +169,9 @@
         "wd:id":"Q833845"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18dc22fb28126b0aee789ad90a5764a8",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645802,
+    "wof:lastmodified":1582382517,
     "wof:name":"Svidn\u00edk",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

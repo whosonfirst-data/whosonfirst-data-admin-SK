@@ -210,6 +210,9 @@
         "wk:page":"Levo\u010da"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a8c4ac9a0b394d3a4c1dfa1fcde61e3",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645811,
+    "wof:lastmodified":1582382517,
     "wof:name":"Levo\u010da",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

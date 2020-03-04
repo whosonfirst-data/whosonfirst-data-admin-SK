@@ -110,6 +110,9 @@
         "wk:page":"Pozdi\u0161ovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59a3b39e5abe965bce48895cc1f5756f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780295,
-    "wof:lastmodified":1566645806,
+    "wof:lastmodified":1582382517,
     "wof:name":"Pozdi\u0161ovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

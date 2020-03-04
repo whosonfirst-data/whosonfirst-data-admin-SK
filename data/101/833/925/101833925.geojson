@@ -116,6 +116,9 @@
         "wk:page":"Neded"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f61b6f1e7734c8b02a3de7a2ac5a6aee",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101833925,
-    "wof:lastmodified":1566645726,
+    "wof:lastmodified":1582382509,
     "wof:name":"Neded",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

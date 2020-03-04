@@ -225,6 +225,9 @@
         "wd:id":"Q272040"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3d01eec0dea2f9130890c96b51160cf",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645815,
+    "wof:lastmodified":1582382518,
     "wof:name":"Liptovsk\u00fd Mikul\u00e1\u0161",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

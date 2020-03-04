@@ -113,6 +113,9 @@
         "wk:page":"Rimavsk\u00e1 Se\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c6824f548faf1d3d7253cf199c2c92b",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101784131,
-    "wof:lastmodified":1566645768,
+    "wof:lastmodified":1582382513,
     "wof:name":"Rimavsk\u00e1 Se\u010d",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Tom\u00e1\u0161ov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63ccca778aa3ba0d1a71ee4219e6a543",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101786371,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582382515,
     "wof:name":"Tom\u00e1\u0161ov",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Jakubov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6d545b741ae17151998e1b9899ab587",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101784009,
-    "wof:lastmodified":1566645765,
+    "wof:lastmodified":1582382513,
     "wof:name":"Jakubov",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

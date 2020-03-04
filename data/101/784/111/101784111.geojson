@@ -156,6 +156,9 @@
         "wk:page":"Brezov\u00e1 pod Bradlom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"492f7b7a6fffd2ab029339ee35157ed9",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101784111,
-    "wof:lastmodified":1566645767,
+    "wof:lastmodified":1582382513,
     "wof:name":"Brezov\u00e1 pod Bradlom",
     "wof:parent_id":102080515,
     "wof:placetype":"locality",

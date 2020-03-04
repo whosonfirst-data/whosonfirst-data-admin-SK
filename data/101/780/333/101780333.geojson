@@ -113,6 +113,9 @@
         "wk:page":"Lys\u00e1 pod Makytou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48a5890845fc996c31567cf671a861a0",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780333,
-    "wof:lastmodified":1566645816,
+    "wof:lastmodified":1582382518,
     "wof:name":"Lys\u00e1 pod Makytou",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

@@ -180,6 +180,9 @@
         "wk:page":"\u0160amor\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8120d82a9526bfc80a6d89f4f2af9957",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101786323,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582382515,
     "wof:name":"\u0160amor\u00edn",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

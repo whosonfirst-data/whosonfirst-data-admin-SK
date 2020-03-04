@@ -184,6 +184,9 @@
         "wk:page":"Levice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"484bef7673a84102eb6869cbf4bdcb09",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645707,
+    "wof:lastmodified":1582382508,
     "wof:name":"Levice",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

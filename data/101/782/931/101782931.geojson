@@ -113,6 +113,9 @@
         "wk:page":"\u017dda\u0148a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba326338e2209ca320dd2c16eda8d89d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101782931,
-    "wof:lastmodified":1566645741,
+    "wof:lastmodified":1582382511,
     "wof:name":"\u017dda\u0148a",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

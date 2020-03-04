@@ -112,6 +112,9 @@
         "wk:page":"Rakov\u00e1, \u010cadca District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"133b766f50de5ea3d2fbdafadb7244be",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101842005,
-    "wof:lastmodified":1566645694,
+    "wof:lastmodified":1582382506,
     "wof:name":"Rakov\u00e1",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

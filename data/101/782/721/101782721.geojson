@@ -116,6 +116,9 @@
         "wk:page":"Trakovice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2550e9eb1fde0330d578736adf9bc874",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782721,
-    "wof:lastmodified":1566645756,
+    "wof:lastmodified":1582382512,
     "wof:name":"Trakovice",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

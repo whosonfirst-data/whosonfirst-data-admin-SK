@@ -110,6 +110,9 @@
         "wk:page":"Vysok\u00e1 nad Kysucou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"752a064b827b3b076353595f349be76b",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101842017,
-    "wof:lastmodified":1566645693,
+    "wof:lastmodified":1582382506,
     "wof:name":"Vysok\u00e1 nad Kysucou",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Ko\u0161ice-Barca"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b72675b13d6ec0daa64ac905b6a0c44c",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1582382501,
     "wof:name":"Barca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

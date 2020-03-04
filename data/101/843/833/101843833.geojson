@@ -110,6 +110,9 @@
         "wk:page":"Sebedra\u017eie"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14bcc9ef458569a0605f8353587c417f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843833,
-    "wof:lastmodified":1566645702,
+    "wof:lastmodified":1582382507,
     "wof:name":"Sebedra\u017eie",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"Kapu\u0161any"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"393a261ca17381021c13719dfbf20e45",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645818,
+    "wof:lastmodified":1582382518,
     "wof:name":"Kapu\u0161any",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

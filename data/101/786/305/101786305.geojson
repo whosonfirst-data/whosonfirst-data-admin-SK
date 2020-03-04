@@ -113,6 +113,9 @@
         "wk:page":"Baj\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9c3710cdc13ed7cc248b84dc1e23c52",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101786305,
-    "wof:lastmodified":1566645792,
+    "wof:lastmodified":1582382516,
     "wof:name":"Baj\u010d",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

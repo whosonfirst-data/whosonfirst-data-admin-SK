@@ -117,6 +117,9 @@
         "wk:page":"Povina"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"638356940966c4e24d8f447841142963",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101860167,
-    "wof:lastmodified":1566645722,
+    "wof:lastmodified":1582382509,
     "wof:name":"Povina",
     "wof:parent_id":102080589,
     "wof:placetype":"locality",

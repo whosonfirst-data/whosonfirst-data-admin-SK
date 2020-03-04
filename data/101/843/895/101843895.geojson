@@ -124,6 +124,9 @@
         "wk:page":"Vinn\u00e9"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23f28744b6772bdfb5b4b1e4fac055f7",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101843895,
-    "wof:lastmodified":1566645700,
+    "wof:lastmodified":1582382507,
     "wof:name":"Vinn\u00e9",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

@@ -196,6 +196,9 @@
         "wk:page":"Skalica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccc56fce4a4cd385edaca2a1bc5d66bd",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645786,
+    "wof:lastmodified":1582382515,
     "wof:name":"Skalica",
     "wof:parent_id":102080517,
     "wof:placetype":"locality",

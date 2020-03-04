@@ -142,6 +142,9 @@
         "wk:page":"Kr\u00e1sno nad Kysucou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"346f04dbe5f5bb8e088eb7ae2ba2333d",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101842019,
-    "wof:lastmodified":1566645693,
+    "wof:lastmodified":1582382506,
     "wof:name":"Kr\u00e1sno nad Kysucou",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

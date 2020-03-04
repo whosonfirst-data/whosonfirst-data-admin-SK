@@ -122,6 +122,10 @@
         "qs_pg:id":851374
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"726a0405da61c9ffd6921a3f05281ebb",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":101860179,
-    "wof:lastmodified":1566645723,
+    "wof:lastmodified":1582382509,
     "wof:name":"Oravsk\u00e1 Lesn\u00e1",
     "wof:parent_id":102080615,
     "wof:placetype":"locality",

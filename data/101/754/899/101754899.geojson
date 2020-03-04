@@ -119,6 +119,9 @@
         "wk:page":"Lu\u017eianky"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c2f86f77c834e2c34cbcece7acfeb4b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645691,
+    "wof:lastmodified":1582382506,
     "wof:name":"Lu\u017eianky",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

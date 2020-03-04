@@ -115,6 +115,9 @@
         "wk:page":"Svod\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da9918f06028a02ce3b6b72e025d31e9",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101786343,
-    "wof:lastmodified":1566645795,
+    "wof:lastmodified":1582382516,
     "wof:name":"Svod\u00edn",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

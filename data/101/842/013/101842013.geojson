@@ -150,6 +150,9 @@
         "wk:page":"Turzovka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20763ab73b73e9cd99d7909cfd2b5bb7",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101842013,
-    "wof:lastmodified":1566645693,
+    "wof:lastmodified":1582382506,
     "wof:name":"Turzovka",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

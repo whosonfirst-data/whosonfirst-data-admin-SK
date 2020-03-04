@@ -149,6 +149,9 @@
         "wk:page":"Uhrovec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cd23c4fa8990918822e366636a16cfd",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101781627,
-    "wof:lastmodified":1566645778,
+    "wof:lastmodified":1582382514,
     "wof:name":"Uhrovec",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

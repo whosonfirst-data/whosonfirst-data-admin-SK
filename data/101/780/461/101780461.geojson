@@ -113,6 +113,9 @@
         "wk:page":"Bansk\u00e9"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f026b0374269a499e920e77f5f138479",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780461,
-    "wof:lastmodified":1566645821,
+    "wof:lastmodified":1582382518,
     "wof:name":"Bansk\u00e9",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

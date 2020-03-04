@@ -152,6 +152,10 @@
         "wk:page":"Nov\u00e1 Ba\u0148a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c47218f63b0de5bfbd3784f143870c1",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":101875821,
-    "wof:lastmodified":1566645695,
+    "wof:lastmodified":1582382506,
     "wof:name":"Nov\u00e1 Ba\u0148a",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

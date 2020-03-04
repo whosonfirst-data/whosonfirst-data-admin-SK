@@ -113,6 +113,9 @@
         "wk:page":"Vl\u010dany"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f6fe79aeb715fcfb8606308142420a8",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101833923,
-    "wof:lastmodified":1566645725,
+    "wof:lastmodified":1582382509,
     "wof:name":"Vl\u010dany",
     "wof:parent_id":102080467,
     "wof:placetype":"locality",

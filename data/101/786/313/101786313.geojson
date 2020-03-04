@@ -116,6 +116,9 @@
         "wk:page":"Orechov\u00e1 Pot\u00f4\u0148"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5fba39e60314832169b7cef25098bbb",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101786313,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1582382515,
     "wof:name":"Orechov\u00e1 Pot\u00f4\u0148",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Jelka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f02d297c4b8da88fda4eb138ca2fe2f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101786413,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1582382515,
     "wof:name":"Jelka",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

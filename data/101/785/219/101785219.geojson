@@ -110,6 +110,9 @@
         "wk:page":"Slovensk\u00fd Grob"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aba2cbe921b17ee0973211db84524663",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101785219,
-    "wof:lastmodified":1566645732,
+    "wof:lastmodified":1582382510,
     "wof:name":"Slovensk\u00fd Grob",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

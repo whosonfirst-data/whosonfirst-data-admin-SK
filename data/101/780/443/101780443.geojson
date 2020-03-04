@@ -113,6 +113,9 @@
         "wk:page":"Bystr\u00e9, Vranov nad Top\u013eou District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd38bbca5f52938a2548e355ca62e2bb",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780443,
-    "wof:lastmodified":1566645817,
+    "wof:lastmodified":1582382518,
     "wof:name":"Bystr\u00e9",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

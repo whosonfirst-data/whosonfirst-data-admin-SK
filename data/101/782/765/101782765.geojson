@@ -210,6 +210,9 @@
         "wk:page":"Lu\u010denec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74e99269b03e370e8588f1ea766e9cb5",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645742,
+    "wof:lastmodified":1582382511,
     "wof:name":"Lu\u010denec",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

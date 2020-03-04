@@ -170,6 +170,9 @@
         "wk:page":"Dudince"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e6483868d7ae2a7c82071014dbc6fee",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101843765,
-    "wof:lastmodified":1566645698,
+    "wof:lastmodified":1582382507,
     "wof:name":"Dudince",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

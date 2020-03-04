@@ -180,6 +180,9 @@
         "wk:page":"B\u00e1novce nad Bebravou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb88580cee4117e83dc6976a8056d40b",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101781619,
-    "wof:lastmodified":1566645777,
+    "wof:lastmodified":1582382514,
     "wof:name":"B\u00e1novce nad Bebravou",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

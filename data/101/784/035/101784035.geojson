@@ -109,6 +109,9 @@
         "wk:page":"Krakovany, Pie\u0161\u0165any District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee2cf77a34927dba41489d1e892048f7",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101784035,
-    "wof:lastmodified":1566645770,
+    "wof:lastmodified":1582382513,
     "wof:name":"Krakovany",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

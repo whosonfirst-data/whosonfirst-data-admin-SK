@@ -280,6 +280,9 @@
         "wk:page":"Tren\u010d\u00edn"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee946d8b0a007f98e42e01ff91f9760d",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645689,
+    "wof:lastmodified":1582382506,
     "wof:name":"Tren\u010d\u00edn",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

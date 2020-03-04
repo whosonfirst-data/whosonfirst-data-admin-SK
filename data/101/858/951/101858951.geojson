@@ -121,6 +121,10 @@
         "wk:page":"Vyhne"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbbb71e08d0b3a267a1e2fdfe20c1d29",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":101858951,
-    "wof:lastmodified":1566645724,
+    "wof:lastmodified":1582382509,
     "wof:name":"Vyhne",
     "wof:parent_id":102080519,
     "wof:placetype":"locality",

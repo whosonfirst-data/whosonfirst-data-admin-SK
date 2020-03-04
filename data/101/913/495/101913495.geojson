@@ -651,6 +651,9 @@
         "wk:page":"Bratislava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"335fcbac2f470f79f721fd7b9c39b834",
     "wof:hierarchy":[
         {
@@ -665,7 +668,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1537317601,
+    "wof:lastmodified":1582382513,
     "wof:megacity":0,
     "wof:name":"Bratislava",
     "wof:parent_id":102080451,

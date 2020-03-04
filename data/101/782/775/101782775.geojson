@@ -116,6 +116,9 @@
         "wk:page":"K\u00faty"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8512fd58938889c41fbcc3203d7af7a1",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782775,
-    "wof:lastmodified":1566645756,
+    "wof:lastmodified":1582382512,
     "wof:name":"K\u00faty",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

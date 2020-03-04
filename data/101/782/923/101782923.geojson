@@ -153,6 +153,9 @@
         "wk:page":"Moldava nad Bodvou"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c14b5b39bc3cc751ebe99658db3e6576",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101782923,
-    "wof:lastmodified":1566645749,
+    "wof:lastmodified":1582382511,
     "wof:name":"Moldava nad Bodvou",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

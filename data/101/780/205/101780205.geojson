@@ -113,6 +113,9 @@
         "wk:page":"Trhov\u00e1 Hradsk\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e23b429f610ce7dd14affac537ecb0f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780205,
-    "wof:lastmodified":1566645809,
+    "wof:lastmodified":1582382517,
     "wof:name":"Trhov\u00e1 Hradsk\u00e1",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Lomni\u010dka (Star\u00e1 \u013dubov\u0148a District)"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3bb8f192d8a8b07b1cd3cc19745409d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101860177,
-    "wof:lastmodified":1566645723,
+    "wof:lastmodified":1582382509,
     "wof:name":"Lomni\u010dka",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

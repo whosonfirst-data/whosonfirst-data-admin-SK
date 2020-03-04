@@ -122,6 +122,9 @@
         "wk:page":"Beckov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35a06306def9a55c965d72cd9c48f226",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101782813,
-    "wof:lastmodified":1566645754,
+    "wof:lastmodified":1582382512,
     "wof:name":"Beckov",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

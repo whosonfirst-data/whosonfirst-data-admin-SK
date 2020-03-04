@@ -1110,6 +1110,10 @@
     },
     "wof:country":"SK",
     "wof:country_alpha3":"SVK",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"21d1d3af37fda820fbeb8e1fae9c8be4",
     "wof:hierarchy":[
         {
@@ -1124,7 +1128,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1566645446,
+    "wof:lastmodified":1583261341,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

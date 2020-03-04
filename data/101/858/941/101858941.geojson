@@ -118,6 +118,10 @@
         "wk:page":"Alek\u0161ince"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e52ae85263c4950a7b65142bb489e9d",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645724,
+    "wof:lastmodified":1582382509,
     "wof:name":"Alek\u0161ince",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

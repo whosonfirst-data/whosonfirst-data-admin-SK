@@ -116,6 +116,9 @@
         "wk:page":"Kysak"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56e01671ecc8d45d2152fda7849610b0",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843877,
-    "wof:lastmodified":1566645709,
+    "wof:lastmodified":1582382508,
     "wof:name":"Kysak",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

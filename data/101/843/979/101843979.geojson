@@ -116,6 +116,9 @@
         "wk:page":"Plave\u010d, Star\u00e1 \u013dubov\u0148a District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8f0b46fec6ed2a3a7cb4fa682f50990",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843979,
-    "wof:lastmodified":1566645703,
+    "wof:lastmodified":1582382507,
     "wof:name":"Plave\u010d",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

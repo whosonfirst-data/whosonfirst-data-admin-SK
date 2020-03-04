@@ -156,6 +156,9 @@
         "wk:page":"Slia\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4dc17033cf28aec591ff2046f2ce2963",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645748,
+    "wof:lastmodified":1582382511,
     "wof:name":"Slia\u010d",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

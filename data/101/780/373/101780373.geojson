@@ -176,6 +176,9 @@
         "wk:page":"Spi\u0161sk\u00e9 Podhradie"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80ad037463f90538ca560c94d571db25",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101780373,
-    "wof:lastmodified":1566645825,
+    "wof:lastmodified":1582382519,
     "wof:name":"Spi\u0161sk\u00e9 Podhradie",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wk:page":"Hri\u0148ov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a371c75bfe37a78f7860edd203f72d7",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101781555,
-    "wof:lastmodified":1566645781,
+    "wof:lastmodified":1582382514,
     "wof:name":"Hri\u0148ov\u00e1",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

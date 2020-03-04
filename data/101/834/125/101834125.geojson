@@ -154,6 +154,9 @@
         "wk:page":"Sere\u010f"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44f2eee58a844ada549cc0b615db0cf1",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101834125,
-    "wof:lastmodified":1566645730,
+    "wof:lastmodified":1582382510,
     "wof:name":"Sere\u010f",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -211,6 +211,9 @@
         "wk:page":"Prievidza"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5c9c8b15e359b316040b2861ee1d027",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":101752057,
-    "wof:lastmodified":1566645689,
+    "wof:lastmodified":1582382506,
     "wof:name":"Prievidza",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

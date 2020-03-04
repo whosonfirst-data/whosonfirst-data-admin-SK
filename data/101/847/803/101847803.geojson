@@ -150,6 +150,9 @@
         "wd:id":"Q592301"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ad1ae0e3f0e9fd22da34a2ada3cd0a3",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101847803,
-    "wof:lastmodified":1566645775,
+    "wof:lastmodified":1582382514,
     "wof:name":"Spi\u0161sk\u00e1 Star\u00e1 Ves",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

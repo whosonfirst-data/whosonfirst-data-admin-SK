@@ -250,6 +250,9 @@
         "wk:page":"Martin, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c857cb912a4e30c730f017e1aee80f5a",
     "wof:hierarchy":[
         {
@@ -264,7 +267,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645689,
+    "wof:lastmodified":1582382506,
     "wof:name":"Martin",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

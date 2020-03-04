@@ -113,6 +113,9 @@
         "wk:page":"O\u010dov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35f3735d35c8fa29aafe4cb1b4ebc047",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101781559,
-    "wof:lastmodified":1566645776,
+    "wof:lastmodified":1582382514,
     "wof:name":"O\u010dov\u00e1",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

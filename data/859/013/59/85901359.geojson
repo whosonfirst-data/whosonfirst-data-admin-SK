@@ -137,6 +137,11 @@
         "wd:id":"Q1091778"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3adf8f393a5593310e699b650da9310f",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645441,
+    "wof:lastmodified":1582382501,
     "wof:name":"Vajnory",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

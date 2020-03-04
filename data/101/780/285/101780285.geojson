@@ -150,6 +150,9 @@
         "wk:page":"Str\u00e1\u017eske"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"041c29fec8782ef963c27696dfb0d14b",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101780285,
-    "wof:lastmodified":1566645819,
+    "wof:lastmodified":1582382518,
     "wof:name":"Str\u00e1\u017eske",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

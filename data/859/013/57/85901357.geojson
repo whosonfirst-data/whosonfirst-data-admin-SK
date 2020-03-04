@@ -153,6 +153,10 @@
         "wk:page":"D\u00fabravka, Bratislava"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2dc64f8b7c9a10316f6e4ba5b2f9776",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645441,
+    "wof:lastmodified":1582382501,
     "wof:name":"D\u00fabravka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

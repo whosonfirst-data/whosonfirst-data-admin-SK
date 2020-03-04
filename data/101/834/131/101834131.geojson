@@ -121,6 +121,9 @@
         "wk:page":"Mojm\u00edrovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9749165f4109a5e3890f2b8e5fd323e2",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645728,
+    "wof:lastmodified":1582382510,
     "wof:name":"Mojm\u00edrovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

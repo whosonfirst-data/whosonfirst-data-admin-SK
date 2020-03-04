@@ -284,6 +284,9 @@
         "wk:page":"Nitra"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"657aaf91b2106d735389e6004f932b04",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645688,
+    "wof:lastmodified":1582382505,
     "wof:name":"Nitra",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Holice, Dunajsk\u00e1 Streda District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38ef7821abe7f86ebc8b9223d49eaa33",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101845243,
-    "wof:lastmodified":1566645692,
+    "wof:lastmodified":1582382506,
     "wof:name":"Holice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

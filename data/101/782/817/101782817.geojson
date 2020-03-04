@@ -130,6 +130,9 @@
         "wk:page":"\u010cachtice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b40945dcb4748a18168cd04a2c8ea9be",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101782817,
-    "wof:lastmodified":1566645744,
+    "wof:lastmodified":1582382511,
     "wof:name":"\u010cachtice",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

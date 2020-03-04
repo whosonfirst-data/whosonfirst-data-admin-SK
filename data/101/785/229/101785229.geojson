@@ -115,6 +115,9 @@
         "wk:page":"\u010cechynce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d29fcb3b72b58983fa1edfd936a15dce",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645731,
+    "wof:lastmodified":1582382510,
     "wof:name":"\u010cechynce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

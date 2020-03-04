@@ -113,6 +113,9 @@
         "wk:page":"Ko\u0161eca"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9c1e5c4b177e711ef0a34a9bea0cc8b",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780239,
-    "wof:lastmodified":1566645821,
+    "wof:lastmodified":1582382518,
     "wof:name":"Ko\u0161eca",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

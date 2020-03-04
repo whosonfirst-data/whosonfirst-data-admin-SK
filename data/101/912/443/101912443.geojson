@@ -49,6 +49,9 @@
         "qs_pg:id":1323398
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"22b5f66350816894f120626ff76a7252",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101912443,
-    "wof:lastmodified":1566645730,
+    "wof:lastmodified":1582382510,
     "wof:name":"Alzbetin Dvor",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"\u010ca\u0148a"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5015d6a4232c0f1130c0c03c9d287986",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101832713,
-    "wof:lastmodified":1566645718,
+    "wof:lastmodified":1582382508,
     "wof:name":"\u010ca\u0148a",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

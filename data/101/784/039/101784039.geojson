@@ -110,6 +110,9 @@
         "wk:page":"Vesel\u00e9, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6f0435760e1e2eb32940ab8eb56dd18",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101784039,
-    "wof:lastmodified":1566645767,
+    "wof:lastmodified":1582382513,
     "wof:name":"Vesel\u00e9",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

@@ -396,6 +396,9 @@
         "wk:page":"Pre\u0161ov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a449fb19b4efb2918374243cfd512c5b",
     "wof:hierarchy":[
         {
@@ -410,7 +413,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645690,
+    "wof:lastmodified":1582382506,
     "wof:name":"Pre\u0161ov",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

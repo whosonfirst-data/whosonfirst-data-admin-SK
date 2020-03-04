@@ -113,6 +113,9 @@
         "wk:page":"Blatn\u00e9"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35f6967f295baec625d2ac51152856fd",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843729,
-    "wof:lastmodified":1566645715,
+    "wof:lastmodified":1582382508,
     "wof:name":"Blatn\u00e9",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

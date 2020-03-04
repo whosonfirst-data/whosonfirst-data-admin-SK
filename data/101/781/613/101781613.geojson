@@ -153,6 +153,9 @@
         "wk:page":"Star\u00e1 Tur\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4489b812f1bd2bd3c9cc2f225012b5bc",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101781613,
-    "wof:lastmodified":1566645783,
+    "wof:lastmodified":1582382514,
     "wof:name":"Star\u00e1 Tur\u00e1",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

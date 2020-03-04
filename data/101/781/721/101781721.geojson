@@ -153,6 +153,9 @@
         "wk:page":"Tren\u010dianske Teplice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40ba798f789fa703591d9306b0a9190d",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101781721,
-    "wof:lastmodified":1566645786,
+    "wof:lastmodified":1582382515,
     "wof:name":"Tren\u010dianske Teplice",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

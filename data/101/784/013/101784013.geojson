@@ -115,6 +115,9 @@
         "wk:page":"Horn\u00e9 Ore\u0161any"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c53d0aa1566138129a81321557f0ea9d",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645764,
+    "wof:lastmodified":1582382512,
     "wof:name":"Horn\u00e9 Ore\u0161any",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

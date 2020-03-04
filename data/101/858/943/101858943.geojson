@@ -172,6 +172,9 @@
         "wk:page":"Fi\u013eakovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"454a77a6f016c6e8a4dc8141218b8264",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":101858943,
-    "wof:lastmodified":1566645724,
+    "wof:lastmodified":1582382509,
     "wof:name":"Fi\u013eakovo",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

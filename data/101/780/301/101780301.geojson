@@ -200,6 +200,9 @@
         "wk:page":"Michalovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"765c9f07bacd3a9abc30d0ccb68f961d",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645800,
+    "wof:lastmodified":1582382516,
     "wof:name":"Michalovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

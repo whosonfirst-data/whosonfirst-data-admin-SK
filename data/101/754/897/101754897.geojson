@@ -116,6 +116,9 @@
         "qs_pg:id":1182482
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a7d7bfbf4f33e626454b05f0ef86ce1",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101754897,
-    "wof:lastmodified":1566645691,
+    "wof:lastmodified":1582382506,
     "wof:name":"Zbehy",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

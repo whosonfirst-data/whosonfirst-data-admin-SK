@@ -117,6 +117,9 @@
         "wk:page":"Mat\u00fa\u0161kovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb6dfcc1c9c70f03590092b4e7da3013",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101786403,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1582382516,
     "wof:name":"Mat\u00fa\u0161kovo",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "wk:page":"Bernol\u00e1kovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a08d19da56e01231b92abbc0a4fa2ff4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101843727,
-    "wof:lastmodified":1566645715,
+    "wof:lastmodified":1582382508,
     "wof:name":"Bernol\u00e1kovo",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

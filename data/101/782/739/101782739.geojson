@@ -115,6 +115,9 @@
         "wk:page":"Doln\u00e1 Krup\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eda49f330af42804ba173adeae727732",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645742,
+    "wof:lastmodified":1582382511,
     "wof:name":"Doln\u00e1 Krup\u00e1",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

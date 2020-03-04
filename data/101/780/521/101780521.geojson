@@ -113,6 +113,9 @@
         "wk:page":"Hranovnica"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69cb498dc8d801644b9fd1ea793660ad",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101780521,
-    "wof:lastmodified":1566645810,
+    "wof:lastmodified":1582382517,
     "wof:name":"Hranovnica",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

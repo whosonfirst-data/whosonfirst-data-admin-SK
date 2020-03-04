@@ -116,6 +116,9 @@
         "wk:page":"Ni\u017en\u00fd Hru\u0161ov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d89187ffd0f4a631d374d40635f6f2a8",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780467,
-    "wof:lastmodified":1566645820,
+    "wof:lastmodified":1582382518,
     "wof:name":"Ni\u017en\u00fd Hru\u0161ov",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

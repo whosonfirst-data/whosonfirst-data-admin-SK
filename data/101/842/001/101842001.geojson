@@ -116,6 +116,9 @@
         "wk:page":"Skalit\u00e9"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5070007eaf79f204a1103119ad1d11da",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101842001,
-    "wof:lastmodified":1566645693,
+    "wof:lastmodified":1582382506,
     "wof:name":"Skalit\u00e9",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

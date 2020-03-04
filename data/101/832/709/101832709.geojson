@@ -181,6 +181,9 @@
         "wk:page":"Trebi\u0161ov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b7516cfd91d177da0d94389ab006140",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645716,
+    "wof:lastmodified":1582382508,
     "wof:name":"Trebi\u0161ov",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

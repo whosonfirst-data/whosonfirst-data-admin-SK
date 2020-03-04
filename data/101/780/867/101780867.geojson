@@ -116,6 +116,9 @@
         "wk:page":"Papradno"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b0602679fa1445141bc2f6bad1a1fb3",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101780867,
-    "wof:lastmodified":1566645808,
+    "wof:lastmodified":1582382517,
     "wof:name":"Papradno",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

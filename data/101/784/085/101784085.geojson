@@ -180,6 +180,9 @@
         "wk:page":"Partiz\u00e1nske"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5c58fbdee55d9489bc395402af391a1",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101784085,
-    "wof:lastmodified":1566645764,
+    "wof:lastmodified":1582382512,
     "wof:name":"Partiz\u00e1nske",
     "wof:parent_id":102080503,
     "wof:placetype":"locality",

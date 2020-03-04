@@ -189,6 +189,9 @@
         "wk:page":"Galanta"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80f75fdefd00115c19dbd33dfa87478f",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":101783947,
-    "wof:lastmodified":1566645760,
+    "wof:lastmodified":1582382512,
     "wof:name":"Galanta",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Jasov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84f81bf6275b59da2c9daf5ddc0d29e3",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101782913,
-    "wof:lastmodified":1566645750,
+    "wof:lastmodified":1582382511,
     "wof:name":"Jasov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

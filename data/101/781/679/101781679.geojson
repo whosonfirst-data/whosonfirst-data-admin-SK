@@ -110,6 +110,9 @@
         "wk:page":"Diviacka Nov\u00e1 Ves"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52d38622164b6158a637fe2254ca3c63",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101781679,
-    "wof:lastmodified":1566645784,
+    "wof:lastmodified":1582382515,
     "wof:name":"Diviacka Nov\u00e1 Ves",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Zelene\u010d, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca243937d55013bf9895511e1a487425",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645705,
+    "wof:lastmodified":1582382507,
     "wof:name":"Zelene\u010d",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

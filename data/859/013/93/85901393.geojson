@@ -115,6 +115,9 @@
         "wk:page":"\u0164ahanovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d784fd7d11137ddb9e7d6d53a808a50",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1582382501,
     "wof:name":"Tahanovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

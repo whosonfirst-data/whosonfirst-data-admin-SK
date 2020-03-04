@@ -116,6 +116,9 @@
         "wk:page":"Madunice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbff1bff6b2b4c0b8132c00bd22496df",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782717,
-    "wof:lastmodified":1566645757,
+    "wof:lastmodified":1582382512,
     "wof:name":"Madunice",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

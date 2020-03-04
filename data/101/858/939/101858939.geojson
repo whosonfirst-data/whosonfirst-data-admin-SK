@@ -113,6 +113,9 @@
         "wd:id":"Q988208"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"780838010db6a26415a919f09810ed9f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101858939,
-    "wof:lastmodified":1566645723,
+    "wof:lastmodified":1582382509,
     "wof:name":"Kostoln\u00e9 Kra\u010dany",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

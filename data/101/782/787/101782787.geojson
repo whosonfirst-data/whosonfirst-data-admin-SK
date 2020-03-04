@@ -305,6 +305,9 @@
         "wd:id":"Q11874"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8605eb98dcfdc395a2cb57f1f99e3eac",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645757,
+    "wof:lastmodified":1582382512,
     "wof:name":"Zvolen",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

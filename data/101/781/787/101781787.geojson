@@ -116,6 +116,9 @@
         "wk:page":"Budkovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2547d9564e32cf5e3aca767b0abea31",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101781787,
-    "wof:lastmodified":1566645786,
+    "wof:lastmodified":1582382515,
     "wof:name":"Budkovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

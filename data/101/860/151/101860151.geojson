@@ -118,6 +118,10 @@
         "wk:page":"Valaliky"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"89bbc3bfd2494ae4fc8fa717111b4f56",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":101860151,
-    "wof:lastmodified":1566645722,
+    "wof:lastmodified":1582382509,
     "wof:name":"Valaliky",
     "wof:parent_id":102080535,
     "wof:placetype":"locality",

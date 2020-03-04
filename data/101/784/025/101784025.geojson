@@ -137,6 +137,9 @@
         "wk:page":"Smolenice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"950842f227bd039df38458b1dfe9850f",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645764,
+    "wof:lastmodified":1582382512,
     "wof:name":"Smolenice",
     "wof:parent_id":102080489,
     "wof:placetype":"locality",

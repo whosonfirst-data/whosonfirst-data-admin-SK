@@ -114,6 +114,9 @@
         "wk:page":"\u010cakajovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17adeb2ac5987d612f80139e51d7ca2c",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645712,
+    "wof:lastmodified":1582382508,
     "wof:name":"\u010cakajovce",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

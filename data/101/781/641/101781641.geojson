@@ -107,6 +107,9 @@
         "wk:page":"Tu\u017eina"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4daf88effc19c6d2471c9e55588d801",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101781641,
-    "wof:lastmodified":1566645784,
+    "wof:lastmodified":1582382515,
     "wof:name":"Tu\u017eina",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

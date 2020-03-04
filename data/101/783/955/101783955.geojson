@@ -114,6 +114,9 @@
         "wk:page":"Jelenec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"214a23af759f4d5e94fce499de0bc9a8",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645759,
+    "wof:lastmodified":1582382512,
     "wof:name":"Jelenec",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

@@ -162,6 +162,9 @@
         "wk:page":"Liptovsk\u00fd Hr\u00e1dok"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04cfcb3c8787902803ac9d9d6ee5a0eb",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101780367,
-    "wof:lastmodified":1566645815,
+    "wof:lastmodified":1582382518,
     "wof:name":"Liptovsk\u00fd Hr\u00e1dok",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

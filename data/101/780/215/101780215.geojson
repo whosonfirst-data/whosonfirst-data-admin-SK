@@ -110,6 +110,9 @@
         "wk:page":"Rado\u0161ina"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89448313772f42ce037577f717f35055",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780215,
-    "wof:lastmodified":1566645817,
+    "wof:lastmodified":1582382518,
     "wof:name":"Rado\u0161ina",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

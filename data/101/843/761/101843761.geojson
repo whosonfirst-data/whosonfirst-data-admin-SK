@@ -116,6 +116,9 @@
         "wk:page":"\u010cerven\u00edk"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d48fa82c706e9bc8dd265376062a206f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101843761,
-    "wof:lastmodified":1566645708,
+    "wof:lastmodified":1582382508,
     "wof:name":"\u010cerven\u00edk",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",

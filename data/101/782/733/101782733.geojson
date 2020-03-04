@@ -120,6 +120,9 @@
         "wk:page":"Gajary"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a89bd136e07b4a44fcb7e38e735093e",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101782733,
-    "wof:lastmodified":1566645750,
+    "wof:lastmodified":1582382511,
     "wof:name":"Gajary",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Moravany nad V\u00e1hom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c898d30416ab15c56cae819621c21ef7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101833935,
-    "wof:lastmodified":1566645726,
+    "wof:lastmodified":1582382509,
     "wof:name":"Moravany nad V\u00e1hom",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

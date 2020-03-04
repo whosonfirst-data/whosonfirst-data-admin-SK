@@ -113,6 +113,9 @@
         "wk:page":"Smoln\u00edk"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"124c33fe4ac63f83a9b27f65b10779ac",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101782941,
-    "wof:lastmodified":1566645748,
+    "wof:lastmodified":1582382511,
     "wof:name":"Smoln\u00edk",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Slanec"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a9181a96ba491233d54875eb86d0f5d",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782925,
-    "wof:lastmodified":1566645750,
+    "wof:lastmodified":1582382511,
     "wof:name":"Slanec",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

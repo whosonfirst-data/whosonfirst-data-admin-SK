@@ -122,6 +122,9 @@
         "wk:page":"\u010cierny Balog"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6edccc6fae3e247cbd65c5438baec11",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101781757,
-    "wof:lastmodified":1566645782,
+    "wof:lastmodified":1582382514,
     "wof:name":"\u010cierny Balog",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

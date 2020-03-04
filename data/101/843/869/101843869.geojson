@@ -119,6 +119,9 @@
         "wk:page":"Streda nad Bodrogom"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52143a7ef7703ab7ced0076301fe8c7f",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101843869,
-    "wof:lastmodified":1566645701,
+    "wof:lastmodified":1582382507,
     "wof:name":"Streda nad Bodrogom",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

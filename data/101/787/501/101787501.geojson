@@ -113,6 +113,9 @@
         "wk:page":"Oko\u010d"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89f6fc3f801a9fec8d90ac350e37565e",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101787501,
-    "wof:lastmodified":1566645797,
+    "wof:lastmodified":1582382516,
     "wof:name":"Oko\u010d",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

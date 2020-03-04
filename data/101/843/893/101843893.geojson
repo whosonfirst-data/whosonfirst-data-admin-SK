@@ -110,6 +110,9 @@
         "wk:page":"Spi\u0161sk\u00fd Hru\u0161ov"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd4b763ddf84a32c520b047d7a9b4827",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843893,
-    "wof:lastmodified":1566645702,
+    "wof:lastmodified":1582382507,
     "wof:name":"Spi\u0161sk\u00fd Hru\u0161ov",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

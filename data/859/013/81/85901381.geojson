@@ -147,6 +147,11 @@
         "wk:page":"Petr\u017ealka"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "mz"
+    ],
     "wof:geomhash":"902ed7b73ce56fff540bfd74d9d599a5",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645443,
+    "wof:lastmodified":1582382501,
     "wof:name":"Petr\u017ealka",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

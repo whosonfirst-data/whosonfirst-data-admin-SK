@@ -144,6 +144,9 @@
         "wk:page":"Sl\u00e1dkovi\u010dovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2c16bf0148d108515235284539001c5",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101843733,
-    "wof:lastmodified":1566645706,
+    "wof:lastmodified":1582382507,
     "wof:name":"Sl\u00e1dkovi\u010dovo",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

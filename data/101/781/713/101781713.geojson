@@ -150,6 +150,9 @@
         "wk:page":"Nem\u0161ov\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c641aad223f98b83146b5af20635ac3e",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101781713,
-    "wof:lastmodified":1566645780,
+    "wof:lastmodified":1582382514,
     "wof:name":"Nem\u0161ov\u00e1",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

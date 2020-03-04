@@ -168,6 +168,9 @@
         "wk:page":"Vr\u00fatky"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc5b9f4b047304d6ecab32520f6ff5c8",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101754907,
-    "wof:lastmodified":1566645690,
+    "wof:lastmodified":1582382506,
     "wof:name":"Vr\u00fatky",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

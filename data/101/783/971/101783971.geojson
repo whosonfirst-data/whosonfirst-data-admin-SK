@@ -110,6 +110,9 @@
         "wk:page":"B\u00e1tovce"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23fd4998a83872d2689dfc5f1b1242fe",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101783971,
-    "wof:lastmodified":1566645760,
+    "wof:lastmodified":1582382512,
     "wof:name":"B\u00e1tovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

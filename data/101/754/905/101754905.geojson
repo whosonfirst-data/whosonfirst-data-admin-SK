@@ -189,6 +189,9 @@
         "wk:page":"Bojnice"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80db297f023d38dcb6543069ee3f1e83",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":101754905,
-    "wof:lastmodified":1566645691,
+    "wof:lastmodified":1582382506,
     "wof:name":"Bojnice",
     "wof:parent_id":102080537,
     "wof:placetype":"locality",

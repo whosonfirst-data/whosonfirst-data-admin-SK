@@ -114,6 +114,9 @@
         "wk:page":"Tovarn\u00edky"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7356ceb88a4b14e76dadcc2f8d4dccb",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101875823,
-    "wof:lastmodified":1566645696,
+    "wof:lastmodified":1582382507,
     "wof:name":"Tovarn\u00edky",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

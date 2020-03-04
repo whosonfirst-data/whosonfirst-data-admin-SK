@@ -113,6 +113,9 @@
         "wk:page":"Zemianska Ol\u010da"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc06fbc7672a398dde228e15cb3a9797",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101787463,
-    "wof:lastmodified":1566645796,
+    "wof:lastmodified":1582382516,
     "wof:name":"Zemianska Ol\u010da",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

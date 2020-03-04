@@ -116,6 +116,9 @@
         "wk:page":"Ple\u0161ivec, Slovakia"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8cc2fffa235c12f3ee1a1b21a7e79f05",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101782895,
-    "wof:lastmodified":1566645745,
+    "wof:lastmodified":1582382511,
     "wof:name":"Ple\u0161ivec",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

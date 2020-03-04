@@ -110,6 +110,9 @@
         "wk:page":"Istebn\u00e9"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a8f5bac6448ccd8e436a01b6f2e8af8",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780407,
-    "wof:lastmodified":1566645808,
+    "wof:lastmodified":1582382517,
     "wof:name":"Istebn\u00e9",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

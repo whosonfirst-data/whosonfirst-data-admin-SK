@@ -110,6 +110,9 @@
         "wk:page":"Pohorel\u00e1"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"483394bd97ee19a37ed0020eedf0444b",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843851,
-    "wof:lastmodified":1566645701,
+    "wof:lastmodified":1582382507,
     "wof:name":"Pohorel\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"B\u00e1ho\u0148"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e3fb2c2ed41b11ca7bfd0a89e68e31a",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101785177,
-    "wof:lastmodified":1566645740,
+    "wof:lastmodified":1582382511,
     "wof:name":"B\u00e1ho\u0148",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

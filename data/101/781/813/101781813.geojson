@@ -110,6 +110,9 @@
         "wk:page":"Bel\u00e1, \u017dilina District"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50cebe153d38dac62e31b30a4894e016",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645784,
+    "wof:lastmodified":1582382515,
     "wof:name":"Bel\u00e1",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Domani\u017ea"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fabeec0e918d8bd71ba2152d5b684389",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101780345,
-    "wof:lastmodified":1566645825,
+    "wof:lastmodified":1582382519,
     "wof:name":"Domani\u017ea",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

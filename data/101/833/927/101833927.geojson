@@ -116,6 +116,9 @@
         "wk:page":"\u010cierny Brod"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92d66133e3c39ee19ab58e40f16b8c93",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101833927,
-    "wof:lastmodified":1566645726,
+    "wof:lastmodified":1582382509,
     "wof:name":"\u010cierny Brod",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

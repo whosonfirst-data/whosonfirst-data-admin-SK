@@ -117,6 +117,9 @@
         "wk:page":"Zvolensk\u00e1 Slatina"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d95dac5c48e7f07ee6785127560a5d2",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101784103,
-    "wof:lastmodified":1566645762,
+    "wof:lastmodified":1582382512,
     "wof:name":"Zvolensk\u00e1 Slatina",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

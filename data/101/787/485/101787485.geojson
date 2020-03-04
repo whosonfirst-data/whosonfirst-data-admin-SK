@@ -157,6 +157,9 @@
         "wk:page":"Hurbanovo"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94db04677b0ce550f5af7c5f80107cbc",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101787485,
-    "wof:lastmodified":1566645795,
+    "wof:lastmodified":1582382516,
     "wof:name":"Hurbanovo",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

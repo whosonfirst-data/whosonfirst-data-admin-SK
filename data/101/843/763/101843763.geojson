@@ -113,6 +113,9 @@
         "wk:page":"Bojni\u010dky"
     },
     "wof:country":"SK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48f0f2c34c15e6c453f5e4bef78658b1",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101843763,
-    "wof:lastmodified":1566645697,
+    "wof:lastmodified":1582382507,
     "wof:name":"Bojni\u010dky",
     "wof:parent_id":102080481,
     "wof:placetype":"locality",
