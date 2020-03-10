@@ -1086,9 +1086,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Slovakia",
-        "digitalenvoy:country_code":[
-            703
-        ],
+        "digitalenvoy:country_code":703,
         "fb:id":"en.slovakia",
         "fifa:id":"SVK",
         "fips:code":"LO",
@@ -1131,7 +1129,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1583529225,
+    "wof:lastmodified":1583797434,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
