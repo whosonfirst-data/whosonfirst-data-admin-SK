@@ -5,7 +5,8 @@
     "src:alt_label":"mz",
     "src:geom":"mz",
     "wof:geomhash":"471929ce6c9bafe98860e77740e4abdc",
-    "wof:id":85901399
+    "wof:id":85901399,
+    "wof:repo":"whosonfirst-data-admin-sk"
 },
   "bbox": [
     17.105163,
