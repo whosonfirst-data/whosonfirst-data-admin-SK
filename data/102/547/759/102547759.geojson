@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.9997222222,48.9366666667,21.9997222222,48.9366666667",
+    "geom:bbox":"21.999722,48.936667,21.999722,48.936667",
     "geom:latitude":48.936667,
     "geom:longitude":21.999722,
     "iso:country":"SK",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Kamenica nad Cirochou"
+    ],
+    "name:eng_x_variant":[
+        "LZKC"
     ],
     "name:fra_x_preferred":[
         "Kamenica nad Cirochou"
@@ -45,7 +48,7 @@
         "wd:id":"Q14602117"
     },
     "wof:country":"SK",
-    "wof:geomhash":"c688b9ee960f09d5cab40bc5d8afd79d",
+    "wof:geomhash":"debdced5b9e59e0853c184578a83980e",
     "wof:hierarchy":[
         {
             "campus_id":102547759,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102547759,
-    "wof:lastmodified":1566645383,
+    "wof:lastmodified":1631755758,
     "wof:name":"Kamenica Nad Cirochou Airport",
     "wof:parent_id":85688347,
     "wof:placetype":"campus",
@@ -66,10 +69,10 @@
     ]
 },
   "bbox": [
-    21.999722222222,
-    48.936666666667,
-    21.999722222222,
-    48.936666666667
+    21.999722,
+    48.936667,
+    21.999722,
+    48.936667
 ],
-  "geometry": {"coordinates":[21.999722222222,48.936666666667],"type":"Point"}
+  "geometry": {"coordinates":[21.999722,48.936667],"type":"Point"}
 }

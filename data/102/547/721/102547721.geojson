@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.2688888889,48.5947222222,19.2688888889,48.5947222222",
+    "geom:bbox":"19.268889,48.594722,19.268889,48.594722",
     "geom:latitude":48.594722,
     "geom:longitude":19.268889,
     "iso:country":"SK",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "O\u010dov\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "LZOC"
     ],
     "name:fra_x_preferred":[
         "O\u010dov\u00e1"
@@ -45,7 +48,7 @@
         "wd:id":"Q14602112"
     },
     "wof:country":"SK",
-    "wof:geomhash":"037063e54c7765d917742843965ea764",
+    "wof:geomhash":"80d6572dc48a0641d51010bb5a019e78",
     "wof:hierarchy":[
         {
             "campus_id":102547721,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102547721,
-    "wof:lastmodified":1566645383,
+    "wof:lastmodified":1631755758,
     "wof:name":"Ocova Airport",
     "wof:parent_id":85688355,
     "wof:placetype":"campus",
@@ -66,10 +69,10 @@
     ]
 },
   "bbox": [
-    19.268888888889,
-    48.594722222222,
-    19.268888888889,
-    48.594722222222
+    19.268889,
+    48.594722,
+    19.268889,
+    48.594722
 ],
-  "geometry": {"coordinates":[19.268888888889,48.594722222222],"type":"Point"}
+  "geometry": {"coordinates":[19.268889,48.594722],"type":"Point"}
 }

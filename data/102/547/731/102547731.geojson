@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.5180555556,48.4544444444,17.5180555556,48.4544444444",
+    "geom:bbox":"17.518056,48.454444,17.518056,48.454444",
     "geom:latitude":48.454444,
     "geom:longitude":17.518056,
     "iso:country":"SK",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Boler\u00e1z aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "LZTR"
     ],
     "name:slk_x_preferred":[
         "Letisko Boler\u00e1z"
@@ -42,7 +45,7 @@
         "wd:id":"Q14602134"
     },
     "wof:country":"SK",
-    "wof:geomhash":"87510e48ee11aadd9de411f6229956b4",
+    "wof:geomhash":"9402125ac36d3120255229eb65a00d16",
     "wof:hierarchy":[
         {
             "campus_id":102547731,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102547731,
-    "wof:lastmodified":1566645382,
+    "wof:lastmodified":1631755757,
     "wof:name":"Boleraz Airport",
     "wof:parent_id":85688369,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    17.518055555556,
-    48.454444444444,
-    17.518055555556,
-    48.454444444444
+    17.518056,
+    48.454444,
+    17.518056,
+    48.454444
 ],
-  "geometry": {"coordinates":[17.518055555556,48.454444444444],"type":"Point"}
+  "geometry": {"coordinates":[17.518056,48.454444],"type":"Point"}
 }
