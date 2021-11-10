@@ -44,6 +44,9 @@
         "Jezersko"
     ],
     "name:hun_x_preferred":[
+        "Jezersko"
+    ],
+    "name:hun_x_variant":[
         "Tavas"
     ],
     "name:ita_x_preferred":[
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125860639,
-    "wof:lastmodified":1566645871,
+    "wof:lastmodified":1636505186,
     "wof:name":"Jezersko",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

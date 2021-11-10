@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09be\u09a4\u09bf\u09a8\u09be"
+    ],
     "name:cat_x_preferred":[
         "Slatina"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:eus_x_preferred":[
         "Slatina"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u0947\u091f\u093f\u0928\u093e"
     ],
     "name:hun_x_preferred":[
         "Szalatnya"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1310319221,
-    "wof:lastmodified":1566645647,
+    "wof:lastmodified":1636505184,
     "wof:name":"Slatina",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

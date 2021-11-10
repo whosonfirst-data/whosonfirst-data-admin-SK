@@ -50,6 +50,9 @@
     "name:hrv_x_preferred":[
         "Sila"
     ],
+    "name:hun_x_preferred":[
+        "Sila"
+    ],
     "name:ita_x_preferred":[
         "Sila"
     ],
@@ -95,7 +98,7 @@
         "gn:id":3057669
     },
     "wof:country":"SK",
-    "wof:geomhash":"f51fe425084b0c1e7d3d186425814d69",
+    "wof:geomhash":"13c269672e4ec418a43161094c6dcb5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1310525603,
-    "wof:lastmodified":1566645648,
+    "wof:lastmodified":1636505184,
     "wof:name":"Sila",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",
@@ -116,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.97123999999999,
+    17.97124,
     48.40684,
-    17.97123999999999,
+    17.97124,
     48.40684
 ],
-  "geometry": {"coordinates":[17.97123999999999,48.40684],"type":"Point"}
+  "geometry": {"coordinates":[17.97124,48.40684],"type":"Point"}
 }
