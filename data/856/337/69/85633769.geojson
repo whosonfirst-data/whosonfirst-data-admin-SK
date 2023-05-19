@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SK",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Slovensko",
+    "eurostat:name_local":"Slovensko",
+    "eurostat:nuts_2021_id":"SK0",
+    "eurostat:nuts_2021_level_0":"SK",
+    "eurostat:nuts_2021_level_1":"SK0",
+    "eurostat:population":5434712,
+    "eurostat:population_year":2022,
     "geom:area":5.986543,
-    "geom:area_square_m":48848375151.957825,
+    "geom:area_square_m":48848375151.958084,
     "geom:bbox":"16.832695,47.7313,22.569116,49.609993",
     "geom:latitude":48.707068,
     "geom:longitude":19.483743,
@@ -1183,7 +1192,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"421",
     "statoids:ds":"SK",
     "statoids:fifa":"SVK",
@@ -1211,6 +1221,7 @@
     "wof:concordances":{
         "dbp:id":"Slovakia",
         "digitalenvoy:country_code":703,
+        "eurostat:nuts_2021_id":"SK0",
         "fb:id":"en.slovakia",
         "fifa:id":"SVK",
         "fips:code":"LO",
@@ -1240,7 +1251,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"a808e54871f97ce2ad84ef89d79e7f24",
+    "wof:geomhash":"f6d9327d2cbd56d70fb007578f4448ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1254,11 +1265,11 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1617827724,
+    "wof:lastmodified":1684351375,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":5455000,
+    "wof:population":5434712,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:shortcode":"SK",
