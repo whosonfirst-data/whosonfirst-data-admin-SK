@@ -19,9 +19,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stefanova"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160tefanova"
+    ],
+    "name:slk_x_variant":[
+        "\u00c5 Tefanova"
+    ],
     "name:und_x_variant":[
         "I\u0161tv\u00e1nov\u00e1"
     ],
@@ -54,8 +63,8 @@
     "wof:belongsto":[
         102191581,
         85633769,
-        85688349,
-        102080585
+        102080585,
+        85688349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,8 +85,8 @@
         }
     ],
     "wof:id":1125778973,
-    "wof:lastmodified":1566645936,
-    "wof:name":"\u00c5 Tefanova",
+    "wof:lastmodified":1688153605,
+    "wof:name":"Stefanova",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sk",
