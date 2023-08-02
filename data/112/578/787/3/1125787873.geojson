@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
+    "name:gle_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
     "name:hun_x_preferred":[
         "V\u00e1rhossz\u00far\u00e9t"
     ],
@@ -59,6 +62,9 @@
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:pol_x_preferred":[
+        "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
+    ],
+    "name:por_x_preferred":[
         "Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka"
     ],
     "name:ron_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1125787873,
-    "wof:lastmodified":1566645923,
+    "wof:lastmodified":1690865750,
     "wof:name":"Kr\u00e1snohorsk\u00e1 Dlh\u00e1 L\u00faka",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

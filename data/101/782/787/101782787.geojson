@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0632\u0641\u0648\u0644\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0641\u0648\u0644\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Zvolen"
+    ],
     "name:aze_x_preferred":[
         "Zv\u043el\u0435n"
     ],
@@ -80,6 +86,12 @@
     "name:fra_x_preferred":[
         "Zvolen"
     ],
+    "name:frr_x_preferred":[
+        "Zvolen"
+    ],
+    "name:gle_x_preferred":[
+        "Zvolen"
+    ],
     "name:heb_x_preferred":[
         "\u05d6\u05d1\u05d5\u05dc\u05df"
     ],
@@ -116,6 +128,9 @@
     "name:lit_x_preferred":[
         "Zvolenas"
     ],
+    "name:mdf_x_preferred":[
+        "\u0417\u0432\u043e\u043b\u044d\u043d"
+    ],
     "name:msa_x_preferred":[
         "Zvolen"
     ],
@@ -130,6 +145,9 @@
     ],
     "name:oci_x_preferred":[
         "Zvolen"
+    ],
+    "name:oss_x_preferred":[
+        "\u0417\u0432\u043e\u043b\u0435\u043d"
     ],
     "name:pol_x_preferred":[
         "Zwole\u0144"
@@ -162,6 +180,9 @@
         "\u0417\u0432\u043e\u0459\u0435\u043d"
     ],
     "name:swe_x_preferred":[
+        "Zvolen"
+    ],
+    "name:szl_x_preferred":[
         "Zvolen"
     ],
     "name:tat_x_preferred":[
@@ -331,7 +352,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636505185,
+    "wof:lastmodified":1690865569,
     "wof:name":"Zvolen",
     "wof:parent_id":102080509,
     "wof:placetype":"locality",

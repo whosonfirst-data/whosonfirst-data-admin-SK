@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
+    "name:ces_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
     "name:deu_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
@@ -38,6 +41,9 @@
         "Kr\u00e1\u013eovce"
     ],
     "name:fra_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
+    "name:gle_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
     "name:hun_x_preferred":[
@@ -56,6 +62,9 @@
         "Kr\u00e1\u013eovce"
     ],
     "name:pol_x_preferred":[
+        "Kr\u00e1\u013eovce"
+    ],
+    "name:por_x_preferred":[
         "Kr\u00e1\u013eovce"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125906195,
-    "wof:lastmodified":1566645900,
+    "wof:lastmodified":1690865722,
     "wof:name":"Kr\u00e1l\u0315ovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Rybky"
     ],
+    "name:gle_x_preferred":[
+        "Rybky"
+    ],
+    "name:hrv_x_preferred":[
+        "Rybky"
+    ],
     "name:hun_x_preferred":[
         "Halasd"
     ],
@@ -58,6 +64,9 @@
     "name:nld_x_preferred":[
         "Rybky"
     ],
+    "name:pol_x_preferred":[
+        "Rybky"
+    ],
     "name:por_x_preferred":[
         "Rybky"
     ],
@@ -71,6 +80,9 @@
         "Rybky"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u0438\u0431\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0438\u0431\u043a\u0438"
     ],
     "name:war_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125941205,
-    "wof:lastmodified":1566645841,
+    "wof:lastmodified":1690865686,
     "wof:name":"Rybniky",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

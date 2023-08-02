@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Jezersko"
     ],
+    "name:che_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u0441\u043a\u043e"
+    ],
     "name:deu_x_preferred":[
         "Jezersko"
     ],
@@ -41,6 +44,9 @@
         "Jezersko"
     ],
     "name:fra_x_preferred":[
+        "Jezersko"
+    ],
+    "name:gle_x_preferred":[
         "Jezersko"
     ],
     "name:hun_x_preferred":[
@@ -61,11 +67,17 @@
     "name:pol_x_preferred":[
         "Jeziersko"
     ],
+    "name:por_x_preferred":[
+        "Jezersko"
+    ],
     "name:ron_x_preferred":[
         "Jezersko"
     ],
     "name:rue_x_preferred":[
         "\u0419\u0435\u0437\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u0441\u043a\u043e"
     ],
     "name:slk_x_preferred":[
         "Jezersko"
@@ -75,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u0437\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u0441\u043a\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0437\u0435\u0440\u0441\u044c\u043a\u043e"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125860639,
-    "wof:lastmodified":1636505186,
+    "wof:lastmodified":1690865702,
     "wof:name":"Jezersko",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

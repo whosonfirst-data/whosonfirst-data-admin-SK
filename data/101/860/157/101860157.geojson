@@ -26,6 +26,9 @@
     "name:ces_x_preferred":[
         "Krpe\u013eany"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u043f\u0435\u043b\u044f\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Krpe\u013eany"
     ],
@@ -39,6 +42,9 @@
         "Krpe\u013eany"
     ],
     "name:fra_x_preferred":[
+        "Krpe\u013eany"
+    ],
+    "name:gle_x_preferred":[
         "Krpe\u013eany"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
     "name:pol_x_preferred":[
         "Krpe\u013eany"
     ],
+    "name:por_x_preferred":[
+        "Krpe\u013eany"
+    ],
     "name:ron_x_preferred":[
         "Krpe\u013eany"
     ],
@@ -70,6 +79,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u043f\u0435\u0459\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u043f\u0435\u043b\u044f\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u043f\u0435\u043b\u044f\u043d\u0438"
     ],
     "name:war_x_preferred":[
         "Krpe\u013eany"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":101860157,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865512,
     "wof:name":"Krpe\u013eany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

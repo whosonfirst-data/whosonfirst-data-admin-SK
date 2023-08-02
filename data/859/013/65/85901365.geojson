@@ -28,6 +28,12 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0644\u0648\u0641\u0627 \u0641\u064a\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Karlova Ves"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u0451\u043d \u041a\u0430\u0440\u043b\u0430\u0432\u0430 \u0412\u0435\u0441"
     ],
@@ -44,6 +50,9 @@
         "Karlova Ves"
     ],
     "name:epo_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:est_x_preferred":[
         "Karlova Ves"
     ],
     "name:fin_x_preferred":[
@@ -73,10 +82,19 @@
     "name:pol_x_preferred":[
         "Karlova Ves"
     ],
+    "name:por_x_preferred":[
+        "Karlova Ves"
+    ],
     "name:slk_x_preferred":[
         "Bratislava \u2013 mestsk\u00e1 \u010das\u0165 Karlova Ves"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Karlova Ves"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043b\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:zho_x_preferred":[
@@ -150,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865451,
     "wof:name":"Karlova Ves",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

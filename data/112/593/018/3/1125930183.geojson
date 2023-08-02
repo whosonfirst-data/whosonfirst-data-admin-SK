@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Jarabina"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0440\u044f\u0431\u0438\u043d\u0430"
+    ],
     "name:deu_x_preferred":[
         "Jarabina"
     ],
@@ -41,6 +44,9 @@
         "Jarabina"
     ],
     "name:fra_x_preferred":[
+        "Jarabina"
+    ],
+    "name:gle_x_preferred":[
         "Jarabina"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Jarz\u0119bina"
     ],
+    "name:por_x_preferred":[
+        "Jarabina"
+    ],
     "name:ron_x_preferred":[
         "Jarabina"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0440\u0430\u0431\u0438\u043d\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0440\u044f\u0431\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u044f\u0431\u0438\u043d\u0430"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":1125930183,
-    "wof:lastmodified":1566645842,
+    "wof:lastmodified":1690865687,
     "wof:name":"Jarabina",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

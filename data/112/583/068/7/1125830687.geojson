@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ladce"
     ],
+    "name:gle_x_preferred":[
+        "Ladce"
+    ],
     "name:hun_x_preferred":[
         "L\u00e9dec"
     ],
@@ -56,6 +59,12 @@
         "Ladce"
     ],
     "name:nld_x_preferred":[
+        "Ladce"
+    ],
+    "name:pol_x_preferred":[
+        "Ladce"
+    ],
+    "name:por_x_preferred":[
         "Ladce"
     ],
     "name:ron_x_preferred":[
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":1125830687,
-    "wof:lastmodified":1566645938,
+    "wof:lastmodified":1690865766,
     "wof:name":"Ladce",
     "wof:parent_id":102080555,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Jovsa"
     ],
+    "name:gle_x_preferred":[
+        "Jovsa"
+    ],
     "name:hun_x_preferred":[
         "J\u00f3sza"
     ],
@@ -56,6 +59,9 @@
         "Jovsa"
     ],
     "name:pol_x_preferred":[
+        "Jovsa"
+    ],
+    "name:por_x_preferred":[
         "Jovsa"
     ],
     "name:ron_x_preferred":[
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1126014365,
-    "wof:lastmodified":1566645912,
+    "wof:lastmodified":1690865731,
     "wof:name":"Jovsa",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

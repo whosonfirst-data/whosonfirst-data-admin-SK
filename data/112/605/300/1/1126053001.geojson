@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Slivn\u00edk"
     ],
+    "name:gle_x_preferred":[
+        "Slivn\u00edk"
+    ],
     "name:hun_x_preferred":[
         "Szilv\u00e1s\u00fajfalu"
     ],
@@ -59,6 +62,9 @@
         "Slivn\u00edk"
     ],
     "name:pol_x_preferred":[
+        "Slivn\u00edk"
+    ],
+    "name:por_x_preferred":[
         "Slivn\u00edk"
     ],
     "name:ron_x_preferred":[
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1126053001,
-    "wof:lastmodified":1566645861,
+    "wof:lastmodified":1690865691,
     "wof:name":"Slivn\u00edk",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00fd Kamenec"
     ],
+    "name:gle_x_preferred":[
+        "Ve\u013ek\u00fd Kamenec"
+    ],
     "name:hun_x_preferred":[
         "Nagyk\u00f6vesd"
     ],
@@ -59,6 +62,9 @@
         "Ve\u013ek\u00fd Kamenec"
     ],
     "name:pol_x_preferred":[
+        "Ve\u013ek\u00fd Kamenec"
+    ],
+    "name:por_x_preferred":[
         "Ve\u013ek\u00fd Kamenec"
     ],
     "name:ron_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1125788203,
-    "wof:lastmodified":1566645922,
+    "wof:lastmodified":1690865748,
     "wof:name":"Vel\u0315k\u00fd Kamenec",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

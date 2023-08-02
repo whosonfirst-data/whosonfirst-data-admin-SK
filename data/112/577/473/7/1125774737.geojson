@@ -25,6 +25,15 @@
     "name:cat_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
+    "name:ces_x_preferred":[
+        "Vi\u0161\u0148ov\u00e9"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0435\u0432\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Vi\u0161\u0148ov\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
@@ -35,6 +44,9 @@
         "Vi\u0161\u0148ov\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Vi\u0161\u0148ov\u00e9"
+    ],
+    "name:gle_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -55,6 +67,9 @@
     "name:pol_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
+    "name:por_x_preferred":[
+        "Vi\u0161\u0148ov\u00e9"
+    ],
     "name:ron_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
@@ -66,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448\u045a\u043e\u0432\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0435\u0432\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u044c\u043e\u0432\u0435"
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":1125774737,
-    "wof:lastmodified":1566645934,
+    "wof:lastmodified":1690865761,
     "wof:name":"Vi\u0161\u0148ov\u00e9",
     "wof:parent_id":102080527,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
+    "name:gle_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
     "name:hun_x_preferred":[
         "Als\u00f3t\u0151k\u00e9s"
     ],
@@ -59,6 +62,9 @@
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
     "name:pol_x_preferred":[
+        "Ni\u017en\u00fd Kl\u00e1tov"
+    ],
+    "name:por_x_preferred":[
         "Ni\u017en\u00fd Kl\u00e1tov"
     ],
     "name:ron_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1126011445,
-    "wof:lastmodified":1566645912,
+    "wof:lastmodified":1690865731,
     "wof:name":"Ni\u017en\u00fd Kl\u00e1tov",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

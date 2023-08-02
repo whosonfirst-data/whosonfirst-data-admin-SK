@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Poruba pod Vihorlatom"
     ],
+    "name:gle_x_preferred":[
+        "Poruba pod Vihorlatom"
+    ],
     "name:hun_x_preferred":[
         "N\u00e9metv\u00e1g\u00e1s"
     ],
@@ -59,6 +62,9 @@
         "Poruba pod Vihorlatom"
     ],
     "name:pol_x_preferred":[
+        "Poruba pod Vihorlatom"
+    ],
+    "name:por_x_preferred":[
         "Poruba pod Vihorlatom"
     ],
     "name:ron_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1126005017,
-    "wof:lastmodified":1566645916,
+    "wof:lastmodified":1690865737,
     "wof:name":"Poruba pod Vihorl\u00e1tom",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Kluknava"
     ],
+    "name:gle_x_preferred":[
+        "Kluknava"
+    ],
     "name:hbs_x_preferred":[
         "Kluknava"
     ],
@@ -57,6 +60,9 @@
         "Kluknava"
     ],
     "name:pol_x_preferred":[
+        "Kluknava"
+    ],
+    "name:por_x_preferred":[
         "Kluknava"
     ],
     "name:ron_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":101875829,
-    "wof:lastmodified":1582382506,
+    "wof:lastmodified":1690865471,
     "wof:name":"Kluknava",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

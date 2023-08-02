@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Dubov\u00e1"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u0430"
+    ],
     "name:deu_x_preferred":[
         "Dubov\u00e1"
     ],
@@ -43,8 +46,14 @@
     "name:fra_x_preferred":[
         "Dubov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Dubov\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Cserfalu"
+    ],
+    "name:ind_x_preferred":[
+        "Dubov\u00e1"
     ],
     "name:ita_x_preferred":[
         "Dubov\u00e1"
@@ -67,6 +76,9 @@
     "name:ron_x_preferred":[
         "Dubov\u00e1"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u0430"
+    ],
     "name:slk_x_preferred":[
         "Dubov\u00e1"
     ],
@@ -74,6 +86,12 @@
         "Dubov\u00e1"
     ],
     "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0432\u0430"
     ],
     "name:war_x_preferred":[
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":1125775855,
-    "wof:lastmodified":1566645936,
+    "wof:lastmodified":1690865764,
     "wof:name":"Dubov\u00e1",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

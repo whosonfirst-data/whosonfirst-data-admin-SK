@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "K\u00e1lnica"
     ],
+    "name:gle_x_preferred":[
+        "K\u00e1lnica"
+    ],
     "name:hun_x_preferred":[
         "Kal\u00e1nos"
     ],
@@ -58,6 +61,9 @@
     "name:pol_x_preferred":[
         "K\u00e1lnica"
     ],
+    "name:por_x_preferred":[
+        "K\u00e1lnica"
+    ],
     "name:ron_x_preferred":[
         "K\u00e1lnica"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043b\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u043d\u0456\u0446\u0430"
     ],
     "name:war_x_preferred":[
         "K\u00e1lnica"
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1126042265,
-    "wof:lastmodified":1566645864,
+    "wof:lastmodified":1690865696,
     "wof:name":"K\u00e1lnica",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

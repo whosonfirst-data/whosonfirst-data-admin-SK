@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Star\u00e1 Lesn\u00e1"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
     "name:deu_x_preferred":[
         "Star\u00e1 Lesn\u00e1"
     ],
@@ -41,6 +44,9 @@
         "Star\u00e1 Lesn\u00e1"
     ],
     "name:fra_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
+    "name:gle_x_preferred":[
         "Star\u00e1 Lesn\u00e1"
     ],
     "name:hun_x_preferred":[
@@ -64,11 +70,17 @@
     "name:pol_x_preferred":[
         "Stara Le\u015bna"
     ],
+    "name:por_x_preferred":[
+        "Star\u00e1 Lesn\u00e1"
+    ],
     "name:ron_x_preferred":[
         "Star\u00e1 Lesn\u00e1"
     ],
     "name:rue_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041b\u0435\u0441\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u041b\u0435\u0441\u043d\u0430"
     ],
     "name:slk_x_preferred":[
         "Star\u00e1 Lesn\u00e1"
@@ -78,6 +90,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0409\u0435\u0441\u043d\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u0435\u0441\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041b\u0435\u0441\u043d\u0430"
@@ -140,7 +155,7 @@
         }
     ],
     "wof:id":1126046213,
-    "wof:lastmodified":1566645864,
+    "wof:lastmodified":1690865696,
     "wof:name":"Star\u00e1 Lesn\u00e1",
     "wof:parent_id":102080609,
     "wof:placetype":"locality",

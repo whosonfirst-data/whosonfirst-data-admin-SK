@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Medvedie"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u0436\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Medvedie"
+    ],
     "name:eng_x_preferred":[
         "Medvedie"
     ],
@@ -38,6 +44,9 @@
         "Medvedie"
     ],
     "name:fra_x_preferred":[
+        "Medvedie"
+    ],
+    "name:gle_x_preferred":[
         "Medvedie"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Medvedie"
     ],
+    "name:por_x_preferred":[
+        "Medvedie"
+    ],
     "name:ron_x_preferred":[
         "Medvedie"
     ],
@@ -72,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u0458\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u0436\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u0436\u0435"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1125890201,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865711,
     "wof:name":"Medvedzie",
     "wof:parent_id":102080623,
     "wof:placetype":"locality",

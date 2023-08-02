@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "G\u00e1novce"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "G\u00e1novce"
     ],
@@ -41,6 +44,9 @@
         "G\u00e1novce"
     ],
     "name:fra_x_preferred":[
+        "G\u00e1novce"
+    ],
+    "name:gle_x_preferred":[
         "G\u00e1novce"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,12 @@
     "name:pol_x_preferred":[
         "Ganowce"
     ],
+    "name:pol_x_variant":[
+        "G\u00e1novce"
+    ],
+    "name:por_x_preferred":[
+        "G\u00e1novce"
+    ],
     "name:ron_x_preferred":[
         "G\u00e1novce"
     ],
@@ -80,6 +92,9 @@
         "G\u00e1novce"
     ],
     "name:srp_x_preferred":[
+        "\u0413\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
         "\u0413\u0430\u043d\u043e\u0432\u0446\u0435"
     ],
     "name:ukr_x_preferred":[
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":1125891053,
-    "wof:lastmodified":1566645881,
+    "wof:lastmodified":1690865707,
     "wof:name":"G\u00e1novce",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

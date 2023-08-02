@@ -62,6 +62,9 @@
     "name:pol_x_preferred":[
         "\u0164ahanovce"
     ],
+    "name:por_x_preferred":[
+        "\u0164ahanovce"
+    ],
     "name:slk_x_preferred":[
         "Ko\u0161ice \u2013 mestsk\u00e1 \u010das\u0165 \u0164ahanovce"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0458\u0430\u0445\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u044f\u0433\u0430\u043d\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Tahanovce",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1126091477,
-    "wof:lastmodified":1566645918,
+    "wof:lastmodified":1690865741,
     "wof:name":"Tahanovce",
     "wof:parent_id":101752055,
     "wof:placetype":"neighbourhood",

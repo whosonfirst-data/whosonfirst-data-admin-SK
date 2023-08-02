@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Helpa"
+    ],
     "name:cat_x_preferred":[
         "He\u013epa"
     ],
@@ -43,6 +46,9 @@
     "name:fra_x_preferred":[
         "He\u013epa"
     ],
+    "name:gle_x_preferred":[
+        "He\u013epa"
+    ],
     "name:hun_x_preferred":[
         "Helpa"
     ],
@@ -59,6 +65,9 @@
         "He\u013epa"
     ],
     "name:pol_x_preferred":[
+        "He\u013epa"
+    ],
+    "name:por_x_preferred":[
         "He\u013epa"
     ],
     "name:ron_x_preferred":[
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":1125871319,
-    "wof:lastmodified":1566645887,
+    "wof:lastmodified":1690865716,
     "wof:name":"Hel\u0315pa",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

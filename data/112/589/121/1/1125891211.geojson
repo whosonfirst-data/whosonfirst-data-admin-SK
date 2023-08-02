@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Hrachovi\u0161te"
     ],
+    "name:gle_x_preferred":[
+        "Hrachovi\u0161te"
+    ],
     "name:hun_x_preferred":[
         "Bors\u00f3s"
     ],
@@ -56,6 +59,9 @@
         "Hrachovi\u0161te"
     ],
     "name:pol_x_preferred":[
+        "Hrachovi\u0161te"
+    ],
+    "name:por_x_preferred":[
         "Hrachovi\u0161te"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +78,9 @@
     ],
     "name:szl_x_preferred":[
         "Hrachovi\u0161te"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0445\u043e\u0432\u0456\u0448\u0442\u0435"
     ],
     "name:war_x_preferred":[
         "Hrachovi\u0161te"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125891211,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865709,
     "wof:name":"Hrachovi\u0161te",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

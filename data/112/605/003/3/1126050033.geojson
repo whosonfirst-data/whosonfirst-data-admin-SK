@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0646\u0648\u0634\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0646\u0648\u0634\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043d\u0443\u0448\u0446\u044f"
     ],
@@ -40,6 +46,9 @@
     "name:chv_x_preferred":[
         "\u0413\u043d\u0443\u0448\u0442\u044f"
     ],
+    "name:dan_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
     "name:deu_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
@@ -47,6 +56,9 @@
         "Hn\u00fa\u0161\u0165a"
     ],
     "name:epo_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
+    "name:est_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
     "name:eus_x_preferred":[
@@ -58,11 +70,17 @@
     "name:fra_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
+    "name:gle_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
     "name:glg_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
     "name:hbs_x_preferred":[
         "Hnu\u0161tja"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e0\u05d5\u05e9\u05d8\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
@@ -72,6 +90,9 @@
     ],
     "name:ita_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30cc\u30fc\u30b7\u30e5\u30c1\u30e3"
     ],
     "name:lav_x_preferred":[
         "Hn\u016b\u0161tja"
@@ -88,8 +109,14 @@
     "name:pol_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
     ],
+    "name:por_x_preferred":[
+        "Hn\u00fa\u0161\u0165a"
+    ],
     "name:ron_x_preferred":[
         "Hn\u00fa\u0161\u0165a"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u043d\u0443\u0448\u0442\u044f"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043d\u0443\u0448\u0442\u044f"
@@ -171,7 +198,7 @@
         }
     ],
     "wof:id":1126050033,
-    "wof:lastmodified":1566645863,
+    "wof:lastmodified":1690865694,
     "wof:name":"Hn\u00fa\u0161t\u0315a",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

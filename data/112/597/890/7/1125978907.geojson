@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Zemianske Podhradie"
     ],
+    "name:gle_x_preferred":[
+        "Zemianske Podhradie"
+    ],
     "name:hun_x_preferred":[
         "Nemesv\u00e1ralja"
     ],
@@ -61,6 +64,9 @@
     "name:pol_x_preferred":[
         "Zemianske Podhradie"
     ],
+    "name:por_x_preferred":[
+        "Zemianske Podhradie"
+    ],
     "name:ron_x_preferred":[
         "Zemianske Podhradie"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Selce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043c'\u044f\u043d\u0441\u043a\u0435 \u041f\u043e\u0434\u0433\u0440\u0430\u0434\u0456\u0454"
     ],
     "name:war_x_preferred":[
         "Zemianske Podhradie"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125978907,
-    "wof:lastmodified":1566645902,
+    "wof:lastmodified":1690865726,
     "wof:name":"Zemianske Podhradie",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

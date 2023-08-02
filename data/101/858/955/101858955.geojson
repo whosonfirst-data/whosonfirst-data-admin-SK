@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arg_x_preferred":[
+        "\u017dehra"
+    ],
     "name:bel_x_preferred":[
         "\u0416\u044d\u0433\u0440\u0430"
     ],
@@ -53,6 +56,9 @@
     "name:fra_x_preferred":[
         "\u017dehra"
     ],
+    "name:gle_x_preferred":[
+        "\u017dehra"
+    ],
     "name:hbs_x_preferred":[
         "\u017dehra"
     ],
@@ -74,6 +80,9 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30a7\u30d5\u30e9"
     ],
+    "name:mlt_x_preferred":[
+        "\u017dehra"
+    ],
     "name:msa_x_preferred":[
         "\u017dehra"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:pol_x_preferred":[
         "\u017behra"
+    ],
+    "name:por_x_preferred":[
+        "\u017dehra"
     ],
     "name:ron_x_preferred":[
         "\u017dehra"
@@ -112,6 +124,9 @@
     ],
     "name:und_x_variant":[
         "Sygura"
+    ],
+    "name:vie_x_preferred":[
+        "\u017dehra"
     ],
     "name:war_x_preferred":[
         "\u017dehra"
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":101858955,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865517,
     "wof:name":"\u017dehra",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

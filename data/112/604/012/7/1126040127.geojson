@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Kechnec"
     ],
+    "name:gle_x_preferred":[
+        "Kechnec"
+    ],
     "name:hun_x_preferred":[
         "Kenyhec"
     ],
@@ -56,6 +59,9 @@
         "Kechnec"
     ],
     "name:pol_x_preferred":[
+        "Kechnec"
+    ],
+    "name:por_x_preferred":[
         "Kechnec"
     ],
     "name:ron_x_preferred":[
@@ -81,6 +87,9 @@
     ],
     "name:war_x_variant":[
         "Jasenov\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u8d6b\u5185\u8328"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":1126040127,
-    "wof:lastmodified":1566645864,
+    "wof:lastmodified":1690865695,
     "wof:name":"Kechnec",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

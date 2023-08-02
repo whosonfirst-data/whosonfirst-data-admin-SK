@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Stan\u010da"
     ],
+    "name:deu_x_preferred":[
+        "Stan\u010da"
+    ],
     "name:eng_x_preferred":[
         "Stan\u010da"
     ],
@@ -41,6 +44,9 @@
         "Stan\u010da"
     ],
     "name:fra_x_preferred":[
+        "Stan\u010da"
+    ],
+    "name:gle_x_preferred":[
         "Stan\u010da"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
         "Stan\u010da"
     ],
     "name:pol_x_preferred":[
+        "Stan\u010da"
+    ],
+    "name:por_x_preferred":[
         "Stan\u010da"
     ],
     "name:ron_x_preferred":[
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":1125851055,
-    "wof:lastmodified":1566645920,
+    "wof:lastmodified":1690865746,
     "wof:name":"Stan\u010da",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

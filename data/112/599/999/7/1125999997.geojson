@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "\u017dibritov"
     ],
+    "name:gle_x_preferred":[
+        "\u017dibritov"
+    ],
     "name:hun_x_preferred":[
         "Zsibrit\u00f3"
     ],
@@ -59,6 +62,9 @@
         "\u017dibritov"
     ],
     "name:pol_x_preferred":[
+        "\u017dibritov"
+    ],
+    "name:por_x_preferred":[
         "\u017dibritov"
     ],
     "name:ron_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1125999997,
-    "wof:lastmodified":1566645897,
+    "wof:lastmodified":1690865718,
     "wof:name":"\u017dibritov",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

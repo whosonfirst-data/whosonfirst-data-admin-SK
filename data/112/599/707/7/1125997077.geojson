@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Do\u013eany"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u044f\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Do\u013eany"
     ],
@@ -41,6 +44,9 @@
         "Do\u013eany"
     ],
     "name:fra_x_preferred":[
+        "Do\u013eany"
+    ],
+    "name:gle_x_preferred":[
         "Do\u013eany"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Do\u013eany"
     ],
+    "name:por_x_preferred":[
+        "Do\u013eany"
+    ],
     "name:ron_x_preferred":[
         "Do\u013eany"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u0459\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b\u044f\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u044f\u043d\u0438"
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125997077,
-    "wof:lastmodified":1566645897,
+    "wof:lastmodified":1690865718,
     "wof:name":"Dol\u0315any",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

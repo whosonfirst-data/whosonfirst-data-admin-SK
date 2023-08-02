@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Mal\u00e1 Ida"
     ],
+    "name:gle_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
     "name:hun_x_preferred":[
         "Kisida"
     ],
@@ -59,6 +62,9 @@
         "Mal\u00e1 Ida"
     ],
     "name:pol_x_preferred":[
+        "Mal\u00e1 Ida"
+    ],
+    "name:por_x_preferred":[
         "Mal\u00e1 Ida"
     ],
     "name:ron_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1125816497,
-    "wof:lastmodified":1566645872,
+    "wof:lastmodified":1690865704,
     "wof:name":"Mal\u00e1 Ida",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

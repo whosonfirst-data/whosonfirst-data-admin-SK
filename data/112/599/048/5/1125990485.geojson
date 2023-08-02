@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Vyso\u010dany"
     ],
+    "name:deu_x_preferred":[
+        "Vyso\u010dany"
+    ],
     "name:eng_x_preferred":[
         "Vyso\u010dany"
     ],
@@ -40,11 +43,17 @@
     "name:fra_x_preferred":[
         "Vyso\u010dany"
     ],
+    "name:gle_x_preferred":[
+        "Vyso\u010dany"
+    ],
     "name:hun_x_preferred":[
         "Viszocs\u00e1ny"
     ],
     "name:ita_x_preferred":[
         "Vyso\u010dany"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30bd\u30c1\u30e3\u30cb"
     ],
     "name:msa_x_preferred":[
         "Vyso\u010dany"
@@ -53,6 +62,12 @@
         "Vyso\u010dany"
     ],
     "name:nld_x_preferred":[
+        "Vyso\u010dany"
+    ],
+    "name:pol_x_preferred":[
+        "Vyso\u010dany"
+    ],
+    "name:por_x_preferred":[
         "Vyso\u010dany"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125990485,
-    "wof:lastmodified":1566645897,
+    "wof:lastmodified":1690865719,
     "wof:name":"Vyso\u010dany",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",

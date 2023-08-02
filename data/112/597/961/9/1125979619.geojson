@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Figa"
     ],
+    "name:che_x_preferred":[
+        "\u0424\u0438\u0433\u0430"
+    ],
     "name:deu_x_preferred":[
         "Figa"
     ],
@@ -41,6 +44,9 @@
         "Figa"
     ],
     "name:fra_x_preferred":[
+        "Figa"
+    ],
+    "name:gle_x_preferred":[
         "Figa"
     ],
     "name:heb_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Figa"
     ],
+    "name:por_x_preferred":[
+        "Figa"
+    ],
     "name:ron_x_preferred":[
         "Figa"
     ],
@@ -74,6 +83,9 @@
         "Figa"
     ],
     "name:srp_x_preferred":[
+        "\u0424\u0438\u0433\u0430"
+    ],
+    "name:tat_x_preferred":[
         "\u0424\u0438\u0433\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":1125979619,
-    "wof:lastmodified":1566645901,
+    "wof:lastmodified":1690865725,
     "wof:name":"Figa",
     "wof:parent_id":102080525,
     "wof:placetype":"locality",

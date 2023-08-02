@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Ni\u017en\u00e1 Boca"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0411\u043e\u0446\u0430"
+    ],
     "name:deu_x_preferred":[
         "Ni\u017en\u00e1 Boca"
     ],
@@ -41,6 +44,9 @@
         "Ni\u017en\u00e1 Boca"
     ],
     "name:fra_x_preferred":[
+        "Ni\u017en\u00e1 Boca"
+    ],
+    "name:gle_x_preferred":[
         "Ni\u017en\u00e1 Boca"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00e1 Boca"
     ],
+    "name:por_x_preferred":[
+        "Ni\u017en\u00e1 Boca"
+    ],
     "name:ron_x_preferred":[
         "Ni\u017en\u00e1 Boca"
     ],
@@ -72,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0436\u043d\u0430 \u0411\u043e\u0446\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0411\u043e\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0411\u043e\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Ni\u017enia Boca"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1126016737,
-    "wof:lastmodified":1566645911,
+    "wof:lastmodified":1690865730,
     "wof:name":"Ni\u017en\u00e1 Boca",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

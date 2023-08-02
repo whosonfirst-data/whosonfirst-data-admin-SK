@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Cho\u0148kovce"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u043d\u044c\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Cho\u0148kovce"
+    ],
     "name:eng_x_preferred":[
         "Cho\u0148kovce"
     ],
@@ -38,6 +44,9 @@
         "Cho\u0148kovce"
     ],
     "name:fra_x_preferred":[
+        "Cho\u0148kovce"
+    ],
+    "name:gle_x_preferred":[
         "Cho\u0148kovce"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Cho\u0148kovce"
     ],
+    "name:por_x_preferred":[
+        "Cho\u0148kovce"
+    ],
     "name:ron_x_preferred":[
         "Cho\u0148kovce"
     ],
@@ -72,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u045a\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u043d\u044c\u043a\u043e\u0432\u0446\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043d\u044c\u043a\u043e\u0432\u0446\u0435"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125957325,
-    "wof:lastmodified":1566645848,
+    "wof:lastmodified":1690865689,
     "wof:name":"Cho\u0148kovce",
     "wof:parent_id":102080571,
     "wof:placetype":"locality",

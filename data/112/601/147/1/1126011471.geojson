@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Z\u00e1borsk\u00e9"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0431\u043e\u0440\u0441\u043a\u0435"
+    ],
     "name:deu_x_preferred":[
         "Z\u00e1borsk\u00e9"
     ],
@@ -41,6 +44,9 @@
         "Z\u00e1borsk\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Z\u00e1borsk\u00e9"
+    ],
+    "name:gle_x_preferred":[
         "Z\u00e1borsk\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Z\u00e1borsk\u00e9"
     ],
+    "name:por_x_preferred":[
+        "Z\u00e1borsk\u00e9"
+    ],
     "name:ron_x_preferred":[
         "Z\u00e1borsk\u00e9"
     ],
@@ -74,6 +83,9 @@
         "Z\u00e1borsk\u00e9"
     ],
     "name:srp_x_preferred":[
+        "\u0417\u0430\u0431\u043e\u0440\u0441\u043a\u0435"
+    ],
+    "name:tat_x_preferred":[
         "\u0417\u0430\u0431\u043e\u0440\u0441\u043a\u0435"
     ],
     "name:ukr_x_preferred":[
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":1126011471,
-    "wof:lastmodified":1566645914,
+    "wof:lastmodified":1690865735,
     "wof:name":"Z\u00e1borsk\u00e9",
     "wof:parent_id":102080591,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ces_x_preferred":[
         "Nov\u00fd Smokovec"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00fd Smokovec"
+    ],
     "name:eng_x_preferred":[
         "Nov\u00fd Smokovec"
     ],
@@ -37,6 +43,9 @@
     "name:hun_x_preferred":[
         "\u00dajt\u00e1traf\u00fcred"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30f4\u30a3\u30fc\u30fb\u30b9\u30e2\u30b3\u30f4\u30a7\u30c4"
+    ],
     "name:nan_x_preferred":[
         "Nov\u00fd Smokovec"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:slk_x_preferred":[
         "Nov\u00fd Smokovec"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u0421\u043c\u043e\u043a\u043e\u0432\u0435\u0446\u044c"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125851857,
-    "wof:lastmodified":1566645922,
+    "wof:lastmodified":1690865748,
     "wof:name":"Nov\u00fd Smokovec",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

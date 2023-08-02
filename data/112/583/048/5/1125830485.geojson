@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Hr\u00e1dok"
     ],
+    "name:gle_x_preferred":[
+        "Hr\u00e1dok"
+    ],
     "name:hun_x_preferred":[
         "Temetv\u00e9ny"
     ],
@@ -56,6 +59,9 @@
         "Hr\u00e1dok"
     ],
     "name:pol_x_preferred":[
+        "Hr\u00e1dok"
+    ],
+    "name:por_x_preferred":[
         "Hr\u00e1dok"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u010cemern\u00e9"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0430\u0434\u043e\u043a"
     ],
     "name:war_x_preferred":[
         "Hr\u00e1dok"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1125830485,
-    "wof:lastmodified":1566645937,
+    "wof:lastmodified":1690865764,
     "wof:name":"Hr\u00e1dok",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

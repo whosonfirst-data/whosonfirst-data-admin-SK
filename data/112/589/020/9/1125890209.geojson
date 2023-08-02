@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Podkonice"
     ],
+    "name:gle_x_preferred":[
+        "Podkonice"
+    ],
     "name:hun_x_preferred":[
         "Padk\u00f3c"
     ],
@@ -59,6 +62,9 @@
         "Podkonice"
     ],
     "name:pol_x_preferred":[
+        "Podkonice"
+    ],
+    "name:por_x_preferred":[
         "Podkonice"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1125890209,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865711,
     "wof:name":"Podkonice",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

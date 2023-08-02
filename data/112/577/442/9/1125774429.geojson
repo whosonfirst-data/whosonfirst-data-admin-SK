@@ -25,6 +25,15 @@
     "name:cat_x_preferred":[
         "Nov\u00e1 Vieska"
     ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u044c\u0435\u0441\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
     "name:eng_x_preferred":[
         "Nov\u00e1 Vieska"
     ],
@@ -35,6 +44,9 @@
         "Nov\u00e1 Vieska"
     ],
     "name:fra_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:gle_x_preferred":[
         "Nov\u00e1 Vieska"
     ],
     "name:hun_x_preferred":[
@@ -52,6 +64,12 @@
     "name:nld_x_preferred":[
         "Nov\u00e1 Vieska"
     ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00e1 Vieska"
+    ],
     "name:ron_x_preferred":[
         "Nov\u00e1 Vieska"
     ],
@@ -66,6 +84,12 @@
     ],
     "name:srp_x_variant":[
         "Sasovske Podhradie"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u044c\u0435\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0454\u0441\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Kis-\u00dajfalu"
@@ -121,7 +145,7 @@
         }
     ],
     "wof:id":1125774429,
-    "wof:lastmodified":1566645935,
+    "wof:lastmodified":1690865762,
     "wof:name":"Nov\u00e1 Vieska",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

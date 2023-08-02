@@ -42,6 +42,9 @@
     "name:epo_x_preferred":[
         "\u010cunovo"
     ],
+    "name:est_x_preferred":[
+        "\u010cunovo"
+    ],
     "name:fin_x_preferred":[
         "\u010cunovo"
     ],
@@ -72,6 +75,9 @@
     "name:pol_x_preferred":[
         "\u010cunovo"
     ],
+    "name:por_x_preferred":[
+        "\u010cunovo"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043d\u043e\u0432\u043e"
     ],
@@ -79,6 +85,12 @@
         "\u010cunovo"
     ],
     "name:srp_x_preferred":[
+        "\u0427\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "\u010cunovo"
+    ],
+    "name:ukr_x_preferred":[
         "\u0427\u0443\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_colloquial":[
@@ -153,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865450,
     "wof:name":"\u010cunovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Ra\u017e\u0148any"
+    ],
     "name:eng_x_preferred":[
         "Ra\u017e\u0148any"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102547735,
-    "wof:lastmodified":1631755757,
+    "wof:lastmodified":1690865449,
     "wof:name":"Raznany Airport",
     "wof:parent_id":85688347,
     "wof:placetype":"campus",

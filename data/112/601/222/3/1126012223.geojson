@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Orvi\u0161te"
     ],
+    "name:gle_x_preferred":[
+        "Ve\u013ek\u00e9 Orvi\u0161te"
+    ],
     "name:hun_x_preferred":[
         "Nagy\u0151rvistye"
     ],
@@ -56,6 +59,12 @@
         "Ve\u013ek\u00e9 Orvi\u0161te"
     ],
     "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Orvi\u0161te"
+    ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e9 Orvi\u0161te"
+    ],
+    "name:por_x_preferred":[
         "Ve\u013ek\u00e9 Orvi\u0161te"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "Spissky Stvrtok"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u041e\u0440\u0432\u0456\u0448\u0442\u0435"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Orvi\u0161te"
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":1126012223,
-    "wof:lastmodified":1566645913,
+    "wof:lastmodified":1690865733,
     "wof:name":"Vel\u0315k\u00e9 Orvi\u0161te",
     "wof:parent_id":102080495,
     "wof:placetype":"locality",

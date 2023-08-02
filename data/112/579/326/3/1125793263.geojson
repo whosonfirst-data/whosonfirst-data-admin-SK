@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Smre\u010dany"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043c\u0440\u0435\u0447\u0430\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Smre\u010dany"
     ],
@@ -41,6 +44,9 @@
         "Smre\u010dany"
     ],
     "name:fra_x_preferred":[
+        "Smre\u010dany"
+    ],
+    "name:gle_x_preferred":[
         "Smre\u010dany"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Smreczany"
     ],
+    "name:por_x_preferred":[
+        "Smre\u010dany"
+    ],
     "name:ron_x_preferred":[
         "Smre\u010dany"
     ],
@@ -71,6 +80,12 @@
         "Smre\u010dany"
     ],
     "name:srp_x_preferred":[
+        "\u0421\u043c\u0440\u0435\u0447\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043c\u0440\u0435\u0447\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u043c\u0440\u0435\u0447\u0430\u043d\u0438"
     ],
     "name:war_x_preferred":[
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125793263,
-    "wof:lastmodified":1566645929,
+    "wof:lastmodified":1690865753,
     "wof:name":"Smre\u010dany",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

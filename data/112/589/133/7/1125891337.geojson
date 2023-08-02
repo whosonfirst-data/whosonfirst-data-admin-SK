@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Rankovce"
     ],
+    "name:gle_x_preferred":[
+        "Rankovce"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d0\u05e0\u05e7\u05d5\u05d1\u05e6'\u05d4"
     ],
@@ -65,6 +68,9 @@
         "Rankovce"
     ],
     "name:pol_x_preferred":[
+        "Rankovce"
+    ],
+    "name:por_x_preferred":[
         "Rankovce"
     ],
     "name:ron_x_preferred":[
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1125891337,
-    "wof:lastmodified":1636505186,
+    "wof:lastmodified":1690865708,
     "wof:name":"Rankovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

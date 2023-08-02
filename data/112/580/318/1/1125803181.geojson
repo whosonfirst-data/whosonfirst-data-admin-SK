@@ -46,11 +46,17 @@
     "name:fra_x_preferred":[
         "V\u00edg\u013ea\u0161"
     ],
+    "name:gle_x_preferred":[
+        "V\u00edg\u013ea\u0161"
+    ],
     "name:hun_x_preferred":[
         "V\u00e9gles"
     ],
     "name:ita_x_preferred":[
         "V\u00edg\u013ea\u0161"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b0\u30e9\u30b9"
     ],
     "name:msa_x_preferred":[
         "V\u00edg\u013ea\u0161"
@@ -62,6 +68,9 @@
         "V\u00edg\u013ea\u0161"
     ],
     "name:pol_x_preferred":[
+        "V\u00edg\u013ea\u0161"
+    ],
+    "name:por_x_preferred":[
         "V\u00edg\u013ea\u0161"
     ],
     "name:ron_x_preferred":[
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":1125803181,
-    "wof:lastmodified":1566645886,
+    "wof:lastmodified":1690865715,
     "wof:name":"V\u00edgl\u0315a\u0161",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

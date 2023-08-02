@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "\u010cierne"
     ],
+    "name:gle_x_preferred":[
+        "\u010cierne"
+    ],
     "name:hun_x_preferred":[
         "Cserne"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "Czerne"
+    ],
+    "name:por_x_preferred":[
+        "\u010cierne"
     ],
     "name:ron_x_preferred":[
         "\u010cierne"
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":101875841,
-    "wof:lastmodified":1582382506,
+    "wof:lastmodified":1690865473,
     "wof:name":"\u010cierne",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Dra\u017ekovce"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u043a\u043e\u0432\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Dra\u017ekovce"
     ],
@@ -41,6 +44,9 @@
         "Dra\u017ekovce"
     ],
     "name:fra_x_preferred":[
+        "Dra\u017ekovce"
+    ],
+    "name:gle_x_preferred":[
         "Dra\u017ekovce"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Dra\u017ekovce"
     ],
+    "name:por_x_preferred":[
+        "Dra\u017ekovce"
+    ],
     "name:ron_x_preferred":[
         "Dra\u017ekovce"
     ],
@@ -75,6 +84,12 @@
     ],
     "name:srp_x_variant":[
         "\u0421\u0442\u0430\u043d\u0447\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u043a\u043e\u0432\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Dra\u017ekovce"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125853999,
-    "wof:lastmodified":1566645921,
+    "wof:lastmodified":1690865746,
     "wof:name":"Dra\u017ekovce",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

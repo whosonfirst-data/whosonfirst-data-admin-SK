@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Tu\u0161ice"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0443\u0448\u0438\u0446\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Tu\u0161ice"
+    ],
     "name:eng_x_preferred":[
         "Tu\u0161ice"
     ],
@@ -38,6 +44,9 @@
         "Tu\u0161ice"
     ],
     "name:fra_x_preferred":[
+        "Tu\u0161ice"
+    ],
+    "name:gle_x_preferred":[
         "Tu\u0161ice"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Tu\u0161ice"
     ],
+    "name:por_x_preferred":[
+        "Tu\u0161ice"
+    ],
     "name:ron_x_preferred":[
         "Tu\u0161ice"
     ],
@@ -68,6 +80,9 @@
         "Tu\u0161ice"
     ],
     "name:srp_x_preferred":[
+        "\u0422\u0443\u0448\u0438\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
         "\u0422\u0443\u0448\u0438\u0446\u0435"
     ],
     "name:ukr_x_preferred":[
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125774673,
-    "wof:lastmodified":1566645935,
+    "wof:lastmodified":1690865762,
     "wof:name":"Tu\u0161ice",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

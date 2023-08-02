@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Kamanov\u00e1"
     ],
+    "name:deu_x_preferred":[
+        "Kamanov\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Kamanov\u00e1"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Kamanov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Kamanov\u00e1"
+    ],
     "name:hun_x_preferred":[
         "K\u00e1lm\u00e1nfalva"
     ],
@@ -50,6 +56,12 @@
         "Kamanov\u00e1"
     ],
     "name:nld_x_preferred":[
+        "Kamanov\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Kamanov\u00e1"
+    ],
+    "name:por_x_preferred":[
         "Kamanov\u00e1"
     ],
     "name:ron_x_preferred":[
@@ -66,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043c\u0430\u043d\u043e\u0432\u0430"
     ],
     "name:war_x_preferred":[
         "Kamanov\u00e1"
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":1126006795,
-    "wof:lastmodified":1566645916,
+    "wof:lastmodified":1690865739,
     "wof:name":"Kamanov\u00e1",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

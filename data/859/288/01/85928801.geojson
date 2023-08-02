@@ -34,6 +34,9 @@
     "name:bel_x_preferred":[
         "\u0414\u044d\u0432\u0456\u043d"
     ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u043d"
+    ],
     "name:ces_x_preferred":[
         "Dev\u00edn"
     ],
@@ -49,11 +52,17 @@
     "name:epo_x_preferred":[
         "Dev\u00edn"
     ],
+    "name:est_x_preferred":[
+        "Dev\u00edn"
+    ],
     "name:fin_x_preferred":[
         "Dev\u00edn"
     ],
     "name:fra_x_preferred":[
         "Dev\u00edn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d5\u05d9\u05df"
     ],
     "name:hrv_x_preferred":[
         "Dev\u00edn"
@@ -67,13 +76,22 @@
     "name:ita_x_preferred":[
         "Dev\u00edn"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u043d"
+    ],
     "name:nan_x_preferred":[
         "Dev\u00edn"
     ],
     "name:nld_x_preferred":[
         "Dev\u00edn"
     ],
+    "name:nob_x_preferred":[
+        "Dev\u00edn"
+    ],
     "name:pol_x_preferred":[
+        "Dev\u00edn"
+    ],
+    "name:por_x_preferred":[
         "Dev\u00edn"
     ],
     "name:ron_x_preferred":[
@@ -90,6 +108,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0402\u0435\u0432\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dev\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0432\u0456\u043d"
     ],
     "name:und_x_colloquial":[
         "Devin"
@@ -184,7 +208,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865454,
     "wof:name":"Dev\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

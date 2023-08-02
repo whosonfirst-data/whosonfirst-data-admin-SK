@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "\u0160enkvice"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u0435\u043d\u043a\u0432\u0438\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "\u0160enkvice"
     ],
@@ -46,11 +49,17 @@
     "name:fra_x_preferred":[
         "\u0160enkvice"
     ],
+    "name:gle_x_preferred":[
+        "\u0160enkvice"
+    ],
     "name:hun_x_preferred":[
         "Nagysenk\u0151c"
     ],
     "name:hun_x_variant":[
         "Senk\u0151c"
+    ],
+    "name:ind_x_preferred":[
+        "\u0160enkvice"
     ],
     "name:ita_x_preferred":[
         "\u0160enkvice"
@@ -79,8 +88,17 @@
     "name:srp_x_preferred":[
         "\u0428\u0435\u043d\u043a\u0432\u0438\u0446\u0435"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u0435\u043d\u043a\u0432\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u043a\u0432\u0456\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "\u0160enkvice"
+    ],
+    "name:zho_x_preferred":[
+        "\u7533\u514b\u7ef4\u91c7"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1125939747,
-    "wof:lastmodified":1566645842,
+    "wof:lastmodified":1690865687,
     "wof:name":"Vel\u0315k\u00e9 \u010can\u00edkovce",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

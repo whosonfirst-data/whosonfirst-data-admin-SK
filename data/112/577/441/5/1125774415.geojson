@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
@@ -41,6 +44,9 @@
         "Ni\u017en\u00fd Slavkov"
     ],
     "name:fra_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
+    "name:gle_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
+    "name:por_x_preferred":[
+        "Ni\u017en\u00fd Slavkov"
+    ],
     "name:ron_x_preferred":[
         "Ni\u017en\u00fd Slavkov"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0436\u043d\u0438 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u0421\u043b\u0430\u0432\u043a\u043e\u0432"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":1125774415,
-    "wof:lastmodified":1566645931,
+    "wof:lastmodified":1690865755,
     "wof:name":"Ni\u017en\u00fd Slavkov",
     "wof:parent_id":102080595,
     "wof:placetype":"locality",

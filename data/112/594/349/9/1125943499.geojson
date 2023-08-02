@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "\u010ci\u010dmany"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u0447\u043c\u0430\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "\u010ci\u010dmany"
     ],
@@ -44,6 +47,9 @@
         "\u010ci\u010dmany"
     ],
     "name:fra_x_preferred":[
+        "\u010ci\u010dmany"
+    ],
+    "name:gle_x_preferred":[
         "\u010ci\u010dmany"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "\u010ci\u010dmany"
     ],
+    "name:por_x_preferred":[
+        "\u010ci\u010dmany"
+    ],
     "name:ron_x_preferred":[
         "\u010ci\u010dmany"
     ],
@@ -77,6 +86,12 @@
         "\u010ci\u010dmany"
     ],
     "name:srp_x_preferred":[
+        "\u0427\u0438\u0447\u043c\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u0447\u043c\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u0427\u0438\u0447\u043c\u0430\u043d\u0438"
     ],
     "name:war_x_preferred":[
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":1125943499,
-    "wof:lastmodified":1566645841,
+    "wof:lastmodified":1690865686,
     "wof:name":"\u010ci\u010dmany",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

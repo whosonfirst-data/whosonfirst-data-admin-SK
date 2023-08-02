@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430 \u041b\u0443\u0436\u043d\u0430"
+    ],
     "name:deu_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
@@ -46,8 +49,14 @@
     "name:fra_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
+    ],
+    "name:hun_x_variant":[
+        "D\u00e9nesdtorcsmis\u00e9rd"
     ],
     "name:ita_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
@@ -81,6 +90,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0458\u0441\u043a\u0430 \u041b\u0443\u0436\u043d\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0439\u0441\u043a\u0430 \u041b\u0443\u0436\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0439\u0441\u044c\u043a\u0430 \u041b\u0443\u0436\u043d\u0430"
     ],
     "name:war_x_preferred":[
         "Dunajsk\u00e1 Lu\u017en\u00e1"
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":1125859033,
-    "wof:lastmodified":1566645921,
+    "wof:lastmodified":1690865747,
     "wof:name":"Dunajska Luzna",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

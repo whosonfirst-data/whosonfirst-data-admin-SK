@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Obi\u0161ovce"
     ],
+    "name:gle_x_preferred":[
+        "Obi\u0161ovce"
+    ],
     "name:hun_x_preferred":[
         "Abos"
     ],
@@ -59,6 +62,9 @@
         "Obi\u0161ovce"
     ],
     "name:pol_x_preferred":[
+        "Obi\u0161ovce"
+    ],
+    "name:por_x_preferred":[
         "Obi\u0161ovce"
     ],
     "name:ron_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1125989173,
-    "wof:lastmodified":1566645909,
+    "wof:lastmodified":1690865729,
     "wof:name":"Obi\u0161ovce",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

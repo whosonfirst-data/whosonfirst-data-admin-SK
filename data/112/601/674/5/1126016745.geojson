@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Ni\u017en\u00e1 Polianka"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Ni\u017en\u00e1 Polianka"
     ],
@@ -41,6 +44,9 @@
         "Ni\u017en\u00e1 Polianka"
     ],
     "name:fra_x_preferred":[
+        "Ni\u017en\u00e1 Polianka"
+    ],
+    "name:gle_x_preferred":[
         "Ni\u017en\u00e1 Polianka"
     ],
     "name:hun_x_preferred":[
@@ -61,11 +67,17 @@
     "name:pol_x_preferred":[
         "Ni\u017en\u00e1 Polianka"
     ],
+    "name:por_x_preferred":[
+        "Ni\u017en\u00e1 Polianka"
+    ],
     "name:ron_x_preferred":[
         "Ni\u017en\u00e1 Polianka"
     ],
     "name:rue_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0430-\u041f\u043e\u043b\u044c\u044f\u043d\u043a\u0430"
     ],
     "name:slk_x_preferred":[
         "Ni\u017en\u00e1 Polianka"
@@ -75,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0436\u043d\u0430 \u041f\u043e\u0459\u0430\u043d\u043a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430"
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":1126016745,
-    "wof:lastmodified":1566645911,
+    "wof:lastmodified":1690865730,
     "wof:name":"Ni\u017en\u00e1 Polianka",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

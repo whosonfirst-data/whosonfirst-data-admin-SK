@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Gerlachov"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u0440\u043b\u0430\u0445\u0438\u0432"
+    ],
     "name:deu_x_preferred":[
         "Gerlachov"
     ],
@@ -41,6 +44,9 @@
         "Gerlachov"
     ],
     "name:fra_x_preferred":[
+        "Gerlachov"
+    ],
+    "name:gle_x_preferred":[
         "Gerlachov"
     ],
     "name:hun_x_preferred":[
@@ -61,11 +67,17 @@
     "name:pol_x_preferred":[
         "Gerlachov"
     ],
+    "name:por_x_preferred":[
+        "Gerlachov"
+    ],
     "name:ron_x_preferred":[
         "Gerlachov"
     ],
     "name:rue_x_preferred":[
         "\u0490\u0435\u0440\u043b\u0430\u0445\u0456\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043b\u0430\u0445\u043e\u0432"
     ],
     "name:slk_x_preferred":[
         "Gerlachov"
@@ -75,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0435\u0440\u043b\u0430\u0445\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0435\u0440\u043b\u0430\u0445\u0438\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u043b\u0430\u0445\u0456\u0432"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1125774111,
-    "wof:lastmodified":1566645934,
+    "wof:lastmodified":1690865761,
     "wof:name":"Gerlachov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

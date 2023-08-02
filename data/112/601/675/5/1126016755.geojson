@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Oponice"
     ],
+    "name:gle_x_preferred":[
+        "Oponice"
+    ],
     "name:hun_x_preferred":[
         "Appony"
     ],
@@ -61,6 +64,12 @@
     "name:nld_x_preferred":[
         "Oponice"
     ],
+    "name:pol_x_preferred":[
+        "Oponice"
+    ],
+    "name:por_x_preferred":[
+        "Oponice"
+    ],
     "name:ron_x_preferred":[
         "Oponice"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u043e\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u043e\u043d\u0456\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Oponice"
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":1126016755,
-    "wof:lastmodified":1566645911,
+    "wof:lastmodified":1690865730,
     "wof:name":"Oponice",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

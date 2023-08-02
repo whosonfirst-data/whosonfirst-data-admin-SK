@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0428\u0442\u0443\u0431\u043d\u044f"
+    ],
     "name:deu_x_preferred":[
         "Ober-Stuben"
     ],
@@ -44,6 +47,9 @@
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:fra_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:gle_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
     "name:hun_x_preferred":[
@@ -64,8 +70,14 @@
     "name:pol_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
     ],
+    "name:por_x_preferred":[
+        "Horn\u00e1 \u0160tub\u0148a"
+    ],
     "name:ron_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0428\u0442\u0443\u0431\u043d\u044f"
     ],
     "name:slk_x_preferred":[
         "Horn\u00e1 \u0160tub\u0148a"
@@ -75,6 +87,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u043d\u0430 \u0428\u0442\u0443\u0431\u045a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0428\u0442\u0443\u0431\u043d\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0428\u0442\u0443\u0431\u043d\u044f"
     ],
     "name:und_x_variant":[
         "Hornia Stub\u0148a"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1126013565,
-    "wof:lastmodified":1566645912,
+    "wof:lastmodified":1690865732,
     "wof:name":"Horna Stubna",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

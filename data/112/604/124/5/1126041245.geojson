@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u041f\u043e\u0440\u0443\u0431\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
@@ -44,6 +47,9 @@
         "Liptovsk\u00e1 Por\u00fabka"
     ],
     "name:fra_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
+    "name:gle_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
+    "name:por_x_preferred":[
+        "Liptovsk\u00e1 Por\u00fabka"
+    ],
     "name:ron_x_preferred":[
         "Liptovsk\u00e1 Por\u00fabka"
     ],
@@ -78,6 +87,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u041f\u043e\u0440\u0443\u0431\u043a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0430 \u041f\u043e\u0440\u0443\u0431\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u0442\u043e\u0432\u0441\u044c\u043a\u0430 \u041f\u043e\u0440\u0443\u0431\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Por\u00fabka"
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":1126041245,
-    "wof:lastmodified":1566645865,
+    "wof:lastmodified":1690865698,
     "wof:name":"Liptovsk\u00e1 Por\u00fabka",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

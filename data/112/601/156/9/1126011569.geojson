@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Ve\u013ek\u00fd Lipn\u00edk"
     ],
+    "name:ces_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
+    ],
     "name:deu_x_preferred":[
         "Ve\u013ek\u00fd Lipn\u00edk"
     ],
@@ -38,6 +44,9 @@
         "Ve\u013ek\u00fd Lipn\u00edk"
     ],
     "name:fra_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
+    "name:gle_x_preferred":[
         "Ve\u013ek\u00fd Lipn\u00edk"
     ],
     "name:hun_x_preferred":[
@@ -58,11 +67,17 @@
     "name:pol_x_preferred":[
         "Wielki Lipnik"
     ],
+    "name:por_x_preferred":[
+        "Ve\u013ek\u00fd Lipn\u00edk"
+    ],
     "name:ron_x_preferred":[
         "Ve\u013ek\u00fd Lipn\u00edk"
     ],
     "name:rue_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u044b\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0438 \u041b\u0438\u043f\u043d\u0438\u043a"
     ],
     "name:slk_x_preferred":[
         "Ve\u013ek\u00fd Lipn\u00edk"
@@ -72,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0438 \u041b\u0438\u043f\u045a\u0438\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041b\u0438\u043f\u043d\u0438\u043a"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1126011569,
-    "wof:lastmodified":1566645911,
+    "wof:lastmodified":1690865730,
     "wof:name":"Vel\u0315k\u00fd Lipn\u00edk",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

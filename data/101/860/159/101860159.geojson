@@ -26,6 +26,9 @@
     "name:ces_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044c\u0435\u0442\u0430\u0432\u0441\u043a\u0430 \u0421\u0432\u0438\u043d\u043d\u0430-\u0411\u0430\u0431\u043a\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
     ],
@@ -39,6 +42,9 @@
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
     ],
     "name:fra_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:gle_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
     "name:pol_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1 - Babkov"
     ],
+    "name:por_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
     "name:ron_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
     ],
@@ -70,6 +79,15 @@
     ],
     "name:srp_x_preferred":[
         "\u0409\u0435\u0442\u0430\u0432\u0441\u043a\u0430 \u0421\u0432\u0438\u043d\u0430-\u0411\u0430\u0431\u043a\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u044c\u0435\u0442\u0430\u0432\u0441\u043a\u0430 \u0421\u0432\u0438\u043d\u043d\u0430-\u0411\u0430\u0431\u043a\u043e\u0432"
+    ],
+    "name:tgl_x_preferred":[
+        "Lietavsk\u00e1 Svinn\u00e1-Babkov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0454\u0442\u0430\u0432\u0441\u043a\u0430 \u0421\u0432\u0456\u043d\u043d\u0430-\u0411\u0430\u0431\u043a\u043e\u0432"
     ],
     "name:war_x_preferred":[
         "Lietavsk\u00e1 Svinn\u00e1-Babkov"
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":101860159,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865513,
     "wof:name":"Lietavsk\u00e1 Svinn\u00e1 - Babkov",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

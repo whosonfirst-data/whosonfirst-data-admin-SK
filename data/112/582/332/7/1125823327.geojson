@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "So\u013e"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043b\u044c"
+    ],
     "name:deu_x_preferred":[
         "So\u013e"
     ],
@@ -41,6 +44,9 @@
         "So\u013e"
     ],
     "name:fra_x_preferred":[
+        "So\u013e"
+    ],
+    "name:gle_x_preferred":[
         "So\u013e"
     ],
     "name:hun_x_preferred":[
@@ -61,8 +67,14 @@
     "name:pol_x_preferred":[
         "So\u013e"
     ],
+    "name:por_x_preferred":[
+        "So\u013e"
+    ],
     "name:ron_x_preferred":[
         "So\u013e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u044c"
     ],
     "name:slk_x_preferred":[
         "So\u013e"
@@ -72,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u043e\u0459"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043b\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u044c"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125823327,
-    "wof:lastmodified":1566645919,
+    "wof:lastmodified":1690865744,
     "wof:name":"Sol\u0315",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

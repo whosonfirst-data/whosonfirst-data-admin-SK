@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "\u013dube\u013ea"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044e\u0431\u0435\u043b\u044f"
+    ],
     "name:deu_x_preferred":[
         "\u013dube\u013ea"
     ],
@@ -41,6 +44,9 @@
         "\u013dube\u013ea"
     ],
     "name:fra_x_preferred":[
+        "\u013dube\u013ea"
+    ],
+    "name:gle_x_preferred":[
         "\u013dube\u013ea"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "\u013dube\u013ea"
     ],
+    "name:por_x_preferred":[
+        "\u013dube\u013ea"
+    ],
     "name:ron_x_preferred":[
         "\u013dube\u013ea"
     ],
@@ -73,8 +82,14 @@
     "name:srp_x_preferred":[
         "\u0409\u0443\u0431\u0435\u0459\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u044e\u0431\u0435\u043b\u044f"
+    ],
     "name:ukr_x_preferred":[
         "Barto\u0161ova Lehotka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u044e\u0431\u0435\u043b\u044f"
     ],
     "name:und_x_variant":[
         "\u013eube\u013ea"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1125774349,
-    "wof:lastmodified":1566645935,
+    "wof:lastmodified":1690865763,
     "wof:name":"L\u0315ubel\u0315a",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

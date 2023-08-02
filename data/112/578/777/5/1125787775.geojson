@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Hnilec"
     ],
+    "name:gle_x_preferred":[
+        "Hnilec"
+    ],
     "name:hun_x_preferred":[
         "Nyilas"
     ],
@@ -59,6 +62,9 @@
         "Hnilec"
     ],
     "name:pol_x_preferred":[
+        "Hnilec"
+    ],
+    "name:por_x_preferred":[
         "Hnilec"
     ],
     "name:ron_x_preferred":[
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1125787775,
-    "wof:lastmodified":1566645922,
+    "wof:lastmodified":1690865749,
     "wof:name":"Hnilec",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

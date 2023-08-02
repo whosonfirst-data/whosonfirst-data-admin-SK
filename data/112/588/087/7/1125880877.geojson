@@ -31,6 +31,9 @@
     "name:ces_x_variant":[
         "Oravice"
     ],
+    "name:che_x_preferred":[
+        "\u0423\u0433\u043e\u0440\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
     "name:deu_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
@@ -44,6 +47,9 @@
         "Uhorsk\u00e1 Ves"
     ],
     "name:fra_x_preferred":[
+        "Uhorsk\u00e1 Ves"
+    ],
+    "name:gle_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "W\u0119gierska_Wie\u015b"
     ],
+    "name:por_x_preferred":[
+        "Uhorsk\u00e1 Ves"
+    ],
     "name:ron_x_preferred":[
         "Uhorsk\u00e1 Ves"
     ],
@@ -75,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0423\u0445\u043e\u0440\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:tat_x_preferred":[
+        "\u0423\u0433\u043e\u0440\u0441\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0433\u043e\u0440\u0441\u043a\u0430 \u0412\u0435\u0441"
     ],
     "name:war_x_preferred":[
         "Uhorsk\u00e1 Ves"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125880877,
-    "wof:lastmodified":1566645874,
+    "wof:lastmodified":1690865706,
     "wof:name":"Uhorsk\u00e1 Ves",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

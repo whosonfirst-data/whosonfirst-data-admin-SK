@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Pren\u010dov"
     ],
+    "name:gle_x_preferred":[
+        "Pren\u010dov"
+    ],
     "name:hun_x_preferred":[
         "Berencsfalu"
     ],
@@ -59,6 +62,9 @@
         "Pren\u010dov"
     ],
     "name:pol_x_preferred":[
+        "Pren\u010dov"
+    ],
+    "name:por_x_preferred":[
         "Pren\u010dov"
     ],
     "name:ron_x_preferred":[
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1126009451,
-    "wof:lastmodified":1566645917,
+    "wof:lastmodified":1690865740,
     "wof:name":"Pren\u010dov",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

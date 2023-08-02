@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Utek\u00e1\u010d"
     ],
+    "name:ces_x_preferred":[
+        "Utek\u00e1\u010d"
+    ],
+    "name:che_x_preferred":[
+        "\u0423\u0442\u0435\u043a\u0430\u0447"
+    ],
     "name:deu_x_preferred":[
         "Utek\u00e1\u010d"
     ],
@@ -36,6 +42,9 @@
         "Utek\u00e1\u010d"
     ],
     "name:fra_x_preferred":[
+        "Utek\u00e1\u010d"
+    ],
+    "name:gle_x_preferred":[
         "Utek\u00e1\u010d"
     ],
     "name:hbs_x_preferred":[
@@ -59,6 +68,9 @@
     "name:pol_x_preferred":[
         "Utek\u00e1\u010d"
     ],
+    "name:por_x_preferred":[
+        "Utek\u00e1\u010d"
+    ],
     "name:ron_x_preferred":[
         "Utek\u00e1\u010d"
     ],
@@ -70,6 +82,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0423\u0442\u0458\u0435\u043a\u0430\u0447"
+    ],
+    "name:tat_x_preferred":[
+        "\u0423\u0442\u0435\u043a\u0430\u0447"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0442\u0435\u043a\u0430\u0447"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":101858947,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865517,
     "wof:name":"Utek\u00e1\u010d",
     "wof:parent_id":102080513,
     "wof:placetype":"locality",

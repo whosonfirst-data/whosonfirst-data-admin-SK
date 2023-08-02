@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Hubice"
     ],
+    "name:ces_x_preferred":[
+        "Hubice"
+    ],
     "name:deu_x_preferred":[
         "Hubice"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Hubice"
     ],
+    "name:gle_x_preferred":[
+        "Hubice"
+    ],
     "name:hun_x_preferred":[
         "Nemesgomba"
     ],
@@ -50,6 +56,9 @@
         "Hubice"
     ],
     "name:nld_x_preferred":[
+        "Hubice"
+    ],
+    "name:pol_x_preferred":[
         "Hubice"
     ],
     "name:por_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125891313,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865710,
     "wof:name":"Hubice",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

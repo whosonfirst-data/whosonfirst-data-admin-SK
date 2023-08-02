@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u0442\u0435\u0440\u043d\u0430 \u041f\u043e\u0440\u0443\u0431\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
     "name:eng_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:fra_x_variant":[
         "Most na Ostrove"
+    ],
+    "name:gle_x_preferred":[
+        "Vetern\u00e1 Poruba"
     ],
     "name:hun_x_preferred":[
         "Sz\u00e9lporuba"
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Wiaterna Por\u0119ba"
     ],
+    "name:por_x_preferred":[
+        "Vetern\u00e1 Poruba"
+    ],
     "name:ron_x_preferred":[
         "Vetern\u00e1 Poruba"
     ],
@@ -72,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0442\u0458\u0435\u0440\u043d\u0430 \u041f\u043e\u0440\u0443\u0431\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u0442\u0435\u0440\u043d\u0430 \u041f\u043e\u0440\u0443\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0442\u0435\u0440\u043d\u0430 \u041f\u043e\u0440\u0443\u0431\u0430"
     ],
     "name:war_x_preferred":[
         "Vetern\u00e1 Poruba"
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":1126016857,
-    "wof:lastmodified":1566645913,
+    "wof:lastmodified":1690865733,
     "wof:name":"Vetern\u00e1 Poruba",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Lu\u010dat\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "Lu\u010dat\u00edn"
+    ],
     "name:hun_x_preferred":[
         "Lucat\u0151"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125796391,
-    "wof:lastmodified":1566645928,
+    "wof:lastmodified":1690865752,
     "wof:name":"Lu\u010dat\u00edn",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

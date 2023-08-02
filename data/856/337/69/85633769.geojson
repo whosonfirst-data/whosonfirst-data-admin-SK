@@ -57,8 +57,14 @@
     "name:amh_x_preferred":[
         "\u1235\u120e\u126b\u12aa\u12eb"
     ],
+    "name:ami_x_preferred":[
+        "Slovakia"
+    ],
     "name:ang_x_preferred":[
         "Slofacia"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0641\u0627\u0643\u064a\u0627"
@@ -80,6 +86,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Slovenska"
+    ],
+    "name:awa_x_preferred":[
+        "\u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e"
     ],
     "name:aym_x_preferred":[
         "Isluwaqiya"
@@ -197,6 +209,9 @@
     ],
     "name:cym_x_preferred":[
         "Slofacia"
+    ],
+    "name:dag_x_preferred":[
+        "Slovakia"
     ],
     "name:dan_x_preferred":[
         "Slovakiet"
@@ -333,6 +348,9 @@
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf3b\ud800\udf30\ud800\udf3f\ud800\udf31\ud800\udf30\ud800\udf3a\ud800\udf3e\ud800\udf30"
     ],
+    "name:gpe_x_preferred":[
+        "Slovakia"
+    ],
     "name:grn_x_preferred":[
         "Elovakia"
     ],
@@ -425,6 +443,9 @@
     ],
     "name:jav_x_preferred":[
         "Slowakia"
+    ],
+    "name:jav_x_variant":[
+        "Slowak"
     ],
     "name:jbo_x_preferred":[
         "slovensk"
@@ -532,6 +553,9 @@
     "name:lij_x_preferred":[
         "Slovacchia"
     ],
+    "name:lij_x_variant":[
+        "Slov\u00e0chia"
+    ],
     "name:lim_x_preferred":[
         "Slowakije"
     ],
@@ -553,8 +577,14 @@
     "name:liv_x_preferred":[
         "Slov\u0101kij"
     ],
+    "name:lld_x_preferred":[
+        "Slovachia"
+    ],
     "name:lmo_x_preferred":[
         "Sluachia"
+    ],
+    "name:lmo_x_variant":[
+        "Slovachia"
     ],
     "name:ltg_x_preferred":[
         "Slovakeja"
@@ -571,6 +601,12 @@
     "name:lzh_x_preferred":[
         "\u65af\u6d1b\u4f10\u514b"
     ],
+    "name:mad_x_preferred":[
+        "Slovakia"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d32\u0d4b\u0d35\u0d3e\u0d15\u0d4d\u0d2f"
     ],
@@ -580,8 +616,14 @@
     "name:mdf_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u0435"
     ],
+    "name:mdf_x_variant":[
+        "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Slowakia"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u0447\u043a\u0430"
@@ -594,6 +636,9 @@
     ],
     "name:mlt_x_preferred":[
         "Slovakkja"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabed\uabc2\uabe3\uabda\uabe5\uabc0\uabe4\uabcc\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u043a"
@@ -624,6 +669,9 @@
     ],
     "name:nan_x_preferred":[
         "Slovakia"
+    ],
+    "name:nap_x_preferred":[
+        "Slovachia"
     ],
     "name:nau_x_preferred":[
         "Slowakia"
@@ -736,6 +784,9 @@
     "name:que_x_preferred":[
         "Isluwakya"
     ],
+    "name:rmc_x_preferred":[
+        "Slova\u010diko"
+    ],
     "name:rmy_x_preferred":[
         "Slovaiko"
     ],
@@ -787,6 +838,12 @@
     "name:sgs_x_preferred":[
         "Sluovak\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "\u1e62luvakiya"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u101c\u1030\u101d\u103a\u1087\u101d\u1083\u1038\u1075\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dbd\u0ddd\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -809,8 +866,14 @@
     "name:sme_x_variant":[
         "Slov\u00e1kia"
     ],
+    "name:smn_x_preferred":[
+        "Slovakia"
+    ],
     "name:smo_x_preferred":[
         "Solovakia"
+    ],
+    "name:sms_x_preferred":[
+        "Slovakia"
     ],
     "name:sna_x_preferred":[
         "Slovakia"
@@ -884,6 +947,9 @@
     "name:tat_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f"
     ],
+    "name:tay_x_preferred":[
+        "Slovakia"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c32\u0c4b\u0c35\u0c47\u0c15\u0c3f\u0c2f\u0c3e"
     ],
@@ -912,10 +978,19 @@
     "name:tir_x_preferred":[
         "\u1235\u120e\u126b\u12aa\u12eb"
     ],
+    "name:tok_x_preferred":[
+        "ma Lowenki"
+    ],
     "name:ton_x_preferred":[
         "Sil\u014dvakia"
     ],
+    "name:ton_x_variant":[
+        "Silov\u0101kia"
+    ],
     "name:tpi_x_preferred":[
+        "Slovakia"
+    ],
+    "name:trv_x_preferred":[
         "Slovakia"
     ],
     "name:tso_x_preferred":[
@@ -962,6 +1037,9 @@
     "name:vec_x_preferred":[
         "Slovachia"
     ],
+    "name:vec_x_variant":[
+        "Slov\u00e0chia"
+    ],
     "name:vep_x_preferred":[
         "Slovakii"
     ],
@@ -983,6 +1061,9 @@
     ],
     "name:war_x_preferred":[
         "Eslovakya"
+    ],
+    "name:wln_x_preferred":[
+        "Slovakeye"
     ],
     "name:wol_x_preferred":[
         "Eslowaaki"
@@ -1251,7 +1332,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"f6d9327d2cbd56d70fb007578f4448ab",
+    "wof:geomhash":"a808e54871f97ce2ad84ef89d79e7f24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1265,7 +1346,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1684351375,
+    "wof:lastmodified":1690865454,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
