@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0406\u043b\u0456\u044f"
+    ],
     "name:cat_x_preferred":[
         "Ilija"
     ],
@@ -43,6 +46,9 @@
     "name:fra_x_preferred":[
         "Ilija"
     ],
+    "name:gle_x_preferred":[
+        "Ilija"
+    ],
     "name:hrv_x_preferred":[
         "Ilija"
     ],
@@ -59,6 +65,9 @@
         "Ilija"
     ],
     "name:pol_x_preferred":[
+        "Ilija"
+    ],
+    "name:por_x_preferred":[
         "Ilija"
     ],
     "name:ron_x_preferred":[
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125997395,
-    "wof:lastmodified":1566645896,
+    "wof:lastmodified":1690865716,
     "wof:name":"Ilija",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Kalu\u017ea"
     ],
+    "name:gle_x_preferred":[
+        "Kalu\u017ea"
+    ],
     "name:hun_x_preferred":[
         "Ungtavas"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:pol_x_variant":[
         "Mik\u0161ov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Kalu\u017ea"
     ],
     "name:ron_x_preferred":[
         "Kalu\u017ea"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1125880521,
-    "wof:lastmodified":1566645873,
+    "wof:lastmodified":1690865706,
     "wof:name":"Kalu\u017ea",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

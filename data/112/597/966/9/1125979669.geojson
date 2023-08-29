@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
+    "name:gle_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
     "name:hun_x_preferred":[
         "Nagybir\u00f3c"
     ],
@@ -56,6 +59,9 @@
         "Ve\u013ek\u00e9 Bierovce"
     ],
     "name:nld_x_preferred":[
+        "Ve\u013ek\u00e9 Bierovce"
+    ],
+    "name:por_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0433\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u043b\u044c\u043a\u0435 \u0411'\u0454\u0440\u043e\u0432\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Ve\u013ek\u00e9 Bierovce"
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1125979669,
-    "wof:lastmodified":1566645901,
+    "wof:lastmodified":1690865725,
     "wof:name":"Vel\u0315k\u00e9 Bierovce",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

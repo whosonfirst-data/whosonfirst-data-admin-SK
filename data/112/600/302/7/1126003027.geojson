@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
+    "name:ces_x_preferred":[
+        "Ru\u017ein\u00e1"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u0436\u0438\u043d\u0430"
+    ],
     "name:deu_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
@@ -38,6 +44,9 @@
         "Ru\u017ein\u00e1"
     ],
     "name:fra_x_preferred":[
+        "Ru\u017ein\u00e1"
+    ],
+    "name:gle_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
+    "name:por_x_preferred":[
+        "Ru\u017ein\u00e1"
+    ],
     "name:ron_x_preferred":[
         "Ru\u017ein\u00e1"
     ],
@@ -72,6 +84,9 @@
     ],
     "name:srp_x_variant":[
         "\u0425\u043e\u0440\u043d\u0430 \u0409\u0435\u0445\u043e\u0442\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u0436\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0436\u0438\u043d\u0430"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1126003027,
-    "wof:lastmodified":1566645916,
+    "wof:lastmodified":1690865738,
     "wof:name":"Ru\u017ein\u00e1",
     "wof:parent_id":102080497,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ces_x_preferred":[
+        "leti\u0161t\u011b Trnava"
+    ],
     "name:eng_x_preferred":[
         "Boler\u00e1z aerodrome"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102547731,
-    "wof:lastmodified":1631755757,
+    "wof:lastmodified":1690865448,
     "wof:name":"Boleraz Airport",
     "wof:parent_id":85688369,
     "wof:placetype":"campus",

@@ -26,6 +26,9 @@
     "name:ces_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0434\u0440\u0443\u0448\u0430-\u0413\u0430\u043c\u0440\u0435"
+    ],
     "name:deu_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
@@ -39,6 +42,9 @@
         "Hodru\u0161a-H\u00e1mre"
     ],
     "name:fra_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
+    "name:gle_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
     "name:pol_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
+    "name:por_x_preferred":[
+        "Hodru\u0161a-H\u00e1mre"
+    ],
     "name:ron_x_preferred":[
         "Hodru\u0161a-H\u00e1mre"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0434\u0440\u0443\u0448\u0430-\u0425\u0430\u043c\u0440\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0434\u0440\u0443\u0448\u0430-\u0413\u0430\u043c\u0440\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0434\u0440\u0443\u0448\u0430-\u0413\u0430\u043c\u0440\u0435"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":101858945,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865518,
     "wof:name":"Hodru\u0161a - H\u00e1mre",
     "wof:parent_id":102080499,
     "wof:placetype":"locality",

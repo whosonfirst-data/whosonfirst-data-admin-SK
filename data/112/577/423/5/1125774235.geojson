@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "J\u00e1novce"
     ],
+    "name:ces_x_preferred":[
+        "J\u00e1novce"
+    ],
     "name:deu_x_preferred":[
         "J\u00e1novce"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "J\u00e1novce"
     ],
+    "name:gle_x_preferred":[
+        "J\u00e1novce"
+    ],
     "name:hun_x_preferred":[
         "Dunaj\u00e1nosh\u00e1za"
     ],
@@ -50,6 +56,12 @@
         "J\u00e1novce"
     ],
     "name:nld_x_preferred":[
+        "J\u00e1novce"
+    ],
+    "name:pol_x_preferred":[
+        "J\u00e1novce"
+    ],
+    "name:por_x_preferred":[
         "J\u00e1novce"
     ],
     "name:ron_x_preferred":[
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1125774235,
-    "wof:lastmodified":1566645932,
+    "wof:lastmodified":1690865756,
     "wof:name":"Janovce",
     "wof:parent_id":102080469,
     "wof:placetype":"locality",

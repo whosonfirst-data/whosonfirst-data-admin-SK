@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "P\u00e1rnica"
     ],
+    "name:gle_x_preferred":[
+        "P\u00e1rnica"
+    ],
     "name:hun_x_preferred":[
         "P\u00e1rnica"
     ],
@@ -62,6 +65,9 @@
         "P\u00e1rnica"
     ],
     "name:pol_x_preferred":[
+        "P\u00e1rnica"
+    ],
+    "name:por_x_preferred":[
         "P\u00e1rnica"
     ],
     "name:ron_x_preferred":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1126016777,
-    "wof:lastmodified":1566645913,
+    "wof:lastmodified":1690865734,
     "wof:name":"P\u00e1rnica",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

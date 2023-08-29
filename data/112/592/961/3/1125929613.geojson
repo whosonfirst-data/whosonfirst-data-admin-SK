@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Mojt\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "Mojt\u00edn"
+    ],
     "name:hun_x_preferred":[
         "Hegyesmajt\u00e9ny"
     ],
@@ -56,6 +59,12 @@
         "Mojt\u00edn"
     ],
     "name:nld_x_preferred":[
+        "Mojt\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Mojt\u00edn"
+    ],
+    "name:por_x_preferred":[
         "Mojt\u00edn"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0447\u043a\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0439\u0442\u0456\u043d"
     ],
     "name:war_x_preferred":[
         "Mojt\u00edn"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125929613,
-    "wof:lastmodified":1566645847,
+    "wof:lastmodified":1690865687,
     "wof:name":"Mojt\u00edn",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

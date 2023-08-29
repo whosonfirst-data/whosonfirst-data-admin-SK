@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Detvianska Huta"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0435\u0442\u0432\u0438\u0430\u043d\u0441\u043a\u0430 \u0413\u0443\u0442\u0430"
+    ],
     "name:deu_x_preferred":[
         "Detvianska Huta"
     ],
@@ -41,6 +44,9 @@
         "Detvianska Huta"
     ],
     "name:fra_x_preferred":[
+        "Detvianska Huta"
+    ],
+    "name:gle_x_preferred":[
         "Detvianska Huta"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Detvianska Huta"
     ],
+    "name:por_x_preferred":[
+        "Detvianska Huta"
+    ],
     "name:ron_x_preferred":[
         "Detvianska Huta"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0402\u0435\u0442\u0432\u0458\u0430\u043d\u0441\u043a\u0430 \u0425\u0443\u0442\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u0442\u0432\u0438\u0430\u043d\u0441\u043a\u0430 \u0413\u0443\u0442\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0442\u0432\u0456\u0430\u043d\u0441\u044c\u043a\u0430 \u0413\u0443\u0442\u0430"
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":1125780985,
-    "wof:lastmodified":1566645922,
+    "wof:lastmodified":1690865749,
     "wof:name":"Detvianska Huta",
     "wof:parent_id":102080507,
     "wof:placetype":"locality",

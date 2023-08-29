@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Kov\u00e1lov"
     ],
+    "name:gle_x_preferred":[
+        "Kov\u00e1lov"
+    ],
     "name:hrv_x_preferred":[
         "Kov\u00e1lov"
     ],
@@ -61,6 +64,9 @@
     "name:nld_x_preferred":[
         "Kov\u00e1lov"
     ],
+    "name:pol_x_preferred":[
+        "Kov\u00e1lov"
+    ],
     "name:por_x_preferred":[
         "Kov\u00e1lov"
     ],
@@ -74,6 +80,9 @@
         "Kov\u00e1lov"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u043b\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0430\u043b\u043e\u0432"
     ],
     "name:war_x_preferred":[
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125871349,
-    "wof:lastmodified":1566645887,
+    "wof:lastmodified":1690865715,
     "wof:name":"Kov\u00e1lov",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

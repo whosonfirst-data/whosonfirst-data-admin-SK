@@ -46,6 +46,9 @@
     "name:epo_x_preferred":[
         "Rusovce"
     ],
+    "name:est_x_preferred":[
+        "Rusovce"
+    ],
     "name:fin_x_preferred":[
         "Rusovce"
     ],
@@ -85,6 +88,9 @@
     "name:pol_x_preferred":[
         "Rusovce"
     ],
+    "name:por_x_preferred":[
+        "Rusovce"
+    ],
     "name:rue_x_preferred":[
         "\u0420\u0443\u0441\u043e\u0432\u0446\u0435"
     ],
@@ -95,6 +101,12 @@
         "Rusovce"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u0443\u0441\u043e\u0432\u0446\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Rusovce"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_colloquial":[
@@ -175,7 +187,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865453,
     "wof:name":"Rusovce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

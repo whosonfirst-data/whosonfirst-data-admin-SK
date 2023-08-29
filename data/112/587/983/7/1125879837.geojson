@@ -25,11 +25,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0633\u0643\u0627 \u0634\u062a\u064a\u0641\u0646\u064a\u062a\u0633\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u0633\u0643\u0627 \u0634\u062a\u064a\u0641\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
+    ],
     "name:aze_x_preferred":[
         "Banska \u015etyavnisa"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043d\u0441\u043a\u0430-\u0428\u0446\u044c\u044f\u045e\u043d\u0456\u0446\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u043d\u0441\u043a\u0430-\u0428\u0446\u044c\u044f\u045e\u043d\u0456\u0446\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u0430 \u0429\u044f\u0432\u043d\u0438\u0446\u0430"
@@ -74,6 +89,9 @@
         "Bansk\u00e1 \u0160tiavnica"
     ],
     "name:fra_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
+    ],
+    "name:gle_x_preferred":[
         "Bansk\u00e1 \u0160tiavnica"
     ],
     "name:heb_x_preferred":[
@@ -121,6 +139,9 @@
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043a\u0430 \u0428\u0442\u0438\u0458\u0430\u0432\u043d\u0438\u0446\u0430"
     ],
+    "name:mlt_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
+    ],
     "name:msa_x_preferred":[
         "Bansk\u00e1 \u0160tiavnica"
     ],
@@ -164,6 +185,9 @@
         "\u0411\u0430\u043d\u0441\u043a\u0430 \u0428\u0442\u0458\u0430\u0432\u045a\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
+        "Bansk\u00e1 \u0160tiavnica"
+    ],
+    "name:szl_x_preferred":[
         "Bansk\u00e1 \u0160tiavnica"
     ],
     "name:tat_x_preferred":[
@@ -243,7 +267,7 @@
         }
     ],
     "wof:id":1125879837,
-    "wof:lastmodified":1566645887,
+    "wof:lastmodified":1690865716,
     "wof:name":"Bansk\u00e1 \u00c5 Tiavnica",
     "wof:parent_id":102080491,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Osrblie"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u0440\u0431\u043b\u0438\u044c\u0435"
+    ],
     "name:deu_x_preferred":[
         "Osrblie"
     ],
@@ -44,6 +47,9 @@
         "Osrblie"
     ],
     "name:fra_x_preferred":[
+        "Osrblie"
+    ],
+    "name:gle_x_preferred":[
         "Osrblie"
     ],
     "name:hun_x_preferred":[
@@ -61,7 +67,13 @@
     "name:nld_x_preferred":[
         "Osrblie"
     ],
+    "name:nob_x_preferred":[
+        "Osrblie"
+    ],
     "name:pol_x_preferred":[
+        "Osrblie"
+    ],
+    "name:por_x_preferred":[
         "Osrblie"
     ],
     "name:ron_x_preferred":[
@@ -82,11 +94,17 @@
     "name:swe_x_preferred":[
         "Osrblie"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u0440\u0431\u043b\u0438\u044c\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0440\u0431\u043b\u0456\u0454"
     ],
     "name:war_x_preferred":[
         "Osrblie"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u745f\u5e03\u5217"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1125830955,
-    "wof:lastmodified":1566645938,
+    "wof:lastmodified":1690865766,
     "wof:name":"Osrblie",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

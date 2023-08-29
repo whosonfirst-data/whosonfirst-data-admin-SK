@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "\u00dahorn\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "\u00dahorn\u00e1"
+    ],
     "name:hun_x_preferred":[
         "D\u00e9nes"
     ],
@@ -59,6 +62,9 @@
         "\u00dahorn\u00e1"
     ],
     "name:pol_x_preferred":[
+        "\u00dahorn\u00e1"
+    ],
+    "name:por_x_preferred":[
         "\u00dahorn\u00e1"
     ],
     "name:ron_x_preferred":[
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1126011525,
-    "wof:lastmodified":1566645912,
+    "wof:lastmodified":1690865732,
     "wof:name":"\u00dahorn\u00e1",
     "wof:parent_id":102080559,
     "wof:placetype":"locality",

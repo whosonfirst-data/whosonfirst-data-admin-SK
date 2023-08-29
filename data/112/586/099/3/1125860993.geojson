@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0432\u0430\u0434\u0430"
+    ],
     "name:deu_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
@@ -41,6 +44,9 @@
         "Pa\u0161tina Z\u00e1vada"
     ],
     "name:fra_x_preferred":[
+        "Pa\u0161tina Z\u00e1vada"
+    ],
+    "name:gle_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
+    "name:por_x_preferred":[
+        "Pa\u0161tina Z\u00e1vada"
+    ],
     "name:ron_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
     ],
@@ -72,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0432\u0430\u0434\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0432\u0430\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0448\u0442\u0456\u043d\u0430 \u0417\u0430\u0432\u0430\u0434\u0430"
     ],
     "name:war_x_preferred":[
         "Pa\u0161tina Z\u00e1vada"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125860993,
-    "wof:lastmodified":1566645870,
+    "wof:lastmodified":1690865702,
     "wof:name":"Pa\u0161tina Z\u00e1vada",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

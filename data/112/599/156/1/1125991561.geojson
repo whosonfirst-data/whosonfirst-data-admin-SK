@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Bara"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0440\u0430"
+    ],
     "name:deu_x_preferred":[
         "Bara"
     ],
@@ -41,6 +44,9 @@
         "Bara"
     ],
     "name:fra_x_preferred":[
+        "Bara"
+    ],
+    "name:gle_x_preferred":[
         "Bara"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Bara"
     ],
+    "name:por_x_preferred":[
+        "Bara"
+    ],
     "name:ron_x_preferred":[
         "Bara"
     ],
@@ -77,6 +86,9 @@
         "Bara"
     ],
     "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0430"
+    ],
+    "name:tat_x_preferred":[
         "\u0411\u0430\u0440\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1125991561,
-    "wof:lastmodified":1566645897,
+    "wof:lastmodified":1690865718,
     "wof:name":"Vel\u0315k\u00e1 Bara",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

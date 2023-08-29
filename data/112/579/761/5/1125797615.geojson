@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Jablonov\u00e9"
     ],
+    "name:che_x_preferred":[
+        "\u042f\u0431\u043b\u043e\u043d\u043e\u0432\u0435"
+    ],
     "name:deu_x_preferred":[
         "Jablonov\u00e9"
     ],
@@ -41,6 +44,9 @@
         "Jablonov\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Jablonov\u00e9"
+    ],
+    "name:gle_x_preferred":[
         "Jablonov\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:ron_x_preferred":[
         "Jablonov\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u042f\u0431\u043b\u043e\u043d\u043e\u0432\u0435"
+    ],
     "name:slk_x_preferred":[
         "Jablonov\u00e9"
     ],
@@ -70,8 +79,17 @@
     "name:srp_x_preferred":[
         "\u0408\u0430\u0431\u043b\u043e\u043d\u043e\u0432\u0435"
     ],
+    "name:szl_x_preferred":[
+        "Jablonov\u00e9"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u0431\u043b\u043e\u043d\u043e\u0432\u0435"
+    ],
     "name:ukr_x_preferred":[
         "Michal\u0315any"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0431\u043b\u043e\u043d\u043e\u0432\u0435"
     ],
     "name:war_x_preferred":[
         "Jablonov\u00e9"
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":1125797615,
-    "wof:lastmodified":1566645928,
+    "wof:lastmodified":1690865752,
     "wof:name":"Jablonov\u00e9",
     "wof:parent_id":102080487,
     "wof:placetype":"locality",

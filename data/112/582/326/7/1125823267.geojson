@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
+    "name:ces_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
     "name:deu_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
@@ -38,6 +41,9 @@
         "Hontianske Tes\u00e1re"
     ],
     "name:fra_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:gle_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
         "Hontianske Tes\u00e1re"
     ],
     "name:pol_x_preferred":[
+        "Hontianske Tes\u00e1re"
+    ],
+    "name:por_x_preferred":[
         "Hontianske Tes\u00e1re"
     ],
     "name:ron_x_preferred":[
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":1125823267,
-    "wof:lastmodified":1566645920,
+    "wof:lastmodified":1690865745,
     "wof:name":"Hontianske Tes\u00e1re",
     "wof:parent_id":102080483,
     "wof:placetype":"locality",

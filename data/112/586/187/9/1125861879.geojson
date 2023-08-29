@@ -46,6 +46,12 @@
     "name:fra_x_preferred":[
         "Radva\u0148 nad Dunajom"
     ],
+    "name:gle_x_preferred":[
+        "Radva\u0148 nad Dunajom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d1\u05d9\u05ea\u05ea \u05d4\u05e0\u05e9\u05e7 \u05e9\u05dc \u05d6\u05e1\u05d9\u05d8\u05d5\u05d0\u05d8\u05d5\u05e8\u05d5\u05e7"
+    ],
     "name:hun_x_preferred":[
         "Radv\u00e1ny"
     ],
@@ -70,8 +76,14 @@
     "name:pol_x_preferred":[
         "Radva\u0148 nad Dunajom"
     ],
+    "name:por_x_preferred":[
+        "Radva\u0148 nad Dunajom"
+    ],
     "name:ron_x_preferred":[
         "Radva\u0148 nad Dunajom"
+    ],
+    "name:rue_x_preferred":[
+        "\u0420\u0430\u0434\u0432\u0430\u043d\u044c \u043d\u0430\u0434 \u0414\u0443\u043d\u0430\u0439\u043e\u043c"
     ],
     "name:slk_x_preferred":[
         "Radva\u0148 nad Dunajom"
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":1125861879,
-    "wof:lastmodified":1566645871,
+    "wof:lastmodified":1690865703,
     "wof:name":"Radva\u0148 nad Dunajom",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

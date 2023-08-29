@@ -39,6 +39,9 @@
     "name:epo_x_preferred":[
         "Ru\u017einov"
     ],
+    "name:est_x_preferred":[
+        "Ru\u017einov"
+    ],
     "name:fin_x_preferred":[
         "Ru\u017einov"
     ],
@@ -69,6 +72,9 @@
     "name:pol_x_preferred":[
         "Ru\u017einov"
     ],
+    "name:por_x_preferred":[
+        "Ru\u017einov"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0436\u0438\u043d\u043e\u0432"
     ],
@@ -78,7 +84,16 @@
     "name:slk_x_preferred":[
         "Ru\u017einov"
     ],
+    "name:spa_x_preferred":[
+        "Ru\u017einov"
+    ],
     "name:srp_x_preferred":[
+        "\u0420\u0443\u0436\u0438\u043d\u043e\u0432"
+    ],
+    "name:tur_x_preferred":[
+        "Ru\u017einov"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0443\u0436\u0438\u043d\u043e\u0432"
     ],
     "name:und_x_colloquial":[
@@ -153,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865454,
     "wof:name":"Ru\u017einov",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

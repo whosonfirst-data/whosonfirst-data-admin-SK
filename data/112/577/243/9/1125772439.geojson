@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Kra\u013eovany"
     ],
+    "name:gle_x_preferred":[
+        "Kra\u013eovany"
+    ],
     "name:hun_x_preferred":[
         "Kralov\u00e1n"
     ],
@@ -62,6 +65,9 @@
         "Kra\u013eovany"
     ],
     "name:pol_x_preferred":[
+        "Kra\u013eovany"
+    ],
+    "name:por_x_preferred":[
         "Kra\u013eovany"
     ],
     "name:ron_x_preferred":[
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1125772439,
-    "wof:lastmodified":1566645931,
+    "wof:lastmodified":1690865755,
     "wof:name":"Kral\u0315ovany",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

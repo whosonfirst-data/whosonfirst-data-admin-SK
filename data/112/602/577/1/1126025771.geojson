@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Nov\u00e1 Polianka"
     ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Polianka"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Polianka"
+    ],
     "name:eng_x_preferred":[
         "Nov\u00e1 Polianka"
     ],
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1126025771,
-    "wof:lastmodified":1566645861,
+    "wof:lastmodified":1690865690,
     "wof:name":"Nova Polianka",
     "wof:parent_id":102080597,
     "wof:placetype":"locality",

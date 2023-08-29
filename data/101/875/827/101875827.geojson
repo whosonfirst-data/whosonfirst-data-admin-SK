@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Valask\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Valask\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Garamolaszka"
     ],
@@ -57,6 +60,9 @@
         "Valask\u00e1"
     ],
     "name:pol_x_preferred":[
+        "Valask\u00e1"
+    ],
+    "name:por_x_preferred":[
         "Valask\u00e1"
     ],
     "name:ron_x_preferred":[
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":101875827,
-    "wof:lastmodified":1582382506,
+    "wof:lastmodified":1690865471,
     "wof:name":"Valask\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

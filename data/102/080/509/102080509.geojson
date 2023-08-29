@@ -25,6 +25,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:aze_x_preferred":[
+        "Zvolen rayonu"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09ad\u09cb\u09b2\u09c7\u09a8"
     ],
@@ -58,6 +61,9 @@
     "name:eus_x_preferred":[
         "Zvolengo barrutia"
     ],
+    "name:fin_x_preferred":[
+        "Zvolen"
+    ],
     "name:fra_x_preferred":[
         "District de Zvolen"
     ],
@@ -76,8 +82,14 @@
     "name:ita_x_preferred":[
         "Distretto di Zvolen"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30f4\u30a9\u30ec\u30f3\u90e1"
+    ],
     "name:kat_x_preferred":[
         "\u10d6\u10d5\u10dd\u10da\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc988\ubcfc\ub80c\uad6c"
     ],
     "name:lat_x_preferred":[
         "Zvolen"
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":102080509,
-    "wof:lastmodified":1636505183,
+    "wof:lastmodified":1690865443,
     "wof:name":"Zvolen",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Ve\u013ek\u00e1 Paka"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0430 \u041f\u0430\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Ve\u013ek\u00e1 Paka"
     ],
@@ -41,6 +44,9 @@
         "Ve\u013ek\u00e1 Paka"
     ],
     "name:fra_x_preferred":[
+        "Ve\u013ek\u00e1 Paka"
+    ],
+    "name:gle_x_preferred":[
         "Ve\u013ek\u00e1 Paka"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +64,9 @@
     "name:nld_x_preferred":[
         "Ve\u013ek\u00e1 Paka"
     ],
+    "name:pol_x_preferred":[
+        "Ve\u013ek\u00e1 Paka"
+    ],
     "name:por_x_preferred":[
         "Ve\u013ek\u00e1 Paka"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0459\u043a\u0430 \u041f\u0430\u043a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u043a\u0430 \u041f\u0430\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043a\u0430 \u041f\u0430\u043a\u0430"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":1125891379,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865711,
     "wof:name":"Vel\u0315k\u00e1 Paka",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

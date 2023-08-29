@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0627 \u0644\u0648\u0628\u0648\u0641\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0627 \u0644\u0648\u0628\u0648\u0641\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
     "name:aze_x_preferred":[
         "Stara Lyubovnya"
     ],
@@ -43,11 +49,17 @@
     "name:ces_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
+    ],
     "name:dan_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
     ],
     "name:deu_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03ac\u03c1\u03b1 \u039b\u03bf\u03c5\u03bc\u03c0\u03bf\u03b2\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
@@ -67,11 +79,17 @@
     "name:fra_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
     ],
+    "name:gle_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
     "name:hrv_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
     ],
     "name:hun_x_preferred":[
         "\u00d3lubl\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0561\u0580\u0561 \u053c\u0575\u0578\u0582\u0562\u0578\u057e\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
@@ -85,11 +103,17 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud0c0\ub77c\ub8e8\ubcf4\ube0c\ub0d0"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud0c0\ub77c\ub958\ubcf4\ube0c\ub0d0"
+    ],
     "name:lav_x_preferred":[
         "Stara \u013bubov\u0146a"
     ],
     "name:lit_x_preferred":[
         "Stara Liubovnia"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
     ],
     "name:msa_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
@@ -106,6 +130,9 @@
     "name:pol_x_preferred":[
         "Lubowla"
     ],
+    "name:por_x_preferred":[
+        "Star\u00e1 \u013dubov\u0148a"
+    ],
     "name:ron_x_preferred":[
         "Star\u00e1 \u013dubov\u0148a"
     ],
@@ -120,6 +147,9 @@
     ],
     "name:spa_x_preferred":[
         "Castillo de Star\u00e1 \u013dubov\u0148a"
+    ],
+    "name:spa_x_variant":[
+        "Star\u00e1 \u013dubov\u0148a"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0409\u0443\u0431\u043e\u0432\u045a\u0430"
@@ -195,7 +225,7 @@
         }
     ],
     "wof:id":1125967117,
-    "wof:lastmodified":1566645908,
+    "wof:lastmodified":1690865727,
     "wof:name":"Star\u00e1 L\u0315ubov\u0148a",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

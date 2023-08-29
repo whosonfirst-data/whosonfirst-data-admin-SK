@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Bystr\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Bystr\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Sebes\u00e9r"
     ],
@@ -61,8 +64,14 @@
     "name:pol_x_preferred":[
         "Bystr\u00e1"
     ],
+    "name:por_x_preferred":[
+        "Bystr\u00e1"
+    ],
     "name:ron_x_preferred":[
         "Bystr\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0430"
     ],
     "name:slk_x_preferred":[
         "Bystr\u00e1"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125830681,
-    "wof:lastmodified":1566645938,
+    "wof:lastmodified":1690865767,
     "wof:name":"Bystr\u00e1",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:epo_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
     ],
+    "name:est_x_preferred":[
+        "Dev\u00ednska Nov\u00e1 Ves"
+    ],
     "name:fra_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
     ],
@@ -70,6 +73,9 @@
     "name:pol_x_preferred":[
         "Dev\u00ednska Nov\u00e1 Ves"
     ],
+    "name:por_x_preferred":[
+        "Dev\u00ednska Nov\u00e1 Ves"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0432\u0438\u043d\u0441\u043a\u0430-\u041d\u043e\u0432\u0430-\u0412\u0435\u0441"
     ],
@@ -81,6 +87,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0402\u0435\u0432\u0438\u043d\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Dev\u00ednska Nov\u00e1 Ves"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0432\u0456\u043d\u0441\u044c\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:und_x_colloquial":[
         "Devinska Nova Ves"
@@ -158,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865452,
     "wof:name":"Dev\u00ednska Nov\u00e1 Ves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
+    "name:gle_x_preferred":[
+        "Nov\u00e1\u010dany"
+    ],
     "name:hun_x_preferred":[
         "J\u00e1sz\u00f3\u00fajfalu"
     ],
@@ -59,6 +62,9 @@
         "Nov\u00e1\u010dany"
     ],
     "name:pol_x_preferred":[
+        "Nov\u00e1\u010dany"
+    ],
+    "name:por_x_preferred":[
         "Nov\u00e1\u010dany"
     ],
     "name:ron_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1125810665,
-    "wof:lastmodified":1566645873,
+    "wof:lastmodified":1690865705,
     "wof:name":"Nov\u00e1\u010dany",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

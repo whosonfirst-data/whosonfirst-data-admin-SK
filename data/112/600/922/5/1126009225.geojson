@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Chrabrany"
     ],
+    "name:deu_x_preferred":[
+        "Chrabrany"
+    ],
     "name:eng_x_preferred":[
         "Chrabrany"
     ],
@@ -38,6 +41,9 @@
         "Chrabrany"
     ],
     "name:fra_x_preferred":[
+        "Chrabrany"
+    ],
+    "name:gle_x_preferred":[
         "Chrabrany"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +64,12 @@
     "name:pol_x_preferred":[
         "Hanesy"
     ],
+    "name:pol_x_variant":[
+        "Chrabrany"
+    ],
+    "name:por_x_preferred":[
+        "Chrabrany"
+    ],
     "name:ron_x_preferred":[
         "Chrabrany"
     ],
@@ -68,6 +80,9 @@
         "Chrabrany"
     ],
     "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0431\u0440\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
         "\u0425\u0440\u0430\u0431\u0440\u0430\u043d\u0438"
     ],
     "name:war_x_preferred":[
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1126009225,
-    "wof:lastmodified":1566645915,
+    "wof:lastmodified":1690865737,
     "wof:name":"Chrabrany",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

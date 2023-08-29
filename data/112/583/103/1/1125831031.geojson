@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "\u013dubietov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "\u013dubietov\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Libetb\u00e1nya"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125831031,
-    "wof:lastmodified":1566645936,
+    "wof:lastmodified":1690865764,
     "wof:name":"L\u0315ubietov\u00e1",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

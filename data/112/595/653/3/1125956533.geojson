@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Rokytov"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0442\u043e\u0432"
+    ],
+    "name:deu_x_preferred":[
+        "Rokytov"
+    ],
     "name:eng_x_preferred":[
         "Rokytov"
     ],
@@ -38,6 +44,9 @@
         "Rokytov"
     ],
     "name:fra_x_preferred":[
+        "Rokytov"
+    ],
+    "name:gle_x_preferred":[
         "Rokytov"
     ],
     "name:hun_x_preferred":[
@@ -58,10 +67,16 @@
     "name:pol_x_preferred":[
         "Rokytov"
     ],
+    "name:por_x_preferred":[
+        "Rokytov"
+    ],
     "name:ron_x_preferred":[
         "Rokytov"
     ],
     "name:rue_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0442\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
         "\u0420\u043e\u043a\u0438\u0442\u043e\u0432"
     ],
     "name:slk_x_preferred":[
@@ -71,6 +86,9 @@
         "Rokytov"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0442\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u043e\u043a\u0438\u0442\u043e\u0432"
     ],
     "name:ukr_x_preferred":[
@@ -130,7 +148,7 @@
         }
     ],
     "wof:id":1125956533,
-    "wof:lastmodified":1566645849,
+    "wof:lastmodified":1690865689,
     "wof:name":"Rokytov",
     "wof:parent_id":102080621,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Rumanov\u00e1"
     ],
+    "name:ces_x_preferred":[
+        "Rumanov\u00e1"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u043c\u0430\u043d\u043e\u0432\u0430"
+    ],
     "name:deu_x_preferred":[
         "Rumanov\u00e1"
     ],
@@ -43,6 +49,9 @@
     "name:fra_x_preferred":[
         "Rumanov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Rumanov\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Rom\u00e1nfalva"
     ],
@@ -58,6 +67,12 @@
     "name:nld_x_preferred":[
         "Rumanov\u00e1"
     ],
+    "name:pol_x_preferred":[
+        "Rumanov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Rumanov\u00e1"
+    ],
     "name:ron_x_preferred":[
         "Rumanov\u00e1"
     ],
@@ -71,6 +86,12 @@
         "Rumanov\u00e1"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u0443\u043c\u0430\u043d\u043e\u0432\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u043c\u0430\u043d\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0443\u043c\u0430\u043d\u043e\u0432\u0430"
     ],
     "name:war_x_preferred":[
@@ -131,7 +152,7 @@
         }
     ],
     "wof:id":1125894941,
-    "wof:lastmodified":1566645884,
+    "wof:lastmodified":1690865712,
     "wof:name":"Rumanov\u00e1",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",

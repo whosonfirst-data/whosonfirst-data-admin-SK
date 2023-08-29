@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Hrabovka"
     ],
+    "name:gle_x_preferred":[
+        "Hrabovka"
+    ],
     "name:hun_x_preferred":[
         "Sz\u00facsgyerty\u00e1nos"
     ],
@@ -53,6 +56,9 @@
         "Hrabovka"
     ],
     "name:nld_x_preferred":[
+        "Hrabovka"
+    ],
+    "name:por_x_preferred":[
         "Hrabovka"
     ],
     "name:ron_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0430\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u043a\u0430"
     ],
     "name:war_x_preferred":[
         "Hrabovka"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1125891199,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865709,
     "wof:name":"Hrabovka",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Lastovce"
     ],
+    "name:gle_x_preferred":[
+        "Lastovce"
+    ],
     "name:hun_x_preferred":[
         "Laszt\u00f3c"
     ],
@@ -59,6 +62,9 @@
         "Lastovce"
     ],
     "name:pol_x_preferred":[
+        "Lastovce"
+    ],
+    "name:por_x_preferred":[
         "Lastovce"
     ],
     "name:ron_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1126052949,
-    "wof:lastmodified":1566645862,
+    "wof:lastmodified":1690865693,
     "wof:name":"Lastovce",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

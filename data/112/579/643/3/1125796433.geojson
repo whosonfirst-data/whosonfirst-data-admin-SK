@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Soko\u013e"
     ],
+    "name:gle_x_preferred":[
+        "Soko\u013e"
+    ],
     "name:hun_x_preferred":[
         "Hern\u00e1dszokoly"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:pol_x_variant":[
         "Vel\u0315k\u00e1 Lodina"
+    ],
+    "name:por_x_preferred":[
+        "Soko\u013e"
     ],
     "name:ron_x_preferred":[
         "Soko\u013e"
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1125796433,
-    "wof:lastmodified":1566645927,
+    "wof:lastmodified":1690865750,
     "wof:name":"Sokol\u0315",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

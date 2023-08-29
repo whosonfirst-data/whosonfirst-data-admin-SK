@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u064a \u0646\u0627\u062f \u062a\u0648\u0628\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0649 \u0646\u0627\u062f \u062a\u0648\u0628\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
     "name:cat_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
@@ -32,6 +38,9 @@
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:ces_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:dan_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:deu_x_preferred":[
@@ -43,6 +52,9 @@
     "name:epo_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
+    "name:est_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
     "name:eus_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
@@ -50,6 +62,9 @@
         "\u0647\u0627\u0646\u0648\u0634\u0648\u062a\u0633\u0647 \u0646\u0627\u062f \u062a\u067e\u0644\u0648"
     ],
     "name:fra_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:gle_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:hrv_x_preferred":[
@@ -74,6 +89,9 @@
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:pol_x_preferred":[
+        "Hanu\u0161ovce nad Top\u013eou"
+    ],
+    "name:por_x_preferred":[
         "Hanu\u0161ovce nad Top\u013eou"
     ],
     "name:ron_x_preferred":[
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":1125830193,
-    "wof:lastmodified":1566645938,
+    "wof:lastmodified":1690865766,
     "wof:name":"Hanu\u0161ovce nad Topl\u0315ou",
     "wof:parent_id":102080593,
     "wof:placetype":"locality",

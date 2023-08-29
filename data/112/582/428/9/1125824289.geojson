@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Donovaly"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043d\u043e\u0432\u0430\u043b\u0438"
+    ],
     "name:deu_x_preferred":[
         "Donovaly"
     ],
@@ -43,11 +46,17 @@
     "name:fra_x_preferred":[
         "Donovaly"
     ],
+    "name:gle_x_preferred":[
+        "Donovaly"
+    ],
     "name:hun_x_preferred":[
         "D\u00f3val"
     ],
     "name:ita_x_preferred":[
         "Donovaly"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ub178\ubc1c\ub9ac"
     ],
     "name:lim_x_preferred":[
         "Donovaly"
@@ -62,6 +71,15 @@
         "Donovaly"
     ],
     "name:nld_x_preferred":[
+        "Donovaly"
+    ],
+    "name:nno_x_preferred":[
+        "Donovaly"
+    ],
+    "name:nob_x_preferred":[
+        "Donovaly"
+    ],
+    "name:nor_x_preferred":[
         "Donovaly"
     ],
     "name:pol_x_preferred":[
@@ -84,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "Donovaly"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043d\u043e\u0432\u0430\u043b\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u043e\u0432\u0430\u043b\u0438"
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":1125824289,
-    "wof:lastmodified":1566645920,
+    "wof:lastmodified":1690865745,
     "wof:name":"Donovaly",
     "wof:parent_id":102080531,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Nimnica"
     ],
+    "name:gle_x_preferred":[
+        "Nimnica"
+    ],
     "name:hun_x_preferred":[
         "Nem\u0151c"
     ],
@@ -56,6 +59,12 @@
         "Nimnica"
     ],
     "name:nld_x_preferred":[
+        "Nimnica"
+    ],
+    "name:pol_x_preferred":[
+        "Nimnica"
+    ],
+    "name:por_x_preferred":[
         "Nimnica"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0456\u043c\u043d\u0456\u0446\u0430"
     ],
     "name:war_x_preferred":[
         "Nimnica"
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1125774397,
-    "wof:lastmodified":1566645932,
+    "wof:lastmodified":1690865756,
     "wof:name":"Nimnica",
     "wof:parent_id":102080573,
     "wof:placetype":"locality",

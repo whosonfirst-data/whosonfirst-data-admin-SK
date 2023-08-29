@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Hnil\u010d\u00edk"
     ],
+    "name:gle_x_preferred":[
+        "Hnil\u010d\u00edk"
+    ],
     "name:hun_x_preferred":[
         "Szepespatak"
     ],
@@ -59,6 +62,9 @@
         "Hnil\u010d\u00edk"
     ],
     "name:pol_x_preferred":[
+        "Hnil\u010d\u00edk"
+    ],
+    "name:por_x_preferred":[
         "Hnil\u010d\u00edk"
     ],
     "name:ron_x_preferred":[
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1125790949,
-    "wof:lastmodified":1566645929,
+    "wof:lastmodified":1690865752,
     "wof:name":"Hnil\u010d\u00edk",
     "wof:parent_id":102080561,
     "wof:placetype":"locality",

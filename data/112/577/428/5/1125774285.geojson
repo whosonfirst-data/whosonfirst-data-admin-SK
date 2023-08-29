@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0448\u0442\u044f\u043d\u0438-\u043d\u0430\u0434-\u0422\u0443\u0440\u0446\u043e\u043c"
+    ],
     "name:deu_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fra_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:gle_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e9\u05d8\u05d9\u05d0\u05e0\u05d9 \u05e0\u05d3 \u05d8\u05d5\u05e8\u05e6\u05d5\u05dd"
     ],
     "name:hun_x_preferred":[
         "Kosty\u00e1n"
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
+    "name:por_x_preferred":[
+        "Ko\u0161\u0165any nad Turcom"
+    ],
     "name:ron_x_preferred":[
         "Ko\u0161\u0165any nad Turcom"
     ],
@@ -75,6 +87,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0448\u0442\u0458\u0430\u043d\u0438 \u043d\u0430 \u0422\u0443\u0440\u0458\u0435\u0446\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0448\u0442\u044f\u043d\u0438-\u043d\u0430\u0434-\u0422\u0443\u0440\u0446\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0442\u044f\u043d\u0438-\u043d\u0430\u0434-\u0422\u0443\u0440\u0446\u043e\u043c"
     ],
     "name:und_x_variant":[
         "Ko\u0161tany"
@@ -130,7 +148,7 @@
         }
     ],
     "wof:id":1125774285,
-    "wof:lastmodified":1566645933,
+    "wof:lastmodified":1690865760,
     "wof:name":"Ko\u0161t\u0315any nad Turcom",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

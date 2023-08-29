@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
+    "name:gle_x_preferred":[
+        "Z\u00e1kop\u010die"
+    ],
     "name:hun_x_preferred":[
         "Dombelve"
     ],
@@ -57,6 +60,12 @@
         "Z\u00e1kop\u010die"
     ],
     "name:pol_x_preferred":[
+        "Z\u00e1kop\u010die"
+    ],
+    "name:pol_x_variant":[
+        "Zakopcze"
+    ],
+    "name:por_x_preferred":[
         "Z\u00e1kop\u010die"
     ],
     "name:ron_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":101860175,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865514,
     "wof:name":"Z\u00e1kop\u010die",
     "wof:parent_id":102080607,
     "wof:placetype":"locality",

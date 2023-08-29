@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0440\u044d\u0447\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Stre\u010dno"
     ],
     "name:ces_x_preferred":[
         "Stre\u010dno"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0447\u043d\u043e"
     ],
     "name:deu_x_preferred":[
         "Stre\u010dno"
@@ -39,6 +45,9 @@
         "Stre\u010dno"
     ],
     "name:fra_x_preferred":[
+        "Stre\u010dno"
+    ],
+    "name:gle_x_preferred":[
         "Stre\u010dno"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +68,9 @@
     "name:pol_x_preferred":[
         "Stre\u010dno"
     ],
+    "name:por_x_preferred":[
+        "Stre\u010dno"
+    ],
     "name:ron_x_preferred":[
         "Stre\u010dno"
     ],
@@ -69,6 +81,12 @@
         "Stre\u010dno"
     ],
     "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0447\u043d\u043e"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0447\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0447\u043d\u043e"
     ],
     "name:und_x_variant":[
@@ -134,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865515,
     "wof:name":"Stre\u010dno",
     "wof:parent_id":102080585,
     "wof:placetype":"locality",

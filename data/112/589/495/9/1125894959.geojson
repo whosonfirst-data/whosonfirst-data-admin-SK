@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Hriadky"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u044f\u0434\u043a\u0438"
+    ],
     "name:deu_x_preferred":[
         "Hriadky"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fra_x_preferred":[
         "Hriadky"
+    ],
+    "name:gle_x_preferred":[
+        "Hriadky"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05e8\u05e0\u05d3\u05d4"
     ],
     "name:hun_x_preferred":[
         "Gerenda"
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Hriadky"
     ],
+    "name:por_x_preferred":[
+        "Hriadky"
+    ],
     "name:ron_x_preferred":[
         "Hriadky"
     ],
@@ -72,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0458\u0430\u0434\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u044f\u0434\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u044f\u0434\u043a\u0438"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1125894959,
-    "wof:lastmodified":1566645884,
+    "wof:lastmodified":1690865712,
     "wof:name":"Hriadky",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

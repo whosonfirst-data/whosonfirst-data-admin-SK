@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Jasenov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Jasenov\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Jaszenova"
     ],
@@ -56,6 +59,12 @@
         "Jasenov\u00e1"
     ],
     "name:nld_x_preferred":[
+        "Jasenov\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Jasenov\u00e1"
+    ],
+    "name:por_x_preferred":[
         "Jasenov\u00e1"
     ],
     "name:ron_x_preferred":[
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1126045949,
-    "wof:lastmodified":1566645864,
+    "wof:lastmodified":1690865695,
     "wof:name":"Jasenov\u00e1",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

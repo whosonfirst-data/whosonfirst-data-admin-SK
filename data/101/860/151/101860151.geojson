@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Valaliky"
     ],
+    "name:gle_x_preferred":[
+        "Valaliky"
+    ],
     "name:hun_x_preferred":[
         "Kassamindszent"
     ],
@@ -57,6 +60,9 @@
         "Valaliky"
     ],
     "name:pol_x_preferred":[
+        "Valaliky"
+    ],
+    "name:por_x_preferred":[
         "Valaliky"
     ],
     "name:ron_x_preferred":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":101860151,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865513,
     "wof:name":"Valaliky",
     "wof:parent_id":102080535,
     "wof:placetype":"locality",

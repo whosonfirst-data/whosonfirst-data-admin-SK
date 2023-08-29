@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Jasov\u00e1"
     ],
+    "name:ces_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:che_x_preferred":[
+        "\u042f\u0441\u043e\u0432\u0430"
+    ],
     "name:deu_x_preferred":[
         "Jasov\u00e1"
     ],
@@ -38,6 +44,9 @@
         "Jasov\u00e1"
     ],
     "name:fra_x_preferred":[
+        "Jasov\u00e1"
+    ],
+    "name:gle_x_preferred":[
         "Jasov\u00e1"
     ],
     "name:hun_x_preferred":[
@@ -55,6 +64,12 @@
     "name:pol_x_preferred":[
         "Nadbanske"
     ],
+    "name:pol_x_variant":[
+        "Jasov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Jasov\u00e1"
+    ],
     "name:ron_x_preferred":[
         "Jasov\u00e1"
     ],
@@ -66,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0441\u043e\u0432\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u0441\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u043e\u0432\u0430"
     ],
     "name:war_x_preferred":[
         "Jasov\u00e1"
@@ -118,7 +139,7 @@
         }
     ],
     "wof:id":1125906207,
-    "wof:lastmodified":1566645900,
+    "wof:lastmodified":1690865723,
     "wof:name":"J\u00e1sov\u00e1",
     "wof:parent_id":102080463,
     "wof:placetype":"locality",

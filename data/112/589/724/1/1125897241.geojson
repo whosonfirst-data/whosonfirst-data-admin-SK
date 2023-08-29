@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Zbrojn\u00edky"
     ],
+    "name:ces_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0431\u0440\u043e\u0439\u043d\u0438\u043a\u0438"
+    ],
     "name:deu_x_preferred":[
         "Zbrojn\u00edky"
     ],
@@ -38,6 +44,9 @@
         "Zbrojn\u00edky"
     ],
     "name:fra_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
+    "name:gle_x_preferred":[
         "Zbrojn\u00edky"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Zbrojn\u00edky"
     ],
+    "name:por_x_preferred":[
+        "Zbrojn\u00edky"
+    ],
     "name:ron_x_preferred":[
         "Zbrojn\u00edky"
     ],
@@ -69,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0417\u0431\u0440\u043e\u0458\u045a\u0438\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0431\u0440\u043e\u0439\u043d\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0431\u0440\u043e\u0439\u043d\u0456\u043a\u0438"
     ],
     "name:und_x_variant":[
         "Fe\u010fvernek"
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":1125897241,
-    "wof:lastmodified":1566645882,
+    "wof:lastmodified":1690865709,
     "wof:name":"Zbrojn\u00edky",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

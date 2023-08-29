@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Most pri Bratislave"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0441\u0442-\u043f\u0440\u0438-\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0438"
+    ],
     "name:deu_x_preferred":[
         "Most pri Bratislave"
     ],
@@ -41,6 +44,9 @@
         "Most pri Bratislave"
     ],
     "name:fra_x_preferred":[
+        "Most pri Bratislave"
+    ],
+    "name:gle_x_preferred":[
         "Most pri Bratislave"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:ron_x_preferred":[
         "Most pri Bratislave"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0442-\u043f\u0440\u0438-\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0435"
+    ],
     "name:slk_x_preferred":[
         "Most pri Bratislave"
     ],
@@ -73,14 +82,23 @@
     "name:srp_x_preferred":[
         "\u041c\u043e\u0441\u0442 \u043f\u0440\u0438 \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0438"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0441\u0442-\u043f\u0440\u0438-\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0438"
+    ],
     "name:ukr_x_preferred":[
         "Pal\u00fadzka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0456\u0441\u0442-\u043f\u0440\u0438-\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0456"
     ],
     "name:und_x_variant":[
         "Bruck"
     ],
     "name:war_x_preferred":[
         "Most pri Bratislave"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u7279\u5e03\u62c9\u8fea\u65af\u62c9\u592b"
     ],
     "qs_pg:aaroncc":"SK",
     "qs_pg:gn_country":"SK",
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1126012125,
-    "wof:lastmodified":1566645913,
+    "wof:lastmodified":1690865733,
     "wof:name":"Most na Ostrove",
     "wof:parent_id":102080465,
     "wof:placetype":"locality",

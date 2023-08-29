@@ -27,6 +27,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u0430\u0440\u044b"
+    ],
     "name:ces_x_preferred":[
         "Vajnory"
     ],
@@ -37,6 +40,9 @@
         "Vajnory"
     ],
     "name:epo_x_preferred":[
+        "Vajnory"
+    ],
+    "name:est_x_preferred":[
         "Vajnory"
     ],
     "name:fin_x_preferred":[
@@ -72,6 +78,12 @@
     "name:pol_x_preferred":[
         "Vajnory"
     ],
+    "name:por_x_preferred":[
+        "Vajnory"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:slk_x_preferred":[
         "Bratislava \u2013 mestsk\u00e1 \u010das\u0165 Vajnory"
     ],
@@ -80,6 +92,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0458\u043d\u043e\u0440\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Vajnory"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u043e\u0440\u0438"
     ],
     "name:und_x_colloquial":[
         "Dvornik"
@@ -157,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865450,
     "wof:name":"Vajnory",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

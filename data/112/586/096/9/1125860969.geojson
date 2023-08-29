@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u041b\u044e\u043f\u0447\u0430"
+    ],
     "name:deu_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
@@ -41,6 +44,9 @@
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:fra_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:gle_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
     "name:hun_x_preferred":[
@@ -61,8 +67,14 @@
     "name:pol_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
     ],
+    "name:por_x_preferred":[
+        "Partiz\u00e1nska \u013dup\u010da"
+    ],
     "name:ron_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u041b\u044e\u043f\u0447\u0430"
     ],
     "name:slk_x_preferred":[
         "Partiz\u00e1nska \u013dup\u010da"
@@ -72,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u0409\u0443\u043f\u0447\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u041b\u044e\u043f\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0430 \u041b\u044e\u043f\u0447\u0430"
     ],
     "name:und_x_variant":[
         "Nemeck\u00e1 \u013eup\u010da"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1125860969,
-    "wof:lastmodified":1566645869,
+    "wof:lastmodified":1690865700,
     "wof:name":"Partiz\u00e1nska L\u0315up\u010da",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

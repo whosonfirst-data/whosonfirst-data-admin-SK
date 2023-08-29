@@ -26,6 +26,9 @@
     "name:ces_x_preferred":[
         "Liskov\u00e1"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0441\u043a\u043e\u0432\u0430"
+    ],
     "name:cym_x_preferred":[
         "Liskov\u00e1"
     ],
@@ -44,6 +47,9 @@
     "name:fra_x_preferred":[
         "Liskov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Liskov\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Liszk\u00f3falu"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:ita_x_preferred":[
         "Liskov\u00e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc2a4\ucf54\ubc14"
     ],
     "name:msa_x_preferred":[
         "Liskov\u00e1"
@@ -63,6 +72,9 @@
         "Liskov\u00e1"
     ],
     "name:pol_x_preferred":[
+        "Liskov\u00e1"
+    ],
+    "name:por_x_preferred":[
         "Liskov\u00e1"
     ],
     "name:ron_x_preferred":[
@@ -79,6 +91,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0441\u043a\u043e\u0432\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u0441\u043a\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u043a\u043e\u0432\u0430"
     ],
     "name:war_x_preferred":[
         "Liskov\u00e1"
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":101875831,
-    "wof:lastmodified":1582382507,
+    "wof:lastmodified":1690865473,
     "wof:name":"Liskov\u00e1",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "name:cat_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:ces_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:eng_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
@@ -35,6 +44,9 @@
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:fra_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
+    "name:gle_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:hun_x_preferred":[
@@ -55,6 +67,9 @@
     "name:pol_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
+    "name:por_x_preferred":[
+        "Opatovsk\u00e1 Nov\u00e1 Ves"
+    ],
     "name:ron_x_preferred":[
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
@@ -65,6 +80,9 @@
         "Opatovsk\u00e1 Nov\u00e1 Ves"
     ],
     "name:srp_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
+    ],
+    "name:tat_x_preferred":[
         "\u041e\u043f\u0430\u0442\u043e\u0432\u0441\u043a\u0430 \u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
     "name:ukr_x_preferred":[
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1126011477,
-    "wof:lastmodified":1566645914,
+    "wof:lastmodified":1690865734,
     "wof:name":"Opatovsk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":102080479,
     "wof:placetype":"locality",

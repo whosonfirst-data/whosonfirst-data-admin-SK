@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Z\u00e1horie"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0433\u0438\u0440\u044c\u044f"
+    ],
     "name:deu_x_preferred":[
         "Z\u00e1horie"
     ],
@@ -38,6 +41,9 @@
         "Z\u00e1horie"
     ],
     "name:fra_x_preferred":[
+        "Z\u00e1horie"
+    ],
+    "name:gle_x_preferred":[
         "Z\u00e1horie"
     ],
     "name:ita_x_preferred":[
@@ -55,11 +61,20 @@
     "name:nld_x_preferred":[
         "Z\u00e1horie"
     ],
+    "name:por_x_preferred":[
+        "Z\u00e1horie"
+    ],
     "name:ron_x_preferred":[
         "Z\u00e1horie"
     ],
     "name:slk_x_preferred":[
         "Z\u00e1horie"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0433\u0438\u0440\u044c\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u0456\u0440'\u044f"
     ],
     "name:war_x_preferred":[
         "Z\u00e1horie"
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1125880149,
-    "wof:lastmodified":1566645873,
+    "wof:lastmodified":1690865705,
     "wof:name":"Zahorie",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

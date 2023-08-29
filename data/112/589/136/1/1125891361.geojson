@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Roho\u017en\u00edk"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0436\u043d\u0438\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Roho\u017en\u00edk"
+    ],
     "name:eng_x_preferred":[
         "Roho\u017en\u00edk"
     ],
@@ -38,6 +44,9 @@
         "Roho\u017en\u00edk"
     ],
     "name:fra_x_preferred":[
+        "Roho\u017en\u00edk"
+    ],
+    "name:gle_x_preferred":[
         "Roho\u017en\u00edk"
     ],
     "name:hun_x_preferred":[
@@ -58,8 +67,17 @@
     "name:pol_x_preferred":[
         "Roho\u017en\u00edk"
     ],
+    "name:por_x_preferred":[
+        "Roho\u017en\u00edk"
+    ],
     "name:ron_x_preferred":[
         "Roho\u017en\u00edk"
+    ],
+    "name:rue_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0436\u043d\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0436\u043d\u0438\u043a"
     ],
     "name:slk_x_preferred":[
         "Roho\u017en\u00edk"
@@ -69,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0445\u043e\u0436\u045a\u0438\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0436\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0436\u043d\u0456\u043a"
@@ -127,7 +148,7 @@
         }
     ],
     "wof:id":1125891361,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865710,
     "wof:name":"Roho\u017en\u00edk",
     "wof:parent_id":102080603,
     "wof:placetype":"locality",

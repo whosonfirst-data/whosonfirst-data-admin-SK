@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u0430\u043d\u0447"
+    ],
     "name:cat_x_preferred":[
         "Podbran\u010d"
     ],
@@ -43,6 +46,12 @@
     "name:fra_x_preferred":[
         "Podbran\u010d"
     ],
+    "name:gle_x_preferred":[
+        "Podbran\u010d"
+    ],
+    "name:hrv_x_preferred":[
+        "Podbran\u010d"
+    ],
     "name:hun_x_preferred":[
         "Berencsv\u00e1ralja"
     ],
@@ -58,11 +67,17 @@
     "name:nld_x_preferred":[
         "Podbran\u010d"
     ],
+    "name:pol_x_preferred":[
+        "Podbran\u010d"
+    ],
     "name:por_x_preferred":[
         "Podbran\u010d"
     ],
     "name:ron_x_preferred":[
         "Podbran\u010d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u0430\u043d\u0447"
     ],
     "name:slk_x_preferred":[
         "Podbran\u010d"
@@ -75,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Studenec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u0430\u043d\u0447"
     ],
     "name:war_x_preferred":[
         "Podbran\u010d"
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":1125931539,
-    "wof:lastmodified":1566645841,
+    "wof:lastmodified":1690865687,
     "wof:name":"Podbran\u010d",
     "wof:parent_id":102080505,
     "wof:placetype":"locality",

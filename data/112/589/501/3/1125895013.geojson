@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Mal\u00e9 Trakany"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u0422\u0440\u0430\u043a\u0430\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Mal\u00e9 Trakany"
     ],
@@ -41,6 +44,9 @@
         "Mal\u00e9 Trakany"
     ],
     "name:fra_x_preferred":[
+        "Mal\u00e9 Trakany"
+    ],
+    "name:gle_x_preferred":[
         "Mal\u00e9 Trakany"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Mal\u00e9 Trakany"
     ],
+    "name:por_x_preferred":[
+        "Mal\u00e9 Trakany"
+    ],
     "name:ron_x_preferred":[
         "Mal\u00e9 Trakany"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0459\u0435 \u0422\u0440\u0430\u043a\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043b\u0435 \u0422\u0440\u0430\u043a\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0435 \u0422\u0440\u0430\u043a\u0430\u043d\u0438"
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":1125895013,
-    "wof:lastmodified":1566645883,
+    "wof:lastmodified":1690865710,
     "wof:name":"Mal\u00e9 Trakany",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

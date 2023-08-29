@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
+    "name:gle_x_preferred":[
+        "Tren\u010dianske Bohuslavice"
+    ],
     "name:hun_x_preferred":[
         "Bogoszl\u00f3"
     ],
@@ -61,6 +64,9 @@
     "name:pol_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
+    "name:por_x_preferred":[
+        "Tren\u010dianske Bohuslavice"
+    ],
     "name:ron_x_preferred":[
         "Tren\u010dianske Bohuslavice"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0447\u0458\u0430\u043d\u0441\u043a\u0435 \u0411\u043e\u0445\u0443\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u043d\u0447\u0430\u043d\u0441\u043a\u0435 \u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432\u0456\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Tren\u010dianske Bohuslavice"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125929281,
-    "wof:lastmodified":1566645848,
+    "wof:lastmodified":1690865688,
     "wof:name":"Tren\u010dianske Bohuslavice",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

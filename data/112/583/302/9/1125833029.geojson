@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
+    ],
     "name:deu_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
@@ -41,6 +44,9 @@
         "Nov\u00e1 \u013dubov\u0148a"
     ],
     "name:fra_x_preferred":[
+        "Nov\u00e1 \u013dubov\u0148a"
+    ],
+    "name:gle_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Nowa Lubowla"
     ],
+    "name:por_x_preferred":[
+        "Nov\u00e1 \u013dubov\u0148a"
+    ],
     "name:ron_x_preferred":[
         "Nov\u00e1 \u013dubov\u0148a"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0409\u0443\u0431\u043e\u0432\u045a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u0432\u043d\u044f"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":1125833029,
-    "wof:lastmodified":1566645937,
+    "wof:lastmodified":1690865765,
     "wof:name":"Nov\u00e1 L\u0315ubov\u0148a",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

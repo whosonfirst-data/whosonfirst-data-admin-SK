@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0645\u0646\u064a\u0643\u0627"
+    ],
     "name:cat_x_preferred":[
         "Lomni\u010dka"
     ],
     "name:ces_x_preferred":[
         "Lomni\u010dka"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u043c\u043d\u0438\u0447\u043a\u0430"
     ],
     "name:deu_x_preferred":[
         "Lomni\u010dka"
@@ -39,6 +45,9 @@
         "Lomni\u010dka"
     ],
     "name:fra_x_preferred":[
+        "Lomni\u010dka"
+    ],
+    "name:gle_x_preferred":[
         "Lomni\u010dka"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +68,9 @@
     "name:pol_x_preferred":[
         "\u0141omniczka"
     ],
+    "name:por_x_preferred":[
+        "Lomni\u010dka"
+    ],
     "name:ron_x_preferred":[
         "Lomni\u010dka"
     ],
@@ -73,6 +85,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u043c\u045a\u0438\u0447\u043a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u043c\u043d\u0438\u0447\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043c\u043d\u0438\u0447\u043a\u0430"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":101860177,
-    "wof:lastmodified":1582382509,
+    "wof:lastmodified":1690865515,
     "wof:name":"Lomni\u010dka",
     "wof:parent_id":102080611,
     "wof:placetype":"locality",

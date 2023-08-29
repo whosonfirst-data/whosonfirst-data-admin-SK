@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Pucov"
     ],
+    "name:gle_x_preferred":[
+        "Pucov"
+    ],
     "name:hun_x_preferred":[
         "Puc\u00f3"
     ],
@@ -56,6 +59,12 @@
         "Pucov"
     ],
     "name:nld_x_preferred":[
+        "Pucov"
+    ],
+    "name:pol_x_preferred":[
+        "Pucov"
+    ],
+    "name:por_x_preferred":[
         "Pucov"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125773485,
-    "wof:lastmodified":1566645933,
+    "wof:lastmodified":1690865759,
     "wof:name":"Pucov",
     "wof:parent_id":102080587,
     "wof:placetype":"locality",

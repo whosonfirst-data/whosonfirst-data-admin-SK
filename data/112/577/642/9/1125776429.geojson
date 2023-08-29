@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Trsten\u00e1 na Ostrove"
     ],
+    "name:gle_x_preferred":[
+        "Trsten\u00e1 na Ostrove"
+    ],
     "name:hun_x_preferred":[
         "Csall\u00f3k\u00f6zn\u00e1dasd"
     ],
@@ -56,6 +59,9 @@
         "Trsten\u00e1 na Ostrove"
     ],
     "name:nld_x_preferred":[
+        "Trsten\u00e1 na Ostrove"
+    ],
+    "name:pol_x_preferred":[
         "Trsten\u00e1 na Ostrove"
     ],
     "name:por_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1125776429,
-    "wof:lastmodified":1566645931,
+    "wof:lastmodified":1690865754,
     "wof:name":"Trsten\u00e1 na Ostrove",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Tur\u00edk"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0443\u0440\u0438\u043a"
+    ],
     "name:deu_x_preferred":[
         "Tur\u00edk"
     ],
@@ -44,6 +47,9 @@
         "Tur\u00edk"
     ],
     "name:fra_x_preferred":[
+        "Tur\u00edk"
+    ],
+    "name:gle_x_preferred":[
         "Tur\u00edk"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Tur\u00edk"
     ],
+    "name:por_x_preferred":[
+        "Tur\u00edk"
+    ],
     "name:ron_x_preferred":[
         "Tur\u00edk"
     ],
@@ -75,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u0440\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0456\u043a"
     ],
     "name:war_x_preferred":[
         "Tur\u00edk"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125886929,
-    "wof:lastmodified":1566645873,
+    "wof:lastmodified":1690865706,
     "wof:name":"Tur\u00edk",
     "wof:parent_id":102080567,
     "wof:placetype":"locality",

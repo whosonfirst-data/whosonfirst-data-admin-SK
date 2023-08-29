@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "\u010cremo\u0161n\u00e9"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0440\u0435\u043c\u043e\u0448\u043d\u0435"
+    ],
     "name:deu_x_preferred":[
         "\u010cremo\u0161n\u00e9"
     ],
@@ -41,6 +44,9 @@
         "\u010cremo\u0161n\u00e9"
     ],
     "name:fra_x_preferred":[
+        "\u010cremo\u0161n\u00e9"
+    ],
+    "name:gle_x_preferred":[
         "\u010cremo\u0161n\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "\u010cremo\u0161n\u00e9"
     ],
+    "name:por_x_preferred":[
+        "\u010cremo\u0161n\u00e9"
+    ],
     "name:ron_x_preferred":[
         "\u010cremo\u0161n\u00e9"
     ],
@@ -72,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0440\u0435\u043c\u043e\u0448\u045a\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0440\u0435\u043c\u043e\u0448\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0440\u0435\u043c\u043e\u0448\u043d\u0435"
     ],
     "name:war_x_preferred":[
         "\u010cremo\u0161n\u00e9"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125917711,
-    "wof:lastmodified":1566645908,
+    "wof:lastmodified":1690865727,
     "wof:name":"\u010cremo\u0161n\u00e9",
     "wof:parent_id":102080539,
     "wof:placetype":"locality",

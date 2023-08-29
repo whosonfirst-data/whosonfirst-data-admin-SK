@@ -40,6 +40,9 @@
     "name:epo_x_preferred":[
         "Lama\u010d"
     ],
+    "name:est_x_preferred":[
+        "Lama\u010d"
+    ],
     "name:fra_x_preferred":[
         "Lama\u010d"
     ],
@@ -67,10 +70,19 @@
     "name:pol_x_preferred":[
         "Lama\u010d"
     ],
+    "name:por_x_preferred":[
+        "Lama\u010d"
+    ],
     "name:slk_x_preferred":[
         "Lama\u010d"
     ],
     "name:srp_x_preferred":[
+        "\u041b\u0430\u043c\u0430\u0447"
+    ],
+    "name:tur_x_preferred":[
+        "Lama\u010d"
+    ],
+    "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u0430\u0447"
     ],
     "name:und_x_colloquial":[
@@ -147,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582382501,
+    "wof:lastmodified":1690865453,
     "wof:name":"Lama\u010d",
     "wof:parent_id":1108800123,
     "wof:placetype":"neighbourhood",

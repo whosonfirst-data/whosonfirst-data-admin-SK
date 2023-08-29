@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Micha\u013eany"
     ],
+    "name:gle_x_preferred":[
+        "Micha\u013eany"
+    ],
     "name:hun_x_preferred":[
         "Als\u00f3mih\u00e1lyi"
     ],
@@ -59,6 +62,9 @@
         "Micha\u013eany"
     ],
     "name:pol_x_preferred":[
+        "Micha\u013eany"
+    ],
+    "name:por_x_preferred":[
         "Micha\u013eany"
     ],
     "name:ron_x_preferred":[
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":1125797059,
-    "wof:lastmodified":1566645928,
+    "wof:lastmodified":1690865751,
     "wof:name":"Michal\u0315any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

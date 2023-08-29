@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Dedinky"
     ],
+    "name:gle_x_preferred":[
+        "Dedinky"
+    ],
     "name:hun_x_preferred":[
         "Imrikfalva"
     ],
@@ -59,6 +62,9 @@
         "Dedinky"
     ],
     "name:pol_x_preferred":[
+        "Dedinky"
+    ],
+    "name:por_x_preferred":[
         "Dedinky"
     ],
     "name:ron_x_preferred":[
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1125943523,
-    "wof:lastmodified":1566645840,
+    "wof:lastmodified":1690865685,
     "wof:name":"Dedinky",
     "wof:parent_id":102080553,
     "wof:placetype":"locality",

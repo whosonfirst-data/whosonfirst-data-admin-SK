@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "P\u00edla"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0438\u043b\u0430"
+    ],
     "name:deu_x_preferred":[
         "P\u00edla"
     ],
@@ -43,8 +46,14 @@
     "name:fra_x_preferred":[
         "P\u00edla"
     ],
+    "name:gle_x_preferred":[
+        "P\u00edla"
+    ],
     "name:hun_x_preferred":[
         "Gidraf\u0171r\u00e9sz"
+    ],
+    "name:ind_x_preferred":[
+        "P\u00edla"
     ],
     "name:ita_x_preferred":[
         "P\u00edla"
@@ -72,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0438\u043b\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043b\u0430"
     ],
     "name:war_x_preferred":[
         "P\u00edla"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125778945,
-    "wof:lastmodified":1566645932,
+    "wof:lastmodified":1690865758,
     "wof:name":"P\u00edla",
     "wof:parent_id":102080471,
     "wof:placetype":"locality",

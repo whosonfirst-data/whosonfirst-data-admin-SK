@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0443\u0440\u0447\u044f\u043d\u0441\u043a\u0435 \u041a\u043b\u044f\u0447\u0430\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
@@ -41,6 +44,9 @@
         "Tur\u010dianske K\u013ea\u010dany"
     ],
     "name:fra_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
+    "name:gle_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
+    "name:por_x_preferred":[
+        "Tur\u010dianske K\u013ea\u010dany"
+    ],
     "name:ron_x_preferred":[
         "Tur\u010dianske K\u013ea\u010dany"
     ],
@@ -75,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0447\u0458\u0430\u043d\u0441\u043a\u0435 \u041a\u0459\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u0440\u0447\u044f\u043d\u0441\u043a\u0435 \u041a\u043b\u044f\u0447\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0447\u044f\u043d\u0441\u043a\u0435 \u041a\u043b\u044f\u0447\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
         "K\u013ea\u010dany"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1126009247,
-    "wof:lastmodified":1566645915,
+    "wof:lastmodified":1690865737,
     "wof:name":"Tur\u010dianske Kl\u0315a\u010dany",
     "wof:parent_id":102080569,
     "wof:placetype":"locality",

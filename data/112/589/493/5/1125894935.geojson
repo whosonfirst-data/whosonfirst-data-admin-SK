@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Dubodiel"
     ],
+    "name:gle_x_preferred":[
+        "Dubodiel"
+    ],
     "name:hun_x_preferred":[
         "Trencs\u00e9nt\u00f6lgyes"
     ],
@@ -58,6 +61,9 @@
     "name:nld_x_preferred":[
         "Dubodiel"
     ],
+    "name:por_x_preferred":[
+        "Dubodiel"
+    ],
     "name:ron_x_preferred":[
         "Dubodiel"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0434\u0458\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0434\u044c\u0454\u043b"
     ],
     "name:war_x_preferred":[
         "Dubodiel"
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1125894935,
-    "wof:lastmodified":1566645884,
+    "wof:lastmodified":1690865712,
     "wof:name":"Dubodiel",
     "wof:parent_id":102080541,
     "wof:placetype":"locality",

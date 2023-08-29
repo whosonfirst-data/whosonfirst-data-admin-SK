@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0644\u0648\u0633\u0643\u064a \u062e\u0644\u0645\u062a\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u0627\u0644\u0648\u0633\u0643\u0649 \u062e\u0644\u0645\u062a\u0634"
+    ],
+    "name:ast_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
     "name:cat_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
@@ -43,6 +49,9 @@
     "name:epo_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
+    "name:est_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
     "name:eus_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
@@ -50,6 +59,9 @@
         "\u06a9\u0631\u0627\u0644\u0648\u0633\u06a9\u06cc \u062e\u0644\u0645\u062a\u0633"
     ],
     "name:fra_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:gle_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:hbs_x_preferred":[
@@ -80,6 +92,9 @@
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:pol_x_preferred":[
+        "Kr\u00e1\u013eovsk\u00fd Chlmec"
+    ],
+    "name:por_x_preferred":[
         "Kr\u00e1\u013eovsk\u00fd Chlmec"
     ],
     "name:ron_x_preferred":[
@@ -171,7 +186,7 @@
         }
     ],
     "wof:id":1125830599,
-    "wof:lastmodified":1566645938,
+    "wof:lastmodified":1690865766,
     "wof:name":"Kr\u00e1l\u0315ovsk\u00fd Chlmec",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

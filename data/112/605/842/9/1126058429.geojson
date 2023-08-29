@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
+    "name:gle_x_preferred":[
+        "Ni\u017en\u00e1 My\u0161\u013ea"
+    ],
     "name:hun_x_preferred":[
         "Als\u00f3mislye"
     ],
@@ -59,6 +62,9 @@
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
     "name:pol_x_preferred":[
+        "Ni\u017en\u00e1 My\u0161\u013ea"
+    ],
+    "name:por_x_preferred":[
         "Ni\u017en\u00e1 My\u0161\u013ea"
     ],
     "name:ron_x_preferred":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1126058429,
-    "wof:lastmodified":1566645861,
+    "wof:lastmodified":1690865691,
     "wof:name":"Ni\u017en\u00e1 My\u0161l\u0315a",
     "wof:parent_id":102080557,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Novosad"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0430\u0434"
+    ],
     "name:deu_x_preferred":[
         "Novosad"
     ],
@@ -41,6 +44,9 @@
         "Novosad"
     ],
     "name:fra_x_preferred":[
+        "Novosad"
+    ],
+    "name:gle_x_preferred":[
         "Novosad"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Novosad"
     ],
+    "name:por_x_preferred":[
+        "Novosad"
+    ],
     "name:ron_x_preferred":[
         "Novosad"
     ],
@@ -74,6 +83,9 @@
         "Novosad"
     ],
     "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0430\u0434"
+    ],
+    "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0430\u0434"
     ],
     "name:ukr_x_preferred":[
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":1125979327,
-    "wof:lastmodified":1566645901,
+    "wof:lastmodified":1690865725,
     "wof:name":"Novosad",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

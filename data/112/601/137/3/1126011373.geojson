@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Doma\u0148ovce"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043d\u044c\u043e\u0432\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Doma\u0148ovce"
     ],
@@ -41,6 +44,9 @@
         "Doma\u0148ovce"
     ],
     "name:fra_x_preferred":[
+        "Doma\u0148ovce"
+    ],
+    "name:gle_x_preferred":[
         "Doma\u0148ovce"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Doma\u0148ovce"
     ],
+    "name:por_x_preferred":[
+        "Doma\u0148ovce"
+    ],
     "name:ron_x_preferred":[
         "Doma\u0148ovce"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043c\u0430\u045a\u043e\u0432\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043d\u044c\u043e\u0432\u0446\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u0430\u043d\u044c\u043e\u0432\u0446\u0435"
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":1126011373,
-    "wof:lastmodified":1566645913,
+    "wof:lastmodified":1690865732,
     "wof:name":"Domanovce",
     "wof:parent_id":102080579,
     "wof:placetype":"locality",

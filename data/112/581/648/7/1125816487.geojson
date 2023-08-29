@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "L\u00fa\u010dky"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u0447\u043a\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "L\u00fa\u010dky"
+    ],
     "name:eng_x_preferred":[
         "L\u00fa\u010dky"
     ],
@@ -38,6 +44,9 @@
         "L\u00fa\u010dky"
     ],
     "name:fra_x_preferred":[
+        "L\u00fa\u010dky"
+    ],
+    "name:gle_x_preferred":[
         "L\u00fa\u010dky"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "L\u00fa\u010dky"
     ],
+    "name:por_x_preferred":[
+        "L\u00fa\u010dky"
+    ],
     "name:ron_x_preferred":[
         "L\u00fa\u010dky"
     ],
@@ -68,6 +80,9 @@
         "L\u00fa\u010dky"
     ],
     "name:srp_x_preferred":[
+        "\u041b\u0443\u0447\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
         "\u041b\u0443\u0447\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125816487,
-    "wof:lastmodified":1566645872,
+    "wof:lastmodified":1690865704,
     "wof:name":"L\u00fa\u010dky",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",

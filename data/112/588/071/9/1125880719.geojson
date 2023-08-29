@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Po\u013eany"
     ],
+    "name:deu_x_preferred":[
+        "Po\u013eany"
+    ],
     "name:eng_x_preferred":[
         "Po\u013eany"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_variant":[
         "Zahorie"
+    ],
+    "name:gle_x_preferred":[
+        "Po\u013eany"
     ],
     "name:hun_x_preferred":[
         "Bodrogmez\u0151"
@@ -59,6 +65,9 @@
         "Po\u013eany"
     ],
     "name:pol_x_preferred":[
+        "Po\u013eany"
+    ],
+    "name:por_x_preferred":[
         "Po\u013eany"
     ],
     "name:ron_x_preferred":[
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1125880719,
-    "wof:lastmodified":1566645873,
+    "wof:lastmodified":1690865705,
     "wof:name":"Pol\u0315any",
     "wof:parent_id":102080551,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Brvni\u0161te"
     ],
+    "name:gle_x_preferred":[
+        "Brvni\u0161te"
+    ],
     "name:hbs_x_preferred":[
         "Brvnji\u0161te"
     ],
@@ -59,6 +62,12 @@
     "name:nld_x_preferred":[
         "Brvni\u0161te"
     ],
+    "name:pol_x_preferred":[
+        "Brvni\u0161te"
+    ],
+    "name:por_x_preferred":[
+        "Brvni\u0161te"
+    ],
     "name:ron_x_preferred":[
         "Brvni\u0161te"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0432\u045a\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0432\u043d\u0456\u0448\u0442\u0435"
     ],
     "name:war_x_preferred":[
         "Brvni\u0161te"
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":101875835,
-    "wof:lastmodified":1582382506,
+    "wof:lastmodified":1690865472,
     "wof:name":"Brvni\u0161te",
     "wof:parent_id":102080575,
     "wof:placetype":"locality",

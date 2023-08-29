@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000189,
     "geom:area_square_m":1545348.490537,
-    "geom:bbox":"21.9163724048,48.6255470475,21.9360728867,48.6419477155",
+    "geom:bbox":"21.916372,48.625547,21.936073,48.641948",
     "geom:latitude":48.633056,
     "geom:longitude":21.92616,
     "iso:country":"SK",
@@ -19,10 +19,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Budkovce"
+    ],
+    "name:arg_x_preferred":[
+        "Budkovce"
+    ],
+    "name:ast_x_preferred":[
+        "Budkovce"
+    ],
+    "name:bar_x_preferred":[
+        "Budkovce"
+    ],
+    "name:bre_x_preferred":[
+        "Budkovce"
+    ],
     "name:cat_x_preferred":[
         "Budkovce"
     ],
     "name:ces_x_preferred":[
+        "Budkovce"
+    ],
+    "name:cos_x_preferred":[
+        "Budkovce"
+    ],
+    "name:cym_x_preferred":[
+        "Budkovce"
+    ],
+    "name:dan_x_preferred":[
         "Budkovce"
     ],
     "name:deu_x_preferred":[
@@ -34,19 +58,79 @@
     "name:epo_x_preferred":[
         "Budkovce"
     ],
+    "name:est_x_preferred":[
+        "Budkovce"
+    ],
     "name:eus_x_preferred":[
+        "Budkovce"
+    ],
+    "name:fin_x_preferred":[
         "Budkovce"
     ],
     "name:fra_x_preferred":[
         "Budkovce"
     ],
+    "name:frp_x_preferred":[
+        "Budkovce"
+    ],
+    "name:fur_x_preferred":[
+        "Budkovce"
+    ],
+    "name:gla_x_preferred":[
+        "Budkovce"
+    ],
+    "name:gle_x_preferred":[
+        "Budkovce"
+    ],
+    "name:glg_x_preferred":[
+        "Budkovce"
+    ],
+    "name:gsw_x_preferred":[
+        "Budkovce"
+    ],
     "name:hbs_x_preferred":[
+        "Budkovce"
+    ],
+    "name:hrv_x_preferred":[
         "Budkovce"
     ],
     "name:hun_x_preferred":[
         "Butka"
     ],
+    "name:ido_x_preferred":[
+        "Budkovce"
+    ],
+    "name:ile_x_preferred":[
+        "Budkovce"
+    ],
+    "name:ina_x_preferred":[
+        "Budkovce"
+    ],
+    "name:ind_x_preferred":[
+        "Budkovce"
+    ],
+    "name:isl_x_preferred":[
+        "Budkovce"
+    ],
     "name:ita_x_preferred":[
+        "Budkovce"
+    ],
+    "name:kon_x_preferred":[
+        "Budkovce"
+    ],
+    "name:lij_x_preferred":[
+        "Budkovce"
+    ],
+    "name:lim_x_preferred":[
+        "Budkovce"
+    ],
+    "name:ltz_x_preferred":[
+        "Budkovce"
+    ],
+    "name:min_x_preferred":[
+        "Budkovce"
+    ],
+    "name:mlg_x_preferred":[
         "Budkovce"
     ],
     "name:msa_x_preferred":[
@@ -55,31 +139,103 @@
     "name:nan_x_preferred":[
         "Budkovce"
     ],
+    "name:nap_x_preferred":[
+        "Budkovce"
+    ],
+    "name:nds_x_preferred":[
+        "Budkovce"
+    ],
     "name:nld_x_preferred":[
+        "Budkovce"
+    ],
+    "name:nno_x_preferred":[
+        "Budkovce"
+    ],
+    "name:nob_x_preferred":[
+        "Budkovce"
+    ],
+    "name:nrm_x_preferred":[
+        "Budkovce"
+    ],
+    "name:oci_x_preferred":[
+        "Budkovce"
+    ],
+    "name:pcd_x_preferred":[
+        "Budkovce"
+    ],
+    "name:pms_x_preferred":[
         "Budkovce"
     ],
     "name:pol_x_preferred":[
         "Budkovce"
     ],
+    "name:por_x_preferred":[
+        "Budkovce"
+    ],
+    "name:roh_x_preferred":[
+        "Budkovce"
+    ],
     "name:ron_x_preferred":[
+        "Budkovce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Budkovce"
+    ],
+    "name:sco_x_preferred":[
         "Budkovce"
     ],
     "name:slk_x_preferred":[
         "Budkovce"
     ],
+    "name:slv_x_preferred":[
+        "Budkovce"
+    ],
     "name:spa_x_preferred":[
+        "Budkovce"
+    ],
+    "name:srd_x_preferred":[
         "Budkovce"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u043a\u043e\u0432\u0446\u0435"
     ],
+    "name:swa_x_preferred":[
+        "Budkovce"
+    ],
+    "name:swe_x_preferred":[
+        "Budkovce"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:vec_x_preferred":[
+        "Budkovce"
+    ],
+    "name:vie_x_preferred":[
+        "Budkovce"
+    ],
+    "name:vls_x_preferred":[
+        "Budkovce"
+    ],
+    "name:vol_x_preferred":[
+        "Budkovce"
     ],
     "name:war_x_preferred":[
         "Budkovce"
     ],
+    "name:wln_x_preferred":[
+        "Budkovce"
+    ],
+    "name:wol_x_preferred":[
+        "Budkovce"
+    ],
     "name:zho_min_nan_x_preferred":[
+        "Budkovce"
+    ],
+    "name:zul_x_preferred":[
         "Budkovce"
     ],
     "qs:a0":"Slovensko",
@@ -119,7 +275,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2547d9564e32cf5e3aca767b0abea31",
+    "wof:geomhash":"5890a4e9754023ff67cadc4c1ee34f15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +286,7 @@
         }
     ],
     "wof:id":101781787,
-    "wof:lastmodified":1582382515,
+    "wof:lastmodified":1690865613,
     "wof:name":"Budkovce",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",
@@ -140,10 +296,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.91637240482959,
-    48.62554704745469,
-    21.93607288673013,
-    48.64194771545579
+    21.916372,
+    48.625547,
+    21.936073,
+    48.641948
 ],
-  "geometry": {"coordinates":[[[21.92860621564358,48.64165754179845],[21.92817809401885,48.6398853968185],[21.929520121309,48.63974029167872],[21.9288779420101,48.63708207626132],[21.93156183734936,48.63679183530633],[21.93134775082785,48.63590576761385],[21.93403157183167,48.63561546793159],[21.93338923202225,48.63295727719424],[21.93607288673013,48.63266693067868],[21.93457410864238,48.62646449518246],[21.93323244573162,48.62660965571814],[21.93301839602623,48.62572358686873],[21.93167674901423,48.62586872826915],[21.93189077573771,48.62675480008983],[21.92920741450064,48.62704504034036],[21.92942140486991,48.62793111718725],[21.92539624094917,48.62836636523889],[21.92518231953539,48.6274802794814],[21.92249888749313,48.62777035808415],[21.92228502165966,48.62688426547277],[21.91960160727814,48.62717427347741],[21.9193877970215,48.62628817401412],[21.91804610220225,48.62643315080061],[21.91783232453469,48.62554704745469],[21.91649064562648,48.62569200510859],[21.91755951506047,48.63012252753219],[21.91890130890721,48.62997755503898],[21.91911513459502,48.63086365381253],[21.92045694435484,48.63071866218456],[21.92131243514223,48.63426303625897],[21.91997053341237,48.63440803976312],[21.92018440713645,48.63529413396486],[21.91884247533221,48.63543912426979],[21.91905633566859,48.63632522052626],[21.91637240482959,48.6366151585687],[21.91701390549906,48.63927345966709],[21.92238201484099,48.63869348327677],[21.92259595961559,48.63957956993698],[21.92393799224601,48.63943453244582],[21.92436595663634,48.6412066970824],[21.92570802818375,48.64106163747999],[21.92592204780323,48.64194771545579],[21.92860621564358,48.64165754179845]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[21.928606,48.641658],[21.928178,48.639885],[21.92952,48.63974],[21.928878,48.637082],[21.931562,48.636792],[21.931348,48.635906],[21.934032,48.635615],[21.933389,48.632957],[21.936073,48.632667],[21.934574,48.626464],[21.933232,48.62661],[21.933018,48.625724],[21.931677,48.625869],[21.931891,48.626755],[21.929207,48.627045],[21.929421,48.627931],[21.925396,48.628366],[21.925182,48.62748],[21.922499,48.62777],[21.922285,48.626884],[21.919602,48.627174],[21.919388,48.626288],[21.918046,48.626433],[21.917832,48.625547],[21.916491,48.625692],[21.91756,48.630123],[21.918901,48.629978],[21.919115,48.630864],[21.920457,48.630719],[21.921312,48.634263],[21.919971,48.634408],[21.920184,48.635294],[21.918842,48.635439],[21.919056,48.636325],[21.916372,48.636615],[21.917014,48.639273],[21.922382,48.638693],[21.922596,48.63958],[21.923938,48.639435],[21.924366,48.641207],[21.925708,48.641062],[21.925922,48.641948],[21.928606,48.641658]]],"type":"Polygon"}
 }

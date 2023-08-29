@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Blesovce"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u043e\u0432\u0446\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Blesovce"
+    ],
     "name:eng_x_preferred":[
         "Blesovce"
     ],
@@ -38,6 +44,9 @@
         "Blesovce"
     ],
     "name:fra_x_preferred":[
+        "Blesovce"
+    ],
+    "name:gle_x_preferred":[
         "Blesovce"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +67,12 @@
     "name:nld_x_preferred":[
         "Blesovce"
     ],
+    "name:pol_x_preferred":[
+        "Blesovce"
+    ],
+    "name:por_x_preferred":[
+        "Blesovce"
+    ],
     "name:ron_x_preferred":[
         "Blesovce"
     ],
@@ -69,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0459\u0435\u0441\u043e\u0432\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u043e\u0432\u0446\u0435"
     ],
     "name:war_x_preferred":[
         "Blesovce"
@@ -121,7 +142,7 @@
         }
     ],
     "wof:id":1125774055,
-    "wof:lastmodified":1566645935,
+    "wof:lastmodified":1690865762,
     "wof:name":"Blesovce",
     "wof:parent_id":102080501,
     "wof:placetype":"locality",

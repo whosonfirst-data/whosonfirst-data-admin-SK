@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0422\u0440\u043d\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:deu_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
@@ -44,6 +47,9 @@
         "Liptovsk\u00fd Trnovec"
     ],
     "name:fra_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
+    "name:gle_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Liptowski Tarnowiec"
     ],
+    "name:por_x_preferred":[
+        "Liptovsk\u00fd Trnovec"
+    ],
     "name:ron_x_preferred":[
         "Liptovsk\u00fd Trnovec"
     ],
@@ -75,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438 \u0422\u0440\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043f\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0422\u0440\u043d\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u0442\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0422\u0440\u043d\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:war_x_preferred":[
         "Liptovsk\u00fd Trnovec"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125800263,
-    "wof:lastmodified":1566645886,
+    "wof:lastmodified":1690865714,
     "wof:name":"Liptovsk\u00fd Trnovec",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

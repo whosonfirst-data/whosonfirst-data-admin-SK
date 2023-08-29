@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
+    "name:gle_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
     "name:hun_x_preferred":[
         "V\u00e1mos"
     ],
@@ -62,6 +65,9 @@
         "M\u00fdto pod \u010eumbierom"
     ],
     "name:pol_x_preferred":[
+        "M\u00fdto pod \u010eumbierom"
+    ],
+    "name:por_x_preferred":[
         "M\u00fdto pod \u010eumbierom"
     ],
     "name:ron_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1126046177,
-    "wof:lastmodified":1566645864,
+    "wof:lastmodified":1690865695,
     "wof:name":"M\u00fdto pod \u010eumbierom",
     "wof:parent_id":102080545,
     "wof:placetype":"locality",

@@ -43,8 +43,14 @@
     "name:fra_x_preferred":[
         "Liptovsk\u00fd Ondrej"
     ],
+    "name:gle_x_preferred":[
+        "Liptovsk\u00fd Ondrej"
+    ],
     "name:hun_x_preferred":[
         "Szentandr\u00e1s"
+    ],
+    "name:hun_x_variant":[
+        "Lipt\u00f3szentandr\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Liptovsk\u00fd Ondrej"
@@ -63,6 +69,9 @@
     ],
     "name:pol_x_variant":[
         "L\u0315ubel\u0315a"
+    ],
+    "name:por_x_preferred":[
+        "Liptovsk\u00fd Ondrej"
     ],
     "name:ron_x_preferred":[
         "Liptovsk\u00fd Ondrej"
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1125774343,
-    "wof:lastmodified":1566645935,
+    "wof:lastmodified":1690865763,
     "wof:name":"Liptovsk\u00fd Ondrej",
     "wof:parent_id":102080577,
     "wof:placetype":"locality",

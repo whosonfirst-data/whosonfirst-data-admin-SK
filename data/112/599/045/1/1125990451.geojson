@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "\u0160arovce"
     ],
+    "name:ces_x_preferred":[
+        "\u0160arovce"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0440\u043e\u0432\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "\u0160arovce"
     ],
@@ -38,6 +44,9 @@
         "\u0160arovce"
     ],
     "name:fra_x_preferred":[
+        "\u0160arovce"
+    ],
+    "name:gle_x_preferred":[
         "\u0160arovce"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +70,9 @@
     "name:pol_x_variant":[
         "Vel\u0315k\u00e9 Kr\u0161kany"
     ],
+    "name:por_x_preferred":[
+        "\u0160arovce"
+    ],
     "name:ron_x_preferred":[
         "\u0160arovce"
     ],
@@ -71,6 +83,12 @@
         "\u0160arovce"
     ],
     "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u0440\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":1125990451,
-    "wof:lastmodified":1566645898,
+    "wof:lastmodified":1690865720,
     "wof:name":"Velke Sarovce",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

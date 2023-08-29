@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Kravany nad Dunajom"
     ],
+    "name:gle_x_preferred":[
+        "Kravany nad Dunajom"
+    ],
     "name:hun_x_preferred":[
         "Karva"
     ],
@@ -59,6 +62,9 @@
         "Kravany nad Dunajom"
     ],
     "name:pol_x_preferred":[
+        "Kravany nad Dunajom"
+    ],
+    "name:por_x_preferred":[
         "Kravany nad Dunajom"
     ],
     "name:ron_x_preferred":[
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1125772405,
-    "wof:lastmodified":1566645934,
+    "wof:lastmodified":1690865761,
     "wof:name":"Kravany nad Dunajom",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",

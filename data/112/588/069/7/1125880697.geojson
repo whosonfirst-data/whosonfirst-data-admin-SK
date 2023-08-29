@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Devi\u010dany"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u0447\u0430\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Devi\u010dany"
     ],
@@ -41,6 +44,9 @@
         "Devi\u010dany"
     ],
     "name:fra_x_preferred":[
+        "Devi\u010dany"
+    ],
+    "name:gle_x_preferred":[
         "Devi\u010dany"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Devi\u010dany"
     ],
+    "name:por_x_preferred":[
+        "Devi\u010dany"
+    ],
     "name:ron_x_preferred":[
         "Devi\u010dany"
     ],
@@ -72,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0458\u0435\u0432\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0432\u0456\u0447\u0430\u043d\u0438"
     ],
     "name:war_x_preferred":[
         "Devi\u010dany"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125880697,
-    "wof:lastmodified":1566645874,
+    "wof:lastmodified":1690865707,
     "wof:name":"Devi\u010dany",
     "wof:parent_id":102080477,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ruskovce"
     ],
+    "name:gle_x_preferred":[
+        "Ruskovce"
+    ],
     "name:hun_x_preferred":[
         "B\u00e1nruszk\u00f3c"
     ],
@@ -56,6 +59,12 @@
         "Ruskovce"
     ],
     "name:nld_x_preferred":[
+        "Ruskovce"
+    ],
+    "name:pol_x_preferred":[
+        "Ruskovce"
+    ],
+    "name:por_x_preferred":[
         "Ruskovce"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125822457,
-    "wof:lastmodified":1566645918,
+    "wof:lastmodified":1690865742,
     "wof:name":"Ruskovce",
     "wof:parent_id":102080523,
     "wof:placetype":"locality",
