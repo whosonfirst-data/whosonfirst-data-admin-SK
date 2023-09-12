@@ -23,6 +23,9 @@
     "itu:country_code":[
         "421"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "SK"
     ],
@@ -1332,7 +1335,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"a808e54871f97ce2ad84ef89d79e7f24",
+    "wof:geomhash":"f6d9327d2cbd56d70fb007578f4448ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1346,7 +1349,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865454,
+    "wof:lastmodified":1694492261,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
