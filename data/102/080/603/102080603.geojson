@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092651,
-    "geom:area_square_m":751520663.005967,
+    "geom:area_square_m":751520294.619359,
     "geom:bbox":"21.742329,48.838639,22.191751,49.202511",
     "geom:latitude":49.005992,
     "geom:longitude":21.95233,
@@ -175,10 +175,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.HE",
+        "qs:local_id":"412",
         "wd:id":"Q837897"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"02e5707a3593077f3805a9a358a6decb",
+    "wof:geomhash":"c873e22ea5f2a6b4f75a84441c1ab7d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":102080603,
-    "wof:lastmodified":1690865437,
+    "wof:lastmodified":1695886354,
     "wof:name":"Humenn\u00e9",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

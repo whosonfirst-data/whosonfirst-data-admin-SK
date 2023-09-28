@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135012,
-    "geom:area_square_m":1093348158.901827,
+    "geom:area_square_m":1093348405.584066,
     "geom:bbox":"19.885967,48.871014,20.457246,49.326412",
     "geom:latitude":49.086605,
     "geom:longitude":20.176072,
@@ -175,10 +175,15 @@
     "wof:concordances":{
         "gp:id":29399351,
         "hasc:id":"SK.PV.PP",
+        "qs:local_id":"416",
         "wd:id":"Q830982"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"65a2dd1504fd41493fce5b8d5c029464",
+    "wof:geomhash":"787300a3a5f64ff6bb50bb4032b6af89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":102080597,
-    "wof:lastmodified":1690865442,
+    "wof:lastmodified":1695886355,
     "wof:name":"Poprad",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

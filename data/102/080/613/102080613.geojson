@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048006,
-    "geom:area_square_m":387792125.397021,
+    "geom:area_square_m":387792165.080455,
     "geom:bbox":"21.569288,49.043183,21.870343,49.363961",
     "geom:latitude":49.210218,
     "geom:longitude":21.703794,
@@ -168,10 +168,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.SP",
+        "qs:local_id":"41B",
         "wd:id":"Q777963"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"3f29a594812a62a18185a6b054a428ca",
+    "wof:geomhash":"54c563db7c35511c5b751391daed92ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":102080613,
-    "wof:lastmodified":1690865443,
+    "wof:lastmodified":1695886356,
     "wof:name":"Stropkov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

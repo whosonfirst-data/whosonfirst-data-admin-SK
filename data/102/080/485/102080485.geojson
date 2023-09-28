@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063284,
-    "geom:area_square_m":519479252.399086,
+    "geom:area_square_m":519479252.39911,
     "geom:bbox":"18.190133,48.263957,18.576248,48.548604",
     "geom:latitude":48.405216,
     "geom:longitude":18.397131,
@@ -149,10 +149,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.NI.ZM"
+        "hasc:id":"SK.NI.ZM",
+        "qs:local_id":"237"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"b6097c4e98c5bcd78df729c432bff9d8",
+    "wof:geomhash":"dde5f588f0ccce6725cbff587faadde4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":102080485,
-    "wof:lastmodified":1566645370,
+    "wof:lastmodified":1695886352,
     "wof:name":"Zlat\u00e9 Moravce",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045535,
-    "geom:area_square_m":374324159.052978,
+    "geom:area_square_m":374324159.052969,
     "geom:bbox":"17.1342405,48.203953,17.477537,48.4563095",
     "geom:latitude":48.331705,
     "geom:longitude":17.304652,
@@ -170,10 +170,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.BL.PK"
+        "hasc:id":"SK.BL.PK",
+        "qs:local_id":"107"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"15126e2f1480cee60c2414caae289ffd",
+    "wof:geomhash":"68eedfbf06cd6f53c5fa2346c0c0d4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":102080471,
-    "wof:lastmodified":1566645370,
+    "wof:lastmodified":1695886352,
     "wof:name":"Pezinok",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

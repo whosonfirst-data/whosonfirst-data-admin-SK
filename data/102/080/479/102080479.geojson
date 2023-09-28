@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102619,
-    "geom:area_square_m":845842249.326488,
+    "geom:area_square_m":845842249.326463,
     "geom:bbox":"19.012154,48.053829,19.564039,48.3983285",
     "geom:latitude":48.195271,
     "geom:longitude":19.304461,
@@ -92,10 +92,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.BC.VK"
+        "hasc:id":"SK.BC.VK",
+        "qs:local_id":"32A"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"d69776f8e7eef2906ea291db9e92823f",
+    "wof:geomhash":"5b143bf86e515b5ce2b97aab0b7bd428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":102080479,
-    "wof:lastmodified":1566645371,
+    "wof:lastmodified":1695886352,
     "wof:name":"Velk\u00fd Krt\u00ed\u0161",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

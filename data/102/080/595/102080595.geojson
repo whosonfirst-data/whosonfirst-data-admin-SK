@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067214,
-    "geom:area_square_m":543697245.875149,
+    "geom:area_square_m":543697192.458596,
     "geom:bbox":"20.652174,49.020746,21.227101,49.23185",
     "geom:latitude":49.142659,
     "geom:longitude":20.966083,
@@ -175,10 +175,15 @@
     "wof:concordances":{
         "gp:id":29399304,
         "hasc:id":"SK.PV.SB",
+        "qs:local_id":"418",
         "wd:id":"Q747926"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"b7a272505999a35caeda177f9918ae79",
+    "wof:geomhash":"0d4f61a986657718ddc06652f06f91cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":102080595,
-    "wof:lastmodified":1690865434,
+    "wof:lastmodified":1695886351,
     "wof:name":"Sabinov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

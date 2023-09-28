@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08907,
-    "geom:area_square_m":728091472.366385,
+    "geom:area_square_m":728091150.938458,
     "geom:bbox":"19.885807,48.397616,20.46982,48.806726",
     "geom:latitude":48.617498,
     "geom:longitude":20.175813,
@@ -174,10 +174,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.RA",
+        "qs:local_id":"328",
         "wd:id":"Q651878"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"0f76e4d4d1e6cfff72e477df244cd506",
+    "wof:geomhash":"1e32986c67ce5edc6704af3455d37019",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102080527,
-    "wof:lastmodified":1690865440,
+    "wof:lastmodified":1695886354,
     "wof:name":"Rev\u00faca",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

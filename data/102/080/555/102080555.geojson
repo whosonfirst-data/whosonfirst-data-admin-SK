@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044156,
-    "geom:area_square_m":358232750.158235,
+    "geom:area_square_m":358232927.195164,
     "geom:bbox":"18.090139,48.896014,18.507677,49.145053",
     "geom:latitude":48.996029,
     "geom:longitude":18.250895,
@@ -171,10 +171,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.IL",
+        "qs:local_id":"222",
         "wd:id":"Q373881"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"bf8d1dfceacba3b5439f9ce12a80f042",
+    "wof:geomhash":"27b57fab21455acb74f6b3ece5049ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":102080555,
-    "wof:lastmodified":1690865441,
+    "wof:lastmodified":1695886355,
     "wof:name":"Ilava",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

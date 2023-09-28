@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12457,
-    "geom:area_square_m":1017014590.707667,
+    "geom:area_square_m":1017015076.239632,
     "geom:bbox":"21.714756,48.446819,22.16635,48.901982",
     "geom:latitude":48.680588,
     "geom:longitude":21.948943,
@@ -178,10 +178,15 @@
     "wof:concordances":{
         "gp:id":29399316,
         "hasc:id":"SK.KI.MI",
+        "qs:local_id":"427",
         "wd:id":"Q379320"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"0cc0cf726fcd8ebf9ef3dbe45932e574",
+    "wof:geomhash":"c366af2c2be48e08bc5422f506cb4e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":102080563,
-    "wof:lastmodified":1690865442,
+    "wof:lastmodified":1695886355,
     "wof:name":"Michalovce",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

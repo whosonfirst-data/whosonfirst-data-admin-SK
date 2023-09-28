@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143182,
-    "geom:area_square_m":1169078586.335156,
+    "geom:area_square_m":1169078704.260136,
     "geom:bbox":"20.181215,48.456479,20.83207,48.92383",
     "geom:latitude":48.675491,
     "geom:longitude":20.458092,
@@ -65,10 +65,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.KI.RV"
+        "hasc:id":"SK.KI.RV",
+        "qs:local_id":"428"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"8ba036ada2a948c1905d37574ea5d4b0",
+    "wof:geomhash":"7ebad4f3ad6789987047c067a970f25d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":102080553,
-    "wof:lastmodified":1627522780,
+    "wof:lastmodified":1695886473,
     "wof:name":"Ro\u017enava",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063161,
-    "geom:area_square_m":516245994.522413,
+    "geom:area_square_m":516246081.235244,
     "geom:bbox":"18.645412,48.477206,19.033439,48.76977",
     "geom:latitude":48.623005,
     "geom:longitude":18.85167,
@@ -193,10 +193,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.ZH",
+        "qs:local_id":"32D",
         "wd:id":"Q836194"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"a8c82dacdadf01ed655b5652e4e3dcaf",
+    "wof:geomhash":"61e31533f9d2d3700d86631362de3759",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":102080519,
-    "wof:lastmodified":1690865439,
+    "wof:lastmodified":1695886354,
     "wof:name":"\u017diar nad Hronom",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

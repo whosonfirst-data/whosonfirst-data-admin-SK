@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054709,
-    "geom:area_square_m":447782055.368276,
+    "geom:area_square_m":447782069.241644,
     "geom:bbox":"19.237246,48.382389,19.72131,48.661487",
     "geom:latitude":48.553104,
     "geom:longitude":19.458958,
@@ -183,10 +183,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.DT",
+        "qs:local_id":"324",
         "wd:id":"Q532137"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"e5579d40aa077345d70e277da682bceb",
+    "wof:geomhash":"5231438b4d059c3e2e53c4c7f264d559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":102080507,
-    "wof:lastmodified":1690865442,
+    "wof:lastmodified":1695886355,
     "wof:name":"Detva",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

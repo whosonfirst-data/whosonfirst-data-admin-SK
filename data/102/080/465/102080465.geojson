@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043514,
-    "geom:area_square_m":358777181.622172,
+    "geom:area_square_m":358777200.846657,
     "geom:bbox":"17.187392,48.011765,17.529213,48.310542",
     "geom:latitude":48.179443,
     "geom:longitude":17.352379,
@@ -176,10 +176,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BL.SC",
+        "qs:local_id":"108",
         "wd:id":"Q513989"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"18476b42a977f6ef02bbc1ee71732d17",
+    "wof:geomhash":"4f26c3663720d99906b52cdc65937687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +194,7 @@
         }
     ],
     "wof:id":102080465,
-    "wof:lastmodified":1690865438,
+    "wof:lastmodified":1695886353,
     "wof:name":"Senec",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164898,
-    "geom:area_square_m":1336221938.812719,
+    "geom:area_square_m":1336222022.956516,
     "geom:bbox":"19.356085,48.896834,20.06043,49.242817",
     "geom:latitude":49.055053,
     "geom:longitude":19.706875,
@@ -191,10 +191,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.ZI.LM",
+        "qs:local_id":"315",
         "wd:id":"Q545302"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"01ed87fca44c22bc1f8969bc20a09500",
+    "wof:geomhash":"5c7a149919de3d47f5fc0614d1ec24b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +209,7 @@
         }
     ],
     "wof:id":102080577,
-    "wof:lastmodified":1690865447,
+    "wof:lastmodified":1695886359,
     "wof:name":"Liptovsk\u00fd Mikul\u00e1\u0161",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

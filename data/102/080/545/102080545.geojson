@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15494,
-    "geom:area_square_m":1261619900.335193,
+    "geom:area_square_m":1261619946.044725,
     "geom:bbox":"19.350431,48.619161,20.26745,48.947247",
     "geom:latitude":48.813319,
     "geom:longitude":19.736197,
@@ -177,10 +177,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.BR",
+        "qs:local_id":"323",
         "wd:id":"Q784394"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"6f6a4efbba756a3775fe0dd7b803a10f",
+    "wof:geomhash":"91b9731d9e422afa68799d0cfb0d6099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":102080545,
-    "wof:lastmodified":1690865440,
+    "wof:lastmodified":1695886354,
     "wof:name":"Brezno",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

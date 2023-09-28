@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092388,
-    "geom:area_square_m":756770354.231829,
+    "geom:area_square_m":756770337.044226,
     "geom:bbox":"18.972909,48.28205,19.494567,48.684788",
     "geom:latitude":48.513827,
     "geom:longitude":19.185958,
@@ -183,10 +183,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.ZV",
+        "qs:local_id":"32B",
         "wd:id":"Q370161"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"42789c7bfa3aad1b739e447cc816fc30",
+    "wof:geomhash":"e81dc5190ba74914580920b0ef8a860a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":102080509,
-    "wof:lastmodified":1690865443,
+    "wof:lastmodified":1695886177,
     "wof:name":"Zvolen",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011382,
-    "geom:area_square_m":94051425.873733,
+    "geom:area_square_m":94051578.791776,
     "geom:bbox":"17.05686,48.006714,17.24177,48.143109",
     "geom:latitude":48.068605,
     "geom:longitude":17.131189,
@@ -221,10 +221,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BL.B5",
+        "qs:local_id":"105",
         "wd:id":"Q750439"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"bd509c5bd5e9db726bc649c41ee38acc",
+    "wof:geomhash":"8801ab5fcddde575aade53adc1678a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +239,7 @@
         }
     ],
     "wof:id":102080449,
-    "wof:lastmodified":1690865435,
+    "wof:lastmodified":1695886352,
     "wof:name":"Bratislava V",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

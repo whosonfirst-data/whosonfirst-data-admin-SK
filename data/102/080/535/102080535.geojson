@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007446,
-    "geom:area_square_m":60789110.870979,
+    "geom:area_square_m":60789106.358158,
     "geom:bbox":"21.211491,48.641717,21.358201,48.726641",
     "geom:latitude":48.679912,
     "geom:longitude":21.285073,
@@ -222,10 +222,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.KI.K4",
+        "qs:local_id":"425",
         "wd:id":"Q650575"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"e0e8a38e4437f994e7e15308617658d0",
+    "wof:geomhash":"f8d47552f535a5ce03d96827a833e870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +240,7 @@
         }
     ],
     "wof:id":102080535,
-    "wof:lastmodified":1690865435,
+    "wof:lastmodified":1695886351,
     "wof:name":"Ko\u0161ice IV",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

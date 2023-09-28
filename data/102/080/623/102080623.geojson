@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067443,
-    "geom:area_square_m":543910912.685473,
+    "geom:area_square_m":543910778.705167,
     "geom:bbox":"21.368927,49.06421,21.774036,49.445313",
     "geom:latitude":49.291247,
     "geom:longitude":21.558739,
@@ -190,10 +190,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.SK",
+        "qs:local_id":"41C",
         "wd:id":"Q385823"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"be778a28af3c9159f2e257f18c804ced",
+    "wof:geomhash":"aead4455df4d29efd0fb1d998587f598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":102080623,
-    "wof:lastmodified":1690865444,
+    "wof:lastmodified":1695886357,
     "wof:name":"Svidn\u00edk",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

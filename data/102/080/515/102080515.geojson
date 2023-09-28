@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040128,
-    "geom:area_square_m":327212997.548472,
+    "geom:area_square_m":327213446.538976,
     "geom:bbox":"17.353044,48.626616,17.720052,48.846561",
     "geom:latitude":48.741349,
     "geom:longitude":17.557615,
@@ -171,10 +171,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.MY",
+        "qs:local_id":"223",
         "wd:id":"Q733250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"24224515a52589efa83c323c73487b9e",
+    "wof:geomhash":"6efc922b82da1ecfee6c52dce3267ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":102080515,
-    "wof:lastmodified":1690865448,
+    "wof:lastmodified":1695886359,
     "wof:name":"Myjava",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105529,
-    "geom:area_square_m":867979224.545036,
+    "geom:area_square_m":867979370.113401,
     "geom:bbox":"17.832964,48.1413,18.438635,48.464728",
     "geom:latitude":48.304185,
     "geom:longitude":18.10905,
@@ -171,10 +171,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.NI.NR",
+        "qs:local_id":"233",
         "wd:id":"Q761574"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"700543b15a9b32316491b0cfc770cfad",
+    "wof:geomhash":"6289f888eb42b862a5a152e8d7a4785c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":102080473,
-    "wof:lastmodified":1690865445,
+    "wof:lastmodified":1695886356,
     "wof:name":"Nitra",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129425,
-    "geom:area_square_m":1071421202.90095,
+    "geom:area_square_m":1071421319.899702,
     "geom:bbox":"17.246883,47.757096,17.888936,48.174104",
     "geom:latitude":47.972553,
     "geom:longitude":17.584324,
@@ -174,10 +174,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TA.DS",
+        "qs:local_id":"211",
         "wd:id":"Q756662"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"d792ba60c65ab828776169a6ebbb273b",
+    "wof:geomhash":"1a13ff992f34937af3b14daf0b7729a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102080453,
-    "wof:lastmodified":1690865438,
+    "wof:lastmodified":1695886353,
     "wof:name":"Dunajsk\u00e1 Streda",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009826,
-    "geom:area_square_m":80270524.529613,
+    "geom:area_square_m":80270336.22257,
     "geom:bbox":"21.12079,48.570036,21.248777,48.733272",
     "geom:latitude":48.647834,
     "geom:longitude":21.1943,
@@ -222,10 +222,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.KI.K2",
+        "qs:local_id":"423",
         "wd:id":"Q280424"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"0baf2db99422af9e6b1f51214ffb10fc",
+    "wof:geomhash":"071206e607bd1a6ff408039b7679f855",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +240,7 @@
         }
     ],
     "wof:id":102080533,
-    "wof:lastmodified":1690865433,
+    "wof:lastmodified":1695886351,
     "wof:name":"Ko\u0161ice II",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

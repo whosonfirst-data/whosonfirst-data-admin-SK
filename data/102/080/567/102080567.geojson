@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079412,
-    "geom:area_square_m":643878357.591076,
+    "geom:area_square_m":643878357.591028,
     "geom:bbox":"19.078754,48.8558875,19.461119,49.177029",
     "geom:latitude":49.025707,
     "geom:longitude":19.259504,
@@ -188,10 +188,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.ZI.RK"
+        "hasc:id":"SK.ZI.RK",
+        "qs:local_id":"318"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"a04e2fa684354a3279841658c651aaf4",
+    "wof:geomhash":"58320202aa371503ce9d0b1e94a3bc66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +206,7 @@
         }
     ],
     "wof:id":102080567,
-    "wof:lastmodified":1566645368,
+    "wof:lastmodified":1695886351,
     "wof:name":"Ru\u017eomberok",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

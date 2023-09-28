@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070941,
-    "geom:area_square_m":578296242.724929,
+    "geom:area_square_m":578295987.706467,
     "geom:bbox":"17.614073,48.611092,18.023364,48.92736",
     "geom:latitude":48.756955,
     "geom:longitude":17.822331,
@@ -159,10 +159,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.NM",
+        "qs:local_id":"224",
         "wd:id":"Q282702"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"aea04b7c61d686c5402ef52f39555049",
+    "wof:geomhash":"47554cdee7089a38fe81bdd037285044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":102080521,
-    "wof:lastmodified":1690865439,
+    "wof:lastmodified":1695886354,
     "wof:name":"Nov\u00e9 Mesto nad V\u00e1hom",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

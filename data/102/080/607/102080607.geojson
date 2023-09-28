@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094274,
-    "geom:area_square_m":758470845.982987,
+    "geom:area_square_m":758470695.71579,
     "geom:bbox":"18.323172,49.298155,19.160534,49.519387",
     "geom:latitude":49.409532,
     "geom:longitude":18.784941,
@@ -190,10 +190,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.ZI.CA",
+        "qs:local_id":"312",
         "wd:id":"Q836173"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"5dfebae05c4c68960335c0d3cb7d8d01",
+    "wof:geomhash":"ce3aa0dad6afb80408397c72399b8cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":102080607,
-    "wof:lastmodified":1690865446,
+    "wof:lastmodified":1695886357,
     "wof:name":"Cadca",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

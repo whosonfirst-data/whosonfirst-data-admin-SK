@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114758,
-    "geom:area_square_m":931150283.696655,
+    "geom:area_square_m":931150224.019396,
     "geom:bbox":"20.870505,48.810735,21.485853,49.185155",
     "geom:latitude":48.98925,
     "geom:longitude":21.213164,
@@ -177,10 +177,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.PO",
+        "qs:local_id":"417",
         "wd:id":"Q756658"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"2567832e537ca1b1a2e2a41f223cc1bc",
+    "wof:geomhash":"8a35a4aebbe56890a0660170ab28de1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":102080591,
-    "wof:lastmodified":1690865443,
+    "wof:lastmodified":1695886356,
     "wof:name":"Pre\u0161ov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

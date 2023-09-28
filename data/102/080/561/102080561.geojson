@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071977,
-    "geom:area_square_m":584902272.159264,
+    "geom:area_square_m":584902194.79791,
     "geom:bbox":"20.296234,48.788903,20.921057,49.019882",
     "geom:latitude":48.914144,
     "geom:longitude":20.6119,
@@ -177,10 +177,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.KI.SN",
+        "qs:local_id":"42A",
         "wd:id":"Q756077"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"a5efa88d2a0c50f28e71f210b48dbc6d",
+    "wof:geomhash":"1cdf4296145e7302294e68ede54e5d01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":102080561,
-    "wof:lastmodified":1690865434,
+    "wof:lastmodified":1695886351,
     "wof:name":"Spi\u0161sk\u00e1 Nov\u00e1 Ves",
     "wof:parent_id":85688359,
     "wof:placetype":"county",
