@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"3",
     "geom:area":1.101032,
-    "geom:area_square_m":8909805937.613794,
+    "geom:area_square_m":8909806147.953598,
     "geom:bbox":"19.885967,48.762556,22.569116,49.45869",
     "geom:latitude":49.122907,
     "geom:longitude":21.225362,
@@ -377,12 +377,18 @@
         "gn:id":865085,
         "gp:id":20070496,
         "hasc:id":"SK.PV",
+        "iso:code":"SK-PV",
         "iso:id":"SK-PV",
+        "qs:local_id":"41",
         "unlc:id":"SK-PV",
         "wd:id":"Q189001"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"c1692f75542152fae7647b1b2a837d20",
+    "wof:geomhash":"3855127758bcea57156e807f80aac37f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -397,7 +403,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865458,
+    "wof:lastmodified":1695885321,
     "wof:name":"Pre\u0161ovsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

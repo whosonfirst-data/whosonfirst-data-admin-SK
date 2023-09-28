@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"1",
     "geom:area":0.248712,
-    "geom:area_square_m":2045129273.019445,
+    "geom:area_square_m":2045129459.675428,
     "geom:bbox":"16.832695,48.006714,17.529213,48.654027",
     "geom:latitude":48.317433,
     "geom:longitude":17.179147,
@@ -380,12 +380,18 @@
         "gn:id":3343955,
         "gp:id":20070505,
         "hasc:id":"SK.BL",
+        "iso:code":"SK-BL",
         "iso:id":"SK-BL",
+        "qs:local_id":"10",
         "unlc:id":"SK-BL",
         "wd:id":"Q183498"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"ed2330e9dea8a36629f1c145c3ec3ed7",
+    "wof:geomhash":"9146b97a9051ce134d3cb4bd3ef3c785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +406,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865456,
+    "wof:lastmodified":1695885322,
     "wof:name":"Bratislavsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

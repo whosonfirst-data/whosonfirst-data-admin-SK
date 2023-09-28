@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.839454,
-    "geom:area_square_m":6785586656.510358,
+    "geom:area_square_m":6785586482.068696,
     "geom:bbox":"18.323172,48.741156,20.06043,49.609993",
     "geom:latitude":49.177369,
     "geom:longitude":19.177931,
@@ -383,12 +383,18 @@
         "gn:id":3056506,
         "gp:id":20070494,
         "hasc:id":"SK.ZI",
+        "iso:code":"SK-ZI",
         "iso:id":"SK-ZI",
+        "qs:local_id":"31",
         "unlc:id":"SK-ZI",
         "wd:id":"Q184228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"1c9c84bcb61bfafea80eb6b18ffd147c",
+    "wof:geomhash":"115730f8c9328b5c920c7793a2bcb5b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -403,7 +409,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865457,
+    "wof:lastmodified":1695885321,
     "wof:name":"\u017dilinsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

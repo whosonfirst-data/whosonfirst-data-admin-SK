@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.552044,
-    "geom:area_square_m":4491022873.128551,
+    "geom:area_square_m":4491023255.133854,
     "geom:bbox":"17.353044,48.485686,18.82687,49.319707",
     "geom:latitude":48.858651,
     "geom:longitude":18.213216,
@@ -370,12 +370,18 @@
         "gn:id":3343957,
         "gp:id":20070493,
         "hasc:id":"SK.TC",
+        "iso:code":"SK-TC",
         "iso:id":"SK-TC",
+        "qs:local_id":"22",
         "unlc:id":"SK-TC",
         "wd:id":"Q183139"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"a05b0e8e12c9ad11df36c248f9c869a3",
+    "wof:geomhash":"11fd0758fcb30c3f9df444e0d71ae4e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +396,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865456,
+    "wof:lastmodified":1695885321,
     "wof:name":"Trenciansky kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",
