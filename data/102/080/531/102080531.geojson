@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098991,
-    "geom:area_square_m":806897858.60304,
+    "geom:area_square_m":806897843.911316,
     "geom:bbox":"18.991117,48.618924,19.504472,48.898136",
     "geom:latitude":48.760395,
     "geom:longitude":19.229348,
@@ -192,10 +192,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.BB",
+        "qs:local_id":"321",
         "wd:id":"Q539934"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"917088fda76a90d6b214bdbe82a53e84",
+    "wof:geomhash":"dc8c562c09f586adb777d6a496591303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":102080531,
-    "wof:lastmodified":1690865443,
+    "wof:lastmodified":1695886356,
     "wof:name":"Bansk\u00e1 Bystrica",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

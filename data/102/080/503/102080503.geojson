@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036682,
-    "geom:area_square_m":299983986.798975,
+    "geom:area_square_m":299984234.068113,
     "geom:bbox":"18.2083,48.485686,18.497977,48.704514",
     "geom:latitude":48.595337,
     "geom:longitude":18.358394,
@@ -171,10 +171,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.PE",
+        "qs:local_id":"225",
         "wd:id":"Q837871"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"4b8122bedb65cc8d1bff4fa8dcd13765",
+    "wof:geomhash":"ecf65d9496282baf74befd45feefae2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":102080503,
-    "wof:lastmodified":1690865434,
+    "wof:lastmodified":1695886351,
     "wof:name":"Partiz\u00e1nske",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

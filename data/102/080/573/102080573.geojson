@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046356,
-    "geom:area_square_m":374988960.865443,
+    "geom:area_square_m":374989284.849727,
     "geom:bbox":"18.117019,48.97084,18.437512,49.296791",
     "geom:latitude":49.140948,
     "geom:longitude":18.26783,
@@ -165,10 +165,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.PU",
+        "qs:local_id":"228",
         "wd:id":"Q768310"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"7b1a2b068eef2badc58bde2f9e06e1ba",
+    "wof:geomhash":"fb30d0970094ab9229a2ea71e0daa494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":102080573,
-    "wof:lastmodified":1690865441,
+    "wof:lastmodified":1695886355,
     "wof:name":"P\u00fachov",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084745,
-    "geom:area_square_m":681449713.850622,
+    "geom:area_square_m":681449597.82576,
     "geom:bbox":"19.111201,49.27955,19.596869,49.609993",
     "geom:latitude":49.435233,
     "geom:longitude":19.368968,
@@ -166,10 +166,15 @@
     "wof:concordances":{
         "gp:id":29399291,
         "hasc:id":"SK.ZI.NO",
+        "qs:local_id":"317",
         "wd:id":"Q388888"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"02023c41ecf34b77d70795615e86adaf",
+    "wof:geomhash":"f47f54e70fd29dd05e22d6dbc7ec544c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":102080615,
-    "wof:lastmodified":1690865444,
+    "wof:lastmodified":1695886357,
     "wof:name":"N\u00e1mestovo",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

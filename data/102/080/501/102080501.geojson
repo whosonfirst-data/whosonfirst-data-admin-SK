@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072789,
-    "geom:area_square_m":595776003.269944,
+    "geom:area_square_m":595775678.058398,
     "geom:bbox":"17.844604,48.420517,18.312921,48.714432",
     "geom:latitude":48.552112,
     "geom:longitude":18.085781,
@@ -65,10 +65,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.NI.TO"
+        "hasc:id":"SK.NI.TO",
+        "qs:local_id":"236"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"5e4e65b53fd00c352d11df247c5bf425",
+    "wof:geomhash":"c7eea3351bf10a3cf6123cd4bb2fd76d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":102080501,
-    "wof:lastmodified":1627522780,
+    "wof:lastmodified":1695886473,
     "wof:name":"Topolcany",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

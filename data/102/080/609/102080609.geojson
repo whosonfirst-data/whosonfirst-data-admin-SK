@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077234,
-    "geom:area_square_m":623937118.478977,
+    "geom:area_square_m":623937118.478964,
     "geom:bbox":"20.182245,49.0317445,20.642232,49.407887",
     "geom:latitude":49.207159,
     "geom:longitude":20.425671,
@@ -183,10 +183,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29399297,
-        "hasc:id":"SK.PV.KK"
+        "hasc:id":"SK.PV.KK",
+        "qs:local_id":"413"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"67750808eebbac7646387f387451b331",
+    "wof:geomhash":"d610e3f2810f55a59422d142f8e44d05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":102080609,
-    "wof:lastmodified":1566645380,
+    "wof:lastmodified":1695886358,
     "wof:name":"Ke\u017emarok",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

@@ -1315,6 +1315,7 @@
         "hasc:id":"SK",
         "icao:code":"OM",
         "ioc:id":"SVK",
+        "iso:code":"SK",
         "itu:id":"SVK",
         "loc:id":"n50075233",
         "m49:code":"703",
@@ -1329,6 +1330,7 @@
         "wk:page":"Slovakia",
         "wmo:id":"SQ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SK",
     "wof:country_alpha3":"SVK",
     "wof:geom_alt":[
@@ -1349,7 +1351,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1694492261,
+    "wof:lastmodified":1695881374,
     "wof:name":"Slovakia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

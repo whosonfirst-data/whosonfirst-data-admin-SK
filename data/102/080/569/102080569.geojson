@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090452,
-    "geom:area_square_m":733286351.463995,
+    "geom:area_square_m":733286302.830304,
     "geom:bbox":"18.63336,48.876659,19.143692,49.218092",
     "geom:latitude":49.032939,
     "geom:longitude":18.946496,
@@ -179,10 +179,15 @@
     "wof:concordances":{
         "gp:id":29399310,
         "hasc:id":"SK.ZI.MT",
+        "qs:local_id":"316",
         "wd:id":"Q756665"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"d6771ae5dadbbc01e1d9995de1e80de6",
+    "wof:geomhash":"be43e90a12da1c1fd26e0f32833bde8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +197,7 @@
         }
     ],
     "wof:id":102080569,
-    "wof:lastmodified":1690865432,
+    "wof:lastmodified":1695886350,
     "wof:name":"Martin",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

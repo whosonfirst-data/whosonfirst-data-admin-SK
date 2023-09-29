@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.766477,
-    "geom:area_square_m":6324259279.134541,
+    "geom:area_square_m":6324258564.287527,
     "geom:bbox":"17.70824,47.7313,19.072128,48.714432",
     "geom:latitude":48.141941,
     "geom:longitude":18.31083,
@@ -365,12 +365,18 @@
         "gn:id":3343956,
         "gp:id":20070492,
         "hasc:id":"SK.NI",
+        "iso:code":"SK-NI",
         "iso:id":"SK-NI",
+        "qs:local_id":"23",
         "unlc:id":"SK-NI",
         "wd:id":"Q184548"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"70f5bd1d616a1f8c1ffd68e1c581da5d",
+    "wof:geomhash":"4c4a3628c40a17aca148e222f5a03e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -385,7 +391,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865456,
+    "wof:lastmodified":1695885321,
     "wof:name":"Nitriansky kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

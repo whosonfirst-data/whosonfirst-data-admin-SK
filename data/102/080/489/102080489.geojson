@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090051,
-    "geom:area_square_m":738812792.529824,
+    "geom:area_square_m":738812568.279489,
     "geom:bbox":"17.302191,48.239763,17.758011,48.644796",
     "geom:latitude":48.432342,
     "geom:longitude":17.543351,
@@ -184,10 +184,15 @@
     "wof:concordances":{
         "gp:id":29399336,
         "hasc:id":"SK.TA.TT",
+        "qs:local_id":"217",
         "wd:id":"Q775484"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"69ee3a72d3a8ced7dfa9e2f0a7973f24",
+    "wof:geomhash":"e33b5d30d21bfdf356529d847ee6f2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":102080489,
-    "wof:lastmodified":1690865445,
+    "wof:lastmodified":1695886356,
     "wof:name":"Trnava",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

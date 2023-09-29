@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094392,
-    "geom:area_square_m":766701114.527324,
+    "geom:area_square_m":766701072.882621,
     "geom:bbox":"21.404362,48.762556,21.806968,49.132453",
     "geom:latitude":48.937259,
     "geom:longitude":21.626507,
@@ -66,10 +66,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29399307,
-        "hasc:id":"SK.PV.VT"
+        "hasc:id":"SK.PV.VT",
+        "qs:local_id":"41D"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"eb57bbcac0752fa3f8d8b5b053619420",
+    "wof:geomhash":"47484472412b450adafbc770cc740dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":102080593,
-    "wof:lastmodified":1627522781,
+    "wof:lastmodified":1695886474,
     "wof:name":"Vranov nad Toplou",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

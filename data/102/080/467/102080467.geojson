@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042992,
-    "geom:area_square_m":354858910.384173,
+    "geom:area_square_m":354858968.983498,
     "geom:bbox":"17.754777,47.962946,18.019046,48.284574",
     "geom:latitude":48.123501,
     "geom:longitude":17.909557,
@@ -65,10 +65,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.NI.SA"
+        "hasc:id":"SK.NI.SA",
+        "qs:local_id":"235"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"4ba9e106c3d30d3fef1d76f76c0d5e52",
+    "wof:geomhash":"012b8950146015041862a1b5b5554a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":102080467,
-    "wof:lastmodified":1627522780,
+    "wof:lastmodified":1695886473,
     "wof:name":"\u0160ala",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032476,
-    "geom:area_square_m":266463396.115229,
+    "geom:area_square_m":266463523.060436,
     "geom:bbox":"17.679449,48.322197,17.964675,48.522003",
     "geom:latitude":48.428927,
     "geom:longitude":17.814278,
@@ -174,10 +174,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TA.HC",
+        "qs:local_id":"213",
         "wd:id":"Q550271"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"70a3996a84c4c5fb817f40de7a3a6888",
+    "wof:geomhash":"40e921d2159bfc8053b339c8c2105662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102080481,
-    "wof:lastmodified":1690865444,
+    "wof:lastmodified":1695886356,
     "wof:name":"Hlohovec",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

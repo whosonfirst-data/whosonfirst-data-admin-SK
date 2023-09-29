@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115271,
-    "geom:area_square_m":945786927.505923,
+    "geom:area_square_m":945787016.523289,
     "geom:bbox":"16.832695,48.235615,17.376616,48.654027",
     "geom:latitude":48.428826,
     "geom:longitude":17.087264,
@@ -174,10 +174,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BL.MA",
+        "qs:local_id":"106",
         "wd:id":"Q590660"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"8382d2f0136c2eefc88dbb189c05d789",
+    "wof:geomhash":"5d8bfc59469432907f33ab6361569e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102080487,
-    "wof:lastmodified":1690865444,
+    "wof:lastmodified":1695886356,
     "wof:name":"Malacky",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

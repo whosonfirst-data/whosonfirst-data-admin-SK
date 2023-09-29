@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100498,
-    "geom:area_square_m":812430659.985121,
+    "geom:area_square_m":812430659.985168,
     "geom:bbox":"18.4628915,48.9364695,19.1229535,49.3644685",
     "geom:latitude":49.173104,
     "geom:longitude":18.772879,
@@ -248,10 +248,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.ZI.ZA"
+        "hasc:id":"SK.ZI.ZA",
+        "qs:local_id":"31B"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"df77d05e1125140490bb368b55097195",
+    "wof:geomhash":"5b626c2231cfd268086eafff173e0a99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -261,7 +266,7 @@
         }
     ],
     "wof:id":102080585,
-    "wof:lastmodified":1566645381,
+    "wof:lastmodified":1695886358,
     "wof:name":"\u017dilina",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

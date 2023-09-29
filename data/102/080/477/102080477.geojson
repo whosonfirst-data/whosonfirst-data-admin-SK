@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187462,
-    "geom:area_square_m":1546444067.016339,
+    "geom:area_square_m":1546443776.511142,
     "geom:bbox":"18.343336,47.932024,19.072128,48.416778",
     "geom:latitude":48.15291,
     "geom:longitude":18.670923,
@@ -174,10 +174,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.NI.LV",
+        "qs:local_id":"232",
         "wd:id":"Q777394"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"f6f0bb4deca0f70a389e9f7169865030",
+    "wof:geomhash":"8ac735c0e45f818bbe8451784af3a437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102080477,
-    "wof:lastmodified":1690865436,
+    "wof:lastmodified":1695886352,
     "wof:name":"Levice",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

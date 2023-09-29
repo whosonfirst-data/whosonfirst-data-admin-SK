@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046447,
-    "geom:area_square_m":379937249.136822,
+    "geom:area_square_m":379937462.636592,
     "geom:bbox":"17.556982,48.472092,17.985486,48.682515",
     "geom:latitude":48.582811,
     "geom:longitude":17.742174,
@@ -95,10 +95,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.TA.PN"
+        "hasc:id":"SK.TA.PN",
+        "qs:local_id":"214"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"752b79bd5e26b8ecbbec2bf6e243ce1e",
+    "wof:geomhash":"5f16ba110c5662435859cfefefd31d08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +113,7 @@
         }
     ],
     "wof:id":102080495,
-    "wof:lastmodified":1627522780,
+    "wof:lastmodified":1695886473,
     "wof:name":"Pie\u0161tany",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

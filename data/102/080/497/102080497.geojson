@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100142,
-    "geom:area_square_m":823094704.232697,
+    "geom:area_square_m":823094839.496848,
     "geom:bbox":"19.36355,48.15353,19.942685,48.545418",
     "geom:latitude":48.339941,
     "geom:longitude":19.646531,
@@ -66,10 +66,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29399361,
-        "hasc:id":"SK.BC.LC"
+        "hasc:id":"SK.BC.LC",
+        "qs:local_id":"326"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"f9723535f2c7261ef7bf02885d1f5e9c",
+    "wof:geomhash":"d00396fcdb96b7766763f77892697dc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":102080497,
-    "wof:lastmodified":1627522780,
+    "wof:lastmodified":1695886473,
     "wof:name":"Lucenec",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

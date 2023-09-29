@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"3",
     "geom:area":0.503193,
-    "geom:area_square_m":4134750205.986979,
+    "geom:area_square_m":4134750411.056263,
     "geom:bbox":"16.93375,47.757096,17.985486,48.878223",
     "geom:latitude":48.353162,
     "geom:longitude":17.534769,
@@ -373,12 +373,18 @@
         "gn:id":3343958,
         "gp:id":20070504,
         "hasc:id":"SK.TA",
+        "iso:code":"SK-TA",
         "iso:id":"SK-TA",
+        "qs:local_id":"21",
         "unlc:id":"SK-TA",
         "wd:id":"Q181342"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"379855650dc6ac92c962e19c8a682c76",
+    "wof:geomhash":"46907732db05a10298eaab22aee463dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -393,7 +399,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865455,
+    "wof:lastmodified":1695885322,
     "wof:name":"Trnavsk\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

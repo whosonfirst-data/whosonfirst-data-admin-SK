@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057926,
-    "geom:area_square_m":474671015.310512,
+    "geom:area_square_m":474671240.884848,
     "geom:bbox":"19.580465,48.360112,19.92751,48.648779",
     "geom:latitude":48.493902,
     "geom:longitude":19.754219,
@@ -175,10 +175,15 @@
     "wof:concordances":{
         "gp:id":29399333,
         "hasc:id":"SK.BC.PT",
+        "qs:local_id":"327",
         "wd:id":"Q256846"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"88330d6a18fe4d0e178a94a70bd25b25",
+    "wof:geomhash":"8ad73307afb439a5d2822a313eb24c79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":102080513,
-    "wof:lastmodified":1690865447,
+    "wof:lastmodified":1695886358,
     "wof:name":"Polt\u00e1r",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

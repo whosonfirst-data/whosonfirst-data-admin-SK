@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09829,
-    "geom:area_square_m":796995619.943842,
+    "geom:area_square_m":796995786.743526,
     "geom:bbox":"22.016158,48.864761,22.569116,49.186222",
     "geom:latitude":49.022429,
     "geom:longitude":22.290709,
@@ -168,10 +168,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.SV",
+        "qs:local_id":"419",
         "wd:id":"Q837888"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"bbef564112e8668c7585a74f57f11424",
+    "wof:geomhash":"99f46e35b8630ace4c1b22aa7e1ecb74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":102080599,
-    "wof:lastmodified":1690865441,
+    "wof:lastmodified":1695886356,
     "wof:name":"Snina",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

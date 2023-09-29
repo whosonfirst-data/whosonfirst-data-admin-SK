@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009041,
-    "geom:area_square_m":74510538.70403,
+    "geom:area_square_m":74510536.445284,
     "geom:bbox":"17.063981,48.156066,17.231615,48.244548",
     "geom:latitude":48.201348,
     "geom:longitude":17.137249,
@@ -221,10 +221,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BL.B3",
+        "qs:local_id":"103",
         "wd:id":"Q750419"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"bebfae132905d72b0f0f3616e53007bf",
+    "wof:geomhash":"58209762288067a28097b16e9892a35e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +239,7 @@
         }
     ],
     "wof:id":102080459,
-    "wof:lastmodified":1690865446,
+    "wof:lastmodified":1695886357,
     "wof:name":"Bratislava III",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

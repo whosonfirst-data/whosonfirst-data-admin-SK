@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114426,
-    "geom:area_square_m":922926982.806141,
+    "geom:area_square_m":922926978.8324,
     "geom:bbox":"20.986643,49.112727,21.536782,49.45869",
     "geom:latitude":49.285227,
     "geom:longitude":21.262972,
@@ -168,10 +168,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.BJ",
+        "qs:local_id":"411",
         "wd:id":"Q265964"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"e0f2b3ae9e3e1bfce43fb7decce72ed8",
+    "wof:geomhash":"9933ed9af6e07b5720cc97ae3610611e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":102080621,
-    "wof:lastmodified":1690865436,
+    "wof:lastmodified":1695886353,
     "wof:name":"Bardejov",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132193,
-    "geom:area_square_m":1097144551.822996,
+    "geom:area_square_m":1097143933.904494,
     "geom:bbox":"17.70824,47.7313,18.53464,47.986278",
     "geom:latitude":47.839882,
     "geom:longitude":18.112758,
@@ -172,10 +172,15 @@
     "wof:concordances":{
         "gp:id":29399355,
         "hasc:id":"SK.NI.KN",
+        "qs:local_id":"231",
         "wd:id":"Q586056"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"c4ea5671d8429e4758fba9dd36d6672c",
+    "wof:geomhash":"2449ab8be3252b77806bb5fbef92a401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":102080447,
-    "wof:lastmodified":1690865435,
+    "wof:lastmodified":1695886351,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85688365,
     "wof:placetype":"county",

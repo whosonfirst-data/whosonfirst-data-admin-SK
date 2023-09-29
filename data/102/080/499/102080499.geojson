@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051737,
-    "geom:area_square_m":424109555.308187,
+    "geom:area_square_m":424109555.308177,
     "geom:bbox":"18.478677,48.309816,18.8762005,48.633212",
     "geom:latitude":48.475663,
     "geom:longitude":18.647015,
@@ -137,10 +137,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.BC.ZC"
+        "hasc:id":"SK.BC.ZC",
+        "qs:local_id":"32C"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"f496f3849836f1141373e04dc722a61c",
+    "wof:geomhash":"84f5045014322ec1f1c5600b04fd6b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":102080499,
-    "wof:lastmodified":1566645372,
+    "wof:lastmodified":1695886353,
     "wof:name":"\u017darnovica",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056506,
-    "geom:area_square_m":460625025.102557,
+    "geom:area_square_m":460625012.050188,
     "geom:bbox":"17.997168,48.630635,18.439544,48.895263",
     "geom:latitude":48.757157,
     "geom:longitude":18.255791,
@@ -171,10 +171,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.BN",
+        "qs:local_id":"221",
         "wd:id":"Q837865"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"1d562cc3451d9a6767ad8c1eee2aa6a7",
+    "wof:geomhash":"dccc5b806662c8762a145240af264e66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":102080523,
-    "wof:lastmodified":1690865448,
+    "wof:lastmodified":1695886359,
     "wof:name":"B\u00e1novce nad Bebravou",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

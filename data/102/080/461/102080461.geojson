@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011643,
-    "geom:area_square_m":95949147.11899,
+    "geom:area_square_m":95949080.5375,
     "geom:bbox":"16.946163,48.139736,17.137226,48.265059",
     "geom:latitude":48.206216,
     "geom:longitude":17.024533,
@@ -221,10 +221,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BL.B4",
+        "qs:local_id":"104",
         "wd:id":"Q750416"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"86af4b5f66debcc20c1ca6e1ffd7b368",
+    "wof:geomhash":"eef22be86ef87a32cfa96bceefe55d8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +239,7 @@
         }
     ],
     "wof:id":102080461,
-    "wof:lastmodified":1690865446,
+    "wof:lastmodified":1695886357,
     "wof:name":"Bratislava IV",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

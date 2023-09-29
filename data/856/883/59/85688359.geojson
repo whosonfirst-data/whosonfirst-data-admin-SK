@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.824778,
-    "geom:area_square_m":6731388515.552247,
+    "geom:area_square_m":6731388937.121466,
     "geom:bbox":"20.181215,48.332821,22.387302,49.019882",
     "geom:latitude":48.69739,
     "geom:longitude":21.266267,
@@ -377,12 +377,18 @@
         "gn:id":865084,
         "gp:id":20070497,
         "hasc:id":"SK.KI",
+        "iso:code":"SK-KI",
         "iso:id":"SK-KI",
+        "qs:local_id":"42",
         "unlc:id":"SK-KI",
         "wd:id":"Q186295"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"7a4dd8005033d09c288aaafd4a07bdb4",
+    "wof:geomhash":"fe42a26933fa218c7111e54e283319c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -397,7 +403,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865455,
+    "wof:lastmodified":1695885321,
     "wof:name":"Ko\u0161ick\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",

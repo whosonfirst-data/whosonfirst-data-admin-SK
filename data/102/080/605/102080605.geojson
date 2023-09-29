@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060055,
-    "geom:area_square_m":484041398.972831,
+    "geom:area_square_m":484041228.920335,
     "geom:bbox":"19.420215,49.196329,19.823957,49.460427",
     "geom:latitude":49.320179,
     "geom:longitude":19.644252,
@@ -169,10 +169,15 @@
     "wof:concordances":{
         "gp:id":29399298,
         "hasc:id":"SK.ZI.TS",
+        "qs:local_id":"31A",
         "wd:id":"Q756899"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"db5ca2f72dbac61032b2e0293596a131",
+    "wof:geomhash":"3562a6cc46ccb5b0ab16ca81a6da5565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":102080605,
-    "wof:lastmodified":1690865436,
+    "wof:lastmodified":1695886353,
     "wof:name":"Tvrdo\u0161\u00edn",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

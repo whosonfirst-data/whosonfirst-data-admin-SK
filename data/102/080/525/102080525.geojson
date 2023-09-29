@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178773,
-    "geom:area_square_m":1466763700.193033,
+    "geom:area_square_m":1466763589.453071,
     "geom:bbox":"19.728008,48.124748,20.420629,48.769584",
     "geom:latitude":48.430516,
     "geom:longitude":20.040921,
@@ -201,10 +201,15 @@
     "wof:concordances":{
         "gp:id":29399327,
         "hasc:id":"SK.BC.RS",
+        "qs:local_id":"329",
         "wd:id":"Q836188"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"caba3413fda94814b857456432f1d580",
+    "wof:geomhash":"9f2d4b404647fbdf9a4739c6b544d38f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +219,7 @@
         }
     ],
     "wof:id":102080525,
-    "wof:lastmodified":1690865447,
+    "wof:lastmodified":1695886358,
     "wof:name":"Rimavsk\u00e1 Sobota",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

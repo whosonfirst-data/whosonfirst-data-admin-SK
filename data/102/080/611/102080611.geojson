@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087258,
-    "geom:area_square_m":703645504.428921,
+    "geom:area_square_m":703645504.428923,
     "geom:bbox":"20.4013385,49.151639,21.01563,49.4197195",
     "geom:latitude":49.295813,
     "geom:longitude":20.693151,
@@ -92,10 +92,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.PV.SL"
+        "hasc:id":"SK.PV.SL",
+        "qs:local_id":"41A"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"50ccbd8bc712277a33df38596e019fc9",
+    "wof:geomhash":"fed25632be84677bb654aa04ecd8295d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":102080611,
-    "wof:lastmodified":1566645371,
+    "wof:lastmodified":1695886352,
     "wof:name":"Star\u00e1 Lubovna",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

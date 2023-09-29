@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034775,
-    "geom:area_square_m":280644881.932976,
+    "geom:area_square_m":280644688.352353,
     "geom:bbox":"18.373404,49.114005,18.642165,49.365079",
     "geom:latitude":49.257145,
     "geom:longitude":18.523157,
@@ -65,10 +65,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.ZI.BY"
+        "hasc:id":"SK.ZI.BY",
+        "qs:local_id":"311"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"b7601c4469fbb4855cad752d2751eed4",
+    "wof:geomhash":"3df3e9efbbec80959ea2888b8532f697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":102080581,
-    "wof:lastmodified":1627522780,
+    "wof:lastmodified":1695886474,
     "wof:name":"Bytca",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

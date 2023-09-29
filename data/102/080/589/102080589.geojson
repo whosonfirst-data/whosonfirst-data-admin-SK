@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021477,
-    "geom:area_square_m":173132207.346151,
+    "geom:area_square_m":173132233.14679,
     "geom:bbox":"18.672851,49.247503,18.930911,49.388653",
     "geom:latitude":49.312802,
     "geom:longitude":18.801616,
@@ -193,10 +193,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.ZI.KM",
+        "qs:local_id":"314",
         "wd:id":"Q762646"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"677646d85aa1b7eaafd7d1095cecb20f",
+    "wof:geomhash":"9be9b8fdbabbed85a92cdb51e8df1261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":102080589,
-    "wof:lastmodified":1690865440,
+    "wof:lastmodified":1695886355,
     "wof:name":"Kysuck\u00e9 Nov\u00e9 Mesto",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035515,
-    "geom:area_square_m":291377892.619666,
+    "geom:area_square_m":291378032.117037,
     "geom:bbox":"18.750647,48.304981,19.015288,48.567344",
     "geom:latitude":48.432097,
     "geom:longitude":18.902406,
@@ -183,10 +183,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BC.BS",
+        "qs:local_id":"322",
         "wd:id":"Q836179"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"1f962c2876714275b0bd3a2638d36d38",
+    "wof:geomhash":"270738a07ee88c2bfedf77305f73e230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":102080491,
-    "wof:lastmodified":1690865438,
+    "wof:lastmodified":1695886354,
     "wof:name":"Bansk\u00e1 \u0160tiavnica",
     "wof:parent_id":85688355,
     "wof:placetype":"county",

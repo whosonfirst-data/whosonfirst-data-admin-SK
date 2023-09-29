@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083322,
-    "geom:area_square_m":680779630.328821,
+    "geom:area_square_m":680779598.50661,
     "geom:bbox":"16.93375,48.506586,17.533132,48.787849",
     "geom:latitude":48.641817,
     "geom:longitude":17.248697,
@@ -168,10 +168,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TA.SE",
+        "qs:local_id":"215",
         "wd:id":"Q842557"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"097d945360a7f6ee6daf816a82085a0d",
+    "wof:geomhash":"9cd295c34bbf579e02e59b2b47bd36cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":102080505,
-    "wof:lastmodified":1690865433,
+    "wof:lastmodified":1695886350,
     "wof:name":"Senica",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

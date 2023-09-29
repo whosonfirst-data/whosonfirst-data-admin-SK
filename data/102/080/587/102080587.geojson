@@ -155,10 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"SK.ZI.DK"
+        "hasc:id":"SK.ZI.DK",
+        "qs:local_id":"313"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"592597fdb690a94fdc1deede33c531ae",
+    "wof:geomhash":"fada4f4d26497767fa5b8f5d360cf332",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":102080587,
-    "wof:lastmodified":1566645375,
+    "wof:lastmodified":1695886355,
     "wof:name":"Doln\u00fd Kub\u00edn",
     "wof:parent_id":85688349,
     "wof:placetype":"county",

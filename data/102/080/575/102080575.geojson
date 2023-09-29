@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057118,
-    "geom:area_square_m":462079918.547567,
+    "geom:area_square_m":462079774.130507,
     "geom:bbox":"18.247344,48.95636,18.602798,49.319707",
     "geom:latitude":49.136953,
     "geom:longitude":18.438158,
@@ -190,10 +190,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TC.PB",
+        "qs:local_id":"226",
         "wd:id":"Q837891"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"d0a1a1d24535de0f3e211acdb9bbc932",
+    "wof:geomhash":"50f3d800a7dbcc261e4c3bb3ecd93d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":102080575,
-    "wof:lastmodified":1690865439,
+    "wof:lastmodified":1695886354,
     "wof:name":"Pova\u017esk\u00e1 Bystrica",
     "wof:parent_id":85688339,
     "wof:placetype":"county",

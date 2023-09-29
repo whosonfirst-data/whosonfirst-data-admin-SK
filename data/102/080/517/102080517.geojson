@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043876,
-    "geom:area_square_m":357559746.617121,
+    "geom:area_square_m":357559867.475288,
     "geom:bbox":"16.979816,48.670953,17.399425,48.878223",
     "geom:latitude":48.772609,
     "geom:longitude":17.190626,
@@ -171,10 +171,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.TA.SI",
+        "qs:local_id":"216",
         "wd:id":"Q837894"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"c2e3784736e5a2e6f3e5c785c8fe02de",
+    "wof:geomhash":"74e6d6f7f39aed500e016f07a4581286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":102080517,
-    "wof:lastmodified":1690865438,
+    "wof:lastmodified":1695886354,
     "wof:name":"Skalica",
     "wof:parent_id":85688369,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011172,
-    "geom:area_square_m":92209319.902569,
+    "geom:area_square_m":92209331.434981,
     "geom:bbox":"17.117379,48.053793,17.284549,48.191746",
     "geom:latitude":48.127944,
     "geom:longitude":17.193068,
@@ -221,10 +221,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.BL.B2",
+        "qs:local_id":"102",
         "wd:id":"Q539732"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"9f9b022a680f8d1e58ea23ecb4b4d1f9",
+    "wof:geomhash":"c2a0ede2b2d9b652a3b1b6a806e8695c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +239,7 @@
         }
     ],
     "wof:id":102080455,
-    "wof:lastmodified":1690865437,
+    "wof:lastmodified":1695886353,
     "wof:name":"Bratislava II",
     "wof:parent_id":85688373,
     "wof:placetype":"county",

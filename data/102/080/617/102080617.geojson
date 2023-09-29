@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05259,
-    "geom:area_square_m":424665374.262719,
+    "geom:area_square_m":424665536.195484,
     "geom:bbox":"21.785588,49.098857,22.107857,49.390255",
     "geom:latitude":49.228806,
     "geom:longitude":21.926618,
@@ -168,10 +168,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.PV.ML",
+        "qs:local_id":"415",
         "wd:id":"Q837884"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"a9071e3e9b464244c4a335de141f1706",
+    "wof:geomhash":"4f4c75008841d46dc2db972dcf89c973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":102080617,
-    "wof:lastmodified":1690865435,
+    "wof:lastmodified":1695886352,
     "wof:name":"Medzilaborce",
     "wof:parent_id":85688347,
     "wof:placetype":"county",

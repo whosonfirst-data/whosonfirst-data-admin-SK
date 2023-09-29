@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071455,
-    "geom:area_square_m":581802828.657645,
+    "geom:area_square_m":581802550.354308,
     "geom:bbox":"20.529624,48.667424,21.073327,48.964691",
     "geom:latitude":48.815855,
     "geom:longitude":20.803822,
@@ -180,10 +180,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"SK.KI.GL",
+        "qs:local_id":"421",
         "wd:id":"Q220968"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"cda5e2a8040e8d4c7583fe3a93c3bc8d",
+    "wof:geomhash":"0698d52cf5f4526a38c06aed9836e7f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +198,7 @@
         }
     ],
     "wof:id":102080559,
-    "wof:lastmodified":1690865433,
+    "wof:lastmodified":1695886351,
     "wof:name":"Gelnica",
     "wof:parent_id":85688359,
     "wof:placetype":"county",

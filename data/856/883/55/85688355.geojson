@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"3",
     "geom:area":1.150852,
-    "geom:area_square_m":9426432107.405907,
+    "geom:area_square_m":9426431894.661898,
     "geom:bbox":"18.478677,48.053829,20.46982,48.947247",
     "geom:latitude":48.515732,
     "geom:longitude":19.503936,
@@ -385,12 +385,18 @@
         "gn:id":3343954,
         "gp:id":20070495,
         "hasc:id":"SK.BC",
+        "iso:code":"SK-BC",
         "iso:id":"SK-BC",
+        "qs:local_id":"32",
         "unlc:id":"SK-BC",
         "wd:id":"Q183640"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SK",
-    "wof:geomhash":"4a8faca1135411c21143d7c1f4e4a723",
+    "wof:geomhash":"37a5401ac179266a15b7596cef270f32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -405,7 +411,7 @@
     "wof:lang_x_spoken":[
         "slk"
     ],
-    "wof:lastmodified":1690865457,
+    "wof:lastmodified":1695885321,
     "wof:name":"Banskobystrick\u00fd kraj",
     "wof:parent_id":85633769,
     "wof:placetype":"region",
