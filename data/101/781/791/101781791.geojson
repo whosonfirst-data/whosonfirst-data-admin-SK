@@ -9,7 +9,21 @@
     "geom:bbox":"22.046465,48.604345,22.07969,48.630158",
     "geom:latitude":48.616976,
     "geom:longitude":22.064059,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pavlovce nad Uhom",
+    "gn:country_code":"SK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723915,
+    "gn:latitude":48.61092,
+    "gn:longitude":22.06902,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pavlovce nad Uhom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"22.04902,48.59092,22.08902,48.63092",
     "lbl:latitude":48.614189,
     "lbl:longitude":22.065443,
     "lbl:max_zoom":18.0,
@@ -134,7 +148,15 @@
         "wk:page":"Pavlovce nad Uhom"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1181750
+        "gn:id":[
+            723915
+        ],
+        "qs_pg:id":[
+            1181750
+        ],
+        "wk:page":[
+            "Pavlovce_nad_Uhom"
+        ]
     },
     "wof:country":"SK",
     "wof:geom_alt":[
@@ -151,13 +173,15 @@
         }
     ],
     "wof:id":101781791,
-    "wof:lastmodified":1690865599,
+    "wof:lastmodified":1706240663,
     "wof:name":"Pavlovce nad Uhom",
     "wof:parent_id":102080563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242789257
+    ],
     "wof:tags":[]
 },
   "bbox": [
