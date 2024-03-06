@@ -9,8 +9,11 @@
     "geom:bbox":"18.46941,47.735796,18.519555,47.769258",
     "geom:latitude":47.753371,
     "geom:longitude":18.490553,
+    "gn:country":"HU",
+    "gn:fcode":"PPL",
     "gn:population":5357,
     "iso:country":"SK",
+    "lbl:bbox":"18.47623,47.72735,18.51623,47.76735",
     "lbl:latitude":47.75866,
     "lbl:longitude":18.479761,
     "lbl:max_zoom":15.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "L\u00e1batlan"
     ],
@@ -90,6 +94,9 @@
     "name:swe_x_preferred":[
         "L\u00e1batlan"
     ],
+    "name:und_x_variant":[
+        "Piszke"
+    ],
     "name:vie_x_preferred":[
         "L\u00e1batlan"
     ],
@@ -109,11 +116,35 @@
     "qs:pop":0,
     "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3049036,
+    "qs_pg:gn_pop":5357,
+    "qs_pg:name":"L\u00e1batlan",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Kom\u00e1rom-Esztergom",
+    "qs_pg:photos":420,
+    "qs_pg:photos_1k":85,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":420,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":145174,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":810849,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":12,
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Kom\u00e1rom-Esztergom",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         85633769,
@@ -128,6 +159,17 @@
         "qs_pg:id":145174,
         "wd:id":"Q934949",
         "wk:page":"L\u00e1batlan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3049036
+        ],
+        "gp:id":[
+            810849
+        ],
+        "qs_pg:id":[
+            145174
+        ]
     },
     "wof:country":"SK",
     "wof:geomhash":"0258cfff545fbb1b0b49c8cd53021343",
@@ -144,7 +186,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1690865520,
+    "wof:lastmodified":1706240664,
     "wof:name":"L\u00e1batlan",
     "wof:parent_id":102080447,
     "wof:placetype":"locality",
@@ -152,7 +194,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126029637
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,21 @@
     "geom:bbox":"18.005049,48.356208,18.026301,48.377663",
     "geom:latitude":48.366212,
     "geom:longitude":18.014966,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zbehy",
+    "gn:country_code":"SK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056563,
+    "gn:latitude":48.36558,
+    "gn:longitude":18.01814,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zbehy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bratislava",
     "iso:country":"SK",
+    "lbl:bbox":"17.99814,48.34558,18.03814,48.38558",
     "lbl:latitude":48.369611,
     "lbl:longitude":18.012471,
     "lbl:max_zoom":18.0,
@@ -137,7 +151,15 @@
         "wk:page":"Zbehy"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1182482
+        "gn:id":[
+            3056563
+        ],
+        "qs_pg:id":[
+            1182482
+        ],
+        "wk:page":[
+            "Zbehy"
+        ]
     },
     "wof:country":"SK",
     "wof:geom_alt":[
@@ -154,13 +176,15 @@
         }
     ],
     "wof:id":101754897,
-    "wof:lastmodified":1690865465,
+    "wof:lastmodified":1706240663,
     "wof:name":"Zbehy",
     "wof:parent_id":102080473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226646443
+    ],
     "wof:tags":[]
 },
   "bbox": [
